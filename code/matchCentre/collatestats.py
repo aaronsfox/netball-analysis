@@ -24,7 +24,10 @@ from glob import glob
 
 # %% Function to get seasonal stats
 
-def getSeasonStats(baseDir = None, years = 'all', fileStem = None):
+def getSeasonStats(baseDir = None,
+                   years = 'all',
+                   fileStem = None,
+                   matchOptions = 'all'):
 
     """
     Function gets the desired years of relevant stats and compiles into dictionary
@@ -33,6 +36,7 @@ def getSeasonStats(baseDir = None, years = 'all', fileStem = None):
         > baseDir - the directory folder that stores all the processed data folders in (str). No trailling slashes at end.
         > years - the desired years to collate into dictionary. Defaults to 'all' if note provided (list of int)
         > fileStem - the file type name to grab (e.g. 'teamStats') [***TODO: ADD OPTIONS***]
+        > matchOptions - list of available types (i.e. 'regular', 'final', 'preseason') [***TODO: NEED TO FIX PRESEASON TYPO***]
         
     Outputs:
         > data - dictionary with nested dataframes of data year to year
@@ -55,6 +59,9 @@ def getSeasonStats(baseDir = None, years = 'all', fileStem = None):
         os.chdir(baseDir)
     except:
         raise ValueError('The base directory provided does not appear to exist.')
+        
+    #Return back to home directory
+    os.chdir(homeDir)
     
     #Set a dictionary to identify regular, finals and TGC competition Id's
     compIdCheck = {'regular': [8005, 8012, 8018, 8028, 8035, 9084, 9563, 9818, 
@@ -139,8 +146,14 @@ def getSeasonStats(baseDir = None, years = 'all', fileStem = None):
         data[year]['gameNo'] = gameNo
         data[year]['compType'] = compType
         
-    #Return to home directory
-    os.chdir(homeDir)
+        #Select match types
+        if matchOptions != 'all':
+            
+            #Grab the requested match types from list
+            data[year] = data[year].loc[data[year]['matchType'].isin(matchOptions), ]
+        
+    # #Return to home directory
+    # os.chdir(homeDir)
     
     #Return the extracted data from function
     return data
