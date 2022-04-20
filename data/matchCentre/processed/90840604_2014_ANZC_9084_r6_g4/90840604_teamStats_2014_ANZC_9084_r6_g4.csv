@@ -1,0 +1,3 @@
+matchId,squadId,badHands,badPasses,blocked,blocks,breaks,centrePassReceives,contactPenalties,defensiveRebounds,deflections,feeds,gain,goalAssists,goalAttempts,goalMisses,goals,intercepts,missedGoalTurnover,obstructionPenalties,offensiveRebounds,offsides,penalties,pickups,rebounds,tossUpWin,turnovers,possessions,pacePer60,offensiveRating,defensiveRating,netRating
+90840604,804,5,3,0,0,0,42,57,1,16,62,8,33,60,10,50,7,0,21,3,2,78,11,4,0,23,80,71.19901112484548,62.5,55.072463768115945,7.427536231884055
+90840604,807,7,10,0,0,0,44,59,6,21,63,14,18,48,10,38,5,0,14,6,3,73,10,12,0,27,69,61.40914709517923,55.072463768115945,62.5,-7.427536231884055
