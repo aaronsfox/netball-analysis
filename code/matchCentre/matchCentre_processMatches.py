@@ -12,6 +12,8 @@
     
     *** TODO: fix 'preseasom' labelling issue ***
     
+    *** TODO: can probably map possessions a little better with possession changes etc. ***
+    
 """
 
 # %% Import packages
