@@ -124,7 +124,7 @@ def getSeasonStats(baseDir = None,
             elif compId in compIdCheck['final']:
                 matchType.append('final')
             elif compId in compIdCheck['preseason']:
-                matchType.append('preseasom')
+                matchType.append('preseason')
             else:
                 raise ValueError('Unable to identify competition Id and type in file.')
                 

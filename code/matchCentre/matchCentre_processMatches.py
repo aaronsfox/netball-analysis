@@ -9,9 +9,7 @@
     
     Script collates data from the .json netball match centre files into separated
     and more easy-to-use file formats.
-    
-    *** TODO: fix 'preseasom' labelling issue ***
-    
+        
     *** TODO: can probably map possessions a little better with possession changes etc. ***
     
 """
@@ -361,6 +359,7 @@ for jsonFile in jsonFileList:
                     'playerId': [],
                     'period': [],
                     'periodSeconds': [],
+                    'distanceCode': [],
                     'positionCode': [],
                     'scoreName': [],
                     'scorePoints': [],
@@ -373,6 +372,7 @@ for jsonFile in jsonFileList:
                     scoreFlowData['playerId'].append(data['scoreFlow']['score'][scoreFlowInd]['playerId'][0])
                     scoreFlowData['period'].append(data['scoreFlow']['score'][scoreFlowInd]['period'][0])
                     scoreFlowData['periodSeconds'].append(data['scoreFlow']['score'][scoreFlowInd]['periodSeconds'][0])
+                    scoreFlowData['distanceCode'].append(data['scoreFlow']['score'][scoreFlowInd]['distanceCode'][0])
                     scoreFlowData['positionCode'].append(data['scoreFlow']['score'][scoreFlowInd]['positionCode'][0])
                     scoreFlowData['scoreName'].append(data['scoreFlow']['score'][scoreFlowInd]['scoreName'][0])
                     scoreFlowData['scorePoints'].append(data['scoreFlow']['score'][scoreFlowInd]['scorepoints'][0])
