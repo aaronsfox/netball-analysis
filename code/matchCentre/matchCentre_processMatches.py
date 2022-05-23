@@ -126,7 +126,11 @@ for jsonFile in jsonFileList:
                         squadData['squadCode'].append(data['teamInfo']['team'][squadInd]['squadCode'][0])
                         squadData['squadName'].append(data['teamInfo']['team'][squadInd]['squadName'][0])
                         squadData['squadNickname'].append(data['teamInfo']['team'][squadInd]['squadNickname'][0])    
-                       
+                
+                #Extract squad Id from the match for later checking
+                squadIdCheck = [data['teamInfo']['team'][0]['squadId'][0],
+                                data['teamInfo']['team'][1]['squadId'][0]]
+                
                 # %% Extract match info data
                 
                 #Put match info in dictionary
@@ -212,8 +216,17 @@ for jsonFile in jsonFileList:
                 #Convert to dataframe
                 teamPeriodStatsLong_df = pd.DataFrame.from_dict(teamPeriodStatsLong)
                 
+                #Add opposition squad Id
+                oppSquadId = []
+                for squadId in teamPeriodStatsLong_df['squadId']:
+                    if squadId == squadIdCheck[0]:
+                        oppSquadId.append(squadIdCheck[1])
+                    else:
+                        oppSquadId.append(squadIdCheck[0])
+                teamPeriodStatsLong_df['oppSquadId'] = oppSquadId
+                
                 #Convert to wide dataframe
-                teamPeriodStatsWide_df = teamPeriodStatsLong_df.pivot(index = ['matchId', 'squadId', 'period'],
+                teamPeriodStatsWide_df = teamPeriodStatsLong_df.pivot(index = ['matchId', 'squadId', 'oppSquadId', 'period'],
                                                                       columns = 'statistic',
                                                                       values = 'value').reset_index(drop = False)
                 
@@ -299,8 +312,17 @@ for jsonFile in jsonFileList:
                 #Convert to dataframe
                 teamStatsLong_df = pd.DataFrame.from_dict(teamStatsLong)
                 
+                #Add opposition squad Id
+                oppSquadId = []
+                for squadId in teamStatsLong_df['squadId']:
+                    if squadId == squadIdCheck[0]:
+                        oppSquadId.append(squadIdCheck[1])
+                    else:
+                        oppSquadId.append(squadIdCheck[0])
+                teamStatsLong_df['oppSquadId'] = oppSquadId
+                
                 #Convert to wide dataframe
-                teamStatsWide_df = teamStatsLong_df.pivot(index = ['matchId', 'squadId'],
+                teamStatsWide_df = teamStatsLong_df.pivot(index = ['matchId', 'squadId', 'oppSquadId'],
                                                           columns = 'statistic',
                                                           values = 'value').reset_index(drop = False)
                 
@@ -419,6 +441,15 @@ for jsonFile in jsonFileList:
                 
                 #Calculate score differential (relative to home team)
                 scoreFlowData_df['scoreDifferential'] = scoreFlowData_df['homeSquadScore'] - scoreFlowData_df['awaySquadScore']
+                
+                #Add opposition squad Id
+                oppSquadId = []
+                for squadId in scoreFlowData_df['squadId']:
+                    if squadId == squadIdCheck[0]:
+                        oppSquadId.append(squadIdCheck[1])
+                    else:
+                        oppSquadId.append(squadIdCheck[0])
+                scoreFlowData_df['oppSquadId'] = oppSquadId
                 
                 #Export scoreflow data to file
                 scoreFlowData_df.to_csv(matchFileDir+str(quickMatchId)+'_'+'scoreFlow_'+jsonFile.split('.')[0]+'.csv', index = False)
@@ -617,7 +648,27 @@ for jsonFile in jsonFileList:
                         
                 #Convert to dataframe
                 minutesPlayedData_df = pd.DataFrame.from_dict(minutesPlayedData)
-                    
+                
+                #Add opposition squad Id
+                #Substitutions dataframe
+                oppSquadId = []
+                for squadId in substitutionsData_df['squadId']:
+                    if squadId == squadIdCheck[0]:
+                        oppSquadId.append(squadIdCheck[1])
+                    else:
+                        oppSquadId.append(squadIdCheck[0])
+                substitutionsData_df['oppSquadId'] = oppSquadId
+                
+                #Add opposition squad Id
+                #Minutes played dataframe
+                oppSquadId = []
+                for squadId in minutesPlayedData_df['squadId']:
+                    if squadId == squadIdCheck[0]:
+                        oppSquadId.append(squadIdCheck[1])
+                    else:
+                        oppSquadId.append(squadIdCheck[0])
+                minutesPlayedData_df['oppSquadId'] = oppSquadId
+                
                 #Export substitutions and minutes data to file
                 substitutionsData_df.to_csv(matchFileDir+str(quickMatchId)+'_'+'substitutions_'+jsonFile.split('.')[0]+'.csv', index = False)
                 minutesPlayedData_df.to_csv(matchFileDir+str(quickMatchId)+'_'+'minutesPlayed_'+jsonFile.split('.')[0]+'.csv', index = False)
@@ -814,6 +865,15 @@ for jsonFile in jsonFileList:
                 #Calculate plus minus per 60 minutes
                 lineUpData_df['plusMinusPer60'] = lineUpData_df['plusMinus'] * (60 / (lineUpData_df['duration'] / 60))
                 
+                #Add opposition squad Id
+                oppSquadId = []
+                for squadId in lineUpData_df['squadId']:
+                    if squadId == squadIdCheck[0]:
+                        oppSquadId.append(squadIdCheck[1])
+                    else:
+                        oppSquadId.append(squadIdCheck[0])
+                lineUpData_df['oppSquadId'] = oppSquadId
+                
                 #Export line-up data to file
                 lineUpData_df.to_csv(matchFileDir+str(quickMatchId)+'_'+'lineUps_'+jsonFile.split('.')[0]+'.csv', index = False)
                 
@@ -847,8 +907,17 @@ for jsonFile in jsonFileList:
                 #Convert to dataframe
                 playerPeriodStatsLong_df = pd.DataFrame.from_dict(playerPeriodStatsLong)
                 
+                #Add opposition squad Id
+                oppSquadId = []
+                for squadId in playerPeriodStatsLong_df['squadId']:
+                    if squadId == squadIdCheck[0]:
+                        oppSquadId.append(squadIdCheck[1])
+                    else:
+                        oppSquadId.append(squadIdCheck[0])
+                playerPeriodStatsLong_df['oppSquadId'] = oppSquadId
+                
                 #Convert to wide dataframe
-                playerPeriodStatsWide_df = playerPeriodStatsLong_df.pivot(index = ['matchId', 'squadId', 'playerId', 'period'],
+                playerPeriodStatsWide_df = playerPeriodStatsLong_df.pivot(index = ['matchId', 'squadId', 'oppSquadId', 'playerId', 'period'],
                                                                           columns = 'statistic',
                                                                           values = 'value').reset_index()
                 
@@ -891,8 +960,17 @@ for jsonFile in jsonFileList:
                 #Convert to dataframe
                 playerStatsLong_df = pd.DataFrame.from_dict(playerStatsLong)
                 
+                #Add opposition squad Id
+                oppSquadId = []
+                for squadId in playerStatsLong_df['squadId']:
+                    if squadId == squadIdCheck[0]:
+                        oppSquadId.append(squadIdCheck[1])
+                    else:
+                        oppSquadId.append(squadIdCheck[0])
+                playerStatsLong_df['oppSquadId'] = oppSquadId
+                
                 #Convert to wide dataframe
-                playerStatsWide_df = playerStatsLong_df.pivot(index = ['matchId', 'squadId', 'playerId'],
+                playerStatsWide_df = playerStatsLong_df.pivot(index = ['matchId', 'squadId', 'oppSquadId', 'playerId'],
                                                               columns = 'statistic',
                                                               values = 'value').reset_index()
                 
