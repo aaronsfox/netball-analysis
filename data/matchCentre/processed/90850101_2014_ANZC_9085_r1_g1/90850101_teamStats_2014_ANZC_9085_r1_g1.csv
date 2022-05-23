@@ -1,3 +1,3 @@
-matchId,squadId,badHands,badPasses,blocked,blocks,breaks,centrePassReceives,contactPenalties,defensiveRebounds,deflections,feeds,gain,goalAssists,goalAttempts,goalMisses,goals,intercepts,missedGoalTurnover,obstructionPenalties,offensiveRebounds,offsides,penalties,pickups,rebounds,tossUpWin,turnovers,possessions,pacePer60,offensiveRating,defensiveRating,netRating
-90850101,806,7,2,0,0,0,45,56,1,11,54,16,31,56,7,49,9,0,16,1,6,72,7,2,0,20,75,74.91675915649279,65.33333333333333,78.125,-12.791666666666671
-90850101,809,1,2,0,0,0,46,44,4,7,50,7,29,61,11,50,0,0,16,4,4,60,6,8,0,7,64,63.92896781354051,78.125,65.33333333333333,12.791666666666671
+matchId,squadId,oppSquadId,badHands,badPasses,blocked,blocks,breaks,centrePassReceives,contactPenalties,defensiveRebounds,deflections,feeds,gain,goalAssists,goalAttempts,goalMisses,goals,intercepts,missedGoalTurnover,obstructionPenalties,offensiveRebounds,offsides,penalties,pickups,rebounds,tossUpWin,turnovers,possessions,pacePer60,offensiveRating,defensiveRating,netRating
+90850101,806,809,7,2,0,0,0,45,56,1,11,54,16,31,56,7,49,9,0,16,1,6,72,7,2,0,20,75,74.91675915649279,65.33333333333333,78.125,-12.791666666666671
+90850101,809,806,1,2,0,0,0,46,44,4,7,50,7,29,61,11,50,0,0,16,4,4,60,6,8,0,7,64,63.92896781354051,78.125,65.33333333333333,12.791666666666671
