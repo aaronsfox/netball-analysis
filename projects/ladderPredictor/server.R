@@ -8,15 +8,16 @@ function(input, output) {
   
   #Create dataframe with starting ladder
   #Columns for dataframe
-  Team <- c("Thunderbirds", "Magpies", "GIANTS", "Vixens", "Swifts", "Firebirds", "Lightning", "Fever")
-  P <- c(0,0,0,0,0,0,0,0)
-  W <- c(0,0,0,0,0,0,0,0)
+  Team <- c("Vixens", "Fever", "GIANTS", "Firebirds",
+            "Thunderbirds", "Swifts", "Magpies", "Lightning")
+  P <- c(12,12,12,12,12,12,12,12)
+  W <- c(10,8,6,5,5,5,5,4)
   D <- c(0,0,0,0,0,0,0,0)
-  L <- c(0,0,0,0,0,0,0,0)
-  GF <- c(0,0,0,0,0,0,0,0)
-  GA <- c(0,0,0,0,0,0,0,0)
-  Pts <- c(0,0,0,0,0,0,0,0)
-  Per <- c(0,0,0,0,0,0,0,0)
+  L <- c(2,4,6,7,7,7,7,8)
+  GF <- c(758,870,754,799,620,681,758,738)
+  GA <- c(723,796,749,792,628,704,784,802)
+  Pts <- c(40,32,24,20,20,20,20,16)
+  Per <- c(104.84,109.30,100.67,100.88,98.73,96.73,96.68,92.02)
   #Construct the dataframe
   ladderData <- data.frame(Team, P, W, D, L, GF, GA, Pts, Per)
   
@@ -34,46 +35,47 @@ function(input, output) {
   gameLabels <- c("G1", "G2", "G3", "G4")
   
   #Set list for remaining rounds
-  roundLabels <- c("R1", "R2", "R3", "R4", "R5", "R6", "R7", "R8", "R9", "R10", "R11", "R12", "R13", "R14")
+  # roundLabels <- c("R1", "R2", "R3", "R4", "R5", "R6", "R7", "R8", "R9", "R10", "R11", "R12", "R13", "R14")
+  roundLabels <- c("R13", "R14")
   
   #Set list for games within round
   matchUpLabels <- list(
     
-    #Round 1
-    list(c("Thunderbirds", "Magpies"), c("Swifts", "GIANTS"), c("Firebirds", "Vixens"), c("Fever", "Lightning")),
-	
-	#Round 2
-    list(c("Swifts", "Vixens"), c("Lightning", "Firebirds"), c("Magpies", "Fever"), c("Thunderbirds", "GIANTS")),
-	
-	#Round 3
-    list(c("Vixens", "GIANTS"), c("Swifts", "Magpies"), c("Firebirds", "Fever"), c("Thunderbirds", "Lightning")),
-	
-	#Round 4
-    list(c("Vixens", "Fever"), c("GIANTS", "Firebirds"), c("Magpies", "Lightning"), c("Thunderbirds", "Swifts")),
-	
-	#Round 5
-    list(c("Lightning", "Vixens"), c("GIANTS", "Magpies"), c("Fever", "Swifts"), c("Firebirds", "Thunderbirds")),
-	
-	#Round 6
-    list(c("Swifts", "Lightning"), c("Vixens", "Thunderbirds"), c("Firebirds", "Magpies"), c("GIANTS", "Fever")),
-	
-	#Round 7
-    list(c("Firebirds", "Swifts"), c("Thunderbirds", "Fever"), c("Lightning", "GIANTS"), c("Vixens", "Magpies")),
-	
-	#Round 8
-    list(c("Vixens", "Firebirds"), c("Lightning", "Thunderbirds"), c("Fever", "Magpies"), c("GIANTS", "Swifts")),
-	
-	#Round 9
-    list(c("Lightning", "Fever"), c("GIANTS", "Vixens"), c("Magpies", "Firebirds"), c("Swifts", "Thunderbirds")),
-	
-	#Round 10
-    list(c("Lightning", "Swifts"), c("Fever", "Vixens"), c("Magpies", "GIANTS"), c("Thunderbirds", "Firebirds")),
-    
-    #Round 11
-    list(c("Firebirds", "Lightning"), c("Vixens", "Swifts"), c("Fever", "GIANTS"), c("Magpies", "Thunderbirds")),
-    
-    #Round 12
-    list(c("Magpies", "Swifts"), c("Fever", "Firebirds"), c("Vixens", "Lightning"), c("GIANTS", "Thunderbirds")),
+#     #Round 1
+#     list(c("Thunderbirds", "Magpies"), c("Swifts", "GIANTS"), c("Firebirds", "Vixens"), c("Fever", "Lightning")),
+# 	
+# 	#Round 2
+#     list(c("Swifts", "Vixens"), c("Lightning", "Firebirds"), c("Magpies", "Fever"), c("Thunderbirds", "GIANTS")),
+# 	
+# 	#Round 3
+#     list(c("Vixens", "GIANTS"), c("Swifts", "Magpies"), c("Firebirds", "Fever"), c("Thunderbirds", "Lightning")),
+# 	
+# 	#Round 4
+#     list(c("Vixens", "Fever"), c("GIANTS", "Firebirds"), c("Magpies", "Lightning"), c("Thunderbirds", "Swifts")),
+# 	
+# 	#Round 5
+#     list(c("Lightning", "Vixens"), c("GIANTS", "Magpies"), c("Fever", "Swifts"), c("Firebirds", "Thunderbirds")),
+# 	
+# 	#Round 6
+#     list(c("Swifts", "Lightning"), c("Vixens", "Thunderbirds"), c("Firebirds", "Magpies"), c("GIANTS", "Fever")),
+# 	
+# 	#Round 7
+#     list(c("Firebirds", "Swifts"), c("Thunderbirds", "Fever"), c("Lightning", "GIANTS"), c("Vixens", "Magpies")),
+# 	
+# 	#Round 8
+#     list(c("Vixens", "Firebirds"), c("Lightning", "Thunderbirds"), c("Fever", "Magpies"), c("GIANTS", "Swifts")),
+# 	
+# 	#Round 9
+#     list(c("Lightning", "Fever"), c("GIANTS", "Vixens"), c("Magpies", "Firebirds"), c("Swifts", "Thunderbirds")),
+# 	
+# 	#Round 10
+#     list(c("Lightning", "Swifts"), c("Fever", "Vixens"), c("Magpies", "GIANTS"), c("Thunderbirds", "Firebirds")),
+#     
+#     #Round 11
+#     list(c("Firebirds", "Lightning"), c("Vixens", "Swifts"), c("Fever", "GIANTS"), c("Magpies", "Thunderbirds")),
+    # 
+    # #Round 12
+    # list(c("Magpies", "Swifts"), c("Fever", "Firebirds"), c("Vixens", "Lightning"), c("GIANTS", "Thunderbirds")),
     
     #Round 13
     list(c("Firebirds", "GIANTS"), c("Thunderbirds", "Vixens"), c("Swifts", "Fever"), c("Lightning", "Magpies")),
