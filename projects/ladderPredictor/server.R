@@ -8,16 +8,16 @@ function(input, output) {
   
   #Create dataframe with starting ladder
   #Columns for dataframe
-  Team <- c("Vixens", "Fever", "GIANTS", "Firebirds",
-            "Thunderbirds", "Swifts", "Magpies", "Lightning")
-  P <- c(12,12,12,12,12,12,12,12)
-  W <- c(10,8,6,5,5,5,5,4)
+  Team <- c("Vixens", "Fever", "GIANTS", "Magpies",
+            "Firebirds", "Thunderbirds", "Swifts", "Lightning")
+  P <- c(13,13,13,13,13,13,13,13)
+  W <- c(11,9,7,6,5,5,5,4)
   D <- c(0,0,0,0,0,0,0,0)
-  L <- c(2,4,6,7,7,7,7,8)
-  GF <- c(758,870,754,799,620,681,758,738)
-  GA <- c(723,796,749,792,628,704,784,802)
-  Pts <- c(40,32,24,20,20,20,20,16)
-  Per <- c(104.84,109.30,100.67,100.88,98.73,96.73,96.68,92.02)
+  L <- c(2,4,6,7,8,8,8,9)
+  GF <- c(809,943,827,826,871,667,753,800)
+  GA <- c(770,868,821,846,865,679,777,870)
+  Pts <- c(44,36,28,24,20,20,20,16)
+  Per <- c(105.06,108.64,100.73,97.64,100.69,98.23,96.91,91.95)
   #Construct the dataframe
   ladderData <- data.frame(Team, P, W, D, L, GF, GA, Pts, Per)
   
@@ -36,7 +36,7 @@ function(input, output) {
   
   #Set list for remaining rounds
   # roundLabels <- c("R1", "R2", "R3", "R4", "R5", "R6", "R7", "R8", "R9", "R10", "R11", "R12", "R13", "R14")
-  roundLabels <- c("R13", "R14")
+  roundLabels <- c("R14")
   
   #Set list for games within round
   matchUpLabels <- list(
@@ -76,9 +76,9 @@ function(input, output) {
     # 
     # #Round 12
     # list(c("Magpies", "Swifts"), c("Fever", "Firebirds"), c("Vixens", "Lightning"), c("GIANTS", "Thunderbirds")),
-    
-    #Round 13
-    list(c("Firebirds", "GIANTS"), c("Thunderbirds", "Vixens"), c("Swifts", "Fever"), c("Lightning", "Magpies")),
+    # 
+    # #Round 13
+    # list(c("Firebirds", "GIANTS"), c("Thunderbirds", "Vixens"), c("Swifts", "Fever"), c("Lightning", "Magpies")),
     
     #Round 14
     list(c("GIANTS", "Lightning"), c("Fever", "Thunderbirds"), c("Swifts", "Firebirds"), c("Magpies", "Vixens"))
