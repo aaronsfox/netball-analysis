@@ -215,6 +215,187 @@ fortyPlusFeeds_df = pd.DataFrame.from_dict(fortyPlusFeeds)
 #Liz Watson has 9 40+ feed games this year - more than anyone else in comp
 #playerId 80439 has 8, next most has 4
 
+# %% Thunderbirds match-up: Key numbers that jumped out
+
+#Penalties over match:
+    #24-8 penalty count by Vixens in first quarter
+    #By the end of the game the Thunderbirds led the penalty count 64-60
+#Gains and deflections:
+    #Somewhat dominanted by Thunderbirds - 17 gains + 14 deflections with no gain
+    #Still 13 gains for the Vixens which isn't a bad total
+#Thunderbirds will rue missed opportunities
+    #Tbirds gain to goal % of 65% - Vixens at 69%
+    #Tbirds TO to goal % of 50% - Vixens at 73%
+    #Tbirds missed shot conversion % at 0% - Vixens at 44%
+
+
+# %% Gains and turnovers to scoring
+
+#From Vixens team stats
+    #Ball bounced around a lot - the 27 possession changes by Vixens equals their highest for the season
+    #Equalled their round 7 total for the loss to the Magpies
+    
+#Get Thunderbirds stats
+tbirdsTeamStats_2022 = teamStats_2022.loc[teamStats_2022['squadId'] == squadNameDict['Thunderbirds'],]
+
+#Despite the Vixens equalling their season high - the Tbirds still had more total possession losses at 28
+#This is actually right around the Tbirds average for this stat at ~29
+#They've actually had games with 30+ and even 40 possession changes/losses this year
+
+#Average out team stats
+avgTeamStats_2022 = teamStats_2022.groupby('squadId').mean().reset_index(drop = False)
+avgTeamStats_2022['squadId'].replace(squadDict, inplace = True)
+
+#Tbirds avg. gain to goal % is ~63% - 4th in league; Vixens is ~72% - no. 1 in league
+#Tbirds TO to goal % is ~59% second worse in league
+#Weren't far off their season averages - so the issues that plagued them in converting to scores this game are common
+
+# %% Getting the ball into the circle
+
+#Huge games from Shamera Sterling and Latanya Wilson
+    #Sterling - 8 gains with only 7 penalties (0.875 ratio)
+    #Wilson - 6 gains with only 9 penalties (1.5 ratio)
+
+#Review Vixens stats for pace:
+    #This match was the 2nd lowest pace for the Vixens at 83 possession per 60 mins
+    #Indicative of the difficulty it took getting the ball into the circle
+    
+#Review feeding player stats
+
+#Watson
+watsonId = 994224
+
+#Get Watson player stats
+watsonPlayerStats_2022 = playerStats_2022.loc[playerStats_2022['playerId'] == watsonId,]
+
+#Review feeds with attempt to feeds ratio
+watsonPlayerStats_2022['feedWithAttempt'] / watsonPlayerStats_2022['feeds']
+
+#Last two weeks ease of connection between Watson and circle shooters
+    #85% and 80% of her feeds have resulted in a shot attempt
+#Against Tbirds this was down to 65%
+    #Indicative of even when the ball was getting in there the shooters didn't feel in the best spot
+    
+# %% Review Liv Lewis game
+
+#Reviewed line-up spreadsheets
+    #Thunderbirds were starting to get on top on the scoreboard early in the 3rd quarter
+        #Vixens -3 in the first few minutes
+    #Liv Lewis injection at GK seemed to stem this flow
+
+#Review player period stats spreadsheet
+    #3 gains over the third quarter and start of 4th quarter
+    #Only giving up 4 penalties over this period
+    
+# %% Last quarter scoring
+
+#Was this the worst scoring performance ever?
+
+#Read in period stats data
+teamPeriodStats = collatestats.getSeasonStats(baseDir = baseDir,
+                                              fileStem = 'teamPeriodStats',
+                                              matchOptions = ['regular','final'])
+
+#Review scoring data over years
+for year in list(teamPeriodStats.keys()):
+    #Loop through scores and check for 5 or less
+    for goalsScored in enumerate(teamPeriodStats[year]['goals']):
+        #Extract goals for iteration
+        if year < 2020:
+            goals = goalsScored[1]
+        else:
+            goals = teamPeriodStats[year]['points'][goalsScored[0]]
+        #Review goals scored
+        if goals <= 5:
+            #Extract details
+            squadId = teamPeriodStats[year]['squadId'][goalsScored[0]]
+            oppSquadId = teamPeriodStats[year]['oppSquadId'][goalsScored[0]]
+            roundNo = teamPeriodStats[year]['roundNo'][goalsScored[0]]
+            quarterNo = teamPeriodStats[year]['period'][goalsScored[0]]
+            #Print out details - check for extra time period
+            if quarterNo <= 4:
+                print(f'{goals} total goals scored by {squadId} against {oppSquadId} in quarter {quarterNo} of round {roundNo} in {year}.')
+
+#As acknowledge by Michael Hutchinson already on Twitter
+    #The last time a 5 goal quarter happened in Super Netball was 2017
+        #Firebirds and Thunderbirds each had a 5 goal quarter
+#This match and the Tbirds on the weekend are the only matches in Super Netball history with 5 goal quarters
+#Has never happened since Super Shot was introduced
+#This did seem to happen more often in the early years of the ANZC though
+
+# %% Fan question
+
+#Has any team has had 17 gains in a match and still lost?
+
+#Read in team stats data
+teamStats = collatestats.getSeasonStats(baseDir = baseDir,
+                                        fileStem = 'teamStats',
+                                        matchOptions = ['regular','final'])
+
+#Set spot to store outputs
+highGainsOutcomes = {'year': [], 'matchId':[],
+                     'squadId': [], 'oppSquadId': [],
+                     'score': [], 'oppScore': [],
+                     'nGains': []}
+
+#Create a game counter
+nTotalGames = 0
+
+#Look into gain stats from 2010 onwards when recorded
+for year in np.linspace(2010, 2022, 13, dtype = int):
+    #Loop through matches from the year
+    for gains in enumerate(teamStats[year]['gain']):
+        #Check if meeting gains threshold
+        if gains[1] >= 17:
+            #Add to games counter
+            nTotalGames += 1 
+            #Get match details
+            nGains = gains[1]
+            squadId = teamStats[year]['squadId'][gains[0]]
+            oppSquadId = teamStats[year]['oppSquadId'][gains[0]]
+            matchId = teamStats[year]['matchId'][gains[0]]
+            #Get score details
+            if year < 2020:
+                score = teamStats[year]['goals'][gains[0]]
+                oppScore = teamStats[year].loc[(teamStats[year]['matchId'] == matchId) &
+                                               (teamStats[year]['squadId'] != squadId),
+                                               ]['goals'].values[0]
+            else:
+                score = teamStats[year]['points'][gains[0]]
+                oppScore = teamStats[year].loc[(teamStats[year]['matchId'] == matchId) &
+                                               (teamStats[year]['squadId'] != squadId),
+                                               ]['points'].values[0]
+            #Check for loss
+            if score < oppScore:
+                # #Print output
+                # print(f'{squadId} lost {score}-{oppScore} to {oppSquadId} in {year} with {nGains} gains.')
+                #Store outputs
+                highGainsOutcomes['year'].append(year)
+                highGainsOutcomes['matchId'].append(matchId)
+                highGainsOutcomes['squadId'].append(squadId)
+                highGainsOutcomes['oppSquadId'].append(oppSquadId)
+                highGainsOutcomes['score'].append(score)
+                highGainsOutcomes['oppScore'].append(oppScore)
+                highGainsOutcomes['nGains'].append(nGains)
+                
+#Convert to dataframe
+highGainsOutcomes_df = pd.DataFrame.from_dict(highGainsOutcomes)
+
+#Replace with squad names
+highGainsOutcomes_df['squadId'].replace(squadDict, inplace = True)
+highGainsOutcomes_df['oppSquadId'].replace(squadDict, inplace = True)
+
+#See proportion of times it's happened in total
+len(highGainsOutcomes_df) / nTotalGames
+
+#Actually happened more than I expected:
+    #In games where teams have got 17 or more gains, teams have lost ~26% of the time
+#But it's not great news for the Thunderbirds this year:
+    #There's been 6 games this year where a team has had 17+ gains and lost
+    #Out of those 6 times it's happened - the Thunderbirds have been the losing team 5/6 times
+#For our Vixens fans out there:
+    #The Vixens have managed to win their last two games while the opposition got 17 & 18 gains
+                    
 # %% Predictions
 
 #Last week - predicted highest rebound game for season for the Vixens
@@ -223,5 +404,16 @@ fortyPlusFeeds_df = pd.DataFrame.from_dict(fortyPlusFeeds)
 #Lightning didn't help having their second least amount of goal misses for the year
     #well below their average goal misses
 #If anything Kumwenda helped this one out a little bit with some easy misses that she quickly pulled down
+
+#Didn't have a prediction for the Thunderbirds game - which was probably lucky as it was one strange game
+
+#Magpies prediction
+magpiesTeamStats_2022 = teamStats_2022.loc[teamStats_2022['squadId'] == squadNameDict['Magpies'],]
+
+#Magpies are second in the league for unforced turnovers at ~12.5 per game
+#Finals situation that this game is going to present, where it's very likely
+#the Magpies are going to need to win to get in to the finals presents a pressure situation
+#It's sink or swim for them I think - and if they sink (i.e. lose) I think it's
+#going to come from a high unforce turnover game
 
 # %%% ----- End of 10_lightning-thunderbirds_analysis.py -----
