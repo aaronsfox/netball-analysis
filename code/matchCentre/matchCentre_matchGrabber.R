@@ -62,10 +62,10 @@ for (compInd in 1:lengths(compDetails)['id']) {
 #Set the competition details
 compYear <- 2022
 compLeague <- "SSN"
-compId <- 11665
+compId <- 11666 #finals?
 
 #Set the round to get
-getRound <- 14
+getRound <- 2
 
 #Loop through matches (set to irresponsibly large value but breaks used)
 for (getMatch in 1:25) {
