@@ -1,0 +1,1 @@
+The images included in this folder are copyrighted material by the original photographers and Netball Scoop. Do not use these without the express permission of both of these parties.
