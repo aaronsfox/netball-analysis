@@ -101,6 +101,14 @@ oppSuperCounts['oppSquadId'].replace(squadDict, inplace = True)
 #Sort by team name
 oppSuperCounts.sort_values(by = 'oppSquadId', inplace = True)
 
+#Clean up super shot scoreflow for export
+
+#Rename squad Id for consistency
+scoreFlowSuper['squadId'].replace(squadDict, inplace = True)
+
+#Drop player Id for non-identifiable data
+scoreFlowSuper.drop('playerId', axis = 1, inplace = True)
+
 # %% Export data
 
 #Export to csv
