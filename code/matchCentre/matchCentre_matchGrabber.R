@@ -17,13 +17,13 @@ compDetails <- list(year = c(rep(c(2009, 2010, 2011, 2012, 2013, 2014, 2015, 201
                              2022,
                              2022, 2022, 2022),
                     league = c(rep("ANZC", each = 16),
-                               rep("SSN", each = 10),
-                               "SSN",
-                               rep("TGC", each = 3)),
+                               rep("SSN", each = 12),
+                               rep("TGC", each = 3),
+                               rep("ANC", each = 1)),
                     id = c(8005, 8006, 8012, 8013, 8018, 8019, 8028, 8029, 8035, 8036, 9084, 9085, 9563, 9564, 9818, 9819,
-                           10083, 10084, 10393, 10394, 10724, 10725, 11108, 11109, 11391, 11392,
-                           11665,
-                           11706, 11707, 11708))
+                           10083, 10084, 10393, 10394, 10724, 10725, 11108, 11109, 11391, 11392, 11665, 11666,
+                           11706, 11707, 11708,
+                           11915))
 
 # %% Loop through competition IDs and extract data -----
 for (compInd in 1:lengths(compDetails)['id']) {
@@ -61,11 +61,11 @@ for (compInd in 1:lengths(compDetails)['id']) {
 
 #Set the competition details
 compYear <- 2022
-compLeague <- "SSN"
-compId <- 11666 #finals?
+compLeague <- "ANC"
+compId <- 11915
 
 #Set the round to get
-getRound <- 2
+getRound <- 1
 
 #Loop through matches (set to irresponsibly large value but breaks used)
 for (getMatch in 1:25) {
