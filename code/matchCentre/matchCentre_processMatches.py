@@ -634,7 +634,7 @@ for jsonFile in jsonFileList:
                     #SSN matches where the player is on court the whole match, and the resulting
                     #minutes played is just over 60 due to period seconds being slightly
                     #inflated each quarter
-                    if jsonFile.split('_')[1] == 'ANZC' or jsonFile.split('_')[1] == 'SSN':
+                    if jsonFile.split('_')[1] == 'ANZC' or jsonFile.split('_')[1] == 'SSN' or jsonFile.split('_')[1] == 'ANC':
                         if len(substitutionsData_df.loc[substitutionsData_df['playerId'] == playerId,]) == 1:
                             if 60 < minutesPlayed < 62:
                                 #Correct to 60 mins

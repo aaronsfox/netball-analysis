@@ -17,11 +17,6 @@ import pandas as pd
 import os
 from glob import glob
 
-# %% TODO:
-    
-    ##### All of the below functions are just repetitive with different files
-    ##### Only one function is really needed then, with file type as input!
-
 # %% Function to get seasonal stats
 
 def getSeasonStats(baseDir = None,
@@ -64,11 +59,14 @@ def getSeasonStats(baseDir = None,
     os.chdir(homeDir)
     
     #Set a dictionary to identify regular, finals and TGC competition Id's
-    compIdCheck = {'regular': [8005, 8012, 8018, 8028, 8035, 9084, 9563, 9818, 
-                               10083, 10393, 10724, 11108, 11391, 11665],
-                   'final': [8006, 8013, 8019, 8029, 8036, 9085, 9564, 9819,
-                             10084, 10394, 10725, 11109, 11392, 11666],
-                   'preseason': [11706, 11707, 11708]}
+    compIdCheck = {
+        'regular': [8005, 8012, 8018, 8028, 8035, 9084, 9563, 9818, 
+                    10083, 10393, 10724, 11108, 11391, 11665],
+        'final': [8006, 8013, 8019, 8029, 8036, 9085, 9564, 9819,
+                  10084, 10394, 10725, 11109, 11392, 11666],
+        'preseason': [11706, 11707, 11708],
+        'pathway': [11915]
+        }
     
     #Check for years input and specify all years if not listed
     if years == 'all':
@@ -125,6 +123,8 @@ def getSeasonStats(baseDir = None,
                 matchType.append('final')
             elif compId in compIdCheck['preseason']:
                 matchType.append('preseason')
+            elif compId in compIdCheck['pathway']:
+                matchType.append('pathway')
             else:
                 raise ValueError('Unable to identify competition Id and type in file.')
                 
