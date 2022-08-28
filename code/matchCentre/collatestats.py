@@ -65,7 +65,8 @@ def getSeasonStats(baseDir = None,
         'final': [8006, 8013, 8019, 8029, 8036, 9085, 9564, 9819,
                   10084, 10394, 10725, 11109, 11392, 11666],
         'preseason': [11706, 11707, 11708],
-        'pathway': [11915]
+        'pathway': [11915],
+        'pathway final': [11916]
         }
     
     #Check for years input and specify all years if not listed
@@ -125,6 +126,8 @@ def getSeasonStats(baseDir = None,
                 matchType.append('preseason')
             elif compId in compIdCheck['pathway']:
                 matchType.append('pathway')
+            elif compId in compIdCheck['pathway final']:
+                matchType.append('pathway final')
             else:
                 raise ValueError('Unable to identify competition Id and type in file.')
                 
