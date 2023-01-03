@@ -241,18 +241,21 @@ for jsonFile in jsonFileList:
                 #Add offensive, defensive and net rating statistics
                 #As per Dave Scroggs' formulas
                 
-                #From 2018 onwards, offensive rebounds first need to be calculated
-                if int(jsonFile.split('_')[0]) >= 2018:
-                    teamPeriodStatsWide_df['offensiveRebounds'] = np.round(teamPeriodStatsWide_df['goalMisses'] * (teamPeriodStatsWide_df['missedShotConversion'] / 100))
+                #Typically from 2018 onwards, offensive rebounds first need to be calculated
+                if 'offensiveRebounds' not in list(teamPeriodStatsWide_df.columns):
+                    if 'missedShotConversion' in list(teamPeriodStatsWide_df.columns):
+                        teamPeriodStatsWide_df['offensiveRebounds'] = np.round(teamPeriodStatsWide_df['goalMisses'] * (teamPeriodStatsWide_df['missedShotConversion'] / 100))
+                    else:
+                        #Figure out from possession changes and turnovers
+                        teamPeriodStatsWide_df['offensiveRebounds'] = teamPeriodStatsWide_df['goalMisses'] - (teamPeriodStatsWide_df['possessionChanges'] - teamPeriodStatsWide_df['generalPlayTurnovers'])
                 
                 #Possessions
-                #From 2018 onwards turnovers are renamed and missed shot turnovers need to be included
-                if int(jsonFile.split('_')[0]) >= 2018:
-                    teamPeriodStatsWide_df['possessions'] = (teamPeriodStatsWide_df['goalAttempts'] - teamPeriodStatsWide_df['offensiveRebounds']) + \
-                        (teamPeriodStatsWide_df['generalPlayTurnovers'] + np.round(teamPeriodStatsWide_df['goalMisses'] * (1 - (teamPeriodStatsWide_df['missedShotConversion'] / 100))))
+                #If possession changes are there, then they can be used otherwise
+                #turnovers need to be used
+                if 'possessionChanges' in list(teamPeriodStatsWide_df.columns):
+                    teamPeriodStatsWide_df['possessions'] = (teamPeriodStatsWide_df['goalAttempts'] - teamPeriodStatsWide_df['offensiveRebounds']) + teamPeriodStatsWide_df['possessionChanges']
                 else:
-                    teamPeriodStatsWide_df['possessions'] = (teamPeriodStatsWide_df['goalAttempts'] - teamPeriodStatsWide_df['offensiveRebounds']) + \
-                        teamPeriodStatsWide_df['turnovers']
+                    teamPeriodStatsWide_df['possessions'] = (teamPeriodStatsWide_df['goalAttempts'] - teamPeriodStatsWide_df['offensiveRebounds']) + teamPeriodStatsWide_df['turnovers']
                     
                 #Pace (posessions per 60 minute)
                 pacePer60 = []
@@ -329,19 +332,22 @@ for jsonFile in jsonFileList:
                 #Add offensive, defensive and net rating statistics
                 #As per Dave Scroggs' formulas
                 
-                #From 2018 onwards, offensive rebounds first need to be calculated
-                if int(jsonFile.split('_')[0]) >= 2018:
-                    teamStatsWide_df['offensiveRebounds'] = np.round(teamStatsWide_df['goalMisses'] * (teamStatsWide_df['missedShotConversion'] / 100))
+                #Typically from 2018 onwards, offensive rebounds first need to be calculated
+                if 'offensiveRebounds' not in list(teamStatsWide_df.columns):
+                    if 'missedShotConversion' in list(teamStatsWide_df.columns):
+                        teamStatsWide_df['offensiveRebounds'] = np.round(teamStatsWide_df['goalMisses'] * (teamStatsWide_df['missedShotConversion'] / 100))
+                    else:
+                        #Figure out from possession changes and turnovers
+                        teamStatsWide_df['offensiveRebounds'] = teamStatsWide_df['goalMisses'] - (teamStatsWide_df['possessionChanges'] - teamStatsWide_df['generalPlayTurnovers'])
                 
                 #Possessions
-                #From 2018 onwards turnovers are renamed and missed shot turnovers need to be included
-                if int(jsonFile.split('_')[0]) >= 2018:
-                    teamStatsWide_df['possessions'] = (teamStatsWide_df['goalAttempts'] - teamStatsWide_df['offensiveRebounds']) + \
-                        (teamStatsWide_df['generalPlayTurnovers'] + np.round(teamStatsWide_df['goalMisses'] * (1 - (teamStatsWide_df['missedShotConversion'] / 100))))
+                #If possession changes are there, then they can be used otherwise
+                #turnovers need to be used
+                if 'possessionChanges' in list(teamStatsWide_df.columns):
+                    teamStatsWide_df['possessions'] = (teamStatsWide_df['goalAttempts'] - teamStatsWide_df['offensiveRebounds']) + teamStatsWide_df['possessionChanges']
                 else:
-                    teamStatsWide_df['possessions'] = (teamStatsWide_df['goalAttempts'] - teamStatsWide_df['offensiveRebounds']) + \
-                        teamStatsWide_df['turnovers']
-                    
+                    teamStatsWide_df['possessions'] = (teamStatsWide_df['goalAttempts'] - teamStatsWide_df['offensiveRebounds']) + teamStatsWide_df['turnovers']
+
                 #Pace (posessions per 60 minute)
                 pacePer60 = []
                 for statInd in range(len(teamStatsWide_df)):
