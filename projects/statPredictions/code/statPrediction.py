@@ -20,6 +20,7 @@
         > Run optimisation on 2020 & 2021 seasons and make predictions against 2022
         > Predict week to week as well as across the whole season with predicted updates   
         > Add in an opposition weighting based on recent performance against position
+        > Consistency ratings (see: https://www.espn.com/fantasy/insider/football/insider/story/_/page/consistency2022/fantasy-football-consistency-ratings-2022)
     
 """
 
@@ -33,7 +34,70 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from statsmodels.stats.weightstats import DescrStatsW
 from statsmodels.stats.moment_helpers import corr2cov
-from scipy.stats import multivariate_normal
+from scipy.stats import multivariate_normal, norm
+from sklearn import linear_model
+from sklearn.metrics import mean_squared_error, r2_score
+import pickle
+
+# %% Define functions
+
+#Create a function that calculates 2022 fantasy score from a series
+def calcFantasyScore2022(statsData, playerId, playerPos):
+    
+    #Set the 2022 scoring system
+    pointVals = {'goal1': 2, 'goal2': 5, 'goalMisses': -5,
+                 'goalAssists': 3, 'feedWithAttempt': 1,
+                 'gain': 5, 'intercepts': 7, 'deflections': 6,
+                 'rebounds': 5, 'pickups': 7,
+                 'generalPlayTurnovers': -5, 'interceptPassThrown': -2,
+                 'badHands': -2, 'badPasses': -2, 'offsides': -2}
+        
+    #Set a variable to calculate fantasy score
+    fantasyScore = 0
+
+    #Calculate score if player is predicted to have played
+    if statsData['minutesPlayed'] > 0:
+        
+        #Add to fantasy score for getting on court
+        fantasyScore += 16 #starting score allocated to those who get on court
+        
+        #Predict how many quarters the player was on for
+        #Rough way of doing this is diving by quarter length of 15
+        #Take the rounded ceiling of this to estimate quarters played
+        fantasyScore += int(np.ceil(statsData['minutesPlayed'] / 15) * 4)
+        
+        #Loop through the scoring elements and add the scoring for these
+        for stat in list(pointVals.keys()):
+            fantasyScore += statsData[stat] * pointVals[stat]
+            
+        #Calculate centre pass receives points
+        #This requires different point values across the various positions
+        #Here we make an estimate that attacking players would be in the GA/WA group
+        #and that defensive players would be in the GD/WD group
+        if playerPos in ['GS', 'GA', 'WA', 'C']:
+            fantasyScore += np.floor(statsData['centrePassReceives'] / 2) * 1
+        elif playerPos in ['WD', 'GD', 'GK']:
+            fantasyScore += statsData['centrePassReceives'] * 3
+        
+        #Calculate penalty points
+        fantasyScore += np.floor((statsData['obstructionPenalties'] + statsData['contactPenalties']) / 2) * -1
+        
+        #Estimate the time played in WD based on player position
+        #8 points for half a game at WD / 16 points for a full game at WD
+        #Here we'll provide partial points on the basis of minutes played
+        #alongside the fantasy position. If a player is exclusively a WD then
+        #we'll allocate all of the partial points, but if they're DPP then
+        #we'll allocate half of the partial points. This gives an inexact
+        #estimate, but may be the best we can do.
+        if playerPos == 'WD':
+            #Check if minutes played is > than a half of play (i.e. 30 mins)
+            if statsData['minutesPlayed'] > 30:
+                fantasyScore += ((16-8) * (statsData['minutesPlayed'] - 30) / 30) + 8
+            else:
+                fantasyScore += (((16-8) * (statsData['minutesPlayed'] - 30) / 30) + 8) / 2
+                    
+    #Return the final calculated fantasy score
+    return fantasyScore
 
 # %% Set-up
 
@@ -54,22 +118,55 @@ rcParams['savefig.dpi'] = 300
 rcParams['savefig.format'] = 'pdf'
 
 #Create dictionary to map squad names to ID's
-squadDict = {804: 'Vixens',
-             806: 'Swifts',
-             807: 'Firebirds',
-             8117: 'Lightning',
-             810: 'Fever',
-             8119: 'Magpies',
-             801: 'Thunderbirds',
-             8118: 'GIANTS'}
-squadNameDict = {'Vixens': 804,
-                 'Swifts': 806,
-                 'Firebirds': 807,
-                 'Lightning': 8117,
-                 'Fever': 810,
-                 'Magpies': 8119,
-                 'Thunderbirds': 801,
-                 'GIANTS': 8118}
+#ID to name
+squadDict = {804: 'Vixens', 806: 'Swifts', 807: 'Firebirds', 8117: 'Lightning',
+             810: 'Fever', 8119: 'Magpies', 801: 'Thunderbirds', 8118: 'GIANTS'}
+#Name to ID
+squadNameDict = {'Vixens': 804, 'Swifts': 806, 'Firebirds': 807, 'Lightning': 8117,
+                 'Fever': 810, 'Magpies': 8119, 'Thunderbirds': 801, 'GIANTS': 8118}
+
+#Create a court positions variable
+courtPositions = ['GS', 'GA', 'WA', 'C', 'WD', 'GD', 'GK']
+
+#Select the stats to keep in dataset based on what's relevant to fantasy scoring
+selectStatsList = ['matchId', 'squadId', 'oppSquadId', 'playerId', 'roundNo',
+                   'attempt1', 'attempt2',
+                   'goal1', 'goal2', 'goalMisses', 'goalAssists',
+                   'feeds', 'feedWithAttempt', 'centrePassReceives',
+                   'gain', 'intercepts', 'deflections', 'deflectionWithGain',
+                   'deflectionWithNoGain', 'rebounds', 'pickups',
+                   'contactPenalties', 'obstructionPenalties',
+                   'generalPlayTurnovers', 'interceptPassThrown',
+                   'badHands', 'badPasses', 'offsides',
+                   'netPoints', 'minutesPlayed']
+
+#Create a list of stats to predict
+predictStatsList = ['attempt1', 'attempt2',
+                    'goal1', 'goal2', 'goalMisses', 'goalAssists',
+                    'feeds', 'feedWithAttempt', 'centrePassReceives',
+                    'gain', 'intercepts', 'deflections', 'deflectionWithGain',
+                    'deflectionWithNoGain', 'rebounds', 'pickups',
+                    'contactPenalties', 'obstructionPenalties',
+                    'generalPlayTurnovers', 'interceptPassThrown',
+                    'badHands', 'badPasses', 'offsides',
+                    'minutesPlayed']
+
+#Set the primary stats to examine across the various primary positions
+courtPosPrimaryStats = {'GS': ['attempt1', 'attempt2', 'goal1', 'goal2', 'goalMisses', 'goalAssists'], 
+                        'GA': ['attempt1', 'attempt2', 'goal1', 'goal2', 'goalMisses', 'goalAssists', 'feeds', 'feedWithAttempt', 'centrePassReceives'], 
+                        'WA': ['feeds', 'feedWithAttempt', 'centrePassReceives', 'gain', 'intercepts', 'deflections', 'pickups', 'generalPlayTurnovers'], 
+                        'C': ['feeds', 'feedWithAttempt', 'gain', 'intercepts', 'deflections', 'pickups', 'generalPlayTurnovers'], 
+                        'WD': ['gain', 'intercepts', 'deflections', 'pickups', 'generalPlayTurnovers', 'contactPenalties', 'obstructionPenalties'], 
+                        'GD': ['gain', 'intercepts', 'deflections', 'contactPenalties', 'obstructionPenalties', 'rebounds'], 
+                        'GK': ['gain', 'intercepts', 'deflections', 'contactPenalties', 'obstructionPenalties', 'rebounds'], 
+                        }
+
+#Set weightings to allocate to stats related to games from different years in predictions
+standardGameWeight = 0.05 #this is applied to all games that aren't from the current year
+pastYearGameWeight = 0.10 # this is applied to all games from the most recent year
+currentYearGameWeight = 0.25 #this is applied to all games from the current year
+lastFourGameWeight = 0.5 #this is applied to their last 4 games within current year
+mostRecentGameWeight = 1 #this is applied to their most recent game
 
 #Set analysis directory
 analysisDir = os.getcwd()
@@ -84,6 +181,8 @@ os.chdir(analysisDir)
 #Set base directory for processed data
 baseDir = '..\\..\\..\\data\\matchCentre\\processed'
 
+# %% Read in relevant data
+
 #Read in player stats data for the 2020 and 2021 regular seasons
 playerStats = collatestats.getSeasonStats(baseDir = baseDir,
                                           years = [2020, 2021, 2022],
@@ -96,13 +195,7 @@ playerStatsPreseason = collatestats.getSeasonStats(baseDir = baseDir,
                                                    fileStem = 'playerStats',
                                                    matchOptions = ['preseason'])
 
-#Read in substitutions data
-subsData = collatestats.getSeasonStats(baseDir = baseDir,
-                                       years = [2020, 2021, 2022],
-                                       fileStem = 'substitutions',
-                                       matchOptions = ['regular'])
-
-#Read in substitutions data
+#Read in line-up data
 lineUpData = collatestats.getSeasonStats(baseDir = baseDir,
                                          years = [2020, 2021, 2022],
                                          fileStem = 'lineUps',
@@ -115,13 +208,17 @@ playerLists = collatestats.getSeasonStats(baseDir = baseDir,
                                           matchOptions = ['regular'])
 
 #Create a unique player dictionary for each year
+#As part of this also give each player a primary court position for the year
+#based on where they've played the majority of their time.
+#When predicting data for a new season, this data obviously won't be available
+#so we will need to take a primary position from Super Netball's squad data
 playerDict = {}
 for year in list(playerLists.keys()):
     
     #Create dictionary to append players to
     playerDict[year] = {'playerId': [],
                         'firstName': [], 'surname': [], 'fullName': [],
-                        'squadId': []}
+                        'squadId': [], 'primaryPosition': []}
     
     #Get unique player Id's for year
     uniquePlayerIds = list(playerLists[year]['playerId'].unique())
@@ -139,115 +236,39 @@ for year in list(playerLists.keys()):
         playerDict[year]['fullName'].append(f'{playerDetails["firstname"].unique()[0]} {playerDetails["surname"].unique()[0]}')
         playerDict[year]['squadId'].append(playerDetails['squadId'].unique()[0])
         
+        #Extract the players primary position from the line-up data
+        #Create a variable to store durations in
+        posDurations = []
+        #Loop through and extract durations of court positions
+        for courtPos in courtPositions:
+            posDurations.append(lineUpData[year].loc[lineUpData[year][courtPos] == playerId,]['duration'].sum())
+        #Identify max duration index and look this up in court position list
+        #Append this as players primary position for the year
+        playerDict[year]['primaryPosition'].append(courtPositions[np.argmax(posDurations)])
+
 #Convert to dataframes
 playerData = {}
 playerData[2020] = pd.DataFrame.from_dict(playerDict[2020])
 playerData[2021] = pd.DataFrame.from_dict(playerDict[2021])
 playerData[2022] = pd.DataFrame.from_dict(playerDict[2022])
 
-#Select the stats to keep in dataset based on what's relevant to fantasy scoring
-selectStatsList = ['matchId', 'squadId', 'oppSquadId', 'playerId', 'roundNo',
-                   'attempt1', 'attempt2',
-                   'goal1', 'goal2', 'goalMisses', 'goalAssists',
-                   'feeds', 'feedWithAttempt', 'centrePassReceives',
-                   'gain', 'intercepts', 'deflections', 'deflectionWithGain',
-                   'deflectionWithNoGain', 'rebounds', 'pickups',
-                   'contactPenalties', 'obstructionPenalties',
-                   'generalPlayTurnovers', 'interceptPassThrown',
-                   'badHands', 'badPasses', 'offsides',
-                   'minutesPlayed']
-
-#Create a predict stats list
-predictStatsList = ['attempt1', 'attempt2',
-                    'goal1', 'goal2', 'goalMisses', 'goalAssists',
-                    'feeds', 'feedWithAttempt', 'centrePassReceives',
-                    'gain', 'intercepts', 'deflections', 'deflectionWithGain',
-                    'deflectionWithNoGain', 'rebounds', 'pickups',
-                    'contactPenalties', 'obstructionPenalties',
-                    'generalPlayTurnovers', 'interceptPassThrown',
-                    'badHands', 'badPasses', 'offsides',
-                    'minutesPlayed']
-
 #Get stats in simpler format
 #Regular season data
 for year in [2020,2021,2022]:
     playerStats[year] = playerStats[year][selectStatsList]
 #Preaseason data
-playerStatsPreseason[2022] = playerStatsPreseason[2022][selectStatsList]
-    
-#Set the 2022 scoring system
-pointVals = {'goal1': 2, 'goal2': 5, 'goalMisses': -5,
-             'goalAssists': 3, 'feedWithAttempt': 1,
-             'gain': 5, 'intercepts': 7, 'deflections': 6,
-             'rebounds': 5, 'pickups': 7,
-             'generalPlayTurnovers': -5, 'interceptPassThrown': -2,
-             'badHands': -2, 'badPasses': -2, 'offsides': -2}
-
-# #Read in price data and details for 2022 season
-# #Combine starting and final prices as this should theoretically have all details
-# startingPriceDetails = pd.read_csv('..\\..\\data\\startingPrices\\startingPrices_2022.csv')
-# finalPriceDetails = pd.read_csv('..\\..\\data\\finalPrices\\finalPrices_2022.csv')
-
-# #Link up player Id's to price databases
-
-# #Create list to store data in
-# startingPriceIds = []
-# finalPriceIds = []
-
-# #Loop through players in starting price list
-# for ii in startingPriceDetails.index:
-    
-#     #Get player full name
-#     playerFullName = f'{startingPriceDetails.iloc[ii]["firstName"]} {startingPriceDetails.iloc[ii]["surname"].capitalize()}'
-    
-#     #Compare current player name ratio to all from current year
-#     nameRatios = [SequenceMatcher(None, playerFullName, fullName).ratio() for fullName in playerData[2022]['fullName']]
-    
-#     #Get index of maximum ratio
-#     maxRatioInd = nameRatios.index(np.max(nameRatios))
-    
-#     #Get player Id at the index and append to list
-#     startingPriceIds.append(playerData[2022].iloc[maxRatioInd]['playerId'])
-    
-# #Append player Id's to starting price list dataframe
-# startingPriceDetails['playerId'] = startingPriceIds
-
-# #Loop through players in final price list
-# for ii in finalPriceDetails.index:
-    
-#     #Get player full name
-#     playerFullName = f'{finalPriceDetails.iloc[ii]["firstName"]} {finalPriceDetails.iloc[ii]["surname"].capitalize()}'
-    
-#     #Compare current player name ratio to all from current year
-#     nameRatios = [SequenceMatcher(None, playerFullName, fullName).ratio() for fullName in playerData[2022]['fullName']]
-    
-#     #Get index of maximum ratio
-#     maxRatioInd = nameRatios.index(np.max(nameRatios))
-    
-#     #Get player Id at the index and append to list
-#     finalPriceIds.append(playerData[2022].iloc[maxRatioInd]['playerId'])
-    
-# #Append player Id's to starting price list dataframe
-# finalPriceDetails['playerId'] = finalPriceIds
-
-# #Join dataframes, drop duplicate player and keep basic columns
-# fantasyPlayerDetails = pd.concat([startingPriceDetails,
-#                                   finalPriceDetails]).drop_duplicates(
-#                                       subset = 'playerId', 
-#                                       keep = 'first')[['surname',
-#                                                       'firstName',
-#                                                       'team',
-#                                                       'position',
-#                                                       'playerId']]
+# playerStatsPreseason[2022] = playerStatsPreseason[2022][selectStatsList.remove]
 
 # %% Calculate opposition strength against stats relative to league average
 #    Note that this returns to a starting value of 1 at the beginning of the year
 
 #### TODO: eventually link this 'strength' up to positions/positional groups
 #### Take the positional data eventually from the Super Netball rosters
+#### NOTE: this takes an excessively long time --- so if it can be avoided and
+#### good predictions made, then that is a good trade-off
 
 #Set up dictionary to store data in
-teamStrengthDict = {'squadId': [], 'year': [], 'afterRound': [],
+teamStrengthDict = {'squadId': [], 'year': [], 'afterRound': [], 
                     'stat': [], 'strengthRatio': []}
 
 #Loop through squads
@@ -267,6 +288,27 @@ for squadId in list(squadDict.keys()):
             leagueOppStats = playerStats[year].loc[(playerStats[year]['roundNo'] <= roundNo) &
                                                    (playerStats[year]['oppSquadId'] != squadId)]
             
+            # #Loop through court positions to calculate strength relative to primary positions
+            # for courtPos in courtPositions:
+                
+            #     #Identify the players that are from the current court position
+            #     #In the current team opposition stats
+            #     teamOppCourtPosId = []
+            #     for playerId in teamOppStats['playerId']:
+            #         if playerData[year].loc[playerData[year]['playerId'] == playerId,
+            #                                 ].reset_index()['primaryPosition'][0] == courtPos:
+            #             teamOppCourtPosId.append(playerId)
+            #     #For the league-wide opposition stats
+            #     leagueOppCourtPosId = []
+            #     for playerId in leagueOppStats['playerId']:
+            #         if playerData[year].loc[playerData[year]['playerId'] == playerId,
+            #                                 ].reset_index()['primaryPosition'][0] == courtPos:
+            #             leagueOppCourtPosId.append(playerId)
+                        
+            #     #Extract the court position relevant stats from the datasets
+            #     teamOppStatsCourtPos = teamOppStats.loc[teamOppStats['playerId'].isin(teamOppCourtPosId),]
+            #     leagueOppStatsCourtPos = leagueOppStats.loc[leagueOppStats['playerId'].isin(leagueOppCourtPosId),]
+
             #Compare the current teams total relative to the league average for predictable stats
             for statVar in predictStatsList:
                 #Calculate the team total for the stat
@@ -278,6 +320,7 @@ for squadId in list(squadDict.keys()):
                 #Store this in a dictionary alongside info data
                 teamStrengthDict['squadId'].append(squadId)
                 teamStrengthDict['year'].append(year)
+                # teamStrengthDict['againstPosition'].append(courtPos)
                 teamStrengthDict['stat'].append(statVar)
                 teamStrengthDict['afterRound'].append(roundNo)
                 teamStrengthDict['strengthRatio'].append(teamTotal / leagueTotal)
@@ -285,107 +328,220 @@ for squadId in list(squadDict.keys()):
 #Convert to dataframe
 teamStrengthData = pd.DataFrame.from_dict(teamStrengthDict)
             
-# %% Run stat predictions for 2022 season
+# %% Test out the consistency rating metric
 
-### NOTE: this process does a week-to-week prediction, whereby only one week is
-### predicted at a time (i.e. real data from the season is used in predictions,
-### rather than chaining the predictions on to prior predictions)
+#Set year to examine
+yearToExamine = 2022
 
-#Get all round numbers from 2022
-roundList = list(playerStats[2022]['roundNo'].unique())
+#Set metric to test on
+metricToExamine = 'netPoints'
+
+#Get total number of rounds
+roundList = list(playerStats[yearToExamine]['roundNo'].unique())
 roundList.sort()
 
-#Create dictionaries to store actual stats and predictions in
-#Upper and lower predictions are +/- 95% CIs
-# statPredictionsDict = {'lowerPrediction': {stat: [] for stat in selectStatsList},
-#                        'avgPrediction': {stat: [] for stat in selectStatsList},
-#                        'upperPrediction': {stat: [] for stat in selectStatsList}}
-statPredictionsDict = {'matchId': [], 'squadId': [], 'oppSquadId': [],
-                       'playerId': [], 'roundNo': [],
-                       'sampleStats': [], 'sampleStatsSummary': []}
+#Create dictionary to store data in
+consistencyRatingDict = {'playerId': [], 'squadId': [], 'afterRound': [],
+                         'consistencyRating': []}
 
-##### TODO: what to do if there is no data to predict? Preseason...?
-##### Hopefully every player in there had some preaseason stats?
+#Loop through players to create rolling consistency rating over each round of the season
+for playerId in playerData[yearToExamine]['playerId']:
+    
+    #Extract the players data for games they played
+    playerStatData = playerStats[yearToExamine].loc[(playerStats[yearToExamine]['playerId'] == playerId) &
+                                                    (playerStats[yearToExamine]['minutesPlayed'] > 0),
+                                                    ['matchId', 'squadId', 'playerId', 'roundNo', 'minutesPlayed', metricToExamine]]
+    
+    #Loop through rounds and calculate consistency rating
+    #Start at second round given that round 1 alone isn't relevant
+    for roundNo in np.linspace(2, np.max(roundList), np.max(roundList)-1):
+        
+        #Create check to see if player has played more than 1 game to calculate consistency
+        if len(playerStatData) > 1:
+        
+            #Calculate mean and standard deviation of metric after current round
+            mu = playerStatData.loc[playerStatData['roundNo'] <= roundNo,]['netPoints'].mean()
+            sigma = playerStatData.loc[playerStatData['roundNo'] <= roundNo,]['netPoints'].std()
+            
+            #Calculate consistency rating
+            cr = sigma/mu
+            
+            #Append data to dictionary
+            consistencyRatingDict['playerId'].append(playerId)
+            consistencyRatingDict['squadId'].append(playerStatData['squadId'].unique()[0])
+            consistencyRatingDict['afterRound'].append(roundNo)
+            consistencyRatingDict['consistencyRating'].append(cr)
+            
+#Convert to dataframe
+consistencyRating = pd.DataFrame.from_dict(consistencyRatingDict)
+    
+##### NOTE: negative and nan values are possible here due to negative or zero netpoints
+
+# %% Test out a linear prediction model of NetPoints on the basis of predicted stats
+#    The general point of this is that we can't calculate NetPoints based on the
+#    stats provided in the match centre. If a linear model from the stats we can
+#    predict well works, then we can estimate NetPoints relatively well
+
+# NOTE: it's possible this might work better in positional groupings, given the
+# fact that different stats likely contribute to the NetPoints
+
+# NOTE: there's also likely a significant amount of multicollinearity in the
+# predictor variables here
+
+#Test out on a specific year to begin with
+yearToExamine = 2022
+
+#Set the metric to predict
+metricToPredict = 'netPoints'
+
+#Set the position to predict
+posToPredict = 'GS'
+predictPlayers = playerData[yearToExamine].loc[playerData[yearToExamine]['primaryPosition'] == posToPredict,
+                                               ]['playerId'].to_list()
+
+#Extract the data to an array for model
+# X = playerStats[yearToExamine][predictStatsList].to_numpy()
+X = playerStats[yearToExamine].loc[playerStats[yearToExamine]['playerId'].isin(predictPlayers),
+                                   ][predictStatsList].to_numpy()
+
+#Extract the metric to predict
+# Y = playerStats[yearToExamine][metricToPredict].to_numpy()
+Y = playerStats[yearToExamine].loc[playerStats[yearToExamine]['playerId'].isin(predictPlayers),
+                                   ][metricToPredict].to_numpy()
+
+#Extract training and test datasets (70:30 split)
+np.random.seed(12345)
+indices = np.random.permutation(X.shape[0])
+trainingInd, testInd = indices[:int(X.shape[0]*0.7)], indices[int(X.shape[0]*0.7):]
+X_train, X_test = X[trainingInd,:], X[testInd,:]
+Y_train, Y_test = Y[trainingInd], Y[testInd]
+
+#Create linear regression object
+linRegMod = linear_model.LinearRegression()
+
+#Train the model using the training sets
+linRegMod.fit(X_train, Y_train)
+
+#Make predictions using the testing set
+Y_pred = linRegMod.predict(X_test)
+
+#Display the coefficients
+print('Coefficients: \n', linRegMod.coef_)
+
+#Display the mean squared error
+print('Mean squared error: %.2f' % mean_squared_error(Y_test, Y_pred))
+
+#The coefficient of determination: 1 is perfect prediction
+print('Coefficient of determination: %.2f' % r2_score(Y_test, Y_pred))
+
+#### On even overall data the coefficient of determination is quite high (0.95)
+#### Added in components above the split by primary position to see if this improves
+    #### Using just the GS position the MSE is similar, but the coefficient of
+    #### determination slightly improves (0.97)
+
+# %% Run stat predictions for 2022 season
+#    Note that this prediction is week-to-week, whereby only one week is predicted
+#    at a time (i.e. real data is used in predictions rather than chaining the
+#    predictions on to prior predictions)
 
 ##### TODO: need a rostered player database for which players to predict for each week
 ##### This can link up to the player positions database too
 
+#Set year to predict
+yearToPredict = 2022
+
+#Set years to use data from
+yearsOfData = [2020, 2021]
+
+#Get all round numbers from prediction year
+roundList = list(playerStats[yearToPredict]['roundNo'].unique())
+roundList.sort()
+
+#Create dictionaries to store predicted data
+statPredictionsDict = {'matchId': [], 'playerId': [], 'squadId': [], 'oppSquadId': [],
+                       'roundNo': [], 'stat': [], 'normDistribution': []}
+
 #Loop through player Id's in fantasy details
-for playerId in list(fantasyPlayerDetails['playerId'].unique()):
+for playerId in playerData[yearToPredict]['playerId']:
     
     #Loop through rounds and make predictions
     for roundNo in roundList:
         
-        #Extract 2020 and 2021 player statistics
-        #Extract any 2022 statistics preceding the current round
-        selectPlayerStats  = pd.concat([playerStats[2020].loc[playerStats[2020]['playerId'] == playerId, predictStatsList],
-                                        playerStats[2021].loc[playerStats[2021]['playerId'] == playerId, predictStatsList],
-                                        playerStats[2022].loc[(playerStats[2022]['playerId'] == playerId) &
-                                                              (playerStats[2022]['roundNo'] < roundNo), predictStatsList]])
-        
-        ##### TODO: should we include preseason stats if there aren't any games
-        ##### from the present year? Or might this skew for certain players?
+        #Extract past year statistics and any that precede current round
+        pastYearStats = pd.concat([playerStats[getYear].loc[playerStats[getYear]['playerId'] == playerId, predictStatsList] for getYear in yearsOfData])
+        currentYearStats = playerStats[yearToPredict].loc[(playerStats[yearToPredict]['playerId'] == playerId) &
+                                                          (playerStats[yearToPredict]['roundNo'] < roundNo), predictStatsList]
+        selectPlayerStats = pd.concat([pastYearStats, currentYearStats])
         
         #Check if preseason stats are needed for the player 
         #We'll use these if there are < 4 games worth of data
         if len(selectPlayerStats) < 4:
             #Extract preseason stats
-            selectPlayerPreseasonStats = playerStatsPreseason[2022].loc[playerStatsPreseason[2022]['playerId'] == playerId, predictStatsList]
+            selectPlayerPreseasonStats = playerStatsPreseason[yearToPredict].loc[playerStatsPreseason[yearToPredict]['playerId'] == playerId, predictStatsList]
             #Multiply the preseason stats by 1.5 so they match a 60 minute game
             selectPlayerPreseasonStats = selectPlayerPreseasonStats * 1.5
             #Concatenate regular to preseason stats
             selectPlayerStats = pd.concat([selectPlayerPreseasonStats, selectPlayerStats])
         
         #Get the actual player stats for the present round
-        actualPlayerStats = playerStats[2022].loc[(playerStats[2022]['playerId'] == playerId) &
-                                                  (playerStats[2022]['roundNo'] == roundNo),
-                                                  predictStatsList].reset_index(drop = True)
+        actualPlayerStats = playerStats[yearToPredict].loc[(playerStats[yearToPredict]['playerId'] == playerId) &
+                                                           (playerStats[yearToPredict]['roundNo'] == roundNo),
+                                                           predictStatsList].reset_index(drop = True)
         
-        #Check if player actually played the game
+        #Check if player was actually listed for the game
+        #We also need stats to predict, so check this here too
         #### TODO: will eventually need to change this in some way to simply predict
         #### everyone and give low values to those who aren't expected to play
-        if len(actualPlayerStats) > 0:
+        if len(actualPlayerStats) > 0 and len(selectPlayerStats) > 0:
         
             #Get match details
-            matchId, squadId, oppSquadId = list(playerStats[2022].loc[(playerStats[2022]['playerId'] == playerId) &
-                                                                      (playerStats[2022]['roundNo'] == roundNo),
-                                                                      ].reset_index().iloc[0][['matchId',
-                                                                                               'squadId',
-                                                                                               'oppSquadId']
-                                                                                               ].to_numpy(dtype = int))
+            matchId, squadId, oppSquadId = list(playerStats[yearToPredict].loc[(playerStats[yearToPredict]['playerId'] == playerId) &
+                                                                               (playerStats[2022]['roundNo'] == roundNo),
+                                                                               ].reset_index().iloc[0][['matchId',
+                                                                                                        'squadId',
+                                                                                                        'oppSquadId']
+                                                                                                        ].to_numpy(dtype = int))
             
-            #Set the weights for matches
+            #Set the weights for. See weights in set-up section for values
+            #Have tested if there is an actual impact of these weights, yet changing
+            #them doesn't really improve predictions that much. So the selection
+            #of these weights is pretty much driven by subjective opinion
             #The process for applying weights is as follows:
-                # > Begin by giving a default weight of 1 for every match
-                # > Any matches from this year (i.e. based on round number) get increased to a value of 2.5
-                # > The last 4 matches from the current year get increased to a value of 10
-                # > The last match from the current year gets increased to a value of 25
+                # Begin by giving the standard weight for every match
+                # Any matches from this year (i.e. based on round number) get increased to the current year game weight
+                # The last 4 matches from the current year get increased to the last four game weight
+                # The last match from the current year gets increased to the most recent game weight
             #### TODO: consider if this works for missed matches in a year?
             #### TODO: consider other options for weights?
             #### TODO: consider if player misses a year?
             
-            #### TODO: the above numerical values can be worked into an optimisation
-            #### process to determine what optimises prediction accuracy against a 
-            #### summative statistic like NetPoints
-            
             #Set the default weights        
-            weights = np.ones(len(selectPlayerStats))
+            weights = np.ones(len(selectPlayerStats)) * standardGameWeight
             
             #Check how many games have come from this year
-            nCurrentYear = len(playerStats[2022].loc[(playerStats[2022]['playerId'] == playerId) &
-                                                     (playerStats[2022]['roundNo'] < roundNo), predictStatsList])
+            nCurrentYear = len(playerStats[yearToPredict].loc[(playerStats[yearToPredict]['playerId'] == playerId) &
+                                                              (playerStats[yearToPredict]['roundNo'] < roundNo), predictStatsList])
+            
+            #Check how many games are from the past year
+            nPastYear = len(playerStats[yearToPredict-1].loc[playerStats[yearToPredict-1]['playerId'] == playerId, predictStatsList])
+            
+            #Allocate extra weight for matches played in the past year
+            if nPastYear > 0:
+                #Default weight for games from current year
+                weights[-(nPastYear+nCurrentYear):] = pastYearGameWeight
+                
             
             #Allocate extra weight for any matches played this year
             if nCurrentYear > 0:
                 #Default weight for games from current year
-                weights[-nCurrentYear:] = 2.5
+                weights[-nCurrentYear:] = currentYearGameWeight
                 #Allocate an appropriate weight for the players last 4 (or less) matches from the year
                 if nCurrentYear >= 4:
-                    weights[-4:] = 10
+                    weights[-4:] = lastFourGameWeight
                 else:
-                    weights[-nCurrentYear:] = 10
+                    weights[-nCurrentYear:] = lastFourGameWeight
                 #Allocate the added weight for the most recent game
-                weights[-1] = 25
+                weights[-1] = mostRecentGameWeight
                 
             #Calculate weighted mean for player stats
             mu = []
@@ -398,10 +554,13 @@ for playerId in list(fantasyPlayerDetails['playerId'].unique()):
                 mu.append(weightedStats.mean)
                 
             #Create covariance matrix from player stats
-            covMat = np.cov(selectPlayerStats.to_numpy(), rowvar = False, aweights = weights)
+            if len(selectPlayerStats) > 1:
+                covMat = np.cov(selectPlayerStats.to_numpy(), rowvar = False, aweights = weights)
+            else:
+                covMat = np.cov(selectPlayerStats.to_numpy(), rowvar = False)
             
             #Create the multivariate normal distribution from the mean data and covariance matrix
-            ##### covariance matrix appears ill-conditioned or singular --- correct approach?
+            #### NOTE: covariance matrix appears ill-conditioned or singular --- correct approach?
             predictStatsDistribution = multivariate_normal(mean = mu,
                                                            cov = covMat,
                                                            allow_singular = True)
@@ -424,33 +583,149 @@ for playerId in list(fantasyPlayerDetails['playerId'].unique()):
             #Calculate summary statistics from the sampled stats
             sampleStats_summary = sampleStats_df.describe()
             
-            #### TODO: instead of storing all stat data, convert each one to a
-            #### normal distribution to later refer to...
-            
-            #Store predictions in dictionaries
-            statPredictionsDict['matchId'].append(matchId)
-            statPredictionsDict['squadId'].append(squadId)
-            statPredictionsDict['oppSquadId'].append(oppSquadId)
-            statPredictionsDict['playerId'].append(playerId)
-            statPredictionsDict['roundNo'].append(roundNo)
-            statPredictionsDict['sampleStats'].append(sampleStats_df)
-            statPredictionsDict['sampleStatsSummary'].append(sampleStats_summary)
-            # #General match details
-            # for predictionLabel in list(statPredictionsDict.keys()):
-            #     statPredictionsDict[predictionLabel]['matchId'].append(matchId)
-            #     statPredictionsDict[predictionLabel]['squadId'].append(squadId)
-            #     statPredictionsDict[predictionLabel]['oppSquadId'].append(oppSquadId)
-            #     statPredictionsDict[predictionLabel]['playerId'].append(playerId)
-            #     statPredictionsDict[predictionLabel]['roundNo'].append(roundNo)
-            # #Predicted stats
-            # for stat in predictStatsList:
-            #     statPredictionsDict['lowerPrediction'][stat].append(sampleStats_summary[stat]['mean'] - (1.96 * (sampleStats_summary[stat]['std'] / np.sqrt(sampleStats_summary[stat]['count']))))
-            #     statPredictionsDict['avgPrediction'][stat].append(sampleStats_summary[stat]['mean'])
-            #     statPredictionsDict['upperPrediction'][stat].append(sampleStats_summary[stat]['mean'] + (1.96 * (sampleStats_summary[stat]['std'] / np.sqrt(sampleStats_summary[stat]['count']))))
+            #Loop through each stat and store data related to predictions
+            #Here we create and store a normal distribution based on the samples
+            for statVar in sampleStats_summary.columns:
+                statPredictionsDict['matchId'].append(matchId)
+                statPredictionsDict['playerId'].append(playerId)
+                statPredictionsDict['squadId'].append(squadId)
+                statPredictionsDict['oppSquadId'].append(oppSquadId)
+                statPredictionsDict['roundNo'].append(roundNo)
+                statPredictionsDict['stat'].append(statVar)
+                statPredictionsDict['normDistribution'].append(norm(sampleStats_summary[statVar]['mean'],
+                                                                    sampleStats_summary[statVar]['std']))
+                
+#Save this dictionary to avoid repeating the time consuming process
+#### TODO: file is quite large --- cPickle might be a better option?
+with open('statPredictions2022.pkl', 'wb') as pickleFile:
+    pickle.dump(statPredictionsDict, pickleFile,
+                protocol = pickle.HIGHEST_PROTOCOL)
 
 #Convert predictions to dataframe
 statPredictions = pd.DataFrame.from_dict(statPredictionsDict).sort_values(
         ['matchId', 'squadId', 'playerId']).reset_index(drop = True)
+
+# %% Create an example visual comparing predicted stat accuracy
+#    Example here used is Kayte Moloney
+
+##### TODO: up to creating this visualisation...
+
+#### TODO:The lack of the truncated data here causes some strange values, 
+#### particularly seems to happen at later rounds
+
+#Set number of values to sample
+nSamples = 1000
+
+#Set year to predict
+yearToPredict = 2022
+
+#Get all round numbers from prediction year
+roundList = list(playerStats[yearToPredict]['roundNo'].unique())
+roundList.sort()
+
+#Set player Id
+playerId = 991901
+
+#Identify player primary position to guide stats to plot
+playerPos = playerData[yearToPredict].loc[playerData[yearToPredict]['playerId'] == playerId,
+                                          ]['primaryPosition'].values[0]
+
+#Extract the players stat predictions from dataframe
+playerStatPredictions = statPredictions.loc[statPredictions['playerId'] == playerId,]
+
+#Set up a figure to plot the comparisons to
+#### TODO: currently just a 3 x 3 grid get the plots right before cleaning up
+fig, ax = plt.subplots(figsize = (12, 6), nrows = 3, ncols = 3)
+
+#Loop through the stats we want to visualise for the court position
+#Note that this doesn't therefore predict all stats for the player
+for statVar in courtPosPrimaryStats[playerPos]:
+    
+    #Create array to store sampled stat values in
+    collatedStatVals = np.zeros((nSamples, len(roundList)))
+    
+    #Create an array to store the actual stat values
+    actualStatVals = np.zeros((len(roundList)))
+    
+    #Loop through the round numbers for current stat
+    for roundNo in roundList:
+        
+        #Check if the player played the current round
+        if roundNo in playerStatPredictions['roundNo'].unique():
+        
+            #Take random samples from normal distribution for current stat
+            #Set seed based on player Id, round number and the index of the stat variable
+            sampledStatVals = playerStatPredictions.loc[(playerStatPredictions['roundNo'] == roundNo) &
+                                                        (playerStatPredictions['stat'] == statVar),
+                                                        ].reset_index(drop = True)['normDistribution'][0].rvs(
+                                                            size = nSamples,
+                                                            random_state = playerId * roundNo * predictStatsList.index(statVar)
+                                                            )
+            
+            #Get the opposition stat multiplier
+            #Get the opposition squad Id
+            oppSquadId = playerStatPredictions.loc[playerStatPredictions['roundNo'] == roundNo,
+                                                   ]['oppSquadId'].unique()[0]
+            #Identify the stat multiplier for the current round
+            if roundNo == 1:
+                statMultiplier = 1
+            else:
+                statMultiplier = teamStrengthData.loc[(teamStrengthData['squadId'] == oppSquadId) &
+                                                      (teamStrengthData['stat'] == statVar) &
+                                                      (teamStrengthData['year'] == yearToPredict) &
+                                                      (teamStrengthData['afterRound'] == (roundNo-1)),
+                                                      ].reset_index(drop = True)['strengthRatio'][0]
+                
+            #Scale the stat values using the multiplier
+            scaledStatVals = sampledStatVals * statMultiplier
+            
+            #Store values in array
+            collatedStatVals[:,roundNo-1] = scaledStatVals
+            
+            #Extract actual stat value
+            #Get match Id
+            matchId = playerStatPredictions.loc[(playerStatPredictions['roundNo'] == roundNo) &
+                                                        (playerStatPredictions['stat'] == statVar),
+                                                        ].reset_index(drop = True)['matchId'][0]
+            #Get players stat value for the match and add to array            
+            actualStatVals[roundNo-1] = playerStats[yearToPredict].loc[(playerStats[yearToPredict]['matchId'] == matchId) & 
+                                                                       (playerStats[yearToPredict]['playerId'] == playerId),
+                                                                       ].reset_index(drop = True)[statVar][0]
+            
+    #Add to plot
+    
+    #Distributions of stat predictions
+    vp = sns.violinplot(data = collatedStatVals,
+                        inner = None,
+                        linewidth = 0,
+                        width = 0.5,
+                        color = 'red', ###TODO: update to squad colour
+                        cut = True,
+                        zorder = 2,
+                        ax = ax.flatten()[courtPosPrimaryStats[playerPos].index(statVar)])
+    
+    #Lower alpha of violin
+    for poly in vp.collections:
+        poly.set_alpha(0.3)
+        
+    #Plot predicted mean
+    #### TODO: ...
+    
+    #Plot actual stat values
+    #### TODO: tidy up, don't plot values if didn't play...
+    ax.flatten()[courtPosPrimaryStats[playerPos].index(statVar)].scatter(
+        x = np.linspace(0, roundList[-1]-1, len(roundList)), y = actualStatVals,
+        s = 5, c = 'black', marker = '*',
+        zorder = 3)
+        
+                                                        
+        
+        
+        
+    
+    
+
+# %% ----- OLDER CODE BELOW ----- %% #
 
 # %% Compare stats and fantasy score predictions to actual data
 
