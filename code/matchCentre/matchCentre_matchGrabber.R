@@ -20,6 +20,7 @@ compDetails <- list(
         2017, 2018, 2019, 2020, 2021, 2022), each = 2),
   #TGC
   rep(c(2022), each = 3),
+  rep(c(2023), each = 3),
   #ANC
   rep(c(2022), each = 2),
   #Internationals
@@ -28,7 +29,7 @@ compDetails <- list(
   
   league = c(rep("ANZC", each = 16),
              rep("SSN", each = 12),
-             rep("TGC", each = 3),
+             rep("TGC", each = 6),
              rep("ANC", each = 2),
              #Internationals (more sporadic)
              "CONCUP", "ENG-SERIES", "TTU19", "CONCUP", "ENG-SERIES", "CONCUP", "SUPER-SERIES",
@@ -42,6 +43,7 @@ compDetails <- list(
     10083, 10084, 10393, 10394, 10724, 10725, 11108, 11109, 11391, 11392, 11665, 11666,
     #TGC
     11706, 11707, 11708,
+    12125, 12205, 12126,
     #ANC
     11915, 11916,
     #Internationals
@@ -85,9 +87,9 @@ for (compInd in 1:lengths(compDetails)['id']) {
 # %% Option to extract individual competition, year, league and round
 
 #Set the competition details
-compYear <- 2022
-compLeague <- "ANC"
-compId <- 11916
+compYear <- 2023
+compLeague <- "TGC"
+compId <- 12126
 
 #Set the round to get
 getRound <- 2
