@@ -18,6 +18,11 @@
     The parameters included in the statistical predictions, and hence optimised
     here are:
         
+        
+        NOTE: the parameters actually don't change the result that much, so seems
+        a little wasteful to even bother --- or more likely we can just demonstrate
+        that the selection of those parameters doesn't matter
+        
         TODO: add parameters
         
     TODO: finalise notes...    
@@ -36,6 +41,7 @@ from statsmodels.stats.weightstats import DescrStatsW
 from statsmodels.stats.moment_helpers import corr2cov
 from scipy.stats import multivariate_normal
 from scipy.optimize import minimize
+import random
 
 # %% Define functions
 
@@ -98,6 +104,114 @@ def calcFantasyScore2022(statsData, playerId, playerPos):
                     
     #Return the final calculated fantasy score
     return fantasyScore
+
+#Define the function to calculate average RMSE between actual and predicted fantasy scores
+def calcFantasyScoreError2021(x, info):
+
+    #Start with those related to the timing of games relative to current round
+    standardGameWeight = x[0] #this is applied to all games that aren't from the current year
+    currentYearGameWeight = x[1] #this is applied to all games from the current year
+    lastFourGameWeight = x[2] #this is applied to their last 4 games within current year
+    mostRecentGameWeight = x[3] #this is applied to their most recent game
+    
+    #Set a variable to store the fantasy score errors in
+    fantasyScoreRMSE = []
+    
+    #Loop through player stats data to predict
+    for dataInd in statPredictionsData.index:    
+    
+        #Get the player Id and position for calculations
+        playerId = statPredictionsData['playerId'][dataInd]
+        playerPos = playerData[2021].loc[playerData[2021]['playerId'] == playerId].reset_index()['primaryPosition'][0]
+    
+        #Set the default weights        
+        weights = np.ones(len(statPredictionsData['selectPlayerStats'][dataInd])) * standardGameWeight
+        
+        #Get current number of games from year
+        nCurrentYear = statPredictionsData['nCurrentYear'][dataInd]
+        
+        #Allocate extra weight for any matches played this year
+        if nCurrentYear > 0:
+            #Default weight for games from current year
+            weights[-nCurrentYear:] = currentYearGameWeight
+            #Allocate an appropriate weight for the players last 4 (or less) matches from the year
+            if nCurrentYear >= 4:
+                weights[-4:] = lastFourGameWeight
+            else:
+                weights[-nCurrentYear:] = lastFourGameWeight
+            #Allocate the added weight for the most recent game
+            weights[-1] = mostRecentGameWeight
+            
+        #Calculate weighted mean for player stats
+        mu = []
+        #Loop through stats
+        for stat in predictStatsList:
+            #Calculate the weighted stats
+            weightedStats = DescrStatsW(statPredictionsData['selectPlayerStats'][dataInd][stat].to_numpy(),
+                                        weights = weights)
+            #Extract the weighted stats and append to list
+            mu.append(weightedStats.mean)
+            
+        #Create covariance matrix from player stats
+        covMat = np.cov(statPredictionsData['selectPlayerStats'][dataInd].to_numpy(),
+                        rowvar = False, aweights = weights)
+        
+        #Create the multivariate normal distribution from the mean data and covariance matrix
+        ##### NOTE: covariance matrix appears ill-conditioned or singular --- correct approach?
+        predictStatsDistribution = multivariate_normal(mean = mu,
+                                                       cov = covMat,
+                                                       allow_singular = True)
+        
+        #Sample from the distribution to generate stat outcomes
+        #Converting to int avoids the issue with very small negative numbers
+        sampleStats = predictStatsDistribution.rvs(2000, random_state = int(playerId * roundNo)).astype(int)
+        
+        #Convert to dataframe for easiar manipulation
+        sampleStats_df = pd.DataFrame(data = sampleStats,
+                                      columns = predictStatsList)
+        
+        #Eliminate any +60 minute simulations as not necessarily achievable
+        sampleStats_df = sampleStats_df.loc[sampleStats_df['minutesPlayed'] <= 60]
+        
+        #Eliminate any samples that have negative stats as unachievable
+        sampleStats_df = sampleStats_df[~(sampleStats_df < 0).any(axis = 1)]
+        
+        #Calculate means from sampled data to compare to actual data
+        sampleStats_mean = sampleStats_df.mean()
+        
+        #Convert actual player stats to series for comparison
+        actualPlayerStats_vals = statPredictionsData['actualPlayerStats'][dataInd].squeeze()
+        
+        #Calculate fantasy scores for the actual and predicted stats asa the 
+        #objective measure to optimise against
+        predictedFantasyScore = calcFantasyScore2022(sampleStats_mean, playerId, playerPos)
+        actualFantasyScore = calcFantasyScore2022(actualPlayerStats_vals, playerId, playerPos)
+        
+        #Calculate the root mean square error between predicted and actual fantasy scores
+        #Append this to the variable list
+        fantasyScoreRMSE.append(np.sqrt((predictedFantasyScore - actualFantasyScore) ** 2))
+    
+    #Apply a weight across the season to RMSE so that later rounds are weighted the most
+    roundWeightings = np.array(statPredictionsData['roundNo'] / statPredictionsData['roundNo'].max())
+    
+    #Calculate the weighted fantasy score RMSE
+    weightedFantasyScoreRMSE = np.array(fantasyScoreRMSE) * roundWeightings
+    
+    #Get the average RMSE
+    avgFantasyScoreRMSE = np.mean(weightedFantasyScoreRMSE)
+    # sumFantasyScoreRMSE = np.sum(fantasyScoreRMSE)
+    
+    #Display information from function evaluation
+    #### TODO: print out headers every X iterations...
+    print('{0:4d}   {1: 3.6f}   {2: 3.6f}   {3: 3.6f}   {4: 3.6f} {5: 3.6f}'.format(info['Nfeval'], x[0], x[1], x[2], x[3], avgFantasyScoreRMSE))
+    # print('{0:4d}   {1: 3.6f}   {2: 3.6f}   {3: 3.6f}   {4: 3.6f} {5: 3.6f}'.format(info['Nfeval'], x[0], x[1], x[2], x[3], sumFantasyScoreRMSE))
+    
+    #Update function evaluation number
+    info['Nfeval'] += 1
+    
+    #Return the value
+    return avgFantasyScoreRMSE
+    # return sumFantasyScoreRMSE ### TODO: if using sum then scale this???
 
 # %% Set-up
 
@@ -468,6 +582,19 @@ for playerId in playerData[2021]['playerId']:
 statPredictionsData = pd.DataFrame.from_dict(statPredictionsDict).sort_values(
     ['matchId', 'squadId', 'playerId']).reset_index(drop = True)
 
+# %% Run some random options to test how much the game weightings actually effect result
+
+#Before actually checking whether a parameter optimisation is beneficial, we can
+#use some random values to check if it ever makes a difference. Spoiler alert ---
+#it doesn't...
+
+#Set seed for random permutations
+random.seed(12345)
+
+#Loop through and calculate fantasy score errors using random values on parameters
+for ii in range(100):
+    calcFantasyScoreError2021([random.random(), random.random(), random.random(), random.random()], {'Nfeval': ii})
+
 # %% Run the parameter optimisation on the 2021 season data
 
 #Set the weighting parameters for applying to statistics
@@ -479,128 +606,6 @@ standardGameWeight = 0.05 #this is applied to all games that aren't from the cur
 currentYearGameWeight = 0.25 #this is applied to all games from the current year
 lastFourGameWeight = 0.5 #this is applied to their last 4 games within current year
 mostRecentGameWeight = 1 #this is applied to their most recent game
-
-#Define the function to calculate average RMSE between actual and predicted fantasy scores
-#### TODO: this function can definitely be cleaned up ...
-def calcFantasyScoreError2021(x, info):
-
-    #Start with those related to the timing of games relative to current round
-    standardGameWeight = x[0] #this is applied to all games that aren't from the current year
-    currentYearGameWeight = x[1] #this is applied to all games from the current year
-    lastFourGameWeight = x[2] #this is applied to their last 4 games within current year
-    mostRecentGameWeight = x[3] #this is applied to their most recent game
-    
-    #Set a variable to store the fantasy score errors in
-    fantasyScoreRMSE = []
-    
-    #Loop through player stats data to predict
-    for dataInd in statPredictionsData.index:    
-    
-        #Get the player Id and position for calculations
-        playerId = statPredictionsData['playerId'][dataInd]
-        playerPos = playerData[2021].loc[playerData[2021]['playerId'] == playerId].reset_index()['primaryPosition'][0]
-    
-        #Set the default weights        
-        weights = np.ones(len(statPredictionsData['selectPlayerStats'][dataInd])) * standardGameWeight
-        
-        #Get current number of games from year
-        nCurrentYear = statPredictionsData['nCurrentYear'][dataInd]
-        
-        #Allocate extra weight for any matches played this year
-        if nCurrentYear > 0:
-            #Default weight for games from current year
-            weights[-nCurrentYear:] = currentYearGameWeight
-            #Allocate an appropriate weight for the players last 4 (or less) matches from the year
-            if nCurrentYear >= 4:
-                weights[-4:] = lastFourGameWeight
-            else:
-                weights[-nCurrentYear:] = lastFourGameWeight
-            #Allocate the added weight for the most recent game
-            weights[-1] = mostRecentGameWeight
-            
-        #Calculate weighted mean for player stats
-        mu = []
-        #Loop through stats
-        for stat in predictStatsList:
-            #Calculate the weighted stats
-            weightedStats = DescrStatsW(statPredictionsData['selectPlayerStats'][dataInd][stat].to_numpy(),
-                                        weights = weights)
-            #Extract the weighted stats and append to list
-            mu.append(weightedStats.mean)
-            
-        #Create covariance matrix from player stats
-        covMat = np.cov(statPredictionsData['selectPlayerStats'][dataInd].to_numpy(),
-                        rowvar = False, aweights = weights)
-        
-        #Create the multivariate normal distribution from the mean data and covariance matrix
-        ##### NOTE: covariance matrix appears ill-conditioned or singular --- correct approach?
-        predictStatsDistribution = multivariate_normal(mean = mu,
-                                                       cov = covMat,
-                                                       allow_singular = True)
-        
-        #Sample from the distribution to generate stat outcomes
-        #Converting to int avoids the issue with very small negative numbers
-        sampleStats = predictStatsDistribution.rvs(2000, random_state = int(playerId * roundNo)).astype(int)
-        
-        #Convert to dataframe for easiar manipulation
-        sampleStats_df = pd.DataFrame(data = sampleStats,
-                                      columns = predictStatsList)
-        
-        #Eliminate any +60 minute simulations as not necessarily achievable
-        sampleStats_df = sampleStats_df.loc[sampleStats_df['minutesPlayed'] <= 60]
-        
-        #Eliminate any samples that have negative stats as unachievable
-        sampleStats_df = sampleStats_df[~(sampleStats_df < 0).any(axis = 1)]
-        
-        #Calculate means from sampled data to compare to actual data
-        sampleStats_mean = sampleStats_df.mean()
-        
-        #Convert actual player stats to series for comparison
-        actualPlayerStats_vals = statPredictionsData['actualPlayerStats'][dataInd].squeeze()
-        
-        #Calculate fantasy scores for the actual and predicted stats asa the 
-        #objective measure to optimise against
-        predictedFantasyScore = calcFantasyScore2022(sampleStats_mean, playerId, playerPos)
-        actualFantasyScore = calcFantasyScore2022(actualPlayerStats_vals, playerId, playerPos)
-        
-        #Calculate the root mean square error between predicted and actual fantasy scores
-        #Append this to the variable list
-        fantasyScoreRMSE.append(np.sqrt((predictedFantasyScore - actualFantasyScore) ** 2))
-    
-    #Apply a weight across the season to RMSE so that later rounds are weighted the most
-    roundWeightings = np.array(statPredictionsData['roundNo'] / statPredictionsData['roundNo'].max())
-    
-    #Calculate the weighted fantasy score RMSE
-    weightedFantasyScoreRMSE = np.array(fantasyScoreRMSE) * roundWeightings
-    
-    #Get the average RMSE
-    avgFantasyScoreRMSE = np.mean(weightedFantasyScoreRMSE)
-    # sumFantasyScoreRMSE = np.sum(fantasyScoreRMSE)
-    
-    #Display information from function evaluation
-    #### TODO: print out headers every X iterations...
-    print('{0:4d}   {1: 3.6f}   {2: 3.6f}   {3: 3.6f}   {4: 3.6f} {5: 3.6f}'.format(info['Nfeval'], x[0], x[1], x[2], x[3], avgFantasyScoreRMSE))
-    # print('{0:4d}   {1: 3.6f}   {2: 3.6f}   {3: 3.6f}   {4: 3.6f} {5: 3.6f}'.format(info['Nfeval'], x[0], x[1], x[2], x[3], sumFantasyScoreRMSE))
-    
-    #Update function evaluation number
-    info['Nfeval'] += 1
-    
-    #Return the value
-    return avgFantasyScoreRMSE
-    # return sumFantasyScoreRMSE ### TODO: if using sum then scale this???
-
-# %% Run some random options to test how much the game weightings actually effect result
-
-#### NOTE: below process demonstrates that these weights don't make much difference and hence
-#### don't really need to be optimised...
-
-import random
-
-random.seed(12345)
-for ii in range(100):
-    calcFantasyScoreError2021([random.random(), random.random(), random.random(), random.random()], {'Nfeval': ii})
-
-# %%
 
 #Run optimisation
 #### TODO: the optimisation here takes far too long due to the amount of time a 
@@ -615,14 +620,9 @@ res = minimize(calcFantasyScoreError2021, x0,
                bounds = ((1e-10, 1), (1e-10, 1), (1e-10, 1), (1e-10, 1)), #bounds set to weight between basically 0 and 1
                method = 'Nelder-Mead',
                tol = 1e-5, ### TODO: tolerance to use???
-               options = {'disp': True}) 
+               options = {'disp': True})
 
-
-
-
-# %% Extract the relevant actual stats across players from the 2020 and 2021 seasons
-#    These will be used as the 'training' dataset for optimising prediction parameters
-
+# %% 
 
 
 

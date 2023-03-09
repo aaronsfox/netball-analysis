@@ -28,76 +28,19 @@
 
 import pandas as pd
 import os
-from difflib import SequenceMatcher
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from statsmodels.stats.weightstats import DescrStatsW
-from statsmodels.stats.moment_helpers import corr2cov
 from scipy.stats import multivariate_normal, norm
 from sklearn import linear_model
 from sklearn.metrics import mean_squared_error, r2_score
 import pickle
+import helperFunctions as helper
 
 # %% Define functions
 
-#Create a function that calculates 2022 fantasy score from a series
-def calcFantasyScore2022(statsData, playerId, playerPos):
-    
-    #Set the 2022 scoring system
-    pointVals = {'goal1': 2, 'goal2': 5, 'goalMisses': -5,
-                 'goalAssists': 3, 'feedWithAttempt': 1,
-                 'gain': 5, 'intercepts': 7, 'deflections': 6,
-                 'rebounds': 5, 'pickups': 7,
-                 'generalPlayTurnovers': -5, 'interceptPassThrown': -2,
-                 'badHands': -2, 'badPasses': -2, 'offsides': -2}
-        
-    #Set a variable to calculate fantasy score
-    fantasyScore = 0
 
-    #Calculate score if player is predicted to have played
-    if statsData['minutesPlayed'] > 0:
-        
-        #Add to fantasy score for getting on court
-        fantasyScore += 16 #starting score allocated to those who get on court
-        
-        #Predict how many quarters the player was on for
-        #Rough way of doing this is diving by quarter length of 15
-        #Take the rounded ceiling of this to estimate quarters played
-        fantasyScore += int(np.ceil(statsData['minutesPlayed'] / 15) * 4)
-        
-        #Loop through the scoring elements and add the scoring for these
-        for stat in list(pointVals.keys()):
-            fantasyScore += statsData[stat] * pointVals[stat]
-            
-        #Calculate centre pass receives points
-        #This requires different point values across the various positions
-        #Here we make an estimate that attacking players would be in the GA/WA group
-        #and that defensive players would be in the GD/WD group
-        if playerPos in ['GS', 'GA', 'WA', 'C']:
-            fantasyScore += np.floor(statsData['centrePassReceives'] / 2) * 1
-        elif playerPos in ['WD', 'GD', 'GK']:
-            fantasyScore += statsData['centrePassReceives'] * 3
-        
-        #Calculate penalty points
-        fantasyScore += np.floor((statsData['obstructionPenalties'] + statsData['contactPenalties']) / 2) * -1
-        
-        #Estimate the time played in WD based on player position
-        #8 points for half a game at WD / 16 points for a full game at WD
-        #Here we'll provide partial points on the basis of minutes played
-        #alongside the fantasy position. If a player is exclusively a WD then
-        #we'll allocate all of the partial points, but if they're DPP then
-        #we'll allocate half of the partial points. This gives an inexact
-        #estimate, but may be the best we can do.
-        if playerPos == 'WD':
-            #Check if minutes played is > than a half of play (i.e. 30 mins)
-            if statsData['minutesPlayed'] > 30:
-                fantasyScore += ((16-8) * (statsData['minutesPlayed'] - 30) / 30) + 8
-            else:
-                fantasyScore += (((16-8) * (statsData['minutesPlayed'] - 30) / 30) + 8) / 2
-                    
-    #Return the final calculated fantasy score
-    return fantasyScore
 
 # %% Set-up
 
@@ -256,6 +199,7 @@ playerData[2022] = pd.DataFrame.from_dict(playerDict[2022])
 #Regular season data
 for year in [2020,2021,2022]:
     playerStats[year] = playerStats[year][selectStatsList]
+    
 #Preaseason data
 # playerStatsPreseason[2022] = playerStatsPreseason[2022][selectStatsList.remove]
 
@@ -327,117 +271,6 @@ for squadId in list(squadDict.keys()):
             
 #Convert to dataframe
 teamStrengthData = pd.DataFrame.from_dict(teamStrengthDict)
-            
-# %% Test out the consistency rating metric
-
-#Set year to examine
-yearToExamine = 2022
-
-#Set metric to test on
-metricToExamine = 'netPoints'
-
-#Get total number of rounds
-roundList = list(playerStats[yearToExamine]['roundNo'].unique())
-roundList.sort()
-
-#Create dictionary to store data in
-consistencyRatingDict = {'playerId': [], 'squadId': [], 'afterRound': [],
-                         'consistencyRating': []}
-
-#Loop through players to create rolling consistency rating over each round of the season
-for playerId in playerData[yearToExamine]['playerId']:
-    
-    #Extract the players data for games they played
-    playerStatData = playerStats[yearToExamine].loc[(playerStats[yearToExamine]['playerId'] == playerId) &
-                                                    (playerStats[yearToExamine]['minutesPlayed'] > 0),
-                                                    ['matchId', 'squadId', 'playerId', 'roundNo', 'minutesPlayed', metricToExamine]]
-    
-    #Loop through rounds and calculate consistency rating
-    #Start at second round given that round 1 alone isn't relevant
-    for roundNo in np.linspace(2, np.max(roundList), np.max(roundList)-1):
-        
-        #Create check to see if player has played more than 1 game to calculate consistency
-        if len(playerStatData) > 1:
-        
-            #Calculate mean and standard deviation of metric after current round
-            mu = playerStatData.loc[playerStatData['roundNo'] <= roundNo,]['netPoints'].mean()
-            sigma = playerStatData.loc[playerStatData['roundNo'] <= roundNo,]['netPoints'].std()
-            
-            #Calculate consistency rating
-            cr = sigma/mu
-            
-            #Append data to dictionary
-            consistencyRatingDict['playerId'].append(playerId)
-            consistencyRatingDict['squadId'].append(playerStatData['squadId'].unique()[0])
-            consistencyRatingDict['afterRound'].append(roundNo)
-            consistencyRatingDict['consistencyRating'].append(cr)
-            
-#Convert to dataframe
-consistencyRating = pd.DataFrame.from_dict(consistencyRatingDict)
-    
-##### NOTE: negative and nan values are possible here due to negative or zero netpoints
-
-# %% Test out a linear prediction model of NetPoints on the basis of predicted stats
-#    The general point of this is that we can't calculate NetPoints based on the
-#    stats provided in the match centre. If a linear model from the stats we can
-#    predict well works, then we can estimate NetPoints relatively well
-
-# NOTE: it's possible this might work better in positional groupings, given the
-# fact that different stats likely contribute to the NetPoints
-
-# NOTE: there's also likely a significant amount of multicollinearity in the
-# predictor variables here
-
-#Test out on a specific year to begin with
-yearToExamine = 2022
-
-#Set the metric to predict
-metricToPredict = 'netPoints'
-
-#Set the position to predict
-posToPredict = 'GS'
-predictPlayers = playerData[yearToExamine].loc[playerData[yearToExamine]['primaryPosition'] == posToPredict,
-                                               ]['playerId'].to_list()
-
-#Extract the data to an array for model
-# X = playerStats[yearToExamine][predictStatsList].to_numpy()
-X = playerStats[yearToExamine].loc[playerStats[yearToExamine]['playerId'].isin(predictPlayers),
-                                   ][predictStatsList].to_numpy()
-
-#Extract the metric to predict
-# Y = playerStats[yearToExamine][metricToPredict].to_numpy()
-Y = playerStats[yearToExamine].loc[playerStats[yearToExamine]['playerId'].isin(predictPlayers),
-                                   ][metricToPredict].to_numpy()
-
-#Extract training and test datasets (70:30 split)
-np.random.seed(12345)
-indices = np.random.permutation(X.shape[0])
-trainingInd, testInd = indices[:int(X.shape[0]*0.7)], indices[int(X.shape[0]*0.7):]
-X_train, X_test = X[trainingInd,:], X[testInd,:]
-Y_train, Y_test = Y[trainingInd], Y[testInd]
-
-#Create linear regression object
-linRegMod = linear_model.LinearRegression()
-
-#Train the model using the training sets
-linRegMod.fit(X_train, Y_train)
-
-#Make predictions using the testing set
-Y_pred = linRegMod.predict(X_test)
-
-#Display the coefficients
-print('Coefficients: \n', linRegMod.coef_)
-
-#Display the mean squared error
-print('Mean squared error: %.2f' % mean_squared_error(Y_test, Y_pred))
-
-#The coefficient of determination: 1 is perfect prediction
-print('Coefficient of determination: %.2f' % r2_score(Y_test, Y_pred))
-
-#### On even overall data the coefficient of determination is quite high (0.95)
-#### Added in components above the split by primary position to see if this improves
-    #### Using just the GS position the MSE is similar, but the coefficient of
-    #### determination slightly improves (0.97)
 
 # %% Run stat predictions for 2022 season
 #    Note that this prediction is week-to-week, whereby only one week is predicted
@@ -446,6 +279,9 @@ print('Coefficient of determination: %.2f' % r2_score(Y_test, Y_pred))
 
 ##### TODO: need a rostered player database for which players to predict for each week
 ##### This can link up to the player positions database too
+
+#Set a conditional whether to predict or load stats
+runStatPredictions2022 = False
 
 #Set year to predict
 yearToPredict = 2022
@@ -457,156 +293,163 @@ yearsOfData = [2020, 2021]
 roundList = list(playerStats[yearToPredict]['roundNo'].unique())
 roundList.sort()
 
-#Create dictionaries to store predicted data
-statPredictionsDict = {'matchId': [], 'playerId': [], 'squadId': [], 'oppSquadId': [],
-                       'roundNo': [], 'stat': [], 'normDistribution': []}
-
 #Loop through player Id's in fantasy details
 for playerId in playerData[yearToPredict]['playerId']:
     
-    #Loop through rounds and make predictions
-    for roundNo in roundList:
+    #Check whether to run stats predictions, otherwise we load the data
+    if runStatsPredictions2022:
+    
+        #Create dictionary to store predicted data
+        statPredictionsDict = {'matchId': [], 'playerId': [], 'squadId': [], 'oppSquadId': [],
+                               'roundNo': [], 'stat': [], 'normDistribution': []}
         
-        #Extract past year statistics and any that precede current round
-        pastYearStats = pd.concat([playerStats[getYear].loc[playerStats[getYear]['playerId'] == playerId, predictStatsList] for getYear in yearsOfData])
-        currentYearStats = playerStats[yearToPredict].loc[(playerStats[yearToPredict]['playerId'] == playerId) &
-                                                          (playerStats[yearToPredict]['roundNo'] < roundNo), predictStatsList]
-        selectPlayerStats = pd.concat([pastYearStats, currentYearStats])
-        
-        #Check if preseason stats are needed for the player 
-        #We'll use these if there are < 4 games worth of data
-        if len(selectPlayerStats) < 4:
-            #Extract preseason stats
-            selectPlayerPreseasonStats = playerStatsPreseason[yearToPredict].loc[playerStatsPreseason[yearToPredict]['playerId'] == playerId, predictStatsList]
-            #Multiply the preseason stats by 1.5 so they match a 60 minute game
-            selectPlayerPreseasonStats = selectPlayerPreseasonStats * 1.5
-            #Concatenate regular to preseason stats
-            selectPlayerStats = pd.concat([selectPlayerPreseasonStats, selectPlayerStats])
-        
-        #Get the actual player stats for the present round
-        actualPlayerStats = playerStats[yearToPredict].loc[(playerStats[yearToPredict]['playerId'] == playerId) &
-                                                           (playerStats[yearToPredict]['roundNo'] == roundNo),
-                                                           predictStatsList].reset_index(drop = True)
-        
-        #Check if player was actually listed for the game
-        #We also need stats to predict, so check this here too
-        #### TODO: will eventually need to change this in some way to simply predict
-        #### everyone and give low values to those who aren't expected to play
-        if len(actualPlayerStats) > 0 and len(selectPlayerStats) > 0:
-        
-            #Get match details
-            matchId, squadId, oppSquadId = list(playerStats[yearToPredict].loc[(playerStats[yearToPredict]['playerId'] == playerId) &
-                                                                               (playerStats[2022]['roundNo'] == roundNo),
-                                                                               ].reset_index().iloc[0][['matchId',
-                                                                                                        'squadId',
-                                                                                                        'oppSquadId']
-                                                                                                        ].to_numpy(dtype = int))
+        #Loop through rounds and make predictions
+        for roundNo in roundList:
             
-            #Set the weights for. See weights in set-up section for values
-            #Have tested if there is an actual impact of these weights, yet changing
-            #them doesn't really improve predictions that much. So the selection
-            #of these weights is pretty much driven by subjective opinion
-            #The process for applying weights is as follows:
-                # Begin by giving the standard weight for every match
-                # Any matches from this year (i.e. based on round number) get increased to the current year game weight
-                # The last 4 matches from the current year get increased to the last four game weight
-                # The last match from the current year gets increased to the most recent game weight
-            #### TODO: consider if this works for missed matches in a year?
-            #### TODO: consider other options for weights?
-            #### TODO: consider if player misses a year?
+            #Extract past year statistics and any that precede current round
+            pastYearStats = pd.concat([playerStats[getYear].loc[playerStats[getYear]['playerId'] == playerId, predictStatsList] for getYear in yearsOfData])
+            currentYearStats = playerStats[yearToPredict].loc[(playerStats[yearToPredict]['playerId'] == playerId) &
+                                                              (playerStats[yearToPredict]['roundNo'] < roundNo), predictStatsList]
+            selectPlayerStats = pd.concat([pastYearStats, currentYearStats])
             
-            #Set the default weights        
-            weights = np.ones(len(selectPlayerStats)) * standardGameWeight
+            #Check if preseason stats are needed for the player 
+            #We'll use these if there are < 4 games worth of data
+            if len(selectPlayerStats) < 4:
+                #Extract preseason stats
+                selectPlayerPreseasonStats = playerStatsPreseason[yearToPredict].loc[playerStatsPreseason[yearToPredict]['playerId'] == playerId, predictStatsList]
+                #Multiply the preseason stats by 1.5 so they match a 60 minute game
+                selectPlayerPreseasonStats = selectPlayerPreseasonStats * 1.5
+                #Concatenate regular to preseason stats
+                selectPlayerStats = pd.concat([selectPlayerPreseasonStats, selectPlayerStats])
             
-            #Check how many games have come from this year
-            nCurrentYear = len(playerStats[yearToPredict].loc[(playerStats[yearToPredict]['playerId'] == playerId) &
-                                                              (playerStats[yearToPredict]['roundNo'] < roundNo), predictStatsList])
+            #Get the actual player stats for the present round
+            actualPlayerStats = playerStats[yearToPredict].loc[(playerStats[yearToPredict]['playerId'] == playerId) &
+                                                               (playerStats[yearToPredict]['roundNo'] == roundNo),
+                                                               predictStatsList].reset_index(drop = True)
             
-            #Check how many games are from the past year
-            nPastYear = len(playerStats[yearToPredict-1].loc[playerStats[yearToPredict-1]['playerId'] == playerId, predictStatsList])
+            #Check if player was actually listed for the game
+            #We also need stats to predict, so check this here too
+            #### TODO: will eventually need to change this in some way to simply predict
+            #### everyone and give low values to those who aren't expected to play
+            if len(actualPlayerStats) > 0 and len(selectPlayerStats) > 0:
             
-            #Allocate extra weight for matches played in the past year
-            if nPastYear > 0:
-                #Default weight for games from current year
-                weights[-(nPastYear+nCurrentYear):] = pastYearGameWeight
+                #Get match details
+                matchId, squadId, oppSquadId = list(playerStats[yearToPredict].loc[(playerStats[yearToPredict]['playerId'] == playerId) &
+                                                                                   (playerStats[2022]['roundNo'] == roundNo),
+                                                                                   ].reset_index().iloc[0][['matchId',
+                                                                                                            'squadId',
+                                                                                                            'oppSquadId']
+                                                                                                            ].to_numpy(dtype = int))
                 
-            
-            #Allocate extra weight for any matches played this year
-            if nCurrentYear > 0:
-                #Default weight for games from current year
-                weights[-nCurrentYear:] = currentYearGameWeight
-                #Allocate an appropriate weight for the players last 4 (or less) matches from the year
-                if nCurrentYear >= 4:
-                    weights[-4:] = lastFourGameWeight
+                #Set the weights for. See weights in set-up section for values
+                #Have tested if there is an actual impact of these weights, yet changing
+                #them doesn't really improve predictions that much. So the selection
+                #of these weights is pretty much driven by subjective opinion
+                #The process for applying weights is as follows:
+                    # Begin by giving the standard weight for every match
+                    # Any matches from this year (i.e. based on round number) get increased to the current year game weight
+                    # The last 4 matches from the current year get increased to the last four game weight
+                    # The last match from the current year gets increased to the most recent game weight
+                #### TODO: consider if this works for missed matches in a year?
+                #### TODO: consider other options for weights?
+                #### TODO: consider if player misses a year?
+                
+                #Set the default weights        
+                weights = np.ones(len(selectPlayerStats)) * standardGameWeight
+                
+                #Check how many games have come from this year
+                nCurrentYear = len(playerStats[yearToPredict].loc[(playerStats[yearToPredict]['playerId'] == playerId) &
+                                                                  (playerStats[yearToPredict]['roundNo'] < roundNo), predictStatsList])
+                
+                #Check how many games are from the past year
+                nPastYear = len(playerStats[yearToPredict-1].loc[playerStats[yearToPredict-1]['playerId'] == playerId, predictStatsList])
+                
+                #Allocate extra weight for matches played in the past year
+                if nPastYear > 0:
+                    #Default weight for games from current year
+                    weights[-(nPastYear+nCurrentYear):] = pastYearGameWeight
+                    
+                
+                #Allocate extra weight for any matches played this year
+                if nCurrentYear > 0:
+                    #Default weight for games from current year
+                    weights[-nCurrentYear:] = currentYearGameWeight
+                    #Allocate an appropriate weight for the players last 4 (or less) matches from the year
+                    if nCurrentYear >= 4:
+                        weights[-4:] = lastFourGameWeight
+                    else:
+                        weights[-nCurrentYear:] = lastFourGameWeight
+                    #Allocate the added weight for the most recent game
+                    weights[-1] = mostRecentGameWeight
+                    
+                #Calculate weighted mean for player stats
+                mu = []
+                #Loop through stats
+                for stat in predictStatsList:
+                    #Calculate the weighted stats
+                    weightedStats = DescrStatsW(selectPlayerStats[stat].to_numpy(),
+                                                weights = weights)
+                    #Extract the weighted stats and append to list
+                    mu.append(weightedStats.mean)
+                    
+                #Create covariance matrix from player stats
+                if len(selectPlayerStats) > 1:
+                    covMat = np.cov(selectPlayerStats.to_numpy(), rowvar = False, aweights = weights)
                 else:
-                    weights[-nCurrentYear:] = lastFourGameWeight
-                #Allocate the added weight for the most recent game
-                weights[-1] = mostRecentGameWeight
+                    covMat = np.cov(selectPlayerStats.to_numpy(), rowvar = False)
                 
-            #Calculate weighted mean for player stats
-            mu = []
-            #Loop through stats
-            for stat in predictStatsList:
-                #Calculate the weighted stats
-                weightedStats = DescrStatsW(selectPlayerStats[stat].to_numpy(),
-                                            weights = weights)
-                #Extract the weighted stats and append to list
-                mu.append(weightedStats.mean)
+                #Create the multivariate normal distribution from the mean data and covariance matrix
+                #### NOTE: covariance matrix appears ill-conditioned or singular --- correct approach?
+                predictStatsDistribution = multivariate_normal(mean = mu,
+                                                               cov = covMat,
+                                                               allow_singular = True)
                 
-            #Create covariance matrix from player stats
-            if len(selectPlayerStats) > 1:
-                covMat = np.cov(selectPlayerStats.to_numpy(), rowvar = False, aweights = weights)
-            else:
-                covMat = np.cov(selectPlayerStats.to_numpy(), rowvar = False)
-            
-            #Create the multivariate normal distribution from the mean data and covariance matrix
-            #### NOTE: covariance matrix appears ill-conditioned or singular --- correct approach?
-            predictStatsDistribution = multivariate_normal(mean = mu,
-                                                           cov = covMat,
-                                                           allow_singular = True)
-            
-            #Sample from the distribution to generate stat outcome options
-            #Converting to int avoids the issue with very small negative numbers
-            #### TODO: consider more appropriate seed when simulating the game multiple times...
-            sampleStats = predictStatsDistribution.rvs(2000, random_state = int(playerId * roundNo)).astype(int)
-            
-            #Convert to dataframe for easiar manipulation
-            sampleStats_df = pd.DataFrame(data = sampleStats,
-                                          columns = predictStatsList)
-            
-            #Eliminate any +60 minute simulations as not necessarily achievable
-            sampleStats_df = sampleStats_df.loc[sampleStats_df['minutesPlayed'] <= 60]
-            
-            #Eliminate any samples that have negative stats as unachievable
-            sampleStats_df = sampleStats_df[~(sampleStats_df < 0).any(axis = 1)]
-            
-            #Calculate summary statistics from the sampled stats
-            sampleStats_summary = sampleStats_df.describe()
-            
-            #Loop through each stat and store data related to predictions
-            #Here we create and store a normal distribution based on the samples
-            for statVar in sampleStats_summary.columns:
-                statPredictionsDict['matchId'].append(matchId)
-                statPredictionsDict['playerId'].append(playerId)
-                statPredictionsDict['squadId'].append(squadId)
-                statPredictionsDict['oppSquadId'].append(oppSquadId)
-                statPredictionsDict['roundNo'].append(roundNo)
-                statPredictionsDict['stat'].append(statVar)
-                statPredictionsDict['normDistribution'].append(norm(sampleStats_summary[statVar]['mean'],
-                                                                    sampleStats_summary[statVar]['std']))
+                #Sample from the distribution to generate stat outcome options
+                #Converting to int avoids the issue with very small negative numbers
+                #### TODO: consider more appropriate seed when simulating the game multiple times...
+                sampleStats = predictStatsDistribution.rvs(2000, random_state = int(playerId * roundNo)).astype(int)
                 
-#Save this dictionary to avoid repeating the time consuming process
-#### TODO: file is quite large --- cPickle might be a better option?
-with open('statPredictions2022.pkl', 'wb') as pickleFile:
-    pickle.dump(statPredictionsDict, pickleFile,
-                protocol = pickle.HIGHEST_PROTOCOL)
+                #Convert to dataframe for easiar manipulation
+                sampleStats_df = pd.DataFrame(data = sampleStats,
+                                              columns = predictStatsList)
+                
+                #Eliminate any +60 minute simulations as not necessarily achievable
+                sampleStats_df = sampleStats_df.loc[sampleStats_df['minutesPlayed'] <= 60]
+                
+                #Eliminate any samples that have negative stats as unachievable
+                sampleStats_df = sampleStats_df[~(sampleStats_df < 0).any(axis = 1)]
+                
+                #Calculate summary statistics from the sampled stats
+                sampleStats_summary = sampleStats_df.describe()
+                
+                #Loop through each stat and store data related to predictions
+                #Here we create and store a normal distribution based on the samples
+                for statVar in sampleStats_summary.columns:
+                    statPredictionsDict['matchId'].append(matchId)
+                    statPredictionsDict['playerId'].append(playerId)
+                    statPredictionsDict['squadId'].append(squadId)
+                    statPredictionsDict['oppSquadId'].append(oppSquadId)
+                    statPredictionsDict['roundNo'].append(roundNo)
+                    statPredictionsDict['stat'].append(statVar)
+                    statPredictionsDict['normDistribution'].append(norm(sampleStats_summary[statVar]['mean'],
+                                                                        sampleStats_summary[statVar]['std']))
+                    
+        #Save the current players data to file
+        with open(f'..\\results\\statPredictions2022\\{playerId}.pkl', 'wb') as pickleFile:
+            pickle.dump(statPredictionsDict, pickleFile,
+                        protocol = pickle.HIGHEST_PROTOCOL)
+                
+    # else:
+        
+    #     #Load the players data
+
 
 #Convert predictions to dataframe
 statPredictions = pd.DataFrame.from_dict(statPredictionsDict).sort_values(
         ['matchId', 'squadId', 'playerId']).reset_index(drop = True)
 
 # %% Create an example visual comparing predicted stat accuracy
-#    Example here used is Kayte Moloney
+#    Example here used is Kate Moloney
 
 ##### TODO: up to creating this visualisation...
 
@@ -717,10 +560,118 @@ for statVar in courtPosPrimaryStats[playerPos]:
         x = np.linspace(0, roundList[-1]-1, len(roundList)), y = actualStatVals,
         s = 5, c = 'black', marker = '*',
         zorder = 3)
-        
+
+# %% Test out a linear prediction model of NetPoints on the basis of predicted stats
+#    The general point of this is that we can't calculate NetPoints based on the
+#    stats provided in the match centre. If a linear model from the stats we can
+#    predict well works, then we can estimate NetPoints relatively well
+
+# NOTE: it's possible this might work better in positional groupings, given the
+# fact that different stats likely contribute to the NetPoints
+
+# NOTE: there's also likely a significant amount of multicollinearity in the
+# predictor variables here
+
+#Test out on a specific year to begin with
+yearToExamine = 2022
+
+#Set the metric to predict
+metricToPredict = 'netPoints'
+
+#Set the position to predict
+posToPredict = 'GS'
+predictPlayers = playerData[yearToExamine].loc[playerData[yearToExamine]['primaryPosition'] == posToPredict,
+                                               ]['playerId'].to_list()
+
+#Extract the data to an array for model
+# X = playerStats[yearToExamine][predictStatsList].to_numpy()
+X = playerStats[yearToExamine].loc[playerStats[yearToExamine]['playerId'].isin(predictPlayers),
+                                   ][predictStatsList].to_numpy()
+
+#Extract the metric to predict
+# Y = playerStats[yearToExamine][metricToPredict].to_numpy()
+Y = playerStats[yearToExamine].loc[playerStats[yearToExamine]['playerId'].isin(predictPlayers),
+                                   ][metricToPredict].to_numpy()
+
+#Extract training and test datasets (70:30 split)
+np.random.seed(12345)
+indices = np.random.permutation(X.shape[0])
+trainingInd, testInd = indices[:int(X.shape[0]*0.7)], indices[int(X.shape[0]*0.7):]
+X_train, X_test = X[trainingInd,:], X[testInd,:]
+Y_train, Y_test = Y[trainingInd], Y[testInd]
+
+#Create linear regression object
+linRegMod = linear_model.LinearRegression()
+
+#Train the model using the training sets
+linRegMod.fit(X_train, Y_train)
+
+#Make predictions using the testing set
+Y_pred = linRegMod.predict(X_test)
+
+#Display the coefficients
+print('Coefficients: \n', linRegMod.coef_)
+
+#Display the mean squared error
+print('Mean squared error: %.2f' % mean_squared_error(Y_test, Y_pred))
+
+#The coefficient of determination: 1 is perfect prediction
+print('Coefficient of determination: %.2f' % r2_score(Y_test, Y_pred))
+
+#### On even overall data the coefficient of determination is quite high (0.95)
+#### Added in components above the split by primary position to see if this improves
+    #### Using just the GS position the MSE is similar, but the coefficient of
+    #### determination slightly improves (0.97)    
                                                         
         
+# %% Test out the consistency rating metric
+
+#Set year to examine
+yearToExamine = 2022
+
+#Set metric to test on
+metricToExamine = 'netPoints'
+
+#Get total number of rounds
+roundList = list(playerStats[yearToExamine]['roundNo'].unique())
+roundList.sort()
+
+#Create dictionary to store data in
+consistencyRatingDict = {'playerId': [], 'squadId': [], 'afterRound': [],
+                         'consistencyRating': []}
+
+#Loop through players to create rolling consistency rating over each round of the season
+for playerId in playerData[yearToExamine]['playerId']:
+    
+    #Extract the players data for games they played
+    playerStatData = playerStats[yearToExamine].loc[(playerStats[yearToExamine]['playerId'] == playerId) &
+                                                    (playerStats[yearToExamine]['minutesPlayed'] > 0),
+                                                    ['matchId', 'squadId', 'playerId', 'roundNo', 'minutesPlayed', metricToExamine]]
+    
+    #Loop through rounds and calculate consistency rating
+    #Start at second round given that round 1 alone isn't relevant
+    for roundNo in np.linspace(2, np.max(roundList), np.max(roundList)-1):
         
+        #Create check to see if player has played more than 1 game to calculate consistency
+        if len(playerStatData) > 1:
+        
+            #Calculate mean and standard deviation of metric after current round
+            mu = playerStatData.loc[playerStatData['roundNo'] <= roundNo,]['netPoints'].mean()
+            sigma = playerStatData.loc[playerStatData['roundNo'] <= roundNo,]['netPoints'].std()
+            
+            #Calculate consistency rating
+            cr = sigma/mu
+            
+            #Append data to dictionary
+            consistencyRatingDict['playerId'].append(playerId)
+            consistencyRatingDict['squadId'].append(playerStatData['squadId'].unique()[0])
+            consistencyRatingDict['afterRound'].append(roundNo)
+            consistencyRatingDict['consistencyRating'].append(cr)
+            
+#Convert to dataframe
+consistencyRating = pd.DataFrame.from_dict(consistencyRatingDict)
+    
+##### NOTE: negative and nan values are possible here due to negative or zero netpoints
         
     
     
