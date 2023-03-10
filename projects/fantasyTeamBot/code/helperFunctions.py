@@ -28,6 +28,88 @@ import random
 # %% Calculate fantasy score using 2022 system
 
 #Function calculates NetballScoop fantasy score from a data series using 2022 scoring system
+def calcFantasyScore2023(statsData = None, playerPos = None):
+    
+    """
+    
+    Inputs:
+        
+        statsData - a pandas series object that contains the values for relevant stats
+        playerPos - string of the players primary court playing position
+        
+    Outputs:
+        
+        fantasyScore - calculated fantasy score value
+    
+    """
+    
+    #Function input checks
+    
+    #Check for all variables
+    if statsData is None or playerPos is None:
+        raise ValueError('All inputs are required for function to run.')
+        
+    #Check for appropriate court position
+    if playerPos not in ['GS', 'GA', 'WA', 'C', 'WD', 'GD', 'GK']:
+        raise ValueError("Player position must be one of 'GS', 'GA', 'WA', 'C', 'WD', 'GD' or 'GK'")
+    
+    #Set the 2022 scoring system
+    pointVals = {'goal1': 2, 'goal2': 6, 'goalMisses': -5,
+                 'goalAssists': 4,
+                 'gain': 5, 'intercepts': 10, 'deflections': 6,
+                 'rebounds': 5, 'pickups': 6,
+                 'generalPlayTurnovers': -5, 'interceptPassThrown': -5}
+        
+    #Set a variable to calculate fantasy score
+    fantasyScore = 0
+
+    #Calculate score if player is predicted to have played
+    if statsData['minutesPlayed'] > 0:
+        
+        #Add to fantasy score for getting on court
+        fantasyScore += 12 #starting score allocated to those who get on court
+        
+        #Predict how many quarters the player was on for
+        #Rough way of doing this is diving by quarter length of 15
+        #Take the rounded ceiling of this to estimate quarters played
+        fantasyScore += int(np.ceil(statsData['minutesPlayed'] / 15) * 4)
+        
+        #Loop through the scoring elements and add the scoring for these
+        for stat in list(pointVals.keys()):
+            fantasyScore += statsData[stat] * pointVals[stat]
+            
+        #Calculate centre pass receives points
+        #This requires different point values across the various positions
+        #Here we make an estimate that attacking players would be in the GA/WA group
+        #and that defensive players would be in the GD/WD group
+        if playerPos in ['GS', 'GA', 'WA', 'C']:
+            fantasyScore += np.floor(statsData['centrePassReceives'] / 2) * 1
+        elif playerPos in ['WD', 'GD', 'GK']:
+            fantasyScore += statsData['centrePassReceives'] * 3
+        
+        #Calculate penalty points
+        fantasyScore += np.floor((statsData['obstructionPenalties'] + statsData['contactPenalties']) / 2) * -1
+        
+        #Estimate the time played in WD based on player position
+        #8 points for half a game at WD / 16 points for a full game at WD
+        #Here we'll provide partial points on the basis of minutes played
+        #alongside the fantasy position. If a player is exclusively a WD then
+        #we'll allocate all of the partial points, but if they're DPP then
+        #we'll allocate half of the partial points. This gives an inexact
+        #estimate, but may be the best we can do.
+        if playerPos == 'WD':
+            #Check if minutes played is > than a half of play (i.e. 30 mins)
+            if statsData['minutesPlayed'] > 30:
+                fantasyScore += ((16-8) * (statsData['minutesPlayed'] - 30) / 30) + 6
+            else:
+                fantasyScore += (((16-8) * (statsData['minutesPlayed'] - 30) / 30) + 6) / 2
+                    
+    #Return the final calculated fantasy score
+    return fantasyScore
+
+# %% Calculate fantasy score using 2022 system
+
+#Function calculates NetballScoop fantasy score from a data series using 2022 scoring system
 def calcFantasyScore2022(statsData = None, playerPos = None):
     
     """
