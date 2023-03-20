@@ -15,7 +15,7 @@ library(here)
 compDetails <- list(
   
   year = c(
-  #ANZC+SSN
+  #ANZC+SSN (TODO: add SSN 2023)
   rep(c(2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016,
         2017, 2018, 2019, 2020, 2021, 2022), each = 2),
   #TGC
@@ -88,11 +88,11 @@ for (compInd in 1:lengths(compDetails)['id']) {
 
 #Set the competition details
 compYear <- 2023
-compLeague <- "TGC"
-compId <- 12126
+compLeague <- "SSN"
+compId <- 12045
 
 #Set the round to get
-getRound <- 2
+getRound <- 1
 
 #Loop through matches (set to irresponsibly large value but breaks used)
 for (getMatch in 1:25) {
