@@ -61,7 +61,7 @@ def getSeasonStats(baseDir = None,
     #Set a dictionary to identify regular, finals and TGC competition Id's
     compIdCheck = {
         'regular': [8005, 8012, 8018, 8028, 8035, 9084, 9563, 9818, 
-                    10083, 10393, 10724, 11108, 11391, 11665],
+                    10083, 10393, 10724, 11108, 11391, 11665, 12045],
         'final': [8006, 8013, 8019, 8029, 8036, 9085, 9564, 9819,
                   10084, 10394, 10725, 11109, 11392, 11666],
         'preseason': [11706, 11707, 11708, 12125, 12205, 12126],
