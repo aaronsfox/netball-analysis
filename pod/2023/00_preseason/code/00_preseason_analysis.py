@@ -7,8 +7,7 @@
     Deakin University
     aaron.f@deakin.edu.au
     
-    Code to compile some data examining the prelim final Giants match-up
-    and grand final preview for podcast.
+    Code to compile some data examining the 2022 season and preseason.
     
 """
 
