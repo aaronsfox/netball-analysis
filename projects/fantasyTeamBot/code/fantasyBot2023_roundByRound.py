@@ -27,7 +27,7 @@ from difflib import SequenceMatcher
 ##### CHANGE INFO WITHIN HERE ######
 
 #Predict from which round
-startPredictionsFromRound = 2
+startPredictionsFromRound = 3
 
 #Set number of trades made
 #NOTE: trades made for round 2 = 1
@@ -363,7 +363,7 @@ weightProfit = 0.1
 #Set the team budget
 #### TODO: this will change on the basis of player price changes...
 teamBudgetMax = 800000
-teamBudgetMin = 78000
+teamBudgetMin = 750000
 
 #Run an integer programming optimisation to identify an optimal 10-player team
 #Considering what we currently have + maximising score & price w/ 2 trades
@@ -506,8 +506,8 @@ problemTeam += pl.lpSum([((points[ii] * weightPoints) + (priceChange[ii] * weigh
 problemTeam += pl.lpSum([playerVar[ii] for ii in players]) == 10, 'totalPlayers10'
 
 #Total price being within budget
-problemTeam += pl.lpSum([price[ii] * playerVar[ii] for ii in players]) <= teamBudget, 'teamBudgetMax'
-problemTeam += pl.lpSum([price[ii] * playerVar[ii] for ii in players]) >= teamBudget, 'teamBudgetMin'
+problemTeam += pl.lpSum([price[ii] * playerVar[ii] for ii in players]) <= teamBudgetMax, 'teamBudgetMax'
+problemTeam += pl.lpSum([price[ii] * playerVar[ii] for ii in players]) >= teamBudgetMin, 'teamBudgetMin'
 # problemTeam += pl.lpSum([price[ii] * playerVar[ii] for ii in players]) <= teamBudget, 'teamBudget'
 
 #Get each court position covered by at least 1 player
@@ -568,6 +568,11 @@ signedPlayers = selectedTeamDetails[signedPlayersBool]
 #Summary for round 2:
     #Verity Simmons proposed trade for Mahalia Cassidy (-ve points) [VOID]
     #Ashleigh Ervin proposed trade for Remi Kamo (+ve points) [APPROVE]
+    #TOTAL TRADES MADE = 1
+    
+#Summary for round 3:
+    #Verity Simmons proposed trade for Jess Anstiss (+ve points) [APPROVE]
+    #Sunday Aryang proposed trade for Jo Weston (-ve points) [VOID]
     #TOTAL TRADES MADE = 1
     
 # %% Save team details to file
