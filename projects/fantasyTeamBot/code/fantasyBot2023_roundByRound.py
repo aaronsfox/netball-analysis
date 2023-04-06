@@ -27,11 +27,15 @@ from difflib import SequenceMatcher
 ##### CHANGE INFO WITHIN HERE ######
 
 #Predict from which round
-startPredictionsFromRound = 3
+startPredictionsFromRound = 4
 
 #Set number of trades made
 #NOTE: trades made for round 2 = 1
-tradesMadeSoFar = 1
+#NOTE: trades made for round 3 = 1
+tradesMadeSoFar = 2
+
+#Set remaining budget surplus
+budgetSurplus = 15000
 
 ##### CHANGE INFO WITHIN HERE ######
 
@@ -178,8 +182,12 @@ playerData[2023] = pd.DataFrame.from_dict(playerDict[2023])
 #Read in starting player prices and link up to player data
 
 #Read in starting price data and details
-##### TODO: this might need to change once we progress into rounds...
-fantasyPlayerDetails = pd.read_csv('..\\data\\startingPrices\\startingPrices_2023.csv')
+if startPredictionsFromRound > 3:
+    #Read in predicted round prices
+    fantasyPlayerDetails = pd.read_csv(f'..\\data\\roundPrices\\prices_round{startPredictionsFromRound}.csv')
+else:
+    #Read in starting prices
+    fantasyPlayerDetails = pd.read_csv('..\\data\\startingPrices\\startingPrices_2023.csv')
 
 #Link up player Id's to price database
 
@@ -246,74 +254,81 @@ for playerInd in fantasyPlayerDetails.index:
     playerPrimaryPos = fantasyPlayerDetails.iloc[playerInd]['primaryPosition']
     
     #Get the season vs. preseason scaling for current player
-    regularSeasonScale = playerScoreScales.loc[playerScoreScales['playerId'] == playerId,]['regularSeasonScale'].values[0]
-    preseasonScale = playerScoreScales.loc[playerScoreScales['playerId'] == playerId,]['preseasonScale'].values[0]
-    
-    #Read in predicted season scores and calculate predicted total
-    predictedPlayerData_season = pd.read_csv(f'..\\data\\fantasyBot2023\\statPredictionsPartialSeason\\rd{startPredictionsFromRound}_onwards\\{playerId}_season.csv')
-    predictedPlayerData_preseason = pd.read_csv(f'..\\data\\fantasyBot2023\\statPredictionsPartialSeason\\rd{startPredictionsFromRound}_onwards\\{playerId}_preseason.csv')
-    
-    #Calculate total predicted fantasy score from each dataset
-    
-    #Set starting values
-    fantasyScoreRegular = []
-    fantasyScorePreseason = []
-    
-    #Loop through rounds
-    for roundNo in roundList:
-        #Check for actual round data < round to predict onwards
-        if roundNo < startPredictionsFromRound:
-            #Check for actual data from the round
-            try:                
-                #Just grab the score from the dataset & multiply by generic scale
-                fantasyScoreRegular.append(predictedPlayerData_season.loc[predictedPlayerData_season['roundNo'] == roundNo,
-                                                                          ].reset_index(drop = True).iloc[0]['fantasyScore'] * regularSeasonScale)
-                fantasyScorePreseason.append(predictedPlayerData_season.loc[predictedPlayerData_season['roundNo'] == roundNo,
-                                                                            ].reset_index(drop = True).iloc[0]['fantasyScore'] * preseasonScale)
-            #Otherwise append zeros for no score
-            except:
-                fantasyScoreRegular.append(0)
-                fantasyScorePreseason.append(0)
-        #Otherwise get the predicted score and scale by expectation
-        else:
-            #Get the current round expectation for the player
-            expScale = playerScoreScales.loc[playerScoreScales['playerId'] == playerId,][f'rd{roundNo}_exp'].values[0]
-            #Grab the scores and scale by both factors
-            fantasyScoreRegular.append(predictedPlayerData_season.loc[predictedPlayerData_season['roundNo'] == roundNo,
-                                                                      ].reset_index(drop = True).iloc[0]['fantasyScore'] * regularSeasonScale * expScale)
-            fantasyScorePreseason.append(predictedPlayerData_season.loc[predictedPlayerData_season['roundNo'] == roundNo,
-                                                                        ].reset_index(drop = True).iloc[0]['fantasyScore'] * preseasonScale * expScale)
-
-    #Calculate total predicted fantasy score
-    #Do this for the entire season plus for from the round onwards we're predicting from
-    totalFantasyScore = np.sum(fantasyScoreRegular) + np.sum(fantasyScorePreseason)
-    totalFantasyScore_fromRound = np.sum(fantasyScoreRegular[roundList.index(startPredictionsFromRound):]) + np.sum(fantasyScorePreseason[roundList.index(startPredictionsFromRound):])
-    
-    #Work through round to round data to progressively calculate updated price
-    #This will be used to calculate end of year price and price change
-    for roundNo in roundList:
+    try:
+        #Check if player data is present
+        regularSeasonScale = playerScoreScales.loc[playerScoreScales['playerId'] == playerId,]['regularSeasonScale'].values[0]
+        preseasonScale = playerScoreScales.loc[playerScoreScales['playerId'] == playerId,]['preseasonScale'].values[0]
         
-        #Check to see if new player price needs to be calculated based 
-        #on the threshold of 3 games being played
-        if roundNo > 2:                
+        #Read in predicted season scores and calculate predicted total
+        predictedPlayerData_season = pd.read_csv(f'..\\data\\fantasyBot2023\\statPredictionsPartialSeason\\rd{startPredictionsFromRound}_onwards\\{playerId}_season.csv')
+        predictedPlayerData_preseason = pd.read_csv(f'..\\data\\fantasyBot2023\\statPredictionsPartialSeason\\rd{startPredictionsFromRound}_onwards\\{playerId}_preseason.csv')
+        
+        #Calculate total predicted fantasy score from each dataset
+        
+        #Set starting values
+        fantasyScoreRegular = []
+        fantasyScorePreseason = []
+        
+        #Loop through rounds
+        for roundNo in roundList:
+            #Check for actual round data < round to predict onwards
+            if roundNo < startPredictionsFromRound:
+                #Check for actual data from the round
+                try:                
+                    #Just grab the score from the dataset & multiply by generic scale
+                    fantasyScoreRegular.append(predictedPlayerData_season.loc[predictedPlayerData_season['roundNo'] == roundNo,
+                                                                              ].reset_index(drop = True).iloc[0]['fantasyScore'] * regularSeasonScale)
+                    fantasyScorePreseason.append(predictedPlayerData_season.loc[predictedPlayerData_season['roundNo'] == roundNo,
+                                                                                ].reset_index(drop = True).iloc[0]['fantasyScore'] * preseasonScale)
+                #Otherwise append zeros for no score
+                except:
+                    fantasyScoreRegular.append(0)
+                    fantasyScorePreseason.append(0)
+            #Otherwise get the predicted score and scale by expectation
+            else:
+                #Get the current round expectation for the player
+                expScale = playerScoreScales.loc[playerScoreScales['playerId'] == playerId,][f'rd{roundNo}_exp'].values[0]
+                #Grab the scores and scale by both factors
+                fantasyScoreRegular.append(predictedPlayerData_season.loc[predictedPlayerData_season['roundNo'] == roundNo,
+                                                                          ].reset_index(drop = True).iloc[0]['fantasyScore'] * regularSeasonScale * expScale)
+                fantasyScorePreseason.append(predictedPlayerData_season.loc[predictedPlayerData_season['roundNo'] == roundNo,
+                                                                            ].reset_index(drop = True).iloc[0]['fantasyScore'] * preseasonScale * expScale)
+    
+        #Calculate total predicted fantasy score
+        #Do this for the entire season plus for from the round onwards we're predicting from
+        totalFantasyScore = np.sum(fantasyScoreRegular) + np.sum(fantasyScorePreseason)
+        totalFantasyScore_fromRound = np.sum(fantasyScoreRegular[roundList.index(startPredictionsFromRound):]) + np.sum(fantasyScorePreseason[roundList.index(startPredictionsFromRound):])
+        
+        #Work through round to round data to progressively calculate updated price
+        #This will be used to calculate end of year price and price change
+        for roundNo in roundList:
             
-            #Get all scores up to the current round
-            recentScoreSum_season = fantasyScoreRegular[:roundNo]
-            recentScoreSum_preseason = fantasyScorePreseason[:roundNo]
-            recentScoreSum = np.array(recentScoreSum_season) + np.array(recentScoreSum_preseason)
-            
-            #Drop zeros for no gameplay
-            recentScoreSum = recentScoreSum[recentScoreSum != 0]
-            
-            #Check if the player still has 3 valid games
-            if len(recentScoreSum) > 2:
-                #Grab the most recent 3 games
-                recentScoreSum = recentScoreSum[-3:]
-                #Calculate exact new fantasy price
-                exactNewPrice = np.round((playerPrice * 0.00067) + (np.sum(recentScoreSum) / 9))
-                #Round down to nearest 5k as per pricing rules
-                #Update the player price variable here
-                playerPrice = np.floor(exactNewPrice / 5) * 5 * 1000
+            #Check to see if new player price needs to be calculated based 
+            #on the threshold of 3 games being played
+            if roundNo > 2:                
+                
+                #Get all scores up to the current round
+                recentScoreSum_season = fantasyScoreRegular[:roundNo]
+                recentScoreSum_preseason = fantasyScorePreseason[:roundNo]
+                recentScoreSum = np.array(recentScoreSum_season) + np.array(recentScoreSum_preseason)
+                
+                #Drop zeros for no gameplay
+                recentScoreSum = recentScoreSum[recentScoreSum != 0]
+                
+                #Check if the player still has 3 valid games
+                if len(recentScoreSum) > 2:
+                    #Grab the most recent 3 games
+                    recentScoreSum = recentScoreSum[-3:]
+                    #Calculate exact new fantasy price
+                    exactNewPrice = np.round((playerPrice * 0.00067) + (np.sum(recentScoreSum) / 9))
+                    #Round down to nearest 5k as per pricing rules
+                    #Update the player price variable here
+                    playerPrice = np.floor(exactNewPrice / 5) * 5 * 1000
+                    
+    #Exception if predictions can't be found
+    except:
+        totalFantasyScore = 0
+        totalFantasyScore_fromRound = 0
         
     #Append predicted data alongside player Id, total predicted score & final price to lists
     playerPredictedScores.append(totalFantasyScore)
@@ -354,17 +369,28 @@ priorRoundTeam = pd.read_csv(f'..\\botTeam\\round{startPredictionsFromRound-1}\\
 priorStartingSeven = priorRoundTeam.iloc[0:7]
 priorBench = priorRoundTeam.iloc[7:10].reset_index(drop = True)
 
+#Identify untradeable players (tier 1 - price >= 120000)
+priorRoundTeam['untradeable'] = [True if priorRoundTeam.iloc[ii]['price'] >= 120000 else False for ii in priorRoundTeam.index]
+
 # %% Create the trade selection problem
 
 #Set the weights for the points and profit factors
-weightPoints = 5
-weightProfit = 0.1
+if startPredictionsFromRound <= 3:
+    weightPoints = 5
+    weightProfit = 0.1
+else:
+    weightPoints = 1
+    weightprofit = 0
 
 #Set the team budget
-#### TODO: this will change on the basis of player price changes...
-teamBudgetMax = 800000
-teamBudgetMin = 750000
-
+if startPredictionsFromRound < 3:
+    teamBudgetMax = 800000
+    teamBudgetMin = 750000
+else:
+    #Add budget surplus to team value
+    teamBudgetMax = np.sum([fantasyPlayerDetails.loc[fantasyPlayerDetails['playerId'] == playerId]['price'].values[0] for playerId in priorRoundTeam['playerId']]) + budgetSurplus
+    teamBudgetMin = teamBudgetMax * 0.95
+    
 #Run an integer programming optimisation to identify an optimal 10-player team
 #Considering what we currently have + maximising score & price w/ 2 trades
 
@@ -441,19 +467,30 @@ for ii in range(n):
             positionLabels[pos][str(ii)] = 0
 
 #Tier variables
-##### TODO: these might change across the season depending on player value
-# Tier 1: >= 120 (>= 2)
-# Tier 2: >= 90 < 120 (<= 3)
-# Tier 3: >= 70 < 90 (>= 2)
-# Tier 4: >= 40 < 70 (<= 1)
-# Tier 5: < 40 (<= 3)
 
 #Set desired number of players (or limit value) from each tier
-desiredTier1 = 2
-desiredTier2 = 3
-desiredTier3 = 2
-desiredTier4 = 1
-desiredTier5 = 3
+if startPredictionsFromRound <= 3:
+    # Tier 1: >= 120 (>= 2)
+    # Tier 2: >= 90 < 120 (<= 3)
+    # Tier 3: >= 70 < 90 (>= 2)
+    # Tier 4: >= 40 < 70 (<= 1)
+    # Tier 5: < 40 (<= 3)
+    desiredTier1 = 2
+    desiredTier2 = 3
+    desiredTier3 = 2
+    desiredTier4 = 1
+    desiredTier5 = 3
+else:
+    # Tier 1: >= 120 (>= 2)
+    # Tier 2: >= 90 < 120 (>= 2)
+    # Tier 3: >= 70 < 90 (>= 2)
+    # Tier 4: >= 40 < 70 (<= 1)
+    # Tier 5: < 40 (<= 3)
+    desiredTier1 = 2
+    desiredTier2 = 2
+    desiredTier3 = 2
+    desiredTier4 = 1
+    desiredTier5 = 3
 
 #Set-up a dictionary to store all group & position dictionaries in
 tierLabels = {'tier1': {}, 'tier2': {}, 'tier3': {}, 'tier4': {}, 'tier5': {}}
@@ -485,8 +522,22 @@ for ii in range(n):
 
 #Set variable for players currently on the team
 #This will need to be included in the problem as a variable to limit trades
-onTeam = {str(ii): 1.0 if fantasyPlayerDetails['playerId'][ii] in list(priorRoundTeam['playerId']) else 0.0 for ii in range(n)}
+notOnTeam = {str(ii): 0.0 if fantasyPlayerDetails['playerId'][ii] in list(priorRoundTeam['playerId']) else 1.0 for ii in range(n)}
 
+#Set variables for untradeable players on team
+doNotTrade = {}
+for ii in range(n):
+    #Check if in current team
+    if fantasyPlayerDetails['playerId'][ii] in list(priorRoundTeam['playerId']):
+        #Check if untradeable
+        playerId = fantasyPlayerDetails['playerId'][ii]
+        if priorRoundTeam.loc[priorRoundTeam['playerId'] == playerId,]['untradeable'].values[0]:
+            doNotTrade[str(ii)] = 1.0
+        else:
+            doNotTrade[str(ii)] = 0.0
+    else:
+        doNotTrade[str(ii)] = 0.0
+    
 #Create the problem
 problemTeam = pl.LpProblem('netballFantasyTeam', pl.LpMaximize)
 
@@ -497,8 +548,10 @@ playerVar = pl.LpVariable.dicts('players', players, 0, 1, pl.LpBinary)
 #This function is the sum of total points and profit weighted by factors
 #This weighted function is essentially giving players a generic combined 'value'
 #that we are trying to maximise with our team
+# if startPredictionsFromRound <= 3:
 problemTeam += pl.lpSum([((points[ii] * weightPoints) + (priceChange[ii] * weightProfit)) * playerVar[ii] for ii in players]), 'objectiveValue'
-# problemTeam += pl.lpSum([points[ii] * playerVar[ii] for ii in players]), 'objectiveValue'
+# else:
+#     problemTeam += pl.lpSum([(points[ii] * weightPoints) * playerVar[ii] for ii in players]), 'objectiveValue'
 
 #Add the constraints
 
@@ -506,9 +559,11 @@ problemTeam += pl.lpSum([((points[ii] * weightPoints) + (priceChange[ii] * weigh
 problemTeam += pl.lpSum([playerVar[ii] for ii in players]) == 10, 'totalPlayers10'
 
 #Total price being within budget
+#Set a min and max
 problemTeam += pl.lpSum([price[ii] * playerVar[ii] for ii in players]) <= teamBudgetMax, 'teamBudgetMax'
 problemTeam += pl.lpSum([price[ii] * playerVar[ii] for ii in players]) >= teamBudgetMin, 'teamBudgetMin'
-# problemTeam += pl.lpSum([price[ii] * playerVar[ii] for ii in players]) <= teamBudget, 'teamBudget'
+# #Just set that price needs to be within max budget
+# problemTeam += pl.lpSum([price[ii] * playerVar[ii] for ii in players]) <= teamBudgetMax, 'teamBudget'
 
 #Get each court position covered by at least 1 player
 for pos in courtPositions:
@@ -520,14 +575,24 @@ problemTeam += pl.lpSum([groupLabels['midcourt'][ii] * playerVar[ii] for ii in p
 problemTeam += pl.lpSum([groupLabels['shooter'][ii] * playerVar[ii] for ii in players]) == 3, 'shooterLimit'
 
 #Get desired number of players from each tier
-problemTeam += pl.lpSum([tierLabels['tier1'][ii] * playerVar[ii] for ii in players]) >= desiredTier1, 'desiredTier1'
-problemTeam += pl.lpSum([tierLabels['tier2'][ii] * playerVar[ii] for ii in players]) <= desiredTier2, 'desiredTier2'
-problemTeam += pl.lpSum([tierLabels['tier3'][ii] * playerVar[ii] for ii in players]) >= desiredTier3, 'desiredTier3'
-problemTeam += pl.lpSum([tierLabels['tier4'][ii] * playerVar[ii] for ii in players]) <= desiredTier4, 'desiredTier4'
-problemTeam += pl.lpSum([tierLabels['tier5'][ii] * playerVar[ii] for ii in players]) <= desiredTier5, 'desiredTier5'
+if startPredictionsFromRound <= 3:
+    problemTeam += pl.lpSum([tierLabels['tier1'][ii] * playerVar[ii] for ii in players]) >= desiredTier1, 'desiredTier1'
+    problemTeam += pl.lpSum([tierLabels['tier2'][ii] * playerVar[ii] for ii in players]) <= desiredTier2, 'desiredTier2'
+    problemTeam += pl.lpSum([tierLabels['tier3'][ii] * playerVar[ii] for ii in players]) >= desiredTier3, 'desiredTier3'
+    problemTeam += pl.lpSum([tierLabels['tier4'][ii] * playerVar[ii] for ii in players]) <= desiredTier4, 'desiredTier4'
+    problemTeam += pl.lpSum([tierLabels['tier5'][ii] * playerVar[ii] for ii in players]) <= desiredTier5, 'desiredTier5'
+else:
+    problemTeam += pl.lpSum([tierLabels['tier1'][ii] * playerVar[ii] for ii in players]) >= desiredTier1, 'desiredTier1'
+    problemTeam += pl.lpSum([tierLabels['tier2'][ii] * playerVar[ii] for ii in players]) >= desiredTier2, 'desiredTier2'
+    problemTeam += pl.lpSum([tierLabels['tier3'][ii] * playerVar[ii] for ii in players]) >= desiredTier3, 'desiredTier3'
+    problemTeam += pl.lpSum([tierLabels['tier4'][ii] * playerVar[ii] for ii in players]) <= desiredTier4, 'desiredTier4'
+    problemTeam += pl.lpSum([tierLabels['tier5'][ii] * playerVar[ii] for ii in players]) <= desiredTier5, 'desiredTier5'
 
 #Set trade limit to 2 by retaining at least 8 players from original team
-problemTeam += pl.lpSum([onTeam[ii] * playerVar[ii] for ii in players]) >= 8, 'tradeLimit'
+problemTeam += pl.lpSum([notOnTeam[ii] * playerVar[ii] for ii in players]) <= 1, 'tradeLimit'
+
+#Set to not trade untradeable players
+# problemTeam += pl.lpSum([doNotTrade[ii] * playerVar[ii] for ii in players]) == 0, 'doNotTrade'
 
 #Solve the problem
 status = problemTeam.solve()
@@ -574,6 +639,10 @@ signedPlayers = selectedTeamDetails[signedPlayersBool]
     #Verity Simmons proposed trade for Jess Anstiss (+ve points) [APPROVE]
     #Sunday Aryang proposed trade for Jo Weston (-ve points) [VOID]
     #TOTAL TRADES MADE = 1
+    
+#Summary for round 4:
+    #No proposed changes making sense
+    #TOTAL TRADES MADE = 0
     
 # %% Save team details to file
 

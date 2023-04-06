@@ -28,7 +28,7 @@ from scipy.stats import multivariate_normal, norm
 
 ##### CHANGE INFO WITHIN HERE ######
 
-startPredictionsFromRound = 3
+startPredictionsFromRound = 4
 
 ##### CHANGE INFO WITHIN HERE ######
 
@@ -201,8 +201,12 @@ fixtureData = pd.read_csv('..\\data\\fixtures\\ssnFixture_2023.csv')
 
 #Read in player price data and details
 #Only need to consider new prices once changes are happening
-# if startPredictionsFromRound > 3:
-fantasyPlayerDetails = pd.read_csv('..\\data\\startingPrices\\startingPrices_2023.csv')
+if startPredictionsFromRound > 3:
+    #Read in predicted round prices
+    fantasyPlayerDetails = pd.read_csv(f'..\\data\\roundPrices\\prices_round{startPredictionsFromRound}.csv')
+else:
+    #Read in starting prices
+    fantasyPlayerDetails = pd.read_csv('..\\data\\startingPrices\\startingPrices_2023.csv')
 
 #Link up player Id's to price database
 
