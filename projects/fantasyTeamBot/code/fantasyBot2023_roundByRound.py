@@ -27,12 +27,14 @@ from difflib import SequenceMatcher
 ##### CHANGE INFO WITHIN HERE ######
 
 #Predict from which round
-startPredictionsFromRound = 4
+startPredictionsFromRound = 5
 
 #Set number of trades made
 #NOTE: trades made for round 2 = 1
 #NOTE: trades made for round 3 = 1
-tradesMadeSoFar = 2
+#NOTE: trades made for round 4 = 0
+#NOTE: trades made for round 5 = 2
+tradesMadeSoFar = 4
 
 #Set remaining budget surplus
 budgetSurplus = 15000
@@ -380,7 +382,7 @@ if startPredictionsFromRound <= 3:
     weightProfit = 0.1
 else:
     weightPoints = 1
-    weightprofit = 0
+    weightProfit = 0
 
 #Set the team budget
 if startPredictionsFromRound < 3:
@@ -519,6 +521,41 @@ for ii in range(n):
     #Allocate tier value to dictionary
     for tierInd in range(len(tierLabels.keys())):
         tierLabels[list(tierLabels.keys())[tierInd]][str(ii)] = playerTierBool[tierInd] * 1.0
+        
+#Set average scoring paremeter class
+
+#Set desired number of players (or limit value) from each tier
+if startPredictionsFromRound > 3:
+    # Class 1: > 100 avg.
+    # Class 2: > 90 avg.
+    # Class 3: < 90 avg.
+    desiredClass1 = 6
+    desiredClass2 = 2
+    desiredClass3 = 2
+
+#Set-up a dictionary to store all classes in
+classLabels = {'class1': {}, 'class2': {}, 'class3': {}}
+
+#Loop through player number and identify value for current group
+for ii in range(n):
+    
+    #Figure out positional groupings for current player
+    playerAvg = fantasyPlayerDetails['avg2023'][ii]
+    
+    #Allocate a starting boolean of Falses for all tiers
+    playerClassBool = [False] * len(classLabels.keys())
+    
+    #Identify player class
+    if playerAvg >= 100:
+        playerClassBool[0] = True
+    elif playerAvg >= 90:
+        playerClassBool[1] = True
+    else:
+        playerClassBool[2] = True
+        
+    #Allocate tier value to dictionary
+    for classInd in range(len(classLabels.keys())):
+        classLabels[list(classLabels.keys())[classInd]][str(ii)] = playerClassBool[classInd] * 1.0
 
 #Set variable for players currently on the team
 #This will need to be included in the problem as a variable to limit trades
@@ -537,6 +574,8 @@ for ii in range(n):
             doNotTrade[str(ii)] = 0.0
     else:
         doNotTrade[str(ii)] = 0.0
+#Calculate sum of untradeable players
+untradeableVal = int(np.sum(list(doNotTrade.values())))
     
 #Create the problem
 problemTeam = pl.LpProblem('netballFantasyTeam', pl.LpMaximize)
@@ -574,7 +613,7 @@ problemTeam += pl.lpSum([groupLabels['defender'][ii] * playerVar[ii] for ii in p
 problemTeam += pl.lpSum([groupLabels['midcourt'][ii] * playerVar[ii] for ii in players]) == 4, 'midcourtLimit'
 problemTeam += pl.lpSum([groupLabels['shooter'][ii] * playerVar[ii] for ii in players]) == 3, 'shooterLimit'
 
-#Get desired number of players from each tier
+#Get desired number of players from each tier or class
 if startPredictionsFromRound <= 3:
     problemTeam += pl.lpSum([tierLabels['tier1'][ii] * playerVar[ii] for ii in players]) >= desiredTier1, 'desiredTier1'
     problemTeam += pl.lpSum([tierLabels['tier2'][ii] * playerVar[ii] for ii in players]) <= desiredTier2, 'desiredTier2'
@@ -582,17 +621,15 @@ if startPredictionsFromRound <= 3:
     problemTeam += pl.lpSum([tierLabels['tier4'][ii] * playerVar[ii] for ii in players]) <= desiredTier4, 'desiredTier4'
     problemTeam += pl.lpSum([tierLabels['tier5'][ii] * playerVar[ii] for ii in players]) <= desiredTier5, 'desiredTier5'
 else:
-    problemTeam += pl.lpSum([tierLabels['tier1'][ii] * playerVar[ii] for ii in players]) >= desiredTier1, 'desiredTier1'
-    problemTeam += pl.lpSum([tierLabels['tier2'][ii] * playerVar[ii] for ii in players]) >= desiredTier2, 'desiredTier2'
-    problemTeam += pl.lpSum([tierLabels['tier3'][ii] * playerVar[ii] for ii in players]) >= desiredTier3, 'desiredTier3'
-    problemTeam += pl.lpSum([tierLabels['tier4'][ii] * playerVar[ii] for ii in players]) <= desiredTier4, 'desiredTier4'
-    problemTeam += pl.lpSum([tierLabels['tier5'][ii] * playerVar[ii] for ii in players]) <= desiredTier5, 'desiredTier5'
+    problemTeam += pl.lpSum([classLabels['class1'][ii] * playerVar[ii] for ii in players]) >= desiredClass1, 'desiredClass1'
+    problemTeam += pl.lpSum([classLabels['class2'][ii] * playerVar[ii] for ii in players]) >= desiredClass2, 'desiredClass2'
+    problemTeam += pl.lpSum([classLabels['class3'][ii] * playerVar[ii] for ii in players]) <= desiredClass3, 'desiredClass3'
 
 #Set trade limit to 2 by retaining at least 8 players from original team
-problemTeam += pl.lpSum([notOnTeam[ii] * playerVar[ii] for ii in players]) <= 1, 'tradeLimit'
+problemTeam += pl.lpSum([notOnTeam[ii] * playerVar[ii] for ii in players]) <= 2, 'tradeLimit'
 
 #Set to not trade untradeable players
-# problemTeam += pl.lpSum([doNotTrade[ii] * playerVar[ii] for ii in players]) == 0, 'doNotTrade'
+problemTeam += pl.lpSum([doNotTrade[ii] * playerVar[ii] for ii in players]) == untradeableVal, 'doNotTrade'
 
 #Solve the problem
 status = problemTeam.solve()
@@ -643,6 +680,13 @@ signedPlayers = selectedTeamDetails[signedPlayersBool]
 #Summary for round 4:
     #No proposed changes making sense
     #TOTAL TRADES MADE = 0
+    
+#Summary for round 5:
+    #Mwai Kumwenda proposed trade for Eleanor Cardwell
+    #Tayla Williams proposed trade for Jess Anstiss
+    #Slightly -ve prediction but increased average [APPROVE BOTH]
+    #TOTAL TRADES MADE = 2
+    #Remaining surplus after trades = 10,000
     
 # %% Save team details to file
 
