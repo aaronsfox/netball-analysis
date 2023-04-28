@@ -27,17 +27,18 @@ from difflib import SequenceMatcher
 ##### CHANGE INFO WITHIN HERE ######
 
 #Predict from which round
-startPredictionsFromRound = 5
+startPredictionsFromRound = 7
 
 #Set number of trades made
 #NOTE: trades made for round 2 = 1
 #NOTE: trades made for round 3 = 1
 #NOTE: trades made for round 4 = 0
 #NOTE: trades made for round 5 = 2
-tradesMadeSoFar = 4
+#NOTE: trades made for round 7 = 2
+tradesMadeSoFar = 6
 
 #Set remaining budget surplus
-budgetSurplus = 15000
+budgetSurplus = 0
 
 ##### CHANGE INFO WITHIN HERE ######
 
@@ -687,6 +688,12 @@ signedPlayers = selectedTeamDetails[signedPlayersBool]
     #Slightly -ve prediction but increased average [APPROVE BOTH]
     #TOTAL TRADES MADE = 2
     #Remaining surplus after trades = 10,000
+
+#Summary for round 7:    
+    #Tayla Williams & Charlie Bell out
+    #Mahalia Cassidy & Tippah Dwan in
+    #TOTAL TRADES MADE = 2
+    #Remaining surplus after trades = 0
     
 # %% Save team details to file
 
