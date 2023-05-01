@@ -17,12 +17,37 @@ import pandas as pd
 import os
 from glob import glob
 
+# %% Set-up
+
+"""
+
+TODO: currently only have ANZC & SSN squad Id's--- need international, mens, pathway etc.
+
+"""
+
+#Create dictionary to map squad names to ID's
+squadDict = {804: 'Vixens',
+             806: 'Swifts',
+             807: 'Firebirds',
+             8117: 'Lightning',
+             810: 'Fever',
+             8119: 'Magpies',
+             801: 'Thunderbirds',
+             8118: 'GIANTS',
+             809:'Magic',
+             805: 'Mystics',
+             803: 'Pulse',
+             808: 'Steel',
+             802: 'Tactix'}
+
 # %% Function to get seasonal stats
 
 def getSeasonStats(baseDir = None,
                    years = 'all',
                    fileStem = None,
-                   matchOptions = 'all'):
+                   matchOptions = 'all',
+                   joined = False,
+                   addSquadNames = False):
 
     """
     Function gets the desired years of relevant stats and compiles into dictionary
@@ -32,6 +57,8 @@ def getSeasonStats(baseDir = None,
         > years - the desired years to collate into dictionary. Defaults to 'all' if note provided (list of int)
         > fileStem - the file type name to grab (e.g. 'teamStats') [***TODO: ADD OPTIONS***]
         > matchOptions - list of available types (i.e. 'regular', 'final', 'preseason') [***TODO: NEED TO FIX PRESEASON TYPO***]
+        > joined - when False provides output with year as key in dictionary; when True provides output as singular dataframe
+        > addSquadNames - when True adds squad name labels to dataset
         
     Outputs:
         > data - dictionary with nested dataframes of data year to year
@@ -162,11 +189,38 @@ def getSeasonStats(baseDir = None,
             
             #Grab the requested match types from list
             data[year] = data[year].loc[data[year]['matchType'].isin(matchOptions), ]
+            
+        #Check for adding squad names
+        if addSquadNames:
+            
+            #Try to add squad Id's
+            #Raise error if can't be found
+            try:
+                #Add in squad Id. This is relevant to all dataset
+                data[year]['squadName'] = [squadDict[squadId] for squadId in data[year]['squadId']]
+                #Check for opposition squad Id as this isn't in every dataset
+                if 'oppSquadId' in list(data[year].columns):
+                    data[year]['oppSquadName'] = [squadDict[oppSquadId] for oppSquadId in data[year]['oppSquadId']]
+            except:
+                raise ValueError('Not all squad IDs in dataset can be found...')
+            
+    #Check for joined output
+    if joined:
+        
+        #Add year column to dataframes to identify
+        for year in data.keys():
+            data[year]['year'] = [year] * len(data[year])
+        
+        #Concatenate to singular dataframe
+        data_all = pd.concat([data[year] for year in data.keys()]).reset_index(drop = True)
         
     # #Return to home directory
     # os.chdir(homeDir)
     
     #Return the extracted data from function
-    return data
+    if joined:
+        return data_all
+    else:
+        return data
 
 # %%% ----- End of collatestats.py -----
