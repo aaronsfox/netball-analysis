@@ -27,7 +27,7 @@ from difflib import SequenceMatcher
 ##### CHANGE INFO WITHIN HERE ######
 
 #Predict from which round
-startPredictionsFromRound = 7
+startPredictionsFromRound = 8
 
 #Set number of trades made
 #NOTE: trades made for round 2 = 1
@@ -35,10 +35,11 @@ startPredictionsFromRound = 7
 #NOTE: trades made for round 4 = 0
 #NOTE: trades made for round 5 = 2
 #NOTE: trades made for round 7 = 2
-tradesMadeSoFar = 6
+#NOTE: trades made for round 8 = 2
+tradesMadeSoFar = 8
 
 #Set remaining budget surplus
-budgetSurplus = 0
+budgetSurplus = 5000
 
 ##### CHANGE INFO WITHIN HERE ######
 
@@ -530,7 +531,7 @@ if startPredictionsFromRound > 3:
     # Class 1: > 100 avg.
     # Class 2: > 90 avg.
     # Class 3: < 90 avg.
-    desiredClass1 = 6
+    desiredClass1 = 5
     desiredClass2 = 2
     desiredClass3 = 2
 
@@ -623,8 +624,8 @@ if startPredictionsFromRound <= 3:
     problemTeam += pl.lpSum([tierLabels['tier5'][ii] * playerVar[ii] for ii in players]) <= desiredTier5, 'desiredTier5'
 else:
     problemTeam += pl.lpSum([classLabels['class1'][ii] * playerVar[ii] for ii in players]) >= desiredClass1, 'desiredClass1'
-    problemTeam += pl.lpSum([classLabels['class2'][ii] * playerVar[ii] for ii in players]) >= desiredClass2, 'desiredClass2'
-    problemTeam += pl.lpSum([classLabels['class3'][ii] * playerVar[ii] for ii in players]) <= desiredClass3, 'desiredClass3'
+    # problemTeam += pl.lpSum([classLabels['class2'][ii] * playerVar[ii] for ii in players]) >= desiredClass2, 'desiredClass2'
+    # problemTeam += pl.lpSum([classLabels['class3'][ii] * playerVar[ii] for ii in players]) <= desiredClass3, 'desiredClass3'
 
 #Set trade limit to 2 by retaining at least 8 players from original team
 problemTeam += pl.lpSum([notOnTeam[ii] * playerVar[ii] for ii in players]) <= 2, 'tradeLimit'
@@ -694,6 +695,13 @@ signedPlayers = selectedTeamDetails[signedPlayersBool]
     #Mahalia Cassidy & Tippah Dwan in
     #TOTAL TRADES MADE = 2
     #Remaining surplus after trades = 0
+    
+#Summary for round 8:    
+    #Cara Koenen & Annie Miller out
+    #Jhaniele Fowler & Amy Sligar (overruled on Taylah Davies) in
+    #TOTAL TRADES MADE = 2
+    #Remaining surplus after trades = 5000
+    
     
 # %% Save team details to file
 
