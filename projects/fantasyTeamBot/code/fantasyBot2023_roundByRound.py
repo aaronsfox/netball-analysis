@@ -27,7 +27,7 @@ from difflib import SequenceMatcher
 ##### CHANGE INFO WITHIN HERE ######
 
 #Predict from which round
-startPredictionsFromRound = 8
+startPredictionsFromRound = 9
 
 #Set number of trades made
 #NOTE: trades made for round 2 = 1
@@ -701,6 +701,8 @@ signedPlayers = selectedTeamDetails[signedPlayersBool]
     #Jhaniele Fowler & Amy Sligar (overruled on Taylah Davies) in
     #TOTAL TRADES MADE = 2
     #Remaining surplus after trades = 5000
+    
+#Summary for round 9 - no good trades
     
     
 # %% Save team details to file
