@@ -239,6 +239,19 @@ playerMisses['reboundProp'] = (playerMisses['goalMisses'] - playerMisses['missed
 #Limit to players with 50 or more goal attempts in a season
 playerMisses = playerMisses.loc[playerMisses['goalAttempts'] >= 50,]
 
+#Calculate shooting percentage
+playerMisses['shootingPer'] = (playerMisses['goalAttempts'] - playerMisses['goalMisses']) / playerMisses['goalAttempts'] * 100
+
+#Calculate effective shooting percentage
+#Only missed goal turnovers are counted as misses
+playerMisses['effectiveShootingPer'] = (playerMisses['goalAttempts'] - playerMisses['missedGoalTurnover']) / playerMisses['goalAttempts'] * 100
+
+#Calculate differential in shooting percentages
+playerMisses['shootingPerDifferential'] = playerMisses['effectiveShootingPer'] - playerMisses['shootingPer']
+
+#Look at this years data for context
+playerMisses_2023 = playerMisses.loc[playerMisses['year'] == 2023,]
+
 # %% Close margins
 
 #Read in team stats
