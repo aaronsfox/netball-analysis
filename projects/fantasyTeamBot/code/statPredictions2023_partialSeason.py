@@ -28,7 +28,7 @@ from scipy.stats import multivariate_normal, norm
 
 ##### CHANGE INFO WITHIN HERE ######
 
-startPredictionsFromRound = 9
+startPredictionsFromRound = 11
 
 ##### CHANGE INFO WITHIN HERE ######
 
