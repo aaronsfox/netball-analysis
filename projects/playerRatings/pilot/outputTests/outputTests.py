@@ -10,6 +10,15 @@
     This code runs through various output tests related to the data. Typically, 
     it follows the work of Karl Jackson's thesis, as this is what the basis for
     replicating the player ratings analysis is built upon.
+    
+    NOTES:
+        > There is perhaps a need to not have all data pointing towards one end.
+          A penalty on a defensive player is occurring at the opposite end to where
+          it is actually occurring for the attacking team - which doesn't seem like
+          it would work correctly.
+              > It's more like the attacking events need to be normalised towards
+                the same direction - and the defensive events need to remain relative
+                to this?
 
 """
 
@@ -344,6 +353,9 @@ Karl Jackson's thesis for field equity - particularly generating contour maps.
 #Extract possession data
 possessionData = allMatchData.loc[allMatchData['eventLabel'] == 'possession',].reset_index(drop = True)
 
+#Identify matching possession to next score
+possessionData['nextScoreMatch'] = possessionData['squadId'] == possessionData['nextScoreSquadId']
+
 #Set arbitrary distance to smooth equity within 
 #(i.e. events within this distance considered in calculation)
 smoothingDistance = 2
@@ -352,7 +364,6 @@ smoothingDistance = 2
 possessionFE = {'xCoord': [], 'yCoord': [], 'fieldEquity': []}
 
 #Loop through possession data
-##### NOTE: this process takes a decent amount of time --- was this taking so long due to multiple use of ii?
 for ii in possessionData.index:
     
     #Get x and y coordinate (in metres) of current possession
@@ -367,21 +378,16 @@ for ii in possessionData.index:
     #Identify distances with smoothing value
     withinSmoothingDist = pd.Series(distances < smoothingDistance)
     
-    #Extract the possessions within the smoothing distance
-    feCalcData = possessionData[withinSmoothingDist.values].reset_index(drop = True)
+    #Extract the possessions within the smoothing distance to calculate the number of relevant possession
+    nEvents = len(possessionData[withinSmoothingDist.values])
     
-    #Calculate equity for current possession and append to dataset
-    nextScoreN = np.sum([True if feCalcData.iloc[jj]['squadId'] == feCalcData.iloc[jj]['nextScoreSquadId'] else False for jj in feCalcData.index])
-    possessionFE['fieldEquity'].append(nextScoreN / len(feCalcData))
+    #Calculate the relative proportion of matched next score to events for field equity
+    nextScoreN = possessionData[withinSmoothingDist.values]['nextScoreMatch'].sum()
+    
+    #Append data
+    possessionFE['fieldEquity'].append(nextScoreN / nEvents)
     possessionFE['xCoord'].append(possessionData.iloc[ii]['xCoord'])
     possessionFE['yCoord'].append(possessionData.iloc[ii]['yCoord'])
-
-#Save as dictionary
-with open('possessionFE.pkl', 'wb') as file:
-    pickle.dump(possessionFE, file, protocol = pickle.HIGHEST_PROTOCOL)
-#Load from dictionary
-with open('possessionFE.pkl', 'rb') as file:
-    possessionFE = pickle.load(file)
     
 #Convert to dataframe for ease of use
 possessionFE_data = pd.DataFrame.from_dict(possessionFE)
@@ -395,9 +401,6 @@ possessionFE_data['yCoord_noise'] = possessionFE['yCoord'] + np.random.normal(0,
 
 #Take just the first 5000 for speediness
 contourData = possessionFE_data[1:5001]
-
-##### TODO: stash these values somewhere once extracted...
-#The above still takes a lot of time even without the double loop
 
 #Below mapping to grid comes from: https://github.com/agilescientific/xlines/blob/master/notebooks/11_Gridding_map_data.ipynb
 
@@ -416,7 +419,11 @@ grid_x, grid_y = np.mgrid[0:100:1, 0:200:1]
 
 #Create the radial basis function from the data
 # rbfi = Rbf(possessionFE_data['xCoord_noise'],  possessionFE_data['yCoord_noise'], possessionFE_data['fieldEquity'])
-rbfi = Rbf(contourData['xCoord_noise'],  contourData['yCoord_noise'], contourData['fieldEquity'])
+rbfi = Rbf(contourData['xCoord_noise'],  contourData['yCoord_noise'], contourData['fieldEquity'],
+            smooth = 5) #### smoothing makes a big difference and looks more like AFL work
+# rbfi = Rbf(possessionFE_data['xCoord_noise'],  possessionFE_data['yCoord_noise'], 
+#            possessionFE_data['fieldEquity'],
+#            smooth = 5) #### smoothing makes a big difference and looks more like AFL work
 
 ##### TODO: there may be a memory issue here - so potentially need to uniformyl
 ##### sample across court grid to get a reasonable sample size for function
@@ -425,7 +432,7 @@ rbfi = Rbf(contourData['xCoord_noise'],  contourData['yCoord_noise'], contourDat
 Z = rbfi(grid_x, grid_y)
 
 #Define levels in z-axis where we want lines to appear
-zLevels = np.linspace(0.1, 0.9, 9)
+zLevels = np.linspace(0.1, 0.9, 17)
  
 #Create contour plot of possession field equity
 
@@ -494,10 +501,17 @@ TODO:
 
 This uses the above processes but simplifies and speeds up to reduce computation time.
 
+The process is overly simplified at this stage and could be improved --- e.g. there
+are doubled-up events with posessions and some attacking characteristics that the
+intracies of all of this needs to be refined...
+
 """
 
 #Extract data from first match
 testMatchData = matchData[103930101]
+
+#Identify matching possession to next score
+testMatchData['nextScoreMatch'] = testMatchData['squadId'] == testMatchData['nextScoreSquadId']
 
 #Set arbitrary distance to smooth equity within 
 #(i.e. events within this distance considered in calculation)
@@ -521,9 +535,12 @@ for event in matchEvents:
         nCP = len(cpData)
         nCP_score = np.sum([True if cpData.iloc[ii]['squadId'] == cpData.iloc[ii]['nextScoreSquadId'] else False for ii in cpData.index])
         cpFE = nCP_score / nCP
+        
     elif event == 'goalMake':
+        
         #Allocate the one-point FE for the score
         goalFE = 1
+        
     ##### TODO: other special events...goal miss (skip?)...?
     
     else:
@@ -546,16 +563,21 @@ for event in matchEvents:
             #Identify distances with smoothing value
             withinSmoothingDist = pd.Series(distances < smoothingDistance)
             
+            #Extract the events within the smoothing distance to calculate the number of relevant events
+            nEvents = len(eventData[withinSmoothingDist.values])
+            
+            #Calculate the relative proportion of matched next score to events for field equity
+            nextScoreN = eventData[withinSmoothingDist.values]['nextScoreMatch'].sum()
+            
             #Extract the possessions within the smoothing distance
             feCalcData = eventData[withinSmoothingDist.values].reset_index(drop = True)
             
-            #Calculate equity for current possession and append to dataset
-            nextScoreN = np.sum([True if feCalcData.iloc[ii]['squadId'] == feCalcData.iloc[ii]['nextScoreSquadId'] else False for ii in feCalcData.index])
-            feData['fieldEquity'].append(nextScoreN / len(feCalcData))
+            #Append data
+            feData['fieldEquity'].append(nextScoreN / nEvents)
             feData['eventLabel'].append(event)
             feData['xCoord'].append(eventData.iloc[eventInd]['xCoord'])
             feData['yCoord'].append(eventData.iloc[eventInd]['yCoord'])
-            
+
 #Convert to dataframe for ease of use
 feData_df = pd.DataFrame.from_dict(feData)
 
@@ -572,6 +594,9 @@ feData_df['yCoord_noise'] = feData_df['yCoord'] + np.random.normal(0,0.1,len(feD
 # ax.scatter(feData_df['xCoord_noise'],  feData_df['yCoord_noise'],
 #            c = feData_df['fieldEquity'])
 
+#Extract a specific event to calculate in the radial-basis function
+df = feData_df.loc[feData_df['eventLabel'] == 'possession',].reset_index(drop = True)
+
 #We then map a grid for what we want to predict values over
 #For now we'll do grid intervals of 1 coordinate steps
 grid_x, grid_y = np.mgrid[0:100:1, 0:200:1]
@@ -581,7 +606,8 @@ grid_x, grid_y = np.mgrid[0:100:1, 0:200:1]
 #Interpolate data using radial basis function
 
 #Create the radial basis function from the data
-rbfi = Rbf(feData_df['xCoord_noise'],  feData_df['yCoord_noise'], feData_df['fieldEquity'])
+rbfi = Rbf(df['xCoord_noise'],  df['yCoord_noise'], df['fieldEquity'],
+           smooth = 5)
 
 #Use the function to predict data on the uniform grid
 Z = rbfi(grid_x, grid_y)
@@ -623,10 +649,25 @@ ax.add_patch(Circle((courtWidth_coord/2,courtLength_coord), 0.16*courtLength_coo
                     zorder = 1))
 
 #Create labelled contours
-CS = ax.contourf(grid_x, grid_y, Z, zorder = 2)
-ax.clabel(CS, inline = True, fontsize = 10)           
+CS = ax.contour(grid_x, grid_y, Z, zLevels, zorder = 2)
+ax.clabel(CS, inline = True, fontsize = 10)        
     
-    
+"""
+
+Let's just test the RBF created from possession to step through all the events 
+within a match and calculate field equity from these. Basically, what's the FE at
+each event if we assume this generalised function of field equity
+
+"""
+
+#Loop through match events
+fieldEquity = []
+for ii in testMatchData.index:
+    #Calculate field equity at current location using RBF
+    fieldEquity.append(rbfi(testMatchData.iloc[ii]['xCoord'], testMatchData.iloc[ii]['yCoord']))
+
+#Append field equity data to dataframe
+testMatchData['fe'] = fieldEquity
     
 
 
