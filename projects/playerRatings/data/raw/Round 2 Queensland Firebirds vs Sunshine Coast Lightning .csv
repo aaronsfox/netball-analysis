@@ -1,0 +1,1580 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-10-31 04:24:12 +0000,0,Cassidy,C,Centre Pass,1,0,0,50, 100
+2018-10-31 04:24:12 +0000,0,Simpson,WD,Assist - Centre Pass Rec,1,0,0,4, 72
+2018-10-31 04:24:16 +0000,0,Tippett,GA,Assist - 2nd Phase,1,0,0,7, 52
+2018-10-31 04:24:23 +0000,0,Hinchliffe,GD,Possession,1,0,0,22, 71
+2018-10-31 04:25:42 +0000,1,Scherian ,C,Gain - Tip (Deflect),1,0,0,22, 70
+2018-10-31 04:25:49 +0000,1,Scherian ,C,Loss - Replay,1,0,0,11, 106
+2018-10-31 04:26:11 +0000,0,Hinchliffe,GD,Possession,1,0,0,10, 107
+2018-10-31 04:26:15 +0000,0,Cassidy,C,Possession,1,0,0,4, 76
+2018-10-31 04:26:19 +0000,0,Nevins,WA,Possession,1,0,0,27, 88
+2018-10-31 04:26:21 +0000,0,Simpson,WD,Possession,1,0,0,66, 109
+2018-10-31 04:26:26 +0000,0,Cassidy,C,Possession,1,0,0,24, 78
+2018-10-31 04:26:30 +0000,0,Simpson,WD,Possession,1,0,0,42, 69
+2018-10-31 04:26:32 +0000,0,Tippett,GA,Possession,1,0,0,52, 47
+2018-10-31 04:26:36 +0000,0,Tippett,GA,Assist - Circle Entry,1,0,0,52, 47
+2018-10-31 04:26:36 +0000,0,Aiken,GS,Possession,1,0,0,60, 13
+2018-10-31 04:26:40 +0000,0,Nevins,WA,Possession,1,0,0,76, 19
+2018-10-31 04:26:47 +0000,0,Nevins,WA,Assist - Circle Entry,1,0,0,76, 19
+2018-10-31 04:26:47 +0000,0,Tippett,GA,Possession,1,0,0,58, 9
+2018-10-31 04:26:50 +0000,0,Nevins,WA,Possession,1,0,0,80, 18
+2018-10-31 04:26:57 +0000,0,Nevins,WA,Assist - Circle Entry,1,0,0,80, 18
+2018-10-31 04:26:57 +0000,0,Aiken,GS,Goal - Score,1,0,0,51, 3
+2018-10-31 04:27:08 +0000,1,Scherian ,C,Centre Pass,1,1,0,50, 100
+2018-10-31 04:27:08 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,1,0,21, 116
+2018-10-31 04:27:13 +0000,1,Wood,GA,Assist - 2nd Phase,1,1,0,36, 111
+2018-10-31 04:27:19 +0000,1,Browne,WA,Possession,1,1,0,10, 175
+2018-10-31 04:27:21 +0000,1,Scherian ,C,Possession,1,1,0,73, 172
+2018-10-31 04:27:24 +0000,1,Scherian ,C,Assist - Circle Entry,1,1,0,73, 172
+2018-10-31 04:27:24 +0000,1,Bassett,GS,Possession,1,1,0,43, 192
+2018-10-31 04:27:29 +0000,0,Clemesha,GK,Penaly - Contact,1,1,0,43, 192
+2018-10-31 04:27:29 +0000,1,Bassett,GS,Goal - Score,1,1,0,43, 192
+2018-10-31 04:27:41 +0000,0,Cassidy,C,Centre Pass,1,1,1,50, 100
+2018-10-31 04:27:41 +0000,0,Nevins,WA,Assist - Centre Pass Rec,1,1,1,69, 67
+2018-10-31 04:27:43 +0000,0,Simpson,WD,Assist - 2nd Phase,1,1,1,79, 84
+2018-10-31 04:27:47 +0000,0,Nevins,WA,Possession,1,1,1,83, 58
+2018-10-31 04:27:50 +0000,0,Tippett,GA,Possession,1,1,1,89, 30
+2018-10-31 04:27:53 +0000,0,Tippett,GA,Assist - Circle Entry,1,1,1,89, 30
+2018-10-31 04:27:53 +0000,0,Aiken,GS,Goal - Score,1,1,1,56, 2
+2018-10-31 04:28:02 +0000,1,Scherian ,C,Centre Pass,1,2,1,50, 100
+2018-10-31 04:28:02 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,2,1,82, 119
+2018-10-31 04:28:06 +0000,1,Browne,WA,Assist - 2nd Phase,1,2,1,86, 164
+2018-10-31 04:28:08 +0000,0,Simpson,WD,Penaly - Contact,1,2,1,86, 164
+2018-10-31 04:28:08 +0000,1,Browne,WA,Possession,1,2,1,86, 164
+2018-10-31 04:28:14 +0000,1,,UNKNOWN,Possession,1,2,1,19, 180
+2018-10-31 04:28:17 +0000,1,,UNKNOWN,Assist - Circle Entry,1,2,1,19, 180
+2018-10-31 04:28:17 +0000,1,Bassett,GS,Possession,1,2,1,50, 188
+2018-10-31 04:28:19 +0000,0,Clemesha,GK,Penaly - Obstruction,1,2,1,50, 188
+2018-10-31 04:28:19 +0000,1,Bassett,GS,Goal - Score,1,2,1,50, 188
+2018-10-31 04:28:26 +0000,0,Cassidy,C,Centre Pass,1,2,2,50, 100
+2018-10-31 04:28:26 +0000,0,Nevins,WA,Assist - Centre Pass Rec,1,2,2,76, 72
+2018-10-31 04:28:29 +0000,0,Simpson,WD,Assist - 2nd Phase,1,2,2,84, 87
+2018-10-31 04:28:34 +0000,0,Cassidy,C,Possession,1,2,2,87, 32
+2018-10-31 04:28:38 +0000,0,Tippett,GA,Possession,1,2,2,65, 48
+2018-10-31 04:28:41 +0000,0,Nevins,WA,Possession,1,2,2,16, 12
+2018-10-31 04:28:43 +0000,0,Nevins,WA,Assist - Circle Entry,1,2,2,16, 12
+2018-10-31 04:28:43 +0000,0,Tippett,GA,Goal - Score,1,2,2,30, 3
+2018-10-31 04:28:53 +0000,1,Scherian ,C,Centre Pass,1,3,2,50, 100
+2018-10-31 04:28:53 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,3,2,83, 115
+2018-10-31 04:28:55 +0000,1,Scherian ,C,Assist - 2nd Phase,1,3,2,73, 125
+2018-10-31 04:28:58 +0000,1,McAuliffe,WD,Possession,1,3,2,65, 90
+2018-10-31 04:29:07 +0000,1,Browne,WA,Loss - Bad Pass,1,3,2,89, 182
+2018-10-31 04:29:12 +0000,0,Clemesha,GK,Throw In,1,3,2,107, 192
+2018-10-31 04:29:23 +0000,0,Simpson,WD,Possession,1,3,2,70, 167
+2018-10-31 04:29:32 +0000,0,Hinchliffe,GD,Possession,1,3,2,82, 156
+2018-10-31 04:29:37 +0000,0,Simpson,WD,Possession,1,3,2,81, 104
+2018-10-31 04:29:39 +0000,0,Tippett,GA,Possession,1,3,2,84, 32
+2018-10-31 04:29:44 +0000,1,Mentor,GK,Penaly - Contact,1,3,2,51, 9
+2018-10-31 04:29:44 +0000,0,Aiken,GS,Goal - Score,1,3,2,51, 9
+2018-10-31 04:30:03 +0000,0,Cassidy,C,Centre Pass,1,4,2,50, 100
+2018-10-31 04:30:03 +0000,0,Hinchliffe,GD,Assist - Centre Pass Rec,1,4,2,33, 114
+2018-10-31 04:30:08 +0000,0,Cassidy,C,Assist - 2nd Phase,1,4,2,22, 81
+2018-10-31 04:30:10 +0000,0,Hinchliffe,GD,Possession,1,4,2,36, 91
+2018-10-31 04:30:14 +0000,0,Simpson,WD,Possession,1,4,2,77, 101
+2018-10-31 04:30:17 +0000,0,Cassidy,C,Possession,1,4,2,12, 71
+2018-10-31 04:30:20 +0000,0,Aiken,GS,Possession,1,4,2,9, 33
+2018-10-31 04:30:22 +0000,0,,UNKNOWN,Possession,1,4,2,75, 23
+2018-10-31 04:30:27 +0000,0,,UNKNOWN,Assist - Circle Entry,1,4,2,75, 23
+2018-10-31 04:30:27 +0000,0,Tippett,GA,Possession,1,4,2,35, 3
+2018-10-31 04:30:29 +0000,1,Pretorius ,GD,Penaly - Contact,1,4,2,35, 3
+2018-10-31 04:30:29 +0000,0,Tippett,GA,Possession,1,4,2,35, 3
+2018-10-31 04:30:32 +0000,0,Aiken,GS,Goal - Score,1,4,2,52, 3
+2018-10-31 04:30:43 +0000,1,Scherian ,C,Centre Pass,1,5,2,50, 100
+2018-10-31 04:30:43 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,5,2,13, 121
+2018-10-31 04:30:46 +0000,1,Wood,GA,Assist - 2nd Phase,1,5,2,21, 135
+2018-10-31 04:30:48 +0000,1,Browne,WA,Possession,1,5,2,85, 183
+2018-10-31 04:30:51 +0000,1,Browne,WA,Assist - Circle Entry,1,5,2,85, 183
+2018-10-31 04:30:51 +0000,1,Bassett,GS,Goal - Score,1,5,2,47, 193
+2018-10-31 04:31:13 +0000,0,Cassidy,C,Centre Pass,1,5,3,50, 100
+2018-10-31 04:31:13 +0000,0,Nevins,WA,Penaly - Contact on CP,1,5,3,49, 84
+2018-10-31 04:32:22 +0000,1,,UNKNOWN,Gain - Opp Cont,1,5,3,49, 84
+2018-10-31 04:32:50 +0000,0,Simpson,WD,Penaly - Contact,1,5,3,52, 121
+2018-10-31 04:32:50 +0000,1,Browne,WA,Possession,1,5,3,52, 121
+2018-10-31 04:33:09 +0000,1,Scherian ,C,Possession,1,5,3,11, 151
+2018-10-31 04:33:12 +0000,1,Scherian ,C,Assist - Circle Entry,1,5,3,11, 151
+2018-10-31 04:33:12 +0000,1,Bassett,GS,Goal - Score,1,5,3,51, 180
+2018-10-31 04:33:24 +0000,1,Scherian ,C,Centre Pass,1,5,4,50, 100
+2018-10-31 04:33:24 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,5,4,76, 117
+2018-10-31 04:33:27 +0000,1,Browne,WA,Assist - 2nd Phase,1,5,4,90, 185
+2018-10-31 04:33:29 +0000,1,Wood,GA,Possession,1,5,4,76, 161
+2018-10-31 04:33:31 +0000,1,Wood,GA,Assist - Circle Entry,1,5,4,76, 161
+2018-10-31 04:33:31 +0000,1,Bassett,GS,Possession,1,5,4,60, 186
+2018-10-31 04:33:34 +0000,1,Wood,GA,Possession,1,5,4,74, 171
+2018-10-31 04:33:36 +0000,1,Scherian ,C,Possession,1,5,4,15, 188
+2018-10-31 04:33:44 +0000,1,Scherian ,C,Assist - Circle Entry,1,5,4,15, 188
+2018-10-31 04:33:44 +0000,1,Bassett,GS,Possession,1,5,4,62, 180
+2018-10-31 04:33:45 +0000,1,Wood,GA,Goal - Score,1,5,4,52, 192
+2018-10-31 04:33:52 +0000,0,Cassidy,C,Centre Pass,1,5,5,50, 100
+2018-10-31 04:33:52 +0000,0,Tippett,GA,Assist - Centre Pass Rec,1,5,5,19, 68
+2018-10-31 04:33:54 +0000,0,Cassidy,C,Assist - 2nd Phase,1,5,5,38, 69
+2018-10-31 04:33:58 +0000,0,Nevins,WA,Possession,1,5,5,58, 59
+2018-10-31 04:34:04 +0000,0,Nevins,WA,Assist - Circle Entry,1,5,5,58, 59
+2018-10-31 04:34:04 +0000,0,Tippett,GA,Possession,1,5,5,42, 10
+2018-10-31 04:34:17 +0000,0,Nevins,WA,Possession,1,5,5,40, 32
+2018-10-31 04:34:20 +0000,1,McAuliffe,WD,Penaly - Contact,1,5,5,40, 32
+2018-10-31 04:34:20 +0000,0,Nevins,WA,Possession,1,5,5,40, 32
+2018-10-31 04:34:34 +0000,0,Nevins,WA,Assist - Circle Entry,1,5,5,40, 32
+2018-10-31 04:34:35 +0000,1,Mentor,GK,Gain - Tip (Deflect),1,5,5,48, 7
+2018-10-31 04:34:42 +0000,1,Pretorius ,GD,Possession,1,5,5,32, 22
+2018-10-31 04:34:54 +0000,1,McAuliffe,WD,Possession,1,5,5,59, 71
+2018-10-31 04:34:58 +0000,1,Browne,WA,Possession,1,5,5,39, 112
+2018-10-31 04:35:04 +0000,1,Scherian ,C,Possession,1,5,5,7, 134
+2018-10-31 04:35:08 +0000,1,Wood,GA,Possession,1,5,5,33, 148
+2018-10-31 04:35:14 +0000,0,Hinchliffe,GD,Deflect,1,5,5,20, 159
+2018-10-31 04:35:14 +0000,1,Scherian ,C,Throw In,1,5,5,-9, 165
+2018-10-31 04:35:26 +0000,1,McAuliffe,WD,Possession,1,5,5,9, 128
+2018-10-31 04:35:34 +0000,0,Tippett,GA,Penaly - Obstruction,1,5,5,9, 128
+2018-10-31 04:35:34 +0000,1,McAuliffe,WD,Possession,1,5,5,9, 128
+2018-10-31 04:35:44 +0000,1,Scherian ,C,Possession,1,5,5,9, 138
+2018-10-31 04:35:50 +0000,1,Wood,GA,Possession,1,5,5,29, 155
+2018-10-31 04:35:55 +0000,1,Browne,WA,Possession,1,5,5,50, 158
+2018-10-31 04:35:57 +0000,1,Browne,WA,Assist - Circle Entry,1,5,5,50, 158
+2018-10-31 04:35:57 +0000,1,Bassett,GS,Possession,1,5,5,53, 189
+2018-10-31 04:36:02 +0000,0,Clemesha,GK,Penaly - Contact,1,5,5,53, 189
+2018-10-31 04:36:02 +0000,1,Bassett,GS,Goal - Score,1,5,5,53, 189
+2018-10-31 04:36:10 +0000,1,Scherian ,C,Centre Pass,1,5,6,50, 100
+2018-10-31 04:36:10 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,5,6,30, 119
+2018-10-31 04:36:13 +0000,1,Browne,WA,Assist - 2nd Phase,1,5,6,45, 123
+2018-10-31 04:36:15 +0000,1,Scherian ,C,Possession,1,5,6,79, 143
+2018-10-31 04:36:17 +0000,1,Browne,WA,Loss - Step,1,5,6,86, 171
+2018-10-31 04:36:23 +0000,0,Clemesha,GK,Possession,1,5,6,86, 169
+2018-10-31 04:36:29 +0000,0,Simpson,WD,Possession,1,5,6,85, 148
+2018-10-31 04:36:31 +0000,0,Hinchliffe,GD,Possession,1,5,6,74, 109
+2018-10-31 04:36:34 +0000,1,Scherian ,C,Penaly - Contact,1,5,6,74, 109
+2018-10-31 04:36:34 +0000,0,Hinchliffe,GD,Possession,1,5,6,74, 109
+2018-10-31 04:36:39 +0000,0,Simpson,WD,Possession,1,5,6,49, 123
+2018-10-31 04:36:41 +0000,0,Nevins,WA,Possession,1,5,6,8, 82
+2018-10-31 04:36:44 +0000,0,Simpson,WD,Possession,1,5,6,80, 82
+2018-10-31 04:36:46 +0000,0,Cassidy,C,Possession,1,5,6,80, 52
+2018-10-31 04:36:48 +0000,0,Tippett,GA,Possession,1,5,6,81, 16
+2018-10-31 04:36:52 +0000,0,Tippett,GA,Assist - Circle Entry,1,5,6,81, 16
+2018-10-31 04:36:52 +0000,0,Aiken,GS,Loss - Bad Pass,1,5,6,50, 4
+2018-10-31 04:45:04 +0000,1,Mentor,GK,Throw In,1,5,6,50, -5
+2018-10-31 04:45:31 +0000,1,McAuliffe,WD,Possession,1,5,6,7, 42
+2018-10-31 04:45:33 +0000,1,Pretorius ,GD,Possession,1,5,6,25, 23
+2018-10-31 04:45:37 +0000,1,McAuliffe,WD,Possession,1,5,6,8, 94
+2018-10-31 04:45:42 +0000,0,Cassidy,C,Gain - Inter,1,5,6,41, 121
+2018-10-31 04:45:53 +0000,0,Nevins,WA,Possession,1,5,6,35, 100
+2018-10-31 04:45:57 +0000,0,Cassidy,C,Possession,1,5,6,24, 112
+2018-10-31 04:46:03 +0000,0,Hinchliffe,GD,Possession,1,5,6,85, 77
+2018-10-31 04:46:43 +0000,1,McAuliffe,WD,Deflect,1,5,6,89, 57
+2018-10-31 04:46:43 +0000,0,Cassidy,C,Throw In,1,5,6,106, 56
+2018-10-31 04:46:56 +0000,0,Nevins,WA,Possession,1,5,6,82, 47
+2018-10-31 04:46:58 +0000,1,McAuliffe,WD,Penaly - Contact,1,5,6,82, 47
+2018-10-31 04:46:59 +0000,0,Nevins,WA,Possession,1,5,6,82, 47
+2018-10-31 04:47:06 +0000,0,Nevins,WA,Possession,1,5,6,75, 21
+2018-10-31 04:47:08 +0000,0,Cassidy,C,Possession,1,5,6,15, 13
+2018-10-31 04:47:12 +0000,0,Cassidy,C,Assist - Circle Entry,1,5,6,15, 13
+2018-10-31 04:47:12 +0000,0,Aiken,GS,Possession,1,5,6,56, 4
+2018-10-31 04:47:14 +0000,0,Cassidy,C,Possession,1,5,6,15, 13
+2018-10-31 04:47:41 +0000,1,McAuliffe,WD,Gain - Tip (Deflect),1,5,6,55, 33
+2018-10-31 04:47:52 +0000,0,Nevins,WA,Penaly - Contact,1,5,6,37, 31
+2018-10-31 04:47:52 +0000,1,Mentor,GK,Possession,1,5,6,37, 31
+2018-10-31 04:48:05 +0000,1,Scherian ,C,Possession,1,5,6,7, 51
+2018-10-31 04:48:08 +0000,1,Pretorius ,GD,Possession,1,5,6,18, 84
+2018-10-31 04:48:11 +0000,1,McAuliffe,WD,Possession,1,5,6,9, 107
+2018-10-31 04:48:25 +0000,1,Pretorius ,GD,Possession,1,5,6,59, 77
+2018-10-31 04:48:32 +0000,1,Browne,WA,Possession,1,5,6,57, 88
+2018-10-31 04:48:36 +0000,1,Wood,GA,Possession,1,5,6,49, 125
+2018-10-31 04:48:43 +0000,0,Simpson,WD,Deflect,1,5,6,17, 147
+2018-10-31 04:48:43 +0000,1,Browne,WA,Throw In,1,5,6,-7, 162
+2018-10-31 04:48:53 +0000,1,Wood,GA,Possession,1,5,6,32, 142
+2018-10-31 04:49:01 +0000,1,Browne,WA,Possession,1,5,6,54, 159
+2018-10-31 04:49:11 +0000,1,Browne,WA,Assist - Circle Entry,1,5,6,54, 159
+2018-10-31 04:49:11 +0000,1,Bassett,GS,Goal - Score,1,5,6,50, 193
+2018-10-31 04:49:22 +0000,0,Cassidy,C,Centre Pass,1,5,7,50, 100
+2018-10-31 04:49:22 +0000,1,Pretorius ,GD,Penaly - Contact on CP,1,5,7,50, 78
+2018-10-31 04:49:22 +0000,0,Simpson,WD,Possession,1,5,7,50, 78
+2018-10-31 04:49:34 +0000,0,Hinchliffe,GD,Assist - 2nd Phase,1,5,7,45, 100
+2018-10-31 04:49:39 +0000,0,Simpson,WD,Possession,1,5,7,74, 80
+2018-10-31 04:49:42 +0000,0,Hinchliffe,GD,Possession,1,5,7,31, 88
+2018-10-31 04:49:48 +0000,0,Cassidy,C,Possession,1,5,7,8, 44
+2018-10-31 04:49:50 +0000,0,Tippett,GA,Possession,1,5,7,15, 7
+2018-10-31 04:49:53 +0000,0,Nevins,WA,Possession,1,5,7,83, 12
+2018-10-31 04:49:55 +0000,0,Nevins,WA,Assist - Circle Entry,1,5,7,83, 12
+2018-10-31 04:49:55 +0000,0,Tippett,GA,Goal - Miss,1,5,7,70, 9
+2018-10-31 04:50:02 +0000,0,Aiken,GS,Assist - Attack Rebound,1,5,7,50, 2
+2018-10-31 04:50:05 +0000,1,Mentor,GK,Penaly - Contact,1,5,7,50, 2
+2018-10-31 04:50:05 +0000,0,Aiken,GS,Goal - Score,1,5,7,50, 2
+2018-10-31 04:50:14 +0000,0,,UNKNOWN,Timeout,1,6,7,110, 222
+2018-10-31 04:51:10 +0000,1,Scherian ,C,Centre Pass,1,6,7,50, 100
+2018-10-31 04:51:10 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,6,7,10, 113
+2018-10-31 04:51:12 +0000,1,Browne,WA,Assist - 2nd Phase,1,6,7,11, 170
+2018-10-31 04:51:14 +0000,1,Scherian ,C,Possession,1,6,7,5, 147
+2018-10-31 04:51:16 +0000,1,Wood,GA,Possession,1,6,7,51, 145
+2018-10-31 04:51:18 +0000,1,Browne,WA,Possession,1,6,7,82, 181
+2018-10-31 04:51:21 +0000,1,Browne,WA,Assist - Circle Entry,1,6,7,82, 181
+2018-10-31 04:51:22 +0000,1,Bassett,GS,Goal - Score,1,6,7,47, 188
+2018-10-31 04:51:28 +0000,0,Cassidy,C,Centre Pass,1,6,8,50, 100
+2018-10-31 04:51:28 +0000,0,Tippett,GA,Assist - Centre Pass Rec,1,6,8,65, 73
+2018-10-31 04:51:30 +0000,0,Nevins,WA,Assist - 2nd Phase,1,6,8,78, 34
+2018-10-31 04:51:32 +0000,0,Simpson,WD,Possession,1,6,8,82, 68
+2018-10-31 04:51:42 +0000,0,Nevins,WA,Possession,1,6,8,85, 49
+2018-10-31 04:51:45 +0000,0,Cassidy,C,Possession,1,6,8,47, 49
+2018-10-31 04:51:48 +0000,0,Tippett,GA,Possession,1,6,8,83, 11
+2018-10-31 04:51:51 +0000,0,Tippett,GA,Assist - Circle Entry,1,6,8,83, 11
+2018-10-31 04:51:51 +0000,0,Aiken,GS,Goal - Miss,1,6,8,53, 11
+2018-10-31 04:52:04 +0000,1,Mentor,GK,Gain - Def Reb,1,6,8,50, 2
+2018-10-31 04:52:11 +0000,1,,UNKNOWN,Possession,1,6,8,39, 31
+2018-10-31 04:52:16 +0000,0,Nevins,WA,Penaly - Contact,1,6,8,39, 31
+2018-10-31 04:52:16 +0000,1,Mentor,GK,Possession,1,6,8,39, 31
+2018-10-31 04:52:27 +0000,1,Scherian ,C,Possession,1,6,8,1, 92
+2018-10-31 04:52:29 +0000,1,McAuliffe,WD,Possession,1,6,8,61, 117
+2018-10-31 04:52:31 +0000,0,Simpson,WD,Penaly - Contact,1,6,8,63, 142
+2018-10-31 04:52:31 +0000,1,Browne,WA,Possession,1,6,8,63, 142
+2018-10-31 04:52:38 +0000,1,Browne,WA,Assist - Circle Entry,1,6,8,63, 142
+2018-10-31 04:52:38 +0000,1,Wood,GA,Possession,1,6,8,49, 191
+2018-10-31 04:52:47 +0000,0,Hinchliffe,GD,Penaly - Contact,1,6,8,49, 191
+2018-10-31 04:52:47 +0000,1,Wood,GA,Goal - Score,1,6,8,49, 191
+2018-10-31 04:52:57 +0000,1,Scherian ,C,Centre Pass,1,6,9,50, 100
+2018-10-31 04:52:57 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,6,9,78, 119
+2018-10-31 04:53:00 +0000,1,Scherian ,C,Assist - 2nd Phase,1,6,9,56, 127
+2018-10-31 04:53:02 +0000,1,Wood,GA,Possession,1,6,9,77, 170
+2018-10-31 04:53:08 +0000,1,Scherian ,C,Possession,1,6,9,65, 164
+2018-10-31 04:53:10 +0000,0,Cassidy,C,Penaly - Contact,1,6,9,65, 164
+2018-10-31 04:53:10 +0000,1,Scherian ,C,Possession,1,6,9,65, 164
+2018-10-31 04:53:18 +0000,0,Hinchliffe,GD,Penaly - Contact,1,6,9,65, 179
+2018-10-31 04:53:19 +0000,1,Wood,GA,Possession,1,6,9,65, 179
+2018-10-31 04:53:25 +0000,1,Bassett,GS,Possession,1,6,9,51, 192
+2018-10-31 04:53:29 +0000,0,Clemesha,GK,Penaly - Contact,1,6,9,51, 192
+2018-10-31 04:53:29 +0000,1,Bassett,GS,Goal - Score,1,6,9,51, 192
+2018-10-31 04:53:45 +0000,0,Cassidy,C,Centre Pass,1,6,10,50, 100
+2018-10-31 04:53:45 +0000,0,Nevins,WA,Assist - Centre Pass Rec,1,6,10,78, 73
+2018-10-31 04:53:58 +0000,1,Scherian ,C,Deflect,1,6,10,84, 39
+2018-10-31 04:53:58 +0000,0,Cassidy,C,Possession,1,6,10,91, 14
+2018-10-31 04:54:08 +0000,0,Cassidy,C,Assist - Circle Entry,1,6,10,91, 14
+2018-10-31 04:54:08 +0000,0,Tippett,GA,Assist - 2nd Phase,1,6,10,66, 8
+2018-10-31 04:54:13 +0000,0,Aiken,GS,Goal - Score,1,6,10,49, 3
+2018-10-31 05:06:05 +0000,1,Scherian ,C,Centre Pass,1,7,10,50, 100
+2018-10-31 05:06:05 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,7,10,15, 116
+2018-10-31 05:06:07 +0000,1,Browne,WA,Assist - 2nd Phase,1,7,10,43, 136
+2018-10-31 05:06:10 +0000,1,McAuliffe,WD,Possession,1,7,10,80, 128
+2018-10-31 05:06:13 +0000,1,Browne,WA,Possession,1,7,10,81, 160
+2018-10-31 05:06:17 +0000,1,Browne,WA,Assist - Circle Entry,1,7,10,81, 160
+2018-10-31 05:06:17 +0000,1,Bassett,GS,Goal - Score,1,7,10,46, 193
+2018-10-31 05:06:26 +0000,0,Cassidy,C,Centre Pass,1,7,11,50, 100
+2018-10-31 05:06:26 +0000,0,Nevins,WA,Assist - Centre Pass Rec,1,7,11,28, 80
+2018-10-31 05:06:28 +0000,0,Aiken,GS,Loss - Bad Pass,1,7,11,11, 19
+2018-10-31 05:06:31 +0000,1,Mentor,GK,Throw In,1,7,11,83, -8
+2018-10-31 05:06:42 +0000,1,Pretorius ,GD,Possession,1,7,11,17, 37
+2018-10-31 05:08:13 +0000,1,Mentor,GK,Possession,1,7,11,36, 18
+2018-10-31 05:08:24 +0000,1,McAuliffe,WD,Possession,1,7,11,15, 37
+2018-10-31 05:08:32 +0000,1,Scherian ,C,Possession,1,7,11,35, 57
+2018-10-31 05:08:35 +0000,1,Mentor,GK,Possession,1,7,11,73, 59
+2018-10-31 05:08:51 +0000,1,Pretorius ,GD,Possession,1,7,11,81, 91
+2018-10-31 05:08:55 +0000,0,Tippett,GA,Penaly - Contact,1,7,11,81, 91
+2018-10-31 05:08:55 +0000,1,Pretorius ,GD,Possession,1,7,11,81, 91
+2018-10-31 05:09:00 +0000,1,Browne,WA,Possession,1,7,11,56, 128
+2018-10-31 05:09:08 +0000,1,Wood,GA,Possession,1,7,11,62, 163
+2018-10-31 05:09:11 +0000,1,Browne,WA,Possession,1,7,11,80, 176
+2018-10-31 05:09:16 +0000,1,Browne,WA,Assist - Circle Entry,1,7,11,80, 176
+2018-10-31 05:09:16 +0000,1,Bassett,GS,Loss - Bad Pass,1,7,11,41, 194
+2018-10-31 05:10:12 +0000,0,Clemesha,GK,Throw In,1,7,11,38, 202
+2018-10-31 05:10:23 +0000,0,Hinchliffe,GD,Possession,1,7,11,13, 166
+2018-10-31 05:10:25 +0000,0,Cassidy,C,Possession,1,7,11,12, 134
+2018-10-31 05:10:27 +0000,0,Tippett,GA,Possession,1,7,11,11, 68
+2018-10-31 05:10:31 +0000,0,Nevins,WA,Possession,1,7,11,32, 67
+2018-10-31 05:10:35 +0000,0,Hinchliffe,GD,Possession,1,7,11,61, 69
+2018-10-31 05:10:37 +0000,0,Nevins,WA,Possession,1,7,11,53, 68
+2018-10-31 05:10:58 +0000,0,Simpson,WD,Possession,1,7,11,47, 67
+2018-10-31 05:11:05 +0000,1,Browne,WA,Penaly - Contact,1,7,11,47, 67
+2018-10-31 05:11:05 +0000,0,Simpson,WD,Possession,1,7,11,47, 67
+2018-10-31 05:11:09 +0000,0,Tippett,GA,Possession,1,7,11,77, 21
+2018-10-31 05:11:15 +0000,0,Nevins,WA,Possession,1,7,11,15, 11
+2018-10-31 05:11:18 +0000,0,Nevins,WA,Assist - Circle Entry,1,7,11,15, 11
+2018-10-31 05:11:18 +0000,0,Tippett,GA,Possession,1,7,11,29, 12
+2018-10-31 05:11:20 +0000,0,Nevins,WA,Possession,1,7,11,16, 12
+2018-10-31 05:11:23 +0000,0,Nevins,WA,Assist - Circle Entry,1,7,11,16, 12
+2018-10-31 05:11:23 +0000,0,Tippett,GA,Possession,1,7,11,34, 7
+2018-10-31 05:11:25 +0000,0,Nevins,WA,Possession,1,7,11,16, 10
+2018-10-31 05:11:32 +0000,0,Nevins,WA,Assist - Circle Entry,1,7,11,16, 10
+2018-10-31 05:11:32 +0000,0,Tippett,GA,Goal - Score,1,7,11,42, 2
+2018-10-31 05:11:42 +0000,1,Scherian ,C,Centre Pass,1,8,11,50, 100
+2018-10-31 05:11:42 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,8,11,82, 121
+2018-10-31 05:11:44 +0000,1,Pretorius ,GD,Assist - 2nd Phase,1,8,11,56, 122
+2018-10-31 05:11:46 +0000,1,Browne,WA,Possession,1,8,11,53, 146
+2018-10-31 05:11:49 +0000,1,Browne,WA,Assist - Circle Entry,1,8,11,53, 146
+2018-10-31 05:11:49 +0000,1,Bassett,GS,Possession,1,8,11,51, 169
+2018-10-31 05:11:51 +0000,1,Wood,GA,Possession,1,8,11,76, 173
+2018-10-31 05:11:56 +0000,1,Scherian ,C,Possession,1,8,11,56, 162
+2018-10-31 05:11:58 +0000,1,Scherian ,C,Assist - Circle Entry,1,8,11,56, 162
+2018-10-31 05:11:58 +0000,1,Bassett,GS,Possession,1,8,11,58, 193
+2018-10-31 05:12:01 +0000,0,Clemesha,GK,Penaly - Contact,1,8,11,58, 193
+2018-10-31 05:12:02 +0000,1,Bassett,GS,Goal - Score,1,8,11,58, 193
+2018-10-31 05:12:11 +0000,0,Cassidy,C,Centre Pass,1,8,12,50, 100
+2018-10-31 05:12:11 +0000,0,Nevins,WA,Assist - Centre Pass Rec,1,8,12,18, 72
+2018-10-31 05:14:25 +0000,0,Nevins,WA,Assist - Circle Entry,1,8,12,18, 72
+2018-10-31 05:14:25 +0000,0,Aiken,GS,Assist - 2nd Phase,1,8,12,28, 9
+2018-10-31 05:14:31 +0000,0,Cassidy,C,Possession,1,8,12,17, 13
+2018-10-31 05:14:36 +0000,0,Cassidy,C,Assist - Circle Entry,1,8,12,17, 13
+2018-10-31 05:14:36 +0000,0,Tippett,GA,Possession,1,8,12,45, 25
+2018-10-31 05:14:39 +0000,0,Nevins,WA,Possession,1,8,12,49, 33
+2018-10-31 05:14:43 +0000,0,Nevins,WA,Assist - Circle Entry,1,8,12,49, 33
+2018-10-31 05:14:43 +0000,0,Aiken,GS,Goal - Score,1,8,12,56, 17
+2018-10-31 05:14:54 +0000,1,Scherian ,C,Centre Pass,1,9,12,50, 100
+2018-10-31 05:14:54 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,9,12,10, 123
+2018-10-31 05:15:13 +0000,1,Wood,GA,Assist - 2nd Phase,1,9,12,10, 141
+2018-10-31 05:15:19 +0000,1,Bassett,GS,Possession,1,9,12,7, 177
+2018-10-31 05:15:22 +0000,1,Scherian ,C,Possession,1,9,12,30, 167
+2018-10-31 05:15:30 +0000,0,Clemesha,GK,Penaly - Contact,1,9,12,27, 189
+2018-10-31 05:15:30 +0000,1,Wood,GA,Possession,1,9,12,27, 189
+2018-10-31 05:16:58 +0000,1,Bassett,GS,Loss - Drop,1,9,12,65, 179
+2018-10-31 05:17:16 +0000,0,Hinchliffe,GD,Possession,1,9,12,84, 175
+2018-10-31 05:17:24 +0000,0,Nevins,WA,Possession,1,9,12,87, 126
+2018-10-31 05:17:26 +0000,0,Hinchliffe,GD,Possession,1,9,12,91, 110
+2018-10-31 05:17:28 +0000,0,Nevins,WA,Possession,1,9,12,88, 78
+2018-10-31 05:17:32 +0000,0,Hinchliffe,GD,Possession,1,9,12,92, 91
+2018-10-31 05:17:34 +0000,0,Cassidy,C,Possession,1,9,12,59, 73
+2018-10-31 05:17:38 +0000,0,Simpson,WD,Possession,1,9,12,23, 71
+2018-10-31 05:17:41 +0000,0,Nevins,WA,Possession,1,9,12,12, 42
+2018-10-31 05:17:44 +0000,0,Hinchliffe,GD,Possession,1,9,12,31, 86
+2018-10-31 05:17:46 +0000,0,Simpson,WD,Possession,1,9,12,15, 67
+2018-10-31 05:17:49 +0000,0,Nevins,WA,Possession,1,9,12,17, 49
+2018-10-31 05:17:52 +0000,0,Nevins,WA,Assist - Circle Entry,1,9,12,17, 49
+2018-10-31 05:17:52 +0000,0,Aiken,GS,Possession,1,9,12,40, 25
+2018-10-31 05:17:55 +0000,0,Nevins,WA,Possession,1,9,12,33, 30
+2018-10-31 05:17:59 +0000,0,Nevins,WA,Assist - Circle Entry,1,9,12,33, 30
+2018-10-31 05:17:59 +0000,0,Aiken,GS,Possession,1,9,12,43, 16
+2018-10-31 05:18:03 +0000,0,Nevins,WA,Possession,1,9,12,37, 31
+2018-10-31 05:18:06 +0000,1,Scherian ,C,Penaly - Contact,1,9,12,37, 31
+2018-10-31 05:18:07 +0000,0,Nevins,WA,Possession,1,9,12,37, 31
+2018-10-31 05:18:18 +0000,0,Nevins,WA,Assist - Circle Entry,1,9,12,37, 31
+2018-10-31 05:18:18 +0000,0,Aiken,GS,Possession,1,9,12,50, 4
+2018-10-31 05:18:21 +0000,1,Mentor,GK,Penaly - Contact,1,9,12,50, 4
+2018-10-31 05:18:21 +0000,0,Aiken,GS,Goal - Score,1,9,12,50, 4
+2018-10-31 05:18:32 +0000,0,Cassidy,C,Centre Pass,1,10,12,50, 100
+2018-10-31 05:18:32 +0000,0,Tippett,GA,Assist - Centre Pass Rec,1,10,12,78, 70
+2018-10-31 05:18:35 +0000,0,Simpson,WD,Assist - 2nd Phase,1,10,12,34, 69
+2018-10-31 05:18:39 +0000,0,Nevins,WA,Possession,1,10,12,36, 31
+2018-10-31 05:18:44 +0000,0,Nevins,WA,Assist - Circle Entry,1,10,12,36, 31
+2018-10-31 05:18:44 +0000,0,Aiken,GS,Goal - Score,1,10,12,51, 8
+2018-10-31 05:18:56 +0000,1,Scherian ,C,Centre Pass,1,11,12,50, 100
+2018-10-31 05:18:56 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,1,11,12,56, 82
+2018-10-31 05:19:50 +0000,1,Scherian ,C,Assist - 2nd Phase,1,11,12,50, 88
+2018-10-31 05:19:54 +0000,1,Browne,WA,Possession,1,11,12,81, 145
+2018-10-31 05:19:56 +0000,1,Wood,GA,Possession,1,11,12,76, 139
+2018-10-31 05:19:58 +0000,1,Pretorius ,GD,Possession,1,11,12,70, 128
+2018-10-31 05:20:01 +0000,1,Browne,WA,Possession,1,11,12,70, 148
+2018-10-31 05:20:05 +0000,1,Scherian ,C,Possession,1,11,12,20, 164
+2018-10-31 05:20:07 +0000,1,Scherian ,C,Assist - Circle Entry,1,11,12,20, 164
+2018-10-31 05:20:07 +0000,1,Wood,GA,Possession,1,11,12,39, 184
+2018-10-31 05:20:10 +0000,1,Scherian ,C,Possession,1,11,12,26, 172
+2018-10-31 05:20:12 +0000,1,Scherian ,C,Assist - Circle Entry,1,11,12,26, 172
+2018-10-31 05:20:12 +0000,1,Wood,GA,Possession,1,11,12,41, 184
+2018-10-31 05:20:14 +0000,0,Hinchliffe,GD,Penaly - Contact,1,11,12,41, 184
+2018-10-31 05:20:14 +0000,1,Wood,GA,Possession,1,11,12,41, 184
+2018-10-31 05:20:22 +0000,0,Clemesha,GK,Penaly - Contact,1,11,12,41, 184
+2018-10-31 05:20:22 +0000,1,Wood,GA,Goal - Score,1,11,12,41, 184
+2018-10-31 05:20:36 +0000,0,Cassidy,C,Centre Pass,1,11,13,50, 100
+2018-10-31 05:20:36 +0000,0,Nevins,WA,Assist - Centre Pass Rec,1,11,13,64, 82
+2018-10-31 05:20:40 +0000,0,Hinchliffe,GD,Assist - 2nd Phase,1,11,13,32, 99
+2018-10-31 05:20:43 +0000,0,Simpson,WD,Possession,1,11,13,53, 88
+2018-10-31 05:20:46 +0000,0,Cassidy,C,Possession,1,11,13,80, 66
+2018-10-31 05:20:50 +0000,0,Tippett,GA,Possession,1,11,13,88, 42
+2018-10-31 05:20:55 +0000,0,Cassidy,C,Possession,1,11,13,75, 44
+2018-10-31 05:21:00 +0000,0,Tippett,GA,Possession,1,11,13,86, 5
+2018-10-31 05:21:02 +0000,0,Nevins,WA,Possession,1,11,13,19, 16
+2018-10-31 05:21:05 +0000,0,Tippett,GA,Possession,1,11,13,45, 33
+2018-10-31 05:21:08 +0000,0,Nevins,WA,Possession,1,11,13,31, 27
+2018-10-31 05:21:13 +0000,0,Cassidy,C,Possession,1,11,13,83, 11
+2018-10-31 05:21:16 +0000,0,Nevins,WA,Possession,1,11,13,29, 28
+2018-10-31 05:21:19 +0000,0,Nevins,WA,Assist - Circle Entry,1,11,13,29, 28
+2018-10-31 05:21:19 +0000,0,Aiken,GS,Possession,1,11,13,58, 20
+2018-10-31 05:21:22 +0000,1,Mentor,GK,Penaly - Contact,1,11,13,58, 20
+2018-10-31 05:21:22 +0000,0,Tippett,GA,Loss - Bad Pass,1,11,13,58, 20
+2018-10-31 05:21:42 +0000,1,Pretorius ,GD,Gain - Inter,1,11,13,51, 7
+2018-10-31 05:22:04 +0000,1,McAuliffe,WD,Possession,1,11,13,80, 19
+2018-10-31 05:22:07 +0000,0,Cassidy,C,Penaly - Contact,1,11,13,80, 19
+2018-10-31 05:22:08 +0000,1,McAuliffe,WD,Possession,1,11,13,80, 19
+2018-10-31 05:22:12 +0000,1,Scherian ,C,Possession,1,11,13,41, 48
+2018-10-31 05:22:17 +0000,1,Browne,WA,Possession,1,11,13,39, 101
+2018-10-31 05:22:21 +0000,1,Wood,GA,Possession,1,11,13,11, 123
+2018-10-31 05:22:26 +0000,1,Wood,GA,Assist - Circle Entry,1,11,13,11, 123
+2018-10-31 05:22:26 +0000,1,Bassett,GS,Goal - Score,1,11,13,52, 193
+2018-10-31 05:22:44 +0000,1,Scherian ,C,Centre Pass,1,11,14,50, 100
+2018-10-31 05:22:44 +0000,0,Cassidy,C,Penaly - Obstruction,1,11,14,49, 101
+2018-10-31 05:22:44 +0000,1,Pretorius ,GD,Possession,1,11,14,49, 101
+2018-10-31 05:22:54 +0000,1,Scherian ,C,Assist - 2nd Phase,1,11,14,8, 120
+2018-10-31 05:22:57 +0000,0,Simpson,WD,Penaly - Contact,1,11,14,22, 142
+2018-10-31 05:22:57 +0000,1,Browne,WA,Possession,1,11,14,22, 142
+2018-10-31 05:23:04 +0000,1,Bassett,GS,Loss - Bad Pass,1,11,14,54, 160
+2018-10-31 05:23:36 +0000,0,Clemesha,GK,Throw In,1,11,14,91, 203
+2018-10-31 05:23:45 +0000,0,Hinchliffe,GD,Possession,1,11,14,80, 169
+2018-10-31 05:23:52 +0000,0,Clemesha,GK,Possession,1,11,14,40, 175
+2018-10-31 05:23:56 +0000,0,Cassidy,C,Possession,1,11,14,15, 158
+2018-10-31 05:24:00 +0000,0,Tippett,GA,Possession,1,11,14,49, 100
+2018-10-31 05:24:04 +0000,0,Nevins,WA,Possession,1,11,14,51, 47
+2018-10-31 05:24:13 +0000,1,Mentor,GK,Deflect,1,11,14,51, 15
+2018-10-31 05:24:13 +0000,0,Nevins,WA,Possession,1,11,14,78, 30
+2018-10-31 05:24:22 +0000,0,Nevins,WA,Assist - Circle Entry,1,11,14,78, 30
+2018-10-31 05:24:22 +0000,0,Aiken,GS,Loss - Off Contact,1,11,14,63, 7
+2018-10-31 05:24:31 +0000,1,Mentor,GK,Possession,1,11,14,60, 6
+2018-10-31 05:24:36 +0000,1,Browne,WA,Possession,1,11,14,45, 127
+2018-10-31 05:24:44 +0000,1,Browne,WA,Assist - Circle Entry,1,11,14,45, 127
+2018-10-31 05:24:44 +0000,1,Bassett,GS,Goal - Score,1,11,14,50, 187
+2018-10-31 05:25:41 +0000,0,Cassidy,C,Centre Pass,2,11,15,50, 100
+2018-10-31 05:25:41 +0000,0,Nevins,WA,Assist - Centre Pass Rec,2,11,15,46, 81
+2018-10-31 05:25:44 +0000,1,McAuliffe,WD,Penaly - Contact,2,11,15,46, 81
+2018-10-31 05:25:44 +0000,0,Simpson,WD,Possession,2,11,15,46, 81
+2018-10-31 05:26:00 +0000,0,Tippett,GA,Possession,2,11,15,43, 49
+2018-10-31 05:26:03 +0000,0,Tippett,GA,Assist - Circle Entry,2,11,15,43, 49
+2018-10-31 05:26:03 +0000,0,Aiken,GS,Goal - Score,2,11,15,47, 12
+2018-10-31 05:26:13 +0000,1,Scherian ,C,Centre Pass,2,12,15,50, 100
+2018-10-31 05:26:13 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,12,15,78, 113
+2018-10-31 05:26:15 +0000,1,Wood,GA,Loss - Bad Pass,2,12,15,84, 137
+2018-10-31 05:26:19 +0000,0,Clemesha,GK,Throw In,2,12,15,89, 206
+2018-10-31 05:26:29 +0000,0,Cassidy,C,Possession,2,12,15,14, 150
+2018-10-31 05:26:32 +0000,0,Simpson,WD,Possession,2,12,15,32, 143
+2018-10-31 05:26:39 +0000,0,Hinchliffe,GD,Possession,2,12,15,11, 119
+2018-10-31 05:26:42 +0000,0,Tippett,GA,Possession,2,12,15,30, 117
+2018-10-31 05:26:48 +0000,0,Hinchliffe,GD,Possession,2,12,15,10, 80
+2018-10-31 05:26:51 +0000,0,Cassidy,C,Possession,2,12,15,10, 65
+2018-10-31 05:26:56 +0000,1,Scherian ,C,Penaly - Contact,2,12,15,10, 65
+2018-10-31 05:26:56 +0000,0,Cassidy,C,Possession,2,12,15,10, 65
+2018-10-31 05:27:02 +0000,0,Nevins,WA,Possession,2,12,15,17, 40
+2018-10-31 05:27:04 +0000,0,Hinchliffe,GD,Possession,2,12,15,14, 71
+2018-10-31 05:27:06 +0000,0,Nevins,WA,Possession,2,12,15,16, 50
+2018-10-31 05:27:11 +0000,0,Tippett,GA,Possession,2,12,15,9, 17
+2018-10-31 05:27:13 +0000,0,Cassidy,C,Possession,2,12,15,72, 30
+2018-10-31 05:27:16 +0000,1,Scherian ,C,Penaly - Contact,2,12,15,72, 30
+2018-10-31 05:27:16 +0000,0,Cassidy,C,Possession,2,12,15,72, 30
+2018-10-31 05:27:22 +0000,0,Cassidy,C,Assist - Circle Entry,2,12,15,72, 30
+2018-10-31 05:27:22 +0000,0,Aiken,GS,Possession,2,12,15,44, 9
+2018-10-31 05:27:24 +0000,0,Tippett,GA,Goal - Score,2,12,15,53, 5
+2018-10-31 05:27:30 +0000,0,Cassidy,C,Centre Pass,2,13,15,50, 100
+2018-10-31 05:27:30 +0000,0,Nevins,WA,Assist - Centre Pass Rec,2,13,15,77, 78
+2018-10-31 05:27:36 +0000,0,Tippett,GA,Assist - 2nd Phase,2,13,15,89, 32
+2018-10-31 05:27:41 +0000,0,Tippett,GA,Assist - Circle Entry,2,13,15,89, 32
+2018-10-31 05:27:41 +0000,0,Aiken,GS,Possession,2,13,15,57, 24
+2018-10-31 05:27:43 +0000,1,Mentor,GK,Penaly - Contact,2,13,15,57, 24
+2018-10-31 05:27:43 +0000,0,Tippett,GA,Possession,2,13,15,57, 24
+2018-10-31 05:27:50 +0000,0,Aiken,GS,Goal - Score,2,13,15,47, 9
+2018-10-31 05:28:00 +0000,1,Scherian ,C,Centre Pass,2,14,15,50, 100
+2018-10-31 05:28:01 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,14,15,72, 117
+2018-10-31 05:28:03 +0000,1,Pretorius ,GD,Assist - 2nd Phase,2,14,15,59, 100
+2018-10-31 05:28:16 +0000,0,Simpson,WD,Deflect,2,14,15,87, 107
+2018-10-31 05:28:16 +0000,1,McAuliffe,WD,Throw In,2,14,15,107, 102
+2018-10-31 05:28:31 +0000,0,Cassidy,C,Deflect,2,14,15,91, 157
+2018-10-31 05:28:31 +0000,1,Scherian ,C,Throw In,2,14,15,108, 157
+2018-10-31 05:28:39 +0000,1,McAuliffe,WD,Possession,2,14,15,89, 130
+2018-10-31 05:28:43 +0000,1,Wood,GA,Possession,2,14,15,82, 145
+2018-10-31 05:28:48 +0000,1,Scherian ,C,Possession,2,14,15,89, 187
+2018-10-31 05:28:51 +0000,1,Browne,WA,Possession,2,14,15,12, 189
+2018-10-31 05:28:55 +0000,1,Browne,WA,Assist - Circle Entry,2,14,15,12, 189
+2018-10-31 05:28:55 +0000,1,Bassett,GS,Possession,2,14,15,31, 188
+2018-10-31 05:28:57 +0000,1,Browne,WA,Possession,2,14,15,10, 191
+2018-10-31 05:29:04 +0000,1,Browne,WA,Assist - Circle Entry,2,14,15,10, 191
+2018-10-31 05:29:04 +0000,1,Bassett,GS,Goal - Score,2,14,15,41, 194
+2018-10-31 05:29:16 +0000,0,Cassidy,C,Centre Pass,2,14,16,50, 100
+2018-10-31 05:29:16 +0000,0,Tippett,GA,Assist - Centre Pass Rec,2,14,16,19, 72
+2018-10-31 05:29:19 +0000,0,Cassidy,C,Assist - 2nd Phase,2,14,16,32, 74
+2018-10-31 05:29:23 +0000,0,Nevins,WA,Possession,2,14,16,26, 47
+2018-10-31 05:29:31 +0000,0,Tippett,GA,Possession,2,14,16,13, 18
+2018-10-31 05:29:41 +0000,0,Cassidy,C,Loss - Off Contact,2,14,16,75, 28
+2018-10-31 05:29:59 +0000,1,Mentor,GK,Possession,2,14,16,75, 28
+2018-10-31 05:30:04 +0000,1,McAuliffe,WD,Possession,2,14,16,85, 71
+2018-10-31 05:30:08 +0000,1,Wood,GA,Possession,2,14,16,90, 128
+2018-10-31 05:30:14 +0000,1,McAuliffe,WD,Possession,2,14,16,81, 133
+2018-10-31 05:30:17 +0000,1,Browne,WA,Possession,2,14,16,70, 151
+2018-10-31 05:30:21 +0000,1,Browne,WA,Assist - Circle Entry,2,14,16,70, 151
+2018-10-31 05:30:21 +0000,1,Bassett,GS,Possession,2,14,16,60, 175
+2018-10-31 05:30:23 +0000,1,Browne,WA,Possession,2,14,16,75, 177
+2018-10-31 05:30:26 +0000,1,Browne,WA,Assist - Circle Entry,2,14,16,75, 177
+2018-10-31 05:30:27 +0000,1,Wood,GA,Goal - Score,2,14,16,57, 197
+2018-10-31 05:30:43 +0000,1,Scherian ,C,Centre Pass,2,14,17,50, 100
+2018-10-31 05:30:43 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,2,14,17,28, 84
+2018-10-31 05:30:46 +0000,1,Scherian ,C,Assist - 2nd Phase,2,14,17,89, 120
+2018-10-31 05:30:49 +0000,1,Browne,WA,Possession,2,14,17,88, 171
+2018-10-31 05:30:55 +0000,1,Scherian ,C,Possession,2,14,17,53, 151
+2018-10-31 05:30:58 +0000,1,Browne,WA,Possession,2,14,17,50, 166
+2018-10-31 05:31:01 +0000,1,Browne,WA,Assist - Circle Entry,2,14,17,50, 166
+2018-10-31 05:31:01 +0000,1,Wood,GA,Possession,2,14,17,48, 180
+2018-10-31 05:31:06 +0000,1,Bassett,GS,Possession,2,14,17,60, 192
+2018-10-31 05:31:10 +0000,0,Clemesha,GK,Penaly - Obstruction,2,14,17,60, 192
+2018-10-31 05:31:10 +0000,1,Bassett,GS,Goal - Score,2,14,17,60, 192
+2018-10-31 05:31:18 +0000,0,Cassidy,C,Centre Pass,2,14,18,50, 100
+2018-10-31 05:31:18 +0000,0,Simpson,WD,Assist - Centre Pass Rec,2,14,18,75, 86
+2018-10-31 05:31:21 +0000,0,Nevins,WA,Assist - 2nd Phase,2,14,18,86, 59
+2018-10-31 05:31:23 +0000,0,Simpson,WD,Possession,2,14,18,85, 71
+2018-10-31 05:31:25 +0000,0,Nevins,WA,Possession,2,14,18,91, 62
+2018-10-31 05:31:31 +0000,1,Pretorius ,GD,Penaly - Contact,2,14,18,50, 36
+2018-10-31 05:31:31 +0000,0,Cassidy,C,Possession,2,14,18,50, 36
+2018-10-31 05:31:39 +0000,0,Cassidy,C,Assist - Circle Entry,2,14,18,50, 36
+2018-10-31 05:31:39 +0000,0,Tippett,GA,Goal - Score,2,14,18,42, 5
+2018-10-31 05:31:49 +0000,1,Scherian ,C,Centre Pass,2,15,18,50, 100
+2018-10-31 05:31:49 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,15,18,71, 110
+2018-10-31 05:31:53 +0000,1,Wood,GA,Assist - 2nd Phase,2,15,18,89, 129
+2018-10-31 05:32:05 +0000,1,Scherian ,C,Loss - Drop,2,15,18,75, 129
+2018-10-31 05:32:53 +0000,0,Nevins,WA,Possession,2,15,18,71, 125
+2018-10-31 05:33:00 +0000,1,Scherian ,C,Penaly - Contact,2,15,18,71, 125
+2018-10-31 05:33:00 +0000,0,Simpson,WD,Possession,2,15,18,71, 125
+2018-10-31 05:33:11 +0000,0,Cassidy,C,Possession,2,15,18,15, 85
+2018-10-31 05:33:13 +0000,0,Nevins,WA,Possession,2,15,18,14, 56
+2018-10-31 05:33:20 +0000,1,Scherian ,C,Gain - Inter,2,15,18,37, 49
+2018-10-31 05:33:27 +0000,1,Mentor,GK,Possession,2,15,18,45, 29
+2018-10-31 05:33:34 +0000,0,Aiken,GS,Penaly - Obstruction,2,15,18,45, 29
+2018-10-31 05:33:34 +0000,1,Mentor,GK,Possession,2,15,18,45, 29
+2018-10-31 05:33:50 +0000,1,McAuliffe,WD,Possession,2,15,18,48, 72
+2018-10-31 05:33:58 +0000,1,Browne,WA,Possession,2,15,18,71, 119
+2018-10-31 05:34:08 +0000,1,Pretorius ,GD,Possession,2,15,18,24, 111
+2018-10-31 05:34:14 +0000,1,McAuliffe,WD,Possession,2,15,18,49, 89
+2018-10-31 05:34:16 +0000,1,Pretorius ,GD,Possession,2,15,18,54, 118
+2018-10-31 05:34:19 +0000,1,Browne,WA,Possession,2,15,18,91, 122
+2018-10-31 05:34:26 +0000,0,Clemesha,GK,Gain - Inter,2,15,18,57, 167
+2018-10-31 05:34:32 +0000,0,Simpson,WD,Possession,2,15,18,68, 140
+2018-10-31 05:34:36 +0000,0,Simpson,WD,Possession,2,15,18,42, 124
+2018-10-31 05:34:40 +0000,0,Simpson,WD,Possession,2,15,18,50, 110
+2018-10-31 05:34:44 +0000,0,Nevins,WA,Possession,2,15,18,81, 79
+2018-10-31 05:34:46 +0000,0,Simpson,WD,Possession,2,15,18,63, 73
+2018-10-31 05:34:50 +0000,0,Cassidy,C,Possession,2,15,18,79, 53
+2018-10-31 05:34:52 +0000,0,Nevins,WA,Possession,2,15,18,83, 25
+2018-10-31 05:34:55 +0000,0,Nevins,WA,Assist - Circle Entry,2,15,18,83, 25
+2018-10-31 05:34:55 +0000,0,Aiken,GS,Goal - Score,2,15,18,60, 7
+2018-10-31 05:35:13 +0000,0,Cassidy,C,Centre Pass,2,16,18,50, 100
+2018-10-31 05:35:13 +0000,1,Pretorius ,GD,Penaly - Contact on CP,2,16,18,66, 64
+2018-10-31 05:35:13 +0000,0,Nevins,WA,Possession,2,16,18,66, 64
+2018-10-31 05:35:26 +0000,0,Nevins,WA,Assist - Circle Entry,2,16,18,66, 64
+2018-10-31 05:35:26 +0000,0,Aiken,GS,Assist - 2nd Phase,2,16,18,43, 10
+2018-10-31 05:35:29 +0000,0,Aiken,GS,Goal - Score,2,16,18,43, 10
+2018-10-31 05:36:55 +0000,1,Scherian ,C,Centre Pass,2,17,18,50, 100
+2018-10-31 05:36:55 +0000,0,Hinchliffe,GD,Gain - Inter,2,17,18,84, 120
+2018-10-31 05:38:19 +0000,0,Cassidy,C,Possession,2,17,18,51, 40
+2018-10-31 05:38:21 +0000,0,Aiken,GS,Possession,2,17,18,74, 28
+2018-10-31 05:38:27 +0000,0,Nevins,WA,Possession,2,17,18,42, 36
+2018-10-31 05:38:29 +0000,0,Nevins,WA,Assist - Circle Entry,2,17,18,42, 36
+2018-10-31 05:38:30 +0000,0,Tippett,GA,Possession,2,17,18,52, 25
+2018-10-31 05:38:40 +0000,0,Cassidy,C,Possession,2,17,18,73, 29
+2018-10-31 05:38:42 +0000,1,McAuliffe,WD,Penaly - Contact,2,17,18,73, 29
+2018-10-31 05:38:42 +0000,0,Cassidy,C,Possession,2,17,18,73, 29
+2018-10-31 05:38:51 +0000,0,Cassidy,C,Assist - Circle Entry,2,17,18,73, 29
+2018-10-31 05:38:51 +0000,0,Aiken,GS,Possession,2,17,18,66, 9
+2018-10-31 05:38:53 +0000,0,Cassidy,C,Possession,2,17,18,78, 21
+2018-10-31 05:39:00 +0000,0,Cassidy,C,Assist - Circle Entry,2,17,18,78, 21
+2018-10-31 05:39:00 +0000,0,Aiken,GS,Possession,2,17,18,48, 6
+2018-10-31 05:39:02 +0000,1,Mentor,GK,Penaly - Contact,2,17,18,48, 6
+2018-10-31 05:39:02 +0000,0,Tippett,GA,Goal - Score,2,17,18,48, 6
+2018-10-31 05:39:19 +0000,0,Cassidy,C,Centre Pass,2,18,18,50, 100
+2018-10-31 05:39:19 +0000,0,Hinchliffe,GD,Assist - Centre Pass Rec,2,18,18,21, 101
+2018-10-31 05:39:26 +0000,1,Wood,GA,Penaly - Obstruction,2,18,18,21, 101
+2018-10-31 05:39:26 +0000,0,Hinchliffe,GD,Possession,2,18,18,21, 101
+2018-10-31 05:39:33 +0000,0,Simpson,WD,Possession,2,18,18,81, 77
+2018-10-31 05:39:35 +0000,0,Hinchliffe,GD,Possession,2,18,18,66, 103
+2018-10-31 05:39:37 +0000,0,Simpson,WD,Possession,2,18,18,94, 87
+2018-10-31 05:39:39 +0000,0,Cassidy,C,Possession,2,18,18,86, 63
+2018-10-31 05:39:41 +0000,0,Nevins,WA,Possession,2,18,18,52, 48
+2018-10-31 05:39:43 +0000,0,Nevins,WA,Assist - Circle Entry,2,18,18,52, 48
+2018-10-31 05:39:44 +0000,0,Aiken,GS,Assist - 2nd Phase,2,18,18,50, 27
+2018-10-31 05:39:47 +0000,0,Nevins,WA,Possession,2,18,18,50, 36
+2018-10-31 05:39:51 +0000,1,Scherian ,C,Penaly - Contact,2,18,18,50, 36
+2018-10-31 05:39:51 +0000,0,Nevins,WA,Possession,2,18,18,50, 36
+2018-10-31 05:40:02 +0000,0,Nevins,WA,Assist - Circle Entry,2,18,18,50, 36
+2018-10-31 05:40:02 +0000,0,Aiken,GS,Possession,2,18,18,44, 9
+2018-10-31 05:40:05 +0000,1,Mentor,GK,Penaly - Contact,2,18,18,44, 9
+2018-10-31 05:40:05 +0000,0,Aiken,GS,Possession,2,18,18,44, 9
+2018-10-31 05:40:12 +0000,0,Tippett,GA,Goal - Score,2,18,18,55, 5
+2018-10-31 05:40:21 +0000,1,Scherian ,C,Centre Pass,2,19,18,50, 100
+2018-10-31 05:40:21 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,19,18,64, 117
+2018-10-31 05:40:23 +0000,1,Scherian ,C,Assist - 2nd Phase,2,19,18,70, 142
+2018-10-31 05:40:25 +0000,1,Wood,GA,Possession,2,19,18,85, 192
+2018-10-31 05:40:28 +0000,1,Wood,GA,Assist - Circle Entry,2,19,18,85, 192
+2018-10-31 05:40:28 +0000,1,Bassett,GS,Possession,2,19,18,59, 195
+2018-10-31 05:40:29 +0000,0,Clemesha,GK,Penaly - Contact,2,19,18,59, 195
+2018-10-31 05:40:29 +0000,1,Bassett,GS,Goal - Score,2,19,18,59, 195
+2018-10-31 05:40:39 +0000,0,Cassidy,C,Centre Pass,2,19,19,50, 100
+2018-10-31 05:40:39 +0000,0,Tippett,GA,Assist - Centre Pass Rec,2,19,19,23, 75
+2018-10-31 05:40:42 +0000,1,Scherian ,C,Penaly - Contact,2,19,19,18, 58
+2018-10-31 05:40:42 +0000,0,Cassidy,C,Assist - 2nd Phase,2,19,19,18, 58
+2018-10-31 05:40:50 +0000,0,Tippett,GA,Possession,2,19,19,21, 29
+2018-10-31 05:40:52 +0000,0,Tippett,GA,Assist - Circle Entry,2,19,19,21, 29
+2018-10-31 05:40:52 +0000,0,Aiken,GS,Possession,2,19,19,49, 7
+2018-10-31 05:40:53 +0000,1,Mentor,GK,Penaly - Contact,2,19,19,49, 7
+2018-10-31 05:40:54 +0000,0,Aiken,GS,Goal - Score,2,19,19,49, 7
+2018-10-31 05:41:05 +0000,1,,UNKNOWN,Timeout,2,20,19,-10, -22
+2018-10-31 05:42:05 +0000,1,Scherian ,C,Centre Pass,2,20,19,50, 100
+2018-10-31 05:42:05 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,20,19,77, 117
+2018-10-31 05:42:07 +0000,1,Wood,GA,Assist - 2nd Phase,2,20,19,61, 131
+2018-10-31 05:42:09 +0000,1,Pretorius ,GD,Possession,2,20,19,22, 131
+2018-10-31 05:42:12 +0000,1,Scherian ,C,Possession,2,20,19,15, 152
+2018-10-31 05:42:15 +0000,0,Cassidy,C,Penaly - Contact,2,20,19,15, 152
+2018-10-31 05:42:15 +0000,1,Scherian ,C,Possession,2,20,19,15, 152
+2018-10-31 05:42:20 +0000,1,Wood,GA,Possession,2,20,19,16, 193
+2018-10-31 05:42:22 +0000,1,Scherian ,C,Possession,2,20,19,26, 177
+2018-10-31 05:42:27 +0000,1,Scherian ,C,Assist - Circle Entry,2,20,19,26, 177
+2018-10-31 05:42:27 +0000,1,Wood,GA,Possession,2,20,19,33, 197
+2018-10-31 05:42:29 +0000,1,Scherian ,C,Possession,2,20,19,20, 181
+2018-10-31 05:42:32 +0000,1,Scherian ,C,Assist - Circle Entry,2,20,19,20, 181
+2018-10-31 05:42:32 +0000,1,Wood,GA,Goal - Miss,2,20,19,39, 195
+2018-10-31 05:42:42 +0000,0,Clemesha,GK,Gain - Def Reb,2,20,19,50, 197
+2018-10-31 05:42:43 +0000,0,Hinchliffe,GD,Possession,2,20,19,72, 190
+2018-10-31 05:42:48 +0000,0,Clemesha,GK,Possession,2,20,19,26, 173
+2018-10-31 05:42:51 +0000,0,Cassidy,C,Possession,2,20,19,15, 131
+2018-10-31 05:42:55 +0000,0,,UNKNOWN,Possession,2,20,19,35, 95
+2018-10-31 05:42:57 +0000,0,,UNKNOWN,Possession,2,20,19,26, 78
+2018-10-31 05:42:58 +0000,1,Browne,WA,Penaly - Contact,2,20,19,26, 78
+2018-10-31 05:42:58 +0000,0,Hinchliffe,GD,Possession,2,20,19,26, 78
+2018-10-31 05:43:07 +0000,0,Simpson,WD,Possession,2,20,19,80, 76
+2018-10-31 05:43:10 +0000,0,Nevins,WA,Possession,2,20,19,68, 66
+2018-10-31 05:43:12 +0000,0,Aiken,GS,Possession,2,20,19,76, 38
+2018-10-31 05:43:14 +0000,0,Nevins,WA,Possession,2,20,19,63, 33
+2018-10-31 05:43:16 +0000,0,Nevins,WA,Assist - Circle Entry,2,20,19,63, 33
+2018-10-31 05:43:16 +0000,0,Tippett,GA,Possession,2,20,19,61, 16
+2018-10-31 05:43:20 +0000,0,Aiken,GS,Possession,2,20,19,51, 10
+2018-10-31 05:43:22 +0000,1,Mentor,GK,Penaly - Contact,2,20,19,51, 10
+2018-10-31 05:43:22 +0000,0,Aiken,GS,Goal - Score,2,20,19,51, 10
+2018-10-31 05:43:34 +0000,0,Cassidy,C,Centre Pass,2,21,19,50, 100
+2018-10-31 05:43:34 +0000,0,Hinchliffe,GD,Assist - Centre Pass Rec,2,21,19,17, 80
+2018-10-31 05:43:38 +0000,0,Nevins,WA,Assist - 2nd Phase,2,21,19,20, 59
+2018-10-31 05:43:41 +0000,0,Tippett,GA,Possession,2,21,19,53, 54
+2018-10-31 05:43:43 +0000,0,Tippett,GA,Assist - Circle Entry,2,21,19,53, 54
+2018-10-31 05:43:44 +0000,0,Aiken,GS,Possession,2,21,19,53, 22
+2018-10-31 05:43:46 +0000,0,Nevins,WA,Possession,2,21,19,74, 28
+2018-10-31 05:43:51 +0000,0,Nevins,WA,Assist - Circle Entry,2,21,19,74, 28
+2018-10-31 05:43:51 +0000,0,Aiken,GS,Possession,2,21,19,43, 5
+2018-10-31 05:43:53 +0000,1,Mentor,GK,Penaly - Contact,2,21,19,43, 5
+2018-10-31 05:43:53 +0000,0,Aiken,GS,Goal - Score,2,21,19,43, 5
+2018-10-31 05:44:04 +0000,1,Scherian ,C,Centre Pass,2,22,19,50, 100
+2018-10-31 05:44:04 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,22,19,24, 120
+2018-10-31 05:44:06 +0000,1,Wood,GA,Assist - 2nd Phase,2,22,19,11, 147
+2018-10-31 05:44:08 +0000,1,McAuliffe,WD,Possession,2,22,19,16, 133
+2018-10-31 05:44:12 +0000,1,Scherian ,C,Possession,2,22,19,10, 177
+2018-10-31 05:44:17 +0000,1,Wood,GA,Possession,2,22,19,15, 195
+2018-10-31 05:44:20 +0000,1,Scherian ,C,Possession,2,22,19,17, 187
+2018-10-31 05:44:26 +0000,0,Cassidy,C,Penaly - Obstruction,2,22,19,17, 187
+2018-10-31 05:44:26 +0000,1,Scherian ,C,Possession,2,22,19,17, 187
+2018-10-31 05:44:33 +0000,1,Scherian ,C,Assist - Circle Entry,2,22,19,17, 187
+2018-10-31 05:44:33 +0000,1,Bassett,GS,Goal - Score,2,22,19,47, 189
+2018-10-31 05:44:41 +0000,0,Cassidy,C,Centre Pass,2,22,20,50, 100
+2018-10-31 05:44:41 +0000,0,Tippett,GA,Assist - Centre Pass Rec,2,22,20,79, 78
+2018-10-31 05:44:44 +0000,0,Nevins,WA,Assist - 2nd Phase,2,22,20,60, 52
+2018-10-31 05:44:47 +0000,0,Simpson,WD,Possession,2,22,20,56, 98
+2018-10-31 05:44:53 +0000,0,Nevins,WA,Possession,2,22,20,83, 58
+2018-10-31 05:44:56 +0000,0,Cassidy,C,Possession,2,22,20,90, 10
+2018-10-31 05:45:03 +0000,0,Cassidy,C,Assist - Circle Entry,2,22,20,90, 10
+2018-10-31 05:45:03 +0000,0,Aiken,GS,Possession,2,22,20,61, 13
+2018-10-31 05:45:05 +0000,1,Mentor,GK,Penaly - Contact,2,22,20,61, 13
+2018-10-31 05:45:05 +0000,0,Tippett,GA,Possession,2,22,20,61, 13
+2018-10-31 05:45:10 +0000,0,Aiken,GS,Possession,2,22,20,50, 8
+2018-10-31 05:45:12 +0000,1,Mentor,GK,Penaly - Contact,2,22,20,50, 8
+2018-10-31 05:45:12 +0000,0,Aiken,GS,Goal - Miss,2,22,20,50, 8
+2018-10-31 05:45:31 +0000,0,Tippett,GA,Assist - Attack Rebound,2,22,20,50, 2
+2018-10-31 05:45:35 +0000,1,Pretorius ,GD,Penaly - Contact,2,22,20,61, 5
+2018-10-31 05:45:35 +0000,0,Tippett,GA,Possession,2,22,20,61, 5
+2018-10-31 05:45:49 +0000,0,Aiken,GS,Possession,2,22,20,45, 22
+2018-10-31 05:45:51 +0000,0,Tippett,GA,Goal - Score,2,22,20,48, 8
+2018-10-31 05:45:58 +0000,1,Scherian ,C,Centre Pass,2,23,20,50, 100
+2018-10-31 05:45:58 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,23,20,40, 118
+2018-10-31 05:46:00 +0000,1,Wood,GA,Assist - 2nd Phase,2,23,20,16, 129
+2018-10-31 05:46:02 +0000,1,Pretorius ,GD,Possession,2,23,20,29, 129
+2018-10-31 05:46:04 +0000,1,Browne,WA,Possession,2,23,20,24, 175
+2018-10-31 05:46:06 +0000,1,Scherian ,C,Possession,2,23,20,66, 171
+2018-10-31 05:46:09 +0000,1,Scherian ,C,Assist - Circle Entry,2,23,20,66, 171
+2018-10-31 05:46:09 +0000,1,Wood,GA,Possession,2,23,20,57, 197
+2018-10-31 05:46:11 +0000,0,Clemesha,GK,Penaly - Obstruction,2,23,20,57, 197
+2018-10-31 05:46:11 +0000,1,Wood,GA,Goal - Score,2,23,20,57, 197
+2018-10-31 05:46:27 +0000,0,Cassidy,C,Centre Pass,2,23,21,50, 100
+2018-10-31 05:46:27 +0000,1,McAuliffe,WD,Penaly - Contact on CP,2,23,21,50, 63
+2018-10-31 05:46:27 +0000,0,Nevins,WA,Possession,2,23,21,50, 63
+2018-10-31 05:46:34 +0000,0,Tippett,GA,Assist - 2nd Phase,2,23,21,12, 21
+2018-10-31 05:46:39 +0000,0,Tippett,GA,Assist - Circle Entry,2,23,21,12, 21
+2018-10-31 05:46:39 +0000,0,Aiken,GS,Possession,2,23,21,47, 20
+2018-10-31 05:46:40 +0000,0,Tippett,GA,Goal - Score,2,23,21,49, 7
+2018-10-31 05:46:51 +0000,1,Scherian ,C,Centre Pass,2,24,21,50, 100
+2018-10-31 05:46:51 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,24,21,74, 117
+2018-10-31 05:46:53 +0000,1,Wood,GA,Assist - 2nd Phase,2,24,21,89, 129
+2018-10-31 05:46:54 +0000,1,McAuliffe,WD,Possession,2,24,21,81, 126
+2018-10-31 05:47:48 +0000,0,Nevins,WA,Penaly - Obstruction,2,24,21,81, 126
+2018-10-31 05:47:49 +0000,1,McAuliffe,WD,Possession,2,24,21,81, 126
+2018-10-31 05:47:56 +0000,1,Wood,GA,Possession,2,24,21,70, 168
+2018-10-31 05:48:00 +0000,1,Scherian ,C,Possession,2,24,21,17, 188
+2018-10-31 05:48:03 +0000,1,Scherian ,C,Assist - Circle Entry,2,24,21,17, 188
+2018-10-31 05:48:03 +0000,0,Hinchliffe,GD,Gain - Inter,2,24,21,47, 184
+2018-10-31 05:48:13 +0000,0,Clemesha,GK,Possession,2,24,21,80, 181
+2018-10-31 05:48:18 +0000,0,Simpson,WD,Possession,2,24,21,90, 144
+2018-10-31 05:48:21 +0000,0,Cassidy,C,Possession,2,24,21,90, 107
+2018-10-31 05:48:24 +0000,0,Hinchliffe,GD,Possession,2,24,21,73, 128
+2018-10-31 05:48:30 +0000,0,Tippett,GA,Possession,2,24,21,50, 101
+2018-10-31 05:49:08 +0000,0,Simpson,WD,Possession,2,24,21,55, 121
+2018-10-31 05:49:10 +0000,0,Nevins,WA,Possession,2,24,21,22, 100
+2018-10-31 05:49:12 +0000,0,Simpson,WD,Possession,2,24,21,49, 82
+2018-10-31 05:49:14 +0000,0,Hinchliffe,GD,Possession,2,24,21,19, 85
+2018-10-31 05:49:16 +0000,0,Simpson,WD,Possession,2,24,21,37, 101
+2018-10-31 05:49:18 +0000,0,Simpson,WD,Possession,2,24,21,74, 93
+2018-10-31 05:49:20 +0000,0,Tippett,GA,Possession,2,24,21,92, 53
+2018-10-31 05:49:23 +0000,0,Simpson,WD,Possession,2,24,21,87, 73
+2018-10-31 05:49:25 +0000,0,Tippett,GA,Possession,2,24,21,50, 51
+2018-10-31 05:49:27 +0000,0,Cassidy,C,Possession,2,24,21,76, 52
+2018-10-31 05:49:30 +0000,0,Cassidy,C,Assist - Circle Entry,2,24,21,76, 52
+2018-10-31 05:49:30 +0000,0,Aiken,GS,Possession,2,24,21,62, 22
+2018-10-31 05:49:35 +0000,0,Tippett,GA,Possession,2,24,21,73, 5
+2018-10-31 05:49:37 +0000,0,Aiken,GS,Possession,2,24,21,53, 19
+2018-10-31 05:49:41 +0000,0,Nevins,WA,Possession,2,24,21,15, 18
+2018-10-31 05:49:46 +0000,1,Pretorius ,GD,Penaly - Contact,2,24,21,53, 18
+2018-10-31 05:49:46 +0000,0,Tippett,GA,Goal - Score,2,24,21,53, 18
+2018-10-31 05:50:03 +0000,0,Cassidy,C,Centre Pass,2,25,21,50, 100
+2018-10-31 05:50:03 +0000,0,Hinchliffe,GD,Assist - Centre Pass Rec,2,25,21,24, 95
+2018-10-31 05:50:08 +0000,0,Nevins,WA,Assist - 2nd Phase,2,25,21,14, 62
+2018-10-31 05:50:12 +0000,0,Simpson,WD,Possession,2,25,21,35, 74
+2018-10-31 05:50:22 +0000,0,Cassidy,C,Possession,2,25,21,18, 46
+2018-10-31 05:50:26 +0000,0,Tippett,GA,Possession,2,25,21,40, 41
+2018-10-31 05:50:28 +0000,0,Cassidy,C,Possession,2,25,21,15, 15
+2018-10-31 05:50:36 +0000,0,Cassidy,C,Assist - Circle Entry,2,25,21,15, 15
+2018-10-31 05:50:37 +0000,0,Tippett,GA,Goal - Score,2,25,21,51, 4
+2018-10-31 05:50:45 +0000,1,,UNKNOWN,Timeout,2,26,21,-10, -22
+2018-10-31 06:06:51 +0000,1,Scherian ,C,Centre Pass,2,26,21,50, 100
+2018-10-31 06:06:51 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,26,21,81, 121
+2018-10-31 06:06:53 +0000,1,Wood,GA,Assist - 2nd Phase,2,26,21,58, 132
+2018-10-31 06:06:56 +0000,1,Scherian ,C,Loss - Bad Pass,2,26,21,19, 130
+2018-10-31 06:08:18 +0000,0,Simpson,WD,Possession,2,26,21,66, 158
+2018-10-31 06:08:24 +0000,0,Clemesha,GK,Possession,2,26,21,98, 161
+2018-10-31 06:08:27 +0000,0,Simpson,WD,Possession,2,26,21,92, 130
+2018-10-31 06:08:32 +0000,0,Hinchliffe,GD,Possession,2,26,21,66, 130
+2018-10-31 06:08:36 +0000,0,Simpson,WD,Possession,2,26,21,77, 130
+2018-10-31 06:08:38 +0000,0,Cassidy,C,Possession,2,26,21,94, 108
+2018-10-31 06:08:44 +0000,1,Wood,GA,Gain - Inter,2,26,21,76, 75
+2018-10-31 06:08:52 +0000,1,Pretorius ,GD,Possession,2,26,21,75, 70
+2018-10-31 06:09:02 +0000,1,Scherian ,C,Possession,2,26,21,81, 90
+2018-10-31 06:09:05 +0000,1,Pretorius ,GD,Possession,2,26,21,49, 88
+2018-10-31 06:09:08 +0000,1,Browne,WA,Possession,2,26,21,29, 116
+2018-10-31 06:09:11 +0000,1,McAuliffe,WD,Possession,2,26,21,14, 131
+2018-10-31 06:09:13 +0000,1,Wood,GA,Possession,2,26,21,22, 159
+2018-10-31 06:09:16 +0000,1,Scherian ,C,Possession,2,26,21,82, 185
+2018-10-31 06:09:29 +0000,1,Scherian ,C,Assist - Circle Entry,2,26,21,82, 185
+2018-10-31 06:09:29 +0000,1,Wood,GA,Goal - Score,2,26,21,57, 198
+2018-10-31 06:09:38 +0000,0,Cassidy,C,Centre Pass,2,26,22,50, 100
+2018-10-31 06:09:38 +0000,0,Nevins,WA,Assist - Centre Pass Rec,2,26,22,20, 71
+2018-10-31 06:09:48 +0000,0,Tippett,GA,Assist - 2nd Phase,2,26,22,27, 42
+2018-10-31 06:09:54 +0000,0,Tippett,GA,Assist - Circle Entry,2,26,22,27, 42
+2018-10-31 06:09:54 +0000,0,Aiken,GS,Possession,2,26,22,47, 12
+2018-10-31 06:09:57 +0000,1,Pretorius ,GD,Penaly - Obstruction,2,26,22,47, 12
+2018-10-31 06:09:58 +0000,0,Aiken,GS,Goal - Score,2,26,22,47, 12
+2018-10-31 06:10:30 +0000,1,Scherian ,C,Centre Pass,2,27,22,50, 100
+2018-10-31 06:10:30 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,27,22,31, 116
+2018-10-31 06:10:34 +0000,1,McAuliffe,WD,Assist - 2nd Phase,2,27,22,77, 106
+2018-10-31 06:10:37 +0000,1,Browne,WA,Loss - Drop,2,27,22,56, 122
+2018-10-31 06:10:43 +0000,0,Simpson,WD,Possession,2,27,22,52, 124
+2018-10-31 06:10:47 +0000,0,Cassidy,C,Possession,2,27,22,67, 131
+2018-10-31 06:10:49 +0000,0,Hinchliffe,GD,Possession,2,27,22,22, 107
+2018-10-31 06:10:52 +0000,0,Nevins,WA,Possession,2,27,22,11, 78
+2018-10-31 06:11:16 +0000,0,Tippett,GA,Possession,2,27,22,11, 21
+2018-10-31 06:11:20 +0000,0,Hinchliffe,GD,Possession,2,27,22,81, 72
+2018-10-31 06:11:22 +0000,0,Aiken,GS,Possession,2,27,22,79, 32
+2018-10-31 06:11:25 +0000,0,Aiken,GS,Assist - Circle Entry,2,27,22,79, 32
+2018-10-31 06:11:25 +0000,0,Tippett,GA,Goal - Score,2,27,22,49, 6
+2018-10-31 06:13:21 +0000,0,Cassidy,C,Centre Pass,2,28,22,50, 100
+2018-10-31 06:13:21 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,2,28,22,42, 80
+2018-10-31 06:13:25 +0000,0,Nevins,WA,Assist - 2nd Phase,2,28,22,14, 65
+2018-10-31 06:13:27 +0000,0,Simpson,WD,Possession,2,28,22,25, 71
+2018-10-31 06:13:34 +0000,0,Nevins,WA,Possession,2,28,22,51, 56
+2018-10-31 06:13:37 +0000,0,Nevins,WA,Assist - Circle Entry,2,28,22,51, 56
+2018-10-31 06:13:37 +0000,0,Tippett,GA,Goal - Miss,2,28,22,51, 12
+2018-10-31 06:13:47 +0000,1,Mentor,GK,Gain - Def Reb,2,28,22,50, 2
+2018-10-31 06:13:49 +0000,0,Aiken,GS,Penaly - Contact,2,28,22,50, 2
+2018-10-31 06:13:49 +0000,1,Mentor,GK,Possession,2,28,22,50, 2
+2018-10-31 06:13:57 +0000,1,Pretorius ,GD,Possession,2,28,22,64, 35
+2018-10-31 06:13:59 +0000,1,Scherian ,C,Possession,2,28,22,87, 63
+2018-10-31 06:14:01 +0000,1,Pretorius ,GD,Possession,2,28,22,57, 59
+2018-10-31 06:14:04 +0000,1,Browne,WA,Possession,2,28,22,16, 90
+2018-10-31 06:14:06 +0000,1,Wood,GA,Possession,2,28,22,16, 129
+2018-10-31 06:14:10 +0000,1,Wood,GA,Assist - Circle Entry,2,28,22,16, 129
+2018-10-31 06:14:10 +0000,1,Bassett,GS,Goal - Score,2,28,22,53, 195
+2018-10-31 06:14:17 +0000,1,Scherian ,C,Centre Pass,2,28,23,50, 100
+2018-10-31 06:14:17 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,28,23,72, 118
+2018-10-31 06:14:19 +0000,1,Scherian ,C,Assist - 2nd Phase,2,28,23,64, 132
+2018-10-31 06:14:21 +0000,1,Wood,GA,Possession,2,28,23,87, 172
+2018-10-31 06:14:25 +0000,1,Wood,GA,Assist - Circle Entry,2,28,23,87, 172
+2018-10-31 06:14:25 +0000,1,Bassett,GS,Goal - Score,2,28,23,59, 190
+2018-10-31 06:14:34 +0000,0,Cassidy,C,Centre Pass,2,28,24,50, 100
+2018-10-31 06:14:34 +0000,0,Nevins,WA,Assist - Centre Pass Rec,2,28,24,33, 81
+2018-10-31 06:14:36 +0000,0,Cassidy,C,Assist - 2nd Phase,2,28,24,38, 72
+2018-10-31 06:14:38 +0000,0,Aiken,GS,Possession,2,28,24,50, 37
+2018-10-31 06:14:41 +0000,0,Nevins,WA,Possession,2,28,24,18, 18
+2018-10-31 06:14:46 +0000,0,Simpson,WD,Possession,2,28,24,44, 69
+2018-10-31 06:14:48 +0000,0,Nevins,WA,Possession,2,28,24,48, 54
+2018-10-31 06:14:51 +0000,0,Cassidy,C,Possession,2,28,24,74, 27
+2018-10-31 06:14:54 +0000,0,Cassidy,C,Assist - Circle Entry,2,28,24,74, 27
+2018-10-31 06:14:54 +0000,0,Tippett,GA,Goal - Miss,2,28,24,32, 5
+2018-10-31 06:15:01 +0000,0,Aiken,GS,Assist - Attack Rebound,2,28,24,50, 2
+2018-10-31 06:15:04 +0000,0,Aiken,GS,Goal - Score,2,28,24,32, 5
+2018-10-31 06:15:24 +0000,1,Scherian ,C,Centre Pass,2,29,24,50, 100
+2018-10-31 06:15:24 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,29,24,85, 118
+2018-10-31 06:15:32 +0000,0,Hinchliffe,GD,Gain - Tip (Deflect),2,29,24,74, 118
+2018-10-31 06:16:12 +0000,0,Aiken,GS,Possession,2,29,24,62, 66
+2018-10-31 06:16:16 +0000,0,Hinchliffe,GD,Possession,2,29,24,67, 73
+2018-10-31 06:16:21 +0000,0,Aiken,GS,Possession,2,29,24,61, 40
+2018-10-31 06:16:26 +0000,0,Cassidy,C,Possession,2,29,24,27, 30
+2018-10-31 06:16:28 +0000,0,Cassidy,C,Assist - Circle Entry,2,29,24,27, 30
+2018-10-31 06:16:28 +0000,0,Aiken,GS,Goal - Score,2,29,24,53, 5
+2018-10-31 06:16:38 +0000,0,Cassidy,C,Centre Pass,2,30,24,50, 100
+2018-10-31 06:16:38 +0000,0,Tippett,GA,Assist - Centre Pass Rec,2,30,24,59, 71
+2018-10-31 06:16:40 +0000,1,Wood,GA,Penaly - Contact,2,30,24,75, 74
+2018-10-31 06:16:40 +0000,0,Hinchliffe,GD,Assist - 2nd Phase,2,30,24,75, 74
+2018-10-31 06:16:57 +0000,0,Hinchliffe,GD,Assist - Circle Entry,2,30,24,75, 74
+2018-10-31 06:16:57 +0000,0,Aiken,GS,Goal - Miss,2,30,24,56, 23
+2018-10-31 06:17:02 +0000,0,Aiken,GS,Assist - Attack Rebound,2,30,24,50, 2
+2018-10-31 06:17:08 +0000,1,Mentor,GK,Penaly - Obstruction,2,30,24,50, 2
+2018-10-31 06:17:08 +0000,0,Aiken,GS,Goal - Score,2,30,24,50, 2
+2018-10-31 06:21:23 +0000,0,Browne,UNKNOWN,Interchange - Scherian ,3,31,24,
+2018-10-31 06:21:23 +0000,0,Scherian ,UNKNOWN,Interchange - McAuliffe,3,31,24,
+2018-10-31 06:21:23 +0000,0,McAuliffe,UNKNOWN,Interchange - Mikaere,3,31,24,
+2018-10-31 06:21:31 +0000,1,McAuliffe,C,Centre Pass,3,31,24,50, 100
+2018-10-31 06:21:31 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,3,31,24,10, 114
+2018-10-31 06:21:38 +0000,1,Wood,GA,Loss - Bad Pass,3,31,24,11, 140
+2018-10-31 06:21:50 +0000,0,Simpson,WD,Possession,3,31,24,14, 159
+2018-10-31 06:21:53 +0000,0,Hinchliffe,GD,Possession,3,31,24,25, 149
+2018-10-31 06:22:00 +0000,0,Simpson,WD,Possession,3,31,24,5, 143
+2018-10-31 06:22:03 +0000,0,Cassidy,C,Possession,3,31,24,6, 107
+2018-10-31 06:22:08 +0000,0,Simpson,WD,Possession,3,31,24,14, 123
+2018-10-31 06:22:16 +0000,0,Cassidy,C,Possession,3,31,24,31, 92
+2018-10-31 06:22:19 +0000,0,Simpson,WD,Possession,3,31,24,5, 69
+2018-10-31 06:22:22 +0000,0,Tippett,GA,Possession,3,31,24,8, 43
+2018-10-31 06:22:25 +0000,0,Hinchliffe,GD,Possession,3,31,24,34, 67
+2018-10-31 06:22:33 +0000,0,Cassidy,C,Possession,3,31,24,46, 32
+2018-10-31 06:22:36 +0000,0,Cassidy,C,Assist - Circle Entry,3,31,24,46, 32
+2018-10-31 06:22:36 +0000,0,Aiken,GS,Goal - Score,3,31,24,55, 1
+2018-10-31 06:22:52 +0000,0,Cassidy,C,Centre Pass,3,32,24,50, 100
+2018-10-31 06:22:52 +0000,0,Hinchliffe,GD,Assist - Centre Pass Rec,3,32,24,87, 93
+2018-10-31 06:22:54 +0000,1,Wood,GA,Penaly - Contact,3,32,24,87, 93
+2018-10-31 06:22:54 +0000,0,Hinchliffe,GD,Possession,3,32,24,87, 93
+2018-10-31 06:22:57 +0000,0,Cassidy,C,Possession,3,32,24,70, 69
+2018-10-31 06:22:59 +0000,0,Nevins,WA,Possession,3,32,24,26, 38
+2018-10-31 06:23:02 +0000,0,Nevins,WA,Assist - Circle Entry,3,32,24,26, 38
+2018-10-31 06:23:02 +0000,0,Aiken,GS,Loss - Bad Pass,3,32,24,68, 3
+2018-10-31 06:23:05 +0000,1,Mentor,GK,Throw In,3,32,24,-4, 23
+2018-10-31 06:23:12 +0000,1,Pretorius ,GD,Loss - Bad Pass,3,32,24,47, 22
+2018-10-31 06:23:18 +0000,0,Simpson,WD,Throw In,3,32,24,-4, 77
+2018-10-31 06:23:28 +0000,0,Cassidy,C,Possession,3,32,24,4, 54
+2018-10-31 06:23:30 +0000,0,Nevins,WA,Possession,3,32,24,10, 21
+2018-10-31 06:23:34 +0000,0,Nevins,WA,Assist - Circle Entry,3,32,24,10, 21
+2018-10-31 06:23:34 +0000,0,Aiken,GS,Goal - Score,3,32,24,49, 8
+2018-10-31 06:23:59 +0000,1,McAuliffe,C,CP Infringe - ,3,33,24,50, 100
+2018-10-31 06:24:31 +0000,0,Hinchliffe,GD,Possession,3,33,24,13, 133
+2018-10-31 06:24:39 +0000,0,Cassidy,C,Possession,3,33,24,6, 93
+2018-10-31 06:24:41 +0000,0,Tippett,GA,Possession,3,33,24,28, 76
+2018-10-31 06:24:44 +0000,0,Simpson,WD,Possession,3,33,24,76, 74
+2018-10-31 06:24:48 +0000,0,Hinchliffe,GD,Possession,3,33,24,64, 87
+2018-10-31 06:24:50 +0000,0,Simpson,WD,Possession,3,33,24,83, 92
+2018-10-31 06:24:53 +0000,0,Nevins,WA,Possession,3,33,24,74, 59
+2018-10-31 06:24:58 +0000,0,Cassidy,C,Possession,3,33,24,74, 32
+2018-10-31 06:25:02 +0000,0,Cassidy,C,Assist - Circle Entry,3,33,24,74, 32
+2018-10-31 06:25:02 +0000,1,Mentor,GK,Gain - Inter,3,33,24,56, 15
+2018-10-31 06:25:09 +0000,1,Mikaere,WD,Possession,3,33,24,41, 43
+2018-10-31 06:25:17 +0000,1,Wood,GA,Possession,3,33,24,9, 94
+2018-10-31 06:25:26 +0000,1,Mikaere,WD,Possession,3,33,24,24, 90
+2018-10-31 06:25:30 +0000,1,Scherian ,WA,Possession,3,33,24,17, 115
+2018-10-31 06:25:49 +0000,1,Pretorius ,GD,Possession,3,33,24,50, 119
+2018-10-31 06:26:00 +0000,1,Wood,GA,Possession,3,33,24,64, 164
+2018-10-31 06:26:03 +0000,0,Clemesha,GK,Penaly - Contact,3,33,24,57, 182
+2018-10-31 06:26:04 +0000,1,Wood,GA,Possession,3,33,24,57, 182
+2018-10-31 06:26:12 +0000,0,Hinchliffe,GD,Penaly - Contact,3,33,24,52, 190
+2018-10-31 06:26:13 +0000,1,Bassett,GS,Goal - Score,3,33,24,52, 190
+2018-10-31 06:26:27 +0000,0,Cassidy,C,Centre Pass,3,33,25,50, 100
+2018-10-31 06:26:27 +0000,0,Nevins,WA,Assist - Centre Pass Rec,3,33,25,63, 81
+2018-10-31 06:26:32 +0000,0,Cassidy,C,Assist - 2nd Phase,3,33,25,32, 66
+2018-10-31 06:26:44 +0000,0,Nevins,WA,Possession,3,33,25,19, 44
+2018-10-31 06:26:49 +0000,0,Cassidy,C,Possession,3,33,25,54, 60
+2018-10-31 06:26:51 +0000,0,Nevins,WA,Possession,3,33,25,15, 11
+2018-10-31 06:26:53 +0000,1,McAuliffe,C,Penaly - Obstruction,3,33,25,15, 11
+2018-10-31 06:26:54 +0000,0,Nevins,WA,Possession,3,33,25,15, 11
+2018-10-31 06:27:03 +0000,0,Nevins,WA,Assist - Circle Entry,3,33,25,15, 11
+2018-10-31 06:27:03 +0000,0,Aiken,GS,Possession,3,33,25,48, 21
+2018-10-31 06:27:10 +0000,0,Nevins,WA,Possession,3,33,25,16, 10
+2018-10-31 06:27:13 +0000,1,McAuliffe,C,Penaly - Contact,3,33,25,16, 10
+2018-10-31 06:27:13 +0000,0,Nevins,WA,Possession,3,33,25,16, 10
+2018-10-31 06:27:18 +0000,0,Nevins,WA,Assist - Circle Entry,3,33,25,16, 10
+2018-10-31 06:27:18 +0000,0,Aiken,GS,Possession,3,33,25,49, 5
+2018-10-31 06:27:20 +0000,1,Mentor,GK,Penaly - Contact,3,33,25,49, 5
+2018-10-31 06:27:20 +0000,0,Aiken,GS,Goal - Score,3,33,25,49, 5
+2018-10-31 06:27:34 +0000,1,McAuliffe,C,Centre Pass,3,34,25,50, 100
+2018-10-31 06:27:34 +0000,1,Scherian ,WA,Assist - Centre Pass Rec,3,34,25,28, 113
+2018-10-31 06:27:38 +0000,1,Mentor,GK,Assist - 2nd Phase,3,34,25,68, 59
+2018-10-31 06:27:42 +0000,0,Simpson,WD,Deflect,3,34,25,89, 107
+2018-10-31 06:27:42 +0000,1,Mikaere,WD,Throw In,3,34,25,107, 110
+2018-10-31 06:27:54 +0000,1,Scherian ,WA,Possession,3,34,25,55, 116
+2018-10-31 06:27:59 +0000,1,Wood,GA,Possession,3,34,25,83, 136
+2018-10-31 06:28:01 +0000,1,Mikaere,WD,Possession,3,34,25,82, 123
+2018-10-31 06:28:05 +0000,1,Scherian ,WA,Possession,3,34,25,93, 138
+2018-10-31 06:28:08 +0000,0,Cassidy,C,Penaly - Contact,3,34,25,93, 138
+2018-10-31 06:28:08 +0000,1,Scherian ,WA,Possession,3,34,25,93, 138
+2018-10-31 06:28:13 +0000,1,Scherian ,WA,Assist - Circle Entry,3,34,25,93, 138
+2018-10-31 06:28:13 +0000,1,Bassett,GS,Possession,3,34,25,55, 181
+2018-10-31 06:28:17 +0000,1,McAuliffe,C,Possession,3,34,25,30, 156
+2018-10-31 06:28:39 +0000,1,Scherian ,WA,Possession,3,34,25,49, 164
+2018-10-31 06:28:41 +0000,1,Scherian ,WA,Assist - Circle Entry,3,34,25,49, 164
+2018-10-31 06:28:41 +0000,1,Bassett,GS,Possession,3,34,25,44, 191
+2018-10-31 06:28:48 +0000,0,Clemesha,GK,Penaly - Contact,3,34,25,44, 191
+2018-10-31 06:28:48 +0000,1,Bassett,GS,Goal - Score,3,34,25,44, 191
+2018-10-31 06:28:53 +0000,0,Cassidy,C,Centre Pass,3,34,26,50, 100
+2018-10-31 06:28:53 +0000,0,Tippett,GA,Assist - Centre Pass Rec,3,34,26,72, 72
+2018-10-31 06:28:56 +0000,0,Cassidy,C,Assist - 2nd Phase,3,34,26,59, 59
+2018-10-31 06:28:59 +0000,0,Nevins,WA,Possession,3,34,26,31, 39
+2018-10-31 06:29:05 +0000,1,Mikaere,WD,Penaly - Contact,3,34,26,31, 39
+2018-10-31 06:29:05 +0000,0,Nevins,WA,Possession,3,34,26,31, 39
+2018-10-31 06:29:58 +0000,0,Nevins,WA,Assist - Circle Entry,3,34,26,31, 39
+2018-10-31 06:29:58 +0000,0,Aiken,GS,Possession,3,34,26,38, 17
+2018-10-31 06:30:00 +0000,0,Cassidy,C,Possession,3,34,26,80, 17
+2018-10-31 06:30:06 +0000,0,Cassidy,C,Assist - Circle Entry,3,34,26,80, 17
+2018-10-31 06:30:06 +0000,0,Aiken,GS,Deflect,3,34,26,65, 4
+2018-10-31 06:30:09 +0000,1,Mentor,GK,Throw In,3,34,26,64, -8
+2018-10-31 06:30:56 +0000,1,Pretorius ,GD,Possession,3,34,26,32, 11
+2018-10-31 06:31:00 +0000,0,Tippett,GA,Penaly - Contact,3,34,26,32, 11
+2018-10-31 06:31:00 +0000,1,Mentor,GK,Possession,3,34,26,32, 11
+2018-10-31 06:31:05 +0000,1,Pretorius ,GD,Possession,3,34,26,81, 49
+2018-10-31 06:31:11 +0000,0,Simpson,WD,Deflect,3,34,26,88, 81
+2018-10-31 06:31:11 +0000,1,Mentor,GK,Throw In,3,34,26,107, 65
+2018-10-31 06:32:01 +0000,1,Mikaere,WD,Possession,3,34,26,77, 53
+2018-10-31 06:32:04 +0000,1,Mentor,GK,Possession,3,34,26,42, 39
+2018-10-31 06:32:07 +0000,1,McAuliffe,C,Possession,3,34,26,84, 57
+2018-10-31 06:32:11 +0000,0,Tippett,GA,Deflect,3,34,26,87, 100
+2018-10-31 06:32:11 +0000,1,Pretorius ,GD,Throw In,3,34,26,106, 105
+2018-10-31 06:32:17 +0000,1,Mikaere,WD,Possession,3,34,26,63, 84
+2018-10-31 06:32:19 +0000,1,Mentor,GK,Possession,3,34,26,35, 60
+2018-10-31 06:32:23 +0000,1,Scherian ,WA,Possession,3,34,26,26, 80
+2018-10-31 06:32:26 +0000,0,Simpson,WD,Penaly - Contact,3,34,26,26, 80
+2018-10-31 06:32:26 +0000,1,Scherian ,WA,Possession,3,34,26,26, 80
+2018-10-31 06:32:32 +0000,1,Pretorius ,GD,Possession,3,34,26,41, 110
+2018-10-31 06:32:43 +0000,1,Scherian ,WA,Possession,3,34,26,54, 148
+2018-10-31 06:32:49 +0000,1,Scherian ,WA,Assist - Circle Entry,3,34,26,54, 148
+2018-10-31 06:32:49 +0000,1,Bassett,GS,Goal - Score,3,34,26,51, 187
+2018-10-31 06:33:01 +0000,1,McAuliffe,C,Centre Pass,3,34,27,50, 100
+2018-10-31 06:33:01 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,34,27,77, 118
+2018-10-31 06:33:11 +0000,0,Cassidy,C,Penaly - Contact,3,34,27,55, 144
+2018-10-31 06:33:12 +0000,1,Scherian ,WA,Assist - 2nd Phase,3,34,27,55, 144
+2018-10-31 06:33:58 +0000,1,Wood,GA,Possession,3,34,27,66, 164
+2018-10-31 06:34:02 +0000,1,Wood,GA,Assist - Circle Entry,3,34,27,66, 164
+2018-10-31 06:34:02 +0000,1,Bassett,GS,Possession,3,34,27,59, 182
+2018-10-31 06:34:03 +0000,1,McAuliffe,C,Possession,3,34,27,78, 177
+2018-10-31 06:34:08 +0000,1,McAuliffe,C,Assist - Circle Entry,3,34,27,78, 177
+2018-10-31 06:34:08 +0000,1,Wood,GA,Possession,3,34,27,69, 190
+2018-10-31 06:34:12 +0000,0,Hinchliffe,GD,Penaly - Contact,3,34,27,56, 187
+2018-10-31 06:34:12 +0000,1,Wood,GA,Goal - Score,3,34,27,56, 187
+2018-10-31 06:34:29 +0000,0,Cassidy,C,Centre Pass,3,34,28,50, 100
+2018-10-31 06:34:29 +0000,1,Mikaere,WD,Penaly - Contact on CP,3,34,28,39, 58
+2018-10-31 06:34:29 +0000,0,Nevins,WA,Possession,3,34,28,39, 58
+2018-10-31 06:34:43 +0000,0,Nevins,WA,Assist - Circle Entry,3,34,28,39, 58
+2018-10-31 06:34:43 +0000,0,Tippett,GA,Assist - 2nd Phase,3,34,28,49, 23
+2018-10-31 06:34:45 +0000,0,Cassidy,C,Possession,3,34,28,86, 9
+2018-10-31 06:34:49 +0000,0,Cassidy,C,Assist - Circle Entry,3,34,28,86, 9
+2018-10-31 06:34:49 +0000,0,Aiken,GS,Possession,3,34,28,60, 6
+2018-10-31 06:34:51 +0000,1,Mentor,GK,Penaly - Contact,3,34,28,60, 6
+2018-10-31 06:34:51 +0000,0,Tippett,GA,Possession,3,34,28,60, 6
+2018-10-31 06:35:05 +0000,0,Aiken,GS,Goal - Score,3,34,28,48, 9
+2018-10-31 06:35:16 +0000,1,McAuliffe,C,Centre Pass,3,35,28,50, 100
+2018-10-31 06:35:16 +0000,1,Scherian ,WA,Assist - Centre Pass Rec,3,35,28,15, 110
+2018-10-31 06:35:18 +0000,1,Wood,GA,Assist - 2nd Phase,3,35,28,49, 123
+2018-10-31 06:35:20 +0000,1,Scherian ,WA,Possession,3,35,28,31, 135
+2018-10-31 06:35:28 +0000,0,Simpson,WD,Penaly - Contact,3,35,28,30, 151
+2018-10-31 06:35:28 +0000,1,Scherian ,WA,Possession,3,35,28,30, 151
+2018-10-31 06:35:44 +0000,1,Wood,GA,Possession,3,35,28,42, 165
+2018-10-31 06:35:47 +0000,1,Scherian ,WA,Possession,3,35,28,33, 166
+2018-10-31 06:35:53 +0000,0,Hinchliffe,GD,Penaly - Contact,3,35,28,31, 186
+2018-10-31 06:35:53 +0000,1,Wood,GA,Possession,3,35,28,31, 186
+2018-10-31 06:36:02 +0000,0,Clemesha,GK,Penaly - Contact,3,35,28,31, 186
+2018-10-31 06:36:02 +0000,1,Wood,GA,Goal - Score,3,35,28,31, 186
+2018-10-31 06:36:17 +0000,0,Cassidy,C,Centre Pass,3,35,29,50, 100
+2018-10-31 06:36:17 +0000,0,Hinchliffe,GD,Assist - Centre Pass Rec,3,35,29,83, 87
+2018-10-31 06:36:20 +0000,1,McAuliffe,C,Gain - Inter,3,35,29,87, 37
+2018-10-31 06:36:32 +0000,1,Mentor,GK,Possession,3,35,29,78, 60
+2018-10-31 06:36:37 +0000,1,McAuliffe,C,Possession,3,35,29,70, 80
+2018-10-31 06:36:41 +0000,1,Scherian ,WA,Possession,3,35,29,68, 116
+2018-10-31 06:36:45 +0000,1,Wood,GA,Possession,3,35,29,87, 157
+2018-10-31 06:36:50 +0000,1,Scherian ,WA,Possession,3,35,29,71, 165
+2018-10-31 06:36:57 +0000,1,Scherian ,WA,Assist - Circle Entry,3,35,29,71, 165
+2018-10-31 06:36:57 +0000,1,Bassett,GS,Goal - Miss,3,35,29,46, 192
+2018-10-31 06:37:05 +0000,0,Hinchliffe,GD,Gain - Def Reb,3,35,29,50, 197
+2018-10-31 06:37:11 +0000,1,Bassett,GS,Deflect,3,35,29,38, 183
+2018-10-31 06:37:11 +0000,0,Simpson,WD,Possession,3,35,29,7, 177
+2018-10-31 06:37:30 +0000,0,Clemesha,GK,Possession,3,35,29,63, 171
+2018-10-31 06:37:33 +0000,0,Cassidy,C,Possession,3,35,29,88, 154
+2018-10-31 06:37:37 +0000,0,Clemesha,GK,Possession,3,35,29,77, 163
+2018-10-31 06:37:39 +0000,0,Simpson,WD,Possession,3,35,29,13, 152
+2018-10-31 06:37:41 +0000,0,Hinchliffe,GD,Possession,3,35,29,10, 107
+2018-10-31 06:39:02 +0000,0,Cassidy,C,Possession,3,35,29,8, 75
+2018-10-31 06:39:07 +0000,0,Nevins,WA,Possession,3,35,29,19, 20
+2018-10-31 06:39:11 +0000,1,Mikaere,WD,Penaly - Obstruction,3,35,29,19, 20
+2018-10-31 06:39:11 +0000,0,Nevins,WA,Possession,3,35,29,19, 20
+2018-10-31 06:39:15 +0000,0,Nevins,WA,Assist - Circle Entry,3,35,29,19, 20
+2018-10-31 06:39:15 +0000,0,Aiken,GS,Goal - Score,3,35,29,52, 5
+2018-10-31 06:39:25 +0000,0,,UNKNOWN,Timeout,3,36,29,110, 222
+2018-10-31 06:41:25 +0000,0,Scherian ,UNKNOWN,Interchange - Browne,3,36,29,
+2018-10-31 06:41:25 +0000,0,McAuliffe,UNKNOWN,Interchange - Scherian ,3,36,29,
+2018-10-31 06:41:29 +0000,1,Scherian ,C,Centre Pass,3,36,29,50, 100
+2018-10-31 06:41:29 +0000,1,Mikaere,WD,Assist - Centre Pass Rec,3,36,29,80, 84
+2018-10-31 06:41:31 +0000,1,Scherian ,C,Assist - 2nd Phase,3,36,29,61, 78
+2018-10-31 06:41:35 +0000,1,Pretorius ,GD,Possession,3,36,29,62, 97
+2018-10-31 06:41:40 +0000,1,Wood,GA,Possession,3,36,29,85, 144
+2018-10-31 06:41:43 +0000,1,Mikaere,WD,Possession,3,36,29,85, 127
+2018-10-31 06:41:45 +0000,1,Browne,WA,Possession,3,36,29,89, 146
+2018-10-31 06:41:47 +0000,1,Scherian ,C,Possession,3,36,29,67, 144
+2018-10-31 06:41:51 +0000,1,Wood,GA,Possession,3,36,29,36, 159
+2018-10-31 06:41:58 +0000,1,Wood,GA,Assist - Circle Entry,3,36,29,36, 159
+2018-10-31 06:41:58 +0000,1,Bassett,GS,Possession,3,36,29,33, 192
+2018-10-31 06:42:03 +0000,0,Clemesha,GK,Penaly - Contact,3,36,29,33, 192
+2018-10-31 06:42:03 +0000,1,Wood,GA,Possession,3,36,29,33, 192
+2018-10-31 06:42:16 +0000,0,Hinchliffe,GD,Penaly - Contact,3,36,29,41, 191
+2018-10-31 06:42:16 +0000,1,Wood,GA,Goal - Score,3,36,29,41, 191
+2018-10-31 06:42:41 +0000,0,Cassidy,C,Centre Pass,3,36,30,50, 100
+2018-10-31 06:42:41 +0000,0,Simpson,WD,Assist - Centre Pass Rec,3,36,30,67, 114
+2018-10-31 06:42:45 +0000,0,Tippett,GA,Assist - 2nd Phase,3,36,30,83, 75
+2018-10-31 06:42:50 +0000,0,Simpson,WD,Possession,3,36,30,50, 79
+2018-10-31 06:42:53 +0000,0,Nevins,WA,Possession,3,36,30,44, 54
+2018-10-31 06:42:55 +0000,0,Nevins,WA,Assist - Circle Entry,3,36,30,44, 54
+2018-10-31 06:42:55 +0000,0,Aiken,GS,Goal - Miss,3,36,30,53, 11
+2018-10-31 06:43:04 +0000,1,Pretorius ,GD,Gain - Def Reb,3,36,30,50, 2
+2018-10-31 06:43:09 +0000,0,Tippett,GA,Penaly - Obstruction,3,36,30,50, 2
+2018-10-31 06:43:09 +0000,1,Mentor,GK,Possession,3,36,30,50, 2
+2018-10-31 06:43:18 +0000,1,Mikaere,WD,Possession,3,36,30,54, 61
+2018-10-31 06:43:20 +0000,1,Scherian ,C,Possession,3,36,30,81, 79
+2018-10-31 06:43:24 +0000,1,Mikaere,WD,Possession,3,36,30,90, 111
+2018-10-31 06:43:27 +0000,1,Wood,GA,Possession,3,36,30,90, 139
+2018-10-31 06:43:29 +0000,1,Pretorius ,GD,Possession,3,36,30,78, 127
+2018-10-31 06:43:32 +0000,1,Scherian ,C,Possession,3,36,30,84, 153
+2018-10-31 06:43:38 +0000,1,Scherian ,C,Assist - Circle Entry,3,36,30,84, 153
+2018-10-31 06:43:38 +0000,1,Bassett,GS,Possession,3,36,30,44, 192
+2018-10-31 06:43:40 +0000,0,Clemesha,GK,Penaly - Contact,3,36,30,44, 192
+2018-10-31 06:43:40 +0000,1,Bassett,GS,Goal - Score,3,36,30,44, 192
+2018-10-31 06:43:48 +0000,1,Scherian ,C,Centre Pass,3,36,31,50, 100
+2018-10-31 06:43:48 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,36,31,62, 109
+2018-10-31 06:43:50 +0000,1,Browne,WA,Assist - 2nd Phase,3,36,31,51, 120
+2018-10-31 06:43:54 +0000,1,Browne,WA,Assist - Circle Entry,3,36,31,51, 120
+2018-10-31 06:43:54 +0000,1,Bassett,GS,Goal - Score,3,36,31,54, 187
+2018-10-31 06:44:03 +0000,0,Cassidy,C,Centre Pass,3,36,32,50, 100
+2018-10-31 06:44:03 +0000,0,Tippett,GA,Assist - Centre Pass Rec,3,36,32,13, 81
+2018-10-31 06:44:05 +0000,0,Simpson,WD,Assist - 2nd Phase,3,36,32,64, 105
+2018-10-31 06:44:10 +0000,1,Wood,GA,Deflect,3,36,32,44, 83
+2018-10-31 06:44:49 +0000,0,Nevins,WA,Possession,3,36,32,12, 73
+2018-10-31 06:44:52 +0000,0,Cassidy,C,Possession,3,36,32,11, 52
+2018-10-31 06:44:57 +0000,0,Simpson,WD,Possession,3,36,32,31, 68
+2018-10-31 06:45:01 +0000,0,Nevins,WA,Possession,3,36,32,46, 41
+2018-10-31 06:45:06 +0000,0,Tippett,GA,Possession,3,36,32,83, 17
+2018-10-31 06:45:09 +0000,1,Mentor,GK,Deflect,3,36,32,58, 6
+2018-10-31 06:45:10 +0000,0,Tippett,GA,Throw In,3,36,32,48, -9
+2018-10-31 06:45:23 +0000,0,Nevins,WA,Possession,3,36,32,81, 15
+2018-10-31 06:45:26 +0000,0,Nevins,WA,Assist - Circle Entry,3,36,32,81, 15
+2018-10-31 06:45:26 +0000,0,Tippett,GA,Goal - Miss,3,36,32,54, 4
+2018-10-31 06:45:40 +0000,1,Pretorius ,GD,Gain - Def Reb,3,36,32,50, 2
+2018-10-31 06:45:43 +0000,1,Scherian ,C,Possession,3,36,32,41, 34
+2018-10-31 06:45:49 +0000,0,Aiken,GS,Penaly - Obstruction,3,36,32,41, 34
+2018-10-31 06:45:49 +0000,1,Mentor,GK,Possession,3,36,32,41, 34
+2018-10-31 06:46:01 +0000,1,Mikaere,WD,Possession,3,36,32,37, 56
+2018-10-31 06:46:05 +0000,1,Pretorius ,GD,Possession,3,36,32,66, 62
+2018-10-31 06:46:08 +0000,1,Browne,WA,Possession,3,36,32,51, 77
+2018-10-31 06:46:10 +0000,1,Browne,WA,Possession,3,36,32,84, 118
+2018-10-31 06:46:14 +0000,1,Browne,WA,Possession,3,36,32,91, 173
+2018-10-31 06:46:16 +0000,1,Wood,GA,Possession,3,36,32,81, 145
+2018-10-31 06:46:18 +0000,1,Scherian ,C,Loss - Held Ball,3,36,32,16, 184
+2018-10-31 06:46:32 +0000,0,Clemesha,GK,Possession,3,36,32,17, 183
+2018-10-31 06:46:39 +0000,0,Simpson,WD,Possession,3,36,32,11, 147
+2018-10-31 06:46:42 +0000,0,Clemesha,GK,Possession,3,36,32,36, 163
+2018-10-31 06:46:44 +0000,0,Simpson,WD,Possession,3,36,32,53, 141
+2018-10-31 06:46:46 +0000,0,Simpson,WD,Possession,3,36,32,83, 151
+2018-10-31 06:46:48 +0000,0,Hinchliffe,GD,Possession,3,36,32,86, 107
+2018-10-31 06:47:07 +0000,0,Simpson,WD,Possession,3,36,32,49, 120
+2018-10-31 06:48:20 +0000,1,Scherian ,C,Gain - Tip (Deflect),3,36,32,38, 100
+2018-10-31 06:48:26 +0000,1,Wood,GA,Possession,3,36,32,57, 104
+2018-10-31 06:48:32 +0000,1,Scherian ,C,Possession,3,36,32,6, 133
+2018-10-31 06:48:33 +0000,1,Browne,WA,Possession,3,36,32,30, 135
+2018-10-31 06:48:36 +0000,1,Wood,GA,Possession,3,36,32,63, 162
+2018-10-31 06:48:42 +0000,1,Browne,WA,Possession,3,36,32,58, 162
+2018-10-31 06:48:46 +0000,1,Browne,WA,Assist - Circle Entry,3,36,32,58, 162
+2018-10-31 06:48:46 +0000,1,Bassett,GS,Goal - Score,3,36,32,46, 192
+2018-10-31 06:48:58 +0000,1,Scherian ,C,Centre Pass,3,36,33,50, 100
+2018-10-31 06:48:58 +0000,1,Wood,GA,Loss - Bad Pass,3,36,33,85, 119
+2018-10-31 06:49:01 +0000,0,Clemesha,GK,Throw In,3,36,33,93, 202
+2018-10-31 06:49:14 +0000,1,Wood,GA,Penaly - Contact,3,36,33,48, 161
+2018-10-31 06:49:14 +0000,0,Clemesha,GK,Possession,3,36,33,48, 161
+2018-10-31 06:49:20 +0000,0,Simpson,WD,Possession,3,36,33,81, 150
+2018-10-31 06:49:25 +0000,0,Clemesha,GK,Possession,3,36,33,62, 161
+2018-10-31 06:49:27 +0000,0,Simpson,WD,Loss - Bad Pass,3,36,33,77, 155
+2018-10-31 06:49:38 +0000,1,Browne,WA,Throw In,3,36,33,107, 134
+2018-10-31 06:49:57 +0000,0,Tippett,GA,Gain - Tip (Deflect),3,36,33,93, 127
+2018-10-31 06:50:05 +0000,0,Simpson,WD,Possession,3,36,33,95, 136
+2018-10-31 06:50:10 +0000,0,Nevins,WA,Possession,3,36,33,81, 126
+2018-10-31 06:50:13 +0000,0,Cassidy,C,Possession,3,36,33,47, 79
+2018-10-31 06:50:18 +0000,0,Aiken,GS,Possession,3,36,33,77, 23
+2018-10-31 06:50:23 +0000,0,Aiken,GS,Assist - Circle Entry,3,36,33,77, 23
+2018-10-31 06:50:23 +0000,0,Tippett,GA,Possession,3,36,33,48, 6
+2018-10-31 06:50:25 +0000,1,Pretorius ,GD,Penaly - Contact,3,36,33,48, 6
+2018-10-31 06:50:25 +0000,0,Tippett,GA,Goal - Score,3,36,33,48, 6
+2018-10-31 06:50:41 +0000,0,Cassidy,C,Centre Pass,3,37,33,50, 100
+2018-10-31 06:50:41 +0000,1,Pretorius ,GD,Gain - Inter,3,37,33,71, 82
+2018-10-31 06:51:26 +0000,0,Nevins,WA,Penaly - Contact,3,37,33,71, 82
+2018-10-31 06:51:26 +0000,1,Pretorius ,GD,Possession,3,37,33,71, 82
+2018-10-31 06:51:33 +0000,1,Scherian ,C,Possession,3,37,33,49, 82
+2018-10-31 06:51:35 +0000,1,Pretorius ,GD,Possession,3,37,33,58, 117
+2018-10-31 06:51:40 +0000,1,Browne,WA,Possession,3,37,33,48, 127
+2018-10-31 06:51:45 +0000,0,Simpson,WD,Penaly - Contact,3,37,33,48, 127
+2018-10-31 06:51:45 +0000,1,Pretorius ,GD,Possession,3,37,33,48, 127
+2018-10-31 06:51:55 +0000,1,Browne,WA,Possession,3,37,33,50, 147
+2018-10-31 06:51:58 +0000,1,Browne,WA,Assist - Circle Entry,3,37,33,50, 147
+2018-10-31 06:51:58 +0000,1,Wood,GA,Goal - Score,3,37,33,37, 190
+2018-10-31 06:52:09 +0000,1,Scherian ,C,Centre Pass,3,37,34,50, 100
+2018-10-31 06:52:09 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,37,34,80, 118
+2018-10-31 06:52:11 +0000,1,Scherian ,C,Assist - 2nd Phase,3,37,34,81, 162
+2018-10-31 06:52:13 +0000,0,Clemesha,GK,Penaly - Contact,3,37,34,81, 162
+2018-10-31 06:52:13 +0000,1,Scherian ,C,Possession,3,37,34,81, 162
+2018-10-31 06:52:25 +0000,0,Cassidy,C,Penaly - Obstruction,3,37,34,81, 162
+2018-10-31 06:52:26 +0000,1,Scherian ,C,Possession,3,37,34,81, 162
+2018-10-31 06:52:32 +0000,1,Scherian ,C,Assist - Circle Entry,3,37,34,81, 162
+2018-10-31 06:52:33 +0000,1,Wood,GA,Possession,3,37,34,61, 184
+2018-10-31 06:52:39 +0000,0,Hinchliffe,GD,Penaly - Obstruction,3,37,34,61, 184
+2018-10-31 06:52:39 +0000,1,Wood,GA,Goal - Score,3,37,34,61, 184
+2018-10-31 06:53:30 +0000,0,Cassidy,UNKNOWN,Interchange - Mi Mi,3,37,35,
+2018-10-31 06:54:32 +0000,0,Mi Mi,C,Centre Pass,3,37,35,50, 100
+2018-10-31 06:54:32 +0000,0,Nevins,WA,Assist - Centre Pass Rec,3,37,35,37, 82
+2018-10-31 06:54:38 +0000,0,Simpson,WD,Assist - 2nd Phase,3,37,35,44, 118
+2018-10-31 06:54:40 +0000,0,Nevins,WA,Possession,3,37,35,53, 112
+2018-10-31 06:54:44 +0000,0,Mi Mi,C,Possession,3,37,35,44, 80
+2018-10-31 06:54:46 +0000,0,Nevins,WA,Possession,3,37,35,35, 60
+2018-10-31 06:54:49 +0000,0,Simpson,WD,Possession,3,37,35,12, 67
+2018-10-31 06:54:53 +0000,0,Mi Mi,C,Possession,3,37,35,16, 9
+2018-10-31 06:54:59 +0000,0,Aiken,GS,Possession,3,37,35,86, 9
+2018-10-31 06:55:01 +0000,0,Aiken,GS,Assist - Circle Entry,3,37,35,86, 9
+2018-10-31 06:55:01 +0000,0,Tippett,GA,Goal - Score,3,37,35,44, 6
+2018-10-31 06:55:10 +0000,1,Scherian ,C,Centre Pass,3,38,35,50, 100
+2018-10-31 06:55:10 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,38,35,76, 116
+2018-10-31 06:55:13 +0000,1,Wood,GA,Assist - 2nd Phase,3,38,35,87, 146
+2018-10-31 06:55:17 +0000,1,Scherian ,C,Possession,3,38,35,63, 143
+2018-10-31 06:55:20 +0000,1,Bassett,GS,Possession,3,38,35,76, 171
+2018-10-31 06:55:25 +0000,0,Simpson,WD,Penaly - Contact,3,38,35,73, 171
+2018-10-31 06:55:25 +0000,1,Browne,WA,Possession,3,38,35,73, 171
+2018-10-31 06:55:34 +0000,1,Browne,WA,Assist - Circle Entry,3,38,35,73, 171
+2018-10-31 06:55:34 +0000,1,Wood,GA,Goal - Score,3,38,35,59, 182
+2018-10-31 06:55:46 +0000,0,Mi Mi,C,Centre Pass,3,38,36,50, 100
+2018-10-31 06:55:47 +0000,0,Simpson,WD,Assist - Centre Pass Rec,3,38,36,79, 99
+2018-10-31 06:55:49 +0000,0,Hinchliffe,GD,Assist - 2nd Phase,3,38,36,57, 122
+2018-10-31 06:55:51 +0000,0,Simpson,WD,Possession,3,38,36,66, 96
+2018-10-31 06:55:53 +0000,0,Hinchliffe,GD,Possession,3,38,36,49, 113
+2018-10-31 06:55:54 +0000,0,Simpson,WD,Possession,3,38,36,83, 114
+2018-10-31 06:55:57 +0000,0,Tippett,GA,Possession,3,38,36,88, 56
+2018-10-31 06:56:06 +0000,0,Simpson,WD,Possession,3,38,36,76, 68
+2018-10-31 06:56:10 +0000,0,Tippett,GA,Possession,3,38,36,71, 44
+2018-10-31 06:56:14 +0000,0,Tippett,GA,Assist - Circle Entry,3,38,36,71, 44
+2018-10-31 06:56:14 +0000,0,Aiken,GS,Possession,3,38,36,50, 19
+2018-10-31 06:56:18 +0000,1,Pretorius ,GD,Gain - Inter,3,38,36,82, 13
+2018-10-31 06:56:24 +0000,1,Mikaere,WD,Possession,3,38,36,80, 48
+2018-10-31 06:56:28 +0000,1,Pretorius ,GD,Possession,3,38,36,62, 62
+2018-10-31 06:56:31 +0000,1,Browne,WA,Possession,3,38,36,67, 125
+2018-10-31 06:56:33 +0000,1,Browne,WA,Possession,3,38,36,84, 181
+2018-10-31 06:56:36 +0000,1,Browne,WA,Assist - Circle Entry,3,38,36,84, 181
+2018-10-31 06:56:36 +0000,0,Clemesha,GK,Gain - Inter,3,38,36,58, 188
+2018-10-31 06:56:41 +0000,0,Mi Mi,C,Possession,3,38,36,20, 136
+2018-10-31 06:56:46 +0000,0,Simpson,WD,Possession,3,38,36,27, 95
+2018-10-31 06:56:49 +0000,0,Tippett,GA,Possession,3,38,36,15, 27
+2018-10-31 06:56:51 +0000,0,Mi Mi,C,Possession,3,38,36,17, 54
+2018-10-31 06:56:54 +0000,0,Mi Mi,C,Assist - Circle Entry,3,38,36,17, 54
+2018-10-31 06:56:54 +0000,0,Aiken,GS,Goal - Score,3,38,36,52, 10
+2018-10-31 06:57:04 +0000,1,Scherian ,C,Centre Pass,3,39,36,50, 100
+2018-10-31 06:57:04 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,39,36,25, 115
+2018-10-31 06:57:07 +0000,1,Wood,GA,Assist - 2nd Phase,3,39,36,15, 151
+2018-10-31 06:57:09 +0000,1,Browne,WA,Possession,3,39,36,23, 140
+2018-10-31 06:57:12 +0000,1,Mikaere,WD,Possession,3,39,36,26, 126
+2018-10-31 06:57:14 +0000,1,Scherian ,C,Possession,3,39,36,26, 150
+2018-10-31 06:57:17 +0000,1,Wood,GA,Possession,3,39,36,17, 179
+2018-10-31 06:57:26 +0000,0,Mi Mi,C,Penaly - Contact,3,39,36,17, 179
+2018-10-31 06:57:26 +0000,1,Scherian ,C,Possession,3,39,36,17, 179
+2018-10-31 06:57:38 +0000,1,Scherian ,C,Assist - Circle Entry,3,39,36,17, 179
+2018-10-31 06:57:38 +0000,1,Bassett,GS,Goal - Score,3,39,36,51, 192
+2018-10-31 06:57:46 +0000,0,Mi Mi,C,Centre Pass,3,39,37,50, 100
+2018-10-31 06:57:46 +0000,0,Tippett,GA,Assist - Centre Pass Rec,3,39,37,76, 77
+2018-10-31 06:57:49 +0000,0,Mi Mi,C,Assist - 2nd Phase,3,39,37,32, 33
+2018-10-31 06:57:54 +0000,0,Simpson,WD,Possession,3,39,37,55, 70
+2018-10-31 06:57:59 +0000,0,Nevins,WA,Possession,3,39,37,53, 49
+2018-10-31 06:58:02 +0000,0,Mi Mi,C,Possession,3,39,37,24, 37
+2018-10-31 06:58:04 +0000,0,Mi Mi,C,Assist - Circle Entry,3,39,37,24, 37
+2018-10-31 06:58:05 +0000,0,Tippett,GA,Possession,3,39,37,24, 4
+2018-10-31 06:58:07 +0000,0,Aiken,GS,Possession,3,39,37,51, 15
+2018-10-31 06:58:11 +0000,1,Pretorius ,GD,Penaly - Contact,3,39,37,51, 15
+2018-10-31 06:58:11 +0000,0,Tippett,GA,Possession,3,39,37,51, 15
+2018-10-31 06:58:24 +0000,0,Aiken,GS,Possession,3,39,37,55, 2
+2018-10-31 06:59:10 +0000,1,Scherian ,C,Centre Pass,4,39,37,50, 100
+2018-10-31 06:59:10 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,39,37,24, 120
+2018-10-31 06:59:11 +0000,1,Wood,GA,Assist - 2nd Phase,4,39,37,12, 144
+2018-10-31 06:59:13 +0000,1,Pretorius ,GD,Possession,4,39,37,19, 130
+2018-10-31 06:59:15 +0000,1,Scherian ,C,Possession,4,39,37,16, 159
+2018-10-31 06:59:20 +0000,1,Wood,GA,Possession,4,39,37,16, 186
+2018-10-31 06:59:23 +0000,1,Scherian ,C,Possession,4,39,37,20, 176
+2018-10-31 06:59:25 +0000,0,Hinchliffe,GD,Penaly - Contact,4,39,37,20, 176
+2018-10-31 06:59:25 +0000,1,Scherian ,C,Possession,4,39,37,20, 176
+2018-10-31 06:59:31 +0000,1,Scherian ,C,Assist - Circle Entry,4,39,37,20, 176
+2018-10-31 06:59:31 +0000,1,Wood,GA,Goal - Score,4,39,37,36, 193
+2018-10-31 06:59:49 +0000,0,Mi Mi,C,Centre Pass,4,39,38,50, 100
+2018-10-31 06:59:49 +0000,0,Nevins,WA,Assist - Centre Pass Rec,4,39,38,68, 74
+2018-10-31 06:59:52 +0000,0,Tippett,GA,Assist - 2nd Phase,4,39,38,80, 18
+2018-10-31 06:59:58 +0000,0,Tippett,GA,Assist - Circle Entry,4,39,38,80, 18
+2018-10-31 06:59:58 +0000,0,Aiken,GS,Goal - Score,4,39,38,43, 10
+2018-10-31 07:00:08 +0000,1,Scherian ,C,Centre Pass,4,40,38,50, 100
+2018-10-31 07:00:08 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,40,38,28, 116
+2018-10-31 07:00:10 +0000,1,Browne,WA,Assist - 2nd Phase,4,40,38,49, 139
+2018-10-31 07:00:12 +0000,1,Bassett,GS,Loss - Bad Pass,4,40,38,50, 163
+2018-10-31 07:01:10 +0000,0,Simpson,WD,Possession,4,40,38,50, 163
+2018-10-31 07:01:18 +0000,0,Mi Mi,C,Possession,4,40,38,93, 128
+2018-10-31 07:01:20 +0000,0,Nevins,WA,Possession,4,40,38,95, 81
+2018-10-31 07:01:22 +0000,0,Hinchliffe,GD,Possession,4,40,38,73, 105
+2018-10-31 07:01:24 +0000,0,Simpson,WD,Possession,4,40,38,21, 87
+2018-10-31 07:01:27 +0000,0,Hinchliffe,GD,Possession,4,40,38,37, 96
+2018-10-31 07:01:30 +0000,0,Mi Mi,C,Possession,4,40,38,70, 81
+2018-10-31 07:01:36 +0000,1,Pretorius ,GD,Gain - Inter,4,40,38,78, 42
+2018-10-31 07:01:41 +0000,1,Scherian ,C,Possession,4,40,38,91, 63
+2018-10-31 07:01:47 +0000,1,Wood,GA,Possession,4,40,38,92, 99
+2018-10-31 07:01:49 +0000,1,Mikaere,WD,Possession,4,40,38,76, 90
+2018-10-31 07:02:43 +0000,0,Simpson,WD,Penaly - Contact,4,40,38,93, 156
+2018-10-31 07:02:43 +0000,1,Browne,WA,Possession,4,40,38,93, 156
+2018-10-31 07:03:21 +0000,1,Wood,GA,Possession,4,40,38,72, 173
+2018-10-31 07:03:28 +0000,1,Wood,GA,Assist - Circle Entry,4,40,38,72, 173
+2018-10-31 07:03:28 +0000,0,Clemesha,GK,Gain - Inter,4,40,38,49, 196
+2018-10-31 07:04:03 +0000,0,Hinchliffe,GD,Possession,4,40,38,62, 189
+2018-10-31 07:04:06 +0000,0,Mi Mi,C,Possession,4,40,38,63, 129
+2018-10-31 07:04:09 +0000,0,Simpson,WD,Possession,4,40,38,86, 123
+2018-10-31 07:04:11 +0000,0,Mi Mi,C,Possession,4,40,38,85, 70
+2018-10-31 07:04:14 +0000,0,Simpson,WD,Possession,4,40,38,90, 72
+2018-10-31 07:04:21 +0000,0,Nevins,WA,Possession,4,40,38,72, 51
+2018-10-31 07:04:26 +0000,1,Scherian ,C,Penaly - Contact,4,40,38,72, 51
+2018-10-31 07:04:26 +0000,0,Nevins,WA,Possession,4,40,38,72, 51
+2018-10-31 07:04:31 +0000,0,Mi Mi,C,Possession,4,40,38,84, 9
+2018-10-31 07:04:36 +0000,0,Mi Mi,C,Assist - Circle Entry,4,40,38,84, 9
+2018-10-31 07:04:36 +0000,0,Tippett,GA,Goal - Score,4,40,38,56, 9
+2018-10-31 07:04:54 +0000,0,Mi Mi,C,Centre Pass,4,41,38,50, 100
+2018-10-31 07:04:54 +0000,1,Mikaere,WD,Penaly - Contact on CP,4,41,38,54, 73
+2018-10-31 07:04:54 +0000,0,Simpson,WD,Possession,4,41,38,54, 73
+2018-10-31 07:05:32 +0000,0,Nevins,WA,Assist - 2nd Phase,4,41,38,37, 34
+2018-10-31 07:05:37 +0000,0,Nevins,WA,Assist - Circle Entry,4,41,38,37, 34
+2018-10-31 07:05:37 +0000,0,Tippett,GA,Possession,4,41,38,23, 9
+2018-10-31 07:05:40 +0000,0,Nevins,WA,Possession,4,41,38,16, 15
+2018-10-31 07:05:43 +0000,0,Nevins,WA,Assist - Circle Entry,4,41,38,16, 15
+2018-10-31 07:05:43 +0000,0,Tippett,GA,Possession,4,41,38,22, 9
+2018-10-31 07:05:46 +0000,0,Aiken,GS,Possession,4,41,38,51, 8
+2018-10-31 07:05:48 +0000,1,Pretorius ,GD,Penaly - Contact,4,41,38,51, 8
+2018-10-31 07:05:48 +0000,0,Aiken,GS,Goal - Score,4,41,38,51, 8
+2018-10-31 07:05:59 +0000,1,Scherian ,C,Centre Pass,4,42,38,50, 100
+2018-10-31 07:05:59 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,4,42,38,71, 102
+2018-10-31 07:06:09 +0000,0,Tippett,GA,Gain - Tip (Deflect),4,42,38,61, 116
+2018-10-31 07:06:17 +0000,0,Nevins,WA,Possession,4,42,38,32, 108
+2018-10-31 07:06:20 +0000,0,Tippett,GA,Possession,4,42,38,60, 92
+2018-10-31 07:06:23 +0000,0,Simpson,WD,Possession,4,42,38,40, 102
+2018-10-31 07:06:29 +0000,0,Hinchliffe,GD,Possession,4,42,38,17, 76
+2018-10-31 07:06:34 +0000,0,Tippett,GA,Possession,4,42,38,18, 46
+2018-10-31 07:06:36 +0000,0,Aiken,GS,Possession,4,42,38,12, 14
+2018-10-31 07:06:38 +0000,0,Mi Mi,C,Possession,4,42,38,18, 18
+2018-10-31 07:06:40 +0000,0,Mi Mi,C,Assist - Circle Entry,4,42,38,18, 18
+2018-10-31 07:06:40 +0000,0,Aiken,GS,Possession,4,42,38,26, 9
+2018-10-31 07:06:43 +0000,0,Mi Mi,C,Possession,4,42,38,16, 13
+2018-10-31 07:06:49 +0000,0,Mi Mi,C,Assist - Circle Entry,4,42,38,16, 13
+2018-10-31 07:06:49 +0000,0,Aiken,GS,Goal - Miss,4,42,38,36, 6
+2018-10-31 07:06:58 +0000,1,Mentor,GK,Gain - Def Reb,4,42,38,50, 2
+2018-10-31 07:07:01 +0000,0,Aiken,GS,Penaly - Contact,4,42,38,50, 2
+2018-10-31 07:07:01 +0000,1,Mentor,GK,Possession,4,42,38,50, 2
+2018-10-31 07:07:07 +0000,1,Mikaere,WD,Possession,4,42,38,69, 32
+2018-10-31 07:07:13 +0000,1,Scherian ,C,Possession,4,42,38,49, 81
+2018-10-31 07:07:16 +0000,1,Browne,WA,Possession,4,42,38,14, 119
+2018-10-31 07:07:22 +0000,1,Scherian ,C,Possession,4,42,38,46, 123
+2018-10-31 07:07:29 +0000,1,Pretorius ,GD,Possession,4,42,38,16, 121
+2018-10-31 07:07:34 +0000,1,Wood,GA,Possession,4,42,38,15, 164
+2018-10-31 07:07:37 +0000,1,Browne,WA,Possession,4,42,38,25, 156
+2018-10-31 07:07:40 +0000,0,Nevins,WA,Penaly - Contact,4,42,38,25, 156
+2018-10-31 07:07:40 +0000,1,Browne,WA,Possession,4,42,38,25, 156
+2018-10-31 07:07:44 +0000,1,Browne,WA,Assist - Circle Entry,4,42,38,25, 156
+2018-10-31 07:07:44 +0000,1,Bassett,GS,Goal - Score,4,42,38,55, 195
+2018-10-31 07:07:55 +0000,0,Mi Mi,C,Centre Pass,4,42,39,50, 100
+2018-10-31 07:07:55 +0000,0,Tippett,GA,Assist - Centre Pass Rec,4,42,39,64, 83
+2018-10-31 07:07:57 +0000,0,Nevins,WA,Assist - 2nd Phase,4,42,39,84, 37
+2018-10-31 07:07:59 +0000,0,Mi Mi,C,Possession,4,42,39,65, 44
+2018-10-31 07:08:02 +0000,0,Mi Mi,C,Assist - Circle Entry,4,42,39,65, 44
+2018-10-31 07:08:02 +0000,0,Aiken,GS,Goal - Score,4,42,39,49, 17
+2018-10-31 07:08:11 +0000,1,Scherian ,C,Centre Pass,4,43,39,50, 100
+2018-10-31 07:08:11 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,43,39,79, 113
+2018-10-31 07:08:13 +0000,1,Browne,WA,Assist - 2nd Phase,4,43,39,92, 142
+2018-10-31 07:08:16 +0000,1,Pretorius ,GD,Possession,4,43,39,80, 133
+2018-10-31 07:08:19 +0000,1,Scherian ,C,Possession,4,43,39,77, 148
+2018-10-31 07:08:21 +0000,1,Browne,WA,Possession,4,43,39,90, 157
+2018-10-31 07:08:25 +0000,1,Wood,GA,Possession,4,43,39,90, 173
+2018-10-31 07:08:28 +0000,1,Pretorius ,GD,Possession,4,43,39,75, 130
+2018-10-31 07:08:32 +0000,1,Scherian ,C,Possession,4,43,39,83, 150
+2018-10-31 07:08:36 +0000,1,Browne,WA,Possession,4,43,39,78, 172
+2018-10-31 07:08:38 +0000,0,,UNKNOWN,Penaly - Contact,4,43,39,41, 194
+2018-10-31 07:08:38 +0000,1,Bassett,GS,Goal - Score,4,43,39,41, 194
+2018-10-31 07:08:49 +0000,0,Mi Mi,C,Centre Pass,4,43,40,50, 100
+2018-10-31 07:08:50 +0000,0,Tippett,GA,Assist - Centre Pass Rec,4,43,40,29, 77
+2018-10-31 07:08:54 +0000,0,Nevins,WA,Assist - 2nd Phase,4,43,40,55, 38
+2018-10-31 07:08:58 +0000,0,Simpson,WD,Possession,4,43,40,45, 72
+2018-10-31 07:09:04 +0000,1,Browne,WA,Penaly - Contact,4,43,40,45, 72
+2018-10-31 07:09:05 +0000,0,Simpson,WD,Possession,4,43,40,45, 72
+2018-10-31 07:09:14 +0000,0,Nevins,WA,Possession,4,43,40,26, 28
+2018-10-31 07:09:17 +0000,0,Nevins,WA,Assist - Circle Entry,4,43,40,26, 28
+2018-10-31 07:09:17 +0000,0,Aiken,GS,Goal - Score,4,43,40,48, 5
+2018-10-31 07:09:27 +0000,1,Scherian ,C,Centre Pass,4,44,40,50, 100
+2018-10-31 07:09:27 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,44,40,36, 118
+2018-10-31 07:09:29 +0000,1,Wood,GA,Assist - 2nd Phase,4,44,40,21, 131
+2018-10-31 07:09:31 +0000,1,Scherian ,C,Possession,4,44,40,43, 132
+2018-10-31 07:09:35 +0000,1,Wood,GA,Possession,4,44,40,10, 182
+2018-10-31 07:09:44 +0000,0,Clemesha,GK,Penaly - Contact,4,44,40,37, 182
+2018-10-31 07:09:44 +0000,1,Wood,GA,Possession,4,44,40,37, 182
+2018-10-31 07:09:51 +0000,1,Bassett,GS,Possession,4,44,40,53, 193
+2018-10-31 07:09:54 +0000,0,Hinchliffe,GD,Penaly - Contact,4,44,40,53, 193
+2018-10-31 07:09:54 +0000,1,Bassett,GS,Goal - Score,4,44,40,53, 193
+2018-10-31 07:10:09 +0000,0,Mi Mi,C,Centre Pass,4,44,41,50, 100
+2018-10-31 07:10:09 +0000,1,Pretorius ,GD,Penaly - Contact on CP,4,44,41,53, 66
+2018-10-31 07:10:09 +0000,0,Simpson,WD,Possession,4,44,41,53, 66
+2018-10-31 07:10:20 +0000,0,Nevins,WA,Assist - 2nd Phase,4,44,41,57, 39
+2018-10-31 07:10:23 +0000,1,Mikaere,WD,Penaly - Obstruction,4,44,41,57, 39
+2018-10-31 07:10:23 +0000,0,Nevins,WA,Possession,4,44,41,57, 39
+2018-10-31 07:10:29 +0000,0,Tippett,GA,Possession,4,44,41,88, 13
+2018-10-31 07:10:34 +0000,0,Mi Mi,C,Possession,4,44,41,16, 12
+2018-10-31 07:10:39 +0000,1,Scherian ,C,Penaly - Contact,4,44,41,16, 12
+2018-10-31 07:10:40 +0000,0,Mi Mi,C,Possession,4,44,41,16, 12
+2018-10-31 07:10:45 +0000,0,Mi Mi,C,Assist - Circle Entry,4,44,41,16, 12
+2018-10-31 07:10:45 +0000,0,Aiken,GS,Goal - Score,4,44,41,58, 6
+2018-10-31 07:10:55 +0000,1,Scherian ,C,Centre Pass,4,45,41,50, 100
+2018-10-31 07:10:55 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,45,41,25, 120
+2018-10-31 07:10:57 +0000,1,Wood,GA,Assist - 2nd Phase,4,45,41,46, 125
+2018-10-31 07:10:59 +0000,1,Scherian ,C,Possession,4,45,41,73, 160
+2018-10-31 07:11:04 +0000,1,Scherian ,C,Assist - Circle Entry,4,45,41,73, 160
+2018-10-31 07:11:04 +0000,1,Bassett,GS,Goal - Score,4,45,41,51, 192
+2018-10-31 07:11:12 +0000,0,Mi Mi,C,Centre Pass,4,45,42,50, 100
+2018-10-31 07:11:12 +0000,0,Tippett,GA,Assist - Centre Pass Rec,4,45,42,16, 80
+2018-10-31 07:11:14 +0000,0,Nevins,WA,Assist - 2nd Phase,4,45,42,39, 73
+2018-10-31 07:11:16 +0000,0,Mi Mi,C,Possession,4,45,42,67, 64
+2018-10-31 07:11:19 +0000,1,Scherian ,C,Penaly - Contact,4,45,42,67, 64
+2018-10-31 07:11:19 +0000,0,Mi Mi,C,Possession,4,45,42,67, 64
+2018-10-31 07:11:26 +0000,0,Tippett,GA,Possession,4,45,42,31, 37
+2018-10-31 07:11:32 +0000,1,Pretorius ,GD,Penaly - Contact,4,45,42,31, 37
+2018-10-31 07:11:32 +0000,0,Mi Mi,C,Possession,4,45,42,31, 37
+2018-10-31 07:11:42 +0000,1,Mikaere,WD,Penaly - Obstruction,4,45,42,31, 37
+2018-10-31 07:11:42 +0000,0,Mi Mi,C,Possession,4,45,42,31, 37
+2018-10-31 07:11:51 +0000,0,Mi Mi,C,Assist - Circle Entry,4,45,42,31, 37
+2018-10-31 07:11:51 +0000,0,Aiken,GS,Goal - Score,4,45,42,54, 7
+2018-10-31 07:12:01 +0000,1,Scherian ,C,Centre Pass,4,46,42,50, 100
+2018-10-31 07:12:01 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,46,42,32, 118
+2018-10-31 07:12:02 +0000,1,Wood,GA,Assist - 2nd Phase,4,46,42,35, 142
+2018-10-31 07:12:05 +0000,1,Pretorius ,GD,Possession,4,46,42,19, 132
+2018-10-31 07:12:08 +0000,0,Tippett,GA,Penaly - Obstruction,4,46,42,19, 132
+2018-10-31 07:12:08 +0000,1,Pretorius ,GD,Possession,4,46,42,19, 132
+2018-10-31 07:12:15 +0000,1,,UNKNOWN,Possession,4,46,42,52, 143
+2018-10-31 07:12:17 +0000,1,Wood,GA,Possession,4,46,42,65, 166
+2018-10-31 07:12:22 +0000,1,Scherian ,C,Possession,4,46,42,79, 181
+2018-10-31 07:12:27 +0000,1,Scherian ,C,Assist - Circle Entry,4,46,42,79, 181
+2018-10-31 07:12:27 +0000,1,Wood,GA,Possession,4,46,42,66, 192
+2018-10-31 07:12:30 +0000,0,Clemesha,GK,Penaly - Obstruction,4,46,42,66, 192
+2018-10-31 07:12:30 +0000,1,Wood,GA,Goal - Score,4,46,42,66, 192
+2018-10-31 07:12:48 +0000,0,Mi Mi,C,Centre Pass,4,46,43,50, 100
+2018-10-31 07:12:48 +0000,0,Hinchliffe,GD,Assist - Centre Pass Rec,4,46,43,32, 106
+2018-10-31 07:12:50 +0000,0,Nevins,WA,Assist - 2nd Phase,4,46,43,43, 84
+2018-10-31 07:12:52 +0000,0,Tippett,GA,Possession,4,46,43,63, 71
+2018-10-31 07:12:56 +0000,0,Nevins,WA,Possession,4,46,43,65, 52
+2018-10-31 07:12:58 +0000,0,Mi Mi,C,Possession,4,46,43,85, 35
+2018-10-31 07:13:00 +0000,0,Simpson,WD,Possession,4,46,43,83, 71
+2018-10-31 07:13:03 +0000,0,Mi Mi,C,Possession,4,46,43,68, 42
+2018-10-31 07:13:07 +0000,0,Mi Mi,C,Assist - Circle Entry,4,46,43,68, 42
+2018-10-31 07:13:07 +0000,0,Tippett,GA,Possession,4,46,43,52, 27
+2018-10-31 07:13:09 +0000,0,Aiken,GS,Possession,4,46,43,50, 13
+2018-10-31 07:13:11 +0000,0,Nevins,WA,Possession,4,46,43,81, 17
+2018-10-31 07:13:16 +0000,0,Nevins,WA,Assist - Circle Entry,4,46,43,81, 17
+2018-10-31 07:13:16 +0000,0,Aiken,GS,Possession,4,46,43,49, 10
+2018-10-31 07:13:17 +0000,1,Pretorius ,GD,Penaly - Contact,4,46,43,49, 10
+2018-10-31 07:13:18 +0000,0,Aiken,GS,Goal - Score,4,46,43,49, 10
+2018-10-31 07:13:31 +0000,1,Scherian ,C,Centre Pass,4,47,43,50, 100
+2018-10-31 07:13:32 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,47,43,78, 115
+2018-10-31 07:13:34 +0000,1,Scherian ,C,Assist - 2nd Phase,4,47,43,68, 138
+2018-10-31 07:13:37 +0000,1,Mikaere,WD,Possession,4,47,43,89, 130
+2018-10-31 07:13:41 +0000,1,Wood,GA,Possession,4,47,43,89, 152
+2018-10-31 07:13:43 +0000,1,Browne,WA,Possession,4,47,43,74, 171
+2018-10-31 07:13:45 +0000,1,Browne,WA,Possession,4,47,43,23, 174
+2018-10-31 07:13:47 +0000,1,Browne,WA,Possession,4,47,43,32, 170
+2018-10-31 07:13:49 +0000,0,Simpson,WD,Penaly - Contact,4,47,43,32, 170
+2018-10-31 07:13:49 +0000,1,Browne,WA,Possession,4,47,43,32, 170
+2018-10-31 07:13:54 +0000,1,Browne,WA,Assist - Circle Entry,4,47,43,32, 170
+2018-10-31 07:13:54 +0000,1,Bassett,GS,Goal - Score,4,47,43,50, 195
+2018-10-31 07:14:01 +0000,0,Mi Mi,C,Centre Pass,4,47,44,50, 100
+2018-10-31 07:14:01 +0000,0,Nevins,WA,Assist - Centre Pass Rec,4,47,44,11, 79
+2018-10-31 07:14:03 +0000,0,Tippett,GA,Assist - 2nd Phase,4,47,44,24, 55
+2018-10-31 07:14:05 +0000,0,Simpson,WD,Possession,4,47,44,34, 72
+2018-10-31 07:14:09 +0000,0,Tippett,GA,Possession,4,47,44,25, 31
+2018-10-31 07:14:13 +0000,0,Nevins,WA,Possession,4,47,44,15, 17
+2018-10-31 07:14:16 +0000,0,Nevins,WA,Assist - Circle Entry,4,47,44,15, 17
+2018-10-31 07:14:16 +0000,0,Tippett,GA,Goal - Score,4,47,44,42, 8
+2018-10-31 07:14:25 +0000,1,Scherian ,C,Centre Pass,4,48,44,50, 100
+2018-10-31 07:14:25 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,48,44,27, 117
+2018-10-31 07:14:27 +0000,1,Wood,GA,Assist - 2nd Phase,4,48,44,17, 141
+2018-10-31 07:14:34 +0000,1,Mikaere,WD,Possession,4,48,44,9, 130
+2018-10-31 07:14:37 +0000,0,Tippett,GA,Penaly - Contact,4,48,44,9, 130
+2018-10-31 07:14:37 +0000,1,Mikaere,WD,Possession,4,48,44,9, 130
+2018-10-31 07:14:47 +0000,0,Mi Mi,C,Gain - Inter,4,48,44,47, 145
+2018-10-31 07:15:33 +0000,0,Mi Mi,C,Loss - Bad Pass,4,48,44,61, 66
+2018-10-31 07:32:44 +0000,1,Pretorius ,GD,Possession,4,48,44,58, 70
+2018-10-31 07:32:48 +0000,1,Mikaere,WD,Possession,4,48,44,27, 130
+2018-10-31 07:32:55 +0000,0,Tippett,GA,Penaly - Contact,4,48,44,27, 130
+2018-10-31 07:32:55 +0000,1,Mikaere,WD,Possession,4,48,44,27, 130
+2018-10-31 07:33:04 +0000,1,Browne,WA,Possession,4,48,44,38, 145
+2018-10-31 07:33:06 +0000,1,Wood,GA,Possession,4,48,44,47, 166
+2018-10-31 07:33:19 +0000,1,Browne,WA,Possession,4,48,44,79, 183
+2018-10-31 07:33:22 +0000,1,Browne,WA,Assist - Circle Entry,4,48,44,79, 183
+2018-10-31 07:33:22 +0000,1,Wood,GA,Possession,4,48,44,70, 188
+2018-10-31 07:33:27 +0000,1,Bassett,GS,Goal - Score,4,48,44,48, 197
+2018-10-31 07:33:38 +0000,0,Mi Mi,C,Centre Pass,4,48,45,50, 100
+2018-10-31 07:33:38 +0000,0,Simpson,WD,Assist - Centre Pass Rec,4,48,45,28, 105
+2018-10-31 07:33:41 +0000,0,Mi Mi,C,Assist - 2nd Phase,4,48,45,26, 81
+2018-10-31 07:33:42 +0000,0,Nevins,WA,Possession,4,48,45,16, 52
+2018-10-31 07:33:45 +0000,0,Simpson,WD,Possession,4,48,45,17, 70
+2018-10-31 07:33:47 +0000,0,Aiken,GS,Possession,4,48,45,26, 35
+2018-10-31 07:33:49 +0000,1,,UNKNOWN,Penaly - Contact,4,48,45,86, 17
+2018-10-31 07:33:49 +0000,0,Nevins,WA,Possession,4,48,45,86, 17
+2018-10-31 07:33:54 +0000,0,Hinchliffe,GD,Possession,4,48,45,77, 92
+2018-10-31 07:33:57 +0000,0,Nevins,WA,Possession,4,48,45,86, 72
+2018-10-31 07:34:01 +0000,0,Tippett,GA,Possession,4,48,45,32, 50
+2018-10-31 07:34:04 +0000,0,Simpson,WD,Possession,4,48,45,41, 84
+2018-10-31 07:34:10 +0000,0,Nevins,WA,Possession,4,48,45,82, 43
+2018-10-31 07:34:16 +0000,1,Mikaere,WD,Penaly - Contact,4,48,45,69, 39
+2018-10-31 07:34:16 +0000,0,Mi Mi,C,Possession,4,48,45,69, 39
+2018-10-31 07:34:22 +0000,0,Mi Mi,C,Assist - Circle Entry,4,48,45,69, 39
+2018-10-31 07:34:22 +0000,0,Aiken,GS,Goal - Score,4,48,45,46, 14
+2018-10-31 07:34:30 +0000,1,,UNKNOWN,Timeout,4,49,45,-10, -22
+2018-10-31 07:35:23 +0000,1,Scherian ,C,Centre Pass,4,49,45,50, 100
+2018-10-31 07:35:23 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,49,45,83, 116
+2018-10-31 07:35:25 +0000,1,Mikaere,WD,Assist - 2nd Phase,4,49,45,98, 121
+2018-10-31 07:35:29 +0000,1,Wood,GA,Possession,4,49,45,92, 149
+2018-10-31 07:35:32 +0000,1,Scherian ,C,Possession,4,49,45,90, 138
+2018-10-31 07:35:37 +0000,1,Mikaere,WD,Possession,4,49,45,89, 103
+2018-10-31 07:35:40 +0000,1,Scherian ,C,Possession,4,49,45,92, 125
+2018-10-31 07:35:42 +0000,1,Mikaere,WD,Possession,4,49,45,81, 109
+2018-10-31 07:35:44 +0000,1,Wood,GA,Possession,4,49,45,84, 126
+2018-10-31 07:36:23 +0000,1,Scherian ,C,Possession,4,49,45,94, 142
+2018-10-31 07:36:25 +0000,0,Mi Mi,C,Penaly - Obstruction,4,49,45,94, 142
+2018-10-31 07:36:25 +0000,1,Scherian ,C,Possession,4,49,45,94, 142
+2018-10-31 07:36:31 +0000,1,Browne,WA,Possession,4,49,45,67, 164
+2018-10-31 07:36:33 +0000,1,Browne,WA,Assist - Circle Entry,4,49,45,67, 164
+2018-10-31 07:36:33 +0000,1,Bassett,GS,Goal - Score,4,49,45,48, 198
+2018-10-31 07:37:28 +0000,0,Mi Mi,C,Centre Pass,4,49,46,50, 100
+2018-10-31 07:37:28 +0000,0,Tippett,GA,Assist - Centre Pass Rec,4,49,46,88, 73
+2018-10-31 07:37:34 +0000,0,Simpson,WD,Assist - 2nd Phase,4,49,46,72, 74
+2018-10-31 07:37:36 +0000,0,Tippett,GA,Possession,4,49,46,85, 57
+2018-10-31 07:37:38 +0000,0,Mi Mi,C,Possession,4,49,46,87, 12
+2018-10-31 07:37:40 +0000,0,Mi Mi,C,Assist - Circle Entry,4,49,46,87, 12
+2018-10-31 07:37:40 +0000,0,Aiken,GS,Possession,4,49,46,65, 18
+2018-10-31 07:40:58 +0000,0,Mi Mi,C,Possession,4,49,46,82, 12
+2018-10-31 07:41:04 +0000,0,Mi Mi,C,Assist - Circle Entry,4,49,46,82, 12
+2018-10-31 07:41:04 +0000,0,Aiken,GS,Possession,4,49,46,60, 9
+2018-10-31 07:41:07 +0000,0,Mi Mi,C,Possession,4,49,46,84, 10
+2018-10-31 07:41:09 +0000,0,Mi Mi,C,Assist - Circle Entry,4,49,46,84, 10
+2018-10-31 07:41:10 +0000,0,Aiken,GS,Possession,4,49,46,56, 7
+2018-10-31 07:41:12 +0000,1,Pretorius ,GD,Penaly - Contact,4,49,46,56, 7
+2018-10-31 07:41:12 +0000,0,Tippett,GA,Possession,4,49,46,56, 7
+2018-10-31 07:41:25 +0000,0,Aiken,GS,Goal - Score,4,49,46,49, 6
+2018-10-31 07:41:39 +0000,1,Scherian ,C,Centre Pass,4,50,46,50, 100
+2018-10-31 07:41:39 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,4,50,46,80, 91
+2018-10-31 07:41:40 +0000,1,Scherian ,C,Assist - 2nd Phase,4,50,46,55, 82
+2018-10-31 07:41:42 +0000,1,Browne,WA,Possession,4,50,46,28, 119
+2018-10-31 07:41:44 +0000,1,Wood,GA,Possession,4,50,46,18, 150
+2018-10-31 07:41:50 +0000,1,Browne,WA,Possession,4,50,46,10, 131
+2018-10-31 07:41:56 +0000,1,Wood,GA,Possession,4,50,46,52, 145
+2018-10-31 07:41:58 +0000,1,Scherian ,C,Possession,4,50,46,49, 164
+2018-10-31 07:42:00 +0000,1,Scherian ,C,Assist - Circle Entry,4,50,46,49, 164
+2018-10-31 07:42:00 +0000,1,Wood,GA,Possession,4,50,46,55, 180
+2018-10-31 07:42:06 +0000,1,Scherian ,C,Possession,4,50,46,41, 167
+2018-10-31 07:42:09 +0000,1,Scherian ,C,Assist - Circle Entry,4,50,46,41, 167
+2018-10-31 07:42:09 +0000,1,Bassett,GS,Possession,4,50,46,43, 198
+2018-10-31 07:42:12 +0000,0,Clemesha,GK,Penaly - Obstruction,4,50,46,43, 198
+2018-10-31 07:42:12 +0000,1,Bassett,GS,Goal - Score,4,50,46,43, 198
+2018-10-31 07:42:20 +0000,0,Mi Mi,C,Centre Pass,4,50,47,50, 100
+2018-10-31 07:42:20 +0000,0,Nevins,WA,Assist - Centre Pass Rec,4,50,47,78, 82
+2018-10-31 07:42:22 +0000,0,Tippett,GA,Assist - 2nd Phase,4,50,47,89, 23
+2018-10-31 07:42:24 +0000,0,Tippett,GA,Assist - Circle Entry,4,50,47,89, 23
+2018-10-31 07:42:24 +0000,0,Aiken,GS,Possession,4,50,47,61, 24
+2018-10-31 07:42:26 +0000,0,Nevins,WA,Possession,4,50,47,64, 35
+2018-10-31 07:42:28 +0000,0,Nevins,WA,Assist - Circle Entry,4,50,47,64, 35
+2018-10-31 07:42:28 +0000,0,Aiken,GS,Possession,4,50,47,52, 8
+2018-10-31 07:42:30 +0000,1,Pretorius ,GD,Penaly - Contact,4,50,47,52, 8
+2018-10-31 07:42:30 +0000,0,Aiken,GS,Goal - Score,4,50,47,52, 8
+2018-10-31 07:42:41 +0000,1,Scherian ,C,Centre Pass,4,51,47,50, 100
+2018-10-31 07:42:41 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,51,47,66, 111
+2018-10-31 07:42:44 +0000,1,Wood,GA,Assist - 2nd Phase,4,51,47,90, 126
+2018-10-31 07:42:46 +0000,1,Scherian ,C,Possession,4,51,47,61, 125
+2018-10-31 07:42:48 +0000,0,Mi Mi,C,Penaly - Contact,4,51,47,61, 125
+2018-10-31 07:42:48 +0000,1,Scherian ,C,Possession,4,51,47,61, 125
+2018-10-31 07:42:53 +0000,1,Browne,WA,Possession,4,51,47,22, 166
+2018-10-31 07:42:56 +0000,1,Browne,WA,Assist - Circle Entry,4,51,47,22, 166
+2018-10-31 07:42:56 +0000,1,Wood,GA,Goal - Score,4,51,47,35, 194
+2018-10-31 07:43:09 +0000,0,Mi Mi,C,Centre Pass,4,51,48,50, 100
+2018-10-31 07:43:09 +0000,0,Simpson,WD,Assist - Centre Pass Rec,4,51,48,69, 92
+2018-10-31 07:43:11 +0000,0,Nevins,WA,Assist - 2nd Phase,4,51,48,52, 73
+2018-10-31 07:43:13 +0000,0,Tippett,GA,Possession,4,51,48,49, 42
+2018-10-31 07:43:17 +0000,1,Scherian ,C,Penaly - Contact,4,51,48,60, 40
+2018-10-31 07:43:17 +0000,0,Mi Mi,C,Possession,4,51,48,60, 40
+2018-10-31 07:43:26 +0000,0,Mi Mi,C,Assist - Circle Entry,4,51,48,60, 40
+2018-10-31 07:43:26 +0000,0,Aiken,GS,Goal - Score,4,51,48,43, 14
+2018-10-31 07:43:34 +0000,1,Scherian ,C,Centre Pass,4,52,48,50, 100
+2018-10-31 07:43:34 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,52,48,26, 120
+2018-10-31 07:44:11 +0000,0,Hinchliffe,GD,Penaly - Contact,4,52,48,51, 132
+2018-10-31 07:44:11 +0000,1,Mikaere,WD,Assist - 2nd Phase,4,52,48,51, 132
+2018-10-31 07:44:18 +0000,1,Browne,WA,Possession,4,52,48,49, 146
+2018-10-31 07:44:22 +0000,1,Wood,GA,Possession,4,52,48,14, 191
+2018-10-31 07:44:25 +0000,1,Wood,GA,Assist - Circle Entry,4,52,48,14, 191
+2018-10-31 07:44:25 +0000,1,Bassett,GS,Possession,4,52,48,34, 196
+2018-10-31 07:44:28 +0000,0,Clemesha,GK,Penaly - Contact,4,52,48,34, 196
+2018-10-31 07:44:28 +0000,1,Bassett,GS,Goal - Score,4,52,48,34, 196
+2018-10-31 07:44:39 +0000,0,Mi Mi,C,Centre Pass,4,52,49,50, 100
+2018-10-31 07:44:39 +0000,0,Hinchliffe,GD,Assist - Centre Pass Rec,4,52,49,93, 94
+2018-10-31 07:44:47 +0000,0,Simpson,WD,Assist - 2nd Phase,4,52,49,76, 117
+2018-10-31 07:44:49 +0000,0,Mi Mi,C,Possession,4,52,49,69, 78
+2018-10-31 07:44:52 +0000,0,Hinchliffe,GD,Possession,4,52,49,95, 90
+2018-10-31 07:44:54 +0000,0,Nevins,WA,Possession,4,52,49,79, 59
+2018-10-31 07:45:25 +0000,0,Aiken,GS,Possession,4,52,49,59, 43
+2018-10-31 07:45:27 +0000,0,Aiken,GS,Assist - Circle Entry,4,52,49,59, 43
+2018-10-31 07:45:27 +0000,0,Tippett,GA,Goal - Score,4,52,49,49, 8
+2018-10-31 07:45:35 +0000,1,Scherian ,C,Centre Pass,4,53,49,50, 100
+2018-10-31 07:45:35 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,53,49,29, 122
+2018-10-31 07:45:36 +0000,1,Wood,GA,Assist - 2nd Phase,4,53,49,16, 147
+2018-10-31 07:45:38 +0000,1,Scherian ,C,Possession,4,53,49,34, 140
+2018-10-31 07:45:41 +0000,1,Browne,WA,Possession,4,53,49,32, 165
+2018-10-31 07:46:15 +0000,1,Mikaere,WD,Possession,4,53,49,60, 131
+2018-10-31 07:46:25 +0000,1,Wood,GA,Possession,4,53,49,79, 179
+2018-10-31 07:46:30 +0000,1,Scherian ,C,Possession,4,53,49,14, 188
+2018-10-31 07:47:01 +0000,0,Mi Mi,C,Deflect,4,53,49,85, 186
+2018-10-31 07:47:01 +0000,1,Browne,WA,Throw In,4,53,49,108, 190
+2018-10-31 07:47:12 +0000,1,Scherian ,C,Possession,4,53,49,23, 150
+2018-10-31 07:47:15 +0000,1,Wood,GA,Possession,4,53,49,41, 167
+2018-10-31 07:47:18 +0000,1,Scherian ,C,Possession,4,53,49,21, 180
+2018-10-31 07:47:23 +0000,1,Scherian ,C,Assist - Circle Entry,4,53,49,21, 180
+2018-10-31 07:47:23 +0000,1,Wood,GA,Possession,4,53,49,56, 193
+2018-10-31 07:47:26 +0000,0,Clemesha,GK,Penaly - Contact,4,53,49,56, 193
+2018-10-31 07:47:26 +0000,1,Wood,GA,Goal - Score,4,53,49,56, 193
+2018-10-31 07:47:38 +0000,0,Mi Mi,C,Centre Pass,4,53,50,50, 100
+2018-10-31 07:47:38 +0000,0,Simpson,WD,Assist - Centre Pass Rec,4,53,50,27, 81
+2018-10-31 07:47:45 +0000,0,Aiken,GS,Assist - 2nd Phase,4,53,50,11, 19
+2018-10-31 07:47:47 +0000,0,Nevins,WA,Possession,4,53,50,11, 47
+2018-10-31 07:47:51 +0000,0,Simpson,WD,Possession,4,53,50,17, 74
+2018-10-31 07:47:53 +0000,0,Tippett,GA,Possession,4,53,50,25, 52
+2018-10-31 07:47:55 +0000,0,Mi Mi,C,Possession,4,53,50,51, 51
+2018-10-31 07:47:57 +0000,0,Nevins,WA,Possession,4,53,50,67, 33
+2018-10-31 07:48:02 +0000,0,Nevins,WA,Assist - Circle Entry,4,53,50,67, 33
+2018-10-31 07:48:03 +0000,0,Aiken,GS,Goal - Score,4,53,50,50, 9
+2018-10-31 07:48:13 +0000,1,Scherian ,C,Centre Pass,4,54,50,50, 100
+2018-10-31 07:48:14 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,54,50,25, 123
+2018-10-31 07:48:20 +0000,0,Hinchliffe,GD,Penaly - Contact,4,54,50,42, 157
+2018-10-31 07:48:20 +0000,1,Browne,WA,Assist - 2nd Phase,4,54,50,42, 157
+2018-10-31 07:48:35 +0000,1,Browne,WA,Assist - Circle Entry,4,54,50,42, 157
+2018-10-31 07:48:35 +0000,1,Wood,GA,Possession,4,54,50,45, 184
+2018-10-31 07:48:37 +0000,0,Clemesha,GK,Penaly - Contact,4,54,50,45, 184
+2018-10-31 07:48:37 +0000,1,Wood,GA,Goal - Score,4,54,50,45, 184
+2018-10-31 07:48:47 +0000,0,Mi Mi,C,Centre Pass,4,54,51,50, 100
+2018-10-31 07:48:47 +0000,0,Simpson,WD,Assist - Centre Pass Rec,4,54,51,22, 88
+2018-10-31 07:49:00 +0000,1,Pretorius ,GD,Penaly - Contact,4,54,51,25, 52
+2018-10-31 07:49:00 +0000,0,Nevins,WA,Assist - 2nd Phase,4,54,51,25, 52
+2018-10-31 07:49:07 +0000,1,,UNKNOWN,Penaly - Contact,4,54,51,80, 40
+2018-10-31 07:49:07 +0000,0,Tippett,GA,Possession,4,54,51,80, 40
+2018-10-31 07:49:13 +0000,1,Pretorius ,GD,Penaly - Contact,4,54,51,66, 36
+2018-10-31 07:49:14 +0000,0,Nevins,WA,Possession,4,54,51,66, 36
+2018-10-31 07:49:28 +0000,0,Nevins,WA,Assist - Circle Entry,4,54,51,66, 36
+2018-10-31 07:49:28 +0000,0,Aiken,GS,Goal - Score,4,54,51,46, 6
+2018-10-31 07:49:34 +0000,1,Scherian ,C,Centre Pass,4,55,51,50, 100
+2018-10-31 07:49:34 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,55,51,78, 124
+2018-10-31 07:49:38 +0000,1,Wood,GA,Assist - Circle Entry,4,55,51,78, 124
+2018-10-31 07:49:38 +0000,1,Bassett,GS,Goal - Score,4,55,51,49, 194
+2018-10-31 07:49:45 +0000,0,Mi Mi,C,Centre Pass,4,55,52,50, 100
+2018-10-31 07:49:45 +0000,0,Tippett,GA,Assist - Centre Pass Rec,4,55,52,84, 78
+2018-10-31 07:49:49 +0000,0,Tippett,GA,Assist - Circle Entry,4,55,52,84, 78
+2018-10-31 07:49:49 +0000,0,Aiken,GS,Goal - Miss,4,55,52,74, 10
+2018-10-31 07:49:56 +0000,1,Mentor,GK,Throw In,4,55,52,50, -2
+2018-10-31 07:50:05 +0000,1,Pretorius ,GD,Possession,4,55,52,16, 21
+2018-10-31 07:50:12 +0000,0,Simpson,WD,Gain - Inter,4,55,52,92, 100
+2018-10-31 07:50:28 +0000,1,Pretorius ,GD,Gain - Inter,4,55,52,57, 39
+2018-10-31 07:50:35 +0000,0,Aiken,GS,Penaly - Contact,4,55,52,57, 39
+2018-10-31 07:50:35 +0000,1,Pretorius ,GD,Possession,4,55,52,57, 39

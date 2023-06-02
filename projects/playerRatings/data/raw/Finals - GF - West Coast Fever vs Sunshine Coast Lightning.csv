@@ -1,0 +1,1678 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-12-20 00:25:26 +0000,1,Scherian ,C,Centre Pass,1,0,0,50, 100
+2018-12-20 00:25:26 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,1,0,0,74, 87
+2018-12-20 00:25:29 +0000,1,Scherian ,C,Assist - 2nd Phase,1,0,0,57, 82
+2018-12-20 00:25:31 +0000,1,McAuliffe,WD,Possession,1,0,0,48, 117
+2018-12-20 00:25:34 +0000,1,Wood,GA,Possession,1,0,0,44, 126
+2018-12-20 00:25:37 +0000,1,Scherian ,C,Possession,1,0,0,79, 115
+2018-12-20 00:25:39 +0000,1,Browne,WA,Possession,1,0,0,90, 147
+2018-12-20 00:25:41 +0000,1,Wood,GA,Possession,1,0,0,65, 142
+2018-12-20 00:25:43 +0000,1,Browne,WA,Possession,1,0,0,75, 142
+2018-12-20 00:25:45 +0000,1,Pretorius ,GD,Possession,1,0,0,64, 131
+2018-12-20 00:25:48 +0000,1,Browne,WA,Possession,1,0,0,58, 146
+2018-12-20 00:25:50 +0000,1,Scherian ,C,Possession,1,0,0,22, 172
+2018-12-20 00:25:53 +0000,1,Pretorius ,GD,Possession,1,0,0,29, 131
+2018-12-20 00:25:55 +0000,1,Scherian ,C,Possession,1,0,0,18, 149
+2018-12-20 00:25:58 +0000,1,McAuliffe,WD,Possession,1,0,0,49, 130
+2018-12-20 00:26:03 +0000,0,Medhurst,GA,Penaly - Contact,1,0,0,25, 129
+2018-12-20 00:26:03 +0000,1,Pretorius ,GD,Possession,1,0,0,25, 129
+2018-12-20 00:26:08 +0000,1,Browne,WA,Possession,1,0,0,34, 149
+2018-12-20 00:26:13 +0000,1,Wood,GA,Possession,1,0,0,74, 156
+2018-12-20 00:26:46 +0000,0,Anstiss,WD,Penaly - Contact,1,0,0,74, 156
+2018-12-20 00:26:46 +0000,1,Browne,WA,Possession,1,0,0,74, 156
+2018-12-20 00:26:52 +0000,1,Browne,WA,Assist - Circle Entry,1,0,0,74, 156
+2018-12-20 00:26:52 +0000,1,Wood,GA,Possession,1,0,0,67, 179
+2018-12-20 00:26:54 +0000,1,Browne,WA,Possession,1,0,0,86, 190
+2018-12-20 00:26:57 +0000,1,Browne,WA,Assist - Circle Entry,1,0,0,86, 190
+2018-12-20 00:26:57 +0000,1,Bassett,GS,Goal - Score,1,0,0,49, 191
+2018-12-20 00:27:02 +0000,0,Charles,C,Centre Pass,1,0,1,50, 100
+2018-12-20 00:27:02 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,0,1,85, 73
+2018-12-20 00:27:04 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,0,1,91, 47
+2018-12-20 00:27:07 +0000,0,Medhurst,GA,Assist - Circle Entry,1,0,1,91, 47
+2018-12-20 00:27:07 +0000,0,Fowler,GS,Possession,1,0,1,62, 16
+2018-12-20 00:27:08 +0000,0,Charles,C,Possession,1,0,1,81, 18
+2018-12-20 00:27:11 +0000,0,Charles,C,Assist - Circle Entry,1,0,1,81, 18
+2018-12-20 00:27:11 +0000,0,Fowler,GS,Goal - Score,1,0,1,55, 6
+2018-12-20 00:27:18 +0000,1,Scherian ,C,Centre Pass,1,1,1,50, 100
+2018-12-20 00:27:18 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,1,1,86, 113
+2018-12-20 00:27:20 +0000,1,McAuliffe,WD,Assist - 2nd Phase,1,1,1,64, 107
+2018-12-20 00:27:23 +0000,0,Medhurst,GA,Penaly - Contact,1,1,1,64, 107
+2018-12-20 00:27:23 +0000,1,McAuliffe,WD,Possession,1,1,1,64, 107
+2018-12-20 00:27:28 +0000,1,Scherian ,C,Possession,1,1,1,39, 127
+2018-12-20 00:27:30 +0000,1,Wood,GA,Possession,1,1,1,63, 151
+2018-12-20 00:27:33 +0000,1,Scherian ,C,Possession,1,1,1,58, 158
+2018-12-20 00:27:35 +0000,0,Charles,C,Penaly - Contact,1,1,1,58, 158
+2018-12-20 00:27:35 +0000,1,Scherian ,C,Possession,1,1,1,58, 158
+2018-12-20 00:27:40 +0000,1,Scherian ,C,Assist - Circle Entry,1,1,1,58, 158
+2018-12-20 00:27:40 +0000,1,Wood,GA,Possession,1,1,1,57, 175
+2018-12-20 00:27:45 +0000,1,Bassett,GS,Goal - Score,1,1,1,42, 189
+2018-12-20 00:27:56 +0000,0,Charles,C,Centre Pass,1,1,2,50, 100
+2018-12-20 00:27:56 +0000,0,Francis,GD,Assist - Centre Pass Rec,1,1,2,35, 118
+2018-12-20 00:27:58 +0000,0,Charles,C,Assist - 2nd Phase,1,1,2,60, 128
+2018-12-20 00:28:00 +0000,0,Anstiss,WD,Possession,1,1,2,48, 110
+2018-12-20 00:28:04 +0000,0,Colyer ,WA,Possession,1,1,2,37, 91
+2018-12-20 00:28:06 +0000,0,Medhurst,GA,Possession,1,1,2,16, 53
+2018-12-20 00:28:13 +0000,0,Charles,C,Possession,1,1,2,15, 12
+2018-12-20 00:28:17 +0000,0,Charles,C,Assist - Circle Entry,1,1,2,15, 12
+2018-12-20 00:28:17 +0000,0,Fowler,GS,Goal - Score,1,1,2,49, 8
+2018-12-20 00:28:26 +0000,1,Scherian ,C,Centre Pass,1,2,2,50, 100
+2018-12-20 00:28:26 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,2,2,55, 118
+2018-12-20 00:28:28 +0000,1,Wood,GA,Assist - Circle Entry,1,2,2,55, 118
+2018-12-20 00:28:29 +0000,1,Bassett,GS,Goal - Score,1,2,2,58, 194
+2018-12-20 00:28:38 +0000,0,Charles,C,Centre Pass,1,2,3,50, 100
+2018-12-20 00:28:39 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,2,3,29, 91
+2018-12-20 00:28:40 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,2,3,50, 73
+2018-12-20 00:28:46 +0000,0,Anstiss,WD,Possession,1,2,3,86, 72
+2018-12-20 00:28:48 +0000,0,Charles,C,Possession,1,2,3,76, 57
+2018-12-20 00:28:53 +0000,0,Medhurst,GA,Possession,1,2,3,60, 49
+2018-12-20 00:28:54 +0000,1,Pretorius ,GD,Penaly - Contact,1,2,3,60, 49
+2018-12-20 00:28:54 +0000,0,Charles,C,Possession,1,2,3,60, 49
+2018-12-20 00:28:59 +0000,0,Charles,C,Assist - Circle Entry,1,2,3,60, 49
+2018-12-20 00:28:59 +0000,0,Fowler,GS,Goal - Score,1,2,3,47, 8
+2018-12-20 00:29:08 +0000,1,Scherian ,C,Centre Pass,1,3,3,50, 100
+2018-12-20 00:29:08 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,3,3,40, 111
+2018-12-20 00:29:10 +0000,1,Wood,GA,Assist - 2nd Phase,1,3,3,20, 130
+2018-12-20 00:29:14 +0000,1,McAuliffe,WD,Possession,1,3,3,8, 122
+2018-12-20 00:29:16 +0000,1,Pretorius ,GD,Possession,1,3,3,39, 100
+2018-12-20 00:29:20 +0000,1,McAuliffe,WD,Possession,1,3,3,17, 117
+2018-12-20 00:29:24 +0000,1,Pretorius ,GD,Possession,1,3,3,37, 120
+2018-12-20 00:29:26 +0000,1,Wood,GA,Possession,1,3,3,56, 123
+2018-12-20 00:29:28 +0000,1,Browne,WA,Possession,1,3,3,85, 128
+2018-12-20 00:29:32 +0000,1,Browne,WA,Assist - Circle Entry,1,3,3,85, 128
+2018-12-20 00:29:33 +0000,1,Bassett,GS,Goal - Score,1,3,3,48, 193
+2018-12-20 00:29:40 +0000,0,Charles,C,Centre Pass,1,3,4,50, 100
+2018-12-20 00:29:40 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,3,4,78, 76
+2018-12-20 00:29:43 +0000,0,Medhurst,GA,Loss - Drop,1,3,4,62, 63
+2018-12-20 00:29:49 +0000,1,Pretorius ,GD,Gain - Pick-up,1,3,4,53, 61
+2018-12-20 00:29:55 +0000,1,Browne,WA,Possession,1,3,4,50, 78
+2018-12-20 00:29:59 +0000,1,Wood,GA,Possession,1,3,4,58, 110
+2018-12-20 00:30:07 +0000,1,Scherian ,C,Possession,1,3,4,23, 169
+2018-12-20 00:30:09 +0000,1,Wood,GA,Possession,1,3,4,40, 162
+2018-12-20 00:30:13 +0000,1,Scherian ,C,Possession,1,3,4,37, 168
+2018-12-20 00:30:15 +0000,1,McAuliffe,WD,Possession,1,3,4,40, 129
+2018-12-20 00:30:17 +0000,1,Scherian ,C,Possession,1,3,4,46, 157
+2018-12-20 00:30:19 +0000,1,Wood,GA,Possession,1,3,4,28, 169
+2018-12-20 00:30:24 +0000,1,Wood,GA,Assist - Circle Entry,1,3,4,28, 169
+2018-12-20 00:30:24 +0000,1,Bassett,GS,Possession,1,3,4,56, 182
+2018-12-20 00:30:26 +0000,1,Browne,WA,Possession,1,3,4,83, 182
+2018-12-20 00:30:29 +0000,1,Browne,WA,Assist - Circle Entry,1,3,4,83, 182
+2018-12-20 00:30:29 +0000,1,Bassett,GS,Possession,1,3,4,59, 192
+2018-12-20 00:30:31 +0000,0,Bruce,GK,Penaly - Contact,1,3,4,59, 192
+2018-12-20 00:30:31 +0000,1,Bassett,GS,Goal - Score,1,3,4,59, 192
+2018-12-20 00:30:41 +0000,1,Scherian ,C,Centre Pass,1,3,5,50, 100
+2018-12-20 00:30:41 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,3,5,93, 118
+2018-12-20 00:30:43 +0000,1,Browne,WA,Assist - 2nd Phase,1,3,5,91, 143
+2018-12-20 00:30:48 +0000,0,Anstiss,WD,Penaly - Contact,1,3,5,91, 143
+2018-12-20 00:30:48 +0000,1,Browne,WA,Possession,1,3,5,91, 143
+2018-12-20 00:31:00 +0000,1,Wood,GA,Possession,1,3,5,75, 155
+2018-12-20 00:31:02 +0000,1,Browne,WA,Possession,1,3,5,65, 143
+2018-12-20 00:31:05 +0000,1,McAuliffe,WD,Possession,1,3,5,30, 130
+2018-12-20 00:31:07 +0000,1,Browne,WA,Possession,1,3,5,44, 143
+2018-12-20 00:31:10 +0000,1,Wood,GA,Possession,1,3,5,65, 150
+2018-12-20 00:31:12 +0000,1,Wood,GA,Assist - Circle Entry,1,3,5,65, 150
+2018-12-20 00:31:12 +0000,1,Bassett,GS,Possession,1,3,5,57, 179
+2018-12-20 00:31:14 +0000,1,Browne,WA,Possession,1,3,5,86, 189
+2018-12-20 00:31:23 +0000,0,Anstiss,WD,Penaly - Contact,1,3,5,86, 189
+2018-12-20 00:31:23 +0000,1,Browne,WA,Possession,1,3,5,86, 189
+2018-12-20 00:31:28 +0000,1,Browne,WA,Assist - Circle Entry,1,3,5,86, 189
+2018-12-20 00:31:28 +0000,1,Wood,GA,Goal - Score,1,3,5,57, 190
+2018-12-20 00:31:37 +0000,0,Charles,C,Centre Pass,1,3,6,50, 100
+2018-12-20 00:31:37 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,1,3,6,89, 74
+2018-12-20 00:31:40 +0000,0,Charles,C,Assist - 2nd Phase,1,3,6,79, 47
+2018-12-20 00:31:43 +0000,0,Charles,C,Assist - Circle Entry,1,3,6,79, 47
+2018-12-20 00:31:43 +0000,0,Fowler,GS,Possession,1,3,6,37, 19
+2018-12-20 00:31:45 +0000,0,Colyer ,WA,Possession,1,3,6,25, 25
+2018-12-20 00:31:47 +0000,0,Colyer ,WA,Assist - Circle Entry,1,3,6,25, 25
+2018-12-20 00:31:47 +0000,0,Medhurst,GA,Possession,1,3,6,34, 3
+2018-12-20 00:31:51 +0000,0,Fowler,GS,Goal - Score,1,3,6,50, 6
+2018-12-20 00:31:58 +0000,1,Scherian ,C,Centre Pass,1,4,6,50, 100
+2018-12-20 00:31:58 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,4,6,64, 114
+2018-12-20 00:32:01 +0000,1,Pretorius ,GD,Assist - 2nd Phase,1,4,6,82, 105
+2018-12-20 00:32:05 +0000,0,Charles,C,Deflect,1,4,6,95, 124
+2018-12-20 00:32:05 +0000,1,Pretorius ,GD,Throw In,1,4,6,103, 126
+2018-12-20 00:54:59 +0000,1,Scherian ,C,Possession,1,4,6,46, 144
+2018-12-20 00:55:46 +0000,1,Bassett,GS,Loss - Stopped Lead,1,4,6,51, 178
+2018-12-20 00:55:59 +0000,0,Bruce,GK,Throw In,1,4,6,57, 206
+2018-12-20 00:56:14 +0000,0,Francis,GD,Possession,1,4,6,47, 176
+2018-12-20 00:56:25 +0000,0,Charles,C,Possession,1,4,6,63, 124
+2018-12-20 00:56:28 +0000,0,Medhurst,GA,Possession,1,4,6,91, 75
+2018-12-20 00:56:30 +0000,0,Colyer ,WA,Possession,1,4,6,72, 80
+2018-12-20 00:56:32 +0000,0,Anstiss,WD,Possession,1,4,6,40, 86
+2018-12-20 00:56:35 +0000,0,Francis,GD,Possession,1,4,6,59, 113
+2018-12-20 00:56:37 +0000,0,Colyer ,WA,Possession,1,4,6,90, 72
+2018-12-20 00:56:40 +0000,0,Medhurst,GA,Possession,1,4,6,75, 66
+2018-12-20 00:56:46 +0000,0,Medhurst,GA,Assist - Circle Entry,1,4,6,75, 66
+2018-12-20 00:56:46 +0000,0,Fowler,GS,Possession,1,4,6,63, 17
+2018-12-20 00:56:49 +0000,0,Anstiss,WD,Possession,1,4,6,66, 70
+2018-12-20 00:56:51 +0000,0,Medhurst,GA,Possession,1,4,6,27, 31
+2018-12-20 00:56:53 +0000,0,Colyer ,WA,Possession,1,4,6,86, 6
+2018-12-20 00:56:58 +0000,1,Pretorius ,GD,Gain - Inter,1,4,6,83, 7
+2018-12-20 00:57:03 +0000,1,McAuliffe,WD,Possession,1,4,6,77, 54
+2018-12-20 00:57:11 +0000,1,Scherian ,C,Possession,1,4,6,14, 80
+2018-12-20 00:57:13 +0000,1,Browne,WA,Possession,1,4,6,14, 110
+2018-12-20 00:57:15 +0000,1,Pretorius ,GD,Possession,1,4,6,30, 90
+2018-12-20 00:57:19 +0000,0,Colyer ,WA,Deflect,1,4,6,19, 106
+2018-12-20 00:57:20 +0000,1,Pretorius ,GD,Possession,1,4,6,21, 88
+2018-12-20 00:57:27 +0000,1,Wood,GA,Loss - Step,1,4,6,69, 89
+2018-12-20 00:57:32 +0000,0,Francis,GD,Possession,1,4,6,70, 90
+2018-12-20 00:57:47 +0000,0,Medhurst,GA,Possession,1,4,6,27, 51
+2018-12-20 00:57:50 +0000,0,Colyer ,WA,Possession,1,4,6,12, 38
+2018-12-20 00:57:52 +0000,0,Medhurst,GA,Possession,1,4,6,23, 32
+2018-12-20 00:57:54 +0000,0,Charles,C,Possession,1,4,6,42, 41
+2018-12-20 00:57:56 +0000,0,Charles,C,Assist - Circle Entry,1,4,6,42, 41
+2018-12-20 00:57:56 +0000,0,Fowler,GS,Goal - Score,1,4,6,55, 7
+2018-12-20 00:58:09 +0000,0,Charles,C,Centre Pass,1,5,6,50, 100
+2018-12-20 00:58:09 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,5,6,81, 75
+2018-12-20 00:58:11 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,5,6,85, 55
+2018-12-20 00:58:13 +0000,0,Charles,C,Possession,1,5,6,84, 17
+2018-12-20 00:58:25 +0000,1,Pretorius ,GD,Penaly - Obstruction,1,5,6,73, 13
+2018-12-20 00:58:25 +0000,0,Medhurst,GA,Possession,1,5,6,73, 13
+2018-12-20 00:58:36 +0000,0,Fowler,GS,Goal - Score,1,5,6,47, 10
+2018-12-20 00:58:48 +0000,1,Scherian ,C,Centre Pass,1,6,6,50, 100
+2018-12-20 00:58:48 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,1,6,6,66, 82
+2018-12-20 00:58:49 +0000,1,McAuliffe,WD,Assist - 2nd Phase,1,6,6,45, 89
+2018-12-20 00:58:51 +0000,1,Scherian ,C,Possession,1,6,6,15, 115
+2018-12-20 00:58:53 +0000,1,Wood,GA,Possession,1,6,6,71, 127
+2018-12-20 00:58:55 +0000,1,Scherian ,C,Possession,1,6,6,75, 152
+2018-12-20 00:58:59 +0000,0,Francis,GD,Deflect,1,6,6,68, 196
+2018-12-20 00:58:59 +0000,1,Wood,GA,Throw In,1,6,6,65, 205
+2018-12-20 00:59:08 +0000,1,Browne,WA,Possession,1,6,6,79, 180
+2018-12-20 00:59:13 +0000,1,Browne,WA,Assist - Circle Entry,1,6,6,79, 180
+2018-12-20 00:59:13 +0000,0,Bruce,GK,Gain - Tip (Deflect),1,6,6,70, 188
+2018-12-20 00:59:17 +0000,0,Anstiss,WD,Possession,1,6,6,93, 191
+2018-12-20 00:59:21 +0000,0,Bruce,GK,Possession,1,6,6,73, 186
+2018-12-20 00:59:22 +0000,0,Anstiss,WD,Possession,1,6,6,87, 178
+2018-12-20 00:59:25 +0000,0,Bruce,GK,Possession,1,6,6,53, 175
+2018-12-20 00:59:28 +0000,0,Charles,C,Possession,1,6,6,59, 151
+2018-12-20 00:59:32 +0000,0,Anstiss,WD,Possession,1,6,6,85, 79
+2018-12-20 00:59:39 +0000,0,Charles,C,Possession,1,6,6,65, 71
+2018-12-20 00:59:43 +0000,0,Fowler,GS,Possession,1,6,6,28, 26
+2018-12-20 00:59:45 +0000,0,Charles,C,Possession,1,6,6,23, 23
+2018-12-20 00:59:49 +0000,0,Colyer ,WA,Possession,1,6,6,71, 53
+2018-12-20 00:59:52 +0000,0,Colyer ,WA,Assist - Circle Entry,1,6,6,71, 53
+2018-12-20 00:59:52 +0000,0,Fowler,GS,Goal - Score,1,6,6,43, 5
+2018-12-20 01:00:01 +0000,0,Charles,C,Centre Pass,1,7,6,50, 100
+2018-12-20 01:00:01 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,1,7,6,74, 78
+2018-12-20 01:00:03 +0000,0,Colyer ,WA,Assist - 2nd Phase,1,7,6,64, 52
+2018-12-20 01:00:05 +0000,1,Scherian ,C,Penaly - Contact,1,7,6,64, 52
+2018-12-20 01:00:05 +0000,0,Colyer ,WA,Possession,1,7,6,64, 52
+2018-12-20 01:00:09 +0000,0,Charles,C,Possession,1,7,6,51, 34
+2018-12-20 01:00:12 +0000,0,Charles,C,Assist - Circle Entry,1,7,6,51, 34
+2018-12-20 01:00:12 +0000,0,Fowler,GS,Goal - Score,1,7,6,46, 7
+2018-12-20 01:00:20 +0000,1,Scherian ,C,Centre Pass,1,8,6,50, 100
+2018-12-20 01:00:21 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,8,6,96, 117
+2018-12-20 01:00:23 +0000,1,Wood,GA,Assist - 2nd Phase,1,8,6,75, 127
+2018-12-20 01:00:26 +0000,1,Browne,WA,Possession,1,8,6,86, 137
+2018-12-20 01:00:27 +0000,1,Scherian ,C,Possession,1,8,6,83, 175
+2018-12-20 01:00:30 +0000,1,Scherian ,C,Assist - Circle Entry,1,8,6,83, 175
+2018-12-20 01:00:30 +0000,1,Bassett,GS,Goal - Score,1,8,6,47, 191
+2018-12-20 01:00:39 +0000,0,Charles,C,Centre Pass,1,8,7,50, 100
+2018-12-20 01:00:39 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,1,8,7,71, 90
+2018-12-20 01:00:41 +0000,0,Colyer ,WA,Assist - 2nd Phase,1,8,7,86, 39
+2018-12-20 01:00:45 +0000,0,Colyer ,WA,Assist - Circle Entry,1,8,7,86, 39
+2018-12-20 01:00:45 +0000,0,Medhurst,GA,Loss - Bad Pass,1,8,7,29, 11
+2018-12-20 01:00:50 +0000,1,Mentor,GK,Gain - Tip (Deflect),1,8,7,45, 10
+2018-12-20 01:00:55 +0000,1,Scherian ,C,Possession,1,8,7,23, 31
+2018-12-20 01:01:08 +0000,1,Mentor,GK,Possession,1,8,7,88, 46
+2018-12-20 01:01:10 +0000,1,Pretorius ,GD,Possession,1,8,7,65, 57
+2018-12-20 01:01:14 +0000,0,Anstiss,WD,Gain - Tip (Deflect),1,8,7,72, 111
+2018-12-20 01:01:19 +0000,0,Charles,C,Possession,1,8,7,39, 114
+2018-12-20 01:01:23 +0000,0,Anstiss,WD,Possession,1,8,7,26, 84
+2018-12-20 01:01:25 +0000,0,Medhurst,GA,Possession,1,8,7,21, 68
+2018-12-20 01:01:27 +0000,0,Anstiss,WD,Possession,1,8,7,20, 82
+2018-12-20 01:01:29 +0000,0,Charles,C,Possession,1,8,7,14, 60
+2018-12-20 01:01:33 +0000,0,Colyer ,WA,Possession,1,8,7,21, 41
+2018-12-20 01:01:35 +0000,0,Colyer ,WA,Assist - Circle Entry,1,8,7,21, 41
+2018-12-20 01:01:35 +0000,0,Fowler,GS,Possession,1,8,7,27, 11
+2018-12-20 01:01:37 +0000,0,Charles,C,Possession,1,8,7,38, 34
+2018-12-20 01:01:42 +0000,0,Charles,C,Assist - Circle Entry,1,8,7,38, 34
+2018-12-20 01:01:42 +0000,0,Medhurst,GA,Possession,1,8,7,33, 22
+2018-12-20 01:01:44 +0000,0,Charles,C,Possession,1,8,7,38, 34
+2018-12-20 01:01:46 +0000,0,Charles,C,Assist - Circle Entry,1,8,7,38, 34
+2018-12-20 01:01:46 +0000,0,Medhurst,GA,Possession,1,8,7,45, 20
+2018-12-20 01:01:51 +0000,1,Mentor,GK,Penaly - Obstruction,1,8,7,45, 20
+2018-12-20 01:01:51 +0000,0,Medhurst,GA,Goal - Score,1,8,7,45, 20
+2018-12-20 01:02:02 +0000,1,Scherian ,C,Centre Pass,1,9,7,50, 100
+2018-12-20 01:02:02 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,9,7,69, 115
+2018-12-20 01:02:04 +0000,1,Wood,GA,Assist - 2nd Phase,1,9,7,90, 126
+2018-12-20 01:02:06 +0000,1,Scherian ,C,Possession,1,9,7,79, 151
+2018-12-20 01:02:07 +0000,1,Wood,GA,Possession,1,9,7,93, 164
+2018-12-20 01:02:10 +0000,1,Scherian ,C,Possession,1,9,7,80, 171
+2018-12-20 01:02:15 +0000,1,Browne,WA,Possession,1,9,7,18, 190
+2018-12-20 01:02:18 +0000,1,McAuliffe,WD,Possession,1,9,7,25, 129
+2018-12-20 01:02:20 +0000,1,Browne,WA,Possession,1,9,7,45, 152
+2018-12-20 01:02:25 +0000,1,Browne,WA,Assist - Circle Entry,1,9,7,45, 152
+2018-12-20 01:02:25 +0000,1,Wood,GA,Possession,1,9,7,52, 176
+2018-12-20 01:02:27 +0000,1,Bassett,GS,Goal - Score,1,9,7,47, 188
+2018-12-20 01:02:37 +0000,0,Charles,C,Centre Pass,1,9,8,50, 100
+2018-12-20 01:02:37 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,9,8,85, 80
+2018-12-20 01:02:39 +0000,0,Charles,C,Assist - 2nd Phase,1,9,8,60, 71
+2018-12-20 01:02:41 +0000,0,Fowler,GS,Possession,1,9,8,27, 27
+2018-12-20 01:02:43 +0000,0,Colyer ,WA,Possession,1,9,8,27, 29
+2018-12-20 01:02:46 +0000,0,Colyer ,WA,Assist - Circle Entry,1,9,8,27, 29
+2018-12-20 01:02:46 +0000,0,Fowler,GS,Possession,1,9,8,47, 5
+2018-12-20 01:02:47 +0000,1,Mentor,GK,Penaly - Contact,1,9,8,47, 5
+2018-12-20 01:02:47 +0000,0,Fowler,GS,Goal - Score,1,9,8,47, 5
+2018-12-20 01:02:58 +0000,1,,UNKNOWN,Timeout,1,10,8,-10, -22
+2018-12-20 01:05:17 +0000,1,Scherian ,C,Centre Pass,1,10,8,50, 100
+2018-12-20 01:05:17 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,10,8,65, 111
+2018-12-20 01:05:19 +0000,1,Browne,WA,Assist - 2nd Phase,1,10,8,95, 122
+2018-12-20 01:05:21 +0000,1,Pretorius ,GD,Possession,1,10,8,89, 100
+2018-12-20 01:05:23 +0000,1,Browne,WA,Possession,1,10,8,72, 115
+2018-12-20 01:05:26 +0000,1,McAuliffe,WD,Possession,1,10,8,26, 120
+2018-12-20 01:05:42 +0000,1,McAuliffe,WD,Assist - Circle Entry,1,10,8,26, 120
+2018-12-20 01:05:42 +0000,0,Francis,GD,Gain - Tip (Deflect),1,10,8,44, 187
+2018-12-20 01:05:48 +0000,0,Bruce,GK,Loss - Out of Court,1,10,8,45, 199
+2018-12-20 01:05:54 +0000,1,Wood,GA,Possession,1,10,8,47, 199
+2018-12-20 01:06:02 +0000,1,Browne,WA,Possession,1,10,8,37, 168
+2018-12-20 01:06:05 +0000,1,Browne,WA,Assist - Circle Entry,1,10,8,37, 168
+2018-12-20 01:06:05 +0000,1,Bassett,GS,Goal - Score,1,10,8,49, 193
+2018-12-20 01:06:15 +0000,0,Charles,C,Centre Pass,1,10,9,50, 100
+2018-12-20 01:06:15 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,1,10,9,85, 98
+2018-12-20 01:06:17 +0000,0,Francis,GD,Assist - 2nd Phase,1,10,9,73, 119
+2018-12-20 01:06:20 +0000,0,Charles,C,Possession,1,10,9,36, 122
+2018-12-20 01:06:22 +0000,0,Medhurst,GA,Possession,1,10,9,21, 84
+2018-12-20 01:06:26 +0000,0,Colyer ,WA,Possession,1,10,9,30, 77
+2018-12-20 01:06:27 +0000,0,Anstiss,WD,Possession,1,10,9,46, 72
+2018-12-20 01:06:33 +0000,0,Charles,C,Possession,1,10,9,39, 51
+2018-12-20 01:06:36 +0000,0,Colyer ,WA,Possession,1,10,9,18, 13
+2018-12-20 01:06:38 +0000,0,Colyer ,WA,Assist - Circle Entry,1,10,9,18, 13
+2018-12-20 01:06:38 +0000,0,Fowler,GS,Goal - Score,1,10,9,44, 8
+2018-12-20 01:06:46 +0000,1,Scherian ,C,Centre Pass,1,11,9,50, 100
+2018-12-20 01:06:46 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,11,9,76, 112
+2018-12-20 01:06:47 +0000,1,Browne,WA,Assist - 2nd Phase,1,11,9,47, 166
+2018-12-20 01:06:57 +0000,0,Bruce,GK,Penaly - Obstruction,1,11,9,47, 172
+2018-12-20 01:06:57 +0000,1,Wood,GA,Possession,1,11,9,47, 172
+2018-12-20 01:07:02 +0000,1,Browne,WA,Possession,1,11,9,20, 183
+2018-12-20 01:07:06 +0000,1,Browne,WA,Assist - Circle Entry,1,11,9,20, 183
+2018-12-20 01:07:06 +0000,1,Wood,GA,Goal - Score,1,11,9,45, 194
+2018-12-20 01:07:13 +0000,0,Charles,C,Centre Pass,1,11,10,50, 100
+2018-12-20 01:07:13 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,11,10,25, 103
+2018-12-20 01:07:16 +0000,0,Francis,GD,Assist - 2nd Phase,1,11,10,44, 123
+2018-12-20 01:07:17 +0000,0,Anstiss,WD,Possession,1,11,10,78, 115
+2018-12-20 01:07:19 +0000,0,Medhurst,GA,Possession,1,11,10,63, 115
+2018-12-20 01:07:21 +0000,0,Charles,C,Possession,1,11,10,39, 76
+2018-12-20 01:07:23 +0000,0,Francis,GD,Possession,1,11,10,15, 87
+2018-12-20 01:07:26 +0000,0,Anstiss,WD,Possession,1,11,10,52, 77
+2018-12-20 01:07:28 +0000,0,Colyer ,WA,Possession,1,11,10,45, 65
+2018-12-20 01:07:30 +0000,0,Charles,C,Possession,1,11,10,63, 55
+2018-12-20 01:07:32 +0000,0,Medhurst,GA,Possession,1,11,10,83, 36
+2018-12-20 01:07:42 +0000,0,Charles,C,Loss - Offside,1,11,10,71, 24
+2018-12-20 01:07:42 +0000,1,Mentor,GK,Possession,1,11,10,71, 24
+2018-12-20 01:07:54 +0000,1,Pretorius ,GD,Possession,1,11,10,29, 36
+2018-12-20 01:07:56 +0000,1,Scherian ,C,Possession,1,11,10,20, 63
+2018-12-20 01:07:58 +0000,1,Pretorius ,GD,Possession,1,11,10,35, 53
+2018-12-20 01:07:59 +0000,0,Fowler,GS,Penaly - Contact,1,11,10,35, 53
+2018-12-20 01:07:59 +0000,1,Pretorius ,GD,Possession,1,11,10,35, 53
+2018-12-20 01:08:05 +0000,1,Browne,WA,Possession,1,11,10,75, 78
+2018-12-20 01:08:07 +0000,1,McAuliffe,WD,Possession,1,11,10,58, 79
+2018-12-20 01:08:09 +0000,1,Pretorius ,GD,Possession,1,11,10,42, 88
+2018-12-20 01:08:11 +0000,1,Wood,GA,Possession,1,11,10,38, 115
+2018-12-20 01:08:13 +0000,1,Browne,WA,Possession,1,11,10,60, 130
+2018-12-20 01:08:15 +0000,1,Scherian ,C,Possession,1,11,10,86, 168
+2018-12-20 01:08:17 +0000,1,Scherian ,C,Assist - Circle Entry,1,11,10,86, 168
+2018-12-20 01:08:17 +0000,1,Wood,GA,Possession,1,11,10,78, 194
+2018-12-20 01:08:20 +0000,1,Scherian ,C,Possession,1,11,10,62, 167
+2018-12-20 01:08:22 +0000,1,Scherian ,C,Assist - Circle Entry,1,11,10,62, 167
+2018-12-20 01:08:22 +0000,1,Wood,GA,Possession,1,11,10,61, 180
+2018-12-20 01:08:26 +0000,1,Bassett,GS,Possession,1,11,10,57, 187
+2018-12-20 01:08:27 +0000,0,Bruce,GK,Penaly - Contact,1,11,10,57, 187
+2018-12-20 01:08:27 +0000,1,Bassett,GS,Goal - Score,1,11,10,57, 187
+2018-12-20 01:08:36 +0000,1,Scherian ,C,Centre Pass,1,11,11,50, 100
+2018-12-20 01:08:36 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,11,11,59, 120
+2018-12-20 01:08:38 +0000,1,Browne,WA,Assist - 2nd Phase,1,11,11,15, 131
+2018-12-20 01:08:40 +0000,1,Scherian ,C,Possession,1,11,11,18, 148
+2018-12-20 01:08:42 +0000,1,Wood,GA,Possession,1,11,11,18, 187
+2018-12-20 01:08:44 +0000,1,Scherian ,C,Possession,1,11,11,88, 192
+2018-12-20 01:08:49 +0000,1,Scherian ,C,Assist - Circle Entry,1,11,11,88, 192
+2018-12-20 01:08:49 +0000,1,Wood,GA,Possession,1,11,11,77, 196
+2018-12-20 01:08:51 +0000,1,Scherian ,C,Possession,1,11,11,85, 192
+2018-12-20 01:08:53 +0000,1,Scherian ,C,Assist - Circle Entry,1,11,11,85, 192
+2018-12-20 01:08:54 +0000,1,Wood,GA,Possession,1,11,11,69, 196
+2018-12-20 01:08:55 +0000,1,Scherian ,C,Possession,1,11,11,85, 193
+2018-12-20 01:08:57 +0000,1,Scherian ,C,Assist - Circle Entry,1,11,11,85, 193
+2018-12-20 01:08:57 +0000,1,Wood,GA,Possession,1,11,11,65, 195
+2018-12-20 01:09:02 +0000,0,Bruce,GK,Penaly - Obstruction,1,11,11,65, 195
+2018-12-20 01:09:02 +0000,1,Wood,GA,Goal - Score,1,11,11,65, 195
+2018-12-20 01:09:11 +0000,0,Charles,C,Centre Pass,1,11,12,50, 100
+2018-12-20 01:09:11 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,1,11,12,19, 81
+2018-12-20 01:09:13 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,11,12,18, 43
+2018-12-20 01:09:15 +0000,0,Colyer ,WA,Possession,1,11,12,14, 10
+2018-12-20 01:09:24 +0000,0,Colyer ,WA,Assist - Circle Entry,1,11,12,14, 10
+2018-12-20 01:09:24 +0000,0,Medhurst,GA,Loss - Out of Court,1,11,12,37, 1
+2018-12-20 01:09:28 +0000,1,Mentor,GK,Throw In,1,11,12,38, 1
+2018-12-20 01:09:34 +0000,1,Pretorius ,GD,Possession,1,11,12,82, 31
+2018-12-20 01:09:36 +0000,1,McAuliffe,WD,Possession,1,11,12,80, 48
+2018-12-20 01:09:39 +0000,1,Mentor,GK,Possession,1,11,12,39, 21
+2018-12-20 01:09:41 +0000,1,Scherian ,C,Possession,1,11,12,22, 43
+2018-12-20 01:09:44 +0000,1,Mentor,GK,Possession,1,11,12,45, 51
+2018-12-20 01:09:47 +0000,1,McAuliffe,WD,Possession,1,11,12,43, 81
+2018-12-20 01:09:51 +0000,1,Pretorius ,GD,Possession,1,11,12,60, 96
+2018-12-20 01:09:53 +0000,1,Browne,WA,Possession,1,11,12,82, 110
+2018-12-20 01:09:58 +0000,1,Bassett,GS,Possession,1,11,12,89, 181
+2018-12-20 01:10:00 +0000,1,Browne,WA,Possession,1,11,12,71, 168
+2018-12-20 01:10:07 +0000,1,Pretorius ,GD,Possession,1,11,12,72, 129
+2018-12-20 01:10:09 +0000,1,Browne,WA,Possession,1,11,12,79, 142
+2018-12-20 01:10:16 +0000,1,Pretorius ,GD,Possession,1,11,12,73, 130
+2018-12-20 01:10:18 +0000,1,Browne,WA,Possession,1,11,12,77, 146
+2018-12-20 01:12:25 +0000,0,Wood,UNKNOWN,Interchange - Koenen ,1,11,12,
+2018-12-20 01:12:37 +0000,1,Pretorius ,GD,Possession,1,11,12,73, 129
+2018-12-20 01:12:39 +0000,1,Browne,WA,Possession,1,11,12,88, 143
+2018-12-20 01:12:46 +0000,1,Browne,WA,Assist - Circle Entry,1,11,12,88, 143
+2018-12-20 01:12:46 +0000,1,Bassett,GS,Possession,1,11,12,71, 178
+2018-12-20 01:12:52 +0000,0,Bruce,GK,Penaly - Contact,1,11,12,49, 172
+2018-12-20 01:12:52 +0000,1,Koenen ,GA,Possession,1,11,12,49, 172
+2018-12-20 01:12:59 +0000,1,Bassett,GS,Goal - Score,1,11,12,53, 193
+2018-12-20 01:13:08 +0000,1,Scherian ,C,Centre Pass,1,11,13,50, 100
+2018-12-20 01:13:08 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,11,13,40, 112
+2018-12-20 01:13:10 +0000,1,McAuliffe,WD,Assist - 2nd Phase,1,11,13,40, 98
+2018-12-20 01:13:12 +0000,1,McAuliffe,WD,Possession,1,11,13,15, 113
+2018-12-20 01:13:14 +0000,1,Pretorius ,GD,Possession,1,11,13,41, 82
+2018-12-20 01:13:16 +0000,1,McAuliffe,WD,Possession,1,11,13,52, 116
+2018-12-20 01:13:20 +0000,1,Scherian ,C,Possession,1,11,13,88, 139
+2018-12-20 01:13:27 +0000,1,Browne,WA,Possession,1,11,13,60, 148
+2018-12-20 01:13:29 +0000,1,Koenen ,GA,Possession,1,11,13,79, 175
+2018-12-20 01:13:32 +0000,1,Browne,WA,Possession,1,11,13,71, 171
+2018-12-20 01:13:34 +0000,0,Charles,C,Penaly - Contact,1,11,13,71, 171
+2018-12-20 01:13:34 +0000,1,Browne,WA,Possession,1,11,13,71, 171
+2018-12-20 01:13:43 +0000,0,Bruce,GK,Penaly - Contact,1,11,13,60, 182
+2018-12-20 01:13:43 +0000,1,Koenen ,GA,Possession,1,11,13,60, 182
+2018-12-20 01:13:48 +0000,1,Bassett,GS,Possession,1,11,13,51, 185
+2018-12-20 01:13:48 +0000,0,Francis,GD,Penaly - Contact,1,11,13,51, 185
+2018-12-20 01:13:48 +0000,1,Bassett,GS,Goal - Score,1,11,13,51, 185
+2018-12-20 01:13:57 +0000,0,Charles,C,Centre Pass,1,11,14,50, 100
+2018-12-20 01:13:57 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,1,11,14,19, 84
+2018-12-20 01:13:59 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,11,14,13, 61
+2018-12-20 01:14:01 +0000,0,Charles,C,Possession,1,11,14,30, 32
+2018-12-20 01:14:03 +0000,0,Medhurst,GA,Possession,1,11,14,14, 24
+2018-12-20 01:14:05 +0000,0,Colyer ,WA,Possession,1,11,14,47, 34
+2018-12-20 01:14:07 +0000,0,Colyer ,WA,Assist - Circle Entry,1,11,14,47, 34
+2018-12-20 01:14:07 +0000,0,Fowler,GS,Possession,1,11,14,57, 6
+2018-12-20 01:14:09 +0000,1,Mentor,GK,Penaly - Contact,1,11,14,57, 6
+2018-12-20 01:14:09 +0000,0,Fowler,GS,Goal - Score,1,11,14,57, 6
+2018-12-20 01:14:17 +0000,1,Scherian ,C,Centre Pass,1,12,14,50, 100
+2018-12-20 01:14:18 +0000,1,Koenen ,GA,Assist - Centre Pass Rec,1,12,14,35, 127
+2018-12-20 01:14:20 +0000,1,Pretorius ,GD,Assist - 2nd Phase,1,12,14,21, 100
+2018-12-20 01:14:21 +0000,1,Scherian ,C,Possession,1,12,14,78, 105
+2018-12-20 01:14:23 +0000,1,Browne,WA,Possession,1,12,14,72, 138
+2018-12-20 01:14:25 +0000,1,Koenen ,GA,Loss - Bad Pass,1,12,14,54, 164
+2018-12-20 01:14:34 +0000,0,Bruce,GK,Throw In,1,12,14,51, 205
+2018-12-20 01:14:55 +0000,0,Francis,GD,Possession,1,12,14,73, 182
+2018-12-20 01:14:57 +0000,0,Charles,C,Possession,1,12,14,85, 149
+2018-12-20 01:14:59 +0000,0,Bruce,GK,Possession,1,12,14,36, 167
+2018-12-20 01:15:01 +0000,0,Francis,GD,Possession,1,12,14,14, 122
+2018-12-20 01:15:03 +0000,0,Anstiss,WD,Possession,1,12,14,50, 121
+2018-12-20 01:15:06 +0000,0,Charles,C,Possession,1,12,14,76, 99
+2018-12-20 01:15:10 +0000,0,Medhurst,GA,Loss - Held Ball,1,12,14,88, 77
+2018-12-20 01:15:17 +0000,1,Pretorius ,GD,Possession,1,12,14,88, 77
+2018-12-20 01:15:23 +0000,1,McAuliffe,WD,Possession,1,12,14,54, 81
+2018-12-20 01:15:26 +0000,1,Scherian ,C,Loss - Step,1,12,14,24, 92
+2018-12-20 01:15:29 +0000,0,Charles,C,Possession,1,12,14,25, 93
+2018-12-20 01:15:34 +0000,0,Anstiss,WD,Possession,1,12,14,13, 78
+2018-12-20 01:15:36 +0000,0,Colyer ,WA,Possession,1,12,14,18, 49
+2018-12-20 01:15:38 +0000,0,Colyer ,WA,Assist - Circle Entry,1,12,14,18, 49
+2018-12-20 01:15:38 +0000,0,Fowler,GS,Possession,1,12,14,26, 8
+2018-12-20 01:15:40 +0000,0,Charles,C,Possession,1,12,14,82, 17
+2018-12-20 01:15:44 +0000,0,Charles,C,Assist - Circle Entry,1,12,14,82, 17
+2018-12-20 01:15:44 +0000,0,Medhurst,GA,Goal - Miss,1,12,14,56, 7
+2018-12-20 01:15:53 +0000,0,Fowler,GS,Assist - Attack Rebound,1,12,14,50, 2
+2018-12-20 01:15:54 +0000,1,Pretorius ,GD,Penaly - Contact,1,12,14,50, 2
+2018-12-20 01:15:54 +0000,0,Fowler,GS,Goal - Score,1,12,14,50, 2
+2018-12-20 01:16:08 +0000,0,Charles,C,Centre Pass,1,13,14,50, 100
+2018-12-20 01:16:08 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,1,13,14,16, 75
+2018-12-20 01:16:11 +0000,0,Medhurst,GA,Assist - Circle Entry,1,13,14,16, 75
+2018-12-20 01:16:11 +0000,0,Fowler,GS,Possession,1,13,14,34, 13
+2018-12-20 01:16:12 +0000,0,Medhurst,GA,Possession,1,13,14,32, 31
+2018-12-20 01:16:15 +0000,0,Medhurst,GA,Assist - Circle Entry,1,13,14,32, 31
+2018-12-20 01:16:15 +0000,0,Fowler,GS,Goal - Score,1,13,14,43, 4
+2018-12-20 01:16:24 +0000,1,Scherian ,C,Centre Pass,1,14,14,50, 100
+2018-12-20 01:16:24 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,14,14,39, 114
+2018-12-20 01:18:26 +0000,0,Charles,C,Centre Pass,2,14,14,50, 100
+2018-12-20 01:18:26 +0000,0,Francis,GD,Assist - Centre Pass Rec,2,14,14,61, 91
+2018-12-20 01:18:28 +0000,1,Koenen ,GA,Penaly - Contact,2,14,14,61, 91
+2018-12-20 01:18:28 +0000,0,Francis,GD,Possession,2,14,14,61, 91
+2018-12-20 01:18:31 +0000,1,Browne,WA,Gain - Inter,2,14,14,53, 86
+2018-12-20 01:18:37 +0000,1,Koenen ,GA,Possession,2,14,14,75, 117
+2018-12-20 01:18:39 +0000,1,McAuliffe,WD,Possession,2,14,14,62, 123
+2018-12-20 01:18:42 +0000,1,Scherian ,C,Possession,2,14,14,76, 139
+2018-12-20 01:22:07 +0000,1,McAuliffe,WD,Possession,2,14,14,71, 124
+2018-12-20 01:22:12 +0000,1,Scherian ,C,Possession,2,14,14,85, 120
+2018-12-20 01:22:14 +0000,1,Pretorius ,GD,Possession,2,14,14,63, 84
+2018-12-20 01:22:17 +0000,1,Scherian ,C,Possession,2,14,14,77, 122
+2018-12-20 01:22:33 +0000,1,Browne,WA,Loss - Drop,2,14,14,46, 156
+2018-12-20 01:22:38 +0000,0,Bruce,GK,Gain - Pick-up,2,14,14,41, 158
+2018-12-20 01:24:27 +0000,0,Anstiss,WD,Possession,2,14,14,16, 138
+2018-12-20 01:24:28 +0000,0,Charles,C,Possession,2,14,14,40, 124
+2018-12-20 01:24:35 +0000,0,Colyer ,WA,Possession,2,14,14,45, 109
+2018-12-20 01:24:36 +0000,0,Francis,GD,Possession,2,14,14,65, 118
+2018-12-20 01:24:41 +0000,0,Colyer ,WA,Possession,2,14,14,25, 110
+2018-12-20 01:24:43 +0000,0,Medhurst,GA,Possession,2,14,14,9, 98
+2018-12-20 01:24:45 +0000,0,Anstiss,WD,Possession,2,14,14,26, 96
+2018-12-20 01:24:47 +0000,0,Francis,GD,Possession,2,14,14,65, 111
+2018-12-20 01:24:50 +0000,0,Anstiss,WD,Possession,2,14,14,5, 81
+2018-12-20 01:24:52 +0000,0,Charles,C,Possession,2,14,14,35, 72
+2018-12-20 01:24:53 +0000,0,Colyer ,WA,Possession,2,14,14,49, 58
+2018-12-20 01:24:55 +0000,0,Charles,C,Possession,2,14,14,20, 31
+2018-12-20 01:24:58 +0000,0,Charles,C,Assist - Circle Entry,2,14,14,20, 31
+2018-12-20 01:24:58 +0000,0,Fowler,GS,Assist - 2nd Phase,2,14,14,44, 4
+2018-12-20 01:25:00 +0000,0,Fowler,GS,Goal - Score,2,14,14,44, 4
+2018-12-20 01:25:07 +0000,1,Scherian ,C,Centre Pass,2,15,14,50, 100
+2018-12-20 01:25:07 +0000,1,Koenen ,GA,Assist - Centre Pass Rec,2,15,14,11, 125
+2018-12-20 01:25:09 +0000,1,Browne,WA,Assist - 2nd Phase,2,15,14,16, 142
+2018-12-20 01:25:12 +0000,1,McAuliffe,WD,Possession,2,15,14,29, 129
+2018-12-20 01:25:15 +0000,1,Browne,WA,Possession,2,15,14,38, 151
+2018-12-20 01:25:20 +0000,0,Anstiss,WD,Penaly - Contact,2,15,14,38, 151
+2018-12-20 01:25:20 +0000,1,Browne,WA,Possession,2,15,14,38, 151
+2018-12-20 01:25:24 +0000,1,Scherian ,C,Possession,2,15,14,40, 165
+2018-12-20 01:25:32 +0000,1,Scherian ,C,Assist - Circle Entry,2,15,14,40, 165
+2018-12-20 01:25:32 +0000,1,Koenen ,GA,Possession,2,15,14,49, 180
+2018-12-20 01:25:34 +0000,1,Browne,WA,Possession,2,15,14,83, 189
+2018-12-20 01:25:44 +0000,0,Bruce,GK,Deflect,2,15,14,58, 193
+2018-12-20 01:25:44 +0000,1,Koenen ,GA,Possession,2,15,14,66, 190
+2018-12-20 01:25:51 +0000,0,Francis,GD,Penaly - Contact,2,15,14,66, 190
+2018-12-20 01:25:51 +0000,1,Koenen ,GA,Possession,2,15,14,66, 190
+2018-12-20 01:26:14 +0000,1,Bassett,GS,Loss - Stopped Lead,2,15,14,48, 189
+2018-12-20 01:26:18 +0000,0,Bruce,GK,Gain - Inter,2,15,14,42, 185
+2018-12-20 01:26:27 +0000,0,Medhurst,GA,Possession,2,15,14,4, 127
+2018-12-20 01:26:32 +0000,0,Francis,GD,Possession,2,15,14,92, 92
+2018-12-20 01:26:40 +0000,0,Colyer ,WA,Possession,2,15,14,78, 56
+2018-12-20 01:26:42 +0000,0,Charles,C,Possession,2,15,14,54, 55
+2018-12-20 01:26:46 +0000,0,Medhurst,GA,Possession,2,15,14,19, 36
+2018-12-20 01:26:48 +0000,1,McAuliffe,WD,Penaly - Contact,2,15,14,23, 29
+2018-12-20 01:26:48 +0000,0,Charles,C,Possession,2,15,14,23, 29
+2018-12-20 01:26:58 +0000,0,Charles,C,Assist - Circle Entry,2,15,14,23, 29
+2018-12-20 01:26:58 +0000,0,Fowler,GS,Possession,2,15,14,53, 9
+2018-12-20 01:27:22 +0000,1,Mentor,GK,Penaly - Contact,2,15,14,53, 9
+2018-12-20 01:27:22 +0000,0,Fowler,GS,Goal - Score,2,15,14,53, 9
+2018-12-20 01:27:42 +0000,0,Koenen ,UNKNOWN,Interchange - Wood,2,16,14,
+2018-12-20 01:27:46 +0000,0,Charles,C,Centre Pass,2,16,14,50, 100
+2018-12-20 01:27:46 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,16,14,81, 79
+2018-12-20 01:27:51 +0000,0,Colyer ,WA,Assist - 2nd Phase,2,16,14,83, 13
+2018-12-20 01:27:53 +0000,0,Charles,C,Possession,2,16,14,63, 36
+2018-12-20 01:27:55 +0000,0,Charles,C,Assist - Circle Entry,2,16,14,63, 36
+2018-12-20 01:27:55 +0000,0,Medhurst,GA,Possession,2,16,14,64, 18
+2018-12-20 01:28:00 +0000,0,Fowler,GS,Possession,2,16,14,47, 7
+2018-12-20 01:28:02 +0000,1,Mentor,GK,Penaly - Obstruction,2,16,14,47, 7
+2018-12-20 01:28:03 +0000,0,Fowler,GS,Goal - Score,2,16,14,47, 7
+2018-12-20 01:28:09 +0000,1,Scherian ,C,Centre Pass,2,17,14,50, 100
+2018-12-20 01:28:09 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,17,14,15, 124
+2018-12-20 01:28:12 +0000,1,Scherian ,C,Assist - 2nd Phase,2,17,14,24, 144
+2018-12-20 01:28:14 +0000,1,McAuliffe,WD,Possession,2,17,14,30, 128
+2018-12-20 01:28:20 +0000,1,Scherian ,C,Loss - Step,2,17,14,29, 145
+2018-12-20 01:28:24 +0000,0,Bruce,GK,Possession,2,17,14,28, 144
+2018-12-20 01:28:29 +0000,0,Francis,GD,Possession,2,17,14,81, 126
+2018-12-20 01:28:31 +0000,0,Anstiss,WD,Possession,2,17,14,54, 112
+2018-12-20 01:28:34 +0000,0,Charles,C,Possession,2,17,14,38, 115
+2018-12-20 01:28:37 +0000,0,Medhurst,GA,Possession,2,17,14,40, 77
+2018-12-20 01:28:40 +0000,0,Charles,C,Possession,2,17,14,15, 47
+2018-12-20 01:28:46 +0000,0,Charles,C,Assist - Circle Entry,2,17,14,15, 47
+2018-12-20 01:28:46 +0000,0,Fowler,GS,Goal - Score,2,17,14,50, 5
+2018-12-20 01:29:02 +0000,0,Charles,C,Centre Pass,2,18,14,50, 100
+2018-12-20 01:29:02 +0000,0,Francis,GD,Assist - Centre Pass Rec,2,18,14,35, 121
+2018-12-20 01:29:07 +0000,0,Charles,C,Assist - 2nd Phase,2,18,14,69, 116
+2018-12-20 01:29:10 +0000,0,Anstiss,WD,Possession,2,18,14,42, 119
+2018-12-20 01:29:12 +0000,0,Medhurst,GA,Possession,2,18,14,14, 99
+2018-12-20 01:29:14 +0000,0,Francis,GD,Possession,2,18,14,71, 106
+2018-12-20 01:29:27 +0000,0,Colyer ,WA,Deflect,2,18,14,88, 82
+2018-12-20 01:29:29 +0000,1,McAuliffe,WD,Throw In,2,18,14,105, 75
+2018-12-20 01:29:36 +0000,1,Scherian ,C,Possession,2,18,14,64, 75
+2018-12-20 01:29:39 +0000,1,Pretorius ,GD,Possession,2,18,14,45, 74
+2018-12-20 01:29:40 +0000,1,McAuliffe,WD,Possession,2,18,14,67, 76
+2018-12-20 01:29:43 +0000,1,Pretorius ,GD,Possession,2,18,14,72, 88
+2018-12-20 01:29:46 +0000,1,Wood,GA,Possession,2,18,14,68, 116
+2018-12-20 01:29:49 +0000,1,Browne,WA,Possession,2,18,14,52, 157
+2018-12-20 01:29:52 +0000,1,Browne,WA,Assist - Circle Entry,2,18,14,52, 157
+2018-12-20 01:29:52 +0000,1,Wood,GA,Possession,2,18,14,47, 174
+2018-12-20 01:29:56 +0000,1,Bassett,GS,Possession,2,18,14,43, 189
+2018-12-20 01:29:58 +0000,0,Bruce,GK,Penaly - Contact,2,18,14,43, 189
+2018-12-20 01:29:58 +0000,1,Wood,GA,Goal - Score,2,18,14,43, 189
+2018-12-20 01:30:08 +0000,1,Scherian ,C,Centre Pass,2,18,15,50, 100
+2018-12-20 01:30:08 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,18,15,78, 122
+2018-12-20 01:30:10 +0000,1,McAuliffe,WD,Assist - 2nd Phase,2,18,15,64, 96
+2018-12-20 01:30:12 +0000,1,Browne,WA,Possession,2,18,15,78, 105
+2018-12-20 01:30:15 +0000,1,Wood,GA,Possession,2,18,15,84, 131
+2018-12-20 01:30:18 +0000,1,Scherian ,C,Possession,2,18,15,64, 143
+2018-12-20 01:30:20 +0000,1,Wood,GA,Possession,2,18,15,73, 159
+2018-12-20 01:30:21 +0000,1,Browne,WA,Possession,2,18,15,85, 190
+2018-12-20 01:30:24 +0000,1,Browne,WA,Assist - Circle Entry,2,18,15,85, 190
+2018-12-20 01:30:24 +0000,1,Wood,GA,Possession,2,18,15,75, 188
+2018-12-20 01:30:26 +0000,1,Browne,WA,Possession,2,18,15,88, 190
+2018-12-20 01:30:30 +0000,1,Browne,WA,Assist - Circle Entry,2,18,15,88, 190
+2018-12-20 01:30:30 +0000,1,Wood,GA,Goal - Miss,2,18,15,65, 189
+2018-12-20 01:30:33 +0000,0,Bruce,GK,Gain - Def Reb,2,18,15,50, 197
+2018-12-20 01:30:35 +0000,0,Charles,C,Possession,2,18,15,41, 160
+2018-12-20 01:30:37 +0000,1,Bassett,GS,Penaly - Obstruction,2,18,15,41, 160
+2018-12-20 01:30:37 +0000,0,Bruce,GK,Possession,2,18,15,41, 160
+2018-12-20 01:30:44 +0000,0,Charles,C,Possession,2,18,15,44, 126
+2018-12-20 01:30:46 +0000,0,Anstiss,WD,Possession,2,18,15,72, 121
+2018-12-20 01:30:48 +0000,0,Bruce,GK,Possession,2,18,15,76, 142
+2018-12-20 01:30:50 +0000,0,Francis,GD,Possession,2,18,15,13, 145
+2018-12-20 01:30:52 +0000,0,Charles,C,Possession,2,18,15,35, 141
+2018-12-20 01:30:55 +0000,0,Colyer ,WA,Possession,2,18,15,65, 110
+2018-12-20 01:30:59 +0000,0,Anstiss,WD,Possession,2,18,15,42, 116
+2018-12-20 01:31:02 +0000,0,Colyer ,WA,Possession,2,18,15,60, 97
+2018-12-20 01:31:06 +0000,0,Medhurst,GA,Possession,2,18,15,77, 70
+2018-12-20 01:31:09 +0000,0,Charles,C,Possession,2,18,15,11, 36
+2018-12-20 01:31:12 +0000,0,Anstiss,WD,Possession,2,18,15,35, 67
+2018-12-20 01:31:22 +0000,1,Pretorius ,GD,Penaly - Contact,2,18,15,54, 34
+2018-12-20 01:31:22 +0000,0,Colyer ,WA,Possession,2,18,15,54, 34
+2018-12-20 01:31:32 +0000,0,Colyer ,WA,Assist - Circle Entry,2,18,15,54, 34
+2018-12-20 01:31:32 +0000,1,Mentor,GK,Gain - Tip (Deflect),2,18,15,54, 14
+2018-12-20 01:31:38 +0000,1,Pretorius ,GD,Possession,2,18,15,56, 29
+2018-12-20 01:31:41 +0000,1,Scherian ,C,Possession,2,18,15,31, 59
+2018-12-20 01:31:43 +0000,1,Wood,GA,Possession,2,18,15,76, 124
+2018-12-20 01:31:48 +0000,1,Scherian ,C,Possession,2,18,15,60, 127
+2018-12-20 01:31:51 +0000,1,McAuliffe,WD,Possession,2,18,15,52, 128
+2018-12-20 01:31:53 +0000,1,Scherian ,C,Possession,2,18,15,81, 152
+2018-12-20 01:31:55 +0000,1,Pretorius ,GD,Possession,2,18,15,87, 126
+2018-12-20 01:31:57 +0000,1,Scherian ,C,Possession,2,18,15,89, 168
+2018-12-20 01:32:00 +0000,1,Browne,WA,Possession,2,18,15,87, 190
+2018-12-20 01:32:07 +0000,1,Browne,WA,Assist - Circle Entry,2,18,15,87, 190
+2018-12-20 01:32:07 +0000,1,Wood,GA,Possession,2,18,15,70, 177
+2018-12-20 01:32:09 +0000,1,Browne,WA,Possession,2,18,15,74, 173
+2018-12-20 01:32:11 +0000,1,Browne,WA,Assist - Circle Entry,2,18,15,74, 173
+2018-12-20 01:32:11 +0000,1,Wood,GA,Possession,2,18,15,63, 181
+2018-12-20 01:32:18 +0000,0,Bruce,GK,Deflect,2,18,15,64, 193
+2018-12-20 01:32:18 +0000,1,Browne,WA,Throw In,2,18,15,101, 189
+2018-12-20 01:32:27 +0000,1,Browne,WA,Assist - Circle Entry,2,18,15,101, 189
+2018-12-20 01:32:27 +0000,1,Bassett,GS,Possession,2,18,15,71, 189
+2018-12-20 01:32:33 +0000,1,Browne,WA,Possession,2,18,15,83, 190
+2018-12-20 01:32:40 +0000,0,Charles,C,Penaly - Contact,2,18,15,83, 190
+2018-12-20 01:32:40 +0000,1,Browne,WA,Possession,2,18,15,83, 190
+2018-12-20 01:32:52 +0000,1,Browne,WA,Assist - Circle Entry,2,18,15,83, 190
+2018-12-20 01:32:52 +0000,1,Wood,GA,Goal - Miss,2,18,15,64, 188
+2018-12-20 01:33:25 +0000,0,Bruce,GK,Gain - Inter,2,18,15,61, 192
+2018-12-20 01:33:34 +0000,0,Medhurst,GA,Possession,2,18,15,11, 124
+2018-12-20 01:33:41 +0000,0,Anstiss,WD,Possession,2,18,15,59, 103
+2018-12-20 01:33:44 +0000,0,Colyer ,WA,Possession,2,18,15,71, 76
+2018-12-20 01:33:46 +0000,0,Charles,C,Possession,2,18,15,79, 61
+2018-12-20 01:33:48 +0000,0,Fowler,GS,Possession,2,18,15,54, 52
+2018-12-20 01:33:50 +0000,0,Medhurst,GA,Possession,2,18,15,81, 27
+2018-12-20 01:33:53 +0000,0,Colyer ,WA,Possession,2,18,15,16, 15
+2018-12-20 01:33:57 +0000,0,Colyer ,WA,Assist - Circle Entry,2,18,15,16, 15
+2018-12-20 01:33:57 +0000,0,Fowler,GS,Goal - Score,2,18,15,52, 6
+2018-12-20 01:34:07 +0000,0,Charles,C,Centre Pass,2,19,15,50, 100
+2018-12-20 01:34:07 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,19,15,4, 77
+2018-12-20 01:34:09 +0000,0,Charles,C,Assist - 2nd Phase,2,19,15,71, 27
+2018-12-20 01:34:15 +0000,1,Pretorius ,GD,Penaly - Contact,2,19,15,63, 23
+2018-12-20 01:34:16 +0000,0,Medhurst,GA,Possession,2,19,15,63, 23
+2018-12-20 01:34:21 +0000,1,Mentor,GK,Penaly - Obstruction,2,19,15,50, 12
+2018-12-20 01:34:21 +0000,0,Fowler,GS,Goal - Score,2,19,15,50, 12
+2018-12-20 01:34:44 +0000,1,Scherian ,C,Centre Pass,2,20,15,50, 100
+2018-12-20 01:34:44 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,20,15,74, 117
+2018-12-20 01:34:54 +0000,1,McAuliffe,WD,Assist - 2nd Phase,2,20,15,7, 47
+2018-12-20 01:34:57 +0000,0,Fowler,GS,Penaly - Obstruction,2,20,15,7, 47
+2018-12-20 01:34:57 +0000,1,Mentor,GK,Possession,2,20,15,7, 47
+2018-12-20 01:35:00 +0000,1,McAuliffe,WD,Possession,2,20,15,11, 76
+2018-12-20 01:35:03 +0000,1,Scherian ,C,Possession,2,20,15,30, 92
+2018-12-20 01:35:04 +0000,1,Browne,WA,Possession,2,20,15,44, 117
+2018-12-20 01:35:09 +0000,1,Wood,GA,Possession,2,20,15,67, 129
+2018-12-20 01:35:11 +0000,1,Scherian ,C,Possession,2,20,15,56, 144
+2018-12-20 01:35:13 +0000,1,Bassett,GS,Possession,2,20,15,13, 181
+2018-12-20 01:35:15 +0000,1,Bassett,GS,Assist - Circle Entry,2,20,15,13, 181
+2018-12-20 01:35:16 +0000,1,Wood,GA,Possession,2,20,15,36, 185
+2018-12-20 01:35:22 +0000,0,Bruce,GK,Penaly - Contact,2,20,15,36, 185
+2018-12-20 01:35:22 +0000,1,Wood,GA,Possession,2,20,15,36, 185
+2018-12-20 01:35:26 +0000,1,Bassett,GS,Goal - Score,2,20,15,50, 193
+2018-12-20 01:35:33 +0000,0,Charles,C,Centre Pass,2,20,16,50, 100
+2018-12-20 01:35:33 +0000,0,Francis,GD,Assist - Centre Pass Rec,2,20,16,28, 87
+2018-12-20 01:35:34 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,20,16,5, 38
+2018-12-20 01:35:38 +0000,0,Medhurst,GA,Assist - Circle Entry,2,20,16,5, 38
+2018-12-20 01:35:38 +0000,0,Fowler,GS,Goal - Score,2,20,16,43, 1
+2018-12-20 01:35:46 +0000,1,,UNKNOWN,Timeout,2,21,16,110, 222
+2018-12-20 01:36:50 +0000,1,Scherian ,C,Centre Pass,2,21,16,50, 100
+2018-12-20 01:36:50 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,21,16,15, 126
+2018-12-20 01:36:52 +0000,1,Browne,WA,Assist - 2nd Phase,2,21,16,37, 144
+2018-12-20 01:36:54 +0000,1,Bassett,GS,Possession,2,21,16,58, 155
+2018-12-20 01:36:56 +0000,1,Scherian ,C,Possession,2,21,16,14, 139
+2018-12-20 01:36:59 +0000,0,Bruce,GK,Deflect,2,21,16,10, 184
+2018-12-20 01:36:59 +0000,1,Scherian ,C,Throw In,2,21,16,-5, 192
+2018-12-20 01:37:07 +0000,0,Bruce,GK,Penaly - Contact,2,21,16,26, 192
+2018-12-20 01:37:07 +0000,1,Wood,GA,Possession,2,21,16,26, 192
+2018-12-20 01:37:13 +0000,1,Bassett,GS,Possession,2,21,16,50, 194
+2018-12-20 01:37:14 +0000,0,Francis,GD,Penaly - Contact,2,21,16,50, 194
+2018-12-20 01:37:14 +0000,1,Bassett,GS,Goal - Score,2,21,16,50, 194
+2018-12-20 01:37:22 +0000,0,Charles,C,Centre Pass,2,21,17,50, 100
+2018-12-20 01:37:22 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,2,21,17,77, 93
+2018-12-20 01:37:24 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,21,17,81, 59
+2018-12-20 01:37:28 +0000,0,Medhurst,GA,Assist - Circle Entry,2,21,17,81, 59
+2018-12-20 01:37:28 +0000,0,Fowler,GS,Goal - Score,2,21,17,47, 17
+2018-12-20 01:37:39 +0000,1,Scherian ,C,Centre Pass,2,22,17,50, 100
+2018-12-20 01:37:39 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,2,22,17,71, 82
+2018-12-20 01:37:41 +0000,1,Wood,GA,Assist - 2nd Phase,2,22,17,83, 114
+2018-12-20 01:37:42 +0000,1,Browne,WA,Possession,2,22,17,80, 151
+2018-12-20 01:37:44 +0000,1,Wood,GA,Possession,2,22,17,66, 148
+2018-12-20 01:37:46 +0000,1,Browne,WA,Possession,2,22,17,63, 163
+2018-12-20 01:37:48 +0000,1,Browne,WA,Assist - Circle Entry,2,22,17,63, 163
+2018-12-20 01:37:48 +0000,1,Bassett,GS,Possession,2,22,17,65, 185
+2018-12-20 01:37:50 +0000,1,Wood,GA,Possession,2,22,17,82, 185
+2018-12-20 01:37:52 +0000,1,Wood,GA,Assist - Circle Entry,2,22,17,82, 185
+2018-12-20 01:37:52 +0000,1,Bassett,GS,Goal - Miss,2,22,17,59, 191
+2018-12-20 01:37:57 +0000,1,Bassett,GS,Assist - Attack Rebound,2,22,17,50, 197
+2018-12-20 01:37:59 +0000,1,Bassett,GS,Goal - Score,2,22,17,59, 191
+2018-12-20 01:38:04 +0000,0,Charles,C,Centre Pass,2,22,18,50, 100
+2018-12-20 01:38:04 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,22,18,13, 81
+2018-12-20 01:38:08 +0000,0,Fowler,GS,Assist - 2nd Phase,2,22,18,4, 19
+2018-12-20 01:38:10 +0000,0,Medhurst,GA,Possession,2,22,18,22, 49
+2018-12-20 01:38:12 +0000,0,Anstiss,WD,Possession,2,22,18,30, 70
+2018-12-20 01:38:14 +0000,0,Medhurst,GA,Possession,2,22,18,32, 42
+2018-12-20 01:38:16 +0000,0,Medhurst,GA,Assist - Circle Entry,2,22,18,32, 42
+2018-12-20 01:38:16 +0000,0,Fowler,GS,Possession,2,22,18,34, 7
+2018-12-20 01:38:17 +0000,0,Charles,C,Possession,2,22,18,74, 24
+2018-12-20 01:38:18 +0000,1,McAuliffe,WD,Penaly - Contact,2,22,18,74, 24
+2018-12-20 01:38:19 +0000,0,Charles,C,Possession,2,22,18,74, 24
+2018-12-20 01:38:26 +0000,0,Charles,C,Assist - Circle Entry,2,22,18,74, 24
+2018-12-20 01:38:26 +0000,0,Medhurst,GA,Possession,2,22,18,46, 29
+2018-12-20 01:38:28 +0000,0,Charles,C,Possession,2,22,18,60, 33
+2018-12-20 01:38:31 +0000,0,Colyer ,WA,Possession,2,22,18,18, 20
+2018-12-20 01:38:34 +0000,0,Colyer ,WA,Assist - Circle Entry,2,22,18,18, 20
+2018-12-20 01:38:34 +0000,0,Fowler,GS,Possession,2,22,18,53, 8
+2018-12-20 01:38:35 +0000,1,Mentor,GK,Penaly - Contact,2,22,18,53, 8
+2018-12-20 01:38:35 +0000,0,Fowler,GS,Goal - Score,2,22,18,53, 8
+2018-12-20 01:38:47 +0000,1,Scherian ,C,Centre Pass,2,23,18,50, 100
+2018-12-20 01:38:47 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,23,18,42, 123
+2018-12-20 01:38:50 +0000,1,Pretorius ,GD,Assist - 2nd Phase,2,23,18,18, 96
+2018-12-20 01:38:54 +0000,1,Scherian ,C,Possession,2,23,18,47, 124
+2018-12-20 01:38:58 +0000,1,Browne,WA,Possession,2,23,18,77, 127
+2018-12-20 01:39:00 +0000,1,Wood,GA,Possession,2,23,18,41, 144
+2018-12-20 01:39:24 +0000,0,Bruce,GK,Gain - Tip (Deflect),2,23,18,56, 163
+2018-12-20 01:39:29 +0000,0,Colyer ,WA,Possession,2,23,18,83, 129
+2018-12-20 01:39:32 +0000,0,Medhurst,GA,Possession,2,23,18,65, 99
+2018-12-20 01:39:37 +0000,0,Colyer ,WA,Possession,2,23,18,58, 77
+2018-12-20 01:39:38 +0000,0,Charles,C,Possession,2,23,18,77, 57
+2018-12-20 01:39:41 +0000,0,Charles,C,Assist - Circle Entry,2,23,18,77, 57
+2018-12-20 01:39:41 +0000,0,Fowler,GS,Possession,2,23,18,43, 14
+2018-12-20 01:39:43 +0000,0,Colyer ,WA,Possession,2,23,18,27, 29
+2018-12-20 01:39:45 +0000,0,Colyer ,WA,Assist - Circle Entry,2,23,18,27, 29
+2018-12-20 01:39:45 +0000,0,Fowler,GS,Possession,2,23,18,41, 9
+2018-12-20 01:39:46 +0000,1,Mentor,GK,Penaly - Contact,2,23,18,41, 9
+2018-12-20 01:39:47 +0000,0,Fowler,GS,Possession,2,23,18,41, 9
+2018-12-20 01:39:49 +0000,1,Pretorius ,GD,Penaly - Obstruction,2,23,18,41, 9
+2018-12-20 01:39:49 +0000,0,Fowler,GS,Goal - Score,2,23,18,41, 9
+2018-12-20 01:40:00 +0000,0,Charles,C,Centre Pass,2,24,18,50, 100
+2018-12-20 01:40:00 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,24,18,73, 75
+2018-12-20 01:40:06 +0000,1,Scherian ,C,Penaly - Contact,2,24,18,53, 52
+2018-12-20 01:40:06 +0000,0,Charles,C,Assist - 2nd Phase,2,24,18,53, 52
+2018-12-20 01:40:12 +0000,0,Charles,C,Assist - Circle Entry,2,24,18,53, 52
+2018-12-20 01:40:12 +0000,0,Fowler,GS,Goal - Score,2,24,18,44, 6
+2018-12-20 01:40:20 +0000,1,Scherian ,C,Centre Pass,2,25,18,50, 100
+2018-12-20 01:40:20 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,25,18,13, 125
+2018-12-20 01:40:23 +0000,1,Wood,GA,Assist - 2nd Phase,2,25,18,11, 160
+2018-12-20 01:40:26 +0000,1,Wood,GA,Assist - Circle Entry,2,25,18,11, 160
+2018-12-20 01:40:26 +0000,1,Bassett,GS,Possession,2,25,18,35, 181
+2018-12-20 01:40:29 +0000,1,Wood,GA,Possession,2,25,18,53, 166
+2018-12-20 01:40:33 +0000,1,Scherian ,C,Possession,2,25,18,80, 184
+2018-12-20 01:40:36 +0000,1,Scherian ,C,Assist - Circle Entry,2,25,18,80, 184
+2018-12-20 01:40:37 +0000,1,Bassett,GS,Goal - Score,2,25,18,44, 192
+2018-12-20 01:40:47 +0000,0,Charles,C,Centre Pass,2,25,19,50, 100
+2018-12-20 01:40:47 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,25,19,69, 74
+2018-12-20 01:40:50 +0000,1,Pretorius ,GD,Penaly - Contact,2,25,19,57, 33
+2018-12-20 01:40:50 +0000,0,Colyer ,WA,Assist - 2nd Phase,2,25,19,57, 33
+2018-12-20 01:40:53 +0000,0,Colyer ,WA,Assist - Circle Entry,2,25,19,57, 33
+2018-12-20 01:40:53 +0000,0,Medhurst,GA,Goal - Miss,2,25,19,53, 14
+2018-12-20 01:40:59 +0000,0,Fowler,GS,Assist - Attack Rebound,2,25,19,50, 2
+2018-12-20 01:41:01 +0000,0,Fowler,GS,Goal - Score,2,25,19,53, 14
+2018-12-20 01:41:07 +0000,1,Scherian ,C,Centre Pass,2,26,19,50, 100
+2018-12-20 01:41:07 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,26,19,19, 125
+2018-12-20 01:41:10 +0000,1,Scherian ,C,Assist - 2nd Phase,2,26,19,32, 163
+2018-12-20 01:41:14 +0000,1,Scherian ,C,Assist - Circle Entry,2,26,19,32, 163
+2018-12-20 01:41:14 +0000,1,Bassett,GS,Goal - Score,2,26,19,43, 186
+2018-12-20 01:41:21 +0000,0,Charles,C,Centre Pass,2,26,20,50, 100
+2018-12-20 01:41:21 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,26,20,77, 77
+2018-12-20 01:41:27 +0000,0,Francis,GD,Assist - 2nd Phase,2,26,20,76, 119
+2018-12-20 01:41:27 +0000,0,Anstiss,WD,Possession,2,26,20,19, 83
+2018-12-20 01:41:37 +0000,0,Francis,GD,Possession,2,26,20,31, 103
+2018-12-20 01:41:39 +0000,0,Medhurst,GA,Possession,2,26,20,74, 81
+2018-12-20 01:42:09 +0000,0,Medhurst,GA,Assist - Circle Entry,2,26,20,74, 81
+2018-12-20 01:42:09 +0000,0,Fowler,GS,Possession,2,26,20,23, 11
+2018-12-20 01:42:10 +0000,0,Charles,C,Possession,2,26,20,16, 18
+2018-12-20 01:42:12 +0000,0,Charles,C,Assist - Circle Entry,2,26,20,16, 18
+2018-12-20 01:42:12 +0000,0,Medhurst,GA,Goal - Score,2,26,20,34, 4
+2018-12-20 01:42:20 +0000,1,Scherian ,C,Centre Pass,2,27,20,50, 100
+2018-12-20 01:42:20 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,27,20,38, 126
+2018-12-20 01:42:22 +0000,1,Browne,WA,Assist - 2nd Phase,2,27,20,80, 156
+2018-12-20 01:42:25 +0000,1,McAuliffe,WD,Possession,2,27,20,55, 130
+2018-12-20 01:42:27 +0000,1,Browne,WA,Possession,2,27,20,58, 146
+2018-12-20 01:42:32 +0000,1,Browne,WA,Assist - Circle Entry,2,27,20,58, 146
+2018-12-20 01:42:33 +0000,0,Francis,GD,Gain - Tip (Deflect),2,27,20,59, 186
+2018-12-20 01:42:37 +0000,0,Bruce,GK,Possession,2,27,20,36, 184
+2018-12-20 01:42:39 +0000,0,Francis,GD,Possession,2,27,20,68, 179
+2018-12-20 01:42:41 +0000,0,Bruce,GK,Possession,2,27,20,16, 161
+2018-12-20 01:42:43 +0000,0,Medhurst,GA,Possession,2,27,20,6, 116
+2018-12-20 01:42:45 +0000,0,Charles,C,Possession,2,27,20,27, 123
+2018-12-20 01:42:47 +0000,0,Colyer ,WA,Possession,2,27,20,40, 87
+2018-12-20 01:43:23 +0000,0,Charles,C,Possession,2,27,20,56, 73
+2018-12-20 01:43:26 +0000,0,Fowler,GS,Possession,2,27,20,4, 14
+2018-12-20 01:43:28 +0000,0,Anstiss,WD,Possession,2,27,20,14, 72
+2018-12-20 01:43:36 +0000,1,McAuliffe,WD,Penaly - Contact,2,27,20,29, 40
+2018-12-20 01:43:36 +0000,0,Charles,C,Possession,2,27,20,29, 40
+2018-12-20 01:43:46 +0000,0,Colyer ,WA,Possession,2,27,20,71, 31
+2018-12-20 01:43:48 +0000,0,Colyer ,WA,Assist - Circle Entry,2,27,20,71, 31
+2018-12-20 01:43:48 +0000,0,Medhurst,GA,Possession,2,27,20,71, 6
+2018-12-20 01:43:51 +0000,0,Fowler,GS,Possession,2,27,20,55, 1
+2018-12-20 01:43:52 +0000,0,Medhurst,GA,Possession,2,27,20,58, 6
+2018-12-20 01:43:53 +0000,1,Pretorius ,GD,Penaly - Contact,2,27,20,58, 6
+2018-12-20 01:43:53 +0000,0,Medhurst,GA,Goal - Miss,2,27,20,58, 6
+2018-12-20 01:44:14 +0000,1,Pretorius ,GD,Gain - Def Reb,2,27,20,50, 2
+2018-12-20 01:44:16 +0000,1,McAuliffe,WD,Possession,2,27,20,28, 30
+2018-12-20 01:44:19 +0000,1,Mentor,GK,Possession,2,27,20,74, 49
+2018-12-20 01:44:21 +0000,1,McAuliffe,WD,Possession,2,27,20,66, 73
+2018-12-20 01:44:24 +0000,1,Pretorius ,GD,Possession,2,27,20,78, 74
+2018-12-20 01:44:26 +0000,1,McAuliffe,WD,Possession,2,27,20,78, 91
+2018-12-20 01:44:30 +0000,1,Bassett,GS,Possession,2,27,20,79, 182
+2018-12-20 01:44:33 +0000,1,Browne,WA,Possession,2,27,20,15, 184
+2018-12-20 01:44:36 +0000,1,Browne,WA,Assist - Circle Entry,2,27,20,15, 184
+2018-12-20 01:44:36 +0000,1,Wood,GA,Possession,2,27,20,36, 193
+2018-12-20 01:44:37 +0000,0,Bruce,GK,Penaly - Contact,2,27,20,36, 193
+2018-12-20 01:44:38 +0000,1,Wood,GA,Goal - Score,2,27,20,36, 193
+2018-12-20 01:44:46 +0000,0,Charles,C,Centre Pass,2,27,21,50, 100
+2018-12-20 01:44:46 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,27,21,11, 72
+2018-12-20 01:44:48 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,27,21,15, 43
+2018-12-20 01:44:50 +0000,0,Charles,C,Possession,2,27,21,38, 44
+2018-12-20 01:44:53 +0000,0,Charles,C,Assist - Circle Entry,2,27,21,38, 44
+2018-12-20 01:44:53 +0000,0,Fowler,GS,Possession,2,27,21,54, 19
+2018-12-20 01:44:56 +0000,0,Charles,C,Possession,2,27,21,39, 33
+2018-12-20 01:44:58 +0000,0,Medhurst,GA,Possession,2,27,21,52, 34
+2018-12-20 01:45:00 +0000,0,Charles,C,Possession,2,27,21,40, 34
+2018-12-20 01:45:02 +0000,0,Charles,C,Assist - Circle Entry,2,27,21,40, 34
+2018-12-20 01:45:02 +0000,0,Fowler,GS,Goal - Score,2,27,21,42, 3
+2018-12-20 01:45:10 +0000,1,Scherian ,C,Centre Pass,2,28,21,50, 100
+2018-12-20 01:45:10 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,28,21,79, 125
+2018-12-20 01:45:12 +0000,1,Scherian ,C,Assist - 2nd Phase,2,28,21,70, 137
+2018-12-20 01:45:14 +0000,1,Wood,GA,Possession,2,28,21,83, 179
+2018-12-20 01:45:16 +0000,1,Browne,WA,Possession,2,28,21,69, 170
+2018-12-20 01:45:19 +0000,0,Bruce,GK,Penaly - Contact,2,28,21,56, 175
+2018-12-20 01:45:19 +0000,1,Wood,GA,Possession,2,28,21,56, 175
+2018-12-20 01:45:22 +0000,1,Bassett,GS,Goal - Score,2,28,21,47, 194
+2018-12-20 01:45:30 +0000,0,Charles,C,Centre Pass,2,28,22,50, 100
+2018-12-20 01:45:30 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,2,28,22,67, 86
+2018-12-20 01:45:32 +0000,0,Colyer ,WA,Assist - 2nd Phase,2,28,22,80, 70
+2018-12-20 01:45:33 +0000,0,Anstiss,WD,Possession,2,28,22,66, 78
+2018-12-20 01:45:35 +0000,0,Francis,GD,Possession,2,28,22,61, 103
+2018-12-20 01:45:37 +0000,0,Charles,C,Possession,2,28,22,51, 80
+2018-12-20 01:45:40 +0000,0,Colyer ,WA,Possession,2,28,22,40, 69
+2018-12-20 01:45:44 +0000,0,Medhurst,GA,Possession,2,28,22,13, 39
+2018-12-20 01:45:47 +0000,0,Medhurst,GA,Assist - Circle Entry,2,28,22,13, 39
+2018-12-20 01:45:47 +0000,0,Fowler,GS,Goal - Miss,2,28,22,35, 7
+2018-12-20 01:45:53 +0000,0,Fowler,GS,Assist - Attack Rebound,2,28,22,50, 2
+2018-12-20 01:45:55 +0000,0,Fowler,GS,Goal - Score,2,28,22,35, 7
+2018-12-20 01:46:02 +0000,1,Scherian ,C,Centre Pass,2,29,22,50, 100
+2018-12-20 01:46:02 +0000,1,Browne,WA,Deflect,2,29,22,34, 120
+2018-12-20 01:46:07 +0000,1,Browne,WA,Assist - 2nd Phase,2,29,22,17, 99
+2018-12-20 01:46:09 +0000,1,Wood,GA,Possession,2,29,22,8, 126
+2018-12-20 01:46:14 +0000,0,Colyer ,WA,Penaly - Obstruction,2,29,22,8, 126
+2018-12-20 01:46:15 +0000,1,McAuliffe,WD,Possession,2,29,22,8, 126
+2018-12-20 01:46:19 +0000,0,Charles,C,Penaly - Contact,2,29,22,29, 147
+2018-12-20 01:46:19 +0000,1,Browne,WA,Possession,2,29,22,29, 147
+2018-12-20 01:46:22 +0000,1,Wood,GA,Possession,2,29,22,46, 164
+2018-12-20 01:46:25 +0000,1,Browne,WA,Possession,2,29,22,42, 165
+2018-12-20 01:46:28 +0000,1,Browne,WA,Assist - Circle Entry,2,29,22,42, 165
+2018-12-20 01:46:28 +0000,1,Wood,GA,Goal - Score,2,29,22,41, 181
+2018-12-20 01:46:42 +0000,0,Charles,C,Centre Pass,2,29,23,50, 100
+2018-12-20 01:46:42 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,29,23,78, 93
+2018-12-20 01:46:44 +0000,0,Charles,C,Assist - 2nd Phase,2,29,23,58, 108
+2018-12-20 01:46:45 +0000,0,Francis,GD,Possession,2,29,23,42, 86
+2018-12-20 01:46:48 +0000,0,Colyer ,WA,Possession,2,29,23,20, 75
+2018-12-20 01:46:50 +0000,0,Anstiss,WD,Possession,2,29,23,8, 73
+2018-12-20 01:46:52 +0000,0,Charles,C,Possession,2,29,23,12, 51
+2018-12-20 01:46:54 +0000,0,Charles,C,Assist - Circle Entry,2,29,23,12, 51
+2018-12-20 01:46:55 +0000,0,Fowler,GS,Possession,2,29,23,23, 12
+2018-12-20 01:46:57 +0000,0,Francis,GD,Possession,2,29,23,58, 70
+2018-12-20 01:46:59 +0000,1,Wood,GA,Penaly - Contact,2,29,23,58, 70
+2018-12-20 01:46:59 +0000,0,Francis,GD,Possession,2,29,23,58, 70
+2018-12-20 01:47:04 +0000,0,Medhurst,GA,Possession,2,29,23,60, 45
+2018-12-20 01:47:07 +0000,0,Charles,C,Possession,2,29,23,31, 29
+2018-12-20 01:47:20 +0000,0,Fowler,GS,Penaly - Contact,2,29,23,50, 16
+2018-12-20 01:47:20 +0000,1,Mentor,GK,Possession,2,29,23,50, 16
+2018-12-20 01:47:33 +0000,1,Pretorius ,GD,Possession,2,29,23,21, 46
+2018-12-20 01:47:35 +0000,1,Scherian ,C,Possession,2,29,23,17, 69
+2018-12-20 01:47:37 +0000,1,Pretorius ,GD,Possession,2,29,23,27, 58
+2018-12-20 01:47:41 +0000,1,Scherian ,C,Possession,2,29,23,10, 79
+2018-12-20 01:47:44 +0000,1,Wood,GA,Possession,2,29,23,68, 100
+2018-12-20 01:47:50 +0000,1,Browne,WA,Possession,2,29,23,46, 123
+2018-12-20 01:47:54 +0000,1,Pretorius ,GD,Possession,2,29,23,64, 110
+2018-12-20 01:47:57 +0000,1,Wood,GA,Possession,2,29,23,78, 130
+2018-12-20 01:48:52 +0000,1,Scherian ,C,Possession,2,29,23,54, 150
+2018-12-20 01:48:55 +0000,1,Scherian ,C,Assist - Circle Entry,2,29,23,54, 150
+2018-12-20 01:48:55 +0000,1,Bassett,GS,Goal - Miss,2,29,23,51, 196
+2018-12-20 01:48:58 +0000,1,Bassett,GS,Assist - Attack Rebound,2,29,23,50, 197
+2018-12-20 01:48:58 +0000,0,Bruce,GK,Penaly - Contact,2,29,23,50, 197
+2018-12-20 01:48:59 +0000,1,Bassett,GS,Goal - Score,2,29,23,50, 197
+2018-12-20 01:49:04 +0000,1,Scherian ,C,Centre Pass,2,29,24,50, 100
+2018-12-20 01:49:04 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,29,24,66, 114
+2018-12-20 01:49:05 +0000,1,Scherian ,C,Assist - 2nd Phase,2,29,24,51, 125
+2018-12-20 01:49:08 +0000,1,Browne,WA,Possession,2,29,24,61, 141
+2018-12-20 01:49:11 +0000,1,Wood,GA,Possession,2,29,24,80, 159
+2018-12-20 01:49:13 +0000,1,Scherian ,C,Possession,2,29,24,64, 158
+2018-12-20 01:49:18 +0000,0,Bruce,GK,Penaly - Contact,2,29,24,59, 181
+2018-12-20 01:49:18 +0000,1,Wood,GA,Possession,2,29,24,59, 181
+2018-12-20 01:49:22 +0000,1,Bassett,GS,Goal - Score,2,29,24,51, 196
+2018-12-20 01:49:28 +0000,0,Charles,C,Centre Pass,2,29,25,50, 100
+2018-12-20 01:49:28 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,29,25,60, 82
+2018-12-20 01:49:32 +0000,1,McAuliffe,WD,Gain - Tip (Deflect),2,29,25,51, 70
+2018-12-20 01:49:37 +0000,1,Scherian ,C,Possession,2,29,25,57, 48
+2018-12-20 01:49:40 +0000,1,Wood,GA,Possession,2,29,25,85, 98
+2018-12-20 01:49:42 +0000,1,Browne,WA,Possession,2,29,25,65, 115
+2018-12-20 01:49:44 +0000,1,Pretorius ,GD,Possession,2,29,25,82, 107
+2018-12-20 01:49:48 +0000,0,Anstiss,WD,Penaly - Obstruction,2,29,25,85, 135
+2018-12-20 01:49:48 +0000,1,Browne,WA,Possession,2,29,25,85, 135
+2018-12-20 01:50:04 +0000,0,Anstiss,WD,Penaly - Other,2,29,25,60, 168
+2018-12-20 01:50:05 +0000,1,Browne,WA,Possession,2,29,25,60, 168
+2018-12-20 01:51:37 +0000,1,Browne,WA,Assist - Circle Entry,2,29,25,60, 168
+2018-12-20 01:51:37 +0000,1,Wood,GA,Goal - Score,2,29,25,54, 181
+2018-12-20 01:53:36 +0000,1,Scherian ,C,Centre Pass,3,29,26,50, 100
+2018-12-20 01:53:36 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,29,26,86, 117
+2018-12-20 01:53:38 +0000,1,Scherian ,C,Assist - 2nd Phase,3,29,26,68, 125
+2018-12-20 01:53:40 +0000,1,Wood,GA,Possession,3,29,26,22, 152
+2018-12-20 01:53:42 +0000,1,Browne,WA,Possession,3,29,26,34, 142
+2018-12-20 01:53:44 +0000,1,Scherian ,C,Possession,3,29,26,74, 136
+2018-12-20 01:53:46 +0000,1,Browne,WA,Possession,3,29,26,79, 165
+2018-12-20 01:53:48 +0000,1,Browne,WA,Assist - Circle Entry,3,29,26,79, 165
+2018-12-20 01:53:48 +0000,1,Wood,GA,Possession,3,29,26,65, 184
+2018-12-20 01:53:50 +0000,1,Browne,WA,Possession,3,29,26,75, 174
+2018-12-20 01:53:52 +0000,1,Browne,WA,Assist - Circle Entry,3,29,26,75, 174
+2018-12-20 01:53:52 +0000,1,Wood,GA,Goal - Score,3,29,26,61, 192
+2018-12-20 01:53:59 +0000,0,Charles,C,Centre Pass,3,29,27,50, 100
+2018-12-20 01:53:59 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,29,27,26, 71
+2018-12-20 01:54:02 +0000,0,Francis,GD,Assist - 2nd Phase,3,29,27,27, 108
+2018-12-20 01:54:04 +0000,0,Medhurst,GA,Possession,3,29,27,81, 94
+2018-12-20 01:54:11 +0000,1,Mentor,GK,Gain - Tip (Deflect),3,29,27,73, 41
+2018-12-20 01:54:13 +0000,1,Pretorius ,GD,Possession,3,29,27,56, 53
+2018-12-20 01:54:16 +0000,1,Scherian ,C,Possession,3,29,27,89, 61
+2018-12-20 01:54:26 +0000,1,Pretorius ,GD,Possession,3,29,27,86, 77
+2018-12-20 01:54:28 +0000,1,Browne,WA,Possession,3,29,27,91, 108
+2018-12-20 01:54:31 +0000,1,Wood,GA,Possession,3,29,27,90, 138
+2018-12-20 01:54:33 +0000,1,Scherian ,C,Possession,3,29,27,71, 141
+2018-12-20 01:54:35 +0000,1,Wood,GA,Possession,3,29,27,72, 158
+2018-12-20 01:54:39 +0000,1,Wood,GA,Assist - Circle Entry,3,29,27,72, 158
+2018-12-20 01:54:39 +0000,1,Bassett,GS,Possession,3,29,27,65, 188
+2018-12-20 01:54:41 +0000,0,Bruce,GK,Penaly - Contact,3,29,27,65, 188
+2018-12-20 01:54:41 +0000,1,Wood,GA,Goal - Score,3,29,27,65, 188
+2018-12-20 01:55:18 +0000,1,Scherian ,C,Centre Pass,3,29,28,50, 100
+2018-12-20 01:55:18 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,3,29,28,45, 86
+2018-12-20 01:55:20 +0000,1,Pretorius ,GD,Assist - 2nd Phase,3,29,28,76, 87
+2018-12-20 01:55:24 +0000,1,Wood,GA,Possession,3,29,28,61, 94
+2018-12-20 01:55:26 +0000,1,Scherian ,C,Possession,3,29,28,17, 123
+2018-12-20 01:55:28 +0000,1,Wood,GA,Possession,3,29,28,38, 130
+2018-12-20 01:55:31 +0000,1,Scherian ,C,Possession,3,29,28,47, 149
+2018-12-20 01:55:32 +0000,0,Charles,C,Penaly - Contact,3,29,28,47, 149
+2018-12-20 01:55:32 +0000,1,Scherian ,C,Possession,3,29,28,47, 149
+2018-12-20 01:55:35 +0000,1,Wood,GA,Possession,3,29,28,19, 180
+2018-12-20 01:55:37 +0000,1,Wood,GA,Assist - Circle Entry,3,29,28,19, 180
+2018-12-20 01:55:38 +0000,1,Bassett,GS,Goal - Score,3,29,28,50, 193
+2018-12-20 01:55:55 +0000,0,Charles,C,Centre Pass,3,29,29,50, 100
+2018-12-20 01:55:55 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,29,29,18, 74
+2018-12-20 01:55:58 +0000,0,Anstiss,WD,Assist - 2nd Phase,3,29,29,38, 103
+2018-12-20 01:56:01 +0000,0,Francis,GD,Possession,3,29,29,71, 103
+2018-12-20 01:56:03 +0000,0,Anstiss,WD,Possession,3,29,29,16, 96
+2018-12-20 01:56:05 +0000,0,Medhurst,GA,Possession,3,29,29,19, 64
+2018-12-20 01:56:07 +0000,0,Charles,C,Possession,3,29,29,44, 55
+2018-12-20 01:56:10 +0000,0,Colyer ,WA,Possession,3,29,29,18, 58
+2018-12-20 01:56:12 +0000,0,Medhurst,GA,Possession,3,29,29,13, 28
+2018-12-20 01:56:14 +0000,0,Medhurst,GA,Assist - Circle Entry,3,29,29,13, 28
+2018-12-20 01:56:14 +0000,0,Fowler,GS,Goal - Score,3,29,29,43, 5
+2018-12-20 01:56:24 +0000,1,Scherian ,C,Centre Pass,3,30,29,50, 100
+2018-12-20 01:56:24 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,30,29,68, 125
+2018-12-20 01:56:26 +0000,1,Wood,GA,Assist - 2nd Phase,3,30,29,78, 151
+2018-12-20 01:56:28 +0000,1,Pretorius ,GD,Possession,3,30,29,80, 132
+2018-12-20 01:56:31 +0000,1,Scherian ,C,Possession,3,30,29,71, 161
+2018-12-20 01:56:34 +0000,1,Scherian ,C,Assist - Circle Entry,3,30,29,71, 161
+2018-12-20 01:56:34 +0000,1,Wood,GA,Goal - Score,3,30,29,40, 187
+2018-12-20 01:56:42 +0000,0,Charles,C,Centre Pass,3,30,30,50, 100
+2018-12-20 01:56:42 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,30,30,76, 84
+2018-12-20 01:56:44 +0000,0,Charles,C,Assist - 2nd Phase,3,30,30,82, 53
+2018-12-20 01:56:47 +0000,0,Colyer ,WA,Possession,3,30,30,65, 52
+2018-12-20 01:56:49 +0000,0,Medhurst,GA,Possession,3,30,30,46, 49
+2018-12-20 01:56:53 +0000,0,Medhurst,GA,Assist - Circle Entry,3,30,30,46, 49
+2018-12-20 01:56:53 +0000,0,Fowler,GS,Goal - Score,3,30,30,50, 13
+2018-12-20 01:57:02 +0000,1,Scherian ,C,Centre Pass,3,31,30,50, 100
+2018-12-20 01:57:02 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,31,30,79, 113
+2018-12-20 01:57:06 +0000,1,Browne,WA,Assist - 2nd Phase,3,31,30,90, 159
+2018-12-20 01:57:08 +0000,1,Wood,GA,Possession,3,31,30,81, 139
+2018-12-20 01:57:10 +0000,1,Browne,WA,Possession,3,31,30,72, 161
+2018-12-20 01:57:12 +0000,0,Bruce,GK,Penaly - Contact,3,31,30,65, 186
+2018-12-20 01:57:12 +0000,1,Wood,GA,Goal - Score,3,31,30,65, 186
+2018-12-20 01:57:37 +0000,0,Charles,C,Centre Pass,3,31,31,50, 100
+2018-12-20 01:57:37 +0000,0,Francis,GD,Assist - Centre Pass Rec,3,31,31,83, 112
+2018-12-20 01:57:38 +0000,0,Medhurst,GA,Assist - 2nd Phase,3,31,31,84, 84
+2018-12-20 01:57:40 +0000,0,Anstiss,WD,Possession,3,31,31,73, 79
+2018-12-20 01:57:43 +0000,0,Medhurst,GA,Possession,3,31,31,61, 37
+2018-12-20 01:57:46 +0000,0,Medhurst,GA,Assist - Circle Entry,3,31,31,61, 37
+2018-12-20 01:57:46 +0000,0,Fowler,GS,Goal - Miss,3,31,31,46, 9
+2018-12-20 01:57:49 +0000,0,Fowler,GS,Assist - Attack Rebound,3,31,31,50, 2
+2018-12-20 01:58:00 +0000,1,Mentor,GK,Penaly - Contact,3,31,31,50, 2
+2018-12-20 01:58:00 +0000,0,Fowler,GS,Goal - Score,3,31,31,50, 2
+2018-12-20 01:58:11 +0000,1,Scherian ,C,Centre Pass,3,32,31,50, 100
+2018-12-20 01:58:12 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,32,31,92, 119
+2018-12-20 01:58:13 +0000,1,Browne,WA,Assist - 2nd Phase,3,32,31,92, 171
+2018-12-20 01:58:15 +0000,1,Wood,GA,Possession,3,32,31,80, 145
+2018-12-20 01:58:18 +0000,1,Scherian ,C,Possession,3,32,31,18, 186
+2018-12-20 01:58:20 +0000,1,Scherian ,C,Assist - Circle Entry,3,32,31,18, 186
+2018-12-20 01:58:20 +0000,1,Wood,GA,Goal - Miss,3,32,31,43, 195
+2018-12-20 01:58:36 +0000,0,Bruce,GK,Deflect,3,32,31,46, 196
+2018-12-20 01:58:36 +0000,1,Wood,GA,Goal - Score,3,32,31,45, 195
+2018-12-20 01:58:50 +0000,0,Charles,C,Centre Pass,3,32,32,50, 100
+2018-12-20 01:58:50 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,32,32,83, 73
+2018-12-20 01:58:53 +0000,0,Francis,GD,Assist - 2nd Phase,3,32,32,83, 100
+2018-12-20 01:58:55 +0000,0,Anstiss,WD,Possession,3,32,32,31, 100
+2018-12-20 01:58:58 +0000,1,McAuliffe,WD,Penaly - Contact,3,32,32,33, 57
+2018-12-20 01:58:58 +0000,0,Charles,C,Possession,3,32,32,33, 57
+2018-12-20 01:59:01 +0000,0,Charles,C,Assist - Circle Entry,3,32,32,33, 57
+2018-12-20 01:59:01 +0000,0,Fowler,GS,Possession,3,32,32,48, 11
+2018-12-20 01:59:06 +0000,1,Mentor,GK,Penaly - Contact,3,32,32,48, 11
+2018-12-20 01:59:06 +0000,0,Fowler,GS,Goal - Score,3,32,32,48, 11
+2018-12-20 01:59:14 +0000,1,Scherian ,C,Centre Pass,3,33,32,50, 100
+2018-12-20 01:59:14 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,33,32,26, 121
+2018-12-20 01:59:17 +0000,1,Wood,GA,Assist - 2nd Phase,3,33,32,79, 153
+2018-12-20 01:59:20 +0000,1,Wood,GA,Assist - Circle Entry,3,33,32,79, 153
+2018-12-20 01:59:20 +0000,1,Bassett,GS,Possession,3,33,32,54, 188
+2018-12-20 01:59:21 +0000,0,Francis,GD,Penaly - Contact,3,33,32,54, 188
+2018-12-20 01:59:21 +0000,1,Bassett,GS,Goal - Score,3,33,32,54, 188
+2018-12-20 01:59:27 +0000,0,Charles,C,Centre Pass,3,33,33,50, 100
+2018-12-20 01:59:28 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,33,33,28, 78
+2018-12-20 01:59:29 +0000,0,Colyer ,WA,Assist - 2nd Phase,3,33,33,16, 58
+2018-12-20 01:59:31 +0000,0,Anstiss,WD,Possession,3,33,33,35, 73
+2018-12-20 01:59:34 +0000,0,Colyer ,WA,Possession,3,33,33,18, 27
+2018-12-20 01:59:36 +0000,0,Colyer ,WA,Assist - Circle Entry,3,33,33,18, 27
+2018-12-20 01:59:37 +0000,0,Fowler,GS,Goal - Score,3,33,33,48, 6
+2018-12-20 01:59:45 +0000,1,Scherian ,C,Centre Pass,3,34,33,50, 100
+2018-12-20 01:59:45 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,34,33,69, 115
+2018-12-20 01:59:47 +0000,1,Scherian ,C,Assist - 2nd Phase,3,34,33,62, 142
+2018-12-20 01:59:49 +0000,1,Scherian ,C,Assist - Circle Entry,3,34,33,62, 142
+2018-12-20 01:59:49 +0000,1,Wood,GA,Possession,3,34,33,78, 187
+2018-12-20 01:59:51 +0000,1,Browne,WA,Possession,3,34,33,78, 177
+2018-12-20 01:59:54 +0000,1,Browne,WA,Assist - Circle Entry,3,34,33,78, 177
+2018-12-20 01:59:54 +0000,1,Bassett,GS,Possession,3,34,33,53, 187
+2018-12-20 01:59:56 +0000,0,Francis,GD,Penaly - Contact,3,34,33,53, 187
+2018-12-20 01:59:56 +0000,1,Bassett,GS,Possession,3,34,33,53, 187
+2018-12-20 01:59:58 +0000,0,Bruce,GK,Penaly - Obstruction,3,34,33,53, 187
+2018-12-20 01:59:58 +0000,1,Bassett,GS,Goal - Score,3,34,33,53, 187
+2018-12-20 02:00:06 +0000,0,Charles,C,Centre Pass,3,34,34,50, 100
+2018-12-20 02:00:06 +0000,0,Francis,GD,Assist - Centre Pass Rec,3,34,34,71, 92
+2018-12-20 02:00:08 +0000,0,Colyer ,WA,Assist - 2nd Phase,3,34,34,82, 75
+2018-12-20 02:00:13 +0000,0,Francis,GD,Possession,3,34,34,86, 101
+2018-12-20 02:00:16 +0000,0,Medhurst,GA,Possession,3,34,34,56, 77
+2018-12-20 02:00:19 +0000,0,Medhurst,GA,Assist - Circle Entry,3,34,34,56, 77
+2018-12-20 02:00:19 +0000,0,Fowler,GS,Possession,3,34,34,56, 18
+2018-12-20 02:00:23 +0000,0,Charles,C,Possession,3,34,34,58, 36
+2018-12-20 02:00:25 +0000,0,Colyer ,WA,Possession,3,34,34,83, 16
+2018-12-20 02:00:28 +0000,0,Colyer ,WA,Assist - Circle Entry,3,34,34,83, 16
+2018-12-20 02:00:28 +0000,0,Medhurst,GA,Possession,3,34,34,64, 9
+2018-12-20 02:00:29 +0000,1,,UNKNOWN,Penaly - Contact,3,34,34,64, 9
+2018-12-20 02:00:29 +0000,0,Medhurst,GA,Possession,3,34,34,64, 9
+2018-12-20 02:00:37 +0000,1,Mentor,GK,Penaly - Contact,3,34,34,64, 9
+2018-12-20 02:00:37 +0000,0,Medhurst,GA,Goal - Score,3,34,34,64, 9
+2018-12-20 02:00:49 +0000,1,Scherian ,C,Centre Pass,3,35,34,50, 100
+2018-12-20 02:00:49 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,35,34,63, 118
+2018-12-20 02:00:54 +0000,1,Browne,WA,Assist - 2nd Phase,3,35,34,89, 143
+2018-12-20 02:00:56 +0000,1,Scherian ,C,Possession,3,35,34,83, 184
+2018-12-20 02:01:04 +0000,0,Bruce,GK,Penaly - Contact,3,35,34,62, 188
+2018-12-20 02:01:04 +0000,1,Wood,GA,Possession,3,35,34,62, 188
+2018-12-20 02:01:11 +0000,1,Bassett,GS,Goal - Miss,3,35,34,49, 191
+2018-12-20 02:01:13 +0000,1,Bassett,GS,Assist - Attack Rebound,3,35,34,50, 197
+2018-12-20 02:01:15 +0000,1,Bassett,GS,Goal - Score,3,35,34,49, 191
+2018-12-20 02:01:21 +0000,0,Charles,C,Centre Pass,3,35,35,50, 100
+2018-12-20 02:01:21 +0000,0,Francis,GD,Assist - Centre Pass Rec,3,35,35,71, 99
+2018-12-20 02:01:51 +0000,0,Francis,GD,Assist - Circle Entry,3,35,35,71, 99
+2018-12-20 02:01:51 +0000,1,Mentor,GK,Gain - Tip (Deflect),3,35,35,47, 24
+2018-12-20 02:01:55 +0000,1,Scherian ,C,Possession,3,35,35,47, 46
+2018-12-20 02:01:57 +0000,0,Fowler,GS,Penaly - Obstruction,3,35,35,47, 46
+2018-12-20 02:01:57 +0000,1,Mentor,GK,Possession,3,35,35,47, 46
+2018-12-20 02:02:05 +0000,1,McAuliffe,WD,Possession,3,35,35,46, 79
+2018-12-20 02:02:07 +0000,1,Browne,WA,Possession,3,35,35,63, 94
+2018-12-20 02:02:10 +0000,1,Bassett,GS,Possession,3,35,35,84, 172
+2018-12-20 02:02:12 +0000,1,Browne,WA,Possession,3,35,35,78, 138
+2018-12-20 02:02:15 +0000,1,Scherian ,C,Possession,3,35,35,59, 139
+2018-12-20 02:02:17 +0000,1,Wood,GA,Possession,3,35,35,40, 150
+2018-12-20 02:02:19 +0000,1,Browne,WA,Possession,3,35,35,50, 141
+2018-12-20 02:02:21 +0000,1,Wood,GA,Possession,3,35,35,29, 168
+2018-12-20 02:02:24 +0000,0,Charles,C,Penaly - Contact,3,35,35,37, 166
+2018-12-20 02:02:24 +0000,1,Browne,WA,Possession,3,35,35,37, 166
+2018-12-20 02:02:32 +0000,1,Browne,WA,Assist - Circle Entry,3,35,35,37, 166
+2018-12-20 02:02:32 +0000,1,Bassett,GS,Goal - Score,3,35,35,47, 194
+2018-12-20 02:02:41 +0000,1,Scherian ,C,Centre Pass,3,35,36,50, 100
+2018-12-20 02:02:42 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,35,36,69, 119
+2018-12-20 02:02:43 +0000,1,Browne,WA,Assist - 2nd Phase,3,35,36,32, 166
+2018-12-20 02:02:47 +0000,0,Francis,GD,Deflect,3,35,36,54, 197
+2018-12-20 02:02:47 +0000,1,Wood,GA,Throw In,3,35,36,51, 204
+2018-12-20 02:02:54 +0000,1,Browne,WA,Possession,3,35,36,84, 188
+2018-12-20 02:02:57 +0000,1,Browne,WA,Assist - Circle Entry,3,35,36,84, 188
+2018-12-20 02:02:57 +0000,1,Wood,GA,Possession,3,35,36,72, 191
+2018-12-20 02:02:59 +0000,1,Browne,WA,Possession,3,35,36,16, 183
+2018-12-20 02:03:02 +0000,1,Wood,GA,Possession,3,35,36,48, 164
+2018-12-20 02:03:04 +0000,1,Wood,GA,Assist - Circle Entry,3,35,36,48, 164
+2018-12-20 02:03:04 +0000,1,Bassett,GS,Goal - Score,3,35,36,50, 191
+2018-12-20 02:03:10 +0000,0,Charles,C,Centre Pass,3,35,37,50, 100
+2018-12-20 02:03:10 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,35,37,69, 91
+2018-12-20 02:03:12 +0000,0,Charles,C,Assist - 2nd Phase,3,35,37,64, 50
+2018-12-20 02:03:14 +0000,0,Charles,C,Assist - Circle Entry,3,35,37,64, 50
+2018-12-20 02:03:14 +0000,0,Fowler,GS,Goal - Score,3,35,37,48, 7
+2018-12-20 02:03:21 +0000,0,,UNKNOWN,Timeout,3,36,37,-10, -22
+2018-12-20 02:04:17 +0000,1,Scherian ,C,Centre Pass,3,36,37,50, 100
+2018-12-20 02:04:17 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,36,37,87, 120
+2018-12-20 02:04:19 +0000,1,Browne,WA,Assist - 2nd Phase,3,36,37,94, 173
+2018-12-20 02:04:21 +0000,1,Wood,GA,Possession,3,36,37,76, 153
+2018-12-20 02:04:48 +0000,1,Browne,WA,Possession,3,36,37,64, 167
+2018-12-20 02:04:51 +0000,1,Scherian ,C,Possession,3,36,37,15, 189
+2018-12-20 02:04:53 +0000,1,Browne,WA,Possession,3,36,37,38, 166
+2018-12-20 02:04:57 +0000,1,Browne,WA,Assist - Circle Entry,3,36,37,38, 166
+2018-12-20 02:04:57 +0000,1,Wood,GA,Goal - Score,3,36,37,46, 180
+2018-12-20 02:05:04 +0000,0,Charles,C,Centre Pass,3,36,38,50, 100
+2018-12-20 02:05:04 +0000,0,Francis,GD,Assist - Centre Pass Rec,3,36,38,33, 121
+2018-12-20 02:05:06 +0000,0,Charles,C,Assist - 2nd Phase,3,36,38,58, 121
+2018-12-20 02:05:12 +0000,0,Anstiss,WD,Possession,3,36,38,66, 91
+2018-12-20 02:05:13 +0000,1,Browne,WA,Penaly - Contact,3,36,38,66, 91
+2018-12-20 02:05:14 +0000,0,Anstiss,WD,Possession,3,36,38,66, 91
+2018-12-20 02:05:18 +0000,0,Medhurst,GA,Possession,3,36,38,41, 71
+2018-12-20 02:05:21 +0000,0,Medhurst,GA,Assist - Circle Entry,3,36,38,41, 71
+2018-12-20 02:05:21 +0000,0,Fowler,GS,Possession,3,36,38,33, 23
+2018-12-20 02:05:22 +0000,0,Colyer ,WA,Possession,3,36,38,40, 34
+2018-12-20 02:05:24 +0000,0,Colyer ,WA,Assist - Circle Entry,3,36,38,40, 34
+2018-12-20 02:05:24 +0000,0,Medhurst,GA,Goal - Score,3,36,38,39, 15
+2018-12-20 02:05:34 +0000,1,Scherian ,C,Centre Pass,3,37,38,50, 100
+2018-12-20 02:05:34 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,3,37,38,61, 86
+2018-12-20 02:05:36 +0000,1,Browne,WA,Assist - 2nd Phase,3,37,38,88, 103
+2018-12-20 02:05:38 +0000,1,Scherian ,C,Possession,3,37,38,31, 145
+2018-12-20 02:05:40 +0000,1,Bassett,GS,Possession,3,37,38,52, 154
+2018-12-20 02:05:42 +0000,1,Scherian ,C,Possession,3,37,38,40, 162
+2018-12-20 02:05:44 +0000,0,Charles,C,Penaly - Contact,3,37,38,40, 162
+2018-12-20 02:05:44 +0000,1,Scherian ,C,Possession,3,37,38,40, 162
+2018-12-20 02:05:50 +0000,1,Scherian ,C,Assist - Circle Entry,3,37,38,40, 162
+2018-12-20 02:05:50 +0000,1,Bassett,GS,Goal - Score,3,37,38,51, 192
+2018-12-20 02:05:57 +0000,0,Charles,C,Centre Pass,3,37,39,50, 100
+2018-12-20 02:05:57 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,37,39,74, 89
+2018-12-20 02:05:59 +0000,0,Francis,GD,Assist - 2nd Phase,3,37,39,57, 119
+2018-12-20 02:06:01 +0000,0,Anstiss,WD,Possession,3,37,39,18, 80
+2018-12-20 02:06:03 +0000,0,Colyer ,WA,Possession,3,37,39,32, 30
+2018-12-20 02:06:06 +0000,0,Colyer ,WA,Assist - Circle Entry,3,37,39,32, 30
+2018-12-20 02:06:06 +0000,0,Fowler,GS,Goal - Score,3,37,39,54, 8
+2018-12-20 02:06:14 +0000,1,Scherian ,C,Centre Pass,3,38,39,50, 100
+2018-12-20 02:06:14 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,3,38,39,28, 108
+2018-12-20 02:06:16 +0000,1,Wood,GA,Assist - 2nd Phase,3,38,39,65, 122
+2018-12-20 02:06:18 +0000,1,Scherian ,C,Possession,3,38,39,84, 166
+2018-12-20 02:06:20 +0000,1,Scherian ,C,Assist - Circle Entry,3,38,39,84, 166
+2018-12-20 02:06:20 +0000,1,Bassett,GS,Goal - Score,3,38,39,59, 191
+2018-12-20 02:06:32 +0000,0,Charles,C,Centre Pass,3,38,40,50, 100
+2018-12-20 02:06:32 +0000,0,Medhurst,GA,Loss - Break,3,38,40,53, 68
+2018-12-20 02:06:54 +0000,1,Pretorius ,GD,Possession,3,38,40,54, 68
+2018-12-20 02:06:56 +0000,1,Browne,WA,Possession,3,38,40,53, 90
+2018-12-20 02:07:00 +0000,1,Wood,GA,Possession,3,38,40,91, 122
+2018-12-20 02:07:04 +0000,1,Pretorius ,GD,Possession,3,38,40,84, 111
+2018-12-20 02:07:08 +0000,1,McAuliffe,WD,Loss - Drop,3,38,40,78, 111
+2018-12-20 02:07:11 +0000,0,Colyer ,WA,Gain - Inter,3,38,40,75, 113
+2018-12-20 02:07:26 +0000,0,Medhurst,GA,Possession,3,38,40,89, 110
+2018-12-20 02:07:29 +0000,0,Francis,GD,Possession,3,38,40,96, 108
+2018-12-20 02:07:31 +0000,0,Medhurst,GA,Possession,3,38,40,82, 72
+2018-12-20 02:07:34 +0000,0,Anstiss,WD,Possession,3,38,40,65, 69
+2018-12-20 02:07:36 +0000,0,Colyer ,WA,Possession,3,38,40,26, 32
+2018-12-20 02:07:47 +0000,0,Charles,C,Possession,3,38,40,30, 31
+2018-12-20 02:07:49 +0000,0,Charles,C,Assist - Circle Entry,3,38,40,30, 31
+2018-12-20 02:07:49 +0000,0,Fowler,GS,Assist - 2nd Phase,3,38,40,65, 19
+2018-12-20 02:07:53 +0000,0,Charles,C,Possession,3,38,40,54, 36
+2018-12-20 02:07:59 +0000,0,Anstiss,WD,Possession,3,38,40,21, 69
+2018-12-20 02:08:02 +0000,0,Colyer ,WA,Possession,3,38,40,21, 41
+2018-12-20 02:08:04 +0000,0,Medhurst,GA,Possession,3,38,40,43, 48
+2018-12-20 02:08:06 +0000,0,Medhurst,GA,Possession,3,38,40,17, 12
+2018-12-20 02:08:10 +0000,1,Mentor,GK,Penaly - Contact,3,38,40,53, 14
+2018-12-20 02:08:10 +0000,0,Medhurst,GA,Possession,3,38,40,53, 14
+2018-12-20 02:08:22 +0000,0,Fowler,GS,Goal - Score,3,38,40,48, 4
+2018-12-20 02:08:31 +0000,1,Scherian ,C,Centre Pass,3,39,40,50, 100
+2018-12-20 02:08:31 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,39,40,67, 108
+2018-12-20 02:08:33 +0000,1,Wood,GA,Assist - 2nd Phase,3,39,40,83, 144
+2018-12-20 02:08:35 +0000,1,Scherian ,C,Possession,3,39,40,76, 158
+2018-12-20 02:08:38 +0000,1,Scherian ,C,Assist - Circle Entry,3,39,40,76, 158
+2018-12-20 02:08:38 +0000,1,Bassett,GS,Goal - Score,3,39,40,62, 193
+2018-12-20 02:08:46 +0000,0,Charles,C,Centre Pass,3,39,41,50, 100
+2018-12-20 02:08:46 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,39,41,71, 84
+2018-12-20 02:08:48 +0000,0,Colyer ,WA,Assist - 2nd Phase,3,39,41,50, 71
+2018-12-20 02:08:50 +0000,0,Anstiss,WD,Possession,3,39,41,72, 73
+2018-12-20 02:08:52 +0000,0,Charles,C,Possession,3,39,41,73, 57
+2018-12-20 02:08:54 +0000,0,Medhurst,GA,Possession,3,39,41,23, 28
+2018-12-20 02:08:55 +0000,0,Colyer ,WA,Possession,3,39,41,15, 11
+2018-12-20 02:08:57 +0000,0,Colyer ,WA,Assist - Circle Entry,3,39,41,15, 11
+2018-12-20 02:08:57 +0000,0,Medhurst,GA,Possession,3,39,41,31, 11
+2018-12-20 02:08:59 +0000,0,Charles,C,Possession,3,39,41,41, 33
+2018-12-20 02:09:03 +0000,0,Charles,C,Assist - Circle Entry,3,39,41,41, 33
+2018-12-20 02:09:03 +0000,0,Fowler,GS,Goal - Score,3,39,41,54, 10
+2018-12-20 02:09:13 +0000,1,Scherian ,C,Centre Pass,3,40,41,50, 100
+2018-12-20 02:09:13 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,40,41,83, 123
+2018-12-20 02:09:15 +0000,1,Browne,WA,Assist - 2nd Phase,3,40,41,81, 157
+2018-12-20 02:09:17 +0000,1,Browne,WA,Possession,3,40,41,80, 180
+2018-12-20 02:09:20 +0000,1,Browne,WA,Assist - Circle Entry,3,40,41,80, 180
+2018-12-20 02:09:20 +0000,1,Wood,GA,Possession,3,40,41,67, 191
+2018-12-20 02:09:23 +0000,1,Bassett,GS,Goal - Score,3,40,41,47, 192
+2018-12-20 02:09:31 +0000,0,Charles,C,Centre Pass,3,40,42,50, 100
+2018-12-20 02:09:31 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,40,42,79, 76
+2018-12-20 02:09:32 +0000,0,Medhurst,GA,Assist - 2nd Phase,3,40,42,79, 53
+2018-12-20 02:09:34 +0000,0,Colyer ,WA,Possession,3,40,42,33, 44
+2018-12-20 02:09:38 +0000,0,Colyer ,WA,Assist - Circle Entry,3,40,42,33, 44
+2018-12-20 02:09:38 +0000,0,Fowler,GS,Possession,3,40,42,36, 14
+2018-12-20 02:09:39 +0000,0,Colyer ,WA,Possession,3,40,42,29, 26
+2018-12-20 02:09:45 +0000,0,Colyer ,WA,Assist - Circle Entry,3,40,42,29, 26
+2018-12-20 02:09:45 +0000,0,Fowler,GS,Possession,3,40,42,44, 10
+2018-12-20 02:09:46 +0000,1,Mentor,GK,Penaly - Contact,3,40,42,44, 10
+2018-12-20 02:09:46 +0000,0,Fowler,GS,Goal - Score,3,40,42,44, 10
+2018-12-20 02:09:57 +0000,1,Scherian ,C,Centre Pass,3,41,42,50, 100
+2018-12-20 02:09:58 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,41,42,82, 122
+2018-12-20 02:10:00 +0000,1,Scherian ,C,Assist - 2nd Phase,3,41,42,72, 148
+2018-12-20 02:10:02 +0000,1,McAuliffe,WD,Possession,3,41,42,59, 129
+2018-12-20 02:10:04 +0000,1,Browne,WA,Possession,3,41,42,51, 149
+2018-12-20 02:10:08 +0000,1,Wood,GA,Possession,3,41,42,67, 142
+2018-12-20 02:10:11 +0000,1,Scherian ,C,Possession,3,41,42,90, 183
+2018-12-20 02:10:16 +0000,1,Scherian ,C,Assist - Circle Entry,3,41,42,90, 183
+2018-12-20 02:10:16 +0000,0,Bruce,GK,Gain - Tip (Deflect),3,41,42,47, 188
+2018-12-20 02:10:20 +0000,0,Anstiss,WD,Possession,3,41,42,42, 164
+2018-12-20 02:10:22 +0000,0,Bruce,GK,Possession,3,41,42,46, 175
+2018-12-20 02:10:24 +0000,0,Charles,C,Possession,3,41,42,62, 155
+2018-12-20 02:10:26 +0000,0,Bruce,GK,Possession,3,41,42,46, 158
+2018-12-20 02:10:29 +0000,0,Francis,GD,Possession,3,41,42,25, 127
+2018-12-20 02:10:32 +0000,0,Anstiss,WD,Possession,3,41,42,41, 124
+2018-12-20 02:10:34 +0000,0,Charles,C,Possession,3,41,42,82, 96
+2018-12-20 02:10:36 +0000,0,Anstiss,WD,Possession,3,41,42,58, 84
+2018-12-20 02:10:39 +0000,0,Medhurst,GA,Possession,3,41,42,41, 62
+2018-12-20 02:10:42 +0000,0,Medhurst,GA,Assist - Circle Entry,3,41,42,41, 62
+2018-12-20 02:10:42 +0000,0,Fowler,GS,Possession,3,41,42,35, 17
+2018-12-20 02:10:50 +0000,1,McAuliffe,WD,Loss - Offside,3,41,42,74, 19
+2018-12-20 02:10:50 +0000,0,Medhurst,GA,Possession,3,41,42,74, 19
+2018-12-20 02:10:58 +0000,0,Fowler,GS,Goal - Score,3,41,42,50, 7
+2018-12-20 02:11:08 +0000,0,Charles,C,Centre Pass,3,42,42,50, 100
+2018-12-20 02:11:08 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,42,42,55, 77
+2018-12-20 02:11:10 +0000,0,Medhurst,GA,Assist - 2nd Phase,3,42,42,85, 70
+2018-12-20 02:11:16 +0000,0,Colyer ,WA,Possession,3,42,42,77, 37
+2018-12-20 02:11:19 +0000,0,Medhurst,GA,Possession,3,42,42,83, 11
+2018-12-20 02:11:23 +0000,0,Medhurst,GA,Assist - Circle Entry,3,42,42,83, 11
+2018-12-20 02:11:24 +0000,0,Fowler,GS,Goal - Score,3,42,42,55, 16
+2018-12-20 02:11:36 +0000,1,Scherian ,C,Centre Pass,3,43,42,50, 100
+2018-12-20 02:11:36 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,43,42,68, 113
+2018-12-20 02:11:38 +0000,1,Browne,WA,Assist - 2nd Phase,3,43,42,76, 128
+2018-12-20 02:11:40 +0000,1,Scherian ,C,Possession,3,43,42,63, 139
+2018-12-20 02:11:42 +0000,1,Browne,WA,Possession,3,43,42,88, 143
+2018-12-20 02:11:45 +0000,1,McAuliffe,WD,Possession,3,43,42,46, 130
+2018-12-20 02:11:47 +0000,0,Anstiss,WD,Penaly - Contact,3,43,42,50, 144
+2018-12-20 02:11:47 +0000,1,Browne,WA,Possession,3,43,42,50, 144
+2018-12-20 02:11:53 +0000,1,Wood,GA,Possession,3,43,42,63, 165
+2018-12-20 02:11:55 +0000,1,Browne,WA,Possession,3,43,42,56, 165
+2018-12-20 02:11:57 +0000,1,Browne,WA,Assist - Circle Entry,3,43,42,56, 165
+2018-12-20 02:11:57 +0000,1,Bassett,GS,Possession,3,43,42,46, 195
+2018-12-20 02:11:59 +0000,0,Bruce,GK,Penaly - Contact,3,43,42,46, 195
+2018-12-20 02:11:59 +0000,1,Bassett,GS,Goal - Score,3,43,42,46, 195
+2018-12-20 02:12:05 +0000,0,Charles,C,Centre Pass,3,43,43,50, 100
+2018-12-20 02:12:05 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,43,43,72, 104
+2018-12-20 02:12:07 +0000,0,Anstiss,WD,Assist - 2nd Phase,3,43,43,51, 122
+2018-12-20 02:12:09 +0000,0,Medhurst,GA,Possession,3,43,43,34, 105
+2018-12-20 02:12:11 +0000,0,Charles,C,Possession,3,43,43,61, 83
+2018-12-20 02:13:10 +0000,1,Browne,WA,Penaly - Contact,3,43,43,61, 83
+2018-12-20 02:13:10 +0000,0,Anstiss,WD,Possession,3,43,43,61, 83
+2018-12-20 02:13:18 +0000,0,Colyer ,WA,Possession,3,43,43,41, 60
+2018-12-20 02:13:28 +0000,0,Medhurst,GA,Possession,3,43,43,16, 42
+2018-12-20 02:13:31 +0000,1,Pretorius ,GD,Penaly - Contact,3,43,43,16, 42
+2018-12-20 02:13:32 +0000,0,Charles,C,Possession,3,43,43,16, 42
+2018-12-20 02:13:50 +0000,0,Charles,C,Assist - Circle Entry,3,43,43,16, 42
+2018-12-20 02:13:50 +0000,0,Fowler,GS,Possession,3,43,43,36, 11
+2018-12-20 02:13:52 +0000,0,Colyer ,WA,Possession,3,43,43,83, 17
+2018-12-20 02:13:54 +0000,0,Colyer ,WA,Assist - Circle Entry,3,43,43,83, 17
+2018-12-20 02:13:54 +0000,0,Medhurst,GA,Possession,3,43,43,78, 8
+2018-12-20 02:13:56 +0000,0,Colyer ,WA,Possession,3,43,43,79, 21
+2018-12-20 02:13:59 +0000,0,Colyer ,WA,Assist - Circle Entry,3,43,43,79, 21
+2018-12-20 02:13:59 +0000,0,Medhurst,GA,Possession,3,43,43,70, 14
+2018-12-20 02:14:00 +0000,0,Colyer ,WA,Possession,3,43,43,77, 22
+2018-12-20 02:14:03 +0000,0,Colyer ,WA,Assist - Circle Entry,3,43,43,77, 22
+2018-12-20 02:14:03 +0000,0,Medhurst,GA,Goal - Score,3,43,43,61, 10
+2018-12-20 02:14:14 +0000,1,Scherian ,C,Centre Pass,3,44,43,50, 100
+2018-12-20 02:14:14 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,44,43,45, 115
+2018-12-20 02:14:17 +0000,1,McAuliffe,WD,Assist - 2nd Phase,3,44,43,71, 127
+2018-12-20 02:14:20 +0000,1,McAuliffe,WD,Assist - Circle Entry,3,44,43,71, 127
+2018-12-20 02:14:20 +0000,1,Bassett,GS,Goal - Score,3,44,43,50, 192
+2018-12-20 02:14:28 +0000,0,Charles,C,Centre Pass,3,44,44,50, 100
+2018-12-20 02:14:28 +0000,0,Francis,GD,Assist - Centre Pass Rec,3,44,44,65, 81
+2018-12-20 02:14:31 +0000,1,Pretorius ,GD,Gain - Inter,3,44,44,80, 73
+2018-12-20 02:14:34 +0000,1,Browne,WA,Possession,3,44,44,83, 111
+2018-12-20 02:14:37 +0000,1,Wood,GA,Possession,3,44,44,84, 179
+2018-12-20 02:14:40 +0000,1,Wood,GA,Assist - Circle Entry,3,44,44,84, 179
+2018-12-20 02:14:41 +0000,1,Bassett,GS,Possession,3,44,44,69, 185
+2018-12-20 02:14:42 +0000,0,Bruce,GK,Penaly - Contact,3,44,44,69, 185
+2018-12-20 02:14:42 +0000,1,Wood,GA,Possession,3,44,44,69, 185
+2018-12-20 02:14:45 +0000,1,Bassett,GS,Goal - Score,3,44,44,51, 190
+2018-12-20 02:14:55 +0000,1,Scherian ,C,Centre Pass,3,44,45,50, 100
+2018-12-20 02:14:55 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,44,45,32, 114
+2018-12-20 02:14:57 +0000,1,Wood,GA,Possession,3,44,45,26, 149
+2018-12-20 02:15:03 +0000,0,Charles,C,Penaly - Contact,3,44,45,37, 167
+2018-12-20 02:15:04 +0000,1,Scherian ,C,Possession,3,44,45,37, 167
+2018-12-20 02:15:10 +0000,1,Scherian ,C,Assist - Circle Entry,3,44,45,37, 167
+2018-12-20 02:15:10 +0000,1,Bassett,GS,Goal - Score,3,44,45,44, 196
+2018-12-20 02:15:18 +0000,0,Charles,C,Centre Pass,3,44,46,50, 100
+2018-12-20 02:15:18 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,44,46,36, 92
+2018-12-20 02:15:20 +0000,0,Anstiss,WD,Assist - 2nd Phase,3,44,46,87, 85
+2018-12-20 02:15:22 +0000,0,Francis,GD,Possession,3,44,46,77, 111
+2018-12-20 02:15:27 +0000,0,Colyer ,WA,Possession,3,44,46,89, 49
+2018-12-20 02:15:30 +0000,0,Anstiss,WD,Possession,3,44,46,73, 71
+2018-12-20 02:15:36 +0000,0,Medhurst,GA,Possession,3,44,46,47, 43
+2018-12-20 02:15:40 +0000,0,Medhurst,GA,Assist - Circle Entry,3,44,46,47, 43
+2018-12-20 02:15:40 +0000,0,Fowler,GS,Goal - Score,3,44,46,53, 9
+2018-12-20 02:15:49 +0000,1,Scherian ,C,Centre Pass,3,45,46,50, 100
+2018-12-20 02:15:49 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,45,46,35, 113
+2018-12-20 02:15:51 +0000,1,Wood,GA,Assist - 2nd Phase,3,45,46,20, 125
+2018-12-20 02:15:55 +0000,1,Browne,WA,Possession,3,45,46,89, 154
+2018-12-20 02:15:57 +0000,1,Wood,GA,Possession,3,45,46,67, 149
+2018-12-20 02:16:00 +0000,1,Wood,GA,Assist - Circle Entry,3,45,46,67, 149
+2018-12-20 02:16:00 +0000,1,Bassett,GS,Goal - Score,3,45,46,49, 182
+2018-12-20 02:16:10 +0000,0,Charles,C,Centre Pass,3,45,47,50, 100
+2018-12-20 02:16:10 +0000,1,Pretorius ,GD,Gain - Inter,3,45,47,36, 93
+2018-12-20 02:16:15 +0000,1,Browne,WA,Possession,3,45,47,53, 127
+2018-12-20 02:16:17 +0000,1,Browne,WA,Assist - Circle Entry,3,45,47,53, 127
+2018-12-20 02:16:17 +0000,1,Bassett,GS,Goal - Score,3,45,47,52, 189
+2018-12-20 02:17:49 +0000,1,Scherian ,C,Centre Pass,4,45,48,50, 100
+2018-12-20 02:17:49 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,45,48,59, 116
+2018-12-20 02:17:51 +0000,1,Browne,WA,Assist - 2nd Phase,4,45,48,59, 140
+2018-12-20 02:17:52 +0000,1,Scherian ,C,Possession,4,45,48,10, 126
+2018-12-20 02:17:55 +0000,1,Browne,WA,Possession,4,45,48,14, 150
+2018-12-20 02:17:58 +0000,1,Wood,GA,Possession,4,45,48,27, 154
+2018-12-20 02:18:00 +0000,1,Browne,WA,Possession,4,45,48,17, 157
+2018-12-20 02:18:03 +0000,1,Wood,GA,Possession,4,45,48,29, 160
+2018-12-20 02:18:09 +0000,0,Bruce,GK,Deflect,4,45,48,30, 192
+2018-12-20 02:18:09 +0000,1,Bassett,GS,Possession,4,45,48,10, 189
+2018-12-20 02:18:17 +0000,1,Bassett,GS,Assist - Circle Entry,4,45,48,10, 189
+2018-12-20 02:18:17 +0000,1,Wood,GA,Goal - Score,4,45,48,47, 196
+2018-12-20 02:18:25 +0000,0,Charles,C,Centre Pass,4,45,49,50, 100
+2018-12-20 02:18:26 +0000,0,Francis,GD,Assist - Centre Pass Rec,4,45,49,85, 103
+2018-12-20 02:18:27 +0000,0,Charles,C,Assist - 2nd Phase,4,45,49,60, 112
+2018-12-20 02:18:29 +0000,0,Anstiss,WD,Possession,4,45,49,17, 103
+2018-12-20 02:18:32 +0000,0,Charles,C,Possession,4,45,49,22, 63
+2018-12-20 02:18:34 +0000,0,Charles,C,Assist - Circle Entry,4,45,49,22, 63
+2018-12-20 02:18:34 +0000,0,Fowler,GS,Possession,4,45,49,38, 13
+2018-12-20 02:18:37 +0000,0,Charles,C,Possession,4,45,49,34, 32
+2018-12-20 02:18:40 +0000,0,Colyer ,WA,Possession,4,45,49,76, 20
+2018-12-20 02:18:42 +0000,0,Medhurst,GA,Possession,4,45,49,52, 39
+2018-12-20 02:18:44 +0000,0,Charles,C,Possession,4,45,49,16, 16
+2018-12-20 02:18:51 +0000,0,Anstiss,WD,Possession,4,45,49,15, 69
+2018-12-20 02:18:59 +0000,1,Browne,WA,Penaly - Contact,4,45,49,15, 69
+2018-12-20 02:18:59 +0000,0,Anstiss,WD,Possession,4,45,49,15, 69
+2018-12-20 02:19:05 +0000,0,Medhurst,GA,Possession,4,45,49,25, 55
+2018-12-20 02:19:09 +0000,1,Scherian ,C,Penaly - Obstruction,4,45,49,44, 45
+2018-12-20 02:19:09 +0000,0,Colyer ,WA,Possession,4,45,49,44, 45
+2018-12-20 02:19:16 +0000,0,Charles,C,Possession,4,45,49,30, 29
+2018-12-20 02:19:20 +0000,0,Colyer ,WA,Possession,4,45,49,48, 33
+2018-12-20 02:19:22 +0000,0,Colyer ,WA,Assist - Circle Entry,4,45,49,48, 33
+2018-12-20 02:19:22 +0000,0,Fowler,GS,Possession,4,45,49,56, 17
+2018-12-20 02:19:33 +0000,0,Medhurst,GA,Goal - Miss,4,45,49,33, 4
+2018-12-20 02:19:34 +0000,1,Mentor,GK,Throw In,4,45,49,50, 7
+2018-12-20 02:19:40 +0000,1,McAuliffe,WD,Possession,4,45,49,76, 26
+2018-12-20 02:19:43 +0000,1,Pretorius ,GD,Possession,4,45,49,62, 36
+2018-12-20 02:19:46 +0000,1,Scherian ,C,Possession,4,45,49,60, 50
+2018-12-20 02:19:49 +0000,1,Mentor,GK,Loss - Bad Pass,4,45,49,30, 34
+2018-12-20 02:19:54 +0000,0,Colyer ,WA,Throw In,4,45,49,102, 50
+2018-12-20 02:20:35 +0000,1,Mentor,GK,Gain - Inter,4,45,49,96, 27
+2018-12-20 02:20:39 +0000,1,McAuliffe,WD,Loss - Drop,4,45,49,87, 38
+2018-12-20 02:20:49 +0000,0,Colyer ,WA,Gain - Inter,4,45,49,78, 33
+2018-12-20 02:20:57 +0000,1,Scherian ,C,Penaly - Contact,4,45,49,78, 33
+2018-12-20 02:21:11 +0000,0,Colyer ,WA,Possession,4,45,49,77, 31
+2018-12-20 02:21:36 +0000,1,Pretorius ,GD,Deflect,4,45,49,52, 34
+2018-12-20 02:21:36 +0000,0,Charles,C,Throw In,4,45,49,-7, 63
+2018-12-20 02:21:52 +0000,0,Anstiss,WD,Possession,4,45,49,41, 73
+2018-12-20 02:21:54 +0000,0,Medhurst,GA,Possession,4,45,49,15, 20
+2018-12-20 02:21:57 +0000,0,Medhurst,GA,Assist - Circle Entry,4,45,49,15, 20
+2018-12-20 02:21:57 +0000,0,Fowler,GS,Goal - Score,4,45,49,45, 4
+2018-12-20 02:22:06 +0000,1,Scherian ,C,Centre Pass,4,46,49,50, 100
+2018-12-20 02:22:06 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,46,49,76, 119
+2018-12-20 02:22:08 +0000,1,Scherian ,C,Assist - 2nd Phase,4,46,49,55, 129
+2018-12-20 02:22:11 +0000,1,Browne,WA,Possession,4,46,49,52, 147
+2018-12-20 02:22:13 +0000,1,Bassett,GS,Possession,4,46,49,22, 174
+2018-12-20 02:22:15 +0000,1,Scherian ,C,Possession,4,46,49,9, 147
+2018-12-20 02:22:17 +0000,1,Browne,WA,Possession,4,46,49,30, 148
+2018-12-20 02:22:20 +0000,1,Wood,GA,Possession,4,46,49,64, 168
+2018-12-20 02:22:22 +0000,1,Scherian ,C,Possession,4,46,49,45, 163
+2018-12-20 02:22:25 +0000,1,Scherian ,C,Assist - Circle Entry,4,46,49,45, 163
+2018-12-20 02:22:25 +0000,1,Bassett,GS,Goal - Score,4,46,49,51, 193
+2018-12-20 02:22:33 +0000,0,Charles,C,Centre Pass,4,46,50,50, 100
+2018-12-20 02:22:33 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,46,50,10, 79
+2018-12-20 02:22:35 +0000,0,Francis,GD,Assist - 2nd Phase,4,46,50,23, 91
+2018-12-20 02:22:37 +0000,0,Anstiss,WD,Possession,4,46,50,68, 93
+2018-12-20 02:22:39 +0000,0,Francis,GD,Possession,4,46,50,27, 98
+2018-12-20 02:22:41 +0000,0,Charles,C,Possession,4,46,50,24, 71
+2018-12-20 02:22:44 +0000,0,Anstiss,WD,Possession,4,46,50,68, 75
+2018-12-20 02:22:47 +0000,0,Anstiss,WD,Assist - Circle Entry,4,46,50,68, 75
+2018-12-20 02:22:47 +0000,0,Fowler,GS,Goal - Score,4,46,50,46, 9
+2018-12-20 02:22:56 +0000,1,Scherian ,C,Centre Pass,4,47,50,50, 100
+2018-12-20 02:22:56 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,47,50,49, 120
+2018-12-20 02:22:58 +0000,1,McAuliffe,WD,Assist - 2nd Phase,4,47,50,19, 100
+2018-12-20 02:23:00 +0000,1,Browne,WA,Possession,4,47,50,34, 103
+2018-12-20 02:23:02 +0000,1,Pretorius ,GD,Possession,4,47,50,53, 90
+2018-12-20 02:23:04 +0000,1,Scherian ,C,Possession,4,47,50,69, 110
+2018-12-20 02:23:06 +0000,1,Browne,WA,Possession,4,47,50,69, 135
+2018-12-20 02:23:08 +0000,1,Wood,GA,Possession,4,47,50,77, 149
+2018-12-20 02:23:10 +0000,1,Browne,WA,Possession,4,47,50,66, 164
+2018-12-20 02:23:12 +0000,1,Browne,WA,Assist - Circle Entry,4,47,50,66, 164
+2018-12-20 02:23:12 +0000,1,Bassett,GS,Goal - Score,4,47,50,46, 193
+2018-12-20 02:23:21 +0000,0,Charles,C,Centre Pass,4,47,51,50, 100
+2018-12-20 02:23:21 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,47,51,13, 75
+2018-12-20 02:23:24 +0000,0,Charles,C,Assist - 2nd Phase,4,47,51,27, 73
+2018-12-20 02:23:25 +0000,0,Medhurst,GA,Possession,4,47,51,16, 51
+2018-12-20 02:23:28 +0000,1,Mentor,GK,Deflect,4,47,51,23, 4
+2018-12-20 02:23:37 +0000,0,Medhurst,GA,Throw In,4,47,51,17, -6
+2018-12-20 02:23:46 +0000,0,Medhurst,GA,Assist - Circle Entry,4,47,51,17, -6
+2018-12-20 02:23:46 +0000,0,Fowler,GS,Possession,4,47,51,21, 8
+2018-12-20 02:23:53 +0000,1,Pretorius ,GD,Penaly - Contact,4,47,51,32, 4
+2018-12-20 02:23:53 +0000,0,Fowler,GS,Goal - Score,4,47,51,32, 4
+2018-12-20 02:24:04 +0000,1,Scherian ,C,Centre Pass,4,48,51,50, 100
+2018-12-20 02:24:04 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,48,51,47, 121
+2018-12-20 02:24:06 +0000,1,Browne,WA,Assist - 2nd Phase,4,48,51,37, 137
+2018-12-20 02:24:09 +0000,1,Wood,GA,Loss - Bad Pass,4,48,51,72, 152
+2018-12-20 02:24:17 +0000,0,Bruce,GK,Throw In,4,48,51,27, 203
+2018-12-20 02:24:24 +0000,1,Bassett,GS,Deflect,4,48,51,4, 183
+2018-12-20 02:24:24 +0000,0,Bruce,GK,Throw In,4,48,51,-5, 187
+2018-12-20 02:24:30 +0000,0,Anstiss,WD,Possession,4,48,51,18, 175
+2018-12-20 02:24:32 +0000,0,Bruce,GK,Possession,4,48,51,8, 166
+2018-12-20 02:24:35 +0000,0,Anstiss,WD,Possession,4,48,51,26, 165
+2018-12-20 02:24:37 +0000,0,Francis,GD,Possession,4,48,51,11, 143
+2018-12-20 02:24:42 +0000,0,Bruce,GK,Possession,4,48,51,47, 156
+2018-12-20 02:24:49 +0000,0,Medhurst,GA,Possession,4,48,51,50, 119
+2018-12-20 02:24:53 +0000,0,Anstiss,WD,Possession,4,48,51,33, 88
+2018-12-20 02:24:55 +0000,0,Colyer ,WA,Possession,4,48,51,13, 58
+2018-12-20 02:24:57 +0000,0,Francis,GD,Possession,4,48,51,17, 91
+2018-12-20 02:24:59 +0000,0,Anstiss,WD,Possession,4,48,51,43, 70
+2018-12-20 02:25:03 +0000,0,Charles,C,Possession,4,48,51,74, 49
+2018-12-20 02:25:09 +0000,0,Charles,C,Assist - Circle Entry,4,48,51,74, 49
+2018-12-20 02:25:09 +0000,0,Medhurst,GA,Possession,4,48,51,65, 15
+2018-12-20 02:25:11 +0000,0,Fowler,GS,Goal - Score,4,48,51,47, 15
+2018-12-20 02:25:26 +0000,0,Charles,C,Centre Pass,4,49,51,50, 100
+2018-12-20 02:25:26 +0000,0,Francis,GD,Assist - Centre Pass Rec,4,49,51,60, 84
+2018-12-20 02:25:29 +0000,0,Colyer ,WA,Assist - 2nd Phase,4,49,51,79, 25
+2018-12-20 02:25:32 +0000,0,Colyer ,WA,Assist - Circle Entry,4,49,51,79, 25
+2018-12-20 02:25:32 +0000,0,Fowler,GS,Goal - Score,4,49,51,45, 10
+2018-12-20 02:25:41 +0000,1,Scherian ,C,Centre Pass,4,50,51,50, 100
+2018-12-20 02:25:41 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,4,50,51,61, 85
+2018-12-20 02:25:43 +0000,1,Scherian ,C,Assist - 2nd Phase,4,50,51,46, 83
+2018-12-20 02:25:48 +0000,1,McAuliffe,WD,Possession,4,50,51,42, 107
+2018-12-20 02:25:52 +0000,1,Scherian ,C,Possession,4,50,51,38, 96
+2018-12-20 02:25:54 +0000,1,Browne,WA,Possession,4,50,51,36, 125
+2018-12-20 02:25:56 +0000,1,Pretorius ,GD,Possession,4,50,51,22, 107
+2018-12-20 02:25:58 +0000,1,Wood,GA,Possession,4,50,51,13, 129
+2018-12-20 02:26:00 +0000,1,Pretorius ,GD,Possession,4,50,51,18, 114
+2018-12-20 02:26:02 +0000,1,Scherian ,C,Possession,4,50,51,30, 126
+2018-12-20 02:26:04 +0000,1,Browne,WA,Possession,4,50,51,43, 142
+2018-12-20 02:26:07 +0000,1,Wood,GA,Possession,4,50,51,35, 157
+2018-12-20 02:26:10 +0000,0,,UNKNOWN,Penaly - Contact,4,50,51,49, 163
+2018-12-20 02:26:10 +0000,1,Browne,WA,Possession,4,50,51,49, 163
+2018-12-20 02:26:16 +0000,1,Browne,WA,Assist - Circle Entry,4,50,51,49, 163
+2018-12-20 02:26:16 +0000,1,Wood,GA,Possession,4,50,51,48, 178
+2018-12-20 02:26:18 +0000,1,Bassett,GS,Possession,4,50,51,44, 190
+2018-12-20 02:26:20 +0000,0,Francis,GD,Penaly - Obstruction,4,50,51,44, 190
+2018-12-20 02:26:20 +0000,1,Bassett,GS,Goal - Score,4,50,51,44, 190
+2018-12-20 02:26:25 +0000,0,Charles,C,Centre Pass,4,50,52,50, 100
+2018-12-20 02:26:25 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,50,52,7, 73
+2018-12-20 02:26:27 +0000,0,Francis,GD,Assist - 2nd Phase,4,50,52,24, 75
+2018-12-20 02:26:29 +0000,0,Anstiss,WD,Possession,4,50,52,79, 90
+2018-12-20 02:26:31 +0000,0,Charles,C,Possession,4,50,52,70, 73
+2018-12-20 02:26:34 +0000,0,Colyer ,WA,Possession,4,50,52,58, 63
+2018-12-20 02:26:36 +0000,0,Medhurst,GA,Possession,4,50,52,14, 31
+2018-12-20 02:26:39 +0000,0,Medhurst,GA,Assist - Circle Entry,4,50,52,14, 31
+2018-12-20 02:26:39 +0000,0,Fowler,GS,Possession,4,50,52,38, 12
+2018-12-20 02:26:41 +0000,1,Mentor,GK,Penaly - Contact,4,50,52,38, 12
+2018-12-20 02:26:41 +0000,0,Fowler,GS,Possession,4,50,52,38, 12
+2018-12-20 02:26:44 +0000,0,Charles,C,Possession,4,50,52,21, 21
+2018-12-20 02:26:48 +0000,0,Colyer ,WA,Possession,4,50,52,77, 25
+2018-12-20 02:26:50 +0000,0,Medhurst,GA,Possession,4,50,52,67, 42
+2018-12-20 02:26:56 +0000,1,Mentor,GK,Deflect,4,50,52,24, 7
+2018-12-20 02:26:56 +0000,0,Fowler,GS,Possession,4,50,52,2, 21
+2018-12-20 02:27:00 +0000,0,Anstiss,WD,Possession,4,50,52,28, 70
+2018-12-20 02:27:03 +0000,0,Charles,C,Possession,4,50,52,41, 52
+2018-12-20 02:27:07 +0000,0,Anstiss,WD,Possession,4,50,52,48, 68
+2018-12-20 02:27:13 +0000,0,Charles,C,Possession,4,50,52,54, 56
+2018-12-20 02:27:15 +0000,0,Colyer ,WA,Possession,4,50,52,62, 34
+2018-12-20 02:27:20 +0000,0,Colyer ,WA,Assist - Circle Entry,4,50,52,62, 34
+2018-12-20 02:27:20 +0000,0,Fowler,GS,Goal - Score,4,50,52,48, 6
+2018-12-20 02:27:30 +0000,1,Scherian ,C,Centre Pass,4,51,52,50, 100
+2018-12-20 02:27:30 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,51,52,69, 117
+2018-12-20 02:27:31 +0000,1,Wood,GA,Assist - 2nd Phase,4,51,52,85, 130
+2018-12-20 02:27:33 +0000,1,Browne,WA,Possession,4,51,52,66, 136
+2018-12-20 02:27:37 +0000,1,Scherian ,C,Possession,4,51,52,77, 174
+2018-12-20 02:27:40 +0000,1,Scherian ,C,Assist - Circle Entry,4,51,52,77, 174
+2018-12-20 02:27:40 +0000,1,Bassett,GS,Possession,4,51,52,64, 189
+2018-12-20 02:27:43 +0000,1,Scherian ,C,Possession,4,51,52,79, 181
+2018-12-20 02:27:46 +0000,1,Wood,GA,Possession,4,51,52,84, 194
+2018-12-20 02:27:48 +0000,1,Scherian ,C,Possession,4,51,52,82, 185
+2018-12-20 02:27:50 +0000,1,Scherian ,C,Assist - Circle Entry,4,51,52,82, 185
+2018-12-20 02:27:50 +0000,1,Bassett,GS,Goal - Score,4,51,52,53, 193
+2018-12-20 02:27:56 +0000,0,Charles,C,Centre Pass,4,51,53,50, 100
+2018-12-20 02:27:56 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,51,53,82, 73
+2018-12-20 02:27:58 +0000,0,Anstiss,WD,Assist - 2nd Phase,4,51,53,47, 73
+2018-12-20 02:28:01 +0000,0,Medhurst,GA,Possession,4,51,53,12, 27
+2018-12-20 02:28:03 +0000,0,Charles,C,Possession,4,51,53,28, 29
+2018-12-20 02:28:08 +0000,0,Charles,C,Assist - Circle Entry,4,51,53,28, 29
+2018-12-20 02:28:08 +0000,0,Medhurst,GA,Possession,4,51,53,32, 6
+2018-12-20 02:28:12 +0000,1,Mentor,GK,Deflect,4,51,53,46, 3
+2018-12-20 02:28:12 +0000,0,Medhurst,GA,Throw In,4,51,53,41, -2
+2018-12-20 02:28:21 +0000,0,Medhurst,GA,Assist - Circle Entry,4,51,53,41, -2
+2018-12-20 02:28:21 +0000,0,Fowler,GS,Goal - Score,4,51,53,48, 10
+2018-12-20 02:28:29 +0000,1,,UNKNOWN,Timeout,4,52,53,110, 222
+2018-12-20 02:29:29 +0000,1,Scherian ,C,Centre Pass,4,52,53,50, 100
+2018-12-20 02:29:29 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,4,52,53,28, 88
+2018-12-20 02:29:31 +0000,1,McAuliffe,WD,Assist - 2nd Phase,4,52,53,46, 109
+2018-12-20 02:29:33 +0000,1,Browne,WA,Possession,4,52,53,83, 112
+2018-12-20 02:29:35 +0000,1,McAuliffe,WD,Possession,4,52,53,61, 91
+2018-12-20 02:29:38 +0000,1,Browne,WA,Possession,4,52,53,74, 103
+2018-12-20 02:29:40 +0000,1,McAuliffe,WD,Possession,4,52,53,65, 93
+2018-12-20 02:29:42 +0000,1,Wood,GA,Possession,4,52,53,83, 123
+2018-12-20 02:29:44 +0000,1,McAuliffe,WD,Possession,4,52,53,73, 126
+2018-12-20 02:29:46 +0000,1,Scherian ,C,Possession,4,52,53,80, 155
+2018-12-20 02:29:51 +0000,1,Pretorius ,GD,Possession,4,52,53,50, 131
+2018-12-20 02:29:52 +0000,1,Scherian ,C,Possession,4,52,53,48, 154
+2018-12-20 02:29:54 +0000,1,Wood,GA,Possession,4,52,53,76, 177
+2018-12-20 02:29:57 +0000,1,Browne,WA,Possession,4,52,53,67, 168
+2018-12-20 02:30:00 +0000,1,Browne,WA,Assist - Circle Entry,4,52,53,67, 168
+2018-12-20 02:30:00 +0000,1,Bassett,GS,Goal - Score,4,52,53,46, 185
+2018-12-20 02:30:07 +0000,0,Charles,C,Centre Pass,4,52,54,50, 100
+2018-12-20 02:30:07 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,52,54,4, 74
+2018-12-20 02:30:09 +0000,0,Medhurst,GA,Assist - 2nd Phase,4,52,54,27, 73
+2018-12-20 02:30:11 +0000,1,Browne,WA,Penaly - Obstruction,4,52,54,27, 73
+2018-12-20 02:30:11 +0000,0,Anstiss,WD,Possession,4,52,54,27, 73
+2018-12-20 02:30:16 +0000,0,Charles,C,Possession,4,52,54,36, 51
+2018-12-20 02:30:18 +0000,1,Scherian ,C,Penaly - Obstruction,4,52,54,36, 51
+2018-12-20 02:30:18 +0000,0,Charles,C,Possession,4,52,54,36, 51
+2018-12-20 02:30:28 +0000,0,Charles,C,Assist - Circle Entry,4,52,54,36, 51
+2018-12-20 02:30:28 +0000,0,Fowler,GS,Possession,4,52,54,35, 10
+2018-12-20 02:30:30 +0000,1,Mentor,GK,Penaly - Contact,4,52,54,35, 10
+2018-12-20 02:30:30 +0000,0,Fowler,GS,Goal - Score,4,52,54,35, 10
+2018-12-20 02:30:43 +0000,1,Scherian ,C,Centre Pass,4,53,54,50, 100
+2018-12-20 02:30:43 +0000,0,Anstiss,WD,Penaly - Contact on CP,4,53,54,48, 136
+2018-12-20 02:30:43 +0000,1,Browne,WA,Possession,4,53,54,48, 136
+2018-12-20 02:30:55 +0000,1,Browne,WA,Assist - Circle Entry,4,53,54,48, 136
+2018-12-20 02:30:55 +0000,1,Wood,GA,Assist - 2nd Phase,4,53,54,52, 170
+2018-12-20 02:30:57 +0000,1,Browne,WA,Possession,4,53,54,66, 166
+2018-12-20 02:31:03 +0000,1,Browne,WA,Assist - Circle Entry,4,53,54,66, 166
+2018-12-20 02:31:04 +0000,1,Wood,GA,Possession,4,53,54,65, 175
+2018-12-20 02:31:06 +0000,0,Bruce,GK,Penaly - Obstruction,4,53,54,65, 175
+2018-12-20 02:31:06 +0000,1,Wood,GA,Possession,4,53,54,65, 175
+2018-12-20 02:31:10 +0000,1,Bassett,GS,Goal - Score,4,53,54,47, 195
+2018-12-20 02:31:17 +0000,0,Charles,C,Centre Pass,4,53,55,50, 100
+2018-12-20 02:31:17 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,4,53,55,18, 90
+2018-12-20 02:31:19 +0000,0,Colyer ,WA,Assist - 2nd Phase,4,53,55,9, 56
+2018-12-20 02:31:21 +0000,0,Anstiss,WD,Possession,4,53,55,6, 94
+2018-12-20 02:31:23 +0000,0,Charles,C,Possession,4,53,55,40, 70
+2018-12-20 02:31:26 +0000,0,Charles,C,Assist - Circle Entry,4,53,55,40, 70
+2018-12-20 02:31:26 +0000,0,Fowler,GS,Goal - Score,4,53,55,52, 8
+2018-12-20 02:31:36 +0000,1,Scherian ,C,Centre Pass,4,54,55,50, 100
+2018-12-20 02:31:36 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,54,55,8, 122
+2018-12-20 02:31:38 +0000,1,McAuliffe,WD,Assist - 2nd Phase,4,54,55,17, 91
+2018-12-20 02:31:40 +0000,1,Browne,WA,Possession,4,54,55,26, 106
+2018-12-20 02:31:43 +0000,1,Pretorius ,GD,Possession,4,54,55,73, 115
+2018-12-20 02:31:48 +0000,1,Browne,WA,Possession,4,54,55,81, 161
+2018-12-20 02:31:51 +0000,1,Scherian ,C,Loss - Bad Pass,4,54,55,27, 171
+2018-12-20 02:32:03 +0000,0,Bruce,GK,Throw In,4,54,55,38, 204
+2018-12-20 02:32:08 +0000,0,Anstiss,WD,Possession,4,54,55,57, 167
+2018-12-20 02:32:11 +0000,1,Browne,WA,Penaly - Contact,4,54,55,57, 167
+2018-12-20 02:32:11 +0000,0,Bruce,GK,Possession,4,54,55,57, 167
+2018-12-20 02:32:19 +0000,1,Bassett,GS,Deflect,4,54,55,28, 144
+2018-12-20 02:32:19 +0000,0,Francis,GD,Possession,4,54,55,6, 125
+2018-12-20 02:32:26 +0000,1,McAuliffe,WD,Penaly - Contact,4,54,55,6, 125
+2018-12-20 02:32:26 +0000,0,Francis,GD,Possession,4,54,55,6, 125
+2018-12-20 02:32:35 +0000,0,Medhurst,GA,Possession,4,54,55,74, 61
+2018-12-20 02:32:38 +0000,0,Medhurst,GA,Assist - Circle Entry,4,54,55,74, 61
+2018-12-20 02:32:38 +0000,0,Fowler,GS,Possession,4,54,55,32, 13
+2018-12-20 02:32:40 +0000,1,Mentor,GK,Penaly - Contact,4,54,55,32, 13
+2018-12-20 02:32:40 +0000,0,Fowler,GS,Goal - Score,4,54,55,32, 13
+2018-12-20 02:32:50 +0000,0,Charles,C,Centre Pass,4,55,55,50, 100
+2018-12-20 02:32:50 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,4,55,55,25, 84
+2018-12-20 02:32:54 +0000,1,McAuliffe,WD,Gain - Inter,4,55,55,7, 39
+2018-12-20 02:32:59 +0000,0,Fowler,GS,Gain - Inter,4,55,55,24, 28
+2018-12-20 02:33:03 +0000,0,Medhurst,GA,Possession,4,55,55,27, 55
+2018-12-20 02:33:05 +0000,0,Colyer ,WA,Possession,4,55,55,14, 50
+2018-12-20 02:33:08 +0000,0,Colyer ,WA,Assist - Circle Entry,4,55,55,14, 50
+2018-12-20 02:33:08 +0000,0,Medhurst,GA,Possession,4,55,55,31, 23
+2018-12-20 02:33:10 +0000,0,Fowler,GS,Goal - Score,4,55,55,51, 11
+2018-12-20 02:33:30 +0000,1,Scherian ,C,Centre Pass,4,56,55,50, 100
+2018-12-20 02:33:30 +0000,0,Anstiss,WD,Loss - Break,4,56,55,47, 132
+2018-12-20 02:33:30 +0000,1,Pretorius ,GD,Possession,4,56,55,47, 132
+2018-12-20 02:33:39 +0000,1,Browne,WA,Assist - 2nd Phase,4,56,55,50, 145
+2018-12-20 02:33:41 +0000,1,Wood,GA,Possession,4,56,55,73, 165
+2018-12-20 02:33:43 +0000,1,Browne,WA,Possession,4,56,55,66, 167
+2018-12-20 02:33:47 +0000,1,Wood,GA,Possession,4,56,55,81, 185
+2018-12-20 02:33:50 +0000,1,Browne,WA,Possession,4,56,55,75, 175
+2018-12-20 02:33:56 +0000,0,Bruce,GK,Penaly - Contact,4,56,55,52, 177
+2018-12-20 02:33:56 +0000,1,Wood,GA,Goal - Score,4,56,55,52, 177
+2018-12-20 02:35:02 +0000,0,Charles,C,Centre Pass,4,56,56,50, 100
+2018-12-20 02:35:02 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,4,56,56,66, 81
+2018-12-20 02:35:03 +0000,0,Charles,C,Assist - 2nd Phase,4,56,56,22, 43
+2018-12-20 02:35:08 +0000,0,Charles,C,Assist - Circle Entry,4,56,56,22, 43
+2018-12-20 02:35:08 +0000,0,Fowler,GS,Possession,4,56,56,28, 15
+2018-12-20 02:35:10 +0000,0,Charles,C,Possession,4,56,56,25, 27
+2018-12-20 02:35:13 +0000,0,Charles,C,Assist - Circle Entry,4,56,56,25, 27
+2018-12-20 02:35:13 +0000,0,Medhurst,GA,Possession,4,56,56,27, 12
+2018-12-20 02:35:16 +0000,0,Colyer ,WA,Possession,4,56,56,40, 33
+2018-12-20 02:35:17 +0000,1,McAuliffe,WD,Penaly - Contact,4,56,56,40, 33
+2018-12-20 02:35:17 +0000,0,Colyer ,WA,Possession,4,56,56,40, 33
+2018-12-20 02:35:28 +0000,0,Colyer ,WA,Assist - Circle Entry,4,56,56,40, 33
+2018-12-20 02:35:28 +0000,0,Fowler,GS,Goal - Score,4,56,56,43, 4
+2018-12-20 02:35:38 +0000,1,Scherian ,C,Centre Pass,4,57,56,50, 100
+2018-12-20 02:35:38 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,57,56,13, 123
+2018-12-20 02:35:40 +0000,1,Wood,GA,Assist - 2nd Phase,4,57,56,27, 132
+2018-12-20 02:35:43 +0000,1,Scherian ,C,Possession,4,57,56,17, 184
+2018-12-20 02:35:45 +0000,1,Scherian ,C,Assist - Circle Entry,4,57,56,17, 184
+2018-12-20 02:35:45 +0000,1,Bassett,GS,Possession,4,57,56,64, 187
+2018-12-20 02:35:50 +0000,1,Scherian ,C,Possession,4,57,56,16, 184
+2018-12-20 02:35:52 +0000,0,Anstiss,WD,Penaly - Contact,4,57,56,16, 184
+2018-12-20 02:35:52 +0000,1,Scherian ,C,Possession,4,57,56,16, 184
+2018-12-20 02:36:01 +0000,1,Scherian ,C,Assist - Circle Entry,4,57,56,16, 184
+2018-12-20 02:36:01 +0000,1,Wood,GA,Goal - Score,4,57,56,38, 186
+2018-12-20 02:36:12 +0000,0,Charles,C,Centre Pass,4,57,57,50, 100
+2018-12-20 02:36:12 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,4,57,57,15, 73
+2018-12-20 02:36:16 +0000,0,Medhurst,GA,Assist - Circle Entry,4,57,57,15, 73
+2018-12-20 02:36:16 +0000,0,Fowler,GS,Possession,4,57,57,20, 6
+2018-12-20 02:36:19 +0000,0,Anstiss,WD,Possession,4,57,57,23, 69
+2018-12-20 02:36:21 +0000,1,Scherian ,C,Penaly - Contact,4,57,57,23, 53
+2018-12-20 02:36:21 +0000,0,Charles,C,Possession,4,57,57,23, 53
+2018-12-20 02:36:25 +0000,0,Charles,C,Assist - Circle Entry,4,57,57,23, 53
+2018-12-20 02:36:25 +0000,0,Medhurst,GA,Loss - Bad Pass,4,57,57,48, 25
+2018-12-20 02:36:28 +0000,1,Mentor,GK,Throw In,4,57,57,37, -4
+2018-12-20 02:36:35 +0000,1,Pretorius ,GD,Possession,4,57,57,22, 28
+2018-12-20 02:36:37 +0000,1,Scherian ,C,Possession,4,57,57,38, 42
+2018-12-20 02:36:47 +0000,0,Francis,GD,Loss - Offside,4,57,57,47, 65
+2018-12-20 02:36:48 +0000,1,Pretorius ,GD,Possession,4,57,57,47, 65
+2018-12-20 02:37:12 +0000,1,Browne,WA,Possession,4,57,57,44, 88
+2018-12-20 02:37:21 +0000,1,Scherian ,C,Possession,4,57,57,10, 105
+2018-12-20 02:37:25 +0000,1,McAuliffe,WD,Possession,4,57,57,38, 110
+2018-12-20 02:37:27 +0000,1,Browne,WA,Possession,4,57,57,71, 129
+2018-12-20 02:37:29 +0000,1,Wood,GA,Possession,4,57,57,54, 139
+2018-12-20 02:37:31 +0000,1,Scherian ,C,Possession,4,57,57,40, 141
+2018-12-20 02:37:33 +0000,1,Browne,WA,Possession,4,57,57,50, 162
+2018-12-20 02:37:35 +0000,1,Browne,WA,Assist - Circle Entry,4,57,57,50, 162
+2018-12-20 02:37:35 +0000,1,Bassett,GS,Goal - Score,4,57,57,46, 187
+2018-12-20 02:37:46 +0000,1,Scherian ,C,Centre Pass,4,57,58,50, 100
+2018-12-20 02:37:46 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,57,58,65, 116
+2018-12-20 02:37:49 +0000,1,Browne,WA,Assist - 2nd Phase,4,57,58,78, 175
+2018-12-20 02:37:51 +0000,1,Browne,WA,Assist - Circle Entry,4,57,58,78, 175
+2018-12-20 02:37:51 +0000,1,Bassett,GS,Possession,4,57,58,63, 189
+2018-12-20 02:37:53 +0000,1,Browne,WA,Possession,4,57,58,81, 183
+2018-12-20 02:37:57 +0000,0,Bruce,GK,Penaly - Obstruction,4,57,58,49, 189
+2018-12-20 02:37:57 +0000,1,Bassett,GS,Goal - Score,4,57,58,49, 189
+2018-12-20 02:38:05 +0000,0,Charles,C,Centre Pass,4,57,59,50, 100
+2018-12-20 02:38:05 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,57,59,74, 74
+2018-12-20 02:38:08 +0000,1,McAuliffe,WD,Penaly - Contact,4,57,59,74, 74
+2018-12-20 02:38:09 +0000,0,Anstiss,WD,Possession,4,57,59,74, 74
+2018-12-20 02:38:14 +0000,0,Colyer ,WA,Possession,4,57,59,72, 37
+2018-12-20 02:38:17 +0000,0,Colyer ,WA,Assist - Circle Entry,4,57,59,72, 37
+2018-12-20 02:38:17 +0000,0,Medhurst,GA,Assist - 2nd Phase,4,57,59,70, 5
+2018-12-20 02:38:22 +0000,0,Colyer ,WA,Possession,4,57,59,77, 20
+2018-12-20 02:38:23 +0000,1,McAuliffe,WD,Penaly - Contact,4,57,59,77, 20
+2018-12-20 02:38:23 +0000,0,Colyer ,WA,Possession,4,57,59,77, 20
+2018-12-20 02:38:27 +0000,0,Charles,C,Possession,4,57,59,59, 34
+2018-12-20 02:38:30 +0000,0,Charles,C,Assist - Circle Entry,4,57,59,59, 34
+2018-12-20 02:38:30 +0000,0,Medhurst,GA,Goal - Score,4,57,59,51, 13
+2018-12-20 02:38:39 +0000,1,Scherian ,C,Centre Pass,4,58,59,50, 100
+2018-12-20 02:38:39 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,58,59,14, 125
+2018-12-20 02:38:42 +0000,1,McAuliffe,WD,Assist - 2nd Phase,4,58,59,35, 123
+2018-12-20 02:38:44 +0000,1,Browne,WA,Possession,4,58,59,48, 141
+2018-12-20 02:38:45 +0000,1,Wood,GA,Possession,4,58,59,78, 157
+2018-12-20 02:38:48 +0000,1,McAuliffe,WD,Possession,4,58,59,68, 128
+2018-12-20 02:38:51 +0000,1,Wood,GA,Possession,4,58,59,62, 154
+2018-12-20 02:38:56 +0000,1,Browne,WA,Possession,4,58,59,76, 147
+2018-12-20 02:38:58 +0000,1,Scherian ,C,Possession,4,58,59,19, 147
+2018-12-20 02:39:00 +0000,1,Wood,GA,Possession,4,58,59,69, 165
+2018-12-20 02:39:02 +0000,1,Scherian ,C,Possession,4,58,59,62, 167
+2018-12-20 02:39:12 +0000,1,Scherian ,C,Assist - Circle Entry,4,58,59,62, 167
+2018-12-20 02:39:12 +0000,1,Bassett,GS,Goal - Score,4,58,59,50, 193
+2018-12-20 02:39:22 +0000,0,Charles,C,Centre Pass,4,58,60,50, 100
+2018-12-20 02:39:22 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,58,60,15, 75
+2018-12-20 02:39:26 +0000,0,Charles,C,Assist - 2nd Phase,4,58,60,18, 54
+2018-12-20 02:39:44 +0000,1,McAuliffe,WD,Penaly - Contact,4,58,60,18, 54
+2018-12-20 02:39:44 +0000,0,Charles,C,Possession,4,58,60,18, 54
+2018-12-20 02:39:52 +0000,0,Charles,C,Assist - Circle Entry,4,58,60,18, 54
+2018-12-20 02:39:52 +0000,0,Fowler,GS,Goal - Score,4,58,60,54, 7
+2018-12-20 02:40:08 +0000,1,Scherian ,C,Centre Pass,4,59,60,50, 100
+2018-12-20 02:40:08 +0000,0,Francis,GD,Loss - Break,4,59,60,83, 130
+2018-12-20 02:40:08 +0000,1,Browne,WA,Possession,4,59,60,83, 130
+2018-12-20 02:40:19 +0000,1,Wood,GA,Assist - 2nd Phase,4,59,60,42, 155
+2018-12-20 02:40:22 +0000,1,Browne,WA,Possession,4,59,60,16, 180
+2018-12-20 02:40:28 +0000,1,Browne,WA,Assist - Circle Entry,4,59,60,16, 180
+2018-12-20 02:40:29 +0000,1,Bassett,GS,Possession,4,59,60,52, 184
+2018-12-20 02:40:30 +0000,0,Bruce,GK,Penaly - Obstruction,4,59,60,52, 184
+2018-12-20 02:40:30 +0000,1,Wood,GA,Goal - Score,4,59,60,52, 184
+2018-12-20 02:40:40 +0000,0,Charles,C,Centre Pass,4,59,61,50, 100
+2018-12-20 02:40:40 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,4,59,61,43, 114
+2018-12-20 02:40:43 +0000,0,Francis,GD,Deflect,4,59,61,19, 103
+2018-12-20 02:40:45 +0000,0,Medhurst,GA,Possession,4,59,61,6, 76
+2018-12-20 02:40:50 +0000,0,Francis,GD,Possession,4,59,61,10, 109
+2018-12-20 02:40:52 +0000,0,Charles,C,Possession,4,59,61,28, 74
+2018-12-20 02:40:54 +0000,1,Scherian ,C,Penaly - Contact,4,59,61,28, 74
+2018-12-20 02:40:54 +0000,0,Anstiss,WD,Possession,4,59,61,28, 74
+2018-12-20 02:41:00 +0000,0,Charles,C,Possession,4,59,61,54, 49
+2018-12-20 02:41:02 +0000,0,Colyer ,WA,Possession,4,59,61,25, 27
+2018-12-20 02:41:11 +0000,1,Mentor,GK,Gain - Inter,4,59,61,83, 3
+2018-12-20 02:41:14 +0000,0,Charles,C,Penaly - Contact,4,59,61,83, 3
+2018-12-20 02:41:14 +0000,1,Mentor,GK,Possession,4,59,61,83, 3
+2018-12-20 02:41:19 +0000,1,Scherian ,C,Possession,4,59,61,23, 46
+2018-12-20 02:41:21 +0000,1,McAuliffe,WD,Possession,4,59,61,21, 73
+2018-12-20 02:41:24 +0000,0,Colyer ,WA,Penaly - Contact,4,59,61,21, 73
+2018-12-20 02:41:24 +0000,1,McAuliffe,WD,Possession,4,59,61,21, 73
+2018-12-20 02:41:32 +0000,1,Scherian ,C,Possession,4,59,61,29, 93
+2018-12-20 02:41:34 +0000,1,Pretorius ,GD,Possession,4,59,61,60, 84
+2018-12-20 02:41:36 +0000,1,Scherian ,C,Possession,4,59,61,59, 101
+2018-12-20 02:41:39 +0000,1,Wood,GA,Possession,4,59,61,80, 119
+2018-12-20 02:41:41 +0000,1,Scherian ,C,Possession,4,59,61,64, 121
+2018-12-20 02:41:42 +0000,1,Browne,WA,Possession,4,59,61,56, 130
+2018-12-20 02:41:45 +0000,1,Wood,GA,Possession,4,59,61,78, 147
+2018-12-20 02:41:47 +0000,1,Pretorius ,GD,Possession,4,59,61,71, 130
+2018-12-20 02:41:50 +0000,1,Browne,WA,Possession,4,59,61,83, 140
+2018-12-20 02:41:53 +0000,1,Pretorius ,GD,Possession,4,59,61,53, 129
+2018-12-20 02:41:58 +0000,1,Scherian ,C,Possession,4,59,61,80, 171
+2018-12-20 02:42:01 +0000,1,Scherian ,C,Assist - Circle Entry,4,59,61,80, 171
+2018-12-20 02:42:01 +0000,1,Bassett,GS,Goal - Miss,4,59,61,61, 193
+2018-12-20 02:42:06 +0000,1,Bassett,GS,Assist - Attack Rebound,4,59,61,50, 197
+2018-12-20 02:42:07 +0000,1,Bassett,GS,Goal - Score,4,59,61,61, 193
+2018-12-20 02:42:17 +0000,1,Scherian ,C,Centre Pass,4,59,62,50, 100
+2018-12-20 02:42:17 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,59,62,66, 120
+2018-12-20 02:42:19 +0000,1,Pretorius ,GD,Assist - 2nd Phase,4,59,62,72, 87
+2018-12-20 02:42:21 +0000,1,Scherian ,C,Possession,4,59,62,83, 108
+2018-12-20 02:42:23 +0000,1,Wood,GA,Possession,4,59,62,86, 129
+2018-12-20 02:42:27 +0000,1,Scherian ,C,Possession,4,59,62,54, 128
+2018-12-20 02:42:29 +0000,1,Pretorius ,GD,Possession,4,59,62,73, 111
+2018-12-20 02:42:31 +0000,1,Browne,WA,Possession,4,59,62,71, 125
+2018-12-20 02:42:33 +0000,1,McAuliffe,WD,Possession,4,59,62,28, 103
+2018-12-20 02:42:36 +0000,1,Wood,GA,Loss - Bad Pass,4,59,62,47, 129
+2018-12-20 02:42:41 +0000,0,Bruce,GK,Throw In,4,59,62,42, 204
+2018-12-20 02:42:44 +0000,0,Anstiss,WD,Possession,4,59,62,22, 166
+2018-12-20 02:42:47 +0000,1,Bassett,GS,Penaly - Contact,4,59,62,21, 156
+2018-12-20 02:42:47 +0000,0,Francis,GD,Possession,4,59,62,21, 156
+2018-12-20 02:42:53 +0000,0,Charles,C,Possession,4,59,62,54, 128
+2018-12-20 02:42:57 +0000,0,Francis,GD,Possession,4,59,62,35, 126
+2018-12-20 02:43:00 +0000,0,Medhurst,GA,Possession,4,59,62,4, 69

@@ -1,0 +1,1554 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-11-17 06:57:10 +0000,1,Bryce,C,Centre Pass,1,0,0,50, 100
+2018-11-17 06:57:10 +0000,1,de Bruin,GD,Assist - Centre Pass Rec,1,0,0,33, 99
+2018-11-17 06:57:11 +0000,1,Pitman,WA,Assist - 2nd Phase,1,0,0,24, 125
+2018-11-17 06:57:13 +0000,0,Charles,C,Penaly - Obstruction,1,0,0,24, 125
+2018-11-17 06:57:13 +0000,1,de Bruin,GD,Possession,1,0,0,24, 125
+2018-11-17 06:57:18 +0000,1,Pitman,WA,Possession,1,0,0,19, 172
+2018-11-17 06:57:20 +0000,1,Pitman,WA,Assist - Circle Entry,1,0,0,19, 172
+2018-11-17 06:57:20 +0000,1,Hodges,GA,Possession,1,0,0,35, 184
+2018-11-17 06:57:22 +0000,1,Pitman,WA,Possession,1,0,0,20, 180
+2018-11-17 06:57:25 +0000,1,Pitman,WA,Assist - Circle Entry,1,0,0,20, 180
+2018-11-17 06:57:25 +0000,1,Nelson,GS,Possession,1,0,0,56, 196
+2018-11-17 06:57:36 +0000,1,Bryce,C,Possession,1,0,0,68, 168
+2018-11-17 06:57:41 +0000,0,Anstiss,WD,Penaly - Contact,1,0,0,68, 168
+2018-11-17 06:57:41 +0000,1,Bryce,C,Possession,1,0,0,68, 168
+2018-11-17 06:57:47 +0000,1,Bryce,C,Assist - Circle Entry,1,0,0,68, 168
+2018-11-17 06:57:47 +0000,1,Hodges,GA,Possession,1,0,0,47, 178
+2018-11-17 06:57:49 +0000,1,Nelson,GS,Goal - Score,1,0,0,59, 190
+2018-11-17 06:57:57 +0000,0,Charles,C,Centre Pass,1,0,1,50, 100
+2018-11-17 06:57:57 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,1,0,1,90, 73
+2018-11-17 06:58:13 +0000,1,Fowler,WD,Penaly - Obstruction,1,0,1,66, 64
+2018-11-17 06:58:13 +0000,0,Colyer ,WA,Assist - 2nd Phase,1,0,1,66, 64
+2018-11-17 06:58:18 +0000,0,Charles,C,Possession,1,0,1,58, 44
+2018-11-17 06:58:20 +0000,0,Charles,C,Assist - Circle Entry,1,0,1,58, 44
+2018-11-17 06:58:20 +0000,0,Fowler,GS,Goal - Score,1,0,1,52, 10
+2018-11-17 06:58:30 +0000,1,Bryce,C,Centre Pass,1,1,1,50, 100
+2018-11-17 06:58:30 +0000,1,Fowler,WD,Assist - Centre Pass Rec,1,1,1,65, 89
+2018-11-17 06:58:32 +0000,1,Bryce,C,Assist - 2nd Phase,1,1,1,93, 118
+2018-11-17 06:58:34 +0000,0,Bruce,GK,Gain - Inter,1,1,1,90, 166
+2018-11-17 06:58:39 +0000,0,Charles,C,Possession,1,1,1,71, 155
+2018-11-17 06:58:41 +0000,0,Anstiss,WD,Possession,1,1,1,79, 143
+2018-11-17 06:58:44 +0000,0,Bruce,GK,Possession,1,1,1,42, 180
+2018-11-17 06:58:46 +0000,0,Francis,GD,Possession,1,1,1,23, 157
+2018-11-17 06:58:48 +0000,0,Charles,C,Possession,1,1,1,55, 129
+2018-11-17 06:58:49 +0000,0,Charles,C,Possession,1,1,1,84, 104
+2018-11-17 06:58:51 +0000,0,Francis,GD,Possession,1,1,1,72, 118
+2018-11-17 06:58:53 +0000,0,Anstiss,WD,Possession,1,1,1,21, 106
+2018-11-17 06:58:55 +0000,0,Medhurst,GA,Possession,1,1,1,49, 83
+2018-11-17 06:58:58 +0000,0,Medhurst,GA,Assist - Circle Entry,1,1,1,49, 83
+2018-11-17 06:58:58 +0000,0,Fowler,GS,Goal - Score,1,1,1,48, 6
+2018-11-17 06:59:07 +0000,0,Charles,C,Centre Pass,1,2,1,50, 100
+2018-11-17 06:59:07 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,2,1,86, 78
+2018-11-17 06:59:09 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,2,1,90, 42
+2018-11-17 06:59:12 +0000,0,Medhurst,GA,Assist - Circle Entry,1,2,1,90, 42
+2018-11-17 06:59:12 +0000,0,Fowler,GS,Goal - Score,1,2,1,66, 12
+2018-11-17 06:59:29 +0000,1,Bryce,C,Centre Pass,1,3,1,50, 100
+2018-11-17 06:59:29 +0000,1,Hodges,GA,Assist - Centre Pass Rec,1,3,1,43, 118
+2018-11-17 06:59:32 +0000,1,Pitman,WA,Assist - 2nd Phase,1,3,1,20, 183
+2018-11-17 06:59:34 +0000,0,Bruce,GK,Penaly - Contact,1,3,1,20, 183
+2018-11-17 06:59:34 +0000,1,Pitman,WA,Possession,1,3,1,20, 183
+2018-11-17 06:59:45 +0000,1,Pitman,WA,Assist - Circle Entry,1,3,1,20, 183
+2018-11-17 06:59:45 +0000,1,Nelson,GS,Goal - Score,1,3,1,50, 192
+2018-11-17 06:59:52 +0000,0,Charles,C,Centre Pass,1,3,2,50, 100
+2018-11-17 06:59:52 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,3,2,96, 74
+2018-11-17 06:59:54 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,3,2,72, 56
+2018-11-17 06:59:56 +0000,0,Charles,C,Possession,1,3,2,51, 45
+2018-11-17 06:59:58 +0000,0,Charles,C,Assist - Circle Entry,1,3,2,51, 45
+2018-11-17 06:59:58 +0000,0,Fowler,GS,Goal - Score,1,3,2,61, 23
+2018-11-17 07:00:17 +0000,1,Bryce,C,Centre Pass,1,4,2,50, 100
+2018-11-17 07:00:17 +0000,1,Fowler,WD,Assist - Centre Pass Rec,1,4,2,77, 79
+2018-11-17 07:00:18 +0000,1,de Bruin,GD,Assist - 2nd Phase,1,4,2,72, 104
+2018-11-17 07:00:21 +0000,1,Shimmin,GK,Possession,1,4,2,78, 62
+2018-11-17 07:00:22 +0000,1,de Bruin,GD,Possession,1,4,2,88, 90
+2018-11-17 07:00:24 +0000,1,Fowler,WD,Possession,1,4,2,93, 125
+2018-11-17 07:00:26 +0000,1,Pitman,WA,Possession,1,4,2,86, 155
+2018-11-17 07:00:31 +0000,0,Bruce,GK,Deflect,1,4,2,59, 183
+2018-11-17 07:00:31 +0000,1,Nelson,GS,Possession,1,4,2,35, 186
+2018-11-17 07:00:35 +0000,0,Bruce,GK,Penaly - Contact,1,4,2,35, 186
+2018-11-17 07:00:35 +0000,1,Hodges,GA,Possession,1,4,2,35, 186
+2018-11-17 07:00:42 +0000,1,Nelson,GS,Goal - Miss,1,4,2,59, 190
+2018-11-17 07:00:47 +0000,1,Nelson,GS,Assist - Attack Rebound,1,4,2,50, 197
+2018-11-17 07:00:48 +0000,1,Nelson,GS,Goal - Score,1,4,2,59, 190
+2018-11-17 07:00:55 +0000,0,Charles,C,Centre Pass,1,4,3,50, 100
+2018-11-17 07:00:55 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,1,4,3,86, 76
+2018-11-17 07:01:04 +0000,1,Bryce,C,Penaly - Contact,1,4,3,76, 52
+2018-11-17 07:01:04 +0000,0,Charles,C,Assist - 2nd Phase,1,4,3,76, 52
+2018-11-17 07:01:08 +0000,0,Charles,C,Assist - Circle Entry,1,4,3,76, 52
+2018-11-17 07:01:08 +0000,0,Medhurst,GA,Possession,1,4,3,67, 25
+2018-11-17 07:01:14 +0000,1,Shimmin,GK,Deflect,1,4,3,70, 6
+2018-11-17 07:01:14 +0000,0,Medhurst,GA,Possession,1,4,3,66, 22
+2018-11-17 07:01:21 +0000,0,Fowler,GS,Goal - Score,1,4,3,49, 8
+2018-11-17 07:01:36 +0000,1,Bryce,C,Centre Pass,1,5,3,50, 100
+2018-11-17 07:01:36 +0000,1,Hodges,GA,Assist - Centre Pass Rec,1,5,3,38, 123
+2018-11-17 07:01:40 +0000,1,Hodges,GA,Assist - Circle Entry,1,5,3,38, 123
+2018-11-17 07:01:40 +0000,1,Nelson,GS,Goal - Score,1,5,3,50, 193
+2018-11-17 07:01:49 +0000,0,Charles,C,Centre Pass,1,5,4,50, 100
+2018-11-17 07:01:49 +0000,0,Francis,GD,Loss - Bad Pass,1,5,4,62, 118
+2018-11-17 07:01:55 +0000,1,Hodges,GA,Gain - Inter,1,5,4,58, 76
+2018-11-17 07:02:10 +0000,1,de Bruin,GD,Possession,1,5,4,68, 102
+2018-11-17 07:02:13 +0000,1,Fowler,WD,Possession,1,5,4,43, 88
+2018-11-17 07:02:18 +0000,1,de Bruin,GD,Possession,1,5,4,28, 120
+2018-11-17 07:02:22 +0000,1,Shimmin,GK,Possession,1,5,4,46, 63
+2018-11-17 07:02:24 +0000,1,Fowler,WD,Possession,1,5,4,52, 87
+2018-11-17 07:02:28 +0000,0,Fowler,GS,Penaly - Contact,1,5,4,41, 64
+2018-11-17 07:02:28 +0000,1,Shimmin,GK,Possession,1,5,4,41, 64
+2018-11-17 07:02:31 +0000,1,de Bruin,GD,Possession,1,5,4,20, 100
+2018-11-17 07:02:33 +0000,1,Fowler,WD,Possession,1,5,4,43, 79
+2018-11-17 07:02:35 +0000,1,de Bruin,GD,Possession,1,5,4,21, 105
+2018-11-17 07:02:38 +0000,1,Pitman,WA,Possession,1,5,4,49, 91
+2018-11-17 07:02:40 +0000,0,Anstiss,WD,Penaly - Contact,1,5,4,49, 91
+2018-11-17 07:02:40 +0000,1,de Bruin,GD,Possession,1,5,4,49, 91
+2018-11-17 07:02:45 +0000,1,Hodges,GA,Possession,1,5,4,24, 132
+2018-11-17 07:02:47 +0000,1,de Bruin,GD,Possession,1,5,4,37, 130
+2018-11-17 07:02:52 +0000,0,Francis,GD,Gain - Tip (Deflect),1,5,4,89, 153
+2018-11-17 07:02:57 +0000,0,Anstiss,WD,Possession,1,5,4,70, 161
+2018-11-17 07:03:00 +0000,0,Medhurst,GA,Possession,1,5,4,81, 125
+2018-11-17 07:03:28 +0000,0,Francis,GD,Possession,1,5,4,89, 79
+2018-11-17 07:03:30 +0000,0,Charles,C,Possession,1,5,4,91, 44
+2018-11-17 07:03:33 +0000,0,Medhurst,GA,Possession,1,5,4,67, 33
+2018-11-17 07:03:35 +0000,0,Medhurst,GA,Assist - Circle Entry,1,5,4,67, 33
+2018-11-17 07:03:35 +0000,0,Fowler,GS,Goal - Score,1,5,4,59, 10
+2018-11-17 07:03:41 +0000,1,Bryce,C,Centre Pass,1,6,4,50, 100
+2018-11-17 07:03:41 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,6,4,72, 121
+2018-11-17 07:03:52 +0000,1,Pitman,WA,Assist - Circle Entry,1,6,4,72, 121
+2018-11-17 07:03:52 +0000,1,Nelson,GS,Assist - 2nd Phase,1,6,4,68, 179
+2018-11-17 07:03:54 +0000,0,Bruce,GK,Penaly - Contact,1,6,4,68, 179
+2018-11-17 07:03:54 +0000,1,Hodges,GA,Possession,1,6,4,68, 179
+2018-11-17 07:04:00 +0000,1,Nelson,GS,Possession,1,6,4,49, 190
+2018-11-17 07:04:01 +0000,0,Francis,GD,Penaly - Contact,1,6,4,49, 190
+2018-11-17 07:04:01 +0000,1,Nelson,GS,Goal - Score,1,6,4,49, 190
+2018-11-17 07:04:12 +0000,0,Charles,C,Centre Pass,1,6,5,50, 100
+2018-11-17 07:04:12 +0000,0,Francis,GD,Assist - Centre Pass Rec,1,6,5,79, 95
+2018-11-17 07:04:15 +0000,0,Charles,C,Assist - 2nd Phase,1,6,5,84, 47
+2018-11-17 07:04:16 +0000,1,Shimmin,GK,Penaly - Contact,1,6,5,84, 47
+2018-11-17 07:04:16 +0000,0,Charles,C,Possession,1,6,5,84, 47
+2018-11-17 07:04:26 +0000,0,Charles,C,Assist - Circle Entry,1,6,5,84, 47
+2018-11-17 07:04:26 +0000,0,Fowler,GS,Possession,1,6,5,48, 11
+2018-11-17 07:04:29 +0000,1,de Bruin,GD,Penaly - Obstruction,1,6,5,48, 11
+2018-11-17 07:04:29 +0000,0,Fowler,GS,Goal - Score,1,6,5,48, 11
+2018-11-17 07:04:42 +0000,1,Bryce,C,Centre Pass,1,7,5,50, 100
+2018-11-17 07:04:42 +0000,1,de Bruin,GD,Assist - Centre Pass Rec,1,7,5,33, 101
+2018-11-17 07:04:44 +0000,0,Charles,C,Deflect,1,7,5,25, 102
+2018-11-17 07:04:44 +0000,1,de Bruin,GD,Throw In,1,7,5,-4, 103
+2018-11-17 07:04:49 +0000,1,Fowler,WD,Possession,1,7,5,30, 94
+2018-11-17 07:04:51 +0000,1,Bryce,C,Possession,1,7,5,20, 160
+2018-11-17 07:04:57 +0000,1,Hodges,GA,Possession,1,7,5,19, 183
+2018-11-17 07:04:59 +0000,1,Bryce,C,Possession,1,7,5,24, 174
+2018-11-17 07:05:02 +0000,1,Bryce,C,Assist - Circle Entry,1,7,5,24, 174
+2018-11-17 07:05:02 +0000,1,Hodges,GA,Assist - 2nd Phase,1,7,5,37, 185
+2018-11-17 07:05:04 +0000,1,Hodges,GA,Goal - Score,1,7,5,37, 185
+2018-11-17 07:05:12 +0000,0,Charles,C,Centre Pass,1,7,6,50, 100
+2018-11-17 07:05:12 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,7,6,65, 76
+2018-11-17 07:05:14 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,7,6,68, 54
+2018-11-17 07:05:19 +0000,0,Fowler,GS,Penaly - Other,1,7,6,61, 7
+2018-11-17 07:05:19 +0000,1,Shimmin,GK,Gain - Opp Cont,1,7,6,61, 7
+2018-11-17 07:05:35 +0000,1,de Bruin,GD,Possession,1,7,6,46, 28
+2018-11-17 07:05:37 +0000,0,,UNKNOWN,Penaly - Obstruction,1,7,6,46, 28
+2018-11-17 07:05:37 +0000,1,de Bruin,GD,Possession,1,7,6,46, 28
+2018-11-17 07:05:37 +0000,0,Medhurst,GA,Penaly - Obstruction,1,7,6,46, 28
+2018-11-17 07:05:37 +0000,1,Shimmin,GK,Possession,1,7,6,46, 28
+2018-11-17 07:05:46 +0000,1,Bryce,C,Possession,1,7,6,35, 64
+2018-11-17 07:05:48 +0000,1,de Bruin,GD,Possession,1,7,6,17, 106
+2018-11-17 07:05:50 +0000,1,Hodges,GA,Possession,1,7,6,26, 130
+2018-11-17 07:05:52 +0000,1,Pitman,WA,Possession,1,7,6,18, 181
+2018-11-17 07:05:59 +0000,1,Pitman,WA,Assist - Circle Entry,1,7,6,18, 181
+2018-11-17 07:05:59 +0000,1,Nelson,GS,Possession,1,7,6,48, 186
+2018-11-17 07:06:00 +0000,0,Bruce,GK,Penaly - Contact,1,7,6,48, 186
+2018-11-17 07:06:00 +0000,1,Nelson,GS,Goal - Score,1,7,6,48, 186
+2018-11-17 07:06:08 +0000,1,Bryce,C,Centre Pass,1,7,7,50, 100
+2018-11-17 07:06:08 +0000,1,de Bruin,GD,Assist - Centre Pass Rec,1,7,7,28, 122
+2018-11-17 07:06:11 +0000,1,Pitman,WA,Assist - 2nd Phase,1,7,7,53, 165
+2018-11-17 07:06:13 +0000,1,Pitman,WA,Assist - Circle Entry,1,7,7,53, 165
+2018-11-17 07:06:13 +0000,1,Nelson,GS,Goal - Score,1,7,7,50, 192
+2018-11-17 07:06:18 +0000,0,Charles,C,Centre Pass,1,7,8,50, 100
+2018-11-17 07:06:18 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,7,8,84, 71
+2018-11-17 07:06:20 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,7,8,78, 24
+2018-11-17 07:06:25 +0000,1,de Bruin,GD,Penaly - Obstruction,1,7,8,78, 24
+2018-11-17 07:06:25 +0000,0,Medhurst,GA,Possession,1,7,8,78, 24
+2018-11-17 07:06:28 +0000,0,Medhurst,GA,Assist - Circle Entry,1,7,8,78, 24
+2018-11-17 07:06:29 +0000,0,Fowler,GS,Goal - Score,1,7,8,47, 6
+2018-11-17 07:06:34 +0000,1,Bryce,C,Centre Pass,1,8,8,50, 100
+2018-11-17 07:06:34 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,8,8,92, 127
+2018-11-17 07:06:36 +0000,1,Bryce,C,Assist - 2nd Phase,1,8,8,53, 155
+2018-11-17 07:06:38 +0000,1,Hodges,GA,Possession,1,8,8,25, 177
+2018-11-17 07:06:41 +0000,1,Hodges,GA,Assist - Circle Entry,1,8,8,25, 177
+2018-11-17 07:06:41 +0000,1,Nelson,GS,Loss - Bad Pass,1,8,8,70, 195
+2018-11-17 07:06:45 +0000,0,Bruce,GK,Throw In,1,8,8,70, 203
+2018-11-17 07:06:52 +0000,1,Nelson,GS,Penaly - Obstruction,1,8,8,70, 203
+2018-11-17 07:06:52 +0000,0,Bruce,GK,Possession,1,8,8,70, 203
+2018-11-17 07:06:57 +0000,0,Francis,GD,Possession,1,8,8,71, 168
+2018-11-17 07:06:59 +0000,0,Charles,C,Possession,1,8,8,92, 122
+2018-11-17 07:07:01 +0000,0,Medhurst,GA,Possession,1,8,8,86, 73
+2018-11-17 07:07:04 +0000,0,Colyer ,WA,Possession,1,8,8,86, 39
+2018-11-17 07:07:07 +0000,1,Fowler,WD,Deflect,1,8,8,92, 33
+2018-11-17 07:07:07 +0000,0,Colyer ,WA,Throw In,1,8,8,105, 15
+2018-11-17 07:07:11 +0000,0,Medhurst,GA,Possession,1,8,8,74, 32
+2018-11-17 07:07:14 +0000,0,Medhurst,GA,Assist - Circle Entry,1,8,8,74, 32
+2018-11-17 07:07:14 +0000,0,Fowler,GS,Possession,1,8,8,62, 12
+2018-11-17 07:07:16 +0000,1,Shimmin,GK,Penaly - Contact,1,8,8,62, 12
+2018-11-17 07:07:16 +0000,0,Fowler,GS,Goal - Score,1,8,8,62, 12
+2018-11-17 07:07:35 +0000,0,Charles,C,Centre Pass,1,9,8,50, 100
+2018-11-17 07:07:35 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,9,8,21, 75
+2018-11-17 07:07:37 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,9,8,20, 32
+2018-11-17 07:07:39 +0000,0,Medhurst,GA,Assist - Circle Entry,1,9,8,20, 32
+2018-11-17 07:07:39 +0000,0,Fowler,GS,Goal - Score,1,9,8,45, 7
+2018-11-17 07:07:49 +0000,1,Bryce,C,Centre Pass,1,10,8,50, 100
+2018-11-17 07:07:50 +0000,1,Fowler,WD,Assist - Centre Pass Rec,1,10,8,56, 77
+2018-11-17 07:07:51 +0000,1,Hodges,GA,Assist - 2nd Phase,1,10,8,25, 96
+2018-11-17 07:07:53 +0000,1,Bryce,C,Possession,1,10,8,18, 131
+2018-11-17 07:07:55 +0000,1,Pitman,WA,Possession,1,10,8,37, 143
+2018-11-17 07:07:58 +0000,0,Bruce,GK,Deflect,1,10,8,47, 192
+2018-11-17 07:07:58 +0000,1,Hodges,GA,Throw In,1,10,8,47, 205
+2018-11-17 07:08:11 +0000,1,Bryce,C,Possession,1,10,8,29, 170
+2018-11-17 07:08:13 +0000,1,Bryce,C,Assist - Circle Entry,1,10,8,29, 170
+2018-11-17 07:08:13 +0000,1,Hodges,GA,Possession,1,10,8,35, 194
+2018-11-17 07:08:16 +0000,1,Nelson,GS,Goal - Score,1,10,8,55, 190
+2018-11-17 07:08:24 +0000,0,Charles,C,Centre Pass,1,10,9,50, 100
+2018-11-17 07:08:24 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,1,10,9,26, 91
+2018-11-17 07:08:26 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,10,9,21, 62
+2018-11-17 07:08:29 +0000,0,Charles,C,Possession,1,10,9,83, 43
+2018-11-17 07:08:31 +0000,0,Charles,C,Assist - Circle Entry,1,10,9,83, 43
+2018-11-17 07:08:31 +0000,0,Fowler,GS,Goal - Score,1,10,9,49, 11
+2018-11-17 07:08:39 +0000,1,Bryce,C,Centre Pass,1,11,9,50, 100
+2018-11-17 07:08:39 +0000,1,Hodges,GA,Assist - Centre Pass Rec,1,11,9,31, 115
+2018-11-17 07:08:41 +0000,1,Pitman,WA,Assist - 2nd Phase,1,11,9,16, 141
+2018-11-17 07:08:44 +0000,1,Pitman,WA,Assist - Circle Entry,1,11,9,16, 141
+2018-11-17 07:08:45 +0000,1,Nelson,GS,Loss - Step,1,11,9,42, 187
+2018-11-17 07:08:49 +0000,0,Bruce,GK,Possession,1,11,9,42, 189
+2018-11-17 07:08:51 +0000,0,Charles,C,Possession,1,11,9,18, 182
+2018-11-17 07:08:55 +0000,0,Anstiss,WD,Possession,1,11,9,21, 111
+2018-11-17 07:08:57 +0000,1,Pitman,WA,Penaly - Contact,1,11,9,21, 111
+2018-11-17 07:08:57 +0000,0,Anstiss,WD,Possession,1,11,9,21, 111
+2018-11-17 07:09:05 +0000,0,Colyer ,WA,Possession,1,11,9,42, 82
+2018-11-17 07:09:07 +0000,0,Charles,C,Possession,1,11,9,69, 78
+2018-11-17 07:09:09 +0000,0,Medhurst,GA,Possession,1,11,9,36, 56
+2018-11-17 07:09:11 +0000,0,Medhurst,GA,Assist - Circle Entry,1,11,9,36, 56
+2018-11-17 07:09:11 +0000,0,Fowler,GS,Possession,1,11,9,51, 14
+2018-11-17 07:09:12 +0000,0,Medhurst,GA,Possession,1,11,9,65, 34
+2018-11-17 07:09:20 +0000,0,Medhurst,GA,Assist - Circle Entry,1,11,9,65, 34
+2018-11-17 07:09:20 +0000,0,Fowler,GS,Goal - Score,1,11,9,45, 10
+2018-11-17 07:09:25 +0000,0,Charles,C,Centre Pass,1,12,9,50, 100
+2018-11-17 07:09:25 +0000,1,Fowler,WD,Penaly - Contact on CP,1,12,9,50, 76
+2018-11-17 07:09:25 +0000,0,Anstiss,WD,Possession,1,12,9,50, 76
+2018-11-17 07:09:30 +0000,0,Colyer ,WA,Assist - 2nd Phase,1,12,9,72, 45
+2018-11-17 07:09:33 +0000,0,Medhurst,GA,Possession,1,12,9,32, 38
+2018-11-17 07:09:36 +0000,1,Bryce,C,Penaly - Contact,1,12,9,58, 36
+2018-11-17 07:09:36 +0000,0,Charles,C,Possession,1,12,9,58, 36
+2018-11-17 07:09:40 +0000,0,Charles,C,Assist - Circle Entry,1,12,9,58, 36
+2018-11-17 07:09:40 +0000,0,Medhurst,GA,Possession,1,12,9,56, 14
+2018-11-17 07:09:42 +0000,1,de Bruin,GD,Penaly - Obstruction,1,12,9,56, 14
+2018-11-17 07:09:42 +0000,0,Medhurst,GA,Goal - Score,1,12,9,56, 14
+2018-11-17 07:10:30 +0000,0,Medhurst,UNKNOWN,Interchange - Stanton,1,13,9,
+2018-11-17 07:12:06 +0000,1,Bryce,C,Centre Pass,1,13,9,50, 100
+2018-11-17 07:12:06 +0000,1,de Bruin,GD,Assist - Centre Pass Rec,1,13,9,94, 113
+2018-11-17 07:12:08 +0000,1,Bryce,C,Assist - 2nd Phase,1,13,9,95, 142
+2018-11-17 07:12:10 +0000,1,de Bruin,GD,Possession,1,13,9,82, 126
+2018-11-17 07:12:12 +0000,1,Pitman,WA,Possession,1,13,9,72, 150
+2018-11-17 07:12:14 +0000,1,Pitman,WA,Assist - Circle Entry,1,13,9,72, 150
+2018-11-17 07:12:14 +0000,1,Nelson,GS,Goal - Score,1,13,9,46, 194
+2018-11-17 07:12:17 +0000,0,Charles,C,Centre Pass,1,13,10,50, 100
+2018-11-17 07:12:17 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,13,10,20, 80
+2018-11-17 07:12:20 +0000,0,Colyer ,WA,Assist - Circle Entry,1,13,10,20, 80
+2018-11-17 07:12:20 +0000,0,Fowler,GS,Assist - 2nd Phase,1,13,10,36, 8
+2018-11-17 07:12:27 +0000,0,Fowler,GS,Goal - Miss,1,13,10,36, 8
+2018-11-17 07:12:27 +0000,1,de Bruin,GD,Gain - Def Reb,1,13,10,50, 2
+2018-11-17 07:12:29 +0000,0,Francis,GD,Penaly - Contact,1,13,10,50, 2
+2018-11-17 07:12:29 +0000,1,Shimmin,GK,Possession,1,13,10,50, 2
+2018-11-17 07:12:35 +0000,1,Fowler,WD,Possession,1,13,10,82, 45
+2018-11-17 07:12:37 +0000,1,Bryce,C,Possession,1,13,10,92, 59
+2018-11-17 07:12:40 +0000,1,Fowler,WD,Possession,1,13,10,77, 71
+2018-11-17 07:12:44 +0000,1,de Bruin,GD,Possession,1,13,10,82, 88
+2018-11-17 07:12:46 +0000,1,Bryce,C,Possession,1,13,10,53, 121
+2018-11-17 07:12:50 +0000,1,Hodges,GA,Possession,1,13,10,65, 150
+2018-11-17 07:12:53 +0000,1,Hodges,GA,Assist - Circle Entry,1,13,10,65, 150
+2018-11-17 07:12:53 +0000,1,Nelson,GS,Possession,1,13,10,45, 190
+2018-11-17 07:12:57 +0000,0,Bruce,GK,Penaly - Obstruction,1,13,10,45, 190
+2018-11-17 07:12:57 +0000,1,Nelson,GS,Goal - Score,1,13,10,45, 190
+2018-11-17 07:13:06 +0000,1,Bryce,C,Centre Pass,1,13,11,50, 100
+2018-11-17 07:13:06 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,13,11,18, 127
+2018-11-17 07:13:09 +0000,1,Pitman,WA,Assist - Circle Entry,1,13,11,18, 127
+2018-11-17 07:13:09 +0000,1,Nelson,GS,Assist - 2nd Phase,1,13,11,58, 191
+2018-11-17 07:13:12 +0000,1,Nelson,GS,Goal - Score,1,13,11,58, 191
+2018-11-17 07:13:18 +0000,0,Charles,C,Centre Pass,1,13,12,50, 100
+2018-11-17 07:13:18 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,13,12,24, 90
+2018-11-17 07:13:23 +0000,1,Pitman,WA,Penaly - Contact,1,13,12,24, 90
+2018-11-17 07:13:23 +0000,0,Anstiss,WD,Possession,1,13,12,24, 90
+2018-11-17 07:13:30 +0000,0,Charles,C,Possession,1,13,12,69, 61
+2018-11-17 07:13:32 +0000,0,Charles,C,Assist - Circle Entry,1,13,12,69, 61
+2018-11-17 07:13:32 +0000,0,Fowler,GS,Assist - 2nd Phase,1,13,12,49, 17
+2018-11-17 07:13:35 +0000,0,Fowler,GS,Goal - Score,1,13,12,49, 17
+2018-11-17 07:13:50 +0000,0,,UNKNOWN,Timeout,1,14,12,-10, -22
+2018-11-17 07:14:03 +0000,0,Stanton,UNKNOWN,Interchange - Medhurst,1,14,12,
+2018-11-17 07:14:41 +0000,1,Bryce,C,Centre Pass,1,14,12,50, 100
+2018-11-17 07:14:41 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,14,12,34, 125
+2018-11-17 07:14:46 +0000,0,Bruce,GK,Deflect,1,14,12,64, 184
+2018-11-17 07:14:47 +0000,1,Bryce,C,Possession,1,14,12,73, 175
+2018-11-17 07:14:52 +0000,0,Anstiss,WD,Gain - Inter,1,14,12,32, 160
+2018-11-17 07:15:03 +0000,0,Francis,GD,Possession,1,14,12,41, 124
+2018-11-17 07:15:06 +0000,0,Francis,GD,Possession,1,14,12,24, 78
+2018-11-17 07:15:08 +0000,0,Colyer ,WA,Possession,1,14,12,26, 61
+2018-11-17 07:15:10 +0000,0,Charles,C,Possession,1,14,12,51, 59
+2018-11-17 07:15:12 +0000,0,Charles,C,Assist - Circle Entry,1,14,12,51, 59
+2018-11-17 07:15:12 +0000,0,Fowler,GS,Goal - Score,1,14,12,42, 15
+2018-11-17 07:15:21 +0000,0,Charles,C,Centre Pass,1,15,12,50, 100
+2018-11-17 07:15:21 +0000,0,Francis,GD,Assist - Centre Pass Rec,1,15,12,69, 78
+2018-11-17 07:15:23 +0000,0,Colyer ,WA,Assist - 2nd Phase,1,15,12,77, 35
+2018-11-17 07:15:25 +0000,0,Colyer ,WA,Assist - Circle Entry,1,15,12,77, 35
+2018-11-17 07:15:25 +0000,0,Medhurst,GA,Possession,1,15,12,74, 15
+2018-11-17 07:15:27 +0000,0,Colyer ,WA,Possession,1,15,12,76, 27
+2018-11-17 07:15:29 +0000,0,Colyer ,WA,Assist - Circle Entry,1,15,12,76, 27
+2018-11-17 07:15:29 +0000,0,Medhurst,GA,Possession,1,15,12,65, 10
+2018-11-17 07:15:31 +0000,0,Fowler,GS,Possession,1,15,12,48, 13
+2018-11-17 07:15:32 +0000,1,de Bruin,GD,Penaly - Obstruction,1,15,12,48, 13
+2018-11-17 07:15:32 +0000,0,Fowler,GS,Goal - Score,1,15,12,48, 13
+2018-11-17 07:15:40 +0000,1,Bryce,C,Centre Pass,1,16,12,50, 100
+2018-11-17 07:15:40 +0000,1,Fowler,WD,Assist - Centre Pass Rec,1,16,12,74, 75
+2018-11-17 07:15:42 +0000,1,Bryce,C,Assist - 2nd Phase,1,16,12,22, 108
+2018-11-17 07:15:44 +0000,1,Fowler,WD,Possession,1,16,12,30, 124
+2018-11-17 07:15:49 +0000,1,Pitman,WA,Possession,1,16,12,45, 144
+2018-11-17 07:15:51 +0000,1,Bryce,C,Possession,1,16,12,78, 170
+2018-11-17 07:15:56 +0000,1,Pitman,WA,Possession,1,16,12,22, 179
+2018-11-17 07:15:58 +0000,1,Pitman,WA,Assist - Circle Entry,1,16,12,22, 179
+2018-11-17 07:15:58 +0000,1,Nelson,GS,Goal - Score,1,16,12,57, 194
+2018-11-17 07:16:06 +0000,0,Charles,C,Centre Pass,1,16,13,50, 100
+2018-11-17 07:16:06 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,1,16,13,89, 83
+2018-11-17 07:16:08 +0000,0,Charles,C,Assist - 2nd Phase,1,16,13,69, 63
+2018-11-17 07:16:10 +0000,0,Medhurst,GA,Possession,1,16,13,27, 34
+2018-11-17 07:16:12 +0000,0,Medhurst,GA,Assist - Circle Entry,1,16,13,27, 34
+2018-11-17 07:16:12 +0000,0,Fowler,GS,Goal - Score,1,16,13,54, 8
+2018-11-17 07:16:20 +0000,1,Bryce,C,Centre Pass,1,17,13,50, 100
+2018-11-17 07:16:20 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,17,13,26, 129
+2018-11-17 07:16:23 +0000,1,Pitman,WA,Assist - Circle Entry,1,17,13,26, 129
+2018-11-17 07:16:23 +0000,1,Nelson,GS,Assist - 2nd Phase,1,17,13,39, 191
+2018-11-17 07:16:26 +0000,1,Pitman,WA,Possession,1,17,13,25, 178
+2018-11-17 07:16:28 +0000,0,Anstiss,WD,Penaly - Contact,1,17,13,25, 178
+2018-11-17 07:16:28 +0000,1,Pitman,WA,Possession,1,17,13,25, 178
+2018-11-17 07:16:35 +0000,1,Pitman,WA,Assist - Circle Entry,1,17,13,25, 178
+2018-11-17 07:16:35 +0000,1,Nelson,GS,Goal - Score,1,17,13,42, 195
+2018-11-17 07:16:43 +0000,0,Charles,C,Centre Pass,1,17,14,50, 100
+2018-11-17 07:16:43 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,1,17,14,11, 73
+2018-11-17 07:16:45 +0000,0,Colyer ,WA,Assist - 2nd Phase,1,17,14,21, 23
+2018-11-17 07:16:47 +0000,0,Colyer ,WA,Assist - Circle Entry,1,17,14,21, 23
+2018-11-17 07:16:47 +0000,0,Fowler,GS,Goal - Score,1,17,14,48, 7
+2018-11-17 07:33:59 +0000,1,Bryce,C,Centre Pass,1,18,14,50, 100
+2018-11-17 07:33:59 +0000,1,de Bruin,GD,Assist - Centre Pass Rec,1,18,14,71, 105
+2018-11-17 07:34:00 +0000,1,Hodges,GA,Assist - 2nd Phase,1,18,14,93, 128
+2018-11-17 07:34:03 +0000,1,de Bruin,GD,Possession,1,18,14,82, 121
+2018-11-17 07:34:07 +0000,1,Pitman,WA,Possession,1,18,14,59, 127
+2018-11-17 07:34:10 +0000,1,Bryce,C,Possession,1,18,14,14, 193
+2018-11-17 07:34:12 +0000,1,Bryce,C,Assist - Circle Entry,1,18,14,14, 193
+2018-11-17 07:34:12 +0000,1,Nelson,GS,Goal - Miss,1,18,14,37, 195
+2018-11-17 07:34:17 +0000,0,Bruce,GK,Gain - Def Reb,1,18,14,50, 197
+2018-11-17 07:34:18 +0000,1,Nelson,GS,Penaly - Contact,1,18,14,50, 197
+2018-11-17 07:34:18 +0000,0,Bruce,GK,Possession,1,18,14,50, 197
+2018-11-17 07:34:23 +0000,0,Anstiss,WD,Possession,1,18,14,67, 141
+2018-11-17 07:34:24 +0000,0,Colyer ,WA,Possession,1,18,14,29, 108
+2018-11-17 07:34:26 +0000,0,Medhurst,GA,Possession,1,18,14,46, 74
+2018-11-17 07:34:28 +0000,0,Charles,C,Possession,1,18,14,27, 31
+2018-11-17 07:34:32 +0000,0,Charles,C,Assist - Circle Entry,1,18,14,27, 31
+2018-11-17 07:34:32 +0000,0,Fowler,GS,Goal - Score,1,18,14,45, 6
+2018-11-17 07:34:40 +0000,0,Charles,C,Centre Pass,1,19,14,50, 100
+2018-11-17 07:34:40 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,19,14,80, 72
+2018-11-17 07:34:43 +0000,0,Colyer ,WA,Assist - Circle Entry,1,19,14,80, 72
+2018-11-17 07:34:43 +0000,0,Fowler,GS,Assist - 2nd Phase,1,19,14,47, 7
+2018-11-17 07:34:45 +0000,0,Fowler,GS,Goal - Score,1,19,14,47, 7
+2018-11-17 07:34:51 +0000,1,Bryce,C,Centre Pass,1,20,14,50, 100
+2018-11-17 07:34:51 +0000,1,Hodges,GA,Assist - Centre Pass Rec,1,20,14,65, 115
+2018-11-17 07:34:53 +0000,1,Pitman,WA,Loss - Held Ball,1,20,14,87, 179
+2018-11-17 07:34:59 +0000,0,Bruce,GK,Possession,1,20,14,86, 178
+2018-11-17 07:35:00 +0000,0,Anstiss,WD,Possession,1,20,14,82, 124
+2018-11-17 07:35:02 +0000,0,Medhurst,GA,Possession,1,20,14,79, 74
+2018-11-17 07:35:06 +0000,0,Charles,C,Loss - Step,1,20,14,76, 56
+2018-11-17 07:35:18 +0000,1,Bryce,C,Possession,1,20,14,77, 59
+2018-11-17 07:35:20 +0000,1,de Bruin,GD,Possession,1,20,14,70, 76
+2018-11-17 07:35:22 +0000,1,Pitman,WA,Possession,1,20,14,21, 101
+2018-11-17 07:35:23 +0000,1,de Bruin,GD,Possession,1,20,14,53, 117
+2018-11-17 07:36:05 +0000,0,Bruce,GK,Deflect,1,20,14,43, 184
+2018-11-17 07:36:05 +0000,1,Pitman,WA,Throw In,1,20,14,5, 202
+2018-11-17 07:36:13 +0000,1,Pitman,WA,Assist - Circle Entry,1,20,14,5, 202
+2018-11-17 07:36:13 +0000,1,Nelson,GS,Goal - Score,1,20,14,44, 190
+2018-11-17 07:36:22 +0000,0,Charles,C,Centre Pass,1,20,15,50, 100
+2018-11-17 07:36:22 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,1,20,15,76, 92
+2018-11-17 07:36:56 +0000,1,Bryce,C,Centre Pass,2,20,15,50, 100
+2018-11-17 07:36:56 +0000,1,de Bruin,GD,Assist - Centre Pass Rec,2,20,15,63, 85
+2018-11-17 07:36:57 +0000,1,Bryce,C,Assist - 2nd Phase,2,20,15,57, 123
+2018-11-17 07:37:00 +0000,0,Anstiss,WD,Gain - Tip (Deflect),2,20,15,80, 160
+2018-11-17 07:37:00 +0000,0,Charles,C,Possession,2,20,15,54, 143
+2018-11-17 07:37:21 +0000,0,Anstiss,WD,Possession,2,20,15,30, 135
+2018-11-17 07:37:30 +0000,0,Colyer ,WA,Possession,2,20,15,55, 76
+2018-11-17 07:37:32 +0000,0,Medhurst,GA,Possession,2,20,15,76, 52
+2018-11-17 07:37:35 +0000,0,Medhurst,GA,Assist - Circle Entry,2,20,15,76, 52
+2018-11-17 07:37:35 +0000,0,Fowler,GS,Possession,2,20,15,51, 20
+2018-11-17 07:37:42 +0000,0,Medhurst,GA,Possession,2,20,15,44, 26
+2018-11-17 07:37:47 +0000,0,Fowler,GS,Possession,2,20,15,58, 7
+2018-11-17 07:37:50 +0000,1,de Bruin,GD,Penaly - Contact,2,20,15,58, 7
+2018-11-17 07:37:50 +0000,0,Fowler,GS,Goal - Score,2,20,15,58, 7
+2018-11-17 07:37:57 +0000,0,Charles,C,Centre Pass,2,21,15,50, 100
+2018-11-17 07:37:57 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,21,15,16, 73
+2018-11-17 07:37:58 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,21,15,10, 35
+2018-11-17 07:38:02 +0000,0,Medhurst,GA,Assist - Circle Entry,2,21,15,10, 35
+2018-11-17 07:38:02 +0000,0,Fowler,GS,Possession,2,21,15,39, 2
+2018-11-17 07:38:03 +0000,0,Medhurst,GA,Possession,2,21,15,23, 25
+2018-11-17 07:38:05 +0000,0,Colyer ,WA,Possession,2,21,15,45, 32
+2018-11-17 07:38:08 +0000,0,Colyer ,WA,Assist - Circle Entry,2,21,15,45, 32
+2018-11-17 07:38:08 +0000,0,Medhurst,GA,Possession,2,21,15,46, 16
+2018-11-17 07:38:10 +0000,0,Fowler,GS,Goal - Miss,2,21,15,51, 4
+2018-11-17 07:38:15 +0000,1,Shimmin,GK,Gain - Tip (Deflect),2,21,15,50, 2
+2018-11-17 07:38:21 +0000,1,Shimmin,GK,Possession,2,21,15,86, 3
+2018-11-17 07:38:29 +0000,1,Fowler,WD,Possession,2,21,15,20, 17
+2018-11-17 07:38:31 +0000,0,Colyer ,WA,Penaly - Contact,2,21,15,20, 17
+2018-11-17 07:38:31 +0000,1,Shimmin,GK,Possession,2,21,15,20, 17
+2018-11-17 07:38:38 +0000,1,de Bruin,GD,Possession,2,21,15,9, 52
+2018-11-17 07:38:41 +0000,1,Bryce,C,Possession,2,21,15,11, 72
+2018-11-17 07:38:43 +0000,0,Charles,C,Gain - Inter,2,21,15,66, 111
+2018-11-17 07:38:48 +0000,0,Colyer ,WA,Possession,2,21,15,63, 81
+2018-11-17 07:38:50 +0000,0,Charles,C,Possession,2,21,15,75, 45
+2018-11-17 07:38:53 +0000,0,Anstiss,WD,Possession,2,21,15,76, 77
+2018-11-17 07:38:55 +0000,0,Francis,GD,Possession,2,21,15,62, 111
+2018-11-17 07:38:57 +0000,0,Colyer ,WA,Possession,2,21,15,7, 85
+2018-11-17 07:38:59 +0000,0,Colyer ,WA,Assist - Circle Entry,2,21,15,7, 85
+2018-11-17 07:38:59 +0000,0,Fowler,GS,Possession,2,21,15,31, 9
+2018-11-17 07:39:02 +0000,0,Colyer ,WA,Possession,2,21,15,24, 24
+2018-11-17 07:39:04 +0000,0,Colyer ,WA,Assist - Circle Entry,2,21,15,24, 24
+2018-11-17 07:39:04 +0000,0,Fowler,GS,Goal - Miss,2,21,15,41, 9
+2018-11-17 07:39:10 +0000,0,Fowler,GS,Assist - Attack Rebound,2,21,15,50, 2
+2018-11-17 07:39:10 +0000,0,Fowler,GS,Goal - Score,2,21,15,41, 9
+2018-11-17 07:39:20 +0000,1,Bryce,C,Centre Pass,2,22,15,50, 100
+2018-11-17 07:39:20 +0000,1,Hodges,GA,Assist - Centre Pass Rec,2,22,15,44, 125
+2018-11-17 07:39:22 +0000,0,Bruce,GK,Penaly - Contact,2,22,15,44, 170
+2018-11-17 07:39:22 +0000,1,Hodges,GA,Assist - 2nd Phase,2,22,15,44, 170
+2018-11-17 07:39:28 +0000,1,Nelson,GS,Goal - Score,2,22,15,50, 194
+2018-11-17 07:39:37 +0000,0,Charles,C,Centre Pass,2,22,16,50, 100
+2018-11-17 07:39:37 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,22,16,91, 75
+2018-11-17 07:39:41 +0000,0,Medhurst,GA,Assist - Circle Entry,2,22,16,91, 75
+2018-11-17 07:39:41 +0000,1,Shimmin,GK,Gain - Inter,2,22,16,46, 12
+2018-11-17 07:39:47 +0000,0,Fowler,GS,Penaly - Contact,2,22,16,46, 12
+2018-11-17 07:39:47 +0000,1,Shimmin,GK,Possession,2,22,16,46, 12
+2018-11-17 07:39:53 +0000,1,Fowler,WD,Possession,2,22,16,9, 47
+2018-11-17 07:39:55 +0000,1,Bryce,C,Possession,2,22,16,10, 72
+2018-11-17 07:39:57 +0000,1,Fowler,WD,Possession,2,22,16,19, 60
+2018-11-17 07:39:59 +0000,1,de Bruin,GD,Possession,2,22,16,41, 64
+2018-11-17 07:40:01 +0000,1,Pitman,WA,Possession,2,22,16,10, 90
+2018-11-17 07:40:03 +0000,1,de Bruin,GD,Possession,2,22,16,21, 106
+2018-11-17 07:40:06 +0000,1,Hodges,GA,Possession,2,22,16,13, 152
+2018-11-17 07:40:07 +0000,0,Francis,GD,Penaly - Contact,2,22,16,13, 152
+2018-11-17 07:40:07 +0000,1,Pitman,WA,Possession,2,22,16,13, 152
+2018-11-17 07:40:12 +0000,1,Bryce,C,Possession,2,22,16,47, 158
+2018-11-17 07:40:16 +0000,0,Bruce,GK,Gain - Tip (Deflect),2,22,16,25, 171
+2018-11-17 07:40:39 +0000,0,Anstiss,WD,Possession,2,22,16,25, 158
+2018-11-17 07:40:43 +0000,0,Medhurst,GA,Possession,2,22,16,33, 127
+2018-11-17 07:40:45 +0000,0,Charles,C,Possession,2,22,16,33, 90
+2018-11-17 07:40:47 +0000,0,Anstiss,WD,Possession,2,22,16,10, 81
+2018-11-17 07:40:49 +0000,0,Colyer ,WA,Possession,2,22,16,5, 56
+2018-11-17 07:40:51 +0000,0,Medhurst,GA,Possession,2,22,16,28, 51
+2018-11-17 07:40:53 +0000,0,Charles,C,Possession,2,22,16,85, 5
+2018-11-17 07:40:57 +0000,0,Charles,C,Assist - Circle Entry,2,22,16,85, 5
+2018-11-17 07:40:57 +0000,0,Medhurst,GA,Possession,2,22,16,69, 5
+2018-11-17 07:40:59 +0000,0,Fowler,GS,Goal - Score,2,22,16,49, 6
+2018-11-17 07:41:06 +0000,1,,UNKNOWN,Timeout,2,23,16,110, 222
+2018-11-17 07:41:55 +0000,1,Bryce,C,Centre Pass,2,23,16,50, 100
+2018-11-17 07:41:55 +0000,1,Hodges,GA,Assist - Centre Pass Rec,2,23,16,76, 122
+2018-11-17 07:41:59 +0000,0,Anstiss,WD,Gain - Tip (Deflect),2,23,16,46, 159
+2018-11-17 07:42:06 +0000,0,Bruce,GK,Possession,2,23,16,70, 163
+2018-11-17 07:42:08 +0000,0,Colyer ,WA,Possession,2,23,16,89, 82
+2018-11-17 07:42:12 +0000,0,Francis,GD,Possession,2,23,16,44, 113
+2018-11-17 07:42:14 +0000,0,Anstiss,WD,Possession,2,23,16,78, 86
+2018-11-17 07:42:16 +0000,0,Medhurst,GA,Possession,2,23,16,79, 43
+2018-11-17 07:42:18 +0000,0,Francis,GD,Possession,2,23,16,67, 67
+2018-11-17 07:42:20 +0000,0,Medhurst,GA,Possession,2,23,16,51, 41
+2018-11-17 07:42:23 +0000,0,Charles,C,Possession,2,23,16,12, 8
+2018-11-17 07:42:25 +0000,0,Medhurst,GA,Possession,2,23,16,31, 30
+2018-11-17 07:42:29 +0000,1,Fowler,WD,Penaly - Contact,2,23,16,31, 30
+2018-11-17 07:42:29 +0000,0,Medhurst,GA,Possession,2,23,16,31, 30
+2018-11-17 07:42:33 +0000,0,Medhurst,GA,Assist - Circle Entry,2,23,16,31, 30
+2018-11-17 07:42:33 +0000,0,Fowler,GS,Possession,2,23,16,55, 4
+2018-11-17 07:42:35 +0000,0,Charles,C,Possession,2,23,16,80, 17
+2018-11-17 07:42:40 +0000,0,Charles,C,Assist - Circle Entry,2,23,16,80, 17
+2018-11-17 07:42:40 +0000,0,Fowler,GS,Goal - Score,2,23,16,45, 10
+2018-11-17 07:42:52 +0000,0,Charles,C,Centre Pass,2,24,16,50, 100
+2018-11-17 07:42:52 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,24,16,79, 72
+2018-11-17 07:42:56 +0000,1,Pitman,WA,Penaly - Obstruction,2,24,16,79, 72
+2018-11-17 07:42:56 +0000,0,Anstiss,WD,Possession,2,24,16,79, 72
+2018-11-17 07:43:08 +0000,0,Medhurst,GA,Possession,2,24,16,51, 42
+2018-11-17 07:43:14 +0000,1,de Bruin,GD,Penaly - Contact,2,24,16,51, 42
+2018-11-17 07:43:14 +0000,0,Colyer ,WA,Possession,2,24,16,51, 42
+2018-11-17 07:43:18 +0000,0,Colyer ,WA,Assist - Circle Entry,2,24,16,51, 42
+2018-11-17 07:43:18 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,24,16,51, 13
+2018-11-17 07:43:22 +0000,0,Medhurst,GA,Goal - Miss,2,24,16,51, 13
+2018-11-17 07:43:22 +0000,0,Fowler,GS,Assist - Attack Rebound,2,24,16,50, 2
+2018-11-17 07:43:24 +0000,1,Shimmin,GK,Penaly - Contact,2,24,16,50, 2
+2018-11-17 07:43:24 +0000,0,Fowler,GS,Goal - Score,2,24,16,50, 2
+2018-11-17 07:43:31 +0000,1,Bryce,C,Centre Pass,2,25,16,50, 100
+2018-11-17 07:43:31 +0000,1,Pitman,WA,Assist - Centre Pass Rec,2,25,16,71, 120
+2018-11-17 07:43:32 +0000,1,Bryce,C,Assist - 2nd Phase,2,25,16,50, 141
+2018-11-17 07:43:34 +0000,1,Hodges,GA,Possession,2,25,16,78, 150
+2018-11-17 07:43:42 +0000,1,Hodges,GA,Assist - Circle Entry,2,25,16,78, 150
+2018-11-17 07:43:43 +0000,0,Bruce,GK,Gain - Tip (Deflect),2,25,16,48, 187
+2018-11-17 07:43:47 +0000,0,Bruce,GK,Possession,2,25,16,38, 192
+2018-11-17 07:43:55 +0000,1,Nelson,GS,Deflect,2,25,16,13, 179
+2018-11-17 07:43:55 +0000,0,Bruce,GK,Throw In,2,25,16,-7, 195
+2018-11-17 07:44:01 +0000,1,Hodges,GA,Penaly - Contact,2,25,16,20, 151
+2018-11-17 07:44:02 +0000,0,Bruce,GK,Possession,2,25,16,20, 151
+2018-11-17 07:44:14 +0000,0,Anstiss,WD,Possession,2,25,16,69, 124
+2018-11-17 07:44:16 +0000,0,Colyer ,WA,Possession,2,25,16,77, 97
+2018-11-17 07:44:18 +0000,0,Bruce,GK,Possession,2,25,16,72, 133
+2018-11-17 07:44:19 +0000,0,Francis,GD,Possession,2,25,16,81, 107
+2018-11-17 07:44:21 +0000,0,Anstiss,WD,Possession,2,25,16,43, 114
+2018-11-17 07:44:23 +0000,0,Charles,C,Possession,2,25,16,23, 85
+2018-11-17 07:44:25 +0000,0,Medhurst,GA,Possession,2,25,16,30, 69
+2018-11-17 07:44:27 +0000,0,Medhurst,GA,Assist - Circle Entry,2,25,16,30, 69
+2018-11-17 07:44:27 +0000,0,Fowler,GS,Possession,2,25,16,22, 7
+2018-11-17 07:44:31 +0000,0,Colyer ,WA,Possession,2,25,16,18, 16
+2018-11-17 07:44:34 +0000,1,,UNKNOWN,Penaly - Contact,2,25,16,18, 16
+2018-11-17 07:44:34 +0000,0,Charles,C,Possession,2,25,16,18, 16
+2018-11-17 07:44:43 +0000,1,Bryce,C,Penaly - Other,2,25,16,46, 7
+2018-11-17 07:44:43 +0000,0,Medhurst,GA,Goal - Score,2,25,16,46, 7
+2018-11-17 07:46:02 +0000,0,Charles,C,Centre Pass,2,26,16,50, 100
+2018-11-17 07:46:02 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,26,16,74, 77
+2018-11-17 07:46:05 +0000,0,Charles,C,Assist - 2nd Phase,2,26,16,53, 71
+2018-11-17 07:46:07 +0000,0,Medhurst,GA,Possession,2,26,16,12, 51
+2018-11-17 07:46:09 +0000,0,Medhurst,GA,Assist - Circle Entry,2,26,16,12, 51
+2018-11-17 07:46:09 +0000,0,Fowler,GS,Goal - Score,2,26,16,44, 5
+2018-11-17 07:46:17 +0000,1,Bryce,C,Centre Pass,2,27,16,50, 100
+2018-11-17 07:46:17 +0000,1,Hodges,GA,Assist - Centre Pass Rec,2,27,16,47, 121
+2018-11-17 07:46:22 +0000,0,Francis,GD,Penaly - Contact,2,27,16,30, 145
+2018-11-17 07:46:22 +0000,1,Bryce,C,Assist - 2nd Phase,2,27,16,30, 145
+2018-11-17 07:46:43 +0000,1,Pitman,WA,Possession,2,27,16,28, 169
+2018-11-17 07:46:46 +0000,1,Hodges,GA,Possession,2,27,16,13, 193
+2018-11-17 07:46:48 +0000,1,Hodges,GA,Assist - Circle Entry,2,27,16,13, 193
+2018-11-17 07:46:48 +0000,1,Nelson,GS,Possession,2,27,16,51, 183
+2018-11-17 07:46:48 +0000,0,Bruce,GK,Penaly - Contact,2,27,16,51, 183
+2018-11-17 07:46:48 +0000,1,Nelson,GS,Goal - Score,2,27,16,51, 183
+2018-11-17 07:46:57 +0000,0,Charles,C,Centre Pass,2,27,17,50, 100
+2018-11-17 07:46:57 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,27,17,83, 79
+2018-11-17 07:46:59 +0000,0,Anstiss,WD,Assist - 2nd Phase,2,27,17,85, 95
+2018-11-17 07:47:01 +0000,0,Colyer ,WA,Possession,2,27,17,50, 82
+2018-11-17 07:47:03 +0000,0,Medhurst,GA,Possession,2,27,17,5, 44
+2018-11-17 07:47:06 +0000,0,Charles,C,Possession,2,27,17,9, 17
+2018-11-17 07:47:09 +0000,0,Medhurst,GA,Possession,2,27,17,37, 41
+2018-11-17 07:47:14 +0000,0,Medhurst,GA,Assist - Circle Entry,2,27,17,37, 41
+2018-11-17 07:47:14 +0000,1,de Bruin,GD,Gain - Tip (Deflect),2,27,17,30, 15
+2018-11-17 07:47:17 +0000,1,Bryce,C,Possession,2,27,17,15, 18
+2018-11-17 07:47:21 +0000,1,Shimmin,GK,Possession,2,27,17,42, 37
+2018-11-17 07:47:23 +0000,1,de Bruin,GD,Possession,2,27,17,30, 51
+2018-11-17 07:47:25 +0000,1,Shimmin,GK,Possession,2,27,17,11, 46
+2018-11-17 07:47:27 +0000,1,Fowler,WD,Possession,2,27,17,10, 70
+2018-11-17 07:47:29 +0000,1,de Bruin,GD,Possession,2,27,17,36, 70
+2018-11-17 07:47:32 +0000,1,Hodges,GA,Possession,2,27,17,87, 115
+2018-11-17 07:47:34 +0000,1,Bryce,C,Possession,2,27,17,52, 126
+2018-11-17 07:47:36 +0000,1,Pitman,WA,Possession,2,27,17,59, 144
+2018-11-17 07:47:39 +0000,1,Pitman,WA,Assist - Circle Entry,2,27,17,59, 144
+2018-11-17 07:47:39 +0000,0,Bruce,GK,Gain - Tip (Deflect),2,27,17,38, 181
+2018-11-17 07:48:22 +0000,0,Anstiss,WD,Possession,2,27,17,28, 171
+2018-11-17 07:48:25 +0000,0,Francis,GD,Possession,2,27,17,56, 145
+2018-11-17 07:48:28 +0000,0,Charles,C,Possession,2,27,17,59, 107
+2018-11-17 07:48:30 +0000,0,Colyer ,WA,Possession,2,27,17,64, 72
+2018-11-17 07:48:32 +0000,0,Medhurst,GA,Possession,2,27,17,47, 59
+2018-11-17 07:48:34 +0000,0,Anstiss,WD,Possession,2,27,17,77, 70
+2018-11-17 07:48:36 +0000,0,Charles,C,Possession,2,27,17,57, 45
+2018-11-17 07:48:43 +0000,0,Charles,C,Assist - Circle Entry,2,27,17,57, 45
+2018-11-17 07:48:43 +0000,0,Fowler,GS,Goal - Miss,2,27,17,50, 12
+2018-11-17 07:48:50 +0000,1,Shimmin,GK,Deflect,2,27,17,50, 2
+2018-11-17 07:48:51 +0000,0,Medhurst,GA,Throw In,2,27,17,51, -5
+2018-11-17 07:48:56 +0000,1,Shimmin,GK,Penaly - Obstruction,2,27,17,42, 4
+2018-11-17 07:48:56 +0000,0,Fowler,GS,Goal - Score,2,27,17,42, 4
+2018-11-17 07:49:45 +0000,0,Bryce,UNKNOWN,Interchange - Petty,2,28,17,
+2018-11-17 07:49:49 +0000,1,Petty,C,Centre Pass,2,28,17,50, 100
+2018-11-17 07:49:49 +0000,1,Hodges,GA,Assist - Centre Pass Rec,2,28,17,20, 119
+2018-11-17 07:49:51 +0000,1,Pitman,WA,Assist - 2nd Phase,2,28,17,12, 157
+2018-11-17 07:49:53 +0000,1,Fowler,WD,Possession,2,28,17,9, 127
+2018-11-17 07:49:57 +0000,1,de Bruin,GD,Possession,2,28,17,76, 125
+2018-11-17 07:50:00 +0000,1,Pitman,WA,Possession,2,28,17,75, 146
+2018-11-17 07:50:04 +0000,1,Petty,C,Possession,2,28,17,21, 172
+2018-11-17 07:50:07 +0000,1,Petty,C,Assist - Circle Entry,2,28,17,21, 172
+2018-11-17 07:50:07 +0000,1,Hodges,GA,Possession,2,28,17,41, 186
+2018-11-17 07:50:10 +0000,1,Nelson,GS,Goal - Score,2,28,17,54, 192
+2018-11-17 07:50:22 +0000,0,Charles,C,Centre Pass,2,28,18,50, 100
+2018-11-17 07:50:22 +0000,0,Francis,GD,Assist - Centre Pass Rec,2,28,18,32, 93
+2018-11-17 07:50:23 +0000,1,Hodges,GA,Penaly - Contact,2,28,18,32, 93
+2018-11-17 07:50:23 +0000,0,Francis,GD,Possession,2,28,18,32, 93
+2018-11-17 07:50:27 +0000,0,Charles,C,Possession,2,28,18,33, 66
+2018-11-17 07:50:29 +0000,0,Colyer ,WA,Possession,2,28,18,63, 54
+2018-11-17 07:50:30 +0000,0,Medhurst,GA,Possession,2,28,18,76, 28
+2018-11-17 07:50:32 +0000,0,Colyer ,WA,Possession,2,28,18,59, 44
+2018-11-17 07:50:37 +0000,0,Colyer ,WA,Assist - Circle Entry,2,28,18,59, 44
+2018-11-17 07:50:37 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,28,18,54, 26
+2018-11-17 07:50:39 +0000,0,Colyer ,WA,Possession,2,28,18,20, 19
+2018-11-17 07:50:42 +0000,0,Colyer ,WA,Assist - Circle Entry,2,28,18,20, 19
+2018-11-17 07:50:42 +0000,0,Fowler,GS,Goal - Score,2,28,18,59, 10
+2018-11-17 07:51:00 +0000,1,Petty,C,Centre Pass,2,29,18,50, 100
+2018-11-17 07:51:00 +0000,1,de Bruin,GD,Assist - Centre Pass Rec,2,29,18,52, 82
+2018-11-17 07:51:05 +0000,0,Colyer ,WA,Penaly - Contact,2,29,18,52, 82
+2018-11-17 07:51:05 +0000,1,de Bruin,GD,Possession,2,29,18,52, 82
+2018-11-17 07:51:10 +0000,1,Pitman,WA,Possession,2,29,18,56, 119
+2018-11-17 07:51:14 +0000,0,Francis,GD,Penaly - Obstruction,2,29,18,56, 119
+2018-11-17 07:51:14 +0000,1,de Bruin,GD,Possession,2,29,18,56, 119
+2018-11-17 07:51:18 +0000,1,Pitman,WA,Possession,2,29,18,56, 152
+2018-11-17 07:51:20 +0000,1,Petty,C,Possession,2,29,18,14, 187
+2018-11-17 07:51:23 +0000,1,Petty,C,Assist - Circle Entry,2,29,18,14, 187
+2018-11-17 07:51:23 +0000,1,Nelson,GS,Assist - 2nd Phase,2,29,18,52, 190
+2018-11-17 07:51:25 +0000,1,Nelson,GS,Goal - Score,2,29,18,52, 190
+2018-11-17 07:51:29 +0000,0,Charles,C,Centre Pass,2,29,19,50, 100
+2018-11-17 07:51:29 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,29,19,19, 73
+2018-11-17 07:51:31 +0000,0,Francis,GD,Assist - 2nd Phase,2,29,19,55, 72
+2018-11-17 07:51:38 +0000,1,de Bruin,GD,Penaly - Contact,2,29,19,31, 61
+2018-11-17 07:51:38 +0000,0,Charles,C,Possession,2,29,19,31, 61
+2018-11-17 07:51:43 +0000,0,Colyer ,WA,Possession,2,29,19,11, 18
+2018-11-17 07:51:46 +0000,0,Colyer ,WA,Assist - Circle Entry,2,29,19,11, 18
+2018-11-17 07:51:46 +0000,0,Fowler,GS,Possession,2,29,19,43, 4
+2018-11-17 07:51:48 +0000,1,Shimmin,GK,Penaly - Obstruction,2,29,19,43, 4
+2018-11-17 07:51:48 +0000,0,Fowler,GS,Goal - Score,2,29,19,43, 4
+2018-11-17 07:52:04 +0000,1,Petty,C,Centre Pass,2,30,19,50, 100
+2018-11-17 07:52:04 +0000,0,Anstiss,WD,Loss - Break,2,30,19,30, 129
+2018-11-17 07:52:04 +0000,1,Fowler,WD,Possession,2,30,19,30, 129
+2018-11-17 07:52:13 +0000,1,Petty,C,Assist - 2nd Phase,2,30,19,27, 144
+2018-11-17 07:52:16 +0000,1,Hodges,GA,Possession,2,30,19,30, 168
+2018-11-17 07:52:18 +0000,1,Hodges,GA,Assist - Circle Entry,2,30,19,30, 168
+2018-11-17 07:52:18 +0000,1,Nelson,GS,Possession,2,30,19,55, 187
+2018-11-17 07:52:21 +0000,0,Bruce,GK,Penaly - Contact,2,30,19,55, 187
+2018-11-17 07:52:21 +0000,1,Nelson,GS,Goal - Score,2,30,19,55, 187
+2018-11-17 07:52:29 +0000,0,Charles,C,Centre Pass,2,30,20,50, 100
+2018-11-17 07:52:29 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,30,20,65, 70
+2018-11-17 07:52:31 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,30,20,73, 39
+2018-11-17 07:52:33 +0000,0,Medhurst,GA,Assist - Circle Entry,2,30,20,73, 39
+2018-11-17 07:52:33 +0000,0,Fowler,GS,Possession,2,30,20,61, 9
+2018-11-17 07:52:35 +0000,0,Charles,C,Possession,2,30,20,79, 19
+2018-11-17 07:52:36 +0000,1,Fowler,WD,Penaly - Contact,2,30,20,79, 19
+2018-11-17 07:52:36 +0000,0,Charles,C,Possession,2,30,20,79, 19
+2018-11-17 07:53:14 +0000,0,Charles,C,Assist - Circle Entry,2,30,20,79, 19
+2018-11-17 07:53:14 +0000,0,Medhurst,GA,Possession,2,30,20,70, 11
+2018-11-17 07:53:18 +0000,1,de Bruin,GD,Penaly - Contact,2,30,20,70, 11
+2018-11-17 07:53:18 +0000,0,Medhurst,GA,Goal - Score,2,30,20,70, 11
+2018-11-17 07:53:37 +0000,1,Petty,C,Centre Pass,2,31,20,50, 100
+2018-11-17 07:53:37 +0000,1,Pitman,WA,Assist - Centre Pass Rec,2,31,20,73, 110
+2018-11-17 07:53:39 +0000,1,Petty,C,Assist - 2nd Phase,2,31,20,42, 163
+2018-11-17 07:53:41 +0000,1,Hodges,GA,Possession,2,31,20,15, 185
+2018-11-17 07:53:43 +0000,1,Petty,C,Possession,2,31,20,32, 168
+2018-11-17 07:53:45 +0000,1,Petty,C,Assist - Circle Entry,2,31,20,32, 168
+2018-11-17 07:53:45 +0000,1,Hodges,GA,Possession,2,31,20,37, 187
+2018-11-17 07:53:47 +0000,1,Nelson,GS,Goal - Score,2,31,20,57, 185
+2018-11-17 07:53:53 +0000,0,Charles,C,Centre Pass,2,31,21,50, 100
+2018-11-17 07:53:53 +0000,0,Francis,GD,Assist - Centre Pass Rec,2,31,21,33, 117
+2018-11-17 07:53:55 +0000,0,Anstiss,WD,Assist - 2nd Phase,2,31,21,10, 93
+2018-11-17 07:53:58 +0000,1,Hodges,GA,Penaly - Contact,2,31,21,10, 93
+2018-11-17 07:53:58 +0000,0,Anstiss,WD,Possession,2,31,21,10, 93
+2018-11-17 07:54:02 +0000,0,Medhurst,GA,Possession,2,31,21,13, 76
+2018-11-17 07:54:05 +0000,0,Charles,C,Possession,2,31,21,41, 56
+2018-11-17 07:54:06 +0000,1,Petty,C,Penaly - Contact,2,31,21,41, 56
+2018-11-17 07:54:06 +0000,0,Charles,C,Possession,2,31,21,41, 56
+2018-11-17 07:54:16 +0000,0,Medhurst,GA,Possession,2,31,21,43, 34
+2018-11-17 07:54:50 +0000,1,de Bruin,GD,Deflect,2,31,21,44, 25
+2018-11-17 07:54:50 +0000,0,Medhurst,GA,Throw In,2,31,21,57, -8
+2018-11-17 07:55:02 +0000,0,Medhurst,GA,Assist - Circle Entry,2,31,21,57, -8
+2018-11-17 07:55:02 +0000,0,Fowler,GS,Possession,2,31,21,55, 8
+2018-11-17 07:55:11 +0000,0,Medhurst,GA,Penaly - Contact,2,31,21,49, 7
+2018-11-17 07:55:11 +0000,1,Shimmin,GK,Possession,2,31,21,49, 7
+2018-11-17 07:55:26 +0000,1,Petty,C,Possession,2,31,21,55, 79
+2018-11-17 07:55:29 +0000,1,Pitman,WA,Possession,2,31,21,73, 155
+2018-11-17 07:55:35 +0000,0,Bruce,GK,Penaly - Contact,2,31,21,65, 175
+2018-11-17 07:55:35 +0000,1,Hodges,GA,Goal - Score,2,31,21,65, 175
+2018-11-17 07:55:53 +0000,1,Petty,C,Centre Pass,2,31,22,50, 100
+2018-11-17 07:55:53 +0000,1,Hodges,GA,Assist - Centre Pass Rec,2,31,22,11, 121
+2018-11-17 07:55:56 +0000,1,Pitman,WA,Assist - 2nd Phase,2,31,22,21, 161
+2018-11-17 07:55:58 +0000,1,Pitman,WA,Assist - Circle Entry,2,31,22,21, 161
+2018-11-17 07:55:58 +0000,1,Nelson,GS,Goal - Miss,2,31,22,54, 182
+2018-11-17 07:56:08 +0000,1,Hodges,GA,Deflect,2,31,22,50, 197
+2018-11-17 07:56:18 +0000,0,Francis,GD,Deflect,2,31,22,42, 184
+2018-11-17 07:56:18 +0000,0,Bruce,GK,Gain - Pick-up,2,31,22,56, 185
+2018-11-17 07:56:30 +0000,0,Francis,GD,Possession,2,31,22,24, 166
+2018-11-17 07:56:32 +0000,0,Charles,C,Possession,2,31,22,7, 125
+2018-11-17 07:56:35 +0000,0,Medhurst,GA,Loss - Bad Pass,2,31,22,4, 75
+2018-11-17 07:56:38 +0000,1,Fowler,WD,Throw In,2,31,22,103, 62
+2018-11-17 07:56:45 +0000,1,de Bruin,GD,Possession,2,31,22,49, 73
+2018-11-17 07:56:47 +0000,1,Petty,C,Possession,2,31,22,81, 126
+2018-11-17 07:56:50 +0000,1,Pitman,WA,Possession,2,31,22,24, 150
+2018-11-17 07:56:52 +0000,0,Francis,GD,Penaly - Contact,2,31,22,36, 175
+2018-11-17 07:56:52 +0000,1,Hodges,GA,Possession,2,31,22,36, 175
+2018-11-17 07:56:59 +0000,0,Bruce,GK,Penaly - Contact,2,31,22,44, 181
+2018-11-17 07:56:59 +0000,1,Hodges,GA,Goal - Score,2,31,22,44, 181
+2018-11-17 07:57:09 +0000,0,Charles,C,Centre Pass,2,31,23,50, 100
+2018-11-17 07:57:09 +0000,0,Francis,GD,Assist - Centre Pass Rec,2,31,23,68, 112
+2018-11-17 07:57:11 +0000,0,Colyer ,WA,Assist - 2nd Phase,2,31,23,83, 101
+2018-11-17 07:57:13 +0000,0,Bruce,GK,Possession,2,31,23,55, 137
+2018-11-17 07:57:15 +0000,0,Francis,GD,Possession,2,31,23,25, 113
+2018-11-17 07:57:21 +0000,0,Anstiss,WD,Possession,2,31,23,73, 72
+2018-11-17 07:57:31 +0000,0,Charles,C,Possession,2,31,23,83, 35
+2018-11-17 07:57:33 +0000,0,Colyer ,WA,Possession,2,31,23,70, 55
+2018-11-17 07:57:35 +0000,0,Medhurst,GA,Possession,2,31,23,39, 51
+2018-11-17 07:57:38 +0000,0,Colyer ,WA,Possession,2,31,23,19, 15
+2018-11-17 07:57:40 +0000,0,Colyer ,WA,Assist - Circle Entry,2,31,23,19, 15
+2018-11-17 07:57:41 +0000,0,Fowler,GS,Possession,2,31,23,51, 10
+2018-11-17 07:57:42 +0000,1,Shimmin,GK,Penaly - Contact,2,31,23,51, 10
+2018-11-17 07:57:42 +0000,0,Fowler,GS,Possession,2,31,23,51, 10
+2018-11-17 07:57:45 +0000,1,de Bruin,GD,Penaly - Contact,2,31,23,51, 10
+2018-11-17 07:57:45 +0000,0,Fowler,GS,Goal - Score,2,31,23,51, 10
+2018-11-17 07:57:59 +0000,1,Petty,C,Centre Pass,2,32,23,50, 100
+2018-11-17 07:57:59 +0000,0,Francis,GD,Penaly - Contact on CP,2,32,23,26, 147
+2018-11-17 07:57:59 +0000,1,Hodges,GA,Possession,2,32,23,26, 147
+2018-11-17 07:58:03 +0000,1,Pitman,WA,Assist - 2nd Phase,2,32,23,23, 175
+2018-11-17 07:58:11 +0000,1,Pitman,WA,Assist - Circle Entry,2,32,23,23, 175
+2018-11-17 07:58:11 +0000,1,Nelson,GS,Loss - Off Contact,2,32,23,52, 186
+2018-11-17 07:58:18 +0000,0,Bruce,GK,Possession,2,32,23,52, 186
+2018-11-17 07:58:22 +0000,0,Charles,C,Possession,2,32,23,45, 119
+2018-11-17 07:58:24 +0000,0,Colyer ,WA,Possession,2,32,23,56, 92
+2018-11-17 07:58:26 +0000,0,Anstiss,WD,Possession,2,32,23,74, 70
+2018-11-17 07:58:27 +0000,0,Medhurst,GA,Possession,2,32,23,77, 54
+2018-11-17 07:58:29 +0000,0,Charles,C,Possession,2,32,23,56, 57
+2018-11-17 07:58:55 +0000,0,Charles,C,Assist - Circle Entry,2,32,23,56, 57
+2018-11-17 07:58:55 +0000,0,Fowler,GS,Possession,2,32,23,47, 16
+2018-11-17 07:58:57 +0000,0,Medhurst,GA,Possession,2,32,23,66, 21
+2018-11-17 07:58:59 +0000,1,de Bruin,GD,Gain - Tip (Deflect),2,32,23,54, 19
+2018-11-17 07:59:04 +0000,1,Petty,C,Possession,2,32,23,55, 34
+2018-11-17 07:59:07 +0000,1,Fowler,WD,Possession,2,32,23,42, 55
+2018-11-17 07:59:09 +0000,1,de Bruin,GD,Possession,2,32,23,10, 83
+2018-11-17 07:59:12 +0000,0,Bruce,GK,Gain - Inter,2,32,23,14, 146
+2018-11-17 07:59:17 +0000,0,Medhurst,GA,Possession,2,32,23,7, 124
+2018-11-17 07:59:19 +0000,0,Anstiss,WD,Possession,2,32,23,12, 78
+2018-11-17 07:59:21 +0000,0,Colyer ,WA,Possession,2,32,23,10, 52
+2018-11-17 07:59:23 +0000,0,Charles,C,Possession,2,32,23,42, 36
+2018-11-17 07:59:26 +0000,0,Charles,C,Assist - Circle Entry,2,32,23,42, 36
+2018-11-17 07:59:26 +0000,0,Medhurst,GA,Possession,2,32,23,39, 21
+2018-11-17 07:59:29 +0000,0,Charles,C,Possession,2,32,23,44, 33
+2018-11-17 07:59:35 +0000,0,Charles,C,Assist - Circle Entry,2,32,23,44, 33
+2018-11-17 07:59:35 +0000,0,Medhurst,GA,Possession,2,32,23,41, 22
+2018-11-17 07:59:37 +0000,1,de Bruin,GD,Penaly - Contact,2,32,23,41, 22
+2018-11-17 07:59:37 +0000,0,Medhurst,GA,Possession,2,32,23,41, 22
+2018-11-17 07:59:45 +0000,0,Fowler,GS,Loss - Off Contact,2,32,23,43, 5
+2018-11-17 08:00:03 +0000,1,Shimmin,GK,Possession,2,32,23,44, 6
+2018-11-17 08:00:09 +0000,1,de Bruin,GD,Possession,2,32,23,72, 29
+2018-11-17 08:00:11 +0000,1,Shimmin,GK,Possession,2,32,23,44, 19
+2018-11-17 08:00:14 +0000,1,Fowler,WD,Possession,2,32,23,23, 41
+2018-11-17 08:00:16 +0000,1,Petty,C,Possession,2,32,23,54, 58
+2018-11-17 08:03:28 +0000,1,Pitman,WA,Possession,2,32,23,32, 91
+2018-11-17 08:03:30 +0000,1,de Bruin,GD,Possession,2,32,23,9, 127
+2018-11-17 08:03:33 +0000,1,Hodges,GA,Possession,2,32,23,11, 143
+2018-11-17 08:03:35 +0000,1,Petty,C,Possession,2,32,23,25, 171
+2018-11-17 08:03:38 +0000,1,Petty,C,Assist - Circle Entry,2,32,23,25, 171
+2018-11-17 08:03:38 +0000,1,Nelson,GS,Possession,2,32,23,36, 180
+2018-11-17 08:03:40 +0000,1,Pitman,WA,Possession,2,32,23,71, 170
+2018-11-17 08:03:42 +0000,1,Pitman,WA,Assist - Circle Entry,2,32,23,71, 170
+2018-11-17 08:03:42 +0000,1,Hodges,GA,Possession,2,32,23,52, 186
+2018-11-17 08:03:44 +0000,0,Francis,GD,Penaly - Contact,2,32,23,52, 186
+2018-11-17 08:03:44 +0000,1,Hodges,GA,Goal - Score,2,32,23,52, 186
+2018-11-17 08:03:58 +0000,0,Charles,C,Centre Pass,2,32,24,50, 100
+2018-11-17 08:03:58 +0000,0,Francis,GD,Assist - Centre Pass Rec,2,32,24,30, 93
+2018-11-17 08:04:00 +0000,1,Hodges,GA,Penaly - Contact,2,32,24,30, 93
+2018-11-17 08:04:00 +0000,0,Francis,GD,Possession,2,32,24,30, 93
+2018-11-17 08:04:04 +0000,0,Medhurst,GA,Possession,2,32,24,7, 48
+2018-11-17 08:04:08 +0000,0,Colyer ,WA,Deflect,2,32,24,7, 11
+2018-11-17 08:04:11 +0000,1,Shimmin,GK,Throw In,2,32,24,6, -6
+2018-11-17 08:04:19 +0000,1,de Bruin,GD,Possession,2,32,24,58, 20
+2018-11-17 08:04:28 +0000,0,Fowler,GS,Gain - Tip (Deflect),2,32,24,43, 41
+2018-11-17 08:04:35 +0000,0,Medhurst,GA,Deflect,2,32,24,21, 82
+2018-11-17 08:04:41 +0000,0,Francis,GD,Possession,2,32,24,24, 115
+2018-11-17 08:04:44 +0000,0,Charles,C,Possession,2,32,24,31, 92
+2018-11-17 08:04:47 +0000,0,Colyer ,WA,Possession,2,32,24,62, 52
+2018-11-17 08:04:49 +0000,1,Fowler,WD,Penaly - Obstruction,2,32,24,62, 52
+2018-11-17 08:04:49 +0000,0,Colyer ,WA,Possession,2,32,24,62, 52
+2018-11-17 08:04:53 +0000,0,Colyer ,WA,Assist - Circle Entry,2,32,24,62, 52
+2018-11-17 08:04:53 +0000,0,Fowler,GS,Goal - Score,2,32,24,46, 9
+2018-11-17 08:05:02 +0000,1,Petty,C,Centre Pass,2,33,24,50, 100
+2018-11-17 08:05:02 +0000,1,Pitman,WA,Assist - Centre Pass Rec,2,33,24,82, 123
+2018-11-17 08:05:05 +0000,1,Petty,C,Assist - 2nd Phase,2,33,24,81, 177
+2018-11-17 08:05:08 +0000,1,Petty,C,Loss - Bad Pass,2,33,24,81, 177
+2018-11-17 08:05:08 +0000,0,Bruce,GK,Gain - Inter,2,33,24,25, 191
+2018-11-17 08:05:21 +0000,0,Anstiss,WD,Possession,2,33,24,14, 156
+2018-11-17 08:05:24 +0000,0,Charles,C,Possession,2,33,24,36, 142
+2018-11-17 08:05:26 +0000,0,Colyer ,WA,Possession,2,33,24,76, 93
+2018-11-17 08:05:28 +0000,0,Anstiss,WD,Possession,2,33,24,50, 108
+2018-11-17 08:05:30 +0000,0,Colyer ,WA,Possession,2,33,24,76, 74
+2018-11-17 08:05:32 +0000,0,Medhurst,GA,Possession,2,33,24,84, 46
+2018-11-17 08:05:34 +0000,0,Colyer ,WA,Possession,2,33,24,68, 59
+2018-11-17 08:05:36 +0000,0,Colyer ,WA,Assist - Circle Entry,2,33,24,68, 59
+2018-11-17 08:05:36 +0000,0,Fowler,GS,Goal - Score,2,33,24,57, 5
+2018-11-17 08:06:01 +0000,0,Charles,C,Centre Pass,2,34,24,50, 100
+2018-11-17 08:06:01 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,2,34,24,58, 83
+2018-11-17 08:06:04 +0000,1,Hodges,GA,Penaly - Contact,2,34,24,58, 83
+2018-11-17 08:06:04 +0000,0,Anstiss,WD,Possession,2,34,24,58, 83
+2018-11-17 08:06:07 +0000,0,Colyer ,WA,Possession,2,34,24,76, 48
+2018-11-17 08:06:10 +0000,0,Colyer ,WA,Assist - Circle Entry,2,34,24,76, 48
+2018-11-17 08:06:10 +0000,0,Fowler,GS,Assist - 2nd Phase,2,34,24,27, 9
+2018-11-17 08:06:12 +0000,0,Medhurst,GA,Possession,2,34,24,25, 25
+2018-11-17 08:06:19 +0000,1,Fowler,WD,Penaly - Contact,2,34,24,25, 25
+2018-11-17 08:06:19 +0000,0,Colyer ,WA,Possession,2,34,24,25, 25
+2018-11-17 08:06:25 +0000,0,Colyer ,WA,Assist - Circle Entry,2,34,24,25, 25
+2018-11-17 08:06:25 +0000,0,Fowler,GS,Goal - Miss,2,34,24,49, 13
+2018-11-17 08:06:31 +0000,1,de Bruin,GD,Gain - Def Reb,2,34,24,50, 2
+2018-11-17 08:06:57 +0000,1,Petty,C,Possession,2,34,24,85, 36
+2018-11-17 08:06:59 +0000,1,de Bruin,GD,Possession,2,34,24,53, 46
+2018-11-17 08:07:01 +0000,1,Shimmin,GK,Possession,2,34,24,71, 53
+2018-11-17 08:07:02 +0000,1,Pitman,WA,Possession,2,34,24,77, 79
+2018-11-17 08:07:04 +0000,1,de Bruin,GD,Possession,2,34,24,56, 76
+2018-11-17 08:57:12 +0000,1,Pitman,WA,Possession,2,34,24,51, 81
+2018-11-17 08:57:25 +0000,1,Pitman,WA,Assist - Circle Entry,2,34,24,51, 81
+2018-11-17 09:01:30 +0000,1,,UNKNOWN,Penaly - Other,3,34,24,50, 100
+2018-11-17 09:02:20 +0000,0,Anstiss,WD,Possession,3,34,24,51, 101
+2018-11-17 09:02:25 +0000,0,Colyer ,WA,Possession,3,34,24,44, 75
+2018-11-17 09:02:27 +0000,0,Charles,C,Possession,3,34,24,78, 42
+2018-11-17 09:02:29 +0000,0,Charles,C,Assist - Circle Entry,3,34,24,78, 42
+2018-11-17 09:02:29 +0000,0,Fowler,GS,Goal - Miss,3,34,24,50, 14
+2018-11-17 09:02:34 +0000,0,Fowler,GS,Assist - Attack Rebound,3,34,24,50, 2
+2018-11-17 09:02:39 +0000,0,Fowler,GS,Goal - Score,3,34,24,50, 14
+2018-11-17 09:02:45 +0000,0,Charles,C,Centre Pass,3,35,24,50, 100
+2018-11-17 09:02:46 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,35,24,79, 75
+2018-11-17 09:02:47 +0000,0,Medhurst,GA,Assist - 2nd Phase,3,35,24,90, 56
+2018-11-17 09:02:50 +0000,1,Petty,C,Penaly - Contact,3,35,24,53, 36
+2018-11-17 09:02:50 +0000,0,Medhurst,GA,Possession,3,35,24,53, 36
+2018-11-17 09:02:55 +0000,0,Charles,C,Possession,3,35,24,80, 20
+2018-11-17 09:02:57 +0000,0,Charles,C,Assist - Circle Entry,3,35,24,80, 20
+2018-11-17 09:02:57 +0000,0,Medhurst,GA,Goal - Score,3,35,24,60, 8
+2018-11-17 09:03:05 +0000,1,Petty,C,Centre Pass,3,36,24,50, 100
+2018-11-17 09:03:05 +0000,1,Hodges,GA,Assist - Centre Pass Rec,3,36,24,15, 126
+2018-11-17 09:03:10 +0000,0,Anstiss,WD,Penaly - Contact,3,36,24,42, 154
+2018-11-17 09:03:10 +0000,1,Pitman,WA,Assist - 2nd Phase,3,36,24,42, 154
+2018-11-17 09:03:14 +0000,1,Pitman,WA,Assist - Circle Entry,3,36,24,42, 154
+2018-11-17 09:03:15 +0000,1,Hodges,GA,Possession,3,36,24,44, 182
+2018-11-17 09:03:20 +0000,0,Francis,GD,Gain - Inter,3,36,24,36, 170
+2018-11-17 09:03:27 +0000,0,Anstiss,WD,Possession,3,36,24,17, 138
+2018-11-17 09:03:30 +0000,1,Fowler,WD,Penaly - Contact,3,36,24,30, 81
+2018-11-17 09:03:30 +0000,0,Anstiss,WD,Possession,3,36,24,30, 81
+2018-11-17 09:03:34 +0000,0,Colyer ,WA,Possession,3,36,24,24, 30
+2018-11-17 09:03:37 +0000,0,Medhurst,GA,Possession,3,36,24,36, 33
+2018-11-17 09:03:39 +0000,0,Medhurst,GA,Assist - Circle Entry,3,36,24,36, 33
+2018-11-17 09:03:39 +0000,0,Fowler,GS,Goal - Score,3,36,24,55, 7
+2018-11-17 09:03:47 +0000,0,Charles,C,Centre Pass,3,37,24,50, 100
+2018-11-17 09:03:47 +0000,0,Francis,GD,Assist - Centre Pass Rec,3,37,24,75, 114
+2018-11-17 09:03:49 +0000,0,Charles,C,Assist - 2nd Phase,3,37,24,80, 86
+2018-11-17 09:03:51 +0000,0,Colyer ,WA,Possession,3,37,24,31, 48
+2018-11-17 09:03:54 +0000,0,Colyer ,WA,Assist - Circle Entry,3,37,24,31, 48
+2018-11-17 09:03:54 +0000,0,Fowler,GS,Goal - Score,3,37,24,56, 7
+2018-11-17 09:03:59 +0000,1,Petty,C,Centre Pass,3,38,24,50, 100
+2018-11-17 09:03:59 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,38,24,94, 119
+2018-11-17 09:04:02 +0000,1,Petty,C,Assist - 2nd Phase,3,38,24,83, 186
+2018-11-17 09:04:04 +0000,1,Petty,C,Assist - Circle Entry,3,38,24,83, 186
+2018-11-17 09:04:05 +0000,1,Nelson,GS,Possession,3,38,24,55, 191
+2018-11-17 09:04:06 +0000,0,Bruce,GK,Penaly - Contact,3,38,24,55, 191
+2018-11-17 09:04:06 +0000,1,Nelson,GS,Goal - Score,3,38,24,55, 191
+2018-11-17 09:04:12 +0000,0,Charles,C,Centre Pass,3,38,25,50, 100
+2018-11-17 09:04:13 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,38,25,87, 71
+2018-11-17 09:04:14 +0000,0,Medhurst,GA,Assist - 2nd Phase,3,38,25,86, 34
+2018-11-17 09:04:17 +0000,0,Medhurst,GA,Assist - Circle Entry,3,38,25,86, 34
+2018-11-17 09:04:17 +0000,0,Fowler,GS,Goal - Score,3,38,25,59, 3
+2018-11-17 09:04:24 +0000,1,Petty,C,Centre Pass,3,39,25,50, 100
+2018-11-17 09:04:24 +0000,1,Hodges,GA,Assist - Centre Pass Rec,3,39,25,94, 121
+2018-11-17 09:04:28 +0000,1,Hodges,GA,Assist - Circle Entry,3,39,25,94, 121
+2018-11-17 09:04:28 +0000,1,Nelson,GS,Goal - Miss,3,39,25,50, 191
+2018-11-17 09:04:33 +0000,1,Nelson,GS,Assist - Attack Rebound,3,39,25,50, 197
+2018-11-17 09:04:34 +0000,0,Bruce,GK,Penaly - Contact,3,39,25,50, 197
+2018-11-17 09:04:34 +0000,1,Nelson,GS,Goal - Score,3,39,25,50, 197
+2018-11-17 09:04:40 +0000,0,Charles,C,Centre Pass,3,39,26,50, 100
+2018-11-17 09:04:41 +0000,0,Francis,GD,Assist - Centre Pass Rec,3,39,26,70, 79
+2018-11-17 09:04:43 +0000,0,Colyer ,WA,Assist - 2nd Phase,3,39,26,73, 62
+2018-11-17 09:04:45 +0000,0,Medhurst,GA,Possession,3,39,26,60, 42
+2018-11-17 09:04:48 +0000,0,Medhurst,GA,Assist - Circle Entry,3,39,26,60, 42
+2018-11-17 09:04:48 +0000,0,Fowler,GS,Goal - Score,3,39,26,44, 12
+2018-11-17 09:04:56 +0000,1,Petty,C,Centre Pass,3,40,26,50, 100
+2018-11-17 09:04:56 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,40,26,24, 126
+2018-11-17 09:04:58 +0000,1,Pitman,WA,Assist - Circle Entry,3,40,26,24, 126
+2018-11-17 09:04:58 +0000,1,Nelson,GS,Assist - 2nd Phase,3,40,26,48, 187
+2018-11-17 09:05:01 +0000,0,Francis,GD,Penaly - Contact,3,40,26,48, 187
+2018-11-17 09:05:01 +0000,1,Hodges,GA,Goal - Miss,3,40,26,48, 187
+2018-11-17 09:05:19 +0000,0,Bruce,GK,Deflect,3,40,26,50, 197
+2018-11-17 09:05:25 +0000,0,Charles,C,Possession,3,40,26,18, 187
+2018-11-17 09:05:27 +0000,1,Petty,C,Penaly - Contact,3,40,26,18, 187
+2018-11-17 09:05:27 +0000,0,Bruce,GK,Possession,3,40,26,18, 187
+2018-11-17 09:05:34 +0000,0,Francis,GD,Possession,3,40,26,13, 154
+2018-11-17 09:05:37 +0000,0,Bruce,GK,Possession,3,40,26,82, 139
+2018-11-17 09:05:45 +0000,0,Bruce,GK,Loss - Bad Pass,3,40,26,86, 61
+2018-11-17 09:06:38 +0000,1,Fowler,WD,Possession,3,40,26,85, 61
+2018-11-17 09:06:43 +0000,1,de Bruin,GD,Possession,3,40,26,75, 86
+2018-11-17 09:06:45 +0000,1,Pitman,WA,Possession,3,40,26,60, 125
+2018-11-17 09:06:47 +0000,1,Petty,C,Possession,3,40,26,35, 167
+2018-11-17 09:06:50 +0000,1,Petty,C,Assist - Circle Entry,3,40,26,35, 167
+2018-11-17 09:06:50 +0000,1,Nelson,GS,Goal - Score,3,40,26,44, 196
+2018-11-17 09:06:56 +0000,0,Charles,C,Centre Pass,3,40,27,50, 100
+2018-11-17 09:06:56 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,40,27,43, 75
+2018-11-17 09:06:59 +0000,0,Charles,C,Assist - 2nd Phase,3,40,27,48, 54
+2018-11-17 09:07:01 +0000,0,Charles,C,Assist - Circle Entry,3,40,27,48, 54
+2018-11-17 09:07:01 +0000,0,Fowler,GS,Goal - Score,3,40,27,50, 7
+2018-11-17 09:07:09 +0000,1,Petty,C,Centre Pass,3,41,27,50, 100
+2018-11-17 09:07:09 +0000,1,Hodges,GA,Assist - Centre Pass Rec,3,41,27,94, 121
+2018-11-17 09:07:11 +0000,1,Petty,C,Assist - 2nd Phase,3,41,27,70, 134
+2018-11-17 09:07:13 +0000,1,Petty,C,Assist - Circle Entry,3,41,27,70, 134
+2018-11-17 09:07:14 +0000,1,Nelson,GS,Goal - Score,3,41,27,47, 192
+2018-11-17 09:07:22 +0000,0,Charles,C,Centre Pass,3,41,28,50, 100
+2018-11-17 09:07:22 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,41,28,34, 73
+2018-11-17 09:07:25 +0000,0,Colyer ,WA,Assist - 2nd Phase,3,41,28,43, 43
+2018-11-17 09:07:28 +0000,0,Colyer ,WA,Assist - Circle Entry,3,41,28,43, 43
+2018-11-17 09:07:28 +0000,0,Fowler,GS,Possession,3,41,28,43, 11
+2018-11-17 09:07:30 +0000,0,Medhurst,GA,Possession,3,41,28,22, 25
+2018-11-17 09:07:32 +0000,0,Medhurst,GA,Assist - Circle Entry,3,41,28,22, 25
+2018-11-17 09:07:32 +0000,0,Fowler,GS,Goal - Score,3,41,28,51, 8
+2018-11-17 09:07:38 +0000,1,Petty,C,Centre Pass,3,42,28,50, 100
+2018-11-17 09:07:38 +0000,1,Hodges,GA,Assist - Centre Pass Rec,3,42,28,22, 125
+2018-11-17 09:07:41 +0000,1,Petty,C,Assist - 2nd Phase,3,42,28,88, 174
+2018-11-17 09:07:43 +0000,1,Petty,C,Assist - Circle Entry,3,42,28,88, 174
+2018-11-17 09:07:43 +0000,1,Nelson,GS,Goal - Score,3,42,28,60, 196
+2018-11-17 09:07:50 +0000,0,Charles,C,Centre Pass,3,42,29,50, 100
+2018-11-17 09:07:50 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,42,29,83, 81
+2018-11-17 09:07:53 +0000,0,Colyer ,WA,Assist - 2nd Phase,3,42,29,91, 56
+2018-11-17 09:07:56 +0000,0,Anstiss,WD,Possession,3,42,29,88, 72
+2018-11-17 09:07:58 +0000,0,Charles,C,Possession,3,42,29,76, 53
+2018-11-17 09:08:00 +0000,0,Francis,GD,Possession,3,42,29,68, 72
+2018-11-17 09:08:01 +0000,0,Charles,C,Possession,3,42,29,61, 54
+2018-11-17 09:08:03 +0000,0,Charles,C,Assist - Circle Entry,3,42,29,61, 54
+2018-11-17 09:08:03 +0000,0,Fowler,GS,Possession,3,42,29,62, 26
+2018-11-17 09:08:06 +0000,0,Medhurst,GA,Goal - Score,3,42,29,44, 12
+2018-11-17 09:08:15 +0000,1,Petty,C,Centre Pass,3,43,29,50, 100
+2018-11-17 09:08:15 +0000,1,Hodges,GA,Assist - Centre Pass Rec,3,43,29,19, 118
+2018-11-17 09:08:24 +0000,1,Petty,C,Assist - 2nd Phase,3,43,29,19, 180
+2018-11-17 09:08:30 +0000,1,Petty,C,Assist - Circle Entry,3,43,29,19, 180
+2018-11-17 09:08:30 +0000,1,Nelson,GS,Loss - Off Contact,3,43,29,40, 194
+2018-11-17 09:08:37 +0000,0,Bruce,GK,Possession,3,43,29,40, 194
+2018-11-17 09:08:43 +0000,0,Francis,GD,Possession,3,43,29,44, 158
+2018-11-17 09:08:46 +0000,0,Anstiss,WD,Possession,3,43,29,20, 127
+2018-11-17 09:08:49 +0000,0,Charles,C,Possession,3,43,29,38, 121
+2018-11-17 09:08:51 +0000,0,Anstiss,WD,Possession,3,43,29,15, 72
+2018-11-17 09:08:53 +0000,1,Pitman,WA,Penaly - Obstruction,3,43,29,15, 72
+2018-11-17 09:08:53 +0000,0,Anstiss,WD,Possession,3,43,29,15, 72
+2018-11-17 09:08:57 +0000,0,Francis,GD,Possession,3,43,29,43, 73
+2018-11-17 09:09:00 +0000,0,Medhurst,GA,Possession,3,43,29,43, 44
+2018-11-17 09:09:02 +0000,0,Medhurst,GA,Assist - Circle Entry,3,43,29,43, 44
+2018-11-17 09:09:02 +0000,0,Fowler,GS,Goal - Score,3,43,29,44, 8
+2018-11-17 09:09:14 +0000,0,Charles,C,Centre Pass,3,44,29,50, 100
+2018-11-17 09:09:14 +0000,0,Francis,GD,Assist - Centre Pass Rec,3,44,29,43, 118
+2018-11-17 09:09:16 +0000,0,Anstiss,WD,Assist - 2nd Phase,3,44,29,21, 88
+2018-11-17 09:09:18 +0000,0,Colyer ,WA,Possession,3,44,29,31, 45
+2018-11-17 09:09:19 +0000,0,Medhurst,GA,Possession,3,44,29,16, 26
+2018-11-17 09:09:21 +0000,0,Colyer ,WA,Possession,3,44,29,14, 9
+2018-11-17 09:09:23 +0000,0,Colyer ,WA,Assist - Circle Entry,3,44,29,14, 9
+2018-11-17 09:09:23 +0000,0,Fowler,GS,Goal - Score,3,44,29,47, 9
+2018-11-17 09:09:37 +0000,1,Petty,C,Centre Pass,3,45,29,50, 100
+2018-11-17 09:09:37 +0000,0,Colyer ,WA,Penaly - Contact on CP,3,45,29,43, 106
+2018-11-17 09:09:37 +0000,1,Fowler,WD,Possession,3,45,29,43, 106
+2018-11-17 09:09:43 +0000,1,Petty,C,Assist - 2nd Phase,3,45,29,74, 126
+2018-11-17 09:09:46 +0000,1,de Bruin,GD,Possession,3,45,29,11, 131
+2018-11-17 09:09:48 +0000,1,Petty,C,Possession,3,45,29,27, 159
+2018-11-17 09:09:50 +0000,1,Pitman,WA,Possession,3,45,29,74, 171
+2018-11-17 09:09:53 +0000,1,Pitman,WA,Assist - Circle Entry,3,45,29,74, 171
+2018-11-17 09:09:53 +0000,1,Nelson,GS,Goal - Score,3,45,29,41, 191
+2018-11-17 09:10:01 +0000,0,Charles,C,Centre Pass,3,45,30,50, 100
+2018-11-17 09:10:01 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,45,30,81, 75
+2018-11-17 09:10:04 +0000,0,Colyer ,WA,Assist - Circle Entry,3,45,30,81, 75
+2018-11-17 09:10:04 +0000,0,Fowler,GS,Assist - 2nd Phase,3,45,30,37, 12
+2018-11-17 09:10:07 +0000,0,Fowler,GS,Goal - Score,3,45,30,37, 12
+2018-11-17 09:10:13 +0000,1,Petty,C,Centre Pass,3,46,30,50, 100
+2018-11-17 09:10:13 +0000,1,Hodges,GA,Assist - Centre Pass Rec,3,46,30,80, 117
+2018-11-17 09:10:15 +0000,1,Pitman,WA,Assist - 2nd Phase,3,46,30,36, 163
+2018-11-17 09:10:17 +0000,1,Pitman,WA,Assist - Circle Entry,3,46,30,36, 163
+2018-11-17 09:10:17 +0000,1,Nelson,GS,Goal - Score,3,46,30,49, 189
+2018-11-17 09:10:24 +0000,0,Charles,C,Centre Pass,3,46,31,50, 100
+2018-11-17 09:10:25 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,46,31,55, 76
+2018-11-17 09:10:27 +0000,0,Colyer ,WA,Assist - 2nd Phase,3,46,31,35, 55
+2018-11-17 09:11:03 +0000,0,Colyer ,WA,Assist - Circle Entry,3,46,31,35, 55
+2018-11-17 09:11:03 +0000,0,Fowler,GS,Possession,3,46,31,30, 18
+2018-11-17 09:11:04 +0000,1,Shimmin,GK,Penaly - Contact,3,46,31,30, 18
+2018-11-17 09:11:04 +0000,0,Medhurst,GA,Possession,3,46,31,30, 18
+2018-11-17 09:11:09 +0000,0,Fowler,GS,Possession,3,46,31,44, 9
+2018-11-17 09:11:10 +0000,1,de Bruin,GD,Penaly - Contact,3,46,31,44, 9
+2018-11-17 09:11:10 +0000,0,Fowler,GS,Possession,3,46,31,44, 9
+2018-11-17 09:11:18 +0000,1,de Bruin,GD,Penaly - Obstruction,3,46,31,44, 9
+2018-11-17 09:11:18 +0000,0,Fowler,GS,Goal - Score,3,46,31,44, 9
+2018-11-17 09:11:32 +0000,1,Petty,C,Centre Pass,3,47,31,50, 100
+2018-11-17 09:11:32 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,47,31,86, 129
+2018-11-17 09:11:34 +0000,1,Hodges,GA,Loss - Bad Pass,3,47,31,85, 163
+2018-11-17 09:11:37 +0000,0,Bruce,GK,Throw In,3,47,31,46, 204
+2018-11-17 09:11:47 +0000,0,Francis,GD,Possession,3,47,31,71, 173
+2018-11-17 09:11:50 +0000,1,Hodges,GA,Penaly - Contact,3,47,31,71, 173
+2018-11-17 09:11:50 +0000,0,Francis,GD,Possession,3,47,31,71, 173
+2018-11-17 09:11:52 +0000,0,Anstiss,WD,Possession,3,47,31,22, 127
+2018-11-17 09:11:54 +0000,0,Charles,C,Possession,3,47,31,48, 117
+2018-11-17 09:11:56 +0000,0,Anstiss,WD,Possession,3,47,31,21, 104
+2018-11-17 09:11:58 +0000,0,Francis,GD,Possession,3,47,31,52, 112
+2018-11-17 09:12:00 +0000,0,Charles,C,Possession,3,47,31,88, 89
+2018-11-17 09:12:02 +0000,0,Anstiss,WD,Possession,3,47,31,72, 101
+2018-11-17 09:12:04 +0000,0,Colyer ,WA,Possession,3,47,31,65, 81
+2018-11-17 09:12:06 +0000,0,Charles,C,Possession,3,47,31,42, 57
+2018-11-17 09:12:10 +0000,0,Charles,C,Assist - Circle Entry,3,47,31,42, 57
+2018-11-17 09:12:10 +0000,0,Fowler,GS,Goal - Score,3,47,31,46, 12
+2018-11-17 09:12:17 +0000,0,Charles,C,Centre Pass,3,48,31,50, 100
+2018-11-17 09:12:17 +0000,0,Medhurst,GA,Loss - Bad Pass,3,48,31,24, 77
+2018-11-17 09:12:27 +0000,1,Shimmin,GK,Gain - Inter,3,48,31,36, 27
+2018-11-17 09:12:34 +0000,1,Petty,C,Possession,3,48,31,30, 41
+2018-11-17 09:12:36 +0000,1,Shimmin,GK,Possession,3,48,31,43, 53
+2018-11-17 09:12:37 +0000,1,Fowler,WD,Possession,3,48,31,48, 78
+2018-11-17 09:12:42 +0000,1,Petty,C,Possession,3,48,31,19, 154
+2018-11-17 09:12:44 +0000,1,Pitman,WA,Possession,3,48,31,20, 174
+2018-11-17 09:12:47 +0000,1,Pitman,WA,Assist - Circle Entry,3,48,31,20, 174
+2018-11-17 09:12:47 +0000,1,Hodges,GA,Possession,3,48,31,40, 188
+2018-11-17 09:12:50 +0000,1,Nelson,GS,Goal - Score,3,48,31,54, 190
+2018-11-17 09:13:00 +0000,1,Petty,C,Centre Pass,3,48,32,50, 100
+2018-11-17 09:13:00 +0000,1,Hodges,GA,Assist - Centre Pass Rec,3,48,32,77, 128
+2018-11-17 09:13:02 +0000,1,Pitman,WA,Assist - 2nd Phase,3,48,32,25, 175
+2018-11-17 09:13:04 +0000,1,Pitman,WA,Assist - Circle Entry,3,48,32,25, 175
+2018-11-17 09:13:04 +0000,1,Nelson,GS,Possession,3,48,32,46, 187
+2018-11-17 09:13:07 +0000,0,Francis,GD,Penaly - Contact,3,48,32,46, 187
+2018-11-17 09:13:07 +0000,1,Nelson,GS,Goal - Score,3,48,32,46, 187
+2018-11-17 09:14:02 +0000,0,Charles,C,Centre Pass,3,48,33,50, 100
+2018-11-17 09:14:02 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,3,48,33,61, 76
+2018-11-17 09:14:03 +0000,1,,UNKNOWN,Deflect,3,48,33,79, 45
+2018-11-17 09:14:03 +0000,0,Colyer ,WA,Throw In,3,48,33,102, 43
+2018-11-17 09:14:20 +0000,1,Shimmin,GK,Penaly - Contact,3,48,33,58, 29
+2018-11-17 09:14:20 +0000,0,Medhurst,GA,Possession,3,48,33,58, 29
+2018-11-17 09:14:25 +0000,0,Fowler,GS,Possession,3,48,33,54, 11
+2018-11-17 09:14:27 +0000,1,de Bruin,GD,Penaly - Contact,3,48,33,54, 11
+2018-11-17 09:14:27 +0000,0,Fowler,GS,Goal - Score,3,48,33,54, 11
+2018-11-17 09:14:33 +0000,1,Petty,C,Centre Pass,3,49,33,50, 100
+2018-11-17 09:14:33 +0000,1,Hodges,GA,Assist - Centre Pass Rec,3,49,33,25, 124
+2018-11-17 09:14:39 +0000,1,de Bruin,GD,Assist - 2nd Phase,3,49,33,42, 129
+2018-11-17 09:14:43 +0000,1,Pitman,WA,Possession,3,49,33,44, 153
+2018-11-17 09:14:46 +0000,1,Petty,C,Possession,3,49,33,86, 190
+2018-11-17 09:14:48 +0000,1,Pitman,WA,Possession,3,49,33,57, 166
+2018-11-17 09:14:54 +0000,1,Nelson,GS,Penaly - Contact,3,49,33,42, 195
+2018-11-17 09:14:54 +0000,0,Bruce,GK,Possession,3,49,33,42, 195
+2018-11-17 09:17:11 +0000,0,Charles,C,Loss - Drop,3,49,33,48, 136
+2018-11-17 09:17:16 +0000,1,Petty,C,Gain - Pick-up,3,49,33,48, 132
+2018-11-17 09:17:23 +0000,1,Pitman,WA,Possession,3,49,33,63, 146
+2018-11-17 09:17:25 +0000,1,Hodges,GA,Possession,3,49,33,45, 166
+2018-11-17 09:17:27 +0000,1,Hodges,GA,Assist - Circle Entry,3,49,33,45, 166
+2018-11-17 09:17:27 +0000,1,Nelson,GS,Possession,3,49,33,66, 179
+2018-11-17 09:17:31 +0000,1,Pitman,WA,Possession,3,49,33,59, 166
+2018-11-17 09:17:36 +0000,1,Pitman,WA,Assist - Circle Entry,3,49,33,59, 166
+2018-11-17 09:17:36 +0000,1,Hodges,GA,Possession,3,49,33,39, 182
+2018-11-17 09:17:39 +0000,1,Pitman,WA,Possession,3,49,33,55, 166
+2018-11-17 09:17:45 +0000,0,Francis,GD,Deflect,3,49,33,49, 172
+2018-11-17 09:17:45 +0000,1,Pitman,WA,Possession,3,49,33,25, 160
+2018-11-17 09:17:59 +0000,0,Charles,C,Penaly - Contact,3,49,33,25, 160
+2018-11-17 09:17:59 +0000,1,Pitman,WA,Possession,3,49,33,25, 160
+2018-11-17 09:18:05 +0000,1,Petty,C,Possession,3,49,33,82, 183
+2018-11-17 09:18:08 +0000,1,Petty,C,Assist - Circle Entry,3,49,33,82, 183
+2018-11-17 09:18:08 +0000,1,Nelson,GS,Goal - Score,3,49,33,55, 192
+2018-11-17 09:18:36 +0000,0,Hodges,UNKNOWN,Interchange - Latu-Meafou,3,49,34,
+2018-11-17 09:18:51 +0000,0,Charles,C,Centre Pass,3,49,34,50, 100
+2018-11-17 09:18:52 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,49,34,31, 79
+2018-11-17 09:18:54 +0000,0,Colyer ,WA,Assist - 2nd Phase,3,49,34,21, 47
+2018-11-17 09:18:55 +0000,1,Fowler,WD,Penaly - Obstruction,3,49,34,21, 47
+2018-11-17 09:18:56 +0000,0,Colyer ,WA,Possession,3,49,34,21, 47
+2018-11-17 09:19:02 +0000,0,Colyer ,WA,Assist - Circle Entry,3,49,34,21, 47
+2018-11-17 09:19:02 +0000,0,Medhurst,GA,Possession,3,49,34,30, 6
+2018-11-17 09:19:05 +0000,0,Fowler,GS,Goal - Score,3,49,34,55, 7
+2018-11-17 09:19:16 +0000,1,Petty,C,Centre Pass,3,50,34,50, 100
+2018-11-17 09:19:16 +0000,1,Latu-Meafou,GA,Assist - Centre Pass Rec,3,50,34,95, 116
+2018-11-17 09:19:18 +0000,1,Fowler,WD,Assist - 2nd Phase,3,50,34,77, 94
+2018-11-17 09:19:20 +0000,1,de Bruin,GD,Loss - Drop,3,50,34,49, 115
+2018-11-17 09:19:29 +0000,1,Pitman,WA,Gain - Pick-up,3,50,34,42, 88
+2018-11-17 09:19:42 +0000,1,Shimmin,GK,Possession,3,50,34,49, 64
+2018-11-17 09:19:45 +0000,1,Fowler,WD,Possession,3,50,34,62, 80
+2018-11-17 09:19:49 +0000,1,de Bruin,GD,Possession,3,50,34,84, 103
+2018-11-17 09:19:53 +0000,1,Fowler,WD,Possession,3,50,34,44, 117
+2018-11-17 09:19:55 +0000,1,Latu-Meafou,GA,Possession,3,50,34,18, 166
+2018-11-17 09:19:57 +0000,1,Petty,C,Possession,3,50,34,30, 172
+2018-11-17 09:20:00 +0000,1,Petty,C,Assist - Circle Entry,3,50,34,30, 172
+2018-11-17 09:20:00 +0000,1,Nelson,GS,Possession,3,50,34,62, 187
+2018-11-17 09:20:01 +0000,0,Bruce,GK,Penaly - Contact,3,50,34,62, 187
+2018-11-17 09:20:01 +0000,1,Nelson,GS,Goal - Score,3,50,34,62, 187
+2018-11-17 09:20:11 +0000,0,Charles,C,Centre Pass,3,50,35,50, 100
+2018-11-17 09:20:11 +0000,0,Francis,GD,Assist - Centre Pass Rec,3,50,35,26, 99
+2018-11-17 09:20:13 +0000,0,Medhurst,GA,Assist - 2nd Phase,3,50,35,18, 72
+2018-11-17 09:20:15 +0000,0,Colyer ,WA,Possession,3,50,35,52, 59
+2018-11-17 09:20:18 +0000,0,Colyer ,WA,Assist - Circle Entry,3,50,35,52, 59
+2018-11-17 09:20:18 +0000,0,Fowler,GS,Goal - Score,3,50,35,48, 16
+2018-11-17 09:20:27 +0000,1,Petty,C,Centre Pass,3,51,35,50, 100
+2018-11-17 09:20:27 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,51,35,95, 124
+2018-11-17 09:20:29 +0000,1,Latu-Meafou,GA,Assist - 2nd Phase,3,51,35,95, 154
+2018-11-17 09:20:31 +0000,1,Latu-Meafou,GA,Assist - Circle Entry,3,51,35,95, 154
+2018-11-17 09:20:31 +0000,1,Nelson,GS,Goal - Score,3,51,35,50, 195
+2018-11-17 09:20:41 +0000,0,Charles,C,Centre Pass,3,51,36,50, 100
+2018-11-17 09:20:41 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,51,36,15, 75
+2018-11-17 09:20:43 +0000,0,Medhurst,GA,Assist - Circle Entry,3,51,36,15, 75
+2018-11-17 09:20:43 +0000,0,Fowler,GS,Possession,3,51,36,39, 27
+2018-11-17 09:20:45 +0000,0,Colyer ,WA,Possession,3,51,36,30, 31
+2018-11-17 09:20:47 +0000,1,Fowler,WD,Penaly - Contact,3,51,36,30, 31
+2018-11-17 09:20:47 +0000,0,Colyer ,WA,Possession,3,51,36,30, 31
+2018-11-17 09:20:55 +0000,0,Colyer ,WA,Assist - Circle Entry,3,51,36,30, 31
+2018-11-17 09:20:55 +0000,0,Medhurst,GA,Possession,3,51,36,44, 24
+2018-11-17 09:20:57 +0000,0,Colyer ,WA,Possession,3,51,36,34, 33
+2018-11-17 09:20:59 +0000,0,Colyer ,WA,Assist - Circle Entry,3,51,36,34, 33
+2018-11-17 09:20:59 +0000,0,Medhurst,GA,Goal - Score,3,51,36,47, 18
+2018-11-17 09:21:06 +0000,1,Petty,C,Centre Pass,3,52,36,50, 100
+2018-11-17 09:21:06 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,52,36,25, 115
+2018-11-17 09:21:08 +0000,1,Petty,C,Assist - 2nd Phase,3,52,36,61, 137
+2018-11-17 09:21:10 +0000,1,Petty,C,Assist - Circle Entry,3,52,36,61, 137
+2018-11-17 09:21:10 +0000,1,Nelson,GS,Goal - Score,3,52,36,47, 194
+2018-11-17 09:21:24 +0000,0,Charles,C,Centre Pass,3,52,37,50, 100
+2018-11-17 09:21:24 +0000,1,Fowler,WD,Penaly - Contact on CP,3,52,37,60, 74
+2018-11-17 09:21:24 +0000,0,Anstiss,WD,Possession,3,52,37,60, 74
+2018-11-17 09:21:30 +0000,0,Colyer ,WA,Assist - 2nd Phase,3,52,37,78, 34
+2018-11-17 09:21:33 +0000,0,Colyer ,WA,Assist - Circle Entry,3,52,37,78, 34
+2018-11-17 09:21:33 +0000,0,Medhurst,GA,Possession,3,52,37,69, 15
+2018-11-17 09:21:35 +0000,0,Colyer ,WA,Possession,3,52,37,76, 25
+2018-11-17 09:21:38 +0000,0,Colyer ,WA,Assist - Circle Entry,3,52,37,76, 25
+2018-11-17 09:21:38 +0000,0,Medhurst,GA,Possession,3,52,37,60, 8
+2018-11-17 09:21:40 +0000,1,Shimmin,GK,Penaly - Obstruction,3,52,37,60, 8
+2018-11-17 09:21:40 +0000,0,Medhurst,GA,Goal - Score,3,52,37,60, 8
+2018-11-17 09:21:48 +0000,1,Petty,C,Centre Pass,3,53,37,50, 100
+2018-11-17 09:21:48 +0000,1,Latu-Meafou,GA,Assist - Centre Pass Rec,3,53,37,18, 122
+2018-11-17 09:21:54 +0000,1,Petty,C,Deflect,3,53,37,81, 152
+2018-11-17 09:21:59 +0000,0,Charles,C,Gain - Inter,3,53,37,84, 164
+2018-11-17 09:22:38 +0000,0,Medhurst,GA,Possession,3,53,37,91, 124
+2018-11-17 09:22:41 +0000,0,Anstiss,WD,Possession,3,53,37,62, 110
+2018-11-17 09:22:43 +0000,0,Francis,GD,Loss - Bad Pass,3,53,37,31, 81
+2018-11-17 09:22:48 +0000,1,Shimmin,GK,Throw In,3,53,37,11, -2
+2018-11-17 09:22:52 +0000,1,de Bruin,GD,Possession,3,53,37,60, 24
+2018-11-17 09:22:53 +0000,1,Fowler,WD,Possession,3,53,37,83, 59
+2018-11-17 09:22:56 +0000,1,de Bruin,GD,Possession,3,53,37,73, 78
+2018-11-17 09:22:58 +0000,1,Pitman,WA,Possession,3,53,37,47, 80
+2018-11-17 09:23:01 +0000,1,Petty,C,Possession,3,53,37,89, 150
+2018-11-17 09:23:03 +0000,1,Petty,C,Assist - Circle Entry,3,53,37,89, 150
+2018-11-17 09:23:03 +0000,1,Latu-Meafou,GA,Possession,3,53,37,31, 182
+2018-11-17 09:23:05 +0000,1,Pitman,WA,Possession,3,53,37,25, 175
+2018-11-17 09:23:09 +0000,1,Pitman,WA,Assist - Circle Entry,3,53,37,25, 175
+2018-11-17 09:23:09 +0000,1,Latu-Meafou,GA,Goal - Score,3,53,37,51, 182
+2018-11-17 09:23:19 +0000,0,Charles,C,Centre Pass,3,53,38,50, 100
+2018-11-17 09:23:19 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,53,38,87, 74
+2018-11-17 09:23:21 +0000,0,Medhurst,GA,Assist - 2nd Phase,3,53,38,89, 59
+2018-11-17 09:23:23 +0000,0,Colyer ,WA,Possession,3,53,38,73, 59
+2018-11-17 09:23:25 +0000,0,Colyer ,WA,Assist - Circle Entry,3,53,38,73, 59
+2018-11-17 09:23:25 +0000,0,Fowler,GS,Possession,3,53,38,57, 21
+2018-11-17 09:23:27 +0000,0,Medhurst,GA,Possession,3,53,38,73, 7
+2018-11-17 09:23:28 +0000,0,Fowler,GS,Goal - Score,3,53,38,56, 14
+2018-11-17 09:23:48 +0000,1,Petty,C,Centre Pass,3,54,38,50, 100
+2018-11-17 09:23:48 +0000,1,,UNKNOWN,Loss - Bad Pass,3,54,38,7, 68
+2018-11-17 09:24:24 +0000,0,Medhurst,GA,Possession,3,54,38,7, 67
+2018-11-17 09:24:30 +0000,0,Medhurst,GA,Assist - Circle Entry,3,54,38,7, 67
+2018-11-17 09:24:30 +0000,0,Fowler,GS,Possession,3,54,38,50, 10
+2018-11-17 09:24:31 +0000,1,Shimmin,GK,Penaly - Contact,3,54,38,50, 10
+2018-11-17 09:24:31 +0000,0,Fowler,GS,Goal - Score,3,54,38,50, 10
+2018-11-17 09:24:41 +0000,1,,UNKNOWN,Timeout,3,55,38,-10, -22
+2018-11-17 09:25:06 +0000,0,Charles,C,Centre Pass,3,55,38,50, 100
+2018-11-17 09:25:06 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,55,38,44, 82
+2018-11-17 09:25:09 +0000,0,Charles,C,Assist - 2nd Phase,3,55,38,84, 62
+2018-11-17 09:25:11 +0000,0,Anstiss,WD,Possession,3,55,38,67, 72
+2018-11-17 09:25:14 +0000,0,Charles,C,Possession,3,55,38,63, 51
+2018-11-17 09:25:15 +0000,0,Medhurst,GA,Possession,3,55,38,27, 28
+2018-11-17 09:25:18 +0000,0,Medhurst,GA,Assist - Circle Entry,3,55,38,27, 28
+2018-11-17 09:25:18 +0000,0,Fowler,GS,Goal - Score,3,55,38,54, 7
+2018-11-17 09:25:24 +0000,1,Petty,C,Centre Pass,3,56,38,50, 100
+2018-11-17 09:25:24 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,56,38,52, 114
+2018-11-17 09:25:27 +0000,1,Fowler,WD,Assist - 2nd Phase,3,56,38,21, 117
+2018-11-17 09:25:30 +0000,0,Colyer ,WA,Penaly - Contact,3,56,38,21, 117
+2018-11-17 09:25:30 +0000,1,Fowler,WD,Possession,3,56,38,21, 117
+2018-11-17 09:25:34 +0000,1,Petty,C,Possession,3,56,38,25, 144
+2018-11-17 09:25:40 +0000,1,Pitman,WA,Possession,3,56,38,23, 178
+2018-11-17 09:25:43 +0000,1,Pitman,WA,Assist - Circle Entry,3,56,38,23, 178
+2018-11-17 09:25:43 +0000,1,Nelson,GS,Possession,3,56,38,46, 196
+2018-11-17 09:25:46 +0000,0,Francis,GD,Penaly - Contact,3,56,38,46, 196
+2018-11-17 09:25:46 +0000,1,Latu-Meafou,GA,Goal - Score,3,56,38,46, 196
+2018-11-17 09:26:01 +0000,0,Charles,C,Centre Pass,3,56,39,50, 100
+2018-11-17 09:26:01 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,56,39,87, 72
+2018-11-17 09:26:03 +0000,0,Medhurst,GA,Assist - 2nd Phase,3,56,39,90, 47
+2018-11-17 09:26:05 +0000,0,Colyer ,WA,Possession,3,56,39,85, 12
+2018-11-17 09:26:08 +0000,0,Colyer ,WA,Assist - Circle Entry,3,56,39,85, 12
+2018-11-17 09:26:08 +0000,0,Fowler,GS,Possession,3,56,39,44, 12
+2018-11-17 09:26:11 +0000,1,de Bruin,GD,Penaly - Obstruction,3,56,39,44, 12
+2018-11-17 09:26:11 +0000,0,Fowler,GS,Goal - Score,3,56,39,44, 12
+2018-11-17 09:26:20 +0000,1,Petty,C,Centre Pass,3,57,39,50, 100
+2018-11-17 09:26:20 +0000,1,Fowler,WD,Assist - Centre Pass Rec,3,57,39,72, 84
+2018-11-17 09:26:22 +0000,1,de Bruin,GD,Assist - 2nd Phase,3,57,39,58, 94
+2018-11-17 09:26:24 +0000,1,Pitman,WA,Possession,3,57,39,91, 139
+2018-11-17 09:26:27 +0000,1,Pitman,WA,Assist - Circle Entry,3,57,39,91, 139
+2018-11-17 09:26:27 +0000,1,Nelson,GS,Possession,3,57,39,60, 185
+2018-11-17 09:26:30 +0000,0,Bruce,GK,Penaly - Contact,3,57,39,60, 185
+2018-11-17 09:26:30 +0000,1,Latu-Meafou,GA,Goal - Miss,3,57,39,60, 185
+2018-11-17 09:26:51 +0000,0,Bruce,GK,Gain - Def Reb,3,57,39,80, 195
+2018-11-17 09:27:00 +0000,0,Francis,GD,Possession,3,57,39,20, 180
+2018-11-17 09:27:02 +0000,0,Anstiss,WD,Possession,3,57,39,18, 129
+2018-11-17 09:27:06 +0000,0,Bruce,GK,Possession,3,57,39,34, 139
+2018-11-17 09:27:08 +0000,0,Anstiss,WD,Possession,3,57,39,17, 97
+2018-11-17 09:27:10 +0000,0,Colyer ,WA,Possession,3,57,39,14, 75
+2018-11-17 09:27:13 +0000,0,Charles,C,Possession,3,57,39,42, 55
+2018-11-17 09:27:15 +0000,0,Charles,C,Assist - Circle Entry,3,57,39,42, 55
+2018-11-17 09:27:16 +0000,0,Fowler,GS,Possession,3,57,39,44, 10
+2018-11-17 09:27:17 +0000,1,de Bruin,GD,Penaly - Contact,3,57,39,44, 10
+2018-11-17 09:27:17 +0000,0,Fowler,GS,Goal - Score,3,57,39,44, 10
+2018-11-17 09:27:28 +0000,0,Charles,C,Centre Pass,3,58,39,50, 100
+2018-11-17 09:27:28 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,58,39,89, 74
+2018-11-17 09:27:31 +0000,0,Charles,C,Assist - 2nd Phase,3,58,39,81, 34
+2018-11-17 09:27:35 +0000,1,de Bruin,GD,Deflect,3,58,39,70, 26
+2018-11-17 09:27:35 +0000,0,Charles,C,Possession,3,58,39,75, 29
+2018-11-17 09:27:41 +0000,0,Charles,C,Assist - Circle Entry,3,58,39,75, 29
+2018-11-17 09:27:41 +0000,0,Fowler,GS,Goal - Score,3,58,39,50, 12
+2018-11-17 09:28:52 +0000,0,Latu-Meafou,UNKNOWN,Interchange - Hodges,4,59,39,
+2018-11-17 09:28:52 +0000,0,Fowler,UNKNOWN,Interchange - Bryce,4,59,39,
+2018-11-17 09:28:52 +0000,0,de Bruin,UNKNOWN,Interchange - Fowler,4,59,39,
+2018-11-17 09:29:19 +0000,0,Medhurst,UNKNOWN,Interchange - Stanton,4,59,39,
+2018-11-17 09:29:27 +0000,1,Petty,C,Centre Pass,4,59,39,50, 100
+2018-11-17 09:29:27 +0000,1,Fowler,GD,Assist - Centre Pass Rec,4,59,39,62, 114
+2018-11-17 09:29:30 +0000,0,Stanton,GA,Penaly - Contact,4,59,39,62, 114
+2018-11-17 09:29:30 +0000,1,Fowler,GD,Possession,4,59,39,62, 114
+2018-11-17 09:29:36 +0000,1,Pitman,WA,Possession,4,59,39,80, 145
+2018-11-17 09:29:38 +0000,1,Petty,C,Possession,4,59,39,82, 187
+2018-11-17 09:29:40 +0000,1,Pitman,WA,Possession,4,59,39,20, 175
+2018-11-17 09:29:44 +0000,1,Pitman,WA,Assist - Circle Entry,4,59,39,20, 175
+2018-11-17 09:29:44 +0000,1,Nelson,GS,Assist - 2nd Phase,4,59,39,45, 190
+2018-11-17 09:29:45 +0000,1,Nelson,GS,Goal - Score,4,59,39,45, 190
+2018-11-17 09:29:55 +0000,0,Charles,C,Centre Pass,4,59,40,50, 100
+2018-11-17 09:29:55 +0000,0,Francis,GD,Assist - Centre Pass Rec,4,59,40,7, 98
+2018-11-17 09:29:56 +0000,0,Anstiss,WD,Assist - 2nd Phase,4,59,40,57, 92
+2018-11-17 09:29:58 +0000,0,Charles,C,Possession,4,59,40,65, 63
+2018-11-17 09:30:01 +0000,0,Francis,GD,Possession,4,59,40,32, 93
+2018-11-17 09:30:03 +0000,0,Charles,C,Possession,4,59,40,49, 71
+2018-11-17 09:30:05 +0000,0,Colyer ,WA,Possession,4,59,40,46, 39
+2018-11-17 09:30:09 +0000,0,Colyer ,WA,Assist - Circle Entry,4,59,40,46, 39
+2018-11-17 09:30:10 +0000,0,Fowler,GS,Goal - Score,4,59,40,38, 9
+2018-11-17 09:30:16 +0000,1,Petty,C,Centre Pass,4,60,40,50, 100
+2018-11-17 09:30:16 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,60,40,10, 129
+2018-11-17 09:30:20 +0000,1,Pitman,WA,Assist - Circle Entry,4,60,40,10, 129
+2018-11-17 09:30:20 +0000,1,Nelson,GS,Assist - 2nd Phase,4,60,40,28, 181
+2018-11-17 09:30:23 +0000,1,Pitman,WA,Possession,4,60,40,27, 169
+2018-11-17 09:30:25 +0000,1,Pitman,WA,Assist - Circle Entry,4,60,40,27, 169
+2018-11-17 09:30:25 +0000,1,Nelson,GS,Possession,4,60,40,45, 188
+2018-11-17 09:30:26 +0000,0,Francis,GD,Penaly - Contact,4,60,40,45, 188
+2018-11-17 09:30:26 +0000,1,Nelson,GS,Possession,4,60,40,45, 188
+2018-11-17 09:30:33 +0000,1,Hodges,GA,Goal - Score,4,60,40,53, 187
+2018-11-17 09:30:42 +0000,0,Charles,C,Centre Pass,4,60,41,50, 100
+2018-11-17 09:30:42 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,60,41,82, 74
+2018-11-17 09:30:44 +0000,0,Colyer ,WA,Assist - Circle Entry,4,60,41,82, 74
+2018-11-17 09:30:44 +0000,0,Fowler,GS,Assist - 2nd Phase,4,60,41,64, 5
+2018-11-17 09:30:47 +0000,0,Colyer ,WA,Possession,4,60,41,50, 35
+2018-11-17 09:30:50 +0000,1,Petty,C,Penaly - Obstruction,4,60,41,50, 35
+2018-11-17 09:30:50 +0000,0,Colyer ,WA,Possession,4,60,41,50, 35
+2018-11-17 09:30:58 +0000,0,Colyer ,WA,Assist - Circle Entry,4,60,41,50, 35
+2018-11-17 09:30:58 +0000,0,Stanton,GA,Possession,4,60,41,55, 19
+2018-11-17 09:31:03 +0000,1,Fowler,GD,Penaly - Contact,4,60,41,42, 8
+2018-11-17 09:31:03 +0000,0,Fowler,GS,Goal - Score,4,60,41,42, 8
+2018-11-17 09:31:13 +0000,1,Petty,C,Centre Pass,4,61,41,50, 100
+2018-11-17 09:31:13 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,61,41,74, 125
+2018-11-17 09:31:16 +0000,1,Petty,C,Assist - 2nd Phase,4,61,41,15, 177
+2018-11-17 09:31:18 +0000,1,Petty,C,Assist - Circle Entry,4,61,41,15, 177
+2018-11-17 09:31:18 +0000,1,Nelson,GS,Goal - Score,4,61,41,56, 190
+2018-11-17 09:32:06 +0000,0,Charles,C,Centre Pass,4,61,42,50, 100
+2018-11-17 09:32:06 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,61,42,73, 91
+2018-11-17 09:32:08 +0000,0,Charles,C,Assist - 2nd Phase,4,61,42,55, 68
+2018-11-17 09:32:10 +0000,0,Charles,C,Assist - Circle Entry,4,61,42,55, 68
+2018-11-17 09:32:10 +0000,0,Stanton,GA,Possession,4,61,42,30, 7
+2018-11-17 09:32:13 +0000,0,Colyer ,WA,Possession,4,61,42,79, 15
+2018-11-17 09:32:14 +0000,1,Bryce,WD,Penaly - Contact,4,61,42,79, 15
+2018-11-17 09:32:15 +0000,0,Colyer ,WA,Possession,4,61,42,79, 15
+2018-11-17 09:32:26 +0000,0,Colyer ,WA,Assist - Circle Entry,4,61,42,79, 15
+2018-11-17 09:32:26 +0000,0,Fowler,GS,Possession,4,61,42,49, 10
+2018-11-17 09:32:32 +0000,1,Shimmin,GK,Penaly - Obstruction,4,61,42,49, 10
+2018-11-17 09:32:32 +0000,0,Fowler,GS,Goal - Score,4,61,42,49, 10
+2018-11-17 09:32:40 +0000,1,Petty,C,Centre Pass,4,62,42,50, 100
+2018-11-17 09:32:40 +0000,1,Hodges,GA,Assist - Centre Pass Rec,4,62,42,79, 127
+2018-11-17 09:32:43 +0000,1,Fowler,GD,Assist - 2nd Phase,4,62,42,70, 112
+2018-11-17 09:32:51 +0000,0,Anstiss,WD,Penaly - Contact,4,62,42,60, 136
+2018-11-17 09:32:51 +0000,1,Pitman,WA,Possession,4,62,42,60, 136
+2018-11-17 09:32:56 +0000,0,Charles,C,Penaly - Contact,4,62,42,47, 145
+2018-11-17 09:32:56 +0000,1,Pitman,WA,Possession,4,62,42,47, 145
+2018-11-17 09:33:01 +0000,1,Pitman,WA,Assist - Circle Entry,4,62,42,47, 145
+2018-11-17 09:33:01 +0000,1,Hodges,GA,Possession,4,62,42,47, 176
+2018-11-17 09:33:02 +0000,0,Bruce,GK,Penaly - Obstruction,4,62,42,47, 176
+2018-11-17 09:33:03 +0000,1,Hodges,GA,Goal - Score,4,62,42,47, 176
+2018-11-17 09:33:10 +0000,0,Charles,C,Centre Pass,4,62,43,50, 100
+2018-11-17 09:33:10 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,62,43,19, 73
+2018-11-17 09:33:15 +0000,1,Shimmin,GK,Gain - Inter,4,62,43,17, 14
+2018-11-17 09:33:19 +0000,0,Fowler,GS,Penaly - Contact,4,62,43,17, 14
+2018-11-17 09:33:20 +0000,1,Shimmin,GK,Possession,4,62,43,17, 14
+2018-11-17 09:33:24 +0000,0,Stanton,GA,Penaly - Contact,4,62,43,23, 45
+2018-11-17 09:33:24 +0000,1,Shimmin,GK,Possession,4,62,43,23, 45
+2018-11-17 09:33:32 +0000,1,Bryce,WD,Possession,4,62,43,20, 101
+2018-11-17 09:33:36 +0000,1,Pitman,WA,Possession,4,62,43,18, 138
+2018-11-17 09:33:38 +0000,1,Hodges,GA,Possession,4,62,43,6, 152
+2018-11-17 09:33:42 +0000,1,Hodges,GA,Assist - Circle Entry,4,62,43,6, 152
+2018-11-17 09:33:42 +0000,1,Nelson,GS,Goal - Score,4,62,43,54, 183
+2018-11-17 09:33:52 +0000,1,Petty,C,Centre Pass,4,62,44,50, 100
+2018-11-17 09:33:52 +0000,1,Hodges,GA,Assist - Centre Pass Rec,4,62,44,31, 118
+2018-11-17 09:33:56 +0000,1,Hodges,GA,Assist - Circle Entry,4,62,44,31, 118
+2018-11-17 09:33:56 +0000,1,Nelson,GS,Goal - Score,4,62,44,50, 183
+2018-11-17 09:34:03 +0000,0,Charles,C,Centre Pass,4,62,45,50, 100
+2018-11-17 09:34:03 +0000,0,Stanton,GA,Assist - Centre Pass Rec,4,62,45,7, 81
+2018-11-17 09:34:05 +0000,1,Fowler,GD,Penaly - Obstruction,4,62,45,7, 81
+2018-11-17 09:34:05 +0000,0,Anstiss,WD,Possession,4,62,45,7, 81
+2018-11-17 09:34:09 +0000,0,Colyer ,WA,Possession,4,62,45,14, 48
+2018-11-17 09:34:10 +0000,1,Bryce,WD,Penaly - Contact,4,62,45,14, 48
+2018-11-17 09:34:11 +0000,0,Colyer ,WA,Possession,4,62,45,14, 48
+2018-11-17 09:34:44 +0000,0,Stanton,GA,Possession,4,62,45,32, 28
+2018-11-17 09:34:58 +0000,0,Stanton,GA,Assist - Circle Entry,4,62,45,32, 28
+2018-11-17 09:34:58 +0000,0,Fowler,GS,Goal - Score,4,62,45,44, 12
+2018-11-17 09:35:13 +0000,1,Petty,C,Centre Pass,4,63,45,50, 100
+2018-11-17 09:35:13 +0000,0,Charles,C,Penaly - Contact on CP,4,63,45,46, 127
+2018-11-17 09:35:13 +0000,1,Bryce,WD,Possession,4,63,45,46, 127
+2018-11-17 09:35:17 +0000,1,Pitman,WA,Assist - 2nd Phase,4,63,45,27, 150
+2018-11-17 09:35:20 +0000,1,Pitman,WA,Assist - Circle Entry,4,63,45,27, 150
+2018-11-17 09:35:20 +0000,1,Hodges,GA,Possession,4,63,45,21, 192
+2018-11-17 09:35:22 +0000,1,Pitman,WA,Possession,4,63,45,17, 179
+2018-11-17 09:35:25 +0000,1,Pitman,WA,Assist - Circle Entry,4,63,45,17, 179
+2018-11-17 09:35:25 +0000,1,Hodges,GA,Possession,4,63,45,33, 187
+2018-11-17 09:35:26 +0000,0,Francis,GD,Penaly - Contact,4,63,45,33, 187
+2018-11-17 09:35:27 +0000,1,Hodges,GA,Goal - Miss,4,63,45,33, 187
+2018-11-17 09:35:36 +0000,1,Hodges,GA,Assist - Attack Rebound,4,63,45,50, 197
+2018-11-17 09:35:40 +0000,1,Nelson,GS,Possession,4,63,45,39, 181
+2018-11-17 09:35:41 +0000,0,Bruce,GK,Penaly - Contact,4,63,45,39, 181
+2018-11-17 09:35:41 +0000,1,Hodges,GA,Goal - Miss,4,63,45,39, 181
+2018-11-17 09:35:53 +0000,0,Bruce,GK,Gain - Def Reb,4,63,45,50, 197
+2018-11-17 09:36:04 +0000,1,Hodges,GA,Penaly - Contact,4,63,45,59, 183
+2018-11-17 09:36:04 +0000,0,Bruce,GK,Possession,4,63,45,59, 183
+2018-11-17 09:36:08 +0000,0,Francis,GD,Possession,4,63,45,14, 152
+2018-11-17 09:36:09 +0000,0,Charles,C,Possession,4,63,45,33, 138
+2018-11-17 09:36:13 +0000,0,Anstiss,WD,Possession,4,63,45,29, 123
+2018-11-17 09:36:17 +0000,0,Francis,GD,Possession,4,63,45,5, 92
+2018-11-17 09:36:19 +0000,0,Anstiss,WD,Possession,4,63,45,17, 76
+2018-11-17 09:36:23 +0000,0,Francis,GD,Possession,4,63,45,44, 98
+2018-11-17 09:36:25 +0000,0,Colyer ,WA,Possession,4,63,45,73, 69
+2018-11-17 09:36:27 +0000,1,Bryce,WD,Penaly - Obstruction,4,63,45,73, 69
+2018-11-17 09:36:27 +0000,0,Anstiss,WD,Possession,4,63,45,73, 69
+2018-11-17 09:37:03 +0000,0,Charles,C,Possession,4,63,45,69, 41
+2018-11-17 09:37:05 +0000,0,Charles,C,Assist - Circle Entry,4,63,45,69, 41
+2018-11-17 09:37:05 +0000,0,Stanton,GA,Possession,4,63,45,58, 17
+2018-11-17 09:37:07 +0000,1,Fowler,GD,Penaly - Contact,4,63,45,44, 10
+2018-11-17 09:37:07 +0000,0,Fowler,GS,Goal - Score,4,63,45,44, 10
+2018-11-17 09:37:22 +0000,0,Charles,C,Centre Pass,4,64,45,50, 100
+2018-11-17 09:37:22 +0000,0,Francis,GD,Assist - Centre Pass Rec,4,64,45,41, 116
+2018-11-17 09:37:25 +0000,0,Anstiss,WD,Assist - 2nd Phase,4,64,45,86, 97
+2018-11-17 09:37:27 +0000,0,Francis,GD,Possession,4,64,45,57, 77
+2018-11-17 09:37:31 +0000,1,Fowler,GD,Gain - Inter,4,64,45,81, 68
+2018-11-17 09:37:37 +0000,1,Bryce,WD,Possession,4,64,45,83, 48
+2018-11-17 09:37:40 +0000,1,Fowler,GD,Possession,4,64,45,70, 71
+2018-11-17 09:37:42 +0000,1,Bryce,WD,Possession,4,64,45,90, 114
+2018-11-17 09:37:48 +0000,0,Stanton,GA,Deflect,4,64,45,31, 117
+2018-11-17 09:37:48 +0000,1,Fowler,GD,Throw In,4,64,45,-9, 113
+2018-11-17 09:37:54 +0000,1,Pitman,WA,Possession,4,64,45,13, 143
+2018-11-17 09:37:57 +0000,1,,UNKNOWN,Possession,4,64,45,82, 185
+2018-11-17 09:38:03 +0000,1,Pitman,WA,Possession,4,64,45,14, 185
+2018-11-17 09:38:08 +0000,0,Francis,GD,Penaly - Contact,4,64,45,36, 181
+2018-11-17 09:38:09 +0000,1,Hodges,GA,Possession,4,64,45,36, 181
+2018-11-17 09:38:14 +0000,1,Nelson,GS,Goal - Score,4,64,45,55, 188
+2018-11-17 09:38:25 +0000,1,Petty,C,Centre Pass,4,64,46,50, 100
+2018-11-17 09:38:25 +0000,1,Hodges,GA,Assist - Centre Pass Rec,4,64,46,19, 120
+2018-11-17 09:38:27 +0000,1,Petty,C,Assist - 2nd Phase,4,64,46,73, 158
+2018-11-17 09:38:29 +0000,1,Pitman,WA,Possession,4,64,46,52, 160
+2018-11-17 09:38:31 +0000,1,Pitman,WA,Assist - Circle Entry,4,64,46,52, 160
+2018-11-17 09:38:31 +0000,1,Nelson,GS,Goal - Score,4,64,46,55, 187
+2018-11-17 09:38:39 +0000,0,Charles,C,Centre Pass,4,64,47,50, 100
+2018-11-17 09:38:39 +0000,0,Colyer ,WA,Loss - Bad Pass,4,64,47,81, 73
+2018-11-17 09:38:43 +0000,1,Shimmin,GK,Throw In,4,64,47,13, -5
+2018-11-17 09:38:49 +0000,0,Colyer ,WA,Penaly - Contact,4,64,47,52, 35
+2018-11-17 09:38:49 +0000,1,Shimmin,GK,Possession,4,64,47,52, 35
+2018-11-17 09:38:53 +0000,1,Bryce,WD,Possession,4,64,47,77, 73
+2018-11-17 09:38:58 +0000,1,Petty,C,Possession,4,64,47,72, 143
+2018-11-17 09:39:00 +0000,1,Pitman,WA,Possession,4,64,47,83, 181
+2018-11-17 09:39:04 +0000,1,Pitman,WA,Assist - Circle Entry,4,64,47,83, 181
+2018-11-17 09:39:04 +0000,1,Hodges,GA,Possession,4,64,47,53, 173
+2018-11-17 09:39:06 +0000,1,Pitman,WA,Possession,4,64,47,81, 179
+2018-11-17 09:39:09 +0000,0,Anstiss,WD,Penaly - Contact,4,64,47,81, 179
+2018-11-17 09:39:09 +0000,1,Pitman,WA,Possession,4,64,47,81, 179
+2018-11-17 09:39:13 +0000,1,Petty,C,Possession,4,64,47,19, 181
+2018-11-17 09:39:16 +0000,1,Petty,C,Assist - Circle Entry,4,64,47,19, 181
+2018-11-17 09:39:16 +0000,1,Nelson,GS,Goal - Score,4,64,47,52, 185
+2018-11-17 09:39:23 +0000,0,,UNKNOWN,Timeout,4,64,48,110, 222
+2018-11-17 09:40:03 +0000,0,Stanton,UNKNOWN,Interchange - Medhurst,4,64,48,
+2018-11-17 09:40:06 +0000,1,Petty,C,Centre Pass,4,64,48,50, 100
+2018-11-17 09:40:06 +0000,1,Bryce,WD,Assist - Centre Pass Rec,4,64,48,64, 114
+2018-11-17 09:40:11 +0000,1,Fowler,GD,Assist - 2nd Phase,4,64,48,9, 127
+2018-11-17 09:40:14 +0000,1,Bryce,WD,Possession,4,64,48,31, 99
+2018-11-17 09:40:18 +0000,0,Medhurst,GA,Penaly - Contact,4,64,48,31, 99
+2018-11-17 09:40:19 +0000,1,Bryce,WD,Possession,4,64,48,31, 99
+2018-11-17 09:40:24 +0000,1,Petty,C,Possession,4,64,48,52, 128
+2018-11-17 09:40:26 +0000,0,Anstiss,WD,Penaly - Contact,4,64,48,52, 128
+2018-11-17 09:40:26 +0000,1,Pitman,WA,Possession,4,64,48,52, 128
+2018-11-17 09:40:31 +0000,1,Petty,C,Possession,4,64,48,21, 169
+2018-11-17 09:40:36 +0000,1,Petty,C,Assist - Circle Entry,4,64,48,21, 169
+2018-11-17 09:40:36 +0000,1,Nelson,GS,Possession,4,64,48,50, 185
+2018-11-17 09:40:38 +0000,0,Francis,GD,Penaly - Contact,4,64,48,50, 185
+2018-11-17 09:40:38 +0000,1,Nelson,GS,Goal - Score,4,64,48,50, 185
+2018-11-17 09:40:43 +0000,0,Charles,C,Centre Pass,4,64,49,50, 100
+2018-11-17 09:40:43 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,64,49,74, 84
+2018-11-17 09:40:45 +0000,0,Anstiss,WD,Assist - 2nd Phase,4,64,49,50, 81
+2018-11-17 09:40:47 +0000,0,Charles,C,Possession,4,64,49,40, 59
+2018-11-17 09:40:49 +0000,0,Charles,C,Assist - Circle Entry,4,64,49,40, 59
+2018-11-17 09:40:49 +0000,0,Fowler,GS,Possession,4,64,49,38, 12
+2018-11-17 09:40:51 +0000,0,Colyer ,WA,Possession,4,64,49,31, 29
+2018-11-17 09:40:53 +0000,0,Colyer ,WA,Assist - Circle Entry,4,64,49,31, 29
+2018-11-17 09:40:53 +0000,0,Fowler,GS,Goal - Score,4,64,49,41, 6
+2018-11-17 09:41:04 +0000,1,Petty,C,Centre Pass,4,65,49,50, 100
+2018-11-17 09:41:04 +0000,1,Hodges,GA,Assist - Centre Pass Rec,4,65,49,20, 127
+2018-11-17 09:41:07 +0000,1,Hodges,GA,Assist - Circle Entry,4,65,49,20, 127
+2018-11-17 09:41:07 +0000,1,Nelson,GS,Goal - Score,4,65,49,49, 187
+2018-11-17 09:41:15 +0000,0,Charles,C,Centre Pass,4,65,50,50, 100
+2018-11-17 09:41:15 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,4,65,50,75, 74
+2018-11-17 09:41:18 +0000,0,Francis,GD,Assist - 2nd Phase,4,65,50,77, 106
+2018-11-17 09:41:20 +0000,0,Anstiss,WD,Possession,4,65,50,23, 82
+2018-11-17 09:41:22 +0000,0,Charles,C,Possession,4,65,50,31, 50
+2018-11-17 09:41:25 +0000,1,Bryce,WD,Penaly - Contact,4,65,50,31, 50
+2018-11-17 09:41:25 +0000,0,Charles,C,Possession,4,65,50,31, 50
+2018-11-17 09:41:30 +0000,0,Colyer ,WA,Possession,4,65,50,72, 25
+2018-11-17 09:41:33 +0000,0,Colyer ,WA,Assist - Circle Entry,4,65,50,72, 25
+2018-11-17 09:41:33 +0000,0,Medhurst,GA,Possession,4,65,50,62, 5
+2018-11-17 09:41:36 +0000,1,Fowler,GD,Penaly - Obstruction,4,65,50,62, 5
+2018-11-17 09:41:36 +0000,0,Medhurst,GA,Goal - Score,4,65,50,62, 5
+2018-11-17 09:41:48 +0000,1,Petty,C,Centre Pass,4,66,50,50, 100
+2018-11-17 09:41:48 +0000,1,Fowler,GD,Assist - Centre Pass Rec,4,66,50,36, 83
+2018-11-17 09:41:50 +0000,1,Bryce,WD,Assist - 2nd Phase,4,66,50,16, 104
+2018-11-17 09:41:53 +0000,1,Pitman,WA,Possession,4,66,50,12, 131
+2018-11-17 09:41:54 +0000,1,Petty,C,Possession,4,66,50,18, 161
+2018-11-17 09:41:57 +0000,1,Petty,C,Assist - Circle Entry,4,66,50,18, 161
+2018-11-17 09:41:57 +0000,1,Nelson,GS,Goal - Score,4,66,50,53, 189
+2018-11-17 09:42:04 +0000,0,Charles,C,Centre Pass,4,66,51,50, 100
+2018-11-17 09:42:04 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,4,66,51,78, 74
+2018-11-17 09:42:15 +0000,1,Fowler,GD,Penaly - Obstruction,4,66,51,76, 60
+2018-11-17 09:42:15 +0000,0,Charles,C,Assist - 2nd Phase,4,66,51,76, 60
+2018-11-17 09:42:21 +0000,0,Colyer ,WA,Possession,4,66,51,55, 56
+2018-11-17 09:42:23 +0000,0,Colyer ,WA,Assist - Circle Entry,4,66,51,55, 56
+2018-11-17 09:42:23 +0000,0,Fowler,GS,Goal - Score,4,66,51,42, 22
+2018-11-17 09:42:33 +0000,1,Petty,C,Centre Pass,4,67,51,50, 100
+2018-11-17 09:42:33 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,67,51,72, 126
+2018-11-17 09:42:35 +0000,1,Bryce,WD,Assist - 2nd Phase,4,67,51,51, 127
+2018-11-17 09:42:37 +0000,1,Petty,C,Possession,4,67,51,75, 161
+2018-11-17 09:42:39 +0000,1,Petty,C,Assist - Circle Entry,4,67,51,75, 161
+2018-11-17 09:42:39 +0000,1,Nelson,GS,Goal - Score,4,67,51,51, 189
+2018-11-17 09:42:48 +0000,0,Charles,C,Centre Pass,4,67,52,50, 100
+2018-11-17 09:42:48 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,67,52,72, 72
+2018-11-17 09:42:51 +0000,0,Medhurst,GA,Assist - 2nd Phase,4,67,52,80, 54
+2018-11-17 09:42:52 +0000,0,Charles,C,Possession,4,67,52,76, 23
+2018-11-17 09:42:54 +0000,0,Charles,C,Assist - Circle Entry,4,67,52,76, 23
+2018-11-17 09:42:54 +0000,0,Fowler,GS,Possession,4,67,52,51, 17
+2018-11-17 09:43:26 +0000,0,Medhurst,GA,Possession,4,67,52,48, 27
+2018-11-17 09:43:28 +0000,0,Charles,C,Possession,4,67,52,48, 33
+2018-11-17 09:43:32 +0000,1,Petty,C,Penaly - Contact,4,67,52,48, 33
+2018-11-17 09:43:32 +0000,0,Charles,C,Possession,4,67,52,48, 33
+2018-11-17 09:43:37 +0000,0,Charles,C,Assist - Circle Entry,4,67,52,48, 33
+2018-11-17 09:43:37 +0000,0,Fowler,GS,Goal - Score,4,67,52,44, 4
+2018-11-17 09:44:07 +0000,1,Petty,C,Centre Pass,4,68,52,50, 100
+2018-11-17 09:44:07 +0000,1,Pitman,WA,Penaly - Contact,4,68,52,17, 136
+2018-11-17 09:44:07 +0000,0,Bruce,GK,Possession,4,68,52,17, 136
+2018-11-17 09:44:16 +0000,0,Anstiss,WD,Possession,4,68,52,8, 97
+2018-11-17 09:44:30 +0000,0,Colyer ,WA,Possession,4,68,52,16, 55
+2018-11-17 09:44:33 +0000,0,Medhurst,GA,Possession,4,68,52,41, 42
+2018-11-17 09:44:35 +0000,0,Medhurst,GA,Assist - Circle Entry,4,68,52,41, 42
+2018-11-17 09:44:35 +0000,0,Fowler,GS,Possession,4,68,52,43, 21
+2018-11-17 09:44:36 +0000,1,Shimmin,GK,Penaly - Contact,4,68,52,43, 21
+2018-11-17 09:44:36 +0000,0,Medhurst,GA,Possession,4,68,52,43, 21
+2018-11-17 09:44:41 +0000,0,Fowler,GS,Possession,4,68,52,42, 9
+2018-11-17 09:44:42 +0000,1,Fowler,GD,Penaly - Contact,4,68,52,42, 9
+2018-11-17 09:44:42 +0000,0,Fowler,GS,Goal - Score,4,68,52,42, 9
+2018-11-17 09:44:54 +0000,0,Charles,C,Centre Pass,4,69,52,50, 100
+2018-11-17 09:44:54 +0000,0,Francis,GD,Assist - Centre Pass Rec,4,69,52,32, 109
+2018-11-17 09:44:56 +0000,0,Anstiss,WD,Assist - 2nd Phase,4,69,52,70, 108
+2018-11-17 09:44:58 +0000,0,Francis,GD,Possession,4,69,52,5, 105
+2018-11-17 09:44:59 +0000,0,Colyer ,WA,Possession,4,69,52,5, 70
+2018-11-17 09:45:01 +0000,0,Francis,GD,Possession,4,69,52,30, 92
+2018-11-17 09:45:03 +0000,0,Medhurst,GA,Loss - Held Ball,4,69,52,50, 73
+2018-11-17 09:45:07 +0000,1,Fowler,GD,Possession,4,69,52,52, 72
+2018-11-17 09:45:14 +0000,1,Petty,C,Possession,4,69,52,21, 92
+2018-11-17 09:45:16 +0000,1,Pitman,WA,Possession,4,69,52,16, 127
+2018-11-17 09:45:20 +0000,1,Nelson,GS,Penaly - Contact,4,69,52,42, 178
+2018-11-17 09:45:21 +0000,0,Bruce,GK,Possession,4,69,52,42, 178
+2018-11-17 09:45:34 +0000,0,Francis,GD,Possession,4,69,52,41, 144
+2018-11-17 09:45:36 +0000,0,Anstiss,WD,Possession,4,69,52,69, 119
+2018-11-17 09:45:39 +0000,0,Francis,GD,Possession,4,69,52,47, 98
+2018-11-17 09:45:40 +0000,1,Hodges,GA,Penaly - Contact,4,69,52,47, 98
+2018-11-17 09:45:40 +0000,0,Francis,GD,Possession,4,69,52,47, 98
+2018-11-17 09:45:46 +0000,0,Anstiss,WD,Possession,4,69,52,8, 76
+2018-11-17 09:45:49 +0000,0,Colyer ,WA,Possession,4,69,52,32, 55
+2018-11-17 09:45:58 +0000,1,Bryce,WD,Penaly - Obstruction,4,69,52,42, 45
+2018-11-17 09:45:58 +0000,0,Colyer ,WA,Possession,4,69,52,42, 45
+2018-11-17 09:46:06 +0000,0,Colyer ,WA,Assist - Circle Entry,4,69,52,42, 45
+2018-11-17 09:46:06 +0000,0,Medhurst,GA,Goal - Score,4,69,52,56, 14
+2018-11-17 09:46:16 +0000,1,Petty,C,Centre Pass,4,70,52,50, 100
+2018-11-17 09:46:16 +0000,1,Fowler,GD,Assist - Centre Pass Rec,4,70,52,11, 113
+2018-11-17 09:46:20 +0000,0,Bruce,GK,Penaly - Contact,4,70,52,5, 148
+2018-11-17 09:46:20 +0000,1,Pitman,WA,Assist - 2nd Phase,4,70,52,5, 148
+2018-11-17 09:46:25 +0000,0,Charles,C,Penaly - Contact,4,70,52,33, 164
+2018-11-17 09:46:25 +0000,1,Pitman,WA,Possession,4,70,52,33, 164
+2018-11-17 09:46:28 +0000,1,Petty,C,Possession,4,70,52,76, 174
+2018-11-17 09:46:30 +0000,1,Petty,C,Assist - Circle Entry,4,70,52,76, 174
+2018-11-17 09:46:30 +0000,1,Nelson,GS,Possession,4,70,52,39, 182
+2018-11-17 09:46:32 +0000,0,Francis,GD,Penaly - Contact,4,70,52,39, 182
+2018-11-17 09:46:32 +0000,1,Hodges,GA,Goal - Score,4,70,52,39, 182
+2018-11-17 09:46:45 +0000,0,Charles,C,Centre Pass,4,70,53,50, 100
+2018-11-17 09:46:45 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,4,70,53,51, 110
+2018-11-17 09:46:47 +0000,0,Colyer ,WA,Assist - 2nd Phase,4,70,53,78, 85
+2018-11-17 09:46:48 +0000,0,Anstiss,WD,Possession,4,70,53,72, 99
+2018-11-17 09:46:50 +0000,0,Charles,C,Possession,4,70,53,48, 76
+2018-11-17 09:46:52 +0000,0,Medhurst,GA,Possession,4,70,53,18, 73
+2018-11-17 09:46:55 +0000,0,Charles,C,Possession,4,70,53,37, 48
+2018-11-17 09:46:57 +0000,0,Charles,C,Assist - Circle Entry,4,70,53,37, 48
+2018-11-17 09:46:57 +0000,0,Fowler,GS,Possession,4,70,53,31, 7
+2018-11-17 09:46:59 +0000,0,Charles,C,Possession,4,70,53,31, 28
+2018-11-17 09:47:01 +0000,0,Charles,C,Assist - Circle Entry,4,70,53,31, 28
+2018-11-17 09:47:01 +0000,0,Fowler,GS,Goal - Score,4,70,53,42, 6
+2018-11-17 09:47:11 +0000,1,Petty,C,Centre Pass,4,71,53,50, 100
+2018-11-17 09:47:11 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,71,53,50, 112
+2018-11-17 09:47:13 +0000,1,Bryce,WD,Assist - 2nd Phase,4,71,53,81, 125
+2018-11-17 09:47:15 +0000,1,Pitman,WA,Possession,4,71,53,79, 159
+2018-11-17 09:47:17 +0000,1,Pitman,WA,Assist - Circle Entry,4,71,53,79, 159
+2018-11-17 09:47:17 +0000,1,Hodges,GA,Possession,4,71,53,62, 172
+2018-11-17 09:47:19 +0000,1,Nelson,GS,Goal - Score,4,71,53,42, 188
+2018-11-17 09:47:27 +0000,0,Charles,C,Centre Pass,4,71,54,50, 100
+2018-11-17 09:47:27 +0000,0,Francis,GD,Assist - Centre Pass Rec,4,71,54,77, 80
+2018-11-17 09:47:28 +0000,0,Colyer ,WA,Assist - 2nd Phase,4,71,54,81, 67
+2018-11-17 09:47:30 +0000,0,Francis,GD,Possession,4,71,54,86, 93
+2018-11-17 09:47:32 +0000,0,Anstiss,WD,Possession,4,71,54,44, 98
+2018-11-17 09:47:34 +0000,0,Medhurst,GA,Possession,4,71,54,13, 72
+2018-11-17 09:47:40 +0000,1,Hodges,GA,Penaly - Obstruction,4,71,54,13, 72
+2018-11-17 09:47:40 +0000,0,Anstiss,WD,Possession,4,71,54,13, 72
+2018-11-17 09:47:45 +0000,0,Colyer ,WA,Possession,4,71,54,20, 51
+2018-11-17 09:47:46 +0000,0,Medhurst,GA,Possession,4,71,54,12, 25
+2018-11-17 09:47:48 +0000,0,Medhurst,GA,Assist - Circle Entry,4,71,54,12, 25
+2018-11-17 09:47:49 +0000,0,Fowler,GS,Goal - Score,4,71,54,52, 5
+2018-11-17 09:47:56 +0000,1,Petty,C,Centre Pass,4,72,54,50, 100
+2018-11-17 09:47:56 +0000,1,Hodges,GA,Assist - Centre Pass Rec,4,72,54,50, 126
+2018-11-17 09:47:57 +0000,1,Pitman,WA,Assist - 2nd Phase,4,72,54,71, 156
+2018-11-17 09:47:59 +0000,1,Bryce,WD,Possession,4,72,54,60, 127
+2018-11-17 09:48:02 +0000,1,Pitman,WA,Possession,4,72,54,48, 149
+2018-11-17 09:48:04 +0000,1,Petty,C,Possession,4,72,54,16, 186
+2018-11-17 09:48:07 +0000,1,Petty,C,Assist - Circle Entry,4,72,54,16, 186
+2018-11-17 09:48:07 +0000,1,Hodges,GA,Possession,4,72,54,31, 191
+2018-11-17 09:48:09 +0000,1,Nelson,GS,Goal - Score,4,72,54,51, 185
+2018-11-17 09:48:24 +0000,0,Charles,C,Centre Pass,4,72,55,50, 100
+2018-11-17 09:48:24 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,4,72,55,83, 112
+2018-11-17 09:48:26 +0000,0,Charles,C,Assist - 2nd Phase,4,72,55,68, 102
+2018-11-17 09:48:28 +0000,0,Colyer ,WA,Possession,4,72,55,69, 61
+2018-11-17 09:48:30 +0000,0,Fowler,GS,Possession,4,72,55,39, 35
+2018-11-17 09:48:33 +0000,0,Colyer ,WA,Possession,4,72,55,49, 44
+2018-11-17 09:48:34 +0000,1,Bryce,WD,Penaly - Contact,4,72,55,49, 44
+2018-11-17 09:48:34 +0000,0,Colyer ,WA,Possession,4,72,55,49, 44
+2018-11-17 09:48:39 +0000,0,Colyer ,WA,Assist - Circle Entry,4,72,55,49, 44
+2018-11-17 09:48:39 +0000,0,Medhurst,GA,Possession,4,72,55,32, 7
+2018-11-17 09:48:44 +0000,1,Shimmin,GK,Penaly - Contact,4,72,55,32, 7
+2018-11-17 09:48:44 +0000,0,Medhurst,GA,Goal - Score,4,72,55,32, 7
+2018-11-17 09:48:56 +0000,1,Petty,C,Centre Pass,4,73,55,50, 100
+2018-11-17 09:48:56 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,73,55,25, 117
+2018-11-17 09:48:58 +0000,1,Hodges,GA,Assist - 2nd Phase,4,73,55,54, 122
+2018-11-17 09:49:00 +0000,1,Petty,C,Possession,4,73,55,38, 151
+2018-11-17 09:49:03 +0000,1,Petty,C,Assist - Circle Entry,4,73,55,38, 151
+2018-11-17 09:49:03 +0000,1,Nelson,GS,Possession,4,73,55,50, 175
+2018-11-17 09:49:07 +0000,0,Bruce,GK,Penaly - Contact,4,73,55,50, 175
+2018-11-17 09:49:07 +0000,1,Hodges,GA,Goal - Miss,4,73,55,50, 175
+2018-11-17 09:49:19 +0000,0,Bruce,GK,Throw In,4,73,55,50, 192
+2018-11-17 09:49:24 +0000,0,Anstiss,WD,Possession,4,73,55,7, 159
+2018-11-17 09:49:26 +0000,0,Charles,C,Possession,4,73,55,21, 127
+2018-11-17 09:49:28 +0000,0,Francis,GD,Possession,4,73,55,17, 78
+2018-11-17 09:49:30 +0000,0,Colyer ,WA,Possession,4,73,55,24, 50
+2018-11-17 09:49:32 +0000,0,Medhurst,GA,Possession,4,73,55,11, 28
+2018-11-17 09:49:35 +0000,0,Medhurst,GA,Assist - Circle Entry,4,73,55,11, 28
+2018-11-17 09:49:35 +0000,0,Fowler,GS,Possession,4,73,55,40, 9
+2018-11-17 09:49:37 +0000,1,Shimmin,GK,Penaly - Contact,4,73,55,40, 9
+2018-11-17 09:49:37 +0000,0,Fowler,GS,Goal - Score,4,73,55,40, 9
+2018-11-17 09:49:46 +0000,0,Charles,C,Centre Pass,4,74,55,50, 100
+2018-11-17 09:49:46 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,74,55,77, 76
+2018-11-17 09:49:49 +0000,0,Colyer ,WA,Assist - 2nd Phase,4,74,55,55, 71
+2018-11-17 09:49:51 +0000,0,Colyer ,WA,Assist - Circle Entry,4,74,55,55, 71
+2018-11-17 09:49:51 +0000,0,Fowler,GS,Goal - Score,4,74,55,45, 10
+2018-11-17 09:49:58 +0000,1,Petty,C,Centre Pass,4,75,55,50, 100
+2018-11-17 09:49:58 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,75,55,68, 118
+2018-11-17 09:50:01 +0000,1,Pitman,WA,Assist - Circle Entry,4,75,55,68, 118
+2018-11-17 09:50:01 +0000,1,Nelson,GS,Assist - 2nd Phase,4,75,55,51, 183
+2018-11-17 09:50:03 +0000,1,Nelson,GS,Goal - Score,4,75,55,51, 183
+2018-11-17 09:50:14 +0000,0,Charles,C,Centre Pass,4,75,56,50, 100
+2018-11-17 09:50:14 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,75,56,79, 80
+2018-11-17 09:50:16 +0000,0,Medhurst,GA,Assist - 2nd Phase,4,75,56,17, 48
+2018-11-17 09:50:19 +0000,0,Medhurst,GA,Assist - Circle Entry,4,75,56,17, 48
+2018-11-17 09:50:19 +0000,0,Fowler,GS,Goal - Score,4,75,56,38, 7
+2018-11-17 09:50:27 +0000,1,Petty,C,Centre Pass,4,76,56,50, 100
+2018-11-17 09:50:28 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,76,56,84, 121
+2018-11-17 09:51:05 +0000,1,Pitman,WA,Assist - Circle Entry,4,76,56,84, 121
+2018-11-17 09:51:05 +0000,0,Bruce,GK,Gain - Inter,4,76,56,63, 175
+2018-11-17 09:51:10 +0000,1,Nelson,GS,Penaly - Contact,4,76,56,63, 175
+2018-11-17 09:51:10 +0000,0,Bruce,GK,Possession,4,76,56,63, 175
+2018-11-17 09:51:15 +0000,0,Colyer ,WA,Possession,4,76,56,5, 85
+2018-11-17 09:51:17 +0000,0,Colyer ,WA,Assist - Circle Entry,4,76,56,5, 85
+2018-11-17 09:51:17 +0000,0,Medhurst,GA,Goal - Miss,4,76,56,34, 17
+2018-11-17 09:51:20 +0000,1,,UNKNOWN,Throw In,4,76,56,50, 7

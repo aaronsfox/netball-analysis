@@ -1,0 +1,1497 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-11-02 11:06:42 +0000,0,Brown,C,Centre Pass,1,0,0,50, 100
+2018-11-02 11:06:42 +0000,0,Brazill,WD,Assist - Centre Pass Rec,1,0,0,74, 94
+2018-11-02 11:06:44 +0000,0,Robinson,WA,Assist - 2nd Phase,1,0,0,18, 79
+2018-11-02 11:06:47 +0000,0,Brazill,WD,Possession,1,0,0,25, 75
+2018-11-02 11:06:49 +0000,0,Robinson,WA,Possession,1,0,0,11, 48
+2018-11-02 11:06:51 +0000,0,Thwaites,GS,Possession,1,0,0,18, 22
+2018-11-02 11:06:58 +0000,0,Brown,C,Possession,1,0,0,80, 24
+2018-11-02 11:07:02 +0000,0,Brown,C,Assist - Circle Entry,1,0,0,80, 24
+2018-11-02 11:07:02 +0000,0,Bell,GA,Goal - Miss,1,0,0,52, 23
+2018-11-02 11:07:13 +0000,1,de Bruin,GK,Gain - Def Reb,1,0,0,50, 2
+2018-11-02 11:07:17 +0000,1,Bryce,WD,Possession,1,0,0,49, 40
+2018-11-02 11:07:23 +0000,1,Pitman,WA,Possession,1,0,0,10, 109
+2018-11-02 11:07:28 +0000,0,Brazill,WD,Penaly - Contact,1,0,0,50, 115
+2018-11-02 11:07:28 +0000,1,Bryce,WD,Possession,1,0,0,50, 115
+2018-11-02 11:07:59 +0000,1,Hodges,GA,Possession,1,0,0,23, 178
+2018-11-02 11:08:01 +0000,1,Hodges,GA,Assist - Circle Entry,1,0,0,23, 178
+2018-11-02 11:08:01 +0000,1,Nelson,GS,Goal - Score,1,0,0,52, 193
+2018-11-02 11:08:10 +0000,1,Msomi,C,Centre Pass,1,0,1,50, 100
+2018-11-02 11:08:10 +0000,1,Bryce,WD,Assist - Centre Pass Rec,1,0,1,31, 119
+2018-11-02 11:08:14 +0000,1,Pitman,WA,Assist - 2nd Phase,1,0,1,24, 142
+2018-11-02 11:08:21 +0000,1,Fowler,GD,Possession,1,0,1,14, 108
+2018-11-02 11:08:23 +0000,1,Bryce,WD,Possession,1,0,1,15, 131
+2018-11-02 11:08:26 +0000,1,Fowler,GD,Possession,1,0,1,92, 124
+2018-11-02 11:08:30 +0000,1,Msomi,C,Possession,1,0,1,90, 149
+2018-11-02 11:08:33 +0000,1,Pitman,WA,Possession,1,0,1,68, 149
+2018-11-02 11:08:36 +0000,1,Pitman,WA,Assist - Circle Entry,1,0,1,68, 149
+2018-11-02 11:08:36 +0000,1,Nelson,GS,Goal - Score,1,0,1,50, 186
+2018-11-02 11:08:44 +0000,0,Brown,C,Centre Pass,1,0,2,50, 100
+2018-11-02 11:08:45 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,0,2,19, 76
+2018-11-02 11:08:46 +0000,0,Bell,GA,Assist - 2nd Phase,1,0,2,11, 49
+2018-11-02 11:08:48 +0000,0,Thwaites,GS,Possession,1,0,2,16, 8
+2018-11-02 11:08:59 +0000,1,Msomi,C,Loss - Offside,1,0,2,25, 25
+2018-11-02 11:09:11 +0000,0,Bell,GA,Possession,1,0,2,27, 25
+2018-11-02 11:09:17 +0000,0,Bell,GA,Possession,1,0,2,27, 25
+2018-11-02 11:09:17 +0000,0,Bell,GA,Possession,1,0,2,28, 21
+2018-11-02 11:09:30 +0000,0,Robinson,WA,Possession,1,0,2,27, 27
+2018-11-02 11:09:32 +0000,0,Robinson,WA,Assist - Circle Entry,1,0,2,27, 27
+2018-11-02 11:09:32 +0000,0,Thwaites,GS,Goal - Score,1,0,2,40, 3
+2018-11-02 11:09:41 +0000,1,Msomi,C,Centre Pass,1,1,2,50, 100
+2018-11-02 11:09:41 +0000,1,Hodges,GA,Assist - Centre Pass Rec,1,1,2,16, 124
+2018-11-02 11:09:45 +0000,1,Fowler,GD,Assist - 2nd Phase,1,1,2,27, 89
+2018-11-02 11:09:47 +0000,1,Bryce,WD,Possession,1,1,2,90, 110
+2018-11-02 11:09:49 +0000,1,Pitman,WA,Possession,1,1,2,57, 129
+2018-11-02 11:09:51 +0000,1,Hodges,GA,Possession,1,1,2,34, 161
+2018-11-02 11:09:55 +0000,1,Hodges,GA,Assist - Circle Entry,1,1,2,34, 161
+2018-11-02 11:09:55 +0000,1,Nelson,GS,Possession,1,1,2,61, 188
+2018-11-02 11:09:57 +0000,0,Layton,GK,Penaly - Contact,1,1,2,61, 188
+2018-11-02 11:09:57 +0000,1,Hodges,GA,Goal - Score,1,1,2,61, 188
+2018-11-02 11:10:20 +0000,0,Brown,C,Centre Pass,1,1,3,50, 100
+2018-11-02 11:10:20 +0000,0,Brandley,GD,Assist - Centre Pass Rec,1,1,3,32, 111
+2018-11-02 11:10:21 +0000,0,Robinson,WA,Assist - 2nd Phase,1,1,3,13, 76
+2018-11-02 11:10:26 +0000,0,Brown,C,Possession,1,1,3,11, 24
+2018-11-02 11:10:31 +0000,0,Robinson,WA,Possession,1,1,3,31, 38
+2018-11-02 11:10:34 +0000,0,Robinson,WA,Assist - Circle Entry,1,1,3,31, 38
+2018-11-02 11:10:34 +0000,0,Thwaites,GS,Goal - Score,1,1,3,49, 14
+2018-11-02 11:10:45 +0000,1,Msomi,C,Centre Pass,1,2,3,50, 100
+2018-11-02 11:10:45 +0000,1,Bryce,WD,Assist - Centre Pass Rec,1,2,3,21, 107
+2018-11-02 11:10:49 +0000,0,Bell,GA,Penaly - Obstruction,1,2,3,21, 107
+2018-11-02 11:10:49 +0000,1,Bryce,WD,Possession,1,2,3,21, 107
+2018-11-02 11:10:54 +0000,1,,UNKNOWN,Possession,1,2,3,12, 112
+2018-11-02 11:10:55 +0000,1,Fowler,GD,Possession,1,2,3,92, 124
+2018-11-02 11:10:59 +0000,1,Msomi,C,Possession,1,2,3,85, 163
+2018-11-02 11:11:04 +0000,1,Msomi,C,Assist - Circle Entry,1,2,3,85, 163
+2018-11-02 11:11:04 +0000,1,Nelson,GS,Assist - 2nd Phase,1,2,3,58, 190
+2018-11-02 11:11:06 +0000,1,Nelson,GS,Goal - Score,1,2,3,58, 190
+2018-11-02 11:11:12 +0000,0,Brown,C,Centre Pass,1,2,4,50, 100
+2018-11-02 11:11:12 +0000,0,Bell,GA,Assist - Centre Pass Rec,1,2,4,89, 76
+2018-11-02 11:11:14 +0000,0,Robinson,WA,Assist - 2nd Phase,1,2,4,86, 27
+2018-11-02 11:11:16 +0000,0,Robinson,WA,Assist - Circle Entry,1,2,4,86, 27
+2018-11-02 11:11:16 +0000,0,Thwaites,GS,Possession,1,2,4,41, 4
+2018-11-02 11:11:19 +0000,0,Brown,C,Possession,1,2,4,20, 20
+2018-11-02 11:11:22 +0000,0,Brown,C,Assist - Circle Entry,1,2,4,20, 20
+2018-11-02 11:11:22 +0000,0,Thwaites,GS,Possession,1,2,4,42, 5
+2018-11-02 11:11:25 +0000,1,Fowler,GD,Penaly - Obstruction,1,2,4,42, 5
+2018-11-02 11:11:25 +0000,0,Thwaites,GS,Goal - Score,1,2,4,42, 5
+2018-11-02 11:11:40 +0000,1,Msomi,C,Centre Pass,1,3,4,50, 100
+2018-11-02 11:11:40 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,3,4,24, 122
+2018-11-02 11:11:43 +0000,1,Hodges,GA,Assist - 2nd Phase,1,3,4,72, 129
+2018-11-02 11:11:45 +0000,1,Hodges,GA,Assist - Circle Entry,1,3,4,72, 129
+2018-11-02 11:11:46 +0000,1,Nelson,GS,Goal - Score,1,3,4,55, 191
+2018-11-02 11:11:56 +0000,0,Brown,C,Centre Pass,1,3,5,50, 100
+2018-11-02 11:11:56 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,3,5,33, 106
+2018-11-02 11:11:58 +0000,0,Bell,GA,Assist - 2nd Phase,1,3,5,95, 51
+2018-11-02 11:12:03 +0000,1,Fowler,GD,Penaly - Contact,1,3,5,70, 30
+2018-11-02 11:12:03 +0000,0,Robinson,WA,Possession,1,3,5,70, 30
+2018-11-02 11:12:11 +0000,0,Robinson,WA,Assist - Circle Entry,1,3,5,70, 30
+2018-11-02 11:12:11 +0000,0,Bell,GA,Goal - Score,1,3,5,63, 19
+2018-11-02 11:12:27 +0000,1,Msomi,C,Centre Pass,1,4,5,50, 100
+2018-11-02 11:12:27 +0000,0,Brandley,GD,Penaly - Contact on CP,1,4,5,56, 136
+2018-11-02 11:12:27 +0000,1,Pitman,WA,Possession,1,4,5,56, 136
+2018-11-02 11:12:36 +0000,1,Hodges,GA,Assist - 2nd Phase,1,4,5,73, 173
+2018-11-02 11:12:45 +0000,1,Msomi,C,Possession,1,4,5,43, 167
+2018-11-02 11:12:49 +0000,0,Brown,C,Penaly - Contact,1,4,5,43, 167
+2018-11-02 11:12:49 +0000,1,Msomi,C,Possession,1,4,5,43, 167
+2018-11-02 11:12:54 +0000,1,Msomi,C,Assist - Circle Entry,1,4,5,43, 167
+2018-11-02 11:12:54 +0000,1,Nelson,GS,Goal - Score,1,4,5,51, 179
+2018-11-02 11:13:02 +0000,0,Brown,C,Centre Pass,1,4,6,50, 100
+2018-11-02 11:13:02 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,4,6,90, 78
+2018-11-02 11:13:05 +0000,0,Bell,GA,Assist - 2nd Phase,1,4,6,94, 28
+2018-11-02 11:13:07 +0000,0,Brown,C,Possession,1,4,6,86, 57
+2018-11-02 11:13:10 +0000,0,Brazill,WD,Possession,1,4,6,67, 72
+2018-11-02 11:13:14 +0000,0,Robinson,WA,Possession,1,4,6,80, 44
+2018-11-02 11:13:21 +0000,0,Brown,C,Possession,1,4,6,23, 26
+2018-11-02 11:13:23 +0000,0,Brown,C,Assist - Circle Entry,1,4,6,23, 26
+2018-11-02 11:13:23 +0000,0,Bell,GA,Possession,1,4,6,40, 4
+2018-11-02 11:13:25 +0000,1,de Bruin,GK,Penaly - Obstruction,1,4,6,40, 4
+2018-11-02 11:13:25 +0000,0,Bell,GA,Goal - Score,1,4,6,40, 4
+2018-11-02 11:13:34 +0000,1,Msomi,C,Centre Pass,1,5,6,50, 100
+2018-11-02 11:13:34 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,5,6,39, 126
+2018-11-02 11:13:45 +0000,1,Pitman,WA,Assist - Circle Entry,1,5,6,39, 126
+2018-11-02 11:13:45 +0000,1,Nelson,GS,Assist - 2nd Phase,1,5,6,53, 180
+2018-11-02 11:13:48 +0000,0,Layton,GK,Penaly - Contact,1,5,6,53, 180
+2018-11-02 11:13:48 +0000,1,Hodges,GA,Goal - Score,1,5,6,53, 180
+2018-11-02 11:14:04 +0000,0,Brown,C,Centre Pass,1,5,7,50, 100
+2018-11-02 11:14:04 +0000,0,Bell,GA,Assist - Centre Pass Rec,1,5,7,35, 73
+2018-11-02 11:14:10 +0000,1,Msomi,C,Penaly - Contact,1,5,7,64, 40
+2018-11-02 11:14:10 +0000,0,Robinson,WA,Assist - 2nd Phase,1,5,7,64, 40
+2018-11-02 11:14:18 +0000,0,Robinson,WA,Assist - Circle Entry,1,5,7,64, 40
+2018-11-02 11:14:18 +0000,0,Thwaites,GS,Goal - Score,1,5,7,54, 10
+2018-11-02 11:14:26 +0000,1,Msomi,C,Centre Pass,1,6,7,50, 100
+2018-11-02 11:14:26 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,6,7,93, 127
+2018-11-02 11:14:28 +0000,1,Hodges,GA,Assist - 2nd Phase,1,6,7,79, 137
+2018-11-02 11:14:30 +0000,1,Pitman,WA,Possession,1,6,7,51, 156
+2018-11-02 11:14:33 +0000,0,Brown,C,Penaly - Contact,1,6,7,51, 156
+2018-11-02 11:14:33 +0000,1,Pitman,WA,Possession,1,6,7,51, 156
+2018-11-02 11:14:40 +0000,1,Pitman,WA,Assist - Circle Entry,1,6,7,51, 156
+2018-11-02 11:14:40 +0000,1,Hodges,GA,Possession,1,6,7,49, 176
+2018-11-02 11:14:52 +0000,0,Brandley,GD,Gain - Tip (Deflect),1,6,7,68, 188
+2018-11-02 11:14:57 +0000,1,Msomi,C,Loss - Offside,1,6,7,79, 182
+2018-11-02 11:15:09 +0000,0,Layton,GK,Possession,1,6,7,80, 181
+2018-11-02 11:15:22 +0000,0,Brandley,GD,Possession,1,6,7,91, 152
+2018-11-02 11:15:24 +0000,0,Brown,C,Possession,1,6,7,92, 115
+2018-11-02 11:15:26 +0000,0,Brazill,WD,Possession,1,6,7,95, 90
+2018-11-02 11:15:40 +0000,1,Bryce,WD,Penaly - Contact,1,6,7,95, 90
+2018-11-02 11:15:40 +0000,0,Brazill,WD,Possession,1,6,7,95, 90
+2018-11-02 11:15:49 +0000,0,Robinson,WA,Possession,1,6,7,88, 52
+2018-11-02 11:15:53 +0000,0,Brown,C,Possession,1,6,7,94, 14
+2018-11-02 11:15:59 +0000,1,Fowler,GD,Penaly - Contact,1,6,7,76, 7
+2018-11-02 11:15:59 +0000,0,Bell,GA,Goal - Score,1,6,7,76, 7
+2018-11-02 11:16:10 +0000,0,Brown,C,Centre Pass,1,7,7,50, 100
+2018-11-02 11:16:11 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,7,7,91, 85
+2018-11-02 11:16:12 +0000,0,Bell,GA,Assist - 2nd Phase,1,7,7,94, 35
+2018-11-02 11:16:15 +0000,0,Brown,C,Possession,1,7,7,86, 7
+2018-11-02 11:16:20 +0000,0,Brown,C,Assist - Circle Entry,1,7,7,86, 7
+2018-11-02 11:16:20 +0000,0,Bell,GA,Possession,1,7,7,68, 5
+2018-11-02 11:16:22 +0000,0,Brown,C,Possession,1,7,7,85, 8
+2018-11-02 11:16:26 +0000,0,Brown,C,Assist - Circle Entry,1,7,7,85, 8
+2018-11-02 11:16:27 +0000,0,Thwaites,GS,Possession,1,7,7,46, 17
+2018-11-02 11:16:30 +0000,1,Fowler,GD,Penaly - Obstruction,1,7,7,46, 17
+2018-11-02 11:16:30 +0000,0,Thwaites,GS,Goal - Score,1,7,7,46, 17
+2018-11-02 11:16:38 +0000,1,Msomi,C,Centre Pass,1,8,7,50, 100
+2018-11-02 11:16:38 +0000,1,Fowler,GD,Assist - Centre Pass Rec,1,8,7,66, 85
+2018-11-02 11:16:40 +0000,1,Pitman,WA,Assist - 2nd Phase,1,8,7,75, 116
+2018-11-02 11:16:42 +0000,1,Fowler,GD,Possession,1,8,7,61, 94
+2018-11-02 11:16:44 +0000,1,Hodges,GA,Possession,1,8,7,36, 119
+2018-11-02 11:17:00 +0000,1,Pitman,WA,Possession,1,8,7,61, 139
+2018-11-02 11:17:02 +0000,0,Brazill,WD,Penaly - Contact,1,8,7,61, 139
+2018-11-02 11:17:02 +0000,1,Pitman,WA,Possession,1,8,7,61, 139
+2018-11-02 11:17:10 +0000,1,Hodges,GA,Possession,1,8,7,48, 153
+2018-11-02 11:17:13 +0000,1,Pitman,WA,Possession,1,8,7,57, 166
+2018-11-02 11:17:16 +0000,1,Msomi,C,Possession,1,8,7,25, 175
+2018-11-02 11:17:18 +0000,1,Pitman,WA,Possession,1,8,7,84, 190
+2018-11-02 11:17:21 +0000,1,Pitman,WA,Assist - Circle Entry,1,8,7,84, 190
+2018-11-02 11:17:21 +0000,1,Hodges,GA,Goal - Score,1,8,7,61, 193
+2018-11-02 11:17:33 +0000,0,Brown,C,Centre Pass,1,8,8,50, 100
+2018-11-02 11:17:33 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,8,8,84, 84
+2018-11-02 11:17:35 +0000,0,Bell,GA,Assist - 2nd Phase,1,8,8,91, 47
+2018-11-02 11:17:36 +0000,0,Brazill,WD,Possession,1,8,8,90, 70
+2018-11-02 11:17:39 +0000,0,Brown,C,Possession,1,8,8,84, 18
+2018-11-02 11:17:42 +0000,1,Msomi,C,Penaly - Obstruction,1,8,8,84, 18
+2018-11-02 11:17:43 +0000,0,Brown,C,Possession,1,8,8,84, 18
+2018-11-02 11:17:48 +0000,0,Brown,C,Assist - Circle Entry,1,8,8,84, 18
+2018-11-02 11:17:48 +0000,0,Thwaites,GS,Goal - Score,1,8,8,49, 14
+2018-11-02 11:17:58 +0000,1,Msomi,C,Centre Pass,1,9,8,50, 100
+2018-11-02 11:17:58 +0000,1,Hodges,GA,Assist - Centre Pass Rec,1,9,8,71, 110
+2018-11-02 11:18:01 +0000,1,Pitman,WA,Assist - 2nd Phase,1,9,8,50, 140
+2018-11-02 11:18:04 +0000,1,Msomi,C,Loss - Bad Pass,1,9,8,18, 186
+2018-11-02 11:18:08 +0000,0,Layton,GK,Throw In,1,9,8,104, 175
+2018-11-02 11:18:17 +0000,0,Brandley,GD,Possession,1,9,8,94, 127
+2018-11-02 11:18:19 +0000,0,Brown,C,Possession,1,9,8,64, 117
+2018-11-02 11:18:21 +0000,0,Brandley,GD,Possession,1,9,8,66, 123
+2018-11-02 11:18:23 +0000,0,Brazill,WD,Possession,1,9,8,20, 82
+2018-11-02 11:18:25 +0000,0,Robinson,WA,Possession,1,9,8,75, 48
+2018-11-02 11:18:28 +0000,0,Bell,GA,Possession,1,9,8,90, 10
+2018-11-02 11:18:30 +0000,0,Robinson,WA,Possession,1,9,8,77, 23
+2018-11-02 11:18:33 +0000,0,Robinson,WA,Assist - Circle Entry,1,9,8,77, 23
+2018-11-02 11:18:33 +0000,0,Bell,GA,Possession,1,9,8,73, 6
+2018-11-02 11:18:38 +0000,0,Brown,C,Possession,1,9,8,51, 37
+2018-11-02 11:18:40 +0000,1,Msomi,C,Penaly - Contact,1,9,8,51, 37
+2018-11-02 11:18:40 +0000,0,Brown,C,Possession,1,9,8,51, 37
+2018-11-02 11:18:49 +0000,0,Brown,C,Assist - Circle Entry,1,9,8,51, 37
+2018-11-02 11:18:49 +0000,0,Bell,GA,Goal - Score,1,9,8,38, 15
+2018-11-02 11:18:58 +0000,0,Brown,C,Centre Pass,1,10,8,50, 100
+2018-11-02 11:18:59 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,10,8,25, 80
+2018-11-02 11:19:01 +0000,0,Brown,C,Assist - 2nd Phase,1,10,8,26, 37
+2018-11-02 11:19:03 +0000,0,Brown,C,Assist - Circle Entry,1,10,8,26, 37
+2018-11-02 11:19:03 +0000,0,Bell,GA,Goal - Miss,1,10,8,35, 6
+2018-11-02 11:19:17 +0000,1,de Bruin,GK,Gain - Tip (Deflect),1,10,8,50, 2
+2018-11-02 11:19:24 +0000,1,Fowler,GD,Possession,1,10,8,40, 3
+2018-11-02 11:19:29 +0000,1,Msomi,C,Possession,1,10,8,16, 29
+2018-11-02 11:19:32 +0000,1,Bryce,WD,Possession,1,10,8,37, 40
+2018-11-02 11:19:34 +0000,1,Fowler,GD,Possession,1,10,8,49, 71
+2018-11-02 11:19:36 +0000,1,Pitman,WA,Possession,1,10,8,91, 83
+2018-11-02 11:19:38 +0000,1,Bryce,WD,Possession,1,10,8,66, 88
+2018-11-02 11:19:40 +0000,1,Msomi,C,Possession,1,10,8,53, 129
+2018-11-02 11:19:43 +0000,1,Pitman,WA,Possession,1,10,8,86, 139
+2018-11-02 11:19:44 +0000,1,Msomi,C,Possession,1,10,8,66, 160
+2018-11-02 11:19:46 +0000,0,Brown,C,Penaly - Contact,1,10,8,66, 160
+2018-11-02 11:19:46 +0000,1,Msomi,C,Possession,1,10,8,66, 160
+2018-11-02 11:19:52 +0000,1,Msomi,C,Assist - Circle Entry,1,10,8,66, 160
+2018-11-02 11:19:52 +0000,1,Hodges,GA,Possession,1,10,8,54, 177
+2018-11-02 11:19:55 +0000,0,Brandley,GD,Penaly - Obstruction,1,10,8,54, 177
+2018-11-02 11:19:55 +0000,1,Hodges,GA,Goal - Score,1,10,8,54, 177
+2018-11-02 11:20:12 +0000,1,Msomi,C,Centre Pass,1,10,9,50, 100
+2018-11-02 11:20:12 +0000,1,Msomi,C,Loss - Bad Pass,1,10,9,50, 100
+2018-11-02 11:20:12 +0000,0,Layton,GK,Throw In,1,10,9,106, 133
+2018-11-02 11:20:26 +0000,0,Brandley,GD,Possession,1,10,9,92, 121
+2018-11-02 11:20:31 +0000,0,Brown,C,Possession,1,10,9,93, 84
+2018-11-02 11:20:33 +0000,0,Brandley,GD,Possession,1,10,9,90, 101
+2018-11-02 11:21:20 +0000,0,Bell,GA,Possession,1,10,9,17, 62
+2018-11-02 11:21:22 +0000,0,Brandley,GD,Possession,1,10,9,42, 72
+2018-11-02 11:21:25 +0000,0,Robinson,WA,Possession,1,10,9,49, 51
+2018-11-02 11:21:28 +0000,1,Bryce,WD,Penaly - Contact,1,10,9,49, 51
+2018-11-02 11:21:28 +0000,0,Robinson,WA,Possession,1,10,9,49, 51
+2018-11-02 11:21:34 +0000,1,de Bruin,GK,Penaly - Contact,1,10,9,48, 16
+2018-11-02 11:21:34 +0000,0,Thwaites,GS,Goal - Score,1,10,9,48, 16
+2018-11-02 11:21:46 +0000,1,,UNKNOWN,Timeout,1,11,9,-10, -22
+2018-11-02 11:22:44 +0000,0,Brown,C,Centre Pass,1,11,9,50, 100
+2018-11-02 11:22:44 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,11,9,94, 78
+2018-11-02 11:22:46 +0000,0,Bell,GA,Assist - 2nd Phase,1,11,9,94, 49
+2018-11-02 11:22:48 +0000,0,Brandley,GD,Possession,1,11,9,79, 70
+2018-11-02 11:22:51 +0000,0,Brown,C,Possession,1,11,9,88, 63
+2018-11-02 11:22:54 +0000,0,Robinson,WA,Possession,1,11,9,90, 37
+2018-11-02 11:22:55 +0000,1,Msomi,C,Penaly - Contact,1,11,9,90, 37
+2018-11-02 11:22:56 +0000,0,Robinson,WA,Possession,1,11,9,90, 37
+2018-11-02 11:23:04 +0000,0,Robinson,WA,Assist - Circle Entry,1,11,9,90, 37
+2018-11-02 11:23:04 +0000,0,Thwaites,GS,Possession,1,11,9,47, 14
+2018-11-02 11:23:06 +0000,1,de Bruin,GK,Penaly - Obstruction,1,11,9,47, 14
+2018-11-02 11:23:06 +0000,0,Thwaites,GS,Goal - Score,1,11,9,47, 14
+2018-11-02 11:23:16 +0000,1,Msomi,C,Centre Pass,1,12,9,50, 100
+2018-11-02 11:23:16 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,12,9,93, 124
+2018-11-02 11:23:19 +0000,1,Fowler,GD,Assist - 2nd Phase,1,12,9,16, 124
+2018-11-02 11:23:26 +0000,0,Brown,C,Deflect,1,12,9,11, 144
+2018-11-02 11:23:26 +0000,1,Msomi,C,Throw In,1,12,9,-7, 140
+2018-11-02 11:23:36 +0000,1,Bryce,WD,Possession,1,12,9,21, 130
+2018-11-02 11:23:41 +0000,1,Bryce,WD,Assist - Circle Entry,1,12,9,21, 130
+2018-11-02 11:23:41 +0000,1,Nelson,GS,Loss - Drop,1,12,9,46, 176
+2018-11-02 11:23:46 +0000,0,Layton,GK,Gain - Pick-up,1,12,9,45, 167
+2018-11-02 11:23:57 +0000,0,Robinson,WA,Possession,1,12,9,47, 128
+2018-11-02 11:24:02 +0000,0,Layton,GK,Possession,1,12,9,44, 138
+2018-11-02 11:24:05 +0000,0,Brazill,WD,Possession,1,12,9,64, 112
+2018-11-02 11:25:10 +0000,0,Layton,GK,Deflect,1,12,9,50, 139
+2018-11-02 11:25:14 +0000,0,Layton,GK,Deflect,1,12,9,3, 148
+2018-11-02 11:25:19 +0000,1,Nelson,GS,Gain - Pick-up,1,12,9,48, 156
+2018-11-02 11:25:27 +0000,1,Pitman,WA,Possession,1,12,9,31, 168
+2018-11-02 11:25:31 +0000,1,Msomi,C,Possession,1,12,9,56, 160
+2018-11-02 11:25:33 +0000,1,Msomi,C,Assist - Circle Entry,1,12,9,56, 160
+2018-11-02 11:25:33 +0000,1,Hodges,GA,Goal - Miss,1,12,9,53, 183
+2018-11-02 11:25:38 +0000,1,Nelson,GS,Assist - Attack Rebound,1,12,9,50, 197
+2018-11-02 11:25:42 +0000,1,Nelson,GS,Goal - Score,1,12,9,53, 183
+2018-11-02 11:25:50 +0000,0,Brown,C,Centre Pass,1,12,10,50, 100
+2018-11-02 11:25:50 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,12,10,14, 82
+2018-11-02 11:25:52 +0000,0,Bell,GA,Assist - 2nd Phase,1,12,10,17, 38
+2018-11-02 11:25:56 +0000,0,Brown,C,Possession,1,12,10,84, 18
+2018-11-02 11:25:58 +0000,1,de Bruin,GK,Penaly - Contact,1,12,10,69, 9
+2018-11-02 11:25:58 +0000,0,Thwaites,GS,Goal - Score,1,12,10,69, 9
+2018-11-02 11:26:09 +0000,1,Msomi,C,Centre Pass,1,13,10,50, 100
+2018-11-02 11:26:09 +0000,1,Hodges,GA,Assist - Centre Pass Rec,1,13,10,40, 118
+2018-11-02 11:26:11 +0000,1,Pitman,WA,Assist - 2nd Phase,1,13,10,90, 162
+2018-11-02 11:26:16 +0000,1,Pitman,WA,Assist - Circle Entry,1,13,10,90, 162
+2018-11-02 11:26:16 +0000,1,Hodges,GA,Possession,1,13,10,67, 190
+2018-11-02 11:26:18 +0000,0,Brandley,GD,Penaly - Contact,1,13,10,67, 190
+2018-11-02 11:26:18 +0000,1,Hodges,GA,Possession,1,13,10,67, 190
+2018-11-02 11:26:21 +0000,1,Nelson,GS,Possession,1,13,10,42, 193
+2018-11-02 11:26:24 +0000,0,Layton,GK,Penaly - Contact,1,13,10,42, 193
+2018-11-02 11:26:24 +0000,1,Nelson,GS,Goal - Score,1,13,10,42, 193
+2018-11-02 11:26:30 +0000,0,Brown,C,Centre Pass,1,13,11,50, 100
+2018-11-02 11:26:30 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,13,11,74, 85
+2018-11-02 11:26:32 +0000,0,Bell,GA,Assist - 2nd Phase,1,13,11,46, 43
+2018-11-02 11:26:34 +0000,0,Brown,C,Possession,1,13,11,82, 14
+2018-11-02 11:26:37 +0000,0,Brown,C,Assist - Circle Entry,1,13,11,82, 14
+2018-11-02 11:26:37 +0000,0,Thwaites,GS,Goal - Score,1,13,11,50, 22
+2018-11-02 11:26:48 +0000,1,Msomi,C,Centre Pass,1,14,11,50, 100
+2018-11-02 11:26:48 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,14,11,15, 122
+2018-11-02 11:26:50 +0000,1,Hodges,GA,Assist - 2nd Phase,1,14,11,52, 124
+2018-11-02 11:26:52 +0000,1,Msomi,C,Possession,1,14,11,92, 143
+2018-11-02 11:26:54 +0000,1,Bryce,WD,Possession,1,14,11,74, 130
+2018-11-02 11:27:01 +0000,0,Robinson,WA,Penaly - Contact,1,14,11,74, 130
+2018-11-02 11:27:01 +0000,1,Bryce,WD,Possession,1,14,11,74, 130
+2018-11-02 11:27:07 +0000,1,Msomi,C,Possession,1,14,11,92, 165
+2018-11-02 11:27:11 +0000,1,Pitman,WA,Possession,1,14,11,19, 184
+2018-11-02 11:27:18 +0000,1,Msomi,C,Possession,1,14,11,54, 166
+2018-11-02 11:27:22 +0000,1,Msomi,C,Assist - Circle Entry,1,14,11,54, 166
+2018-11-02 11:27:23 +0000,1,Hodges,GA,Possession,1,14,11,50, 179
+2018-11-02 11:27:25 +0000,0,Layton,GK,Penaly - Obstruction,1,14,11,50, 179
+2018-11-02 11:27:25 +0000,1,Hodges,GA,Goal - Score,1,14,11,50, 179
+2018-11-02 11:27:34 +0000,0,Brown,C,Centre Pass,1,14,12,50, 100
+2018-11-02 11:27:34 +0000,0,Bell,GA,Assist - Centre Pass Rec,1,14,12,85, 76
+2018-11-02 11:27:36 +0000,0,Brown,C,Assist - 2nd Phase,1,14,12,85, 15
+2018-11-02 11:27:40 +0000,0,Brown,C,Assist - Circle Entry,1,14,12,85, 15
+2018-11-02 11:27:40 +0000,0,Thwaites,GS,Possession,1,14,12,51, 19
+2018-11-02 11:27:46 +0000,1,Fowler,GD,Penaly - Obstruction,1,14,12,51, 19
+2018-11-02 11:27:46 +0000,0,Thwaites,GS,Goal - Score,1,14,12,51, 19
+2018-11-02 11:28:06 +0000,1,Msomi,C,Centre Pass,1,15,12,50, 100
+2018-11-02 11:28:06 +0000,1,Fowler,GD,Assist - Centre Pass Rec,1,15,12,79, 105
+2018-11-02 11:28:15 +0000,0,Brandley,GD,Penaly - Contact,1,15,12,79, 105
+2018-11-02 11:28:15 +0000,1,Fowler,GD,Possession,1,15,12,79, 105
+2018-11-02 11:28:21 +0000,1,Bryce,WD,Possession,1,15,12,49, 115
+2018-11-02 11:28:23 +0000,1,Msomi,C,Possession,1,15,12,12, 127
+2018-11-02 11:28:24 +0000,1,Bryce,WD,Possession,1,15,12,31, 124
+2018-11-02 11:28:26 +0000,0,Bell,GA,Penaly - Obstruction,1,15,12,31, 124
+2018-11-02 11:28:27 +0000,1,Bryce,WD,Possession,1,15,12,31, 124
+2018-11-02 11:28:33 +0000,1,Pitman,WA,Possession,1,15,12,18, 151
+2018-11-02 11:28:36 +0000,1,Hodges,GA,Possession,1,15,12,20, 177
+2018-11-02 11:28:41 +0000,1,Hodges,GA,Assist - Circle Entry,1,15,12,20, 177
+2018-11-02 11:28:41 +0000,1,Nelson,GS,Goal - Score,1,15,12,55, 190
+2018-11-02 11:28:50 +0000,0,Brown,C,Centre Pass,1,15,13,50, 100
+2018-11-02 11:28:50 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,15,13,19, 76
+2018-11-02 11:28:55 +0000,0,Thwaites,GS,Assist - 2nd Phase,1,15,13,14, 33
+2018-11-02 11:28:59 +0000,0,Brandley,GD,Possession,1,15,13,18, 71
+2018-11-02 11:29:01 +0000,0,Robinson,WA,Possession,1,15,13,11, 43
+2018-11-02 11:29:03 +0000,1,Bryce,WD,Penaly - Contact,1,15,13,11, 43
+2018-11-02 11:29:03 +0000,0,Robinson,WA,Possession,1,15,13,11, 43
+2018-11-02 11:29:12 +0000,0,Bell,GA,Possession,1,15,13,29, 30
+2018-11-02 11:29:14 +0000,0,Robinson,WA,Possession,1,15,13,16, 10
+2018-11-02 11:29:18 +0000,0,Robinson,WA,Assist - Circle Entry,1,15,13,16, 10
+2018-11-02 11:29:18 +0000,0,Thwaites,GS,Possession,1,15,13,34, 9
+2018-11-02 11:29:20 +0000,1,de Bruin,GK,Penaly - Obstruction,1,15,13,34, 9
+2018-11-02 11:29:20 +0000,0,Thwaites,GS,Goal - Score,1,15,13,34, 9
+2018-11-02 11:29:35 +0000,1,Msomi,C,Centre Pass,1,16,13,50, 100
+2018-11-02 11:29:35 +0000,1,Fowler,GD,Assist - Centre Pass Rec,1,16,13,21, 102
+2018-11-02 11:29:37 +0000,1,Bryce,WD,Assist - 2nd Phase,1,16,13,93, 109
+2018-11-02 11:29:40 +0000,1,Pitman,WA,Possession,1,16,13,35, 130
+2018-11-02 11:32:43 +0000,0,Brandley,GD,Gain - Inter,1,16,13,44, 158
+2018-11-02 11:32:53 +0000,0,Robinson,WA,Loss - Bad Pass,1,16,13,67, 121
+2018-11-02 11:33:53 +0000,1,Fowler,GD,Throw In,1,16,13,105, 81
+2018-11-02 11:34:07 +0000,1,de Bruin,GK,Possession,1,16,13,85, 66
+2018-11-02 11:34:09 +0000,1,Msomi,C,Possession,1,16,13,79, 110
+2018-11-02 11:34:12 +0000,1,Bryce,WD,Possession,1,16,13,25, 130
+2018-11-02 11:34:14 +0000,1,Pitman,WA,Possession,1,16,13,16, 155
+2018-11-02 11:34:17 +0000,1,Msomi,C,Possession,1,16,13,18, 186
+2018-11-02 11:34:22 +0000,1,Msomi,C,Assist - Circle Entry,1,16,13,18, 186
+2018-11-02 11:34:22 +0000,1,Hodges,GA,Possession,1,16,13,30, 188
+2018-11-02 11:34:24 +0000,1,Msomi,C,Possession,1,16,13,17, 187
+2018-11-02 11:34:27 +0000,1,Msomi,C,Assist - Circle Entry,1,16,13,17, 187
+2018-11-02 11:34:27 +0000,1,Hodges,GA,Possession,1,16,13,37, 190
+2018-11-02 11:34:43 +0000,0,Brazill,WD,Loss - Offside,1,16,13,81, 193
+2018-11-02 11:34:56 +0000,1,Hodges,GA,Possession,1,16,13,80, 193
+2018-11-02 11:35:04 +0000,1,Nelson,GS,Goal - Miss,1,16,13,47, 192
+2018-11-02 11:35:15 +0000,1,Hodges,GA,Deflect,1,16,13,50, 197
+2018-11-02 11:35:20 +0000,0,Layton,GK,Throw In,1,16,13,-3, 191
+2018-11-02 11:35:32 +0000,0,Brandley,GD,Possession,1,16,13,45, 177
+2018-11-02 11:35:33 +0000,0,Brown,C,Possession,1,16,13,33, 139
+2018-11-02 11:35:36 +0000,0,Brazill,WD,Possession,1,16,13,92, 78
+2018-11-02 11:35:41 +0000,0,Robinson,WA,Possession,1,16,13,91, 38
+2018-11-02 11:35:44 +0000,0,Thwaites,GS,Possession,1,16,13,85, 9
+2018-11-02 11:35:50 +0000,0,Robinson,WA,Possession,1,16,13,80, 18
+2018-11-02 11:35:52 +0000,0,Robinson,WA,Assist - Circle Entry,1,16,13,80, 18
+2018-11-02 11:35:52 +0000,0,Bell,GA,Goal - Score,1,16,13,65, 12
+2018-11-02 11:36:12 +0000,0,Brown,C,Centre Pass,1,17,13,50, 100
+2018-11-02 11:36:12 +0000,0,Brazill,WD,Loss - Bad Pass,1,17,13,49, 110
+2018-11-02 11:36:20 +0000,1,de Bruin,GK,Throw In,1,17,13,52, -3
+2018-11-02 11:36:24 +0000,1,Bryce,WD,Possession,1,17,13,92, 31
+2018-11-02 11:39:16 +0000,1,Msomi,C,Loss - Held Ball,2,17,13,50, 100
+2018-11-02 11:39:25 +0000,0,Brandley,GD,Possession,2,17,13,50, 97
+2018-11-02 11:39:30 +0000,0,Robinson,WA,Possession,2,17,13,88, 82
+2018-11-02 11:39:34 +0000,0,Brown,C,Possession,2,17,13,53, 58
+2018-11-02 11:39:36 +0000,0,Bell,GA,Possession,2,17,13,14, 45
+2018-11-02 11:39:50 +0000,1,Msomi,C,Penaly - Contact,2,17,13,21, 33
+2018-11-02 11:39:50 +0000,0,Brown,C,Possession,2,17,13,21, 33
+2018-11-02 11:40:01 +0000,0,Brown,C,Assist - Circle Entry,2,17,13,21, 33
+2018-11-02 11:40:01 +0000,0,Thwaites,GS,Loss - Bad Pass,2,17,13,57, 6
+2018-11-02 11:40:09 +0000,1,de Bruin,GK,Throw In,2,17,13,56, -5
+2018-11-02 11:40:15 +0000,1,Bryce,WD,Possession,2,17,13,63, 32
+2018-11-02 11:40:17 +0000,1,Msomi,C,Possession,2,17,13,77, 69
+2018-11-02 11:40:19 +0000,1,de Bruin,GK,Possession,2,17,13,13, 60
+2018-11-02 11:40:21 +0000,1,Bryce,WD,Possession,2,17,13,8, 88
+2018-11-02 11:40:26 +0000,0,Brazill,WD,Gain - Inter,2,17,13,11, 139
+2018-11-02 11:40:41 +0000,0,Layton,GK,Possession,2,17,13,26, 137
+2018-11-02 11:40:43 +0000,0,Brazill,WD,Possession,2,17,13,14, 126
+2018-11-02 11:40:48 +0000,0,Robinson,WA,Possession,2,17,13,68, 97
+2018-11-02 11:40:50 +0000,0,Brown,C,Possession,2,17,13,87, 70
+2018-11-02 11:40:52 +0000,0,Brazill,WD,Possession,2,17,13,69, 76
+2018-11-02 11:41:01 +0000,0,Bell,GA,Possession,2,17,13,7, 14
+2018-11-02 11:41:05 +0000,0,Bell,GA,Assist - Circle Entry,2,17,13,7, 14
+2018-11-02 11:41:05 +0000,0,Thwaites,GS,Goal - Score,2,17,13,45, 7
+2018-11-02 11:41:15 +0000,0,Brown,C,Centre Pass,2,18,13,50, 100
+2018-11-02 11:41:15 +0000,0,Bell,GA,Assist - Centre Pass Rec,2,18,13,81, 75
+2018-11-02 11:41:16 +0000,0,Robinson,WA,Assist - 2nd Phase,2,18,13,85, 23
+2018-11-02 11:41:20 +0000,0,Robinson,WA,Assist - Circle Entry,2,18,13,85, 23
+2018-11-02 11:41:20 +0000,0,Thwaites,GS,Possession,2,18,13,61, 2
+2018-11-02 11:41:21 +0000,1,de Bruin,GK,Penaly - Obstruction,2,18,13,61, 2
+2018-11-02 11:41:22 +0000,0,Thwaites,GS,Goal - Score,2,18,13,61, 2
+2018-11-02 11:42:16 +0000,1,Msomi,C,Centre Pass,2,19,13,50, 100
+2018-11-02 11:42:16 +0000,1,Pitman,WA,Assist - Centre Pass Rec,2,19,13,21, 125
+2018-11-02 11:42:42 +0000,0,Brazill,WD,Penaly - Contact,2,19,13,21, 125
+2018-11-02 11:42:42 +0000,1,Bryce,WD,Possession,2,19,13,21, 125
+2018-11-02 11:45:01 +0000,1,Pitman,WA,Possession,2,19,13,27, 161
+2018-11-02 11:45:03 +0000,1,Pitman,WA,Assist - Circle Entry,2,19,13,27, 161
+2018-11-02 11:45:03 +0000,1,Hodges,GA,Assist - 2nd Phase,2,19,13,25, 191
+2018-11-02 11:45:08 +0000,1,Nelson,GS,Possession,2,19,13,50, 185
+2018-11-02 11:45:12 +0000,0,Layton,GK,Penaly - Contact,2,19,13,50, 185
+2018-11-02 11:45:12 +0000,1,Hodges,GA,Goal - Score,2,19,13,50, 185
+2018-11-02 11:45:23 +0000,0,Brown,C,Centre Pass,2,19,14,50, 100
+2018-11-02 11:45:23 +0000,0,Robinson,WA,Assist - Centre Pass Rec,2,19,14,23, 87
+2018-11-02 11:45:26 +0000,0,Brazill,WD,Assist - 2nd Phase,2,19,14,85, 75
+2018-11-02 11:45:28 +0000,0,Brown,C,Possession,2,19,14,87, 51
+2018-11-02 11:45:30 +0000,0,Brazill,WD,Possession,2,19,14,87, 69
+2018-11-02 11:45:32 +0000,0,Robinson,WA,Possession,2,19,14,73, 59
+2018-11-02 11:45:34 +0000,0,Bell,GA,Possession,2,19,14,83, 11
+2018-11-02 11:45:37 +0000,0,Bell,GA,Assist - Circle Entry,2,19,14,83, 11
+2018-11-02 11:45:37 +0000,0,Thwaites,GS,Possession,2,19,14,59, 8
+2018-11-02 11:45:39 +0000,1,Fowler,GD,Penaly - Contact,2,19,14,59, 8
+2018-11-02 11:45:39 +0000,0,Thwaites,GS,Goal - Score,2,19,14,59, 8
+2018-11-02 11:45:47 +0000,1,Msomi,C,Centre Pass,2,20,14,50, 100
+2018-11-02 11:45:47 +0000,1,Bryce,WD,Assist - Centre Pass Rec,2,20,14,29, 125
+2018-11-02 11:45:49 +0000,1,Pitman,WA,Assist - 2nd Phase,2,20,14,39, 140
+2018-11-02 11:45:52 +0000,1,Pitman,WA,Assist - Circle Entry,2,20,14,39, 140
+2018-11-02 11:45:52 +0000,1,Nelson,GS,Goal - Miss,2,20,14,48, 185
+2018-11-02 11:45:56 +0000,1,Nelson,GS,Assist - Attack Rebound,2,20,14,50, 197
+2018-11-02 11:45:57 +0000,1,Nelson,GS,Goal - Score,2,20,14,48, 185
+2018-11-02 11:46:03 +0000,0,Brown,C,Centre Pass,2,20,15,50, 100
+2018-11-02 11:46:03 +0000,0,Bell,GA,Assist - Centre Pass Rec,2,20,15,81, 81
+2018-11-02 11:46:04 +0000,0,Robinson,WA,Assist - 2nd Phase,2,20,15,80, 31
+2018-11-02 11:46:11 +0000,0,Thwaites,GS,Loss - Off Contact,2,20,15,66, 14
+2018-11-02 11:46:11 +0000,1,de Bruin,GK,Gain - Opp Cont,2,20,15,66, 14
+2018-11-02 11:46:40 +0000,1,Bryce,WD,Possession,2,20,15,61, 34
+2018-11-02 11:46:42 +0000,1,Msomi,C,Possession,2,20,15,66, 70
+2018-11-02 11:46:45 +0000,1,Hodges,GA,Possession,2,20,15,8, 115
+2018-11-02 11:46:47 +0000,1,Pitman,WA,Possession,2,20,15,37, 140
+2018-11-02 11:46:49 +0000,1,Msomi,C,Possession,2,20,15,66, 140
+2018-11-02 11:47:31 +0000,1,Hodges,GA,Possession,2,20,15,49, 149
+2018-11-02 11:47:34 +0000,1,Hodges,GA,Assist - Circle Entry,2,20,15,49, 149
+2018-11-02 11:47:34 +0000,1,Nelson,GS,Possession,2,20,15,51, 187
+2018-11-02 11:47:37 +0000,0,Layton,GK,Penaly - Contact,2,20,15,51, 187
+2018-11-02 11:47:37 +0000,1,Nelson,GS,Goal - Score,2,20,15,51, 187
+2018-11-02 11:47:58 +0000,1,Msomi,C,Centre Pass,2,20,16,50, 100
+2018-11-02 11:47:58 +0000,0,Robinson,WA,Gain - Tip (Deflect),2,20,16,31, 108
+2018-11-02 11:48:13 +0000,0,Brandley,GD,Possession,2,20,16,23, 129
+2018-11-02 11:48:18 +0000,0,Brazill,WD,Possession,2,20,16,70, 97
+2018-11-02 11:48:20 +0000,0,Brandley,GD,Possession,2,20,16,51, 71
+2018-11-02 11:48:22 +0000,0,Bell,GA,Possession,2,20,16,78, 35
+2018-11-02 11:48:25 +0000,0,Brown,C,Possession,2,20,16,13, 9
+2018-11-02 11:48:28 +0000,0,Robinson,WA,Possession,2,20,16,80, 16
+2018-11-02 11:48:30 +0000,0,Robinson,WA,Assist - Circle Entry,2,20,16,80, 16
+2018-11-02 11:48:30 +0000,0,Bell,GA,Possession,2,20,16,53, 6
+2018-11-02 11:48:32 +0000,1,de Bruin,GK,Penaly - Obstruction,2,20,16,53, 6
+2018-11-02 11:48:32 +0000,0,Bell,GA,Goal - Score,2,20,16,53, 6
+2018-11-02 11:48:42 +0000,0,Brown,C,Centre Pass,2,21,16,50, 100
+2018-11-02 11:48:43 +0000,0,Robinson,WA,Assist - Centre Pass Rec,2,21,16,60, 78
+2018-11-02 11:48:44 +0000,0,Bell,GA,Assist - 2nd Phase,2,21,16,80, 45
+2018-11-02 11:48:47 +0000,0,Brazill,WD,Possession,2,21,16,63, 69
+2018-11-02 11:48:49 +0000,0,Robinson,WA,Possession,2,21,16,3, 47
+2018-11-02 11:48:51 +0000,0,Thwaites,GS,Possession,2,21,16,14, 13
+2018-11-02 11:48:53 +0000,0,Brown,C,Possession,2,21,16,44, 33
+2018-11-02 11:48:56 +0000,0,Brown,C,Assist - Circle Entry,2,21,16,44, 33
+2018-11-02 11:48:56 +0000,0,Bell,GA,Possession,2,21,16,44, 22
+2018-11-02 11:48:57 +0000,1,de Bruin,GK,Penaly - Contact,2,21,16,44, 22
+2018-11-02 11:48:57 +0000,0,Bell,GA,Goal - Miss,2,21,16,44, 22
+2018-11-02 11:49:04 +0000,0,Thwaites,GS,Assist - Attack Rebound,2,21,16,50, 2
+2018-11-02 11:49:05 +0000,0,Thwaites,GS,Goal - Score,2,21,16,44, 22
+2018-11-02 11:49:11 +0000,1,Msomi,C,Centre Pass,2,22,16,50, 100
+2018-11-02 11:49:11 +0000,1,Pitman,WA,Assist - Centre Pass Rec,2,22,16,82, 113
+2018-11-02 11:49:15 +0000,1,Hodges,GA,Assist - 2nd Phase,2,22,16,16, 178
+2018-11-02 11:49:17 +0000,1,Msomi,C,Possession,2,22,16,30, 169
+2018-11-02 11:49:24 +0000,0,Brandley,GD,Penaly - Contact,2,22,16,38, 175
+2018-11-02 11:49:24 +0000,1,Hodges,GA,Goal - Score,2,22,16,38, 175
+2018-11-02 11:49:39 +0000,0,Brown,C,Centre Pass,2,22,17,50, 100
+2018-11-02 11:49:39 +0000,0,Brazill,WD,Assist - Centre Pass Rec,2,22,17,70, 82
+2018-11-02 11:49:42 +0000,0,Robinson,WA,Assist - 2nd Phase,2,22,17,90, 34
+2018-11-02 11:49:44 +0000,0,Bell,GA,Possession,2,22,17,84, 9
+2018-11-02 11:49:46 +0000,0,Robinson,WA,Possession,2,22,17,81, 17
+2018-11-02 11:49:49 +0000,0,Robinson,WA,Assist - Circle Entry,2,22,17,81, 17
+2018-11-02 11:49:49 +0000,0,Thwaites,GS,Possession,2,22,17,47, 14
+2018-11-02 11:49:54 +0000,1,de Bruin,GK,Penaly - Contact,2,22,17,47, 14
+2018-11-02 11:49:54 +0000,0,Thwaites,GS,Goal - Score,2,22,17,47, 14
+2018-11-02 11:50:07 +0000,1,Msomi,C,Centre Pass,2,23,17,50, 100
+2018-11-02 11:50:07 +0000,1,Hodges,GA,Assist - Centre Pass Rec,2,23,17,71, 109
+2018-11-02 11:50:11 +0000,0,Brandley,GD,Penaly - Contact,2,23,17,71, 109
+2018-11-02 11:50:11 +0000,1,Bryce,WD,Possession,2,23,17,71, 109
+2018-11-02 11:50:21 +0000,1,Pitman,WA,Possession,2,23,17,47, 126
+2018-11-02 11:50:23 +0000,1,Msomi,C,Possession,2,23,17,45, 145
+2018-11-02 11:50:25 +0000,0,Brown,C,Penaly - Contact,2,23,17,45, 145
+2018-11-02 11:50:25 +0000,1,Pitman,WA,Possession,2,23,17,45, 145
+2018-11-02 11:50:29 +0000,1,Msomi,C,Possession,2,23,17,14, 189
+2018-11-02 11:50:32 +0000,1,Msomi,C,Assist - Circle Entry,2,23,17,14, 189
+2018-11-02 11:50:32 +0000,1,Nelson,GS,Assist - 2nd Phase,2,23,17,50, 183
+2018-11-02 11:50:34 +0000,0,Brandley,GD,Penaly - Obstruction,2,23,17,50, 183
+2018-11-02 11:50:34 +0000,1,Nelson,GS,Goal - Score,2,23,17,50, 183
+2018-11-02 11:50:41 +0000,0,Brown,C,Centre Pass,2,23,18,50, 100
+2018-11-02 11:50:41 +0000,0,Robinson,WA,Assist - Centre Pass Rec,2,23,18,20, 94
+2018-11-02 11:50:43 +0000,0,Robinson,WA,Assist - 2nd Phase,2,23,18,8, 50
+2018-11-02 11:50:45 +0000,0,Thwaites,GS,Possession,2,23,18,34, 48
+2018-11-02 11:50:51 +0000,1,Fowler,GD,Penaly - Contact,2,23,18,62, 10
+2018-11-02 11:50:51 +0000,0,Bell,GA,Goal - Score,2,23,18,62, 10
+2018-11-02 11:51:04 +0000,1,Msomi,C,Centre Pass,2,24,18,50, 100
+2018-11-02 11:51:04 +0000,1,Pitman,WA,Assist - Centre Pass Rec,2,24,18,82, 112
+2018-11-02 11:51:06 +0000,1,Hodges,GA,Assist - 2nd Phase,2,24,18,51, 124
+2018-11-02 11:51:08 +0000,1,Msomi,C,Possession,2,24,18,19, 140
+2018-11-02 11:51:12 +0000,0,Brown,C,Penaly - Contact,2,24,18,19, 140
+2018-11-02 11:51:12 +0000,1,Msomi,C,Possession,2,24,18,19, 140
+2018-11-02 11:51:15 +0000,1,Msomi,C,Assist - Circle Entry,2,24,18,19, 140
+2018-11-02 11:51:15 +0000,1,Nelson,GS,Goal - Score,2,24,18,46, 188
+2018-11-02 11:51:26 +0000,0,Brown,C,Centre Pass,2,24,19,50, 100
+2018-11-02 11:51:26 +0000,0,Robinson,WA,Assist - Centre Pass Rec,2,24,19,24, 87
+2018-11-02 11:51:31 +0000,0,Brazill,WD,Assist - 2nd Phase,2,24,19,69, 68
+2018-11-02 11:51:34 +0000,0,Robinson,WA,Possession,2,24,19,74, 40
+2018-11-02 11:51:36 +0000,0,Thwaites,GS,Possession,2,24,19,85, 8
+2018-11-02 11:51:41 +0000,0,Brown,C,Possession,2,24,19,14, 9
+2018-11-02 11:51:45 +0000,0,Brown,C,Assist - Circle Entry,2,24,19,14, 9
+2018-11-02 11:51:45 +0000,0,Thwaites,GS,Possession,2,24,19,28, 11
+2018-11-02 11:51:47 +0000,0,Brown,C,Possession,2,24,19,15, 9
+2018-11-02 11:51:52 +0000,0,Brown,C,Assist - Circle Entry,2,24,19,15, 9
+2018-11-02 11:51:52 +0000,0,Thwaites,GS,Possession,2,24,19,34, 7
+2018-11-02 11:51:53 +0000,1,Fowler,GD,Penaly - Contact,2,24,19,34, 7
+2018-11-02 11:51:53 +0000,0,Thwaites,GS,Possession,2,24,19,34, 7
+2018-11-02 11:52:02 +0000,0,Bell,GA,Goal - Score,2,24,19,55, 4
+2018-11-02 11:52:18 +0000,1,Msomi,C,Centre Pass,2,25,19,50, 100
+2018-11-02 11:52:18 +0000,0,Bell,GA,Loss - Break,2,25,19,28, 129
+2018-11-02 11:52:18 +0000,1,Bryce,WD,Possession,2,25,19,28, 129
+2018-11-02 11:52:38 +0000,1,Pitman,WA,Assist - 2nd Phase,2,25,19,37, 143
+2018-11-02 11:52:41 +0000,1,Msomi,C,Possession,2,25,19,64, 142
+2018-11-02 11:52:44 +0000,1,Pitman,WA,Possession,2,25,19,43, 153
+2018-11-02 11:52:47 +0000,0,Brazill,WD,Penaly - Contact,2,25,19,43, 153
+2018-11-02 11:52:47 +0000,1,Pitman,WA,Possession,2,25,19,43, 153
+2018-11-02 11:52:51 +0000,1,Pitman,WA,Assist - Circle Entry,2,25,19,43, 153
+2018-11-02 11:52:51 +0000,1,Hodges,GA,Possession,2,25,19,49, 170
+2018-11-02 11:52:56 +0000,1,Pitman,WA,Possession,2,25,19,47, 162
+2018-11-02 11:52:58 +0000,0,Brazill,WD,Penaly - Contact,2,25,19,47, 162
+2018-11-02 11:52:58 +0000,1,Pitman,WA,Possession,2,25,19,47, 162
+2018-11-02 11:53:04 +0000,0,Layton,GK,Penaly - Obstruction,2,25,19,44, 174
+2018-11-02 11:53:04 +0000,1,Hodges,GA,Possession,2,25,19,44, 174
+2018-11-02 11:53:14 +0000,1,Nelson,GS,Goal - Score,2,25,19,52, 191
+2018-11-02 11:53:21 +0000,0,Brown,C,Centre Pass,2,25,20,50, 100
+2018-11-02 11:53:21 +0000,0,Robinson,WA,Assist - Centre Pass Rec,2,25,20,68, 73
+2018-11-02 11:53:25 +0000,0,Bell,GA,Assist - 2nd Phase,2,25,20,86, 46
+2018-11-02 11:53:29 +0000,0,Brown,C,Possession,2,25,20,86, 11
+2018-11-02 11:53:31 +0000,0,Brown,C,Assist - Circle Entry,2,25,20,86, 11
+2018-11-02 11:53:31 +0000,0,Thwaites,GS,Possession,2,25,20,64, 9
+2018-11-02 11:53:34 +0000,0,Robinson,WA,Possession,2,25,20,13, 7
+2018-11-02 11:53:36 +0000,1,Bryce,WD,Penaly - Contact,2,25,20,13, 7
+2018-11-02 11:53:36 +0000,0,Robinson,WA,Possession,2,25,20,13, 7
+2018-11-02 11:53:44 +0000,1,de Bruin,GK,Penaly - Obstruction,2,25,20,23, 9
+2018-11-02 11:53:44 +0000,0,Bell,GA,Loss - Unknown,2,25,20,23, 9
+2018-11-02 11:56:53 +0000,1,de Bruin,GK,Possession,2,25,20,24, 9
+2018-11-02 11:57:06 +0000,1,Bryce,WD,Possession,2,25,20,5, 70
+2018-11-02 11:57:08 +0000,1,Msomi,C,Possession,2,25,20,9, 90
+2018-11-02 11:57:14 +0000,0,Brazill,WD,Penaly - Contact,2,25,20,15, 129
+2018-11-02 11:57:14 +0000,1,Msomi,C,Possession,2,25,20,15, 129
+2018-11-02 11:57:22 +0000,1,Pitman,WA,Possession,2,25,20,29, 163
+2018-11-02 11:57:30 +0000,0,Brandley,GD,Penaly - Contact,2,25,20,36, 171
+2018-11-02 11:57:30 +0000,1,Hodges,GA,Possession,2,25,20,36, 171
+2018-11-02 11:57:38 +0000,1,Nelson,GS,Possession,2,25,20,53, 189
+2018-11-02 11:57:40 +0000,0,Layton,GK,Penaly - Obstruction,2,25,20,53, 189
+2018-11-02 11:57:40 +0000,1,Nelson,GS,Goal - Score,2,25,20,53, 189
+2018-11-02 11:57:49 +0000,0,,UNKNOWN,Timeout,2,25,21,110, 222
+2018-11-02 11:58:36 +0000,1,Msomi,C,Centre Pass,2,25,21,50, 100
+2018-11-02 11:58:36 +0000,1,Pitman,WA,Assist - Centre Pass Rec,2,25,21,51, 116
+2018-11-02 11:58:38 +0000,1,Hodges,GA,Assist - 2nd Phase,2,25,21,7, 136
+2018-11-02 11:58:54 +0000,0,Brazill,WD,Gain - Inter,2,25,21,21, 133
+2018-11-02 11:59:01 +0000,0,Layton,GK,Possession,2,25,21,58, 137
+2018-11-02 11:59:04 +0000,0,Brazill,WD,Possession,2,25,21,58, 111
+2018-11-02 11:59:05 +0000,0,Robinson,WA,Possession,2,25,21,19, 116
+2018-11-02 11:59:08 +0000,0,Brown,C,Possession,2,25,21,78, 55
+2018-11-02 11:59:10 +0000,0,Robinson,WA,Possession,2,25,21,84, 9
+2018-11-02 11:59:12 +0000,0,Robinson,WA,Possession,2,25,21,15, 11
+2018-11-02 11:59:17 +0000,0,Robinson,WA,Assist - Circle Entry,2,25,21,15, 11
+2018-11-02 11:59:17 +0000,0,Bell,GA,Possession,2,25,21,27, 7
+2018-11-02 11:59:19 +0000,0,Robinson,WA,Possession,2,25,21,15, 9
+2018-11-02 11:59:21 +0000,0,Robinson,WA,Assist - Circle Entry,2,25,21,15, 9
+2018-11-02 11:59:21 +0000,0,Bell,GA,Goal - Miss,2,25,21,33, 6
+2018-11-02 11:59:30 +0000,1,de Bruin,GK,Gain - Def Reb,2,25,21,50, 2
+2018-11-02 11:59:33 +0000,1,Msomi,C,Possession,2,25,21,18, 24
+2018-11-02 11:59:36 +0000,1,de Bruin,GK,Possession,2,25,21,25, 25
+2018-11-02 12:00:32 +0000,1,Fowler,GD,Possession,2,25,21,51, 102
+2018-11-02 12:00:56 +0000,0,Brazill,WD,Gain - Inter,2,25,21,84, 168
+2018-11-02 12:01:07 +0000,0,Layton,GK,Possession,2,25,21,81, 134
+2018-11-02 12:01:11 +0000,0,Brandley,GD,Possession,2,25,21,81, 110
+2018-11-02 12:01:13 +0000,0,Robinson,WA,Possession,2,25,21,67, 94
+2018-11-02 12:01:23 +0000,0,Brazill,WD,Possession,2,25,21,9, 67
+2018-11-02 12:01:25 +0000,1,Pitman,WA,Penaly - Obstruction,2,25,21,9, 67
+2018-11-02 12:01:25 +0000,0,Brazill,WD,Possession,2,25,21,9, 67
+2018-11-02 12:01:37 +0000,0,Robinson,WA,Possession,2,25,21,15, 46
+2018-11-02 12:01:39 +0000,0,Brown,C,Possession,2,25,21,50, 49
+2018-11-02 12:01:42 +0000,0,Robinson,WA,Possession,2,25,21,17, 23
+2018-11-02 12:01:44 +0000,0,Robinson,WA,Assist - Circle Entry,2,25,21,17, 23
+2018-11-02 12:01:45 +0000,0,Thwaites,GS,Goal - Score,2,25,21,53, 4
+2018-11-02 12:02:24 +0000,1,,UNKNOWN,Timeout,2,26,21,110, 222
+2018-11-02 12:02:48 +0000,0,Brown,C,Centre Pass,2,26,21,50, 100
+2018-11-02 12:02:48 +0000,0,Robinson,WA,Assist - Centre Pass Rec,2,26,21,72, 94
+2018-11-02 12:02:51 +0000,0,Bell,GA,Assist - 2nd Phase,2,26,21,83, 45
+2018-11-02 12:02:53 +0000,0,Brown,C,Possession,2,26,21,88, 13
+2018-11-02 12:02:55 +0000,0,Brown,C,Assist - Circle Entry,2,26,21,88, 13
+2018-11-02 12:02:55 +0000,0,Bell,GA,Goal - Score,2,26,21,47, 7
+2018-11-02 12:03:05 +0000,1,Msomi,C,Centre Pass,2,27,21,50, 100
+2018-11-02 12:03:05 +0000,1,Hodges,GA,Assist - Centre Pass Rec,2,27,21,11, 103
+2018-11-02 12:03:14 +0000,0,Robinson,WA,Penaly - Contact,2,27,21,25, 114
+2018-11-02 12:03:15 +0000,1,Bryce,WD,Assist - 2nd Phase,2,27,21,25, 114
+2018-11-02 12:03:22 +0000,1,Msomi,C,Possession,2,27,21,16, 135
+2018-11-02 12:03:28 +0000,1,Fowler,GD,Possession,2,27,21,50, 104
+2018-11-02 12:03:30 +0000,1,Msomi,C,Possession,2,27,21,9, 119
+2018-11-02 12:03:33 +0000,1,Bryce,WD,Possession,2,27,21,20, 108
+2018-11-02 12:03:38 +0000,1,Fowler,GD,Possession,2,27,21,65, 98
+2018-11-02 12:03:40 +0000,1,Bryce,WD,Possession,2,27,21,10, 127
+2018-11-02 12:03:45 +0000,1,Bryce,WD,Assist - Circle Entry,2,27,21,10, 127
+2018-11-02 12:03:45 +0000,0,Layton,GK,Gain - Inter,2,27,21,35, 185
+2018-11-02 12:03:54 +0000,0,Brandley,GD,Possession,2,27,21,29, 176
+2018-11-02 12:03:58 +0000,0,Brown,C,Possession,2,27,21,40, 127
+2018-11-02 12:04:01 +0000,0,Brandley,GD,Possession,2,27,21,46, 101
+2018-11-02 12:04:03 +0000,0,Bell,GA,Possession,2,27,21,66, 55
+2018-11-02 12:04:11 +0000,1,de Bruin,GK,Penaly - Contact,2,27,21,50, 14
+2018-11-02 12:04:11 +0000,0,Thwaites,GS,Goal - Score,2,27,21,50, 14
+2018-11-02 12:04:32 +0000,0,Brown,C,Centre Pass,2,28,21,50, 100
+2018-11-02 12:04:32 +0000,0,Brandley,GD,Assist - Centre Pass Rec,2,28,21,69, 105
+2018-11-02 12:04:35 +0000,0,Robinson,WA,Assist - 2nd Phase,2,28,21,46, 83
+2018-11-02 12:04:36 +0000,0,Brown,C,Possession,2,28,21,19, 61
+2018-11-02 12:04:41 +0000,0,Bell,GA,Loss - Bad Pass,2,28,21,6, 32
+2018-11-02 12:04:46 +0000,1,de Bruin,GK,Throw In,2,28,21,-4, 39
+2018-11-02 12:04:55 +0000,1,Bryce,WD,Possession,2,28,21,27, 43
+2018-11-02 12:04:57 +0000,1,Msomi,C,Possession,2,28,21,71, 77
+2018-11-02 12:05:01 +0000,0,Bell,GA,Penaly - Contact,2,28,21,55, 90
+2018-11-02 12:05:01 +0000,1,Bryce,WD,Possession,2,28,21,55, 90
+2018-11-02 12:05:14 +0000,1,Msomi,C,Possession,2,28,21,55, 136
+2018-11-02 12:05:15 +0000,1,Hodges,GA,Possession,2,28,21,31, 152
+2018-11-02 12:05:18 +0000,1,Hodges,GA,Assist - Circle Entry,2,28,21,31, 152
+2018-11-02 12:05:18 +0000,1,Nelson,GS,Possession,2,28,21,51, 186
+2018-11-02 12:05:20 +0000,0,Brandley,GD,Penaly - Obstruction,2,28,21,51, 186
+2018-11-02 12:05:20 +0000,1,Nelson,GS,Goal - Score,2,28,21,51, 186
+2018-11-02 12:05:32 +0000,1,Msomi,C,Centre Pass,2,28,22,50, 100
+2018-11-02 12:05:32 +0000,1,Pitman,WA,Assist - Centre Pass Rec,2,28,22,66, 124
+2018-11-02 12:05:34 +0000,1,Msomi,C,Assist - 2nd Phase,2,28,22,43, 125
+2018-11-02 12:05:38 +0000,1,Fowler,GD,Possession,2,28,22,11, 103
+2018-11-02 12:05:42 +0000,1,Bryce,WD,Possession,2,28,22,12, 122
+2018-11-02 12:05:46 +0000,1,Pitman,WA,Possession,2,28,22,20, 176
+2018-11-02 12:05:49 +0000,1,Pitman,WA,Assist - Circle Entry,2,28,22,20, 176
+2018-11-02 12:05:49 +0000,1,Nelson,GS,Goal - Score,2,28,22,49, 184
+2018-11-02 12:06:06 +0000,0,Brown,C,Centre Pass,2,28,23,50, 100
+2018-11-02 12:06:06 +0000,0,Robinson,WA,Loss - Step,2,28,23,66, 87
+2018-11-02 12:06:18 +0000,1,Bryce,WD,Possession,2,28,23,67, 88
+2018-11-02 12:06:20 +0000,1,Fowler,GD,Possession,2,28,23,13, 99
+2018-11-02 12:06:23 +0000,1,Bryce,WD,Possession,2,28,23,80, 104
+2018-11-02 12:06:25 +0000,1,Bryce,WD,Possession,2,28,23,90, 125
+2018-11-02 12:06:27 +0000,1,Pitman,WA,Possession,2,28,23,91, 168
+2018-11-02 12:06:30 +0000,0,Brazill,WD,Penaly - Contact,2,28,23,91, 168
+2018-11-02 12:06:30 +0000,1,Pitman,WA,Possession,2,28,23,91, 168
+2018-11-02 12:06:39 +0000,1,Pitman,WA,Assist - Circle Entry,2,28,23,91, 168
+2018-11-02 12:06:39 +0000,0,Layton,GK,Gain - Inter,2,28,23,45, 185
+2018-11-02 12:06:48 +0000,0,Brandley,GD,Possession,2,28,23,28, 166
+2018-11-02 12:06:50 +0000,0,Brazill,WD,Possession,2,28,23,3, 145
+2018-11-02 12:06:53 +0000,0,Brandley,GD,Possession,2,28,23,93, 145
+2018-11-02 12:06:55 +0000,0,Brandley,GD,Possession,2,28,23,89, 111
+2018-11-02 12:06:58 +0000,0,Robinson,WA,Possession,2,28,23,63, 113
+2018-11-02 12:07:03 +0000,0,Brown,C,Possession,2,28,23,16, 50
+2018-11-02 12:07:05 +0000,0,Bell,GA,Possession,2,28,23,75, 30
+2018-11-02 12:07:08 +0000,0,Bell,GA,Assist - Circle Entry,2,28,23,75, 30
+2018-11-02 12:07:08 +0000,0,Thwaites,GS,Possession,2,28,23,39, 20
+2018-11-02 12:07:10 +0000,0,Brown,C,Possession,2,28,23,37, 31
+2018-11-02 12:07:12 +0000,1,Msomi,C,Penaly - Obstruction,2,28,23,37, 31
+2018-11-02 12:07:12 +0000,0,Brown,C,Possession,2,28,23,37, 31
+2018-11-02 12:07:16 +0000,0,Brown,C,Assist - Circle Entry,2,28,23,37, 31
+2018-11-02 12:07:17 +0000,0,Bell,GA,Goal - Score,2,28,23,41, 5
+2018-11-02 12:07:25 +0000,1,Msomi,C,Centre Pass,2,29,23,50, 100
+2018-11-02 12:07:25 +0000,1,Fowler,GD,Assist - Centre Pass Rec,2,29,23,91, 118
+2018-11-02 12:07:27 +0000,1,Hodges,GA,Assist - 2nd Phase,2,29,23,83, 145
+2018-11-02 12:07:30 +0000,1,Hodges,GA,Assist - Circle Entry,2,29,23,83, 145
+2018-11-02 12:07:30 +0000,0,Layton,GK,Gain - Inter,2,29,23,59, 185
+2018-11-02 12:07:47 +0000,1,Nelson,GS,Penaly - Obstruction,2,29,23,59, 185
+2018-11-02 12:07:48 +0000,0,Layton,GK,Possession,2,29,23,59, 185
+2018-11-02 12:07:54 +0000,0,Brazill,WD,Possession,2,29,23,45, 145
+2018-11-02 12:07:57 +0000,0,Robinson,WA,Possession,2,29,23,75, 108
+2018-11-02 12:08:01 +0000,1,Bryce,WD,Penaly - Contact,2,29,23,75, 108
+2018-11-02 12:08:01 +0000,0,Brazill,WD,Possession,2,29,23,75, 108
+2018-11-02 12:08:19 +0000,0,Robinson,WA,Possession,2,29,23,88, 39
+2018-11-02 12:08:24 +0000,0,Brown,C,Possession,2,29,23,66, 51
+2018-11-02 12:08:27 +0000,1,Msomi,C,Penaly - Obstruction,2,29,23,66, 51
+2018-11-02 12:08:27 +0000,0,Brown,C,Possession,2,29,23,66, 51
+2018-11-02 12:08:32 +0000,0,Robinson,WA,Possession,2,29,23,69, 26
+2018-11-02 12:09:49 +0000,0,Robinson,WA,Assist - Circle Entry,2,29,23,69, 26
+2018-11-02 12:09:50 +0000,0,Thwaites,GS,Goal - Score,2,29,23,43, 6
+2018-11-02 12:10:00 +0000,0,Brown,C,Centre Pass,2,30,23,50, 100
+2018-11-02 12:10:00 +0000,0,Robinson,WA,Assist - Centre Pass Rec,2,30,23,6, 74
+2018-11-02 12:10:02 +0000,0,Bell,GA,Assist - 2nd Phase,2,30,23,7, 37
+2018-11-02 12:10:04 +0000,0,Robinson,WA,Possession,2,30,23,24, 50
+2018-11-02 12:10:06 +0000,0,Robinson,WA,Assist - Circle Entry,2,30,23,24, 50
+2018-11-02 12:10:07 +0000,0,Thwaites,GS,Possession,2,30,23,39, 11
+2018-11-02 12:10:08 +0000,1,de Bruin,GK,Penaly - Obstruction,2,30,23,39, 11
+2018-11-02 12:10:09 +0000,0,Thwaites,GS,Goal - Score,2,30,23,39, 11
+2018-11-02 12:10:16 +0000,1,Msomi,C,Centre Pass,2,31,23,50, 100
+2018-11-02 12:10:16 +0000,1,Hodges,GA,Assist - Centre Pass Rec,2,31,23,19, 121
+2018-11-02 12:10:20 +0000,1,Pitman,WA,Assist - 2nd Phase,2,31,23,35, 116
+2018-11-02 12:10:24 +0000,0,Brazill,WD,Penaly - Contact,2,31,23,35, 116
+2018-11-02 12:10:24 +0000,1,Bryce,WD,Possession,2,31,23,35, 116
+2018-11-02 12:10:30 +0000,1,Pitman,WA,Possession,2,31,23,15, 150
+2018-11-02 12:10:36 +0000,0,Brandley,GD,Penaly - Contact,2,31,23,22, 172
+2018-11-02 12:10:36 +0000,1,Pitman,WA,Possession,2,31,23,22, 172
+2018-11-02 12:10:44 +0000,1,Pitman,WA,Assist - Circle Entry,2,31,23,22, 172
+2018-11-02 12:10:44 +0000,1,Hodges,GA,Possession,2,31,23,40, 181
+2018-11-02 12:10:47 +0000,0,Layton,GK,Penaly - Obstruction,2,31,23,40, 181
+2018-11-02 12:10:47 +0000,1,Hodges,GA,Goal - Score,2,31,23,40, 181
+2018-11-02 12:10:56 +0000,0,Brown,C,Centre Pass,2,31,24,50, 100
+2018-11-02 12:10:57 +0000,0,Bell,GA,Assist - Centre Pass Rec,2,31,24,8, 81
+2018-11-02 12:10:59 +0000,0,Robinson,WA,Assist - 2nd Phase,2,31,24,5, 54
+2018-11-02 12:11:10 +0000,0,Brown,C,Possession,2,31,24,8, 26
+2018-11-02 12:11:11 +0000,1,Msomi,C,Penaly - Contact,2,31,24,8, 26
+2018-11-02 12:11:11 +0000,0,Brown,C,Possession,2,31,24,8, 26
+2018-11-02 12:11:19 +0000,0,Brown,C,Assist - Circle Entry,2,31,24,8, 26
+2018-11-02 12:11:19 +0000,0,Bell,GA,Possession,2,31,24,26, 14
+2018-11-02 12:11:22 +0000,0,Robinson,WA,Possession,2,31,24,86, 10
+2018-11-02 12:11:26 +0000,1,Bryce,WD,Penaly - Contact,2,31,24,86, 10
+2018-11-02 12:11:26 +0000,0,Robinson,WA,Possession,2,31,24,86, 10
+2018-11-02 12:11:33 +0000,0,Robinson,WA,Assist - Circle Entry,2,31,24,86, 10
+2018-11-02 12:11:33 +0000,0,Thwaites,GS,Goal - Score,2,31,24,50, 15
+2018-11-02 12:11:43 +0000,1,Msomi,C,Centre Pass,2,32,24,50, 100
+2018-11-02 12:11:43 +0000,1,Pitman,WA,Assist - Centre Pass Rec,2,32,24,69, 106
+2018-11-02 12:11:45 +0000,1,Msomi,C,Assist - 2nd Phase,2,32,24,49, 125
+2018-11-02 12:11:48 +0000,1,Fowler,GD,Possession,2,32,24,47, 99
+2018-11-02 12:11:52 +0000,1,Msomi,C,Possession,2,32,24,54, 126
+2018-11-02 12:11:56 +0000,1,Msomi,C,Possession,2,32,24,85, 146
+2018-11-02 12:11:58 +0000,1,Pitman,WA,Possession,2,32,24,48, 144
+2018-11-02 12:12:00 +0000,1,Pitman,WA,Possession,2,32,24,73, 160
+2018-11-02 12:12:03 +0000,1,Pitman,WA,Possession,2,32,24,67, 167
+2018-11-02 12:12:05 +0000,1,Pitman,WA,Assist - Circle Entry,2,32,24,67, 167
+2018-11-02 12:12:05 +0000,1,Nelson,GS,Goal - Score,2,32,24,51, 193
+2018-11-02 12:12:14 +0000,0,Brown,C,Centre Pass,2,32,25,50, 100
+2018-11-02 12:12:14 +0000,0,Brazill,WD,Assist - Centre Pass Rec,2,32,25,3, 80
+2018-11-02 12:12:16 +0000,0,Robinson,WA,Assist - 2nd Phase,2,32,25,19, 51
+2018-11-02 12:12:18 +0000,0,Brown,C,Possession,2,32,25,83, 16
+2018-11-02 12:12:25 +0000,0,Brown,C,Assist - Circle Entry,2,32,25,83, 16
+2018-11-02 12:12:25 +0000,1,de Bruin,GK,Gain - Tip (Deflect),2,32,25,72, 11
+2018-11-02 12:12:34 +0000,1,Bryce,WD,Possession,2,32,25,85, 15
+2018-11-02 12:12:36 +0000,0,Brown,C,Penaly - Contact,2,32,25,85, 15
+2018-11-02 12:12:36 +0000,1,de Bruin,GK,Possession,2,32,25,85, 15
+2018-11-02 12:12:49 +0000,1,Msomi,C,Possession,2,32,25,10, 75
+2018-11-02 12:12:53 +0000,0,Robinson,WA,Penaly - Contact,2,32,25,19, 105
+2018-11-02 12:12:53 +0000,1,Bryce,WD,Possession,2,32,25,19, 105
+2018-11-02 12:13:01 +0000,1,Fowler,GD,Possession,2,32,25,74, 125
+2018-11-02 12:13:03 +0000,1,Pitman,WA,Possession,2,32,25,72, 142
+2018-11-02 12:13:05 +0000,1,Bryce,WD,Possession,2,32,25,48, 128
+2018-11-02 12:13:08 +0000,1,Hodges,GA,Possession,2,32,25,49, 154
+2018-11-02 12:13:14 +0000,1,Hodges,GA,Assist - Circle Entry,2,32,25,49, 154
+2018-11-02 12:13:14 +0000,1,Nelson,GS,Possession,2,32,25,49, 188
+2018-11-02 12:13:16 +0000,0,Brandley,GD,Penaly - Contact,2,32,25,49, 188
+2018-11-02 12:13:16 +0000,1,Hodges,GA,Goal - Score,2,32,25,49, 188
+2018-11-02 12:13:30 +0000,1,Msomi,C,Centre Pass,2,32,26,50, 100
+2018-11-02 12:13:31 +0000,1,Fowler,GD,Assist - Centre Pass Rec,2,32,26,28, 76
+2018-11-02 12:13:33 +0000,1,Bryce,WD,Assist - 2nd Phase,2,32,26,56, 115
+2018-11-02 12:13:35 +0000,1,Msomi,C,Possession,2,32,26,29, 125
+2018-11-02 12:13:37 +0000,1,Hodges,GA,Possession,2,32,26,82, 149
+2018-11-02 12:13:41 +0000,1,Hodges,GA,Assist - Circle Entry,2,32,26,82, 149
+2018-11-02 12:13:41 +0000,1,Nelson,GS,Goal - Score,2,32,26,45, 189
+2018-11-02 12:13:48 +0000,0,Brown,C,Centre Pass,2,32,27,50, 100
+2018-11-02 12:13:48 +0000,0,Brandley,GD,Assist - Centre Pass Rec,2,32,27,65, 95
+2018-11-02 12:13:56 +0000,0,Brandley,GD,Assist - Circle Entry,2,32,27,65, 95
+2018-11-02 12:13:56 +0000,0,Thwaites,GS,Assist - 2nd Phase,2,32,27,45, 6
+2018-11-02 12:14:08 +0000,0,Thwaites,GS,Goal - Miss,2,32,27,45, 6
+2018-11-02 12:15:28 +0000,1,Msomi,C,Centre Pass,3,32,27,50, 100
+2018-11-02 12:15:28 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,32,27,76, 120
+2018-11-02 12:15:31 +0000,1,Bryce,WD,Assist - 2nd Phase,3,32,27,92, 100
+2018-11-02 12:15:34 +0000,1,Pitman,WA,Possession,3,32,27,91, 147
+2018-11-02 12:15:40 +0000,1,Pitman,WA,Assist - Circle Entry,3,32,27,91, 147
+2018-11-02 12:15:40 +0000,1,Nelson,GS,Possession,3,32,27,46, 186
+2018-11-02 12:15:43 +0000,0,Brandley,GD,Penaly - Contact,3,32,27,46, 186
+2018-11-02 12:15:43 +0000,1,Hodges,GA,Goal - Miss,3,32,27,46, 186
+2018-11-02 12:15:56 +0000,1,Nelson,GS,Assist - Attack Rebound,3,32,27,50, 197
+2018-11-02 12:16:02 +0000,1,Nelson,GS,Goal - Score,3,32,27,46, 186
+2018-11-02 12:16:20 +0000,0,Brown,C,Centre Pass,3,32,28,50, 100
+2018-11-02 12:16:20 +0000,0,Brazill,WD,Assist - Centre Pass Rec,3,32,28,94, 82
+2018-11-02 12:16:22 +0000,0,Brown,C,Assist - 2nd Phase,3,32,28,79, 53
+2018-11-02 12:16:25 +0000,0,Robinson,WA,Possession,3,32,28,53, 49
+2018-11-02 12:16:27 +0000,0,Brazill,WD,Possession,3,32,28,75, 72
+2018-11-02 12:16:29 +0000,0,Brown,C,Possession,3,32,28,93, 52
+2018-11-02 12:16:31 +0000,0,Brazill,WD,Possession,3,32,28,89, 71
+2018-11-02 12:16:36 +0000,1,Msomi,C,Gain - Tip (Deflect),3,32,28,19, 20
+2018-11-02 12:16:42 +0000,1,Fowler,GD,Possession,3,32,28,36, 16
+2018-11-02 12:16:49 +0000,1,Msomi,C,Possession,3,32,28,14, 20
+2018-11-02 12:16:53 +0000,1,de Bruin,GK,Possession,3,32,28,22, 25
+2018-11-02 12:17:01 +0000,1,Fowler,GD,Possession,3,32,28,68, 41
+2018-11-02 12:17:05 +0000,1,Fowler,GD,Possession,3,32,28,92, 109
+2018-11-02 12:17:09 +0000,1,Bryce,WD,Possession,3,32,28,66, 91
+2018-11-02 12:17:11 +0000,1,Msomi,C,Possession,3,32,28,11, 117
+2018-11-02 12:17:12 +0000,1,Pitman,WA,Possession,3,32,28,38, 123
+2018-11-02 12:17:15 +0000,1,Msomi,C,Possession,3,32,28,12, 179
+2018-11-02 12:17:17 +0000,1,Msomi,C,Assist - Circle Entry,3,32,28,12, 179
+2018-11-02 12:17:17 +0000,1,Nelson,GS,Goal - Miss,3,32,28,56, 194
+2018-11-02 12:17:23 +0000,0,Layton,GK,Gain - Def Reb,3,32,28,50, 197
+2018-11-02 12:17:26 +0000,0,Brandley,GD,Possession,3,32,28,12, 174
+2018-11-02 12:17:30 +0000,0,Brown,C,Possession,3,32,28,66, 127
+2018-11-02 12:17:32 +0000,0,Brazill,WD,Possession,3,32,28,92, 78
+2018-11-02 12:17:35 +0000,0,Bell,GA,Possession,3,32,28,82, 28
+2018-11-02 12:17:37 +0000,0,Brown,C,Possession,3,32,28,20, 22
+2018-11-02 12:17:41 +0000,1,Msomi,C,Penaly - Contact,3,32,28,20, 22
+2018-11-02 12:17:41 +0000,0,Brown,C,Loss - Held Ball,3,32,28,20, 22
+2018-11-02 12:17:52 +0000,1,de Bruin,GK,Possession,3,32,28,19, 23
+2018-11-02 12:17:58 +0000,1,Fowler,GD,Possession,3,32,28,69, 51
+2018-11-02 12:18:01 +0000,1,Bryce,WD,Possession,3,32,28,23, 73
+2018-11-02 12:18:03 +0000,1,Msomi,C,Possession,3,32,28,8, 99
+2018-11-02 12:18:05 +0000,1,Pitman,WA,Possession,3,32,28,32, 111
+2018-11-02 12:18:11 +0000,0,Brazill,WD,Gain - Tip (Deflect),3,32,28,38, 107
+2018-11-02 12:18:17 +0000,0,Robinson,WA,Possession,3,32,28,16, 98
+2018-11-02 12:18:21 +0000,0,Brazill,WD,Possession,3,32,28,37, 76
+2018-11-02 12:18:24 +0000,0,Brown,C,Possession,3,32,28,46, 56
+2018-11-02 12:18:26 +0000,0,Bell,GA,Possession,3,32,28,64, 35
+2018-11-02 12:18:34 +0000,0,Brown,C,Possession,3,32,28,55, 36
+2018-11-02 12:18:38 +0000,1,Msomi,C,Penaly - Contact,3,32,28,55, 36
+2018-11-02 12:18:38 +0000,0,Brown,C,Possession,3,32,28,55, 36
+2018-11-02 12:18:45 +0000,0,Brown,C,Assist - Circle Entry,3,32,28,55, 36
+2018-11-02 12:18:46 +0000,0,Thwaites,GS,Goal - Score,3,32,28,44, 7
+2018-11-02 12:18:57 +0000,1,Msomi,C,Centre Pass,3,33,28,50, 100
+2018-11-02 12:18:57 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,33,28,17, 118
+2018-11-02 12:18:59 +0000,1,Hodges,GA,Assist - 2nd Phase,3,33,28,30, 145
+2018-11-02 12:19:01 +0000,1,Msomi,C,Possession,3,33,28,88, 173
+2018-11-02 12:19:35 +0000,1,Msomi,C,Assist - Circle Entry,3,33,28,88, 173
+2018-11-02 12:19:35 +0000,0,Layton,GK,Gain - Tip (Deflect),3,33,28,65, 185
+2018-11-02 12:19:42 +0000,1,Nelson,GS,Deflect,3,33,28,57, 193
+2018-11-02 12:19:42 +0000,0,Layton,GK,Throw In,3,33,28,52, 209
+2018-11-02 12:19:54 +0000,0,Brandley,GD,Possession,3,33,28,94, 160
+2018-11-02 12:19:56 +0000,0,Brown,C,Possession,3,33,28,71, 144
+2018-11-02 12:19:58 +0000,0,Layton,GK,Possession,3,33,28,13, 147
+2018-11-02 12:20:01 +0000,0,Brazill,WD,Possession,3,33,28,14, 122
+2018-11-02 12:20:03 +0000,0,Robinson,WA,Possession,3,33,28,9, 81
+2018-11-02 12:20:08 +0000,0,Bell,GA,Possession,3,33,28,62, 55
+2018-11-02 12:20:11 +0000,0,Bell,GA,Assist - Circle Entry,3,33,28,62, 55
+2018-11-02 12:20:11 +0000,0,Thwaites,GS,Goal - Miss,3,33,28,63, 10
+2018-11-02 12:20:17 +0000,1,de Bruin,GK,Gain - Def Reb,3,33,28,50, 2
+2018-11-02 12:20:20 +0000,1,Msomi,C,Possession,3,33,28,73, 31
+2018-11-02 12:20:23 +0000,1,de Bruin,GK,Possession,3,33,28,58, 25
+2018-11-02 12:20:25 +0000,1,Msomi,C,Possession,3,33,28,85, 40
+2018-11-02 12:20:27 +0000,1,Fowler,GD,Possession,3,33,28,92, 80
+2018-11-02 12:20:28 +0000,1,Bryce,WD,Possession,3,33,28,69, 96
+2018-11-02 12:20:34 +0000,1,Msomi,C,Possession,3,33,28,40, 113
+2018-11-02 12:20:40 +0000,1,Fowler,GD,Possession,3,33,28,56, 81
+2018-11-02 12:20:41 +0000,1,Pitman,WA,Possession,3,33,28,82, 119
+2018-11-02 12:20:44 +0000,1,Msomi,C,Possession,3,33,28,43, 138
+2018-11-02 12:20:47 +0000,0,Brown,C,Penaly - Contact,3,33,28,43, 138
+2018-11-02 12:20:47 +0000,1,Msomi,C,Possession,3,33,28,43, 138
+2018-11-02 12:20:59 +0000,1,Pitman,WA,Possession,3,33,28,85, 169
+2018-11-02 12:21:02 +0000,1,Pitman,WA,Assist - Circle Entry,3,33,28,85, 169
+2018-11-02 12:21:02 +0000,1,Hodges,GA,Goal - Miss,3,33,28,67, 189
+2018-11-02 12:21:07 +0000,1,Nelson,GS,Assist - Attack Rebound,3,33,28,50, 197
+2018-11-02 12:21:08 +0000,1,Nelson,GS,Goal - Score,3,33,28,67, 189
+2018-11-02 12:21:18 +0000,0,Brown,C,Centre Pass,3,33,29,50, 100
+2018-11-02 12:21:18 +0000,0,Robinson,WA,Assist - Centre Pass Rec,3,33,29,92, 74
+2018-11-02 12:21:21 +0000,0,Brown,C,Assist - 2nd Phase,3,33,29,91, 26
+2018-11-02 12:21:24 +0000,1,Msomi,C,Penaly - Contact,3,33,29,91, 26
+2018-11-02 12:21:24 +0000,0,Brown,C,Possession,3,33,29,91, 26
+2018-11-02 12:21:37 +0000,0,Bell,GA,Possession,3,33,29,60, 34
+2018-11-02 12:21:39 +0000,0,Robinson,WA,Possession,3,33,29,10, 14
+2018-11-02 12:21:41 +0000,0,Robinson,WA,Assist - Circle Entry,3,33,29,10, 14
+2018-11-02 12:21:41 +0000,0,Bell,GA,Possession,3,33,29,26, 10
+2018-11-02 12:21:43 +0000,0,Thwaites,GS,Goal - Score,3,33,29,52, 8
+2018-11-02 12:21:52 +0000,1,Msomi,C,Centre Pass,3,34,29,50, 100
+2018-11-02 12:21:53 +0000,1,Bryce,WD,Assist - Centre Pass Rec,3,34,29,73, 81
+2018-11-02 12:21:54 +0000,1,Msomi,C,Assist - 2nd Phase,3,34,29,27, 97
+2018-11-02 12:21:57 +0000,1,Bryce,WD,Possession,3,34,29,37, 106
+2018-11-02 12:22:00 +0000,0,Robinson,WA,Penaly - Contact,3,34,29,37, 106
+2018-11-02 12:22:00 +0000,1,Bryce,WD,Possession,3,34,29,37, 106
+2018-11-02 12:22:06 +0000,1,Msomi,C,Possession,3,34,29,27, 126
+2018-11-02 12:22:09 +0000,1,Pitman,WA,Possession,3,34,29,15, 171
+2018-11-02 12:22:12 +0000,1,Pitman,WA,Assist - Circle Entry,3,34,29,15, 171
+2018-11-02 12:22:12 +0000,1,Nelson,GS,Goal - Score,3,34,29,46, 196
+2018-11-02 12:22:19 +0000,0,Brown,C,Centre Pass,3,34,30,50, 100
+2018-11-02 12:22:19 +0000,0,Robinson,WA,Assist - Centre Pass Rec,3,34,30,89, 75
+2018-11-02 12:22:25 +0000,0,Bell,GA,Assist - 2nd Phase,3,34,30,89, 28
+2018-11-02 12:22:29 +0000,0,Bell,GA,Assist - Circle Entry,3,34,30,89, 28
+2018-11-02 12:22:29 +0000,0,Thwaites,GS,Possession,3,34,30,79, 8
+2018-11-02 12:22:31 +0000,0,Brown,C,Possession,3,34,30,19, 21
+2018-11-02 12:22:33 +0000,0,Robinson,WA,Possession,3,34,30,48, 36
+2018-11-02 12:22:35 +0000,0,Robinson,WA,Assist - Circle Entry,3,34,30,48, 36
+2018-11-02 12:22:35 +0000,0,Bell,GA,Goal - Score,3,34,30,65, 16
+2018-11-02 12:22:44 +0000,1,Msomi,C,Centre Pass,3,35,30,50, 100
+2018-11-02 12:22:44 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,35,30,20, 115
+2018-11-02 12:22:46 +0000,1,Bryce,WD,Assist - 2nd Phase,3,35,30,44, 114
+2018-11-02 12:22:50 +0000,1,Pitman,WA,Loss - Bad Pass,3,35,30,49, 161
+2018-11-02 12:22:57 +0000,0,Layton,GK,Throw In,3,35,30,56, 206
+2018-11-02 12:22:59 +0000,0,Brandley,GD,Possession,3,35,30,84, 174
+2018-11-02 12:23:01 +0000,0,Brazill,WD,Possession,3,35,30,14, 148
+2018-11-02 12:23:03 +0000,0,Layton,GK,Possession,3,35,30,74, 150
+2018-11-02 12:23:06 +0000,0,Brown,C,Possession,3,35,30,65, 117
+2018-11-02 12:23:08 +0000,0,Brazill,WD,Possession,3,35,30,92, 82
+2018-11-02 12:23:11 +0000,0,Bell,GA,Possession,3,35,30,90, 26
+2018-11-02 12:23:15 +0000,0,Brown,C,Possession,3,35,30,29, 31
+2018-11-02 12:23:18 +0000,1,Msomi,C,Penaly - Contact,3,35,30,29, 31
+2018-11-02 12:23:18 +0000,0,Brown,C,Possession,3,35,30,29, 31
+2018-11-02 12:23:21 +0000,0,Brown,C,Assist - Circle Entry,3,35,30,29, 31
+2018-11-02 12:23:21 +0000,0,Thwaites,GS,Goal - Score,3,35,30,69, 9
+2018-11-02 12:23:27 +0000,1,,UNKNOWN,Timeout,3,36,30,-10, -22
+2018-11-02 12:23:48 +0000,0,Brown,C,Centre Pass,3,36,30,50, 100
+2018-11-02 12:23:48 +0000,0,Robinson,WA,Assist - Centre Pass Rec,3,36,30,91, 77
+2018-11-02 12:24:02 +0000,0,Bell,GA,Loss - Held Ball,3,36,30,47, 64
+2018-11-02 12:24:07 +0000,1,de Bruin,GK,Possession,3,36,30,46, 63
+2018-11-02 12:24:12 +0000,1,Fowler,GD,Possession,3,36,30,51, 83
+2018-11-02 12:24:16 +0000,1,Bryce,WD,Possession,3,36,30,35, 110
+2018-11-02 12:24:18 +0000,1,Pitman,WA,Possession,3,36,30,31, 126
+2018-11-02 12:24:20 +0000,1,Msomi,C,Possession,3,36,30,11, 182
+2018-11-02 12:24:23 +0000,1,Bryce,WD,Possession,3,36,30,29, 130
+2018-11-02 12:24:32 +0000,1,Msomi,C,Possession,3,36,30,27, 139
+2018-11-02 12:24:38 +0000,1,Msomi,C,Assist - Circle Entry,3,36,30,27, 139
+2018-11-02 12:24:38 +0000,1,Nelson,GS,Possession,3,36,30,40, 189
+2018-11-02 12:24:43 +0000,0,Layton,GK,Penaly - Contact,3,36,30,40, 189
+2018-11-02 12:24:43 +0000,1,Nelson,GS,Goal - Score,3,36,30,40, 189
+2018-11-02 12:24:53 +0000,1,Msomi,C,Centre Pass,3,36,31,50, 100
+2018-11-02 12:24:53 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,36,31,21, 128
+2018-11-02 12:24:55 +0000,1,Hodges,GA,Assist - 2nd Phase,3,36,31,38, 130
+2018-11-02 12:24:57 +0000,1,Msomi,C,Possession,3,36,31,88, 147
+2018-11-02 12:25:04 +0000,0,Robinson,WA,Deflect,3,36,31,93, 184
+2018-11-02 12:25:04 +0000,1,,UNKNOWN,Throw In,3,36,31,95, 205
+2018-11-02 12:25:15 +0000,1,Msomi,C,Possession,3,36,31,16, 183
+2018-11-02 12:25:18 +0000,1,Msomi,C,Assist - Circle Entry,3,36,31,16, 183
+2018-11-02 12:25:18 +0000,1,Hodges,GA,Possession,3,36,31,35, 187
+2018-11-02 12:25:20 +0000,1,Msomi,C,Possession,3,36,31,19, 183
+2018-11-02 12:25:24 +0000,1,Msomi,C,Assist - Circle Entry,3,36,31,19, 183
+2018-11-02 12:25:24 +0000,1,Hodges,GA,Goal - Miss,3,36,31,36, 191
+2018-11-02 12:25:32 +0000,0,Layton,GK,Gain - Def Reb,3,36,31,50, 197
+2018-11-02 12:25:33 +0000,1,Nelson,GS,Penaly - Contact,3,36,31,50, 197
+2018-11-02 12:25:33 +0000,0,Layton,GK,Possession,3,36,31,50, 197
+2018-11-02 12:25:45 +0000,0,Brazill,WD,Possession,3,36,31,81, 162
+2018-11-02 12:25:49 +0000,0,Layton,GK,Possession,3,36,31,91, 139
+2018-11-02 12:25:55 +0000,0,Brown,C,Possession,3,36,31,97, 97
+2018-11-02 12:25:57 +0000,0,Robinson,WA,Possession,3,36,31,47, 83
+2018-11-02 12:25:59 +0000,0,Bell,GA,Possession,3,36,31,92, 44
+2018-11-02 12:26:02 +0000,0,Brazill,WD,Possession,3,36,31,94, 72
+2018-11-02 12:26:04 +0000,0,Brown,C,Possession,3,36,31,86, 58
+2018-11-02 12:26:06 +0000,0,Thwaites,GS,Possession,3,36,31,62, 55
+2018-11-02 12:26:11 +0000,0,Robinson,WA,Possession,3,36,31,46, 49
+2018-11-02 12:26:13 +0000,1,Bryce,WD,Penaly - Contact,3,36,31,46, 49
+2018-11-02 12:26:13 +0000,0,Robinson,WA,Possession,3,36,31,46, 49
+2018-11-02 12:26:19 +0000,0,Robinson,WA,Assist - Circle Entry,3,36,31,46, 49
+2018-11-02 12:26:19 +0000,0,Thwaites,GS,Possession,3,36,31,35, 8
+2018-11-02 12:26:24 +0000,0,Brown,C,Possession,3,36,31,85, 10
+2018-11-02 12:26:35 +0000,1,de Bruin,GK,Penaly - Obstruction,3,36,31,68, 8
+2018-11-02 12:26:35 +0000,0,Bell,GA,Goal - Score,3,36,31,68, 8
+2018-11-02 12:26:56 +0000,0,Brown,C,Centre Pass,3,37,31,50, 100
+2018-11-02 12:26:56 +0000,0,Robinson,WA,Assist - Centre Pass Rec,3,37,31,78, 75
+2018-11-02 12:26:58 +0000,0,Robinson,WA,Assist - 2nd Phase,3,37,31,93, 53
+2018-11-02 12:27:00 +0000,0,Bell,GA,Possession,3,37,31,86, 10
+2018-11-02 12:27:02 +0000,0,Bell,GA,Assist - Circle Entry,3,37,31,86, 10
+2018-11-02 12:27:02 +0000,0,Thwaites,GS,Possession,3,37,31,44, 11
+2018-11-02 12:27:04 +0000,1,de Bruin,GK,Penaly - Obstruction,3,37,31,44, 11
+2018-11-02 12:27:04 +0000,0,Thwaites,GS,Goal - Score,3,37,31,44, 11
+2018-11-02 12:27:13 +0000,1,Msomi,C,Centre Pass,3,38,31,50, 100
+2018-11-02 12:27:13 +0000,1,Hodges,GA,Assist - Centre Pass Rec,3,38,31,93, 123
+2018-11-02 12:27:19 +0000,1,Pitman,WA,Assist - 2nd Phase,3,38,31,23, 159
+2018-11-02 12:27:21 +0000,0,Layton,GK,Penaly - Contact,3,38,31,23, 159
+2018-11-02 12:27:21 +0000,1,Pitman,WA,Possession,3,38,31,23, 159
+2018-11-02 12:27:29 +0000,1,Msomi,C,Possession,3,38,31,34, 167
+2018-11-02 12:27:36 +0000,1,Pitman,WA,Possession,3,38,31,21, 170
+2018-11-02 12:27:40 +0000,1,Pitman,WA,Assist - Circle Entry,3,38,31,21, 170
+2018-11-02 12:27:40 +0000,1,Hodges,GA,Possession,3,38,31,34, 184
+2018-11-02 12:27:43 +0000,1,Nelson,GS,Goal - Score,3,38,31,56, 193
+2018-11-02 12:27:53 +0000,0,Brown,C,Centre Pass,3,38,32,50, 100
+2018-11-02 12:27:53 +0000,0,Brazill,WD,Assist - Centre Pass Rec,3,38,32,30, 78
+2018-11-02 12:27:55 +0000,0,Bell,GA,Assist - 2nd Phase,3,38,32,23, 55
+2018-11-02 12:27:57 +0000,0,Robinson,WA,Possession,3,38,32,48, 47
+2018-11-02 12:28:00 +0000,0,Robinson,WA,Assist - Circle Entry,3,38,32,48, 47
+2018-11-02 12:28:00 +0000,0,Thwaites,GS,Goal - Score,3,38,32,39, 6
+2018-11-02 12:28:08 +0000,1,Msomi,C,Centre Pass,3,39,32,50, 100
+2018-11-02 12:28:09 +0000,1,Pitman,WA,Loss - Held Ball,3,39,32,24, 116
+2018-11-02 12:28:16 +0000,0,Brazill,WD,Possession,3,39,32,23, 117
+2018-11-02 12:28:28 +0000,0,Brandley,GD,Possession,3,39,32,11, 95
+2018-11-02 12:28:31 +0000,0,Robinson,WA,Possession,3,39,32,47, 79
+2018-11-02 12:28:33 +0000,0,Bell,GA,Possession,3,39,32,82, 52
+2018-11-02 12:28:35 +0000,0,Robinson,WA,Possession,3,39,32,63, 51
+2018-11-02 12:28:37 +0000,0,Thwaites,GS,Possession,3,39,32,23, 41
+2018-11-02 12:28:39 +0000,0,Brazill,WD,Possession,3,39,32,51, 70
+2018-11-02 12:28:41 +0000,0,Robinson,WA,Possession,3,39,32,21, 55
+2018-11-02 12:28:44 +0000,0,Brazill,WD,Possession,3,39,32,49, 72
+2018-11-02 12:28:46 +0000,0,Robinson,WA,Possession,3,39,32,62, 47
+2018-11-02 12:29:47 +0000,1,Fowler,GD,Deflect,3,39,32,76, 33
+2018-11-02 12:29:47 +0000,0,Bell,GA,Possession,3,39,32,95, 80
+2018-11-02 12:30:07 +0000,0,Brandley,GD,Loss - Drop,3,39,32,79, 127
+2018-11-02 12:30:24 +0000,1,Nelson,GS,Gain - Pick-up,3,39,32,62, 149
+2018-11-02 12:31:08 +0000,1,Pitman,WA,Possession,3,39,32,48, 164
+2018-11-02 12:31:13 +0000,0,Layton,GK,Penaly - Contact,3,39,32,49, 178
+2018-11-02 12:31:13 +0000,1,Hodges,GA,Possession,3,39,32,49, 178
+2018-11-02 12:31:26 +0000,1,Nelson,GS,Goal - Score,3,39,32,53, 195
+2018-11-02 12:31:41 +0000,0,Brown,C,Centre Pass,3,39,33,50, 100
+2018-11-02 12:31:41 +0000,0,Robinson,WA,Assist - Centre Pass Rec,3,39,33,78, 76
+2018-11-02 12:31:43 +0000,0,Bell,GA,Assist - 2nd Phase,3,39,33,92, 49
+2018-11-02 12:31:45 +0000,0,Brown,C,Possession,3,39,33,66, 48
+2018-11-02 12:31:49 +0000,0,Brown,C,Assist - Circle Entry,3,39,33,66, 48
+2018-11-02 12:31:49 +0000,0,Thwaites,GS,Possession,3,39,33,45, 7
+2018-11-02 12:31:51 +0000,1,de Bruin,GK,Penaly - Obstruction,3,39,33,45, 7
+2018-11-02 12:31:51 +0000,0,Thwaites,GS,Goal - Score,3,39,33,45, 7
+2018-11-02 12:32:15 +0000,1,Msomi,C,Centre Pass,3,40,33,50, 100
+2018-11-02 12:32:15 +0000,1,Hodges,GA,Loss - Break,3,40,33,68, 133
+2018-11-02 12:32:26 +0000,0,Brandley,GD,Possession,3,40,33,68, 131
+2018-11-02 12:32:30 +0000,0,Robinson,WA,Possession,3,40,33,95, 105
+2018-11-02 12:32:34 +0000,0,Brown,C,Possession,3,40,33,87, 39
+2018-11-02 12:32:39 +0000,0,Brazill,WD,Possession,3,40,33,80, 70
+2018-11-02 12:32:44 +0000,0,Brown,C,Possession,3,40,33,75, 48
+2018-11-02 12:32:46 +0000,1,Msomi,C,Penaly - Contact,3,40,33,75, 48
+2018-11-02 12:32:46 +0000,0,Brown,C,Possession,3,40,33,75, 48
+2018-11-02 12:32:52 +0000,0,Robinson,WA,Possession,3,40,33,74, 24
+2018-11-02 12:32:54 +0000,0,Robinson,WA,Assist - Circle Entry,3,40,33,74, 24
+2018-11-02 12:32:54 +0000,0,Thwaites,GS,Goal - Score,3,40,33,44, 7
+2018-11-02 12:33:27 +0000,0,Brown,C,Centre Pass,3,41,33,50, 100
+2018-11-02 12:33:27 +0000,0,Brazill,WD,Assist - Centre Pass Rec,3,41,33,74, 86
+2018-11-02 12:33:29 +0000,0,Robinson,WA,Assist - 2nd Phase,3,41,33,86, 62
+2018-11-02 12:33:31 +0000,0,Bell,GA,Possession,3,41,33,88, 11
+2018-11-02 12:33:34 +0000,0,Brown,C,Possession,3,41,33,14, 16
+2018-11-02 12:33:36 +0000,0,Robinson,WA,Possession,3,41,33,49, 36
+2018-11-02 12:33:38 +0000,0,Robinson,WA,Assist - Circle Entry,3,41,33,49, 36
+2018-11-02 12:33:38 +0000,0,Thwaites,GS,Goal - Score,3,41,33,56, 8
+2018-11-02 12:33:45 +0000,1,Msomi,C,Centre Pass,3,42,33,50, 100
+2018-11-02 12:33:45 +0000,1,Hodges,GA,Assist - Centre Pass Rec,3,42,33,37, 114
+2018-11-02 12:33:49 +0000,1,Pitman,WA,Assist - 2nd Phase,3,42,33,52, 115
+2018-11-02 12:33:53 +0000,1,Msomi,C,Loss - Drop,3,42,33,88, 160
+2018-11-02 12:37:43 +0000,0,Brown,C,Possession,3,42,33,88, 110
+2018-11-02 12:37:47 +0000,0,Robinson,WA,Possession,3,42,33,87, 80
+2018-11-02 12:38:03 +0000,0,Brown,C,Possession,3,42,33,85, 24
+2018-11-02 12:38:05 +0000,0,Thwaites,GS,Loss - Unknown,3,42,33,79, 19
+2018-11-02 12:38:11 +0000,1,de Bruin,GK,Possession,3,42,33,79, 20
+2018-11-02 12:38:23 +0000,1,Fowler,GD,Possession,3,42,33,89, 77
+2018-11-02 12:38:25 +0000,1,Bryce,WD,Possession,3,42,33,61, 78
+2018-11-02 12:38:28 +0000,1,Pitman,WA,Possession,3,42,33,40, 118
+2018-11-02 12:38:30 +0000,1,Hodges,GA,Possession,3,42,33,15, 141
+2018-11-02 12:40:36 +0000,0,Layton,GK,Deflect,3,42,33,10, 181
+2018-11-02 12:40:36 +0000,1,Msomi,C,Throw In,3,42,33,-8, 187
+2018-11-02 12:40:48 +0000,1,Bryce,WD,Possession,3,42,33,43, 131
+2018-11-02 12:40:49 +0000,1,Hodges,GA,Possession,3,42,33,49, 150
+2018-11-02 12:40:52 +0000,1,Pitman,WA,Possession,3,42,33,60, 165
+2018-11-02 12:40:56 +0000,0,Layton,GK,Gain - Inter,3,42,33,18, 188
+2018-11-02 12:41:04 +0000,0,Brown,C,Possession,3,42,33,20, 162
+2018-11-02 12:41:14 +0000,0,Layton,GK,Possession,3,42,33,4, 144
+2018-11-02 12:41:16 +0000,0,Brown,C,Possession,3,42,33,60, 122
+2018-11-02 12:41:18 +0000,0,Brandley,GD,Possession,3,42,33,37, 105
+2018-11-02 12:42:26 +0000,0,Bell,GA,Possession,3,42,33,9, 23
+2018-11-02 12:42:30 +0000,0,Brown,C,Possession,3,42,33,23, 25
+2018-11-02 12:42:33 +0000,0,Brown,C,Assist - Circle Entry,3,42,33,23, 25
+2018-11-02 12:42:33 +0000,0,Thwaites,GS,Goal - Score,3,42,33,38, 17
+2018-11-02 12:42:51 +0000,1,,UNKNOWN,Timeout,3,43,33,-10, -22
+2018-11-02 12:43:29 +0000,0,Msomi,UNKNOWN,Interchange - Bryce,3,43,33,
+2018-11-02 12:43:29 +0000,0,Bryce,UNKNOWN,Interchange - Petty,3,43,33,
+2018-11-02 12:43:32 +0000,0,Brown,C,Centre Pass,3,43,33,50, 100
+2018-11-02 12:43:32 +0000,0,Brazill,WD,Assist - Centre Pass Rec,3,43,33,11, 74
+2018-11-02 12:43:35 +0000,0,Bell,GA,Assist - 2nd Phase,3,43,33,54, 46
+2018-11-02 12:43:39 +0000,0,Robinson,WA,Possession,3,43,33,86, 7
+2018-11-02 12:43:42 +0000,0,Brown,C,Possession,3,43,33,64, 32
+2018-11-02 12:43:46 +0000,0,Brown,C,Assist - Circle Entry,3,43,33,64, 32
+2018-11-02 12:43:47 +0000,0,Thwaites,GS,Goal - Score,3,43,33,44, 5
+2018-11-02 12:44:00 +0000,1,Bryce,C,Centre Pass,3,44,33,50, 100
+2018-11-02 12:44:00 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,44,33,50, 121
+2018-11-02 12:44:03 +0000,1,Fowler,GD,Assist - 2nd Phase,3,44,33,41, 78
+2018-11-02 12:44:05 +0000,1,Petty,WD,Possession,3,44,33,98, 116
+2018-11-02 12:44:14 +0000,1,Pitman,WA,Possession,3,44,33,46, 158
+2018-11-02 12:44:21 +0000,1,Pitman,WA,Assist - Circle Entry,3,44,33,46, 158
+2018-11-02 12:44:21 +0000,0,Layton,GK,Gain - Tip (Deflect),3,44,33,61, 181
+2018-11-02 12:44:26 +0000,0,Brown,C,Possession,3,44,33,73, 173
+2018-11-02 12:44:30 +0000,0,Layton,GK,Possession,3,44,33,91, 178
+2018-11-02 12:44:32 +0000,0,Brandley,GD,Possession,3,44,33,93, 116
+2018-11-02 12:44:41 +0000,0,Robinson,WA,Possession,3,44,33,95, 76
+2018-11-02 12:44:43 +0000,0,Brazill,WD,Possession,3,44,33,53, 72
+2018-11-02 12:44:47 +0000,0,Bell,GA,Possession,3,44,33,29, 39
+2018-11-02 12:44:49 +0000,0,Bell,GA,Assist - Circle Entry,3,44,33,29, 39
+2018-11-02 12:44:49 +0000,0,Thwaites,GS,Goal - Score,3,44,33,57, 17
+2018-11-02 12:45:00 +0000,0,Brown,C,Centre Pass,3,45,33,50, 100
+2018-11-02 12:45:00 +0000,0,Robinson,WA,Assist - Centre Pass Rec,3,45,33,50, 78
+2018-11-02 12:45:02 +0000,0,Bell,GA,Assist - 2nd Phase,3,45,33,18, 29
+2018-11-02 12:45:05 +0000,0,Brown,C,Possession,3,45,33,35, 34
+2018-11-02 12:45:07 +0000,0,Brown,C,Assist - Circle Entry,3,45,33,35, 34
+2018-11-02 12:45:07 +0000,0,Thwaites,GS,Possession,3,45,33,48, 15
+2018-11-02 12:45:10 +0000,1,de Bruin,GK,Penaly - Obstruction,3,45,33,48, 15
+2018-11-02 12:45:10 +0000,0,Thwaites,GS,Goal - Score,3,45,33,48, 15
+2018-11-02 12:45:16 +0000,1,Bryce,C,Centre Pass,3,46,33,50, 100
+2018-11-02 12:45:16 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,46,33,28, 108
+2018-11-02 12:45:19 +0000,1,Bryce,C,Assist - 2nd Phase,3,46,33,15, 144
+2018-11-02 12:45:21 +0000,1,Petty,WD,Possession,3,46,33,39, 129
+2018-11-02 12:45:22 +0000,0,,UNKNOWN,Penaly - Contact,3,46,33,34, 135
+2018-11-02 12:45:22 +0000,1,Hodges,GA,Possession,3,46,33,34, 135
+2018-11-02 12:45:25 +0000,1,Hodges,GA,Assist - Circle Entry,3,46,33,34, 135
+2018-11-02 12:45:25 +0000,1,Nelson,GS,Goal - Score,3,46,33,42, 197
+2018-11-02 12:45:36 +0000,0,Brown,C,Centre Pass,3,46,34,50, 100
+2018-11-02 12:45:36 +0000,0,Brandley,GD,Assist - Centre Pass Rec,3,46,34,12, 93
+2018-11-02 12:45:38 +0000,0,Robinson,WA,Assist - 2nd Phase,3,46,34,12, 57
+2018-11-02 12:45:41 +0000,0,Bell,GA,Possession,3,46,34,50, 59
+2018-11-02 12:45:43 +0000,0,Robinson,WA,Possession,3,46,34,48, 37
+2018-11-02 12:45:45 +0000,0,Robinson,WA,Assist - Circle Entry,3,46,34,48, 37
+2018-11-02 12:45:45 +0000,0,Thwaites,GS,Goal - Score,3,46,34,53, 4
+2018-11-02 12:45:50 +0000,1,Bryce,C,Centre Pass,3,47,34,50, 100
+2018-11-02 12:45:51 +0000,1,Hodges,GA,Assist - Centre Pass Rec,3,47,34,32, 127
+2018-11-02 12:45:54 +0000,1,Petty,WD,Assist - 2nd Phase,3,47,34,53, 127
+2018-11-02 12:45:59 +0000,1,Pitman,WA,Possession,3,47,34,81, 160
+2018-11-02 12:46:02 +0000,1,Pitman,WA,Assist - Circle Entry,3,47,34,81, 160
+2018-11-02 12:46:02 +0000,1,Nelson,GS,Goal - Score,3,47,34,44, 191
+2018-11-02 12:46:10 +0000,0,Brown,C,Centre Pass,3,47,35,50, 100
+2018-11-02 12:46:10 +0000,0,Robinson,WA,Assist - Centre Pass Rec,3,47,35,21, 91
+2018-11-02 12:46:12 +0000,0,Bell,GA,Assist - 2nd Phase,3,47,35,34, 51
+2018-11-02 12:46:14 +0000,0,Brown,C,Loss - Step,3,47,35,80, 19
+2018-11-02 12:46:22 +0000,1,de Bruin,GK,Possession,3,47,35,79, 19
+2018-11-02 12:46:26 +0000,1,Fowler,GD,Possession,3,47,35,27, 43
+2018-11-02 12:46:28 +0000,1,Petty,WD,Possession,3,47,35,22, 106
+2018-11-02 12:46:30 +0000,1,Hodges,GA,Possession,3,47,35,25, 127
+2018-11-02 12:46:37 +0000,1,Pitman,WA,Possession,3,47,35,7, 197
+2018-11-02 12:47:01 +0000,1,Pitman,WA,Assist - Circle Entry,3,47,35,7, 197
+2018-11-02 12:47:01 +0000,1,Nelson,GS,Loss - Off Contact,3,47,35,40, 195
+2018-11-02 12:47:11 +0000,0,Layton,GK,Possession,3,47,35,40, 195
+2018-11-02 12:47:18 +0000,0,Brown,C,Possession,3,47,35,13, 128
+2018-11-02 12:47:20 +0000,0,Brazill,WD,Possession,3,47,35,16, 96
+2018-11-02 12:47:22 +0000,0,Robinson,WA,Possession,3,47,35,58, 76
+2018-11-02 12:47:24 +0000,0,Bell,GA,Possession,3,47,35,83, 49
+2018-11-02 12:47:26 +0000,0,Brown,C,Possession,3,47,35,86, 11
+2018-11-02 12:47:34 +0000,0,Brown,C,Assist - Circle Entry,3,47,35,86, 11
+2018-11-02 12:47:35 +0000,0,Thwaites,GS,Possession,3,47,35,47, 8
+2018-11-02 12:47:38 +0000,1,Fowler,GD,Penaly - Contact,3,47,35,47, 8
+2018-11-02 12:47:38 +0000,0,Thwaites,GS,Goal - Score,3,47,35,47, 8
+2018-11-02 12:47:45 +0000,1,Bryce,C,Centre Pass,3,48,35,50, 100
+2018-11-02 12:47:46 +0000,1,Petty,WD,Assist - Centre Pass Rec,3,48,35,38, 121
+2018-11-02 12:47:47 +0000,1,Hodges,GA,Loss - Bad Pass,3,48,35,35, 141
+2018-11-02 12:47:52 +0000,0,Layton,GK,Throw In,3,48,35,36, 206
+2018-11-02 12:47:58 +0000,0,Brazill,WD,Possession,3,48,35,23, 178
+2018-11-02 12:48:00 +0000,0,Layton,GK,Possession,3,48,35,67, 169
+2018-11-02 12:48:04 +0000,0,Brown,C,Possession,3,48,35,90, 116
+2018-11-02 12:48:06 +0000,0,Brazill,WD,Possession,3,48,35,85, 70
+2018-11-02 12:48:08 +0000,0,Robinson,WA,Possession,3,48,35,92, 53
+2018-11-02 12:48:11 +0000,0,Brown,C,Possession,3,48,35,93, 37
+2018-11-02 12:48:12 +0000,1,,UNKNOWN,Penaly - Contact,3,48,35,93, 37
+2018-11-02 12:48:13 +0000,0,Brown,C,Possession,3,48,35,93, 37
+2018-11-02 12:48:31 +0000,0,Brown,C,Assist - Circle Entry,3,48,35,93, 37
+2018-11-02 12:48:32 +0000,0,Bell,GA,Goal - Score,3,48,35,64, 7
+2018-11-02 12:48:37 +0000,0,Brown,C,Centre Pass,3,49,35,50, 100
+2018-11-02 12:48:37 +0000,0,Robinson,WA,Assist - Centre Pass Rec,3,49,35,92, 71
+2018-11-02 12:48:39 +0000,0,Bell,GA,Assist - 2nd Phase,3,49,35,83, 31
+2018-11-02 12:48:41 +0000,0,Brown,C,Possession,3,49,35,27, 29
+2018-11-02 12:48:44 +0000,0,Brown,C,Assist - Circle Entry,3,49,35,27, 29
+2018-11-02 12:48:44 +0000,0,Thwaites,GS,Goal - Score,3,49,35,42, 5
+2018-11-02 12:48:51 +0000,1,Bryce,C,Centre Pass,3,50,35,50, 100
+2018-11-02 12:48:51 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,50,35,84, 127
+2018-11-02 12:48:54 +0000,1,Hodges,GA,Assist - 2nd Phase,3,50,35,32, 168
+2018-11-02 12:49:00 +0000,0,Layton,GK,Penaly - Contact,3,50,35,56, 181
+2018-11-02 12:49:00 +0000,1,Hodges,GA,Goal - Miss,3,50,35,56, 181
+2018-11-03 03:01:07 +0000,0,Hodges,UNKNOWN,Interchange - Latu-Meafou,4,50,35,
+2018-11-03 03:01:07 +0000,0,Fowler,UNKNOWN,Interchange - Shimmin,4,50,35,
+2018-11-03 03:01:25 +0000,0,Brown,C,Centre Pass,4,50,35,50, 100
+2018-11-03 03:01:25 +0000,0,Robinson,WA,Assist - Centre Pass Rec,4,50,35,71, 79
+2018-11-03 03:01:33 +0000,1,Petty,WD,Penaly - Contact,4,50,35,45, 63
+2018-11-03 03:01:33 +0000,0,Robinson,WA,Assist - 2nd Phase,4,50,35,45, 63
+2018-11-03 03:02:16 +0000,0,Robinson,WA,Assist - Circle Entry,4,50,35,45, 63
+2018-11-03 03:02:16 +0000,0,Bell,GA,Possession,4,50,35,59, 25
+2018-11-03 03:02:21 +0000,1,Shimmin,GD,Penaly - Contact,4,50,35,59, 25
+2018-11-03 03:02:21 +0000,0,Bell,GA,Goal - Miss,4,50,35,59, 25
+2018-11-03 03:02:33 +0000,0,Thwaites,GS,Assist - Attack Rebound,4,50,35,50, 2
+2018-11-03 03:02:34 +0000,0,Thwaites,GS,Goal - Score,4,50,35,59, 25
+2018-11-03 03:02:40 +0000,1,Bryce,C,Centre Pass,4,51,35,50, 100
+2018-11-03 03:02:41 +0000,1,Shimmin,GD,Assist - Centre Pass Rec,4,51,35,29, 103
+2018-11-03 03:02:43 +0000,1,Bryce,C,Assist - 2nd Phase,4,51,35,7, 149
+2018-11-03 03:02:47 +0000,1,Bryce,C,Assist - Circle Entry,4,51,35,7, 149
+2018-11-03 03:02:47 +0000,1,Nelson,GS,Goal - Score,4,51,35,48, 190
+2018-11-03 03:02:53 +0000,0,Brown,C,Centre Pass,4,51,36,50, 100
+2018-11-03 03:02:53 +0000,0,Robinson,WA,Assist - Centre Pass Rec,4,51,36,82, 69
+2018-11-03 03:02:56 +0000,0,Brown,C,Assist - 2nd Phase,4,51,36,86, 10
+2018-11-03 03:02:58 +0000,0,Bell,GA,Possession,4,51,36,78, 32
+2018-11-03 03:03:00 +0000,1,Shimmin,GD,Penaly - Obstruction,4,51,36,78, 32
+2018-11-03 03:03:00 +0000,0,Robinson,WA,Possession,4,51,36,78, 32
+2018-11-03 03:03:06 +0000,0,Robinson,WA,Assist - Circle Entry,4,51,36,78, 32
+2018-11-03 03:03:06 +0000,0,Bell,GA,Goal - Score,4,51,36,63, 9
+2018-11-03 03:03:14 +0000,1,Bryce,C,Centre Pass,4,52,36,50, 100
+2018-11-03 03:03:14 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,52,36,19, 126
+2018-11-03 03:03:17 +0000,1,Latu-Meafou,GA,Assist - 2nd Phase,4,52,36,88, 149
+2018-11-03 03:03:20 +0000,1,Latu-Meafou,GA,Assist - Circle Entry,4,52,36,88, 149
+2018-11-03 03:03:20 +0000,1,Nelson,GS,Goal - Score,4,52,36,42, 189
+2018-11-03 03:03:35 +0000,0,Brown,C,Centre Pass,4,52,37,50, 100
+2018-11-03 03:03:35 +0000,0,Bell,GA,Assist - Centre Pass Rec,4,52,37,53, 73
+2018-11-03 03:03:39 +0000,0,Brown,C,Assist - 2nd Phase,4,52,37,82, 28
+2018-11-03 03:03:42 +0000,0,Robinson,WA,Possession,4,52,37,53, 49
+2018-11-03 03:03:50 +0000,0,Bell,GA,Possession,4,52,37,18, 14
+2018-11-03 03:03:53 +0000,0,Brown,C,Possession,4,52,37,33, 28
+2018-11-03 03:04:00 +0000,1,Petty,WD,Deflect,4,52,37,83, 11
+2018-11-03 03:04:00 +0000,0,Robinson,WA,Throw In,4,52,37,86, -7
+2018-11-03 03:04:12 +0000,0,Robinson,WA,Assist - Circle Entry,4,52,37,86, -7
+2018-11-03 03:04:12 +0000,0,Thwaites,GS,Possession,4,52,37,40, 8
+2018-11-03 03:04:16 +0000,1,Shimmin,GD,Penaly - Obstruction,4,52,37,40, 8
+2018-11-03 03:04:17 +0000,0,Thwaites,GS,Goal - Score,4,52,37,40, 8
+2018-11-03 03:04:22 +0000,1,Bryce,C,Centre Pass,4,53,37,50, 100
+2018-11-03 03:04:22 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,53,37,55, 118
+2018-11-03 03:04:26 +0000,1,Bryce,C,Assist - 2nd Phase,4,53,37,12, 179
+2018-11-03 03:04:29 +0000,1,Bryce,C,Assist - Circle Entry,4,53,37,12, 179
+2018-11-03 03:04:29 +0000,1,Nelson,GS,Possession,4,53,37,41, 191
+2018-11-03 03:04:32 +0000,0,Brandley,GD,Penaly - Contact,4,53,37,41, 191
+2018-11-03 03:04:32 +0000,1,Latu-Meafou,GA,Goal - Score,4,53,37,41, 191
+2018-11-03 03:04:39 +0000,0,Brown,C,Centre Pass,4,53,38,50, 100
+2018-11-03 03:04:39 +0000,0,Robinson,WA,Assist - Centre Pass Rec,4,53,38,4, 75
+2018-11-03 03:04:41 +0000,0,Brazill,WD,Assist - 2nd Phase,4,53,38,28, 81
+2018-11-03 03:04:45 +0000,1,Pitman,WA,Penaly - Contact,4,53,38,28, 81
+2018-11-03 03:04:45 +0000,0,Brazill,WD,Possession,4,53,38,28, 81
+2018-11-03 03:04:52 +0000,0,Brown,C,Possession,4,53,38,77, 26
+2018-11-03 03:04:54 +0000,1,Bryce,C,Penaly - Obstruction,4,53,38,77, 26
+2018-11-03 03:04:54 +0000,0,Brown,C,Possession,4,53,38,77, 26
+2018-11-03 03:04:57 +0000,0,Brown,C,Assist - Circle Entry,4,53,38,77, 26
+2018-11-03 03:04:57 +0000,0,Thwaites,GS,Goal - Score,4,53,38,53, 4
+2018-11-03 03:05:07 +0000,1,Bryce,C,Centre Pass,4,54,38,50, 100
+2018-11-03 03:05:07 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,54,38,13, 126
+2018-11-03 03:05:12 +0000,1,Pitman,WA,Assist - Circle Entry,4,54,38,13, 126
+2018-11-03 03:05:12 +0000,1,Nelson,GS,Assist - 2nd Phase,4,54,38,32, 178
+2018-11-03 03:05:13 +0000,0,Layton,GK,Penaly - Contact,4,54,38,32, 178
+2018-11-03 03:05:13 +0000,1,Latu-Meafou,GA,Possession,4,54,38,32, 178
+2018-11-03 03:05:23 +0000,1,Bryce,C,Possession,4,54,38,65, 167
+2018-11-03 03:05:26 +0000,1,Bryce,C,Assist - Circle Entry,4,54,38,65, 167
+2018-11-03 03:05:26 +0000,1,Latu-Meafou,GA,Goal - Score,4,54,38,51, 184
+2018-11-03 03:05:37 +0000,0,Brown,C,Centre Pass,4,54,39,50, 100
+2018-11-03 03:05:37 +0000,0,Brazill,WD,Assist - Centre Pass Rec,4,54,39,84, 76
+2018-11-03 03:05:43 +0000,0,Robinson,WA,Assist - 2nd Phase,4,54,39,83, 45
+2018-11-03 03:06:19 +0000,1,Bryce,C,Gain - Inter,4,54,39,82, 17
+2018-11-03 03:06:29 +0000,0,Bell,GA,Gain - Inter,4,54,39,49, 37
+2018-11-03 03:06:35 +0000,0,Brown,C,Possession,4,54,39,71, 59
+2018-11-03 03:07:59 +0000,0,Brandley,GD,Possession,4,54,39,49, 67
+2018-11-03 03:08:02 +0000,0,Brown,C,Possession,4,54,39,48, 46
+2018-11-03 03:08:07 +0000,0,Robinson,WA,Possession,4,54,39,73, 36
+2018-11-03 03:08:09 +0000,0,Robinson,WA,Assist - Circle Entry,4,54,39,73, 36
+2018-11-03 03:08:09 +0000,0,Thwaites,GS,Goal - Score,4,54,39,41, 4
+2018-11-03 03:08:17 +0000,1,Bryce,C,Centre Pass,4,55,39,50, 100
+2018-11-03 03:08:17 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,55,39,84, 124
+2018-11-03 03:08:19 +0000,1,Bryce,C,Assist - 2nd Phase,4,55,39,58, 127
+2018-11-03 03:08:22 +0000,1,Petty,WD,Possession,4,55,39,20, 128
+2018-11-03 03:08:24 +0000,1,Pitman,WA,Possession,4,55,39,4, 150
+2018-11-03 03:08:28 +0000,1,Pitman,WA,Assist - Circle Entry,4,55,39,4, 150
+2018-11-03 03:08:28 +0000,1,Nelson,GS,Goal - Score,4,55,39,56, 193
+2018-11-03 03:08:38 +0000,0,Brown,C,Centre Pass,4,55,40,50, 100
+2018-11-03 03:08:38 +0000,0,Brazill,WD,Assist - Centre Pass Rec,4,55,40,8, 86
+2018-11-03 03:08:39 +0000,0,Bell,GA,Assist - 2nd Phase,4,55,40,5, 48
+2018-11-03 03:08:42 +0000,0,Robinson,WA,Possession,4,55,40,45, 48
+2018-11-03 03:08:46 +0000,0,Robinson,WA,Assist - Circle Entry,4,55,40,45, 48
+2018-11-03 03:08:46 +0000,1,Shimmin,GD,Gain - Inter,4,55,40,49, 11
+2018-11-03 03:08:51 +0000,1,de Bruin,GK,Possession,4,55,40,38, 12
+2018-11-03 03:08:58 +0000,1,Petty,WD,Possession,4,55,40,70, 28
+2018-11-03 03:09:02 +0000,1,de Bruin,GK,Possession,4,55,40,47, 40
+2018-11-03 03:09:04 +0000,1,Bryce,C,Possession,4,55,40,5, 59
+2018-11-03 03:09:06 +0000,1,Shimmin,GD,Possession,4,55,40,37, 74
+2018-11-03 03:09:08 +0000,1,Pitman,WA,Possession,4,55,40,76, 89
+2018-11-03 03:09:14 +0000,1,Latu-Meafou,GA,Possession,4,55,40,93, 130
+2018-11-03 03:09:18 +0000,1,Shimmin,GD,Possession,4,55,40,80, 127
+2018-11-03 03:09:19 +0000,1,Bryce,C,Possession,4,55,40,68, 151
+2018-11-03 03:09:21 +0000,1,Pitman,WA,Possession,4,55,40,33, 168
+2018-11-03 03:09:24 +0000,1,Pitman,WA,Assist - Circle Entry,4,55,40,33, 168
+2018-11-03 03:09:24 +0000,1,Latu-Meafou,GA,Goal - Score,4,55,40,48, 181
+2018-11-03 03:09:33 +0000,1,Bryce,C,Centre Pass,4,55,41,50, 100
+2018-11-03 03:09:33 +0000,1,Latu-Meafou,GA,Assist - Centre Pass Rec,4,55,41,89, 123
+2018-11-03 03:09:36 +0000,1,Bryce,C,Assist - 2nd Phase,4,55,41,78, 151
+2018-11-03 03:09:38 +0000,1,Pitman,WA,Possession,4,55,41,82, 174
+2018-11-03 03:11:43 +0000,0,Layton,GK,Deflect,4,55,41,72, 186
+2018-11-03 03:11:43 +0000,1,Pitman,WA,Throw In,4,55,41,92, 203
+2018-11-03 03:11:52 +0000,1,Latu-Meafou,GA,Possession,4,55,41,75, 170
+2018-11-03 03:11:55 +0000,1,Pitman,WA,Possession,4,55,41,73, 163
+2018-11-03 03:11:57 +0000,1,Bryce,C,Possession,4,55,41,58, 152
+2018-11-03 03:11:59 +0000,1,Latu-Meafou,GA,Possession,4,55,41,15, 189
+2018-11-03 03:12:02 +0000,1,Latu-Meafou,GA,Assist - Circle Entry,4,55,41,15, 189
+2018-11-03 03:12:02 +0000,1,Nelson,GS,Goal - Score,4,55,41,50, 190
+2018-11-03 03:12:12 +0000,0,Brown,C,Centre Pass,4,55,42,50, 100
+2018-11-03 03:12:12 +0000,0,Robinson,WA,Assist - Centre Pass Rec,4,55,42,70, 72
+2018-11-03 03:12:14 +0000,0,Bell,GA,Assist - 2nd Phase,4,55,42,82, 21
+2018-11-03 03:12:16 +0000,0,Robinson,WA,Possession,4,55,42,83, 11
+2018-11-03 03:12:19 +0000,0,Robinson,WA,Assist - Circle Entry,4,55,42,83, 11
+2018-11-03 03:12:19 +0000,0,Thwaites,GS,Goal - Score,4,55,42,53, 14
+2018-11-03 03:12:29 +0000,1,Bryce,C,Centre Pass,4,56,42,50, 100
+2018-11-03 03:12:29 +0000,1,Petty,WD,Assist - Centre Pass Rec,4,56,42,27, 116
+2018-11-03 03:12:42 +0000,0,Brown,C,Penaly - Contact,4,56,42,27, 116
+2018-11-03 03:12:43 +0000,1,Petty,WD,Possession,4,56,42,27, 116
+2018-11-03 03:12:49 +0000,1,Bryce,C,Possession,4,56,42,51, 157
+2018-11-03 03:12:52 +0000,1,Bryce,C,Assist - Circle Entry,4,56,42,51, 157
+2018-11-03 03:12:52 +0000,1,Latu-Meafou,GA,Assist - 2nd Phase,4,56,42,49, 178
+2018-11-03 03:12:53 +0000,0,Brandley,GD,Penaly - Obstruction,4,56,42,49, 178
+2018-11-03 03:12:54 +0000,1,Latu-Meafou,GA,Goal - Miss,4,56,42,49, 178
+2018-11-03 03:13:00 +0000,1,Nelson,GS,Assist - Attack Rebound,4,56,42,50, 197
+2018-11-03 03:13:01 +0000,1,Nelson,GS,Goal - Score,4,56,42,49, 178
+2018-11-03 03:13:09 +0000,0,Brown,C,Centre Pass,4,56,43,50, 100
+2018-11-03 03:13:09 +0000,1,Petty,WD,Penaly - Contact on CP,4,56,43,46, 64
+2018-11-03 03:13:09 +0000,0,Robinson,WA,Possession,4,56,43,46, 64
+2018-11-03 03:13:23 +0000,0,Robinson,WA,Assist - Circle Entry,4,56,43,46, 64
+2018-11-03 03:13:23 +0000,0,Thwaites,GS,Assist - 2nd Phase,4,56,43,54, 10
+2018-11-03 03:13:26 +0000,1,de Bruin,GK,Penaly - Contact,4,56,43,54, 10
+2018-11-03 03:13:26 +0000,0,Thwaites,GS,Goal - Score,4,56,43,54, 10
+2018-11-03 03:13:35 +0000,1,Bryce,C,Centre Pass,4,57,43,50, 100
+2018-11-03 03:13:35 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,57,43,87, 120
+2018-11-03 03:13:41 +0000,0,Robinson,WA,Penaly - Obstruction,4,57,43,87, 120
+2018-11-03 03:13:41 +0000,1,Petty,WD,Possession,4,57,43,87, 120
+2018-11-03 03:13:57 +0000,1,Pitman,WA,Possession,4,57,43,71, 133
+2018-11-03 03:14:02 +0000,1,Latu-Meafou,GA,Possession,4,57,43,96, 152
+2018-11-03 03:14:04 +0000,1,Pitman,WA,Possession,4,57,43,73, 170
+2018-11-03 03:14:06 +0000,1,Pitman,WA,Assist - Circle Entry,4,57,43,73, 170
+2018-11-03 03:14:06 +0000,1,Latu-Meafou,GA,Assist - 2nd Phase,4,57,43,75, 183
+2018-11-03 03:14:09 +0000,1,Nelson,GS,Goal - Miss,4,57,43,47, 192
+2018-11-03 03:14:12 +0000,0,Layton,GK,Gain - Def Reb,4,57,43,50, 197
+2018-11-03 03:14:14 +0000,0,Brown,C,Possession,4,57,43,60, 164
+2018-11-03 03:14:20 +0000,0,Brazill,WD,Possession,4,57,43,33, 164
+2018-11-03 03:14:24 +0000,0,Layton,GK,Possession,4,57,43,39, 136
+2018-11-03 03:14:26 +0000,0,Brazill,WD,Possession,4,57,43,10, 127
+2018-11-03 03:14:28 +0000,0,Robinson,WA,Possession,4,57,43,48, 107
+2018-11-03 03:14:30 +0000,0,Bell,GA,Possession,4,57,43,73, 72
+2018-11-03 03:14:33 +0000,0,Brown,C,Possession,4,57,43,85, 21
+2018-11-03 03:14:35 +0000,0,Brown,C,Assist - Circle Entry,4,57,43,85, 21
+2018-11-03 03:14:36 +0000,0,Thwaites,GS,Goal - Score,4,57,43,43, 7
+2018-11-03 03:14:54 +0000,0,Brown,C,Centre Pass,4,58,43,50, 100
+2018-11-03 03:14:54 +0000,0,Brazill,WD,Assist - Centre Pass Rec,4,58,43,16, 82
+2018-11-03 03:14:56 +0000,0,Robinson,WA,Assist - 2nd Phase,4,58,43,14, 52
+2018-11-03 03:15:05 +0000,1,Bryce,C,Penaly - Obstruction,4,58,43,14, 52
+2018-11-03 03:15:05 +0000,0,Robinson,WA,Possession,4,58,43,14, 52
+2018-11-03 03:15:14 +0000,0,Robinson,WA,Assist - Circle Entry,4,58,43,14, 52
+2018-11-03 03:15:15 +0000,0,Bell,GA,Goal - Miss,4,58,43,31, 6
+2018-11-03 03:15:22 +0000,1,Shimmin,GD,Gain - Def Reb,4,58,43,50, 2
+2018-11-03 03:15:24 +0000,1,Bryce,C,Possession,4,58,43,26, 27
+2018-11-03 03:15:34 +0000,1,Petty,WD,Possession,4,58,43,43, 62
+2018-11-03 03:15:39 +0000,1,de Bruin,GK,Possession,4,58,43,20, 55
+2018-11-03 03:15:41 +0000,1,Shimmin,GD,Possession,4,58,43,10, 62
+2018-11-03 03:15:51 +0000,1,Petty,WD,Possession,4,58,43,9, 86
+2018-11-03 03:15:56 +0000,0,Robinson,WA,Penaly - Contact,4,58,43,9, 86
+2018-11-03 03:15:56 +0000,1,Petty,WD,Possession,4,58,43,9, 86
+2018-11-03 03:16:00 +0000,1,Pitman,WA,Possession,4,58,43,24, 118
+2018-11-03 03:16:02 +0000,1,Petty,WD,Possession,4,58,43,14, 109
+2018-11-03 03:16:04 +0000,1,Latu-Meafou,GA,Possession,4,58,43,41, 133
+2018-11-03 03:16:08 +0000,1,Pitman,WA,Possession,4,58,43,21, 166
+2018-11-03 03:16:10 +0000,0,Brown,C,Penaly - Contact,4,58,43,21, 166
+2018-11-03 03:16:10 +0000,1,Pitman,WA,Possession,4,58,43,21, 166
+2018-11-03 03:16:15 +0000,1,Pitman,WA,Assist - Circle Entry,4,58,43,21, 166
+2018-11-03 03:16:15 +0000,1,Latu-Meafou,GA,Possession,4,58,43,27, 182
+2018-11-03 03:16:18 +0000,1,Nelson,GS,Goal - Score,4,58,43,50, 187
+2018-11-03 03:16:35 +0000,1,Bryce,C,Centre Pass,4,58,44,50, 100
+2018-11-03 03:16:35 +0000,1,Latu-Meafou,GA,Assist - Centre Pass Rec,4,58,44,13, 124
+2018-11-03 03:16:41 +0000,0,Brown,C,Deflect,4,58,44,80, 159
+2018-11-03 03:16:41 +0000,1,Bryce,C,Throw In,4,58,44,108, 163
+2018-11-03 03:16:49 +0000,1,Bryce,C,Assist - Circle Entry,4,58,44,108, 163
+2018-11-03 03:16:50 +0000,1,Latu-Meafou,GA,Assist - 2nd Phase,4,58,44,37, 190
+2018-11-03 03:16:52 +0000,1,Latu-Meafou,GA,Goal - Score,4,58,44,37, 190
+2018-11-03 03:17:00 +0000,0,Brown,C,Centre Pass,4,58,45,50, 100
+2018-11-03 03:17:00 +0000,0,Brazill,WD,Assist - Centre Pass Rec,4,58,45,56, 86
+2018-11-03 03:17:04 +0000,0,Robinson,WA,Assist - 2nd Phase,4,58,45,83, 54
+2018-11-03 03:17:08 +0000,0,Thwaites,GS,Possession,4,58,45,72, 38
+2018-11-03 03:17:11 +0000,0,Thwaites,GS,Assist - Circle Entry,4,58,45,72, 38
+2018-11-03 03:17:11 +0000,0,Bell,GA,Possession,4,58,45,59, 2
+2018-11-03 03:17:16 +0000,1,de Bruin,GK,Penaly - Obstruction,4,58,45,59, 2
+2018-11-03 03:17:16 +0000,0,Bell,GA,Goal - Score,4,58,45,59, 2
+2018-11-03 03:17:28 +0000,1,Bryce,C,Centre Pass,4,59,45,50, 100
+2018-11-03 03:17:29 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,59,45,21, 121
+2018-11-03 03:17:33 +0000,1,Petty,WD,Assist - 2nd Phase,4,59,45,86, 123
+2018-11-03 03:17:36 +0000,1,Pitman,WA,Possession,4,59,45,13, 166
+2018-11-03 03:17:38 +0000,1,Pitman,WA,Assist - Circle Entry,4,59,45,13, 166
+2018-11-03 03:17:38 +0000,1,Nelson,GS,Goal - Score,4,59,45,52, 192
+2018-11-03 03:17:46 +0000,0,Brown,C,Centre Pass,4,59,46,50, 100
+2018-11-03 03:17:47 +0000,0,Robinson,WA,Assist - Centre Pass Rec,4,59,46,53, 82
+2018-11-03 03:17:48 +0000,0,Bell,GA,Assist - 2nd Phase,4,59,46,81, 28
+2018-11-03 03:17:50 +0000,0,Robinson,WA,Possession,4,59,46,82, 10
+2018-11-03 03:17:54 +0000,0,Robinson,WA,Assist - Circle Entry,4,59,46,82, 10
+2018-11-03 03:17:54 +0000,0,Thwaites,GS,Goal - Score,4,59,46,43, 5
+2018-11-03 03:18:00 +0000,1,Bryce,C,Centre Pass,4,60,46,50, 100
+2018-11-03 03:18:01 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,60,46,36, 123
+2018-11-03 03:18:04 +0000,0,Brandley,GD,Penaly - Contact,4,60,46,37, 141
+2018-11-03 03:18:04 +0000,1,Pitman,WA,Assist - 2nd Phase,4,60,46,37, 141
+2018-11-03 03:18:13 +0000,1,Pitman,WA,Assist - Circle Entry,4,60,46,37, 141
+2018-11-03 03:18:13 +0000,1,Latu-Meafou,GA,Possession,4,60,46,50, 175
+2018-11-03 03:18:15 +0000,1,Nelson,GS,Goal - Score,4,60,46,53, 194
+2018-11-03 03:18:24 +0000,0,Brown,C,Centre Pass,4,60,47,50, 100
+2018-11-03 03:18:24 +0000,0,Brazill,WD,Assist - Centre Pass Rec,4,60,47,23, 104
+2018-11-03 03:18:26 +0000,0,Brown,C,Assist - 2nd Phase,4,60,47,13, 57
+2018-11-03 03:18:28 +0000,1,Petty,WD,Penaly - Contact,4,60,47,13, 57
+2018-11-03 03:18:28 +0000,0,Brown,C,Possession,4,60,47,13, 57
+2018-11-03 03:18:36 +0000,0,Bell,GA,Possession,4,60,47,5, 17
+2018-11-03 03:18:43 +0000,1,Bryce,C,Penaly - Contact,4,60,47,47, 35
+2018-11-03 03:18:43 +0000,0,Robinson,WA,Possession,4,60,47,47, 35
+2018-11-03 03:18:51 +0000,0,Robinson,WA,Assist - Circle Entry,4,60,47,47, 35
+2018-11-03 03:18:51 +0000,0,Thwaites,GS,Goal - Score,4,60,47,41, 3
+2018-11-03 03:19:20 +0000,1,Bryce,C,Centre Pass,4,61,47,50, 100
+2018-11-03 03:19:20 +0000,0,Brandley,GD,Gain - Tip (Deflect),4,61,47,17, 118
+2018-11-03 03:19:39 +0000,0,Bell,GA,Possession,4,61,47,28, 107
+2018-11-03 03:19:41 +0000,0,Brandley,GD,Possession,4,61,47,6, 80
+2018-11-03 03:19:43 +0000,0,Layton,GK,Possession,4,61,47,13, 137
+2018-11-03 03:19:45 +0000,0,Brazill,WD,Possession,4,61,47,7, 70
+2018-11-03 03:19:47 +0000,0,Robinson,WA,Possession,4,61,47,13, 36
+2018-11-03 03:19:51 +0000,0,Robinson,WA,Assist - Circle Entry,4,61,47,13, 36
+2018-11-03 03:19:51 +0000,0,Thwaites,GS,Goal - Score,4,61,47,60, 7
+2018-11-03 03:20:04 +0000,0,Brown,C,Centre Pass,4,62,47,50, 100
+2018-11-03 03:20:04 +0000,0,Brandley,GD,Assist - Centre Pass Rec,4,62,47,88, 84
+2018-11-03 03:20:05 +0000,0,Robinson,WA,Assist - 2nd Phase,4,62,47,89, 42
+2018-11-03 03:20:07 +0000,0,Brown,C,Possession,4,62,47,43, 43
+2018-11-03 03:20:10 +0000,0,Brown,C,Assist - Circle Entry,4,62,47,43, 43
+2018-11-03 03:20:10 +0000,0,Thwaites,GS,Possession,4,62,47,31, 8
+2018-11-03 03:20:13 +0000,1,de Bruin,GK,Penaly - Contact,4,62,47,31, 8
+2018-11-03 03:20:13 +0000,0,Thwaites,GS,Goal - Score,4,62,47,31, 8
+2018-11-03 03:20:21 +0000,1,Bryce,C,Centre Pass,4,63,47,50, 100
+2018-11-03 03:20:21 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,63,47,88, 117
+2018-11-03 03:20:22 +0000,1,Latu-Meafou,GA,Loss - Bad Pass,4,63,47,26, 156
+2018-11-03 03:20:26 +0000,0,Layton,GK,Throw In,4,63,47,52, 202
+2018-11-03 03:20:32 +0000,0,Brandley,GD,Loss - Bad Pass,4,63,47,81, 164
+2018-11-03 03:20:35 +0000,1,Pitman,WA,Gain - Inter,4,63,47,81, 123
+2018-11-03 03:20:46 +0000,1,Petty,WD,Possession,4,63,47,48, 117
+2018-11-03 03:20:57 +0000,0,Brown,C,Deflect,4,63,47,24, 156
+2018-11-03 03:20:57 +0000,1,Pitman,WA,Throw In,4,63,47,-5, 146
+2018-11-03 03:21:05 +0000,1,Bryce,C,Possession,4,63,47,22, 139
+2018-11-03 03:21:07 +0000,1,Pitman,WA,Possession,4,63,47,10, 146
+2018-11-03 03:21:12 +0000,1,Latu-Meafou,GA,Possession,4,63,47,17, 181
+2018-11-03 03:21:17 +0000,1,Pitman,WA,Possession,4,63,47,33, 166
+2018-11-03 03:21:20 +0000,1,Pitman,WA,Assist - Circle Entry,4,63,47,33, 166
+2018-11-03 03:21:20 +0000,1,Latu-Meafou,GA,Goal - Miss,4,63,47,32, 193
+2018-11-03 03:21:25 +0000,1,Nelson,GS,Assist - Attack Rebound,4,63,47,50, 197
+2018-11-03 03:21:26 +0000,1,Nelson,GS,Goal - Score,4,63,47,32, 193
+2018-11-03 03:21:36 +0000,1,,UNKNOWN,Timeout,4,63,48,110, 222
+2018-11-03 03:22:29 +0000,0,Brown,C,Centre Pass,4,63,48,50, 100
+2018-11-03 03:22:29 +0000,0,Brazill,WD,Assist - Centre Pass Rec,4,63,48,80, 84
+2018-11-03 03:22:32 +0000,0,Robinson,WA,Assist - 2nd Phase,4,63,48,88, 68
+2018-11-03 03:22:34 +0000,0,Brandley,GD,Possession,4,63,48,31, 91
+2018-11-03 03:22:36 +0000,0,Bell,GA,Possession,4,63,48,11, 59
+2018-11-03 03:22:38 +0000,0,Brown,C,Possession,4,63,48,8, 23
+2018-11-03 03:22:39 +0000,1,Bryce,C,Penaly - Contact,4,63,48,8, 23
+2018-11-03 03:22:39 +0000,0,Brown,C,Possession,4,63,48,8, 23
+2018-11-03 03:22:51 +0000,1,Shimmin,GD,Penaly - Contact,4,63,48,32, 14
+2018-11-03 03:22:51 +0000,0,Bell,GA,Goal - Score,4,63,48,32, 14
+2018-11-03 03:23:05 +0000,1,Bryce,C,Centre Pass,4,64,48,50, 100
+2018-11-03 03:23:05 +0000,1,Shimmin,GD,Assist - Centre Pass Rec,4,64,48,20, 91
+2018-11-03 03:23:06 +0000,1,Bryce,C,Assist - 2nd Phase,4,64,48,19, 111
+2018-11-03 03:23:08 +0000,1,Petty,WD,Possession,4,64,48,83, 113
+2018-11-03 03:23:10 +0000,1,Pitman,WA,Possession,4,64,48,83, 136
+2018-11-03 03:23:12 +0000,1,Shimmin,GD,Possession,4,64,48,63, 128
+2018-11-03 03:23:15 +0000,1,Latu-Meafou,GA,Possession,4,64,48,78, 154
+2018-11-03 03:23:18 +0000,1,Latu-Meafou,GA,Assist - Circle Entry,4,64,48,78, 154
+2018-11-03 03:23:18 +0000,1,Nelson,GS,Goal - Score,4,64,48,63, 188
+2018-11-03 03:23:27 +0000,0,Brown,C,Centre Pass,4,64,49,50, 100
+2018-11-03 03:23:27 +0000,0,Robinson,WA,Assist - Centre Pass Rec,4,64,49,71, 70
+2018-11-03 03:23:29 +0000,0,Bell,GA,Assist - 2nd Phase,4,64,49,76, 37
+2018-11-03 03:23:31 +0000,0,Bell,GA,Assist - Circle Entry,4,64,49,76, 37
+2018-11-03 03:23:31 +0000,0,Thwaites,GS,Possession,4,64,49,40, 9
+2018-11-03 03:23:34 +0000,1,Shimmin,GD,Penaly - Obstruction,4,64,49,40, 9
+2018-11-03 03:23:34 +0000,0,Thwaites,GS,Goal - Score,4,64,49,40, 9
+2018-11-03 03:23:45 +0000,1,Bryce,C,Centre Pass,4,65,49,50, 100
+2018-11-03 03:23:45 +0000,1,Pitman,WA,Loss - Held Ball,4,65,49,10, 128
+2018-11-03 03:23:54 +0000,0,Brazill,WD,Possession,4,65,49,9, 128
+2018-11-03 03:24:00 +0000,0,Robinson,WA,Possession,4,65,49,4, 76
+2018-11-03 03:24:02 +0000,0,Bell,GA,Possession,4,65,49,50, 60
+2018-11-03 03:24:04 +0000,0,Brown,C,Possession,4,65,49,37, 57
+2018-11-03 03:24:42 +0000,0,Brown,C,Assist - Circle Entry,4,65,49,37, 57
+2018-11-03 03:24:42 +0000,1,Shimmin,GD,Gain - Inter,4,65,49,73, 5
+2018-11-03 03:24:50 +0000,1,Bryce,C,Possession,4,65,49,80, 38
+2018-11-03 03:25:34 +0000,1,de Bruin,GK,Possession,4,65,49,12, 31
+2018-11-03 03:25:38 +0000,1,Petty,WD,Possession,4,65,49,4, 59
+2018-11-03 03:25:50 +0000,1,Shimmin,GD,Possession,4,65,49,10, 102
+2018-11-03 03:25:54 +0000,1,Pitman,WA,Loss - Bad Pass,4,65,49,37, 119
+2018-11-03 03:26:58 +0000,1,Petty,WD,Deflect,4,65,49,56, 110
+2018-11-03 03:27:20 +0000,0,Robinson,WA,Gain - Pick-up,4,65,49,80, 80
+2018-11-03 03:27:46 +0000,0,Robinson,WA,Possession,4,65,49,80, 80
+2018-11-03 03:27:51 +0000,0,Robinson,WA,Assist - Circle Entry,4,65,49,80, 80
+2018-11-03 03:27:52 +0000,0,Thwaites,GS,Goal - Score,4,65,49,45, 6
+2018-11-03 03:28:19 +0000,0,Brown,C,Centre Pass,4,66,49,50, 100
+2018-11-03 03:28:19 +0000,0,Bell,GA,Assist - Centre Pass Rec,4,66,49,11, 74
+2018-11-03 03:28:22 +0000,0,Brown,C,Assist - 2nd Phase,4,66,49,25, 50
+2018-11-03 03:28:25 +0000,1,Bryce,C,Penaly - Contact,4,66,49,25, 50
+2018-11-03 03:28:25 +0000,0,Robinson,WA,Possession,4,66,49,25, 50
+2018-11-03 03:28:31 +0000,0,Robinson,WA,Assist - Circle Entry,4,66,49,25, 50
+2018-11-03 03:28:32 +0000,0,Thwaites,GS,Goal - Score,4,66,49,51, 6
+2018-11-03 03:28:40 +0000,1,Bryce,C,Centre Pass,4,67,49,50, 100
+2018-11-03 03:28:40 +0000,1,Shimmin,GD,Assist - Centre Pass Rec,4,67,49,51, 78
+2018-11-03 03:28:42 +0000,1,Petty,WD,Assist - 2nd Phase,4,67,49,78, 92
+2018-11-03 03:28:44 +0000,1,Pitman,WA,Possession,4,67,49,52, 115
+2018-11-03 03:28:47 +0000,1,Shimmin,GD,Possession,4,67,49,14, 103
+2018-11-03 03:28:49 +0000,1,Pitman,WA,Possession,4,67,49,12, 126
+2018-11-03 03:28:55 +0000,1,Shimmin,GD,Possession,4,67,49,9, 128
+2018-11-03 03:28:57 +0000,1,Pitman,WA,Possession,4,67,49,13, 145
+2018-11-03 03:28:59 +0000,0,Brazill,WD,Penaly - Obstruction,4,67,49,13, 145
+2018-11-03 03:28:59 +0000,1,Pitman,WA,Possession,4,67,49,13, 145
+2018-11-03 03:29:05 +0000,0,Brown,C,Penaly - Contact,4,67,49,30, 162
+2018-11-03 03:29:05 +0000,1,Bryce,C,Possession,4,67,49,30, 162
+2018-11-03 03:29:11 +0000,1,Bryce,C,Assist - Circle Entry,4,67,49,30, 162
+2018-11-03 03:29:12 +0000,1,Nelson,GS,Goal - Score,4,67,49,46, 191
+2018-11-03 03:29:18 +0000,0,Brown,C,Centre Pass,4,67,50,50, 100
+2018-11-03 03:29:19 +0000,0,Robinson,WA,Assist - Centre Pass Rec,4,67,50,18, 75
+2018-11-03 03:29:21 +0000,0,Brown,C,Assist - 2nd Phase,4,67,50,8, 30
+2018-11-03 03:29:24 +0000,0,Brown,C,Assist - Circle Entry,4,67,50,8, 30
+2018-11-03 03:29:24 +0000,0,Thwaites,GS,Goal - Score,4,67,50,46, 10
+2018-11-03 03:29:59 +0000,1,Bryce,C,Centre Pass,4,68,50,50, 100
+2018-11-03 03:29:59 +0000,0,Brazill,WD,Deflect,4,68,50,75, 109
+2018-11-03 03:30:13 +0000,1,Shimmin,GD,Possession,4,68,50,62, 84
+2018-11-03 03:30:22 +0000,1,Pitman,WA,Possession,4,68,50,27, 94
+2018-11-03 03:30:24 +0000,1,Bryce,C,Possession,4,68,50,13, 126
+2018-11-03 03:30:32 +0000,1,Bryce,C,Assist - Circle Entry,4,68,50,13, 126
+2018-11-03 03:30:32 +0000,1,Nelson,GS,Loss - Step,4,68,50,46, 188
+2018-11-03 03:30:38 +0000,0,Layton,GK,Possession,4,68,50,47, 190
+2018-11-03 03:30:43 +0000,0,Brandley,GD,Possession,4,68,50,61, 175
+2018-11-03 03:30:45 +0000,0,Layton,GK,Possession,4,68,50,77, 168
+2018-11-03 03:30:47 +0000,0,Brazill,WD,Possession,4,68,50,39, 157
+2018-11-03 03:30:50 +0000,0,Robinson,WA,Possession,4,68,50,7, 102
+2018-11-03 03:30:52 +0000,0,Brazill,WD,Possession,4,68,50,9, 68
+2018-11-03 03:30:56 +0000,0,Thwaites,GS,Possession,4,68,50,5, 41
+2018-11-03 03:31:00 +0000,0,Brown,C,Possession,4,68,50,21, 53
+2018-11-03 03:31:02 +0000,0,Brazill,WD,Possession,4,68,50,17, 68
+2018-11-03 03:31:04 +0000,0,Robinson,WA,Possession,4,68,50,34, 46
+2018-11-03 03:31:07 +0000,0,Robinson,WA,Assist - Circle Entry,4,68,50,34, 46
+2018-11-03 03:31:07 +0000,0,Thwaites,GS,Possession,4,68,50,43, 11
+2018-11-03 03:31:11 +0000,1,de Bruin,GK,Penaly - Contact,4,68,50,43, 11
+2018-11-03 03:31:11 +0000,0,Thwaites,GS,Goal - Score,4,68,50,43, 11
+2018-11-03 03:31:25 +0000,0,Brown,C,Centre Pass,4,69,50,50, 100
+2018-11-03 03:31:25 +0000,0,Bell,GA,Assist - Centre Pass Rec,4,69,50,10, 80
+2018-11-03 03:31:27 +0000,0,Robinson,WA,Assist - 2nd Phase,4,69,50,43, 67
+2018-11-03 03:31:30 +0000,0,Robinson,WA,Assist - Circle Entry,4,69,50,43, 67
+2018-11-03 03:31:30 +0000,0,Thwaites,GS,Goal - Score,4,69,50,42, 10
+2018-11-03 03:31:37 +0000,1,Bryce,C,Centre Pass,4,70,50,50, 100
+2018-11-03 03:31:37 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,70,50,83, 124
+2018-11-03 03:31:39 +0000,1,Latu-Meafou,GA,Assist - 2nd Phase,4,70,50,81, 166
+2018-11-03 03:31:42 +0000,1,Latu-Meafou,GA,Assist - Circle Entry,4,70,50,81, 166
+2018-11-03 03:31:42 +0000,1,Nelson,GS,Possession,4,70,50,46, 190
+2018-11-03 03:31:45 +0000,0,Layton,GK,Penaly - Contact,4,70,50,46, 190
+2018-11-03 03:31:45 +0000,1,Nelson,GS,Goal - Miss,4,70,50,46, 190

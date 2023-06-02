@@ -1,0 +1,1614 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-11-06 00:49:27 +0000,0,Charles,C,Centre Pass,1,0,0,50, 100
+2018-11-06 00:49:27 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,0,0,28, 86
+2018-11-06 00:49:30 +0000,0,Charles,C,Assist - 2nd Phase,1,0,0,89, 10
+2018-11-06 00:49:33 +0000,0,Charles,C,Assist - Circle Entry,1,0,0,89, 10
+2018-11-06 00:49:33 +0000,0,Fowler,GS,Goal - Score,1,0,0,65, 9
+2018-11-06 00:49:42 +0000,1,Proud,C,Centre Pass,1,1,0,50, 100
+2018-11-06 00:49:42 +0000,1,Housby ,GA,Assist - Centre Pass Rec,1,1,0,93, 121
+2018-11-06 00:49:44 +0000,1,Turner,GD,Assist - 2nd Phase,1,1,0,76, 99
+2018-11-06 00:49:48 +0000,1,Hadley,WA,Possession,1,1,0,18, 124
+2018-11-06 00:49:52 +0000,1,Proud,C,Possession,1,1,0,15, 154
+2018-11-06 00:49:57 +0000,1,Turner,GD,Possession,1,1,0,18, 130
+2018-11-06 00:49:59 +0000,1,Housby ,GA,Possession,1,1,0,38, 152
+2018-11-06 00:50:05 +0000,1,Proud,C,Possession,1,1,0,14, 194
+2018-11-06 00:50:11 +0000,1,Proud,C,Assist - Circle Entry,1,1,0,14, 194
+2018-11-06 00:50:11 +0000,0,Bruce,GK,Gain - Tip (Deflect),1,1,0,52, 178
+2018-11-06 00:50:17 +0000,0,Charles,C,Possession,1,1,0,51, 165
+2018-11-06 00:50:21 +0000,0,Anstiss,WD,Possession,1,1,0,21, 153
+2018-11-06 00:50:25 +0000,0,Medhurst,GA,Possession,1,1,0,10, 84
+2018-11-06 00:50:51 +0000,0,Medhurst,GA,Assist - Circle Entry,1,1,0,10, 84
+2018-11-06 00:50:51 +0000,0,Fowler,GS,Goal - Score,1,1,0,53, 10
+2018-11-06 00:51:16 +0000,0,Charles,C,Centre Pass,1,2,0,50, 100
+2018-11-06 00:51:16 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,2,0,73, 92
+2018-11-06 00:51:18 +0000,0,Colyer ,WA,Assist - 2nd Phase,1,2,0,54, 74
+2018-11-06 00:51:20 +0000,0,Charles,C,Possession,1,2,0,24, 34
+2018-11-06 00:51:23 +0000,0,Charles,C,Assist - Circle Entry,1,2,0,24, 34
+2018-11-06 00:51:23 +0000,0,Fowler,GS,Goal - Score,1,2,0,57, 7
+2018-11-06 00:51:32 +0000,1,Proud,C,Centre Pass,1,3,0,50, 100
+2018-11-06 00:51:32 +0000,1,Hadley,WA,Assist - Centre Pass Rec,1,3,0,17, 126
+2018-11-06 00:51:34 +0000,1,Proud,C,Assist - 2nd Phase,1,3,0,15, 152
+2018-11-06 00:51:36 +0000,1,Housby ,GA,Possession,1,3,0,42, 144
+2018-11-06 00:51:38 +0000,1,Hadley,WA,Possession,1,3,0,39, 152
+2018-11-06 00:51:41 +0000,1,Hadley,WA,Assist - Circle Entry,1,3,0,39, 152
+2018-11-06 00:51:41 +0000,1,Wallace,GS,Possession,1,3,0,41, 187
+2018-11-06 00:51:43 +0000,0,Bruce,GK,Penaly - Contact,1,3,0,41, 187
+2018-11-06 00:51:43 +0000,1,Wallace,GS,Goal - Miss,1,3,0,41, 187
+2018-11-06 00:51:55 +0000,0,Francis,GD,Deflect,1,3,0,50, 197
+2018-11-06 00:51:57 +0000,1,Housby ,GA,Throw In,1,3,0,42, 205
+2018-11-06 00:52:10 +0000,1,Proud,C,Possession,1,3,0,58, 167
+2018-11-06 00:52:19 +0000,1,Housby ,GA,Loss - Drop,1,3,0,94, 198
+2018-11-06 00:52:22 +0000,0,Bruce,GK,Throw In,1,3,0,99, 206
+2018-11-06 00:52:38 +0000,0,Francis,GD,Possession,1,3,0,70, 195
+2018-11-06 00:52:48 +0000,0,Bruce,GK,Loss - Out of Court,1,3,0,98, 185
+2018-11-06 00:52:54 +0000,1,Hadley,WA,Throw In,1,3,0,99, 184
+2018-11-06 00:53:01 +0000,1,Housby ,GA,Possession,1,3,0,85, 196
+2018-11-06 00:53:06 +0000,1,Proud,C,Possession,1,3,0,70, 171
+2018-11-06 00:53:08 +0000,1,Proud,C,Assist - Circle Entry,1,3,0,70, 171
+2018-11-06 00:53:08 +0000,1,Wallace,GS,Goal - Score,1,3,0,56, 185
+2018-11-06 00:53:16 +0000,0,Charles,C,Centre Pass,1,3,1,50, 100
+2018-11-06 00:53:16 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,3,1,79, 92
+2018-11-06 00:53:19 +0000,0,Anstiss,WD,Assist - 2nd Phase,1,3,1,68, 84
+2018-11-06 00:53:22 +0000,1,Housby ,GA,Penaly - Obstruction,1,3,1,68, 84
+2018-11-06 00:53:22 +0000,0,Anstiss,WD,Possession,1,3,1,68, 84
+2018-11-06 00:53:48 +0000,0,Charles,C,Loss - Step,1,3,1,66, 66
+2018-11-06 00:53:53 +0000,1,Klau ,GK,Possession,1,3,1,65, 66
+2018-11-06 00:53:57 +0000,1,McCulloch,WD,Possession,1,3,1,79, 69
+2018-11-06 00:53:59 +0000,1,Klau ,GK,Possession,1,3,1,65, 44
+2018-11-06 00:54:02 +0000,1,Turner,GD,Possession,1,3,1,30, 58
+2018-11-06 00:54:04 +0000,0,Anstiss,WD,Gain - Inter,1,3,1,71, 115
+2018-11-06 00:54:10 +0000,0,Colyer ,WA,Possession,1,3,1,38, 75
+2018-11-06 00:54:12 +0000,0,Charles,C,Possession,1,3,1,21, 42
+2018-11-06 00:54:14 +0000,0,Anstiss,WD,Possession,1,3,1,34, 71
+2018-11-06 00:54:22 +0000,0,Medhurst,GA,Possession,1,3,1,43, 54
+2018-11-06 00:54:26 +0000,0,Anstiss,WD,Possession,1,3,1,35, 69
+2018-11-06 00:54:29 +0000,0,Medhurst,GA,Possession,1,3,1,42, 49
+2018-11-06 00:54:35 +0000,1,Proud,C,Penaly - Contact,1,3,1,38, 34
+2018-11-06 00:54:35 +0000,0,Charles,C,Possession,1,3,1,38, 34
+2018-11-06 00:54:42 +0000,0,Charles,C,Assist - Circle Entry,1,3,1,38, 34
+2018-11-06 00:54:42 +0000,0,Fowler,GS,Goal - Score,1,3,1,42, 10
+2018-11-06 00:54:50 +0000,1,Proud,C,Centre Pass,1,4,1,50, 100
+2018-11-06 00:54:50 +0000,1,Hadley,WA,Assist - Centre Pass Rec,1,4,1,16, 128
+2018-11-06 00:54:52 +0000,1,Housby ,GA,Assist - 2nd Phase,1,4,1,12, 152
+2018-11-06 00:54:55 +0000,1,McCulloch,WD,Possession,1,4,1,16, 132
+2018-11-06 00:54:57 +0000,1,Housby ,GA,Possession,1,4,1,27, 156
+2018-11-06 00:54:59 +0000,1,Housby ,GA,Assist - Circle Entry,1,4,1,27, 156
+2018-11-06 00:54:59 +0000,1,Wallace,GS,Goal - Score,1,4,1,43, 196
+2018-11-06 00:55:05 +0000,0,Charles,C,Centre Pass,1,4,2,50, 100
+2018-11-06 00:55:05 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,4,2,91, 74
+2018-11-06 00:55:06 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,4,2,93, 29
+2018-11-06 00:55:18 +0000,0,Medhurst,GA,Assist - Circle Entry,1,4,2,93, 29
+2018-11-06 00:55:18 +0000,0,Fowler,GS,Deflect,1,4,2,72, 10
+2018-11-06 00:55:22 +0000,1,Klau ,GK,Throw In,1,4,2,89, -2
+2018-11-06 00:56:01 +0000,1,Klau ,GK,Loss - Bad Pass,1,4,2,91, 71
+2018-11-06 01:00:13 +0000,0,Anstiss,WD,Possession,1,4,2,92, 71
+2018-11-06 01:00:16 +0000,0,Colyer ,WA,Possession,1,4,2,91, 52
+2018-11-06 01:00:25 +0000,0,Medhurst,GA,Loss - Held Ball,1,4,2,69, 40
+2018-11-06 01:00:32 +0000,1,Klau ,GK,Possession,1,4,2,68, 39
+2018-11-06 01:00:38 +0000,1,Proud,C,Possession,1,4,2,48, 55
+2018-11-06 01:00:40 +0000,1,Klau ,GK,Possession,1,4,2,28, 40
+2018-11-06 01:00:42 +0000,1,Proud,C,Possession,1,4,2,71, 53
+2018-11-06 01:00:44 +0000,1,Hadley,WA,Possession,1,4,2,95, 90
+2018-11-06 01:00:54 +0000,0,Francis,GD,Deflect,1,4,2,48, 151
+2018-11-06 01:00:54 +0000,1,Proud,C,Possession,1,4,2,47, 152
+2018-11-06 01:01:09 +0000,1,Proud,C,Assist - Circle Entry,1,4,2,47, 152
+2018-11-06 01:01:09 +0000,1,Housby ,GA,Possession,1,4,2,26, 193
+2018-11-06 01:01:11 +0000,1,Proud,C,Possession,1,4,2,37, 168
+2018-11-06 01:01:15 +0000,1,Proud,C,Assist - Circle Entry,1,4,2,37, 168
+2018-11-06 01:01:15 +0000,1,Housby ,GA,Possession,1,4,2,34, 185
+2018-11-06 01:01:19 +0000,0,Francis,GD,Penaly - Contact,1,4,2,34, 185
+2018-11-06 01:01:19 +0000,1,Housby ,GA,Goal - Score,1,4,2,34, 185
+2018-11-06 01:01:34 +0000,1,Proud,C,Centre Pass,1,4,3,50, 100
+2018-11-06 01:01:34 +0000,1,McCulloch,WD,Assist - Centre Pass Rec,1,4,3,13, 118
+2018-11-06 01:01:36 +0000,1,Proud,C,Assist - 2nd Phase,1,4,3,40, 124
+2018-11-06 01:01:39 +0000,1,Housby ,GA,Possession,1,4,3,44, 150
+2018-11-06 01:01:40 +0000,0,Anstiss,WD,Penaly - Contact,1,4,3,44, 150
+2018-11-06 01:01:40 +0000,1,Proud,C,Possession,1,4,3,44, 150
+2018-11-06 01:01:45 +0000,1,Housby ,GA,Possession,1,4,3,70, 172
+2018-11-06 01:01:48 +0000,1,Proud,C,Possession,1,4,3,73, 175
+2018-11-06 01:01:51 +0000,1,Proud,C,Assist - Circle Entry,1,4,3,73, 175
+2018-11-06 01:01:51 +0000,1,Wallace,GS,Goal - Score,1,4,3,46, 196
+2018-11-06 01:01:58 +0000,0,Charles,C,Centre Pass,1,4,4,50, 100
+2018-11-06 01:01:58 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,4,4,14, 85
+2018-11-06 01:02:00 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,4,4,82, 62
+2018-11-06 01:02:03 +0000,0,Charles,C,Possession,1,4,4,86, 10
+2018-11-06 01:02:05 +0000,0,Charles,C,Assist - Circle Entry,1,4,4,86, 10
+2018-11-06 01:02:05 +0000,0,Fowler,GS,Goal - Score,1,4,4,47, 10
+2018-11-06 01:02:19 +0000,1,Proud,C,Centre Pass,1,5,4,50, 100
+2018-11-06 01:02:19 +0000,0,Colyer ,WA,Penaly - Contact on CP,1,5,4,37, 107
+2018-11-06 01:02:19 +0000,1,McCulloch,WD,Possession,1,5,4,37, 107
+2018-11-06 01:02:25 +0000,1,Proud,C,Assist - 2nd Phase,1,5,4,38, 132
+2018-11-06 01:02:27 +0000,1,Housby ,GA,Possession,1,5,4,74, 161
+2018-11-06 01:02:32 +0000,1,Proud,C,Possession,1,5,4,16, 190
+2018-11-06 01:02:38 +0000,0,Anstiss,WD,Penaly - Contact,1,5,4,16, 190
+2018-11-06 01:02:38 +0000,1,Proud,C,Possession,1,5,4,16, 190
+2018-11-06 01:02:42 +0000,1,Proud,C,Assist - Circle Entry,1,5,4,16, 190
+2018-11-06 01:02:42 +0000,1,Housby ,GA,Goal - Miss,1,5,4,36, 185
+2018-11-06 01:02:52 +0000,0,Bruce,GK,Deflect,1,5,4,50, 197
+2018-11-06 01:03:03 +0000,1,Wallace,GS,Gain - Pick-up,1,5,4,78, 196
+2018-11-06 01:03:33 +0000,1,Hadley,WA,Possession,1,5,4,77, 178
+2018-11-06 01:03:35 +0000,1,Hadley,WA,Assist - Circle Entry,1,5,4,77, 178
+2018-11-06 01:03:35 +0000,1,Housby ,GA,Goal - Score,1,5,4,63, 185
+2018-11-06 01:03:45 +0000,0,Charles,C,Centre Pass,1,5,5,50, 100
+2018-11-06 01:03:45 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,5,5,78, 90
+2018-11-06 01:03:47 +0000,0,Charles,C,Assist - 2nd Phase,1,5,5,53, 71
+2018-11-06 01:03:49 +0000,0,Medhurst,GA,Possession,1,5,5,22, 66
+2018-11-06 01:03:51 +0000,0,Medhurst,GA,Assist - Circle Entry,1,5,5,22, 66
+2018-11-06 01:03:51 +0000,0,Fowler,GS,Possession,1,5,5,33, 8
+2018-11-06 01:03:55 +0000,0,Charles,C,Possession,1,5,5,79, 21
+2018-11-06 01:03:58 +0000,1,Proud,C,Penaly - Contact,1,5,5,79, 21
+2018-11-06 01:03:58 +0000,0,Charles,C,Possession,1,5,5,79, 21
+2018-11-06 01:04:02 +0000,0,Charles,C,Assist - Circle Entry,1,5,5,79, 21
+2018-11-06 01:04:02 +0000,0,Fowler,GS,Possession,1,5,5,50, 18
+2018-11-06 01:04:05 +0000,1,Turner,GD,Penaly - Obstruction,1,5,5,50, 18
+2018-11-06 01:04:05 +0000,0,Fowler,GS,Goal - Score,1,5,5,50, 18
+2018-11-06 01:04:15 +0000,1,Proud,C,Centre Pass,1,6,5,50, 100
+2018-11-06 01:04:15 +0000,1,Hadley,WA,Assist - Centre Pass Rec,1,6,5,41, 118
+2018-11-06 01:04:19 +0000,0,Charles,C,Penaly - Contact,1,6,5,41, 118
+2018-11-06 01:04:19 +0000,1,McCulloch,WD,Possession,1,6,5,41, 118
+2018-11-06 01:04:26 +0000,1,Hadley,WA,Possession,1,6,5,9, 151
+2018-11-06 01:04:30 +0000,1,McCulloch,WD,Possession,1,6,5,24, 131
+2018-11-06 01:04:33 +0000,1,Housby ,GA,Possession,1,6,5,16, 182
+2018-11-06 01:04:34 +0000,0,Bruce,GK,Penaly - Contact,1,6,5,16, 182
+2018-11-06 01:04:34 +0000,1,Hadley,WA,Possession,1,6,5,16, 182
+2018-11-06 01:04:41 +0000,1,Hadley,WA,Assist - Circle Entry,1,6,5,16, 182
+2018-11-06 01:04:41 +0000,1,Housby ,GA,Assist - 2nd Phase,1,6,5,36, 178
+2018-11-06 01:04:44 +0000,1,Proud,C,Possession,1,6,5,80, 181
+2018-11-06 01:04:46 +0000,1,Proud,C,Assist - Circle Entry,1,6,5,80, 181
+2018-11-06 01:04:46 +0000,1,Housby ,GA,Goal - Score,1,6,5,63, 193
+2018-11-06 01:04:58 +0000,0,Charles,C,Centre Pass,1,6,6,50, 100
+2018-11-06 01:04:58 +0000,0,Medhurst,GA,Loss - Break,1,6,6,41, 68
+2018-11-06 01:05:04 +0000,1,McCulloch,WD,Possession,1,6,6,40, 70
+2018-11-06 01:05:07 +0000,1,Proud,C,Possession,1,6,6,16, 105
+2018-11-06 01:05:09 +0000,1,Hadley,WA,Possession,1,6,6,31, 98
+2018-11-06 01:05:14 +0000,1,Turner,GD,Possession,1,6,6,57, 89
+2018-11-06 01:05:21 +0000,1,McCulloch,WD,Possession,1,6,6,45, 118
+2018-11-06 01:05:23 +0000,1,Hadley,WA,Possession,1,6,6,14, 116
+2018-11-06 01:05:25 +0000,1,Proud,C,Possession,1,6,6,12, 149
+2018-11-06 01:05:27 +0000,1,Wallace,GS,Possession,1,6,6,62, 168
+2018-11-06 01:05:30 +0000,1,Hadley,WA,Possession,1,6,6,62, 153
+2018-11-06 01:05:33 +0000,1,Hadley,WA,Assist - Circle Entry,1,6,6,62, 153
+2018-11-06 01:05:34 +0000,1,Housby ,GA,Goal - Score,1,6,6,64, 195
+2018-11-06 01:05:46 +0000,1,Proud,C,Centre Pass,1,6,7,50, 100
+2018-11-06 01:05:46 +0000,1,Hadley,WA,Assist - Centre Pass Rec,1,6,7,20, 128
+2018-11-06 01:05:48 +0000,1,Housby ,GA,Assist - 2nd Phase,1,6,7,45, 139
+2018-11-06 01:05:51 +0000,1,Housby ,GA,Assist - Circle Entry,1,6,7,45, 139
+2018-11-06 01:05:51 +0000,1,Wallace,GS,Goal - Score,1,6,7,71, 194
+2018-11-06 01:06:01 +0000,0,Charles,C,Centre Pass,1,6,8,50, 100
+2018-11-06 01:06:01 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,6,8,9, 90
+2018-11-06 01:06:06 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,6,8,36, 81
+2018-11-06 01:06:15 +0000,1,Turner,GD,Penaly - Obstruction,1,6,8,37, 71
+2018-11-06 01:06:15 +0000,0,Medhurst,GA,Possession,1,6,8,37, 71
+2018-11-06 01:06:23 +0000,0,Medhurst,GA,Assist - Circle Entry,1,6,8,37, 71
+2018-11-06 01:06:23 +0000,0,Fowler,GS,Goal - Miss,1,6,8,38, 8
+2018-11-06 01:06:33 +0000,1,Klau ,GK,Gain - Def Reb,1,6,8,50, 2
+2018-11-06 01:06:43 +0000,1,Turner,GD,Possession,1,6,8,75, 13
+2018-11-06 01:06:44 +0000,1,Proud,C,Possession,1,6,8,85, 40
+2018-11-06 01:06:51 +0000,1,McCulloch,WD,Deflect,1,6,8,88, 101
+2018-11-06 01:06:57 +0000,0,Francis,GD,Gain - Inter,1,6,8,83, 135
+2018-11-06 01:07:05 +0000,0,Colyer ,WA,Possession,1,6,8,15, 93
+2018-11-06 01:07:07 +0000,0,Francis,GD,Possession,1,6,8,36, 71
+2018-11-06 01:07:09 +0000,0,Colyer ,WA,Possession,1,6,8,45, 45
+2018-11-06 01:07:11 +0000,0,Charles,C,Possession,1,6,8,75, 27
+2018-11-06 01:07:15 +0000,0,Charles,C,Assist - Circle Entry,1,6,8,75, 27
+2018-11-06 01:07:15 +0000,0,Medhurst,GA,Goal - Score,1,6,8,55, 7
+2018-11-06 01:07:23 +0000,1,Proud,C,Centre Pass,1,7,8,50, 100
+2018-11-06 01:07:23 +0000,0,Colyer ,WA,Penaly - Contact on CP,1,7,8,40, 122
+2018-11-06 01:07:23 +0000,1,McCulloch,WD,Possession,1,7,8,40, 122
+2018-11-06 01:07:32 +0000,1,Hadley,WA,Assist - 2nd Phase,1,7,8,20, 129
+2018-11-06 01:07:34 +0000,1,McCulloch,WD,Possession,1,7,8,29, 131
+2018-11-06 01:07:36 +0000,1,Hadley,WA,Possession,1,7,8,16, 193
+2018-11-06 01:07:38 +0000,1,Hadley,WA,Assist - Circle Entry,1,7,8,16, 193
+2018-11-06 01:07:38 +0000,1,Wallace,GS,Goal - Score,1,7,8,41, 192
+2018-11-06 01:07:46 +0000,0,,UNKNOWN,Timeout,1,7,9,-10, -22
+2018-11-06 01:08:50 +0000,0,Charles,C,Centre Pass,1,7,9,50, 100
+2018-11-06 01:08:50 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,1,7,9,78, 76
+2018-11-06 01:08:52 +0000,0,Colyer ,WA,Assist - 2nd Phase,1,7,9,88, 59
+2018-11-06 01:08:59 +0000,0,Anstiss,WD,Possession,1,7,9,86, 70
+2018-11-06 01:09:01 +0000,1,Housby ,GA,Penaly - Obstruction,1,7,9,86, 70
+2018-11-06 01:09:01 +0000,0,Anstiss,WD,Possession,1,7,9,86, 70
+2018-11-06 01:09:07 +0000,0,Medhurst,GA,Possession,1,7,9,77, 43
+2018-11-06 01:09:12 +0000,0,Medhurst,GA,Assist - Circle Entry,1,7,9,77, 43
+2018-11-06 01:09:12 +0000,0,Fowler,GS,Possession,1,7,9,68, 18
+2018-11-06 01:09:15 +0000,0,Colyer ,WA,Possession,1,7,9,86, 12
+2018-11-06 01:09:19 +0000,1,McCulloch,WD,Penaly - Obstruction,1,7,9,86, 12
+2018-11-06 01:09:19 +0000,0,Colyer ,WA,Possession,1,7,9,86, 12
+2018-11-06 01:09:24 +0000,0,Medhurst,GA,Possession,1,7,9,52, 36
+2018-11-06 01:09:27 +0000,0,Medhurst,GA,Assist - Circle Entry,1,7,9,52, 36
+2018-11-06 01:09:27 +0000,0,Fowler,GS,Goal - Score,1,7,9,44, 7
+2018-11-06 01:09:34 +0000,1,Proud,C,Centre Pass,1,8,9,50, 100
+2018-11-06 01:09:34 +0000,1,Housby ,GA,Assist - Centre Pass Rec,1,8,9,79, 125
+2018-11-06 01:09:42 +0000,1,Hadley,WA,Assist - 2nd Phase,1,8,9,18, 185
+2018-11-06 01:09:46 +0000,1,McCulloch,WD,Possession,1,8,9,16, 132
+2018-11-06 01:09:48 +0000,1,Hadley,WA,Possession,1,8,9,9, 145
+2018-11-06 01:09:50 +0000,1,Proud,C,Possession,1,8,9,39, 139
+2018-11-06 01:09:52 +0000,1,Wallace,GS,Possession,1,8,9,25, 176
+2018-11-06 01:09:55 +0000,1,Hadley,WA,Possession,1,8,9,82, 189
+2018-11-06 01:09:59 +0000,1,Hadley,WA,Assist - Circle Entry,1,8,9,82, 189
+2018-11-06 01:09:59 +0000,1,Housby ,GA,Possession,1,8,9,63, 195
+2018-11-06 01:10:02 +0000,0,Bruce,GK,Penaly - Contact,1,8,9,63, 195
+2018-11-06 01:10:02 +0000,1,Housby ,GA,Goal - Miss,1,8,9,63, 195
+2018-11-06 01:10:08 +0000,1,Wallace,GS,Assist - Attack Rebound,1,8,9,50, 197
+2018-11-06 01:10:09 +0000,1,Wallace,GS,Goal - Score,1,8,9,63, 195
+2018-11-06 01:10:14 +0000,0,Charles,C,Centre Pass,1,8,10,50, 100
+2018-11-06 01:10:14 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,8,10,16, 75
+2018-11-06 01:10:16 +0000,0,Charles,C,Assist - 2nd Phase,1,8,10,33, 56
+2018-11-06 01:10:19 +0000,0,Charles,C,Assist - Circle Entry,1,8,10,33, 56
+2018-11-06 01:10:19 +0000,1,Klau ,GK,Gain - Inter,1,8,10,50, 21
+2018-11-06 01:10:25 +0000,1,Proud,C,Possession,1,8,10,67, 43
+2018-11-06 01:10:30 +0000,0,Medhurst,GA,Deflect,1,8,10,86, 55
+2018-11-06 01:10:30 +0000,1,McCulloch,WD,Throw In,1,8,10,107, 57
+2018-11-06 01:10:38 +0000,1,Klau ,GK,Possession,1,8,10,59, 45
+2018-11-06 01:10:40 +0000,1,Proud,C,Possession,1,8,10,59, 65
+2018-11-06 01:10:54 +0000,0,Charles,C,Gain - Tip (Deflect),1,8,10,59, 66
+2018-11-06 01:11:00 +0000,0,Charles,C,Possession,1,8,10,6, 46
+2018-11-06 01:11:03 +0000,0,Fowler,GS,Possession,1,8,10,46, 51
+2018-11-06 01:11:06 +0000,0,Charles,C,Loss - Bad Pass,1,8,10,15, 8
+2018-11-06 01:11:12 +0000,1,Klau ,GK,Throw In,1,8,10,106, 5
+2018-11-06 01:11:22 +0000,0,Fowler,GS,Deflect,1,8,10,88, 4
+2018-11-06 01:11:22 +0000,1,Klau ,GK,Throw In,1,8,10,84, -3
+2018-11-06 01:11:31 +0000,1,Turner,GD,Possession,1,8,10,91, 29
+2018-11-06 01:11:33 +0000,0,Charles,C,Gain - Inter,1,8,10,56, 63
+2018-11-06 01:11:42 +0000,0,Medhurst,GA,Possession,1,8,10,74, 55
+2018-11-06 01:11:46 +0000,1,Proud,C,Penaly - Contact,1,8,10,69, 46
+2018-11-06 01:11:46 +0000,0,Charles,C,Possession,1,8,10,69, 46
+2018-11-06 01:11:52 +0000,0,Charles,C,Assist - Circle Entry,1,8,10,69, 46
+2018-11-06 01:11:52 +0000,0,Fowler,GS,Possession,1,8,10,66, 15
+2018-11-06 01:11:57 +0000,1,Turner,GD,Penaly - Contact,1,8,10,62, 8
+2018-11-06 01:11:57 +0000,0,Fowler,GS,Goal - Score,1,8,10,62, 8
+2018-11-06 01:12:04 +0000,1,Proud,C,Centre Pass,1,9,10,50, 100
+2018-11-06 01:12:04 +0000,1,Housby ,GA,Assist - Centre Pass Rec,1,9,10,39, 124
+2018-11-06 01:12:07 +0000,1,Hadley,WA,Assist - 2nd Phase,1,9,10,14, 190
+2018-11-06 01:12:10 +0000,1,Hadley,WA,Assist - Circle Entry,1,9,10,14, 190
+2018-11-06 01:12:10 +0000,0,Bruce,GK,Gain - Inter,1,9,10,47, 188
+2018-11-06 01:12:16 +0000,0,Charles,C,Possession,1,9,10,31, 162
+2018-11-06 01:12:24 +0000,1,Proud,C,Penaly - Contact,1,9,10,50, 132
+2018-11-06 01:12:24 +0000,0,Anstiss,WD,Possession,1,9,10,50, 132
+2018-11-06 01:12:30 +0000,0,Colyer ,WA,Possession,1,9,10,86, 109
+2018-11-06 01:12:32 +0000,0,Medhurst,GA,Possession,1,9,10,92, 71
+2018-11-06 01:12:34 +0000,0,Charles,C,Possession,1,9,10,54, 50
+2018-11-06 01:12:37 +0000,0,Medhurst,GA,Possession,1,9,10,67, 34
+2018-11-06 01:12:39 +0000,0,Medhurst,GA,Assist - Circle Entry,1,9,10,67, 34
+2018-11-06 01:12:39 +0000,0,Fowler,GS,Goal - Score,1,9,10,49, 9
+2018-11-06 01:12:50 +0000,0,Charles,C,Centre Pass,1,10,10,50, 100
+2018-11-06 01:12:50 +0000,0,Francis,GD,Assist - Centre Pass Rec,1,10,10,43, 105
+2018-11-06 01:12:55 +0000,0,Francis,GD,Assist - Circle Entry,1,10,10,43, 105
+2018-11-06 01:12:55 +0000,0,Fowler,GS,Loss - Drop,1,10,10,53, 10
+2018-11-06 01:13:25 +0000,1,Klau ,GK,Throw In,1,10,10,50, 3
+2018-11-06 01:13:37 +0000,1,McCulloch,WD,Possession,1,10,10,85, 11
+2018-11-06 01:13:40 +0000,1,Klau ,GK,Possession,1,10,10,92, 52
+2018-11-06 01:13:42 +0000,1,McCulloch,WD,Possession,1,10,10,59, 41
+2018-11-06 01:13:51 +0000,1,Proud,C,Possession,1,10,10,46, 51
+2018-11-06 01:13:55 +0000,1,Hadley,WA,Possession,1,10,10,19, 80
+2018-11-06 01:14:01 +0000,1,Housby ,GA,Possession,1,10,10,10, 113
+2018-11-06 01:14:09 +0000,0,Bruce,GK,Penaly - Contact,1,10,10,31, 169
+2018-11-06 01:14:10 +0000,1,Proud,C,Possession,1,10,10,31, 169
+2018-11-06 01:14:23 +0000,1,Proud,C,Assist - Circle Entry,1,10,10,31, 169
+2018-11-06 01:14:23 +0000,1,Housby ,GA,Possession,1,10,10,46, 187
+2018-11-06 01:14:27 +0000,0,Bruce,GK,Penaly - Obstruction,1,10,10,46, 187
+2018-11-06 01:14:28 +0000,1,Housby ,GA,Goal - Miss,1,10,10,46, 187
+2018-11-06 01:14:35 +0000,0,Bruce,GK,Gain - Def Reb,1,10,10,50, 197
+2018-11-06 01:14:36 +0000,1,Wallace,GS,Penaly - Contact,1,10,10,50, 197
+2018-11-06 01:14:36 +0000,0,Bruce,GK,Possession,1,10,10,50, 197
+2018-11-06 01:14:44 +0000,0,Francis,GD,Possession,1,10,10,14, 155
+2018-11-06 01:14:46 +0000,0,Anstiss,WD,Possession,1,10,10,35, 117
+2018-11-06 01:14:52 +0000,0,Medhurst,GA,Possession,1,10,10,8, 83
+2018-11-06 01:14:55 +0000,0,Anstiss,WD,Possession,1,10,10,36, 76
+2018-11-06 01:15:00 +0000,0,Colyer ,WA,Possession,1,10,10,15, 61
+2018-11-06 01:15:04 +0000,1,McCulloch,WD,Penaly - Obstruction,1,10,10,23, 56
+2018-11-06 01:15:04 +0000,0,Colyer ,WA,Possession,1,10,10,23, 56
+2018-11-06 01:15:14 +0000,0,Colyer ,WA,Assist - Circle Entry,1,10,10,23, 56
+2018-11-06 01:15:14 +0000,0,Fowler,GS,Possession,1,10,10,25, 7
+2018-11-06 01:15:17 +0000,0,Colyer ,WA,Possession,1,10,10,35, 34
+2018-11-06 01:15:19 +0000,0,Colyer ,WA,Assist - Circle Entry,1,10,10,35, 34
+2018-11-06 01:15:19 +0000,0,Medhurst,GA,Possession,1,10,10,44, 19
+2018-11-06 01:15:21 +0000,0,Fowler,GS,Goal - Score,1,10,10,54, 9
+2018-11-06 01:15:29 +0000,1,Proud,C,Centre Pass,1,11,10,50, 100
+2018-11-06 01:15:29 +0000,1,Hadley,WA,Assist - Centre Pass Rec,1,11,10,92, 122
+2018-11-06 01:15:34 +0000,1,Housby ,GA,Assist - 2nd Phase,1,11,10,78, 140
+2018-11-06 01:15:38 +0000,1,Proud,C,Possession,1,11,10,26, 172
+2018-11-06 01:15:40 +0000,1,Proud,C,Assist - Circle Entry,1,11,10,26, 172
+2018-11-06 01:15:40 +0000,1,Wallace,GS,Goal - Score,1,11,10,57, 193
+2018-11-06 01:15:47 +0000,0,Charles,C,Centre Pass,1,11,11,50, 100
+2018-11-06 01:15:48 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,1,11,11,91, 76
+2018-11-06 01:15:51 +0000,0,Medhurst,GA,Assist - Circle Entry,1,11,11,91, 76
+2018-11-06 01:15:51 +0000,0,Fowler,GS,Goal - Score,1,11,11,46, 12
+2018-11-06 01:16:00 +0000,1,Proud,C,Centre Pass,1,12,11,50, 100
+2018-11-06 01:16:00 +0000,1,Hadley,WA,Assist - Centre Pass Rec,1,12,11,59, 124
+2018-11-06 01:16:02 +0000,1,Housby ,GA,Assist - 2nd Phase,1,12,11,93, 146
+2018-11-06 01:16:03 +0000,1,Proud,C,Possession,1,12,11,60, 140
+2018-11-06 01:16:06 +0000,0,Bruce,GK,Gain - Inter,1,12,11,37, 164
+2018-11-06 01:16:10 +0000,0,Medhurst,GA,Possession,1,12,11,15, 127
+2018-11-06 01:16:15 +0000,0,Colyer ,WA,Possession,1,12,11,69, 48
+2018-11-06 01:16:16 +0000,1,Klau ,GK,Penaly - Contact,1,12,11,69, 48
+2018-11-06 01:16:16 +0000,0,Colyer ,WA,Possession,1,12,11,69, 48
+2018-11-06 01:16:30 +0000,1,Klau ,GK,Penaly - Contact,1,12,11,56, 36
+2018-11-06 01:16:30 +0000,0,Colyer ,WA,Possession,1,12,11,56, 36
+2018-11-06 01:16:40 +0000,0,Colyer ,WA,Assist - Circle Entry,1,12,11,56, 36
+2018-11-06 01:16:40 +0000,0,Fowler,GS,Goal - Score,1,12,11,48, 12
+2018-11-06 01:16:51 +0000,1,,UNKNOWN,Timeout,1,13,11,-10, -22
+2018-11-06 01:17:11 +0000,0,Charles,C,Centre Pass,1,13,11,50, 100
+2018-11-06 01:17:11 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,1,13,11,58, 81
+2018-11-06 01:17:13 +0000,0,Anstiss,WD,Assist - 2nd Phase,1,13,11,29, 72
+2018-11-06 01:17:18 +0000,0,Colyer ,WA,Possession,1,13,11,53, 73
+2018-11-06 01:17:20 +0000,0,Medhurst,GA,Possession,1,13,11,26, 38
+2018-11-06 01:17:22 +0000,0,Colyer ,WA,Possession,1,13,11,17, 20
+2018-11-06 01:17:24 +0000,0,Colyer ,WA,Assist - Circle Entry,1,13,11,17, 20
+2018-11-06 01:17:24 +0000,0,Medhurst,GA,Possession,1,13,11,20, 5
+2018-11-06 01:17:31 +0000,0,Charles,C,Possession,1,13,11,74, 27
+2018-11-06 01:17:37 +0000,0,Charles,C,Assist - Circle Entry,1,13,11,74, 27
+2018-11-06 01:17:37 +0000,1,Turner,GD,Gain - Inter,1,13,11,26, 7
+2018-11-06 01:17:44 +0000,1,McCulloch,WD,Possession,1,13,11,14, 19
+2018-11-06 01:17:48 +0000,1,Klau ,GK,Possession,1,13,11,48, 17
+2018-11-06 01:17:50 +0000,1,Turner,GD,Possession,1,13,11,26, 8
+2018-11-06 01:17:51 +0000,1,McCulloch,WD,Possession,1,13,11,10, 16
+2018-11-06 01:17:53 +0000,1,Turner,GD,Possession,1,13,11,51, 26
+2018-11-06 01:17:55 +0000,1,Klau ,GK,Possession,1,13,11,93, 50
+2018-11-06 01:17:57 +0000,1,Hadley,WA,Possession,1,13,11,92, 74
+2018-11-06 01:18:01 +0000,1,Klau ,GK,Possession,1,13,11,80, 44
+2018-11-06 01:18:03 +0000,1,Turner,GD,Possession,1,13,11,74, 61
+2018-11-06 01:18:06 +0000,1,McCulloch,WD,Possession,1,13,11,92, 95
+2018-11-06 01:18:09 +0000,1,Proud,C,Possession,1,13,11,70, 88
+2018-11-06 01:18:12 +0000,1,Hadley,WA,Possession,1,13,11,79, 116
+2018-11-06 01:18:14 +0000,1,Turner,GD,Possession,1,13,11,48, 90
+2018-11-06 01:18:16 +0000,1,Housby ,GA,Possession,1,13,11,19, 131
+2018-11-06 01:18:19 +0000,1,McCulloch,WD,Possession,1,13,11,41, 129
+2018-11-06 01:18:21 +0000,1,Hadley,WA,Possession,1,13,11,50, 147
+2018-11-06 01:18:29 +0000,1,McCulloch,WD,Possession,1,13,11,40, 131
+2018-11-06 01:18:33 +0000,1,Hadley,WA,Possession,1,13,11,43, 144
+2018-11-06 01:18:37 +0000,0,Bruce,GK,Gain - Inter,1,13,11,78, 161
+2018-11-06 01:18:44 +0000,0,Colyer ,WA,Possession,1,13,11,61, 106
+2018-11-06 01:18:47 +0000,0,Medhurst,GA,Possession,1,13,11,49, 63
+2018-11-06 01:18:52 +0000,0,Anstiss,WD,Possession,1,13,11,53, 72
+2018-11-06 01:18:54 +0000,0,Colyer ,WA,Possession,1,13,11,85, 38
+2018-11-06 01:18:57 +0000,0,Charles,C,Possession,1,13,11,71, 40
+2018-11-06 01:18:58 +0000,1,Proud,C,Penaly - Contact,1,13,11,71, 40
+2018-11-06 01:18:58 +0000,0,Charles,C,Possession,1,13,11,71, 40
+2018-11-06 01:19:03 +0000,0,Charles,C,Assist - Circle Entry,1,13,11,71, 40
+2018-11-06 01:19:03 +0000,0,Fowler,GS,Goal - Score,1,13,11,48, 9
+2018-11-06 01:19:09 +0000,1,Proud,C,Centre Pass,1,14,11,50, 100
+2018-11-06 01:19:10 +0000,1,Hadley,WA,Assist - Centre Pass Rec,1,14,11,93, 122
+2018-11-06 01:19:12 +0000,1,Housby ,GA,Assist - 2nd Phase,1,14,11,94, 146
+2018-11-06 01:19:15 +0000,1,Proud,C,Possession,1,14,11,88, 188
+2018-11-06 01:19:21 +0000,1,Proud,C,Assist - Circle Entry,1,14,11,88, 188
+2018-11-06 01:19:21 +0000,0,Bruce,GK,Gain - Tip (Deflect),1,14,11,51, 190
+2018-11-06 01:19:26 +0000,0,Francis,GD,Possession,1,14,11,33, 182
+2018-11-06 01:19:30 +0000,0,Anstiss,WD,Possession,1,14,11,49, 157
+2018-11-06 01:19:32 +0000,0,Charles,C,Possession,1,14,11,53, 120
+2018-11-06 01:19:37 +0000,0,Francis,GD,Possession,1,14,11,17, 76
+2018-11-06 01:19:39 +0000,0,Colyer ,WA,Possession,1,14,11,49, 52
+2018-11-06 01:19:43 +0000,0,Anstiss,WD,Possession,1,14,11,48, 70
+2018-11-06 01:19:45 +0000,0,Colyer ,WA,Possession,1,14,11,27, 29
+2018-11-06 01:19:49 +0000,0,Medhurst,GA,Possession,1,14,11,15, 5
+2018-11-06 01:19:52 +0000,0,Medhurst,GA,Assist - Circle Entry,1,14,11,15, 5
+2018-11-06 01:19:52 +0000,0,Fowler,GS,Goal - Score,1,14,11,50, 14
+2018-11-06 01:20:09 +0000,0,Charles,C,Centre Pass,1,15,11,50, 100
+2018-11-06 01:20:09 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,1,15,11,19, 96
+2018-11-06 01:20:11 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,15,11,15, 52
+2018-11-06 01:20:13 +0000,0,Charles,C,Possession,1,15,11,34, 38
+2018-11-06 01:20:15 +0000,0,Charles,C,Assist - Circle Entry,1,15,11,34, 38
+2018-11-06 01:20:15 +0000,0,Fowler,GS,Goal - Score,1,15,11,38, 8
+2018-11-06 01:20:22 +0000,1,Proud,C,Centre Pass,1,16,11,50, 100
+2018-11-06 01:20:22 +0000,1,Housby ,GA,Assist - Centre Pass Rec,1,16,11,23, 117
+2018-11-06 01:20:24 +0000,1,Proud,C,Assist - 2nd Phase,1,16,11,48, 129
+2018-11-06 01:20:26 +0000,1,Hadley,WA,Possession,1,16,11,18, 148
+2018-11-06 01:20:27 +0000,1,McCulloch,WD,Possession,1,16,11,25, 132
+2018-11-06 01:20:29 +0000,1,Hadley,WA,Possession,1,16,11,14, 152
+2018-11-06 01:20:31 +0000,1,Wallace,GS,Loss - Bad Pass,1,16,11,51, 152
+2018-11-06 01:20:39 +0000,0,Francis,GD,Gain - Pick-up,1,16,11,85, 180
+2018-11-06 01:20:48 +0000,0,Bruce,GK,Possession,1,16,11,70, 172
+2018-11-06 01:20:59 +0000,0,Anstiss,WD,Possession,1,16,11,21, 180
+2018-11-06 01:21:02 +0000,1,Hadley,WA,Penaly - Contact,1,16,11,35, 164
+2018-11-06 01:21:02 +0000,0,Bruce,GK,Possession,1,16,11,35, 164
+2018-11-06 01:21:15 +0000,0,Anstiss,WD,Possession,1,16,11,12, 116
+2018-11-06 01:21:17 +0000,0,Medhurst,GA,Possession,1,16,11,8, 86
+2018-11-06 01:21:19 +0000,0,Francis,GD,Possession,1,16,11,90, 82
+2018-11-06 01:21:22 +0000,0,Colyer ,WA,Possession,1,16,11,34, 80
+2018-11-06 01:21:24 +0000,0,Medhurst,GA,Possession,1,16,11,13, 45
+2018-11-06 01:21:27 +0000,0,Colyer ,WA,Possession,1,16,11,20, 19
+2018-11-06 01:21:29 +0000,0,Colyer ,WA,Assist - Circle Entry,1,16,11,20, 19
+2018-11-06 01:21:29 +0000,0,Fowler,GS,Goal - Miss,1,16,11,43, 18
+2018-11-06 01:21:46 +0000,0,Medhurst,GA,Loss - Out of Court,1,16,11,50, 2
+2018-11-06 01:26:51 +0000,0,Wallace,UNKNOWN,Interchange - Garbin,2,16,11,
+2018-11-06 01:26:51 +0000,0,Hadley,UNKNOWN,Interchange - O’Brien,2,16,11,
+2018-11-06 01:26:51 +0000,0,McCulloch,UNKNOWN,Interchange - Hadley,2,16,11,
+2018-11-06 01:26:52 +0000,0,Charles,C,Centre Pass,2,16,11,50, 100
+2018-11-06 01:26:52 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,2,16,11,49, 76
+2018-11-06 01:26:53 +0000,0,,UNKNOWN,Assist - Circle Entry,2,16,11,49, 76
+2018-11-06 01:26:53 +0000,0,Fowler,GS,Assist - 2nd Phase,2,16,11,47, 14
+2018-11-06 01:26:56 +0000,0,Fowler,GS,Goal - Score,2,16,11,47, 14
+2018-11-06 01:32:13 +0000,1,Proud,C,Centre Pass,2,17,11,50, 100
+2018-11-06 01:32:13 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,2,17,11,6, 123
+2018-11-06 01:32:15 +0000,1,Proud,C,Assist - 2nd Phase,2,17,11,43, 125
+2018-11-06 01:32:17 +0000,1,O’Brien,WA,Possession,2,17,11,10, 187
+2018-11-06 01:32:22 +0000,0,Charles,C,Penaly - Contact,2,17,11,10, 187
+2018-11-06 01:32:22 +0000,1,O’Brien,WA,Possession,2,17,11,10, 187
+2018-11-06 01:32:27 +0000,1,O’Brien,WA,Assist - Circle Entry,2,17,11,10, 187
+2018-11-06 01:32:27 +0000,1,Garbin,GS,Possession,2,17,11,30, 192
+2018-11-06 01:32:34 +0000,1,Proud,C,Possession,2,17,11,66, 167
+2018-11-06 01:32:36 +0000,1,Proud,C,Assist - Circle Entry,2,17,11,66, 167
+2018-11-06 01:32:37 +0000,1,Housby ,GA,Goal - Score,2,17,11,61, 194
+2018-11-06 01:32:45 +0000,0,Charles,C,Centre Pass,2,17,12,50, 100
+2018-11-06 01:32:45 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,17,12,76, 72
+2018-11-06 01:32:46 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,17,12,80, 43
+2018-11-06 01:32:49 +0000,0,Medhurst,GA,Assist - Circle Entry,2,17,12,80, 43
+2018-11-06 01:32:49 +0000,0,Fowler,GS,Goal - Miss,2,17,12,58, 4
+2018-11-06 01:32:56 +0000,1,Turner,GD,Gain - Def Reb,2,17,12,50, 2
+2018-11-06 01:33:01 +0000,1,Klau ,GK,Possession,2,17,12,57, 6
+2018-11-06 01:33:03 +0000,0,Fowler,GS,Penaly - Contact,2,17,12,57, 6
+2018-11-06 01:33:03 +0000,1,Klau ,GK,Possession,2,17,12,57, 6
+2018-11-06 01:33:09 +0000,1,Hadley,WD,Possession,2,17,12,76, 21
+2018-11-06 01:33:11 +0000,1,Proud,C,Possession,2,17,12,34, 46
+2018-11-06 01:33:13 +0000,1,Turner,GD,Possession,2,17,12,44, 73
+2018-11-06 01:33:17 +0000,1,O’Brien,WA,Possession,2,17,12,30, 103
+2018-11-06 01:33:21 +0000,1,Housby ,GA,Possession,2,17,12,71, 145
+2018-11-06 01:33:23 +0000,1,Turner,GD,Possession,2,17,12,64, 129
+2018-11-06 01:33:25 +0000,1,Proud,C,Possession,2,17,12,54, 146
+2018-11-06 01:33:29 +0000,1,Proud,C,Assist - Circle Entry,2,17,12,54, 146
+2018-11-06 01:33:29 +0000,1,Garbin,GS,Possession,2,17,12,35, 186
+2018-11-06 01:33:31 +0000,0,Bruce,GK,Penaly - Contact,2,17,12,35, 186
+2018-11-06 01:33:31 +0000,1,Garbin,GS,Possession,2,17,12,35, 186
+2018-11-06 01:33:37 +0000,1,Housby ,GA,Goal - Score,2,17,12,56, 192
+2018-11-06 01:33:43 +0000,1,Proud,C,Centre Pass,2,17,13,50, 100
+2018-11-06 01:33:43 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,2,17,13,10, 126
+2018-11-06 01:33:46 +0000,1,O’Brien,WA,Assist - Circle Entry,2,17,13,10, 126
+2018-11-06 01:33:46 +0000,1,Garbin,GS,Assist - 2nd Phase,2,17,13,49, 190
+2018-11-06 01:33:48 +0000,0,Francis,GD,Penaly - Contact,2,17,13,49, 190
+2018-11-06 01:33:48 +0000,1,Garbin,GS,Goal - Score,2,17,13,49, 190
+2018-11-06 01:33:56 +0000,0,Charles,C,Centre Pass,2,17,14,50, 100
+2018-11-06 01:33:56 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,2,17,14,46, 106
+2018-11-06 01:33:59 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,17,14,59, 69
+2018-11-06 01:34:07 +0000,0,Charles,C,Possession,2,17,14,83, 9
+2018-11-06 01:34:13 +0000,0,Charles,C,Assist - Circle Entry,2,17,14,83, 9
+2018-11-06 01:34:14 +0000,0,Medhurst,GA,Possession,2,17,14,63, 6
+2018-11-06 01:34:19 +0000,1,Klau ,GK,Penaly - Contact,2,17,14,63, 6
+2018-11-06 01:34:19 +0000,0,Medhurst,GA,Goal - Score,2,17,14,63, 6
+2018-11-06 01:34:32 +0000,1,Proud,C,Centre Pass,2,18,14,50, 100
+2018-11-06 01:34:32 +0000,1,Housby ,GA,Assist - Centre Pass Rec,2,18,14,39, 115
+2018-11-06 01:34:36 +0000,1,Housby ,GA,Assist - Circle Entry,2,18,14,39, 115
+2018-11-06 01:34:36 +0000,1,Garbin,GS,Possession,2,18,14,71, 183
+2018-11-06 01:34:39 +0000,0,Bruce,GK,Penaly - Contact,2,18,14,71, 183
+2018-11-06 01:34:39 +0000,1,Housby ,GA,Possession,2,18,14,71, 183
+2018-11-06 01:34:49 +0000,1,Garbin,GS,Possession,2,18,14,45, 193
+2018-11-06 01:34:50 +0000,0,Francis,GD,Penaly - Contact,2,18,14,45, 193
+2018-11-06 01:34:50 +0000,1,Garbin,GS,Goal - Miss,2,18,14,45, 193
+2018-11-06 01:34:56 +0000,1,Garbin,GS,Assist - Attack Rebound,2,18,14,50, 197
+2018-11-06 01:34:57 +0000,1,Garbin,GS,Goal - Score,2,18,14,45, 193
+2018-11-06 01:35:03 +0000,0,Charles,C,Centre Pass,2,18,15,50, 100
+2018-11-06 01:35:03 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,18,15,4, 81
+2018-11-06 01:35:09 +0000,0,Colyer ,WA,Assist - Circle Entry,2,18,15,4, 81
+2018-11-06 01:35:10 +0000,0,Fowler,GS,Loss - Out of Court,2,18,15,53, 1
+2018-11-06 01:35:24 +0000,1,Klau ,GK,Throw In,2,18,15,53, 0
+2018-11-06 01:35:29 +0000,1,Turner,GD,Possession,2,18,15,35, 17
+2018-11-06 01:35:30 +0000,1,Proud,C,Possession,2,18,15,4, 56
+2018-11-06 01:35:34 +0000,1,Klau ,GK,Possession,2,18,15,52, 27
+2018-11-06 01:35:36 +0000,1,Hadley,WD,Possession,2,18,15,85, 57
+2018-11-06 01:35:39 +0000,1,O’Brien,WA,Possession,2,18,15,87, 80
+2018-11-06 01:36:56 +0000,1,Turner,GD,Possession,2,18,15,88, 112
+2018-11-06 01:37:06 +0000,1,Proud,C,Loss - Drop,2,18,15,84, 175
+2018-11-06 01:37:30 +0000,0,Bruce,GK,Possession,2,18,15,66, 182
+2018-11-06 01:37:38 +0000,0,Francis,GD,Possession,2,18,15,2, 148
+2018-11-06 01:37:40 +0000,0,Anstiss,WD,Possession,2,18,15,7, 87
+2018-11-06 01:37:43 +0000,0,Charles,C,Possession,2,18,15,7, 66
+2018-11-06 01:37:46 +0000,1,Proud,C,Penaly - Contact,2,18,15,7, 66
+2018-11-06 01:37:46 +0000,0,Anstiss,WD,Possession,2,18,15,7, 66
+2018-11-06 01:37:57 +0000,0,Charles,C,Possession,2,18,15,19, 30
+2018-11-06 01:37:59 +0000,0,Charles,C,Assist - Circle Entry,2,18,15,19, 30
+2018-11-06 01:38:00 +0000,0,Medhurst,GA,Possession,2,18,15,21, 3
+2018-11-06 01:38:02 +0000,0,Charles,C,Possession,2,18,15,21, 20
+2018-11-06 01:38:04 +0000,0,Charles,C,Assist - Circle Entry,2,18,15,21, 20
+2018-11-06 01:38:04 +0000,0,Medhurst,GA,Goal - Score,2,18,15,32, 4
+2018-11-06 01:38:12 +0000,1,Proud,C,Centre Pass,2,19,15,50, 100
+2018-11-06 01:38:12 +0000,1,Housby ,GA,Assist - Centre Pass Rec,2,19,15,36, 124
+2018-11-06 01:38:15 +0000,0,Anstiss,WD,Penaly - Contact,2,19,15,36, 124
+2018-11-06 01:38:15 +0000,1,Hadley,WD,Possession,2,19,15,36, 124
+2018-11-06 01:38:26 +0000,1,Proud,C,Possession,2,19,15,53, 159
+2018-11-06 01:38:29 +0000,1,Proud,C,Assist - Circle Entry,2,19,15,53, 159
+2018-11-06 01:38:29 +0000,1,Housby ,GA,Assist - 2nd Phase,2,19,15,70, 178
+2018-11-06 01:38:31 +0000,1,Garbin,GS,Possession,2,19,15,33, 188
+2018-11-06 01:38:32 +0000,1,Proud,C,Possession,2,19,15,70, 171
+2018-11-06 01:38:36 +0000,1,Proud,C,Assist - Circle Entry,2,19,15,70, 171
+2018-11-06 01:38:36 +0000,1,Housby ,GA,Goal - Score,2,19,15,62, 194
+2018-11-06 01:38:46 +0000,0,Charles,C,Centre Pass,2,19,16,50, 100
+2018-11-06 01:38:46 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,2,19,16,66, 79
+2018-11-06 01:38:48 +0000,0,Colyer ,WA,Assist - 2nd Phase,2,19,16,83, 60
+2018-11-06 01:38:49 +0000,0,Anstiss,WD,Possession,2,19,16,79, 80
+2018-11-06 01:38:51 +0000,0,Francis,GD,Possession,2,19,16,22, 103
+2018-11-06 01:38:53 +0000,0,Medhurst,GA,Possession,2,19,16,7, 68
+2018-11-06 01:38:55 +0000,0,Anstiss,WD,Possession,2,19,16,28, 69
+2018-11-06 01:39:01 +0000,0,Charles,C,Possession,2,19,16,42, 32
+2018-11-06 01:39:03 +0000,0,Charles,C,Assist - Circle Entry,2,19,16,42, 32
+2018-11-06 01:39:03 +0000,0,Fowler,GS,Goal - Score,2,19,16,53, 4
+2018-11-06 01:39:17 +0000,1,Proud,C,Centre Pass,2,20,16,50, 100
+2018-11-06 01:39:17 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,2,20,16,79, 117
+2018-11-06 01:39:23 +0000,0,Charles,C,Gain - Inter,2,20,16,67, 123
+2018-11-06 01:39:30 +0000,0,Colyer ,WA,Possession,2,20,16,44, 71
+2018-11-06 01:39:33 +0000,0,Colyer ,WA,Assist - Circle Entry,2,20,16,44, 71
+2018-11-06 01:39:33 +0000,0,Fowler,GS,Possession,2,20,16,26, 7
+2018-11-06 01:39:36 +0000,0,Colyer ,WA,Possession,2,20,16,39, 32
+2018-11-06 01:39:41 +0000,0,Medhurst,GA,Possession,2,20,16,15, 7
+2018-11-06 01:39:46 +0000,0,Colyer ,WA,Possession,2,20,16,39, 31
+2018-11-06 01:39:48 +0000,1,Proud,C,Penaly - Contact,2,20,16,39, 31
+2018-11-06 01:39:48 +0000,0,Colyer ,WA,Possession,2,20,16,39, 31
+2018-11-06 01:40:02 +0000,0,Colyer ,WA,Assist - Circle Entry,2,20,16,39, 31
+2018-11-06 01:40:02 +0000,0,Medhurst,GA,Possession,2,20,16,51, 15
+2018-11-06 01:40:07 +0000,1,Turner,GD,Penaly - Obstruction,2,20,16,51, 15
+2018-11-06 01:40:07 +0000,0,Medhurst,GA,Possession,2,20,16,51, 15
+2018-11-06 01:40:11 +0000,0,Fowler,GS,Goal - Score,2,20,16,48, 7
+2018-11-06 01:40:18 +0000,0,Charles,C,Centre Pass,2,21,16,50, 100
+2018-11-06 01:40:18 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,21,16,60, 79
+2018-11-06 01:40:21 +0000,0,Colyer ,WA,Assist - 2nd Phase,2,21,16,66, 29
+2018-11-06 01:40:25 +0000,0,Colyer ,WA,Assist - Circle Entry,2,21,16,66, 29
+2018-11-06 01:40:25 +0000,0,Medhurst,GA,Possession,2,21,16,56, 6
+2018-11-06 01:40:27 +0000,1,Klau ,GK,Penaly - Contact,2,21,16,56, 6
+2018-11-06 01:40:27 +0000,0,Medhurst,GA,Goal - Score,2,21,16,56, 6
+2018-11-06 01:40:38 +0000,1,Proud,C,Centre Pass,2,22,16,50, 100
+2018-11-06 01:40:38 +0000,1,Housby ,GA,Loss - Break,2,22,16,44, 130
+2018-11-06 01:40:47 +0000,0,Francis,GD,Possession,2,22,16,45, 128
+2018-11-06 01:40:51 +0000,0,Medhurst,GA,Possession,2,22,16,47, 80
+2018-11-06 01:40:53 +0000,0,Colyer ,WA,Possession,2,22,16,85, 48
+2018-11-06 01:40:59 +0000,0,Charles,C,Possession,2,22,16,60, 32
+2018-11-06 01:41:06 +0000,0,Colyer ,WA,Possession,2,22,16,16, 9
+2018-11-06 01:41:12 +0000,0,Colyer ,WA,Assist - Circle Entry,2,22,16,16, 9
+2018-11-06 01:41:12 +0000,0,Medhurst,GA,Goal - Score,2,22,16,57, 5
+2018-11-06 01:41:23 +0000,0,Charles,C,Centre Pass,2,23,16,50, 100
+2018-11-06 01:41:24 +0000,0,Francis,GD,Assist - Centre Pass Rec,2,23,16,27, 85
+2018-11-06 01:41:26 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,23,16,43, 68
+2018-11-06 01:41:28 +0000,0,Colyer ,WA,Possession,2,23,16,49, 39
+2018-11-06 01:41:37 +0000,0,Colyer ,WA,Assist - Circle Entry,2,23,16,49, 39
+2018-11-06 01:41:37 +0000,1,Turner,GD,Gain - Tip (Deflect),2,23,16,50, 16
+2018-11-06 01:41:42 +0000,1,Klau ,GK,Possession,2,23,16,44, 8
+2018-11-06 01:41:46 +0000,1,Hadley,WD,Possession,2,23,16,26, 25
+2018-11-06 01:41:48 +0000,1,Klau ,GK,Possession,2,23,16,11, 16
+2018-11-06 01:41:52 +0000,1,Hadley,WD,Possession,2,23,16,82, 16
+2018-11-06 01:41:54 +0000,1,Klau ,GK,Possession,2,23,16,64, 16
+2018-11-06 01:41:56 +0000,1,Turner,GD,Possession,2,23,16,23, 32
+2018-11-06 01:41:59 +0000,1,Proud,C,Possession,2,23,16,21, 66
+2018-11-06 01:42:10 +0000,0,Charles,C,Gain - Tip (Deflect),2,23,16,10, 122
+2018-11-06 01:42:20 +0000,0,Francis,GD,Possession,2,23,16,27, 119
+2018-11-06 01:42:25 +0000,0,Anstiss,WD,Possession,2,23,16,72, 88
+2018-11-06 01:42:27 +0000,0,Colyer ,WA,Possession,2,23,16,84, 66
+2018-11-06 01:42:29 +0000,0,Charles,C,Possession,2,23,16,60, 60
+2018-11-06 01:42:31 +0000,0,Medhurst,GA,Possession,2,23,16,13, 57
+2018-11-06 01:42:34 +0000,0,Charles,C,Possession,2,23,16,31, 30
+2018-11-06 01:42:36 +0000,0,Charles,C,Assist - Circle Entry,2,23,16,31, 30
+2018-11-06 01:42:36 +0000,0,Fowler,GS,Goal - Score,2,23,16,51, 13
+2018-11-06 01:42:48 +0000,1,,UNKNOWN,Timeout,2,24,16,110, 222
+2018-11-06 01:44:04 +0000,1,Proud,C,Centre Pass,2,24,16,50, 100
+2018-11-06 01:44:04 +0000,1,Housby ,GA,Assist - Centre Pass Rec,2,24,16,88, 121
+2018-11-06 01:44:06 +0000,1,O’Brien,WA,Assist - 2nd Phase,2,24,16,82, 184
+2018-11-06 01:44:10 +0000,1,Proud,C,Possession,2,24,16,17, 181
+2018-11-06 01:44:12 +0000,1,Garbin,GS,Possession,2,24,16,11, 184
+2018-11-06 01:44:14 +0000,1,Proud,C,Possession,2,24,16,24, 159
+2018-11-06 01:44:16 +0000,1,Housby ,GA,Possession,2,24,16,10, 186
+2018-11-06 01:44:19 +0000,1,Turner,GD,Possession,2,24,16,9, 127
+2018-11-06 01:44:22 +0000,0,Medhurst,GA,Penaly - Contact,2,24,16,9, 127
+2018-11-06 01:44:22 +0000,1,Turner,GD,Possession,2,24,16,9, 127
+2018-11-06 01:44:30 +0000,1,Proud,C,Possession,2,24,16,28, 151
+2018-11-06 01:44:32 +0000,1,Housby ,GA,Possession,2,24,16,46, 158
+2018-11-06 01:44:36 +0000,1,Housby ,GA,Assist - Circle Entry,2,24,16,46, 158
+2018-11-06 01:44:36 +0000,1,Garbin,GS,Possession,2,24,16,46, 184
+2018-11-06 01:44:38 +0000,0,Bruce,GK,Penaly - Contact,2,24,16,46, 184
+2018-11-06 01:44:38 +0000,1,Garbin,GS,Goal - Score,2,24,16,46, 184
+2018-11-06 01:44:45 +0000,0,Charles,C,Centre Pass,2,24,17,50, 100
+2018-11-06 01:44:45 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,24,17,80, 81
+2018-11-06 01:45:01 +0000,1,Turner,GD,Penaly - Contact,2,24,17,70, 74
+2018-11-06 01:45:01 +0000,0,Francis,GD,Assist - 2nd Phase,2,24,17,70, 74
+2018-11-06 01:45:05 +0000,0,Colyer ,WA,Possession,2,24,17,49, 71
+2018-11-06 01:45:07 +0000,0,Charles,C,Possession,2,24,17,24, 45
+2018-11-06 01:45:10 +0000,0,Charles,C,Assist - Circle Entry,2,24,17,24, 45
+2018-11-06 01:45:10 +0000,0,Fowler,GS,Possession,2,24,17,52, 7
+2018-11-06 01:45:12 +0000,1,Klau ,GK,Penaly - Contact,2,24,17,52, 7
+2018-11-06 01:45:12 +0000,0,Fowler,GS,Goal - Score,2,24,17,52, 7
+2018-11-06 01:45:26 +0000,1,Proud,C,Centre Pass,2,25,17,50, 100
+2018-11-06 01:45:26 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,2,25,17,8, 118
+2018-11-06 01:45:36 +0000,1,Proud,C,Assist - 2nd Phase,2,25,17,27, 122
+2018-11-06 01:45:48 +0000,1,O’Brien,WA,Possession,2,25,17,43, 143
+2018-11-06 01:45:50 +0000,1,Housby ,GA,Possession,2,25,17,46, 163
+2018-11-06 01:45:53 +0000,1,O’Brien,WA,Possession,2,25,17,50, 163
+2018-11-06 01:45:56 +0000,1,O’Brien,WA,Assist - Circle Entry,2,25,17,50, 163
+2018-11-06 01:45:56 +0000,1,Housby ,GA,Possession,2,25,17,68, 194
+2018-11-06 01:45:58 +0000,1,O’Brien,WA,Possession,2,25,17,67, 167
+2018-11-06 01:46:00 +0000,1,Proud,C,Possession,2,25,17,15, 185
+2018-11-06 01:46:03 +0000,1,Proud,C,Assist - Circle Entry,2,25,17,15, 185
+2018-11-06 01:46:03 +0000,1,Housby ,GA,Possession,2,25,17,37, 191
+2018-11-06 01:46:05 +0000,1,Garbin,GS,Possession,2,25,17,50, 185
+2018-11-06 01:46:08 +0000,0,Bruce,GK,Penaly - Obstruction,2,25,17,50, 185
+2018-11-06 01:46:08 +0000,1,Garbin,GS,Goal - Score,2,25,17,50, 185
+2018-11-06 01:46:17 +0000,0,Charles,C,Centre Pass,2,25,18,50, 100
+2018-11-06 01:46:17 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,2,25,18,69, 86
+2018-11-06 01:46:19 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,25,18,71, 67
+2018-11-06 01:46:21 +0000,0,Colyer ,WA,Possession,2,25,18,84, 55
+2018-11-06 01:46:23 +0000,0,Charles,C,Possession,2,25,18,61, 46
+2018-11-06 01:46:24 +0000,1,Proud,C,Penaly - Contact,2,25,18,61, 46
+2018-11-06 01:46:24 +0000,0,Charles,C,Possession,2,25,18,61, 46
+2018-11-06 01:46:31 +0000,0,Charles,C,Assist - Circle Entry,2,25,18,61, 46
+2018-11-06 01:46:32 +0000,1,Klau ,GK,Gain - Inter,2,25,18,53, 9
+2018-11-06 01:46:37 +0000,0,Fowler,GS,Penaly - Contact,2,25,18,53, 9
+2018-11-06 01:46:37 +0000,1,Klau ,GK,Possession,2,25,18,53, 9
+2018-11-06 01:46:43 +0000,1,Hadley,WD,Possession,2,25,18,54, 37
+2018-11-06 01:46:47 +0000,1,Proud,C,Possession,2,25,18,6, 58
+2018-11-06 01:46:51 +0000,1,Hadley,WD,Possession,2,25,18,41, 59
+2018-11-06 01:46:53 +0000,1,Proud,C,Possession,2,25,18,72, 86
+2018-11-06 01:46:55 +0000,1,O’Brien,WA,Possession,2,25,18,47, 107
+2018-11-06 01:46:58 +0000,1,Turner,GD,Possession,2,25,18,20, 105
+2018-11-06 01:47:00 +0000,1,Proud,C,Possession,2,25,18,10, 129
+2018-11-06 01:47:07 +0000,1,Turner,GD,Possession,2,25,18,33, 95
+2018-11-06 01:47:09 +0000,1,Hadley,WD,Possession,2,25,18,79, 122
+2018-11-06 01:47:11 +0000,1,Housby ,GA,Possession,2,25,18,84, 177
+2018-11-06 01:47:13 +0000,1,Hadley,WD,Possession,2,25,18,84, 127
+2018-11-06 01:47:16 +0000,1,O’Brien,WA,Possession,2,25,18,74, 150
+2018-11-06 01:47:19 +0000,1,Housby ,GA,Possession,2,25,18,80, 178
+2018-11-06 01:47:29 +0000,1,O’Brien,WA,Possession,2,25,18,16, 184
+2018-11-06 01:47:31 +0000,0,Anstiss,WD,Penaly - Contact,2,25,18,16, 184
+2018-11-06 01:47:31 +0000,1,O’Brien,WA,Possession,2,25,18,16, 184
+2018-11-06 01:47:49 +0000,1,O’Brien,WA,Assist - Circle Entry,2,25,18,16, 184
+2018-11-06 01:47:49 +0000,1,Garbin,GS,Possession,2,25,18,67, 190
+2018-11-06 01:47:54 +0000,0,Bruce,GK,Penaly - Obstruction,2,25,18,67, 190
+2018-11-06 01:47:54 +0000,1,Housby ,GA,Goal - Score,2,25,18,67, 190
+2018-11-06 01:49:05 +0000,1,Proud,C,Centre Pass,2,25,19,50, 100
+2018-11-06 01:49:05 +0000,1,Turner,GD,Assist - Centre Pass Rec,2,25,19,83, 95
+2018-11-06 01:49:08 +0000,1,Hadley,WD,Assist - 2nd Phase,2,25,19,63, 112
+2018-11-06 01:49:12 +0000,1,Garbin,GS,Possession,2,25,19,51, 150
+2018-11-06 01:49:14 +0000,1,O’Brien,WA,Possession,2,25,19,43, 151
+2018-11-06 01:49:18 +0000,1,Housby ,GA,Possession,2,25,19,13, 186
+2018-11-06 01:49:20 +0000,1,O’Brien,WA,Possession,2,25,19,24, 171
+2018-11-06 01:49:25 +0000,1,O’Brien,WA,Assist - Circle Entry,2,25,19,24, 171
+2018-11-06 01:49:25 +0000,1,Garbin,GS,Goal - Score,2,25,19,49, 192
+2018-11-06 01:49:34 +0000,0,Charles,C,Centre Pass,2,25,20,50, 100
+2018-11-06 01:49:34 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,25,20,9, 74
+2018-11-06 01:49:36 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,25,20,7, 46
+2018-11-06 01:49:38 +0000,0,Medhurst,GA,Assist - Circle Entry,2,25,20,7, 46
+2018-11-06 01:49:38 +0000,0,Fowler,GS,Goal - Score,2,25,20,37, 5
+2018-11-06 01:49:48 +0000,1,Proud,C,Centre Pass,2,26,20,50, 100
+2018-11-06 01:49:49 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,2,26,20,85, 125
+2018-11-06 01:49:50 +0000,1,Hadley,WD,Assist - 2nd Phase,2,26,20,69, 126
+2018-11-06 01:49:57 +0000,0,Medhurst,GA,Penaly - Contact,2,26,20,69, 126
+2018-11-06 01:49:57 +0000,1,Hadley,WD,Possession,2,26,20,69, 126
+2018-11-06 01:50:08 +0000,1,Proud,C,Possession,2,26,20,66, 161
+2018-11-06 01:50:10 +0000,1,Housby ,GA,Possession,2,26,20,36, 163
+2018-11-06 01:50:13 +0000,1,,UNKNOWN,Possession,2,26,20,26, 157
+2018-11-06 01:50:15 +0000,1,Housby ,GA,Possession,2,26,20,6, 186
+2018-11-06 01:50:19 +0000,1,O’Brien,WA,Possession,2,26,20,46, 163
+2018-11-06 01:50:29 +0000,0,Anstiss,WD,Penaly - Contact,2,26,20,46, 163
+2018-11-06 01:50:29 +0000,1,O’Brien,WA,Possession,2,26,20,46, 163
+2018-11-06 01:50:36 +0000,1,O’Brien,WA,Assist - Circle Entry,2,26,20,46, 163
+2018-11-06 01:50:36 +0000,1,Garbin,GS,Goal - Score,2,26,20,41, 193
+2018-11-06 01:50:45 +0000,0,,UNKNOWN,Timeout,2,26,21,110, 222
+2018-11-06 01:51:54 +0000,0,Garbin,UNKNOWN,Interchange - Housby ,2,26,21,
+2018-11-06 01:51:54 +0000,0,Housby ,UNKNOWN,Interchange - Garbin,2,26,21,
+2018-11-06 01:51:59 +0000,0,Charles,C,Centre Pass,2,26,21,50, 100
+2018-11-06 01:51:59 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,26,21,83, 86
+2018-11-06 01:52:01 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,26,21,57, 74
+2018-11-06 01:52:03 +0000,0,Charles,C,Possession,2,26,21,33, 68
+2018-11-06 01:52:05 +0000,0,Francis,GD,Possession,2,26,21,53, 69
+2018-11-06 01:52:06 +0000,0,Colyer ,WA,Possession,2,26,21,79, 54
+2018-11-06 01:52:12 +0000,0,Charles,C,Possession,2,26,21,66, 30
+2018-11-06 01:52:15 +0000,0,Charles,C,Assist - Circle Entry,2,26,21,66, 30
+2018-11-06 01:52:15 +0000,0,Medhurst,GA,Possession,2,26,21,71, 11
+2018-11-06 01:52:17 +0000,0,Fowler,GS,Goal - Score,2,26,21,50, 6
+2018-11-06 01:52:27 +0000,1,Proud,C,Centre Pass,2,27,21,50, 100
+2018-11-06 01:52:27 +0000,1,Hadley,WD,Assist - Centre Pass Rec,2,27,21,47, 85
+2018-11-06 01:52:29 +0000,1,Proud,C,Assist - 2nd Phase,2,27,21,32, 100
+2018-11-06 01:52:34 +0000,1,Garbin,GA,Possession,2,27,21,38, 139
+2018-11-06 01:52:37 +0000,1,O’Brien,WA,Possession,2,27,21,13, 177
+2018-11-06 01:52:40 +0000,1,O’Brien,WA,Assist - Circle Entry,2,27,21,13, 177
+2018-11-06 01:52:40 +0000,1,Housby ,GS,Goal - Score,2,27,21,63, 195
+2018-11-06 01:52:48 +0000,0,Charles,C,Centre Pass,2,27,22,50, 100
+2018-11-06 01:52:48 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,27,22,14, 70
+2018-11-06 01:52:51 +0000,0,Francis,GD,Assist - 2nd Phase,2,27,22,60, 69
+2018-11-06 01:52:53 +0000,1,Hadley,WD,Penaly - Contact,2,27,22,46, 47
+2018-11-06 01:52:53 +0000,0,Colyer ,WA,Possession,2,27,22,46, 47
+2018-11-06 01:53:02 +0000,0,Colyer ,WA,Assist - Circle Entry,2,27,22,46, 47
+2018-11-06 01:53:02 +0000,0,Fowler,GS,Goal - Score,2,27,22,36, 4
+2018-11-06 01:53:11 +0000,1,Proud,C,Centre Pass,2,28,22,50, 100
+2018-11-06 01:53:11 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,2,28,22,34, 108
+2018-11-06 01:53:13 +0000,1,Garbin,GA,Assist - 2nd Phase,2,28,22,15, 127
+2018-11-06 01:53:16 +0000,1,Proud,C,Possession,2,28,22,65, 159
+2018-11-06 01:53:21 +0000,1,Housby ,GS,Possession,2,28,22,77, 175
+2018-11-06 01:53:25 +0000,1,O’Brien,WA,Possession,2,28,22,14, 189
+2018-11-06 01:53:28 +0000,1,Proud,C,Possession,2,28,22,47, 163
+2018-11-06 01:53:30 +0000,1,Proud,C,Assist - Circle Entry,2,28,22,47, 163
+2018-11-06 01:53:30 +0000,1,Housby ,GS,Possession,2,28,22,68, 183
+2018-11-06 01:53:34 +0000,1,Garbin,GA,Possession,2,28,22,34, 191
+2018-11-06 01:53:35 +0000,1,Housby ,GS,Goal - Score,2,28,22,55, 192
+2018-11-06 01:53:45 +0000,0,Charles,C,Centre Pass,2,28,23,50, 100
+2018-11-06 01:53:45 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,28,23,80, 69
+2018-11-06 01:53:47 +0000,0,Charles,C,Assist - 2nd Phase,2,28,23,83, 37
+2018-11-06 01:53:49 +0000,0,Medhurst,GA,Possession,2,28,23,9, 35
+2018-11-06 01:53:52 +0000,1,Proud,C,Penaly - Contact,2,28,23,27, 27
+2018-11-06 01:53:52 +0000,0,Charles,C,Possession,2,28,23,27, 27
+2018-11-06 01:54:00 +0000,1,Turner,GD,Penaly - Contact,2,28,23,36, 15
+2018-11-06 01:54:00 +0000,0,Medhurst,GA,Possession,2,28,23,36, 15
+2018-11-06 01:54:04 +0000,0,Fowler,GS,Goal - Score,2,28,23,51, 6
+2018-11-06 01:54:15 +0000,1,Proud,C,Centre Pass,2,29,23,50, 100
+2018-11-06 01:54:15 +0000,0,Anstiss,WD,Loss - Break,2,29,23,48, 130
+2018-11-06 01:54:15 +0000,1,Proud,C,Possession,2,29,23,48, 130
+2018-11-06 01:54:33 +0000,1,O’Brien,WA,Assist - 2nd Phase,2,29,23,45, 146
+2018-11-06 01:54:36 +0000,1,Housby ,GS,Possession,2,29,23,21, 153
+2018-11-06 01:54:38 +0000,1,Proud,C,Possession,2,29,23,81, 185
+2018-11-06 01:54:45 +0000,1,Proud,C,Assist - Circle Entry,2,29,23,81, 185
+2018-11-06 01:54:45 +0000,1,Housby ,GS,Goal - Score,2,29,23,62, 195
+2018-11-06 01:54:48 +0000,0,Charles,C,Centre Pass,2,29,24,50, 100
+2018-11-06 01:54:48 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,29,24,6, 80
+2018-11-06 01:54:50 +0000,0,Charles,C,Assist - 2nd Phase,2,29,24,35, 38
+2018-11-06 01:54:52 +0000,0,Colyer ,WA,Possession,2,29,24,16, 13
+2018-11-06 01:55:01 +0000,0,Colyer ,WA,Assist - Circle Entry,2,29,24,16, 13
+2018-11-06 01:55:01 +0000,0,Medhurst,GA,Possession,2,29,24,28, 7
+2018-11-06 01:55:04 +0000,0,Charles,C,Possession,2,29,24,28, 27
+2018-11-06 01:55:06 +0000,0,Charles,C,Assist - Circle Entry,2,29,24,28, 27
+2018-11-06 01:55:06 +0000,0,Medhurst,GA,Possession,2,29,24,37, 6
+2018-11-06 01:55:12 +0000,1,Klau ,GK,Penaly - Contact,2,29,24,37, 6
+2018-11-06 01:55:12 +0000,0,Medhurst,GA,Goal - Score,2,29,24,37, 6
+2018-11-06 01:55:28 +0000,1,Proud,C,Centre Pass,2,30,24,50, 100
+2018-11-06 01:55:28 +0000,1,,UNKNOWN,Assist - Centre Pass Rec,2,30,24,85, 125
+2018-11-06 01:55:30 +0000,1,Garbin,GA,Assist - 2nd Phase,2,30,24,62, 128
+2018-11-06 01:55:32 +0000,1,Proud,C,Possession,2,30,24,28, 140
+2018-11-06 01:55:34 +0000,1,Proud,C,Assist - Circle Entry,2,30,24,28, 140
+2018-11-06 01:55:34 +0000,1,Housby ,GS,Goal - Miss,2,30,24,57, 194
+2018-11-06 01:55:40 +0000,0,Bruce,GK,Gain - Def Reb,2,30,24,50, 197
+2018-11-06 01:55:45 +0000,0,Charles,C,Possession,2,30,24,82, 138
+2018-11-06 01:56:08 +0000,0,Anstiss,WD,Possession,2,30,24,18, 98
+2018-11-06 01:56:09 +0000,0,Medhurst,GA,Possession,2,30,24,10, 54
+2018-11-06 01:56:12 +0000,0,Medhurst,GA,Assist - Circle Entry,2,30,24,10, 54
+2018-11-06 01:56:12 +0000,0,Fowler,GS,Goal - Score,2,30,24,28, 7
+2018-11-06 01:56:32 +0000,0,Charles,C,Centre Pass,2,31,24,50, 100
+2018-11-06 01:56:32 +0000,0,Francis,GD,Assist - Centre Pass Rec,2,31,24,61, 92
+2018-11-06 01:56:35 +0000,1,,UNKNOWN,Penaly - Contact,2,31,24,61, 92
+2018-11-06 01:56:35 +0000,0,Francis,GD,Possession,2,31,24,61, 92
+2018-11-06 01:56:38 +0000,0,Medhurst,GA,Possession,2,31,24,84, 69
+2018-11-06 01:56:44 +0000,0,Anstiss,WD,Possession,2,31,24,50, 77
+2018-11-06 01:56:46 +0000,0,Charles,C,Possession,2,31,24,53, 59
+2018-11-06 01:56:48 +0000,0,Colyer ,WA,Possession,2,31,24,75, 36
+2018-11-06 01:56:50 +0000,0,Colyer ,WA,Assist - Circle Entry,2,31,24,75, 36
+2018-11-06 01:56:50 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,31,24,76, 4
+2018-11-06 01:56:53 +0000,0,Charles,C,Possession,2,31,24,14, 7
+2018-11-06 01:56:54 +0000,1,Proud,C,Penaly - Contact,2,31,24,14, 7
+2018-11-06 01:56:54 +0000,0,Charles,C,Possession,2,31,24,14, 7
+2018-11-06 01:57:04 +0000,0,Charles,C,Assist - Circle Entry,2,31,24,14, 7
+2018-11-06 01:57:04 +0000,0,Medhurst,GA,Possession,2,31,24,27, 3
+2018-11-06 01:57:06 +0000,1,Turner,GD,Penaly - Contact,2,31,24,27, 3
+2018-11-06 01:57:06 +0000,0,Medhurst,GA,Goal - Score,2,31,24,27, 3
+2018-11-06 01:57:24 +0000,1,Proud,C,Centre Pass,2,32,24,50, 100
+2018-11-06 01:57:24 +0000,1,O’Brien,WA,Loss - Break,2,32,24,49, 130
+2018-11-06 01:57:38 +0000,0,Francis,GD,Loss - Forced Pass,2,32,24,47, 128
+2018-11-06 01:57:50 +0000,1,Turner,GD,Gain - Inter,2,32,24,82, 72
+2018-11-06 01:58:08 +0000,1,Garbin,GA,Possession,2,32,24,59, 109
+2018-11-06 01:58:10 +0000,1,O’Brien,WA,Possession,2,32,24,39, 124
+2018-11-06 01:58:12 +0000,1,Proud,C,Possession,2,32,24,24, 127
+2018-11-06 01:58:14 +0000,1,O’Brien,WA,Possession,2,32,24,37, 161
+2018-11-06 01:58:17 +0000,0,Francis,GD,Penaly - Contact,2,32,24,55, 174
+2018-11-06 01:58:17 +0000,1,Housby ,GS,Possession,2,32,24,55, 174
+2018-11-06 01:58:22 +0000,1,Garbin,GA,Possession,2,32,24,42, 192
+2018-11-06 01:58:27 +0000,0,Francis,GD,Penaly - Obstruction,2,32,24,42, 192
+2018-11-06 01:58:27 +0000,1,Garbin,GA,Goal - Score,2,32,24,42, 192
+2018-11-06 01:58:36 +0000,0,Charles,C,Centre Pass,2,32,25,50, 100
+2018-11-06 01:58:36 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,32,25,84, 76
+2018-11-06 01:58:40 +0000,0,Charles,C,Assist - 2nd Phase,2,32,25,24, 38
+2018-11-06 01:58:43 +0000,0,Charles,C,Assist - Circle Entry,2,32,25,24, 38
+2018-11-06 01:58:43 +0000,0,Medhurst,GA,Goal - Score,2,32,25,44, 4
+2018-11-06 01:58:53 +0000,1,Proud,C,Centre Pass,2,33,25,50, 100
+2018-11-06 01:58:53 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,2,33,25,82, 125
+2018-11-06 01:58:55 +0000,1,Proud,C,Assist - 2nd Phase,2,33,25,72, 128
+2018-11-06 01:58:58 +0000,1,Housby ,GS,Possession,2,33,25,68, 169
+2018-11-06 01:59:05 +0000,0,Francis,GD,Gain - Inter,2,33,25,19, 180
+2018-11-06 01:59:15 +0000,1,O’Brien,WA,Penaly - Contact,2,33,25,19, 180
+2018-11-06 01:59:16 +0000,0,Bruce,GK,Possession,2,33,25,19, 180
+2018-11-06 01:59:23 +0000,0,Francis,GD,Possession,2,33,25,27, 156
+2018-11-06 01:59:25 +0000,0,Anstiss,WD,Possession,2,33,25,88, 102
+2018-11-06 01:59:27 +0000,0,Colyer ,WA,Possession,2,33,25,43, 65
+2018-11-06 01:59:29 +0000,0,Medhurst,GA,Possession,2,33,25,68, 40
+2018-11-06 01:59:31 +0000,0,Colyer ,WA,Possession,2,33,25,43, 52
+2018-11-06 01:59:34 +0000,0,Colyer ,WA,Assist - Circle Entry,2,33,25,43, 52
+2018-11-06 01:59:34 +0000,0,Medhurst,GA,Possession,2,33,25,43, 22
+2018-11-06 01:59:40 +0000,0,Fowler,GS,Goal - Score,2,33,25,56, 3
+2018-11-06 01:59:48 +0000,0,Charles,C,Centre Pass,2,34,25,50, 100
+2018-11-06 01:59:48 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,34,25,4, 76
+2018-11-06 01:59:51 +0000,0,Francis,GD,Assist - 2nd Phase,2,34,25,15, 90
+2018-11-06 01:59:54 +0000,1,O’Brien,WA,Penaly - Contact,2,34,25,15, 90
+2018-11-06 01:59:54 +0000,0,Francis,GD,Possession,2,34,25,15, 90
+2018-11-06 02:00:02 +0000,0,Medhurst,GA,Possession,2,34,25,7, 52
+2018-11-06 02:00:05 +0000,0,Charles,C,Possession,2,34,25,13, 5
+2018-11-06 02:00:08 +0000,0,Charles,C,Assist - Circle Entry,2,34,25,13, 5
+2018-11-06 02:00:08 +0000,0,Medhurst,GA,Goal - Score,2,34,25,52, 6
+2018-11-06 02:06:17 +0000,0,Housby ,UNKNOWN,Interchange - Wallace,3,35,25,
+2018-11-06 02:06:17 +0000,0,Garbin,UNKNOWN,Interchange - Housby ,3,35,25,
+2018-11-06 02:06:17 +0000,0,Proud,UNKNOWN,Interchange - Hadley,3,35,25,
+2018-11-06 02:06:17 +0000,0,Hadley,UNKNOWN,Interchange - McCulloch,3,35,25,
+2018-11-06 02:06:18 +0000,0,Turner,UNKNOWN,Interchange - Eddy,3,35,25,
+2018-11-06 02:07:13 +0000,0,Anstiss,UNKNOWN,Interchange - Eagland,3,35,25,
+2018-11-06 02:07:17 +0000,1,Hadley,C,Centre Pass,3,35,25,50, 100
+2018-11-06 02:07:17 +0000,1,Housby ,GA,Assist - Centre Pass Rec,3,35,25,52, 121
+2018-11-06 02:07:19 +0000,1,O’Brien,WA,Assist - 2nd Phase,3,35,25,94, 139
+2018-11-06 02:07:22 +0000,1,Hadley,C,Possession,3,35,25,44, 154
+2018-11-06 02:07:24 +0000,1,Hadley,C,Assist - Circle Entry,3,35,25,44, 154
+2018-11-06 02:07:24 +0000,1,Wallace,GS,Possession,3,35,25,51, 178
+2018-11-06 02:07:26 +0000,1,Hadley,C,Possession,3,35,25,30, 170
+2018-11-06 02:07:28 +0000,1,Hadley,C,Assist - Circle Entry,3,35,25,30, 170
+2018-11-06 02:07:28 +0000,1,Housby ,GA,Possession,3,35,25,51, 178
+2018-11-06 02:07:31 +0000,1,Wallace,GS,Goal - Score,3,35,25,51, 190
+2018-11-06 02:07:41 +0000,0,Charles,C,Centre Pass,3,35,26,50, 100
+2018-11-06 02:07:41 +0000,0,Francis,GD,Assist - Centre Pass Rec,3,35,26,85, 121
+2018-11-06 02:07:43 +0000,0,Colyer ,WA,Assist - 2nd Phase,3,35,26,25, 115
+2018-11-06 02:07:45 +0000,0,Francis,GD,Possession,3,35,26,17, 74
+2018-11-06 02:07:50 +0000,0,Colyer ,WA,Possession,3,35,26,10, 7
+2018-11-06 02:07:54 +0000,0,Colyer ,WA,Assist - Circle Entry,3,35,26,10, 7
+2018-11-06 02:07:55 +0000,0,Fowler,GS,Possession,3,35,26,51, 12
+2018-11-06 02:07:56 +0000,1,Klau ,GK,Penaly - Contact,3,35,26,51, 12
+2018-11-06 02:07:56 +0000,0,Fowler,GS,Goal - Score,3,35,26,51, 12
+2018-11-06 02:08:06 +0000,1,Hadley,C,Centre Pass,3,36,26,50, 100
+2018-11-06 02:08:06 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,3,36,26,21, 123
+2018-11-06 02:08:09 +0000,1,McCulloch,WD,Assist - 2nd Phase,3,36,26,42, 124
+2018-11-06 02:08:11 +0000,1,O’Brien,WA,Possession,3,36,26,14, 145
+2018-11-06 02:08:13 +0000,1,Housby ,GA,Possession,3,36,26,36, 160
+2018-11-06 02:08:15 +0000,1,Hadley,C,Possession,3,36,26,83, 184
+2018-11-06 02:08:18 +0000,1,O’Brien,WA,Loss - Bad Pass,3,36,26,29, 172
+2018-11-06 02:08:22 +0000,0,Bruce,GK,Throw In,3,36,26,62, 205
+2018-11-06 02:08:28 +0000,0,Francis,GD,Possession,3,36,26,80, 170
+2018-11-06 02:08:30 +0000,0,Charles,C,Possession,3,36,26,67, 133
+2018-11-06 02:08:32 +0000,0,Francis,GD,Possession,3,36,26,10, 74
+2018-11-06 02:08:34 +0000,0,Medhurst,GA,Possession,3,36,26,23, 52
+2018-11-06 02:08:36 +0000,0,Medhurst,GA,Assist - Circle Entry,3,36,26,23, 52
+2018-11-06 02:08:36 +0000,0,Fowler,GS,Goal - Score,3,36,26,50, 18
+2018-11-06 02:08:45 +0000,0,Charles,C,Centre Pass,3,37,26,50, 100
+2018-11-06 02:08:45 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,37,26,72, 87
+2018-11-06 02:08:48 +0000,0,Francis,GD,Assist - 2nd Phase,3,37,26,55, 72
+2018-11-06 02:08:50 +0000,0,Medhurst,GA,Possession,3,37,26,34, 55
+2018-11-06 02:08:52 +0000,0,Medhurst,GA,Assist - Circle Entry,3,37,26,34, 55
+2018-11-06 02:08:52 +0000,0,Fowler,GS,Possession,3,37,26,32, 22
+2018-11-06 02:08:54 +0000,0,Charles,C,Possession,3,37,26,85, 13
+2018-11-06 02:09:05 +0000,0,Charles,C,Assist - Circle Entry,3,37,26,85, 13
+2018-11-06 02:09:05 +0000,0,Medhurst,GA,Possession,3,37,26,75, 13
+2018-11-06 02:09:07 +0000,0,Charles,C,Possession,3,37,26,84, 13
+2018-11-06 02:09:09 +0000,0,Charles,C,Assist - Circle Entry,3,37,26,84, 13
+2018-11-06 02:09:09 +0000,0,Medhurst,GA,Possession,3,37,26,70, 13
+2018-11-06 02:09:14 +0000,0,Charles,C,Possession,3,37,26,83, 14
+2018-11-06 02:09:17 +0000,0,Colyer ,WA,Possession,3,37,26,66, 32
+2018-11-06 02:09:19 +0000,0,Colyer ,WA,Assist - Circle Entry,3,37,26,66, 32
+2018-11-06 02:09:19 +0000,0,Medhurst,GA,Goal - Score,3,37,26,55, 17
+2018-11-06 02:09:25 +0000,1,Hadley,C,Centre Pass,3,38,26,50, 100
+2018-11-06 02:09:25 +0000,1,Housby ,GA,Assist - Centre Pass Rec,3,38,26,23, 131
+2018-11-06 02:09:27 +0000,1,O’Brien,WA,Assist - 2nd Phase,3,38,26,42, 141
+2018-11-06 02:09:29 +0000,1,Housby ,GA,Possession,3,38,26,18, 177
+2018-11-06 02:09:32 +0000,1,Housby ,GA,Assist - Circle Entry,3,38,26,18, 177
+2018-11-06 02:09:32 +0000,1,Wallace,GS,Possession,3,38,26,36, 192
+2018-11-06 02:09:33 +0000,0,Bruce,GK,Penaly - Contact,3,38,26,36, 192
+2018-11-06 02:09:33 +0000,1,Wallace,GS,Possession,3,38,26,36, 192
+2018-11-06 02:09:37 +0000,1,Housby ,GA,Goal - Score,3,38,26,54, 192
+2018-11-06 02:09:45 +0000,0,Charles,C,Centre Pass,3,38,27,50, 100
+2018-11-06 02:09:45 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,38,27,92, 81
+2018-11-06 02:09:50 +0000,1,O’Brien,WA,Penaly - Contact,3,38,27,67, 89
+2018-11-06 02:09:50 +0000,0,Eagland,WD,Assist - 2nd Phase,3,38,27,67, 89
+2018-11-06 02:09:56 +0000,0,Colyer ,WA,Possession,3,38,27,64, 65
+2018-11-06 02:10:00 +0000,0,Charles,C,Possession,3,38,27,93, 57
+2018-11-06 02:10:07 +0000,1,McCulloch,WD,Penaly - Contact,3,38,27,60, 47
+2018-11-06 02:10:07 +0000,0,Colyer ,WA,Possession,3,38,27,60, 47
+2018-11-06 02:10:14 +0000,0,Colyer ,WA,Assist - Circle Entry,3,38,27,60, 47
+2018-11-06 02:10:14 +0000,0,Medhurst,GA,Possession,3,38,27,60, 22
+2018-11-06 02:10:20 +0000,0,Fowler,GS,Goal - Score,3,38,27,60, 6
+2018-11-06 02:10:29 +0000,1,Hadley,C,Centre Pass,3,39,27,50, 100
+2018-11-06 02:10:29 +0000,1,McCulloch,WD,Assist - Centre Pass Rec,3,39,27,40, 115
+2018-11-06 02:10:33 +0000,0,Colyer ,WA,Penaly - Contact,3,39,27,40, 115
+2018-11-06 02:10:33 +0000,1,McCulloch,WD,Possession,3,39,27,40, 115
+2018-11-06 02:10:37 +0000,1,O’Brien,WA,Possession,3,39,27,45, 134
+2018-11-06 02:10:42 +0000,1,O’Brien,WA,Assist - Circle Entry,3,39,27,45, 134
+2018-11-06 02:10:42 +0000,1,Wallace,GS,Assist - 2nd Phase,3,39,27,50, 167
+2018-11-06 02:10:45 +0000,1,O’Brien,WA,Possession,3,39,27,76, 176
+2018-11-06 02:10:48 +0000,1,O’Brien,WA,Assist - Circle Entry,3,39,27,76, 176
+2018-11-06 02:10:48 +0000,1,Wallace,GS,Goal - Score,3,39,27,48, 183
+2018-11-06 02:11:02 +0000,0,Charles,C,Centre Pass,3,39,28,50, 100
+2018-11-06 02:11:02 +0000,0,Eagland,WD,Assist - Centre Pass Rec,3,39,28,78, 92
+2018-11-06 02:11:04 +0000,0,Charles,C,Assist - 2nd Phase,3,39,28,61, 80
+2018-11-06 02:11:11 +0000,1,McCulloch,WD,Penaly - Obstruction,3,39,28,61, 80
+2018-11-06 02:11:11 +0000,0,Eagland,WD,Possession,3,39,28,61, 80
+2018-11-06 02:11:23 +0000,0,Colyer ,WA,Possession,3,39,28,23, 54
+2018-11-06 02:11:25 +0000,0,Medhurst,GA,Possession,3,39,28,17, 10
+2018-11-06 02:11:27 +0000,0,Charles,C,Possession,3,39,28,82, 25
+2018-11-06 02:11:31 +0000,0,Charles,C,Assist - Circle Entry,3,39,28,82, 25
+2018-11-06 02:11:31 +0000,0,Medhurst,GA,Goal - Score,3,39,28,60, 6
+2018-11-06 02:11:43 +0000,1,Hadley,C,Centre Pass,3,40,28,50, 100
+2018-11-06 02:11:43 +0000,1,McCulloch,WD,Assist - Centre Pass Rec,3,40,28,36, 117
+2018-11-06 02:11:45 +0000,1,O’Brien,WA,Assist - 2nd Phase,3,40,28,62, 148
+2018-11-06 02:11:51 +0000,1,O’Brien,WA,Assist - Circle Entry,3,40,28,62, 148
+2018-11-06 02:11:51 +0000,1,Housby ,GA,Possession,3,40,28,72, 190
+2018-11-06 02:11:55 +0000,1,Wallace,GS,Possession,3,40,28,69, 196
+2018-11-06 02:11:56 +0000,1,O’Brien,WA,Possession,3,40,28,15, 189
+2018-11-06 02:11:59 +0000,1,O’Brien,WA,Assist - Circle Entry,3,40,28,15, 189
+2018-11-06 02:11:59 +0000,1,Wallace,GS,Possession,3,40,28,53, 188
+2018-11-06 02:12:00 +0000,0,Bruce,GK,Penaly - Contact,3,40,28,53, 188
+2018-11-06 02:12:00 +0000,1,Wallace,GS,Goal - Score,3,40,28,53, 188
+2018-11-06 02:12:12 +0000,0,Charles,C,Centre Pass,3,40,29,50, 100
+2018-11-06 02:12:12 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,40,29,26, 85
+2018-11-06 02:12:14 +0000,0,Medhurst,GA,Assist - 2nd Phase,3,40,29,43, 78
+2018-11-06 02:12:18 +0000,0,Medhurst,GA,Possession,3,40,29,43, 63
+2018-11-06 02:12:21 +0000,0,Charles,C,Possession,3,40,29,58, 49
+2018-11-06 02:12:24 +0000,0,Colyer ,WA,Possession,3,40,29,24, 26
+2018-11-06 02:12:26 +0000,0,Colyer ,WA,Assist - Circle Entry,3,40,29,24, 26
+2018-11-06 02:12:26 +0000,0,Medhurst,GA,Goal - Score,3,40,29,39, 6
+2018-11-06 02:12:35 +0000,1,Hadley,C,Centre Pass,3,41,29,50, 100
+2018-11-06 02:12:35 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,3,41,29,48, 118
+2018-11-06 02:12:38 +0000,1,Wallace,GS,Assist - 2nd Phase,3,41,29,22, 177
+2018-11-06 02:12:40 +0000,1,O’Brien,WA,Possession,3,41,29,19, 158
+2018-11-06 02:12:42 +0000,1,Hadley,C,Possession,3,41,29,26, 148
+2018-11-06 02:12:43 +0000,1,O’Brien,WA,Possession,3,41,29,43, 159
+2018-11-06 02:12:55 +0000,0,Bruce,GK,Penaly - Contact,3,41,29,60, 185
+2018-11-06 02:12:55 +0000,1,Housby ,GA,Goal - Score,3,41,29,60, 185
+2018-11-06 02:13:08 +0000,0,Charles,C,Centre Pass,3,41,30,50, 100
+2018-11-06 02:13:08 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,41,30,62, 79
+2018-11-06 02:13:10 +0000,0,Medhurst,GA,Assist - 2nd Phase,3,41,30,86, 47
+2018-11-06 02:13:12 +0000,0,Medhurst,GA,Assist - Circle Entry,3,41,30,86, 47
+2018-11-06 02:13:12 +0000,0,Fowler,GS,Goal - Score,3,41,30,51, 8
+2018-11-06 02:13:19 +0000,1,Hadley,C,Centre Pass,3,42,30,50, 100
+2018-11-06 02:13:19 +0000,1,Housby ,GA,Assist - Centre Pass Rec,3,42,30,95, 126
+2018-11-06 02:13:21 +0000,1,Hadley,C,Assist - 2nd Phase,3,42,30,78, 148
+2018-11-06 02:13:24 +0000,1,Wallace,GS,Possession,3,42,30,43, 154
+2018-11-06 02:13:25 +0000,1,Hadley,C,Possession,3,42,30,47, 157
+2018-11-06 02:13:28 +0000,1,Hadley,C,Assist - Circle Entry,3,42,30,47, 157
+2018-11-06 02:13:28 +0000,1,Wallace,GS,Possession,3,42,30,47, 174
+2018-11-06 02:13:31 +0000,1,Hadley,C,Possession,3,42,30,45, 165
+2018-11-06 02:13:35 +0000,1,Hadley,C,Assist - Circle Entry,3,42,30,45, 165
+2018-11-06 02:13:35 +0000,1,Housby ,GA,Possession,3,42,30,47, 184
+2018-11-06 02:13:37 +0000,0,Bruce,GK,Penaly - Contact,3,42,30,47, 184
+2018-11-06 02:13:37 +0000,1,Housby ,GA,Goal - Miss,3,42,30,47, 184
+2018-11-06 02:13:46 +0000,0,Bruce,GK,Gain - Def Reb,3,42,30,50, 197
+2018-11-06 02:13:49 +0000,0,Francis,GD,Possession,3,42,30,17, 166
+2018-11-06 02:13:51 +0000,0,Bruce,GK,Possession,3,42,30,33, 141
+2018-11-06 02:13:53 +0000,0,Medhurst,GA,Possession,3,42,30,47, 129
+2018-11-06 02:13:55 +0000,0,Francis,GD,Possession,3,42,30,77, 118
+2018-11-06 02:13:58 +0000,0,Bruce,GK,Possession,3,42,30,11, 139
+2018-11-06 02:14:02 +0000,0,Medhurst,GA,Possession,3,42,30,8, 108
+2018-11-06 02:14:05 +0000,0,Eagland,WD,Possession,3,42,30,21, 73
+2018-11-06 02:14:13 +0000,1,O’Brien,WA,Penaly - Contact,3,42,30,21, 73
+2018-11-06 02:14:13 +0000,0,Eagland,WD,Possession,3,42,30,21, 73
+2018-11-06 02:14:18 +0000,0,Charles,C,Possession,3,42,30,7, 51
+2018-11-06 02:14:22 +0000,1,Hadley,C,Penaly - Obstruction,3,42,30,7, 51
+2018-11-06 02:14:22 +0000,0,Charles,C,Possession,3,42,30,7, 51
+2018-11-06 02:14:27 +0000,0,Charles,C,Assist - Circle Entry,3,42,30,7, 51
+2018-11-06 02:14:28 +0000,1,Klau ,GK,Gain - Inter,3,42,30,51, 17
+2018-11-06 02:14:34 +0000,1,McCulloch,WD,Possession,3,42,30,68, 36
+2018-11-06 02:14:40 +0000,1,Klau ,GK,Possession,3,42,30,87, 47
+2018-11-06 02:14:43 +0000,1,McCulloch,WD,Possession,3,42,30,74, 53
+2018-11-06 02:14:45 +0000,1,McCulloch,WD,Possession,3,42,30,39, 60
+2018-11-06 02:14:48 +0000,1,Eddy,GD,Possession,3,42,30,83, 74
+2018-11-06 02:14:56 +0000,1,Hadley,C,Possession,3,42,30,69, 72
+2018-11-06 02:14:59 +0000,1,Eddy,GD,Possession,3,42,30,85, 90
+2018-11-06 02:15:06 +0000,0,Bruce,GK,Gain - Inter,3,42,30,72, 164
+2018-11-06 02:15:13 +0000,0,Charles,C,Possession,3,42,30,62, 139
+2018-11-06 02:15:16 +0000,0,Francis,GD,Possession,3,42,30,23, 130
+2018-11-06 02:15:18 +0000,0,Medhurst,GA,Possession,3,42,30,28, 90
+2018-11-06 02:15:20 +0000,0,Charles,C,Possession,3,42,30,51, 72
+2018-11-06 02:15:22 +0000,0,Colyer ,WA,Possession,3,42,30,39, 55
+2018-11-06 02:15:24 +0000,0,Medhurst,GA,Possession,3,42,30,21, 34
+2018-11-06 02:15:27 +0000,0,Medhurst,GA,Assist - Circle Entry,3,42,30,21, 34
+2018-11-06 02:15:27 +0000,0,Fowler,GS,Goal - Score,3,42,30,55, 7
+2018-11-06 02:15:34 +0000,0,Charles,C,Centre Pass,3,43,30,50, 100
+2018-11-06 02:15:34 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,43,30,44, 71
+2018-11-06 02:15:37 +0000,0,Colyer ,WA,Assist - Circle Entry,3,43,30,44, 71
+2018-11-06 02:15:37 +0000,0,Fowler,GS,Assist - 2nd Phase,3,43,30,44, 13
+2018-11-06 02:15:42 +0000,0,Fowler,GS,Goal - Miss,3,43,30,44, 13
+2018-11-06 02:15:42 +0000,0,Fowler,GS,Assist - Attack Rebound,3,43,30,50, 2
+2018-11-06 02:15:46 +0000,0,Fowler,GS,Goal - Score,3,43,30,44, 13
+2018-11-06 02:15:54 +0000,1,Hadley,C,Centre Pass,3,44,30,50, 100
+2018-11-06 02:15:54 +0000,1,Housby ,GA,Assist - Centre Pass Rec,3,44,30,47, 117
+2018-11-06 02:15:56 +0000,1,Wallace,GS,Assist - 2nd Phase,3,44,30,23, 176
+2018-11-06 02:15:58 +0000,1,Hadley,C,Possession,3,44,30,27, 155
+2018-11-06 02:16:00 +0000,1,Hadley,C,Assist - Circle Entry,3,44,30,27, 155
+2018-11-06 02:16:00 +0000,1,Wallace,GS,Possession,3,44,30,34, 182
+2018-11-06 02:16:03 +0000,1,Housby ,GA,Possession,3,44,30,46, 172
+2018-11-06 02:16:09 +0000,0,Bruce,GK,Deflect,3,44,30,38, 184
+2018-11-06 02:16:09 +0000,1,Hadley,C,Possession,3,44,30,24, 172
+2018-11-06 02:16:17 +0000,1,Hadley,C,Assist - Circle Entry,3,44,30,24, 172
+2018-11-06 02:16:17 +0000,1,Housby ,GA,Goal - Score,3,44,30,61, 194
+2018-11-06 02:16:25 +0000,0,Charles,C,Centre Pass,3,44,31,50, 100
+2018-11-06 02:16:25 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,44,31,67, 73
+2018-11-06 02:16:27 +0000,0,Colyer ,WA,Loss - Bad Pass,3,44,31,26, 43
+2018-11-06 02:16:31 +0000,1,Klau ,GK,Throw In,3,44,31,67, -2
+2018-11-06 02:16:40 +0000,1,Eddy,GD,Possession,3,44,31,31, 21
+2018-11-06 02:16:44 +0000,1,Hadley,C,Possession,3,44,31,11, 56
+2018-11-06 02:16:47 +0000,1,Housby ,GA,Possession,3,44,31,82, 112
+2018-11-06 02:16:49 +0000,0,Eagland,WD,Penaly - Contact,3,44,31,82, 112
+2018-11-06 02:16:49 +0000,1,McCulloch,WD,Possession,3,44,31,82, 112
+2018-11-06 02:17:00 +0000,1,Hadley,C,Possession,3,44,31,65, 133
+2018-11-06 02:17:03 +0000,1,O’Brien,WA,Possession,3,44,31,89, 163
+2018-11-06 02:17:05 +0000,1,Housby ,GA,Possession,3,44,31,50, 163
+2018-11-06 02:17:07 +0000,1,Housby ,GA,Assist - Circle Entry,3,44,31,50, 163
+2018-11-06 02:17:07 +0000,1,Wallace,GS,Goal - Miss,3,44,31,68, 190
+2018-11-06 02:17:11 +0000,0,Bruce,GK,Throw In,3,44,31,50, 202
+2018-11-06 02:17:17 +0000,0,Eagland,WD,Possession,3,44,31,78, 179
+2018-11-06 02:17:24 +0000,0,Charles,C,Possession,3,44,31,54, 124
+2018-11-06 02:17:28 +0000,0,Medhurst,GA,Possession,3,44,31,29, 110
+2018-11-06 02:17:37 +0000,0,Charles,C,Deflect,3,44,31,91, 19
+2018-11-06 02:17:40 +0000,1,Klau ,GK,Throw In,3,44,31,98, -3
+2018-11-06 02:17:51 +0000,1,Eddy,GD,Possession,3,44,31,87, 41
+2018-11-06 02:17:55 +0000,1,McCulloch,WD,Possession,3,44,31,96, 89
+2018-11-06 02:18:04 +0000,1,McCulloch,WD,Possession,3,44,31,22, 109
+2018-11-06 02:18:06 +0000,1,Eddy,GD,Possession,3,44,31,45, 123
+2018-11-06 02:18:10 +0000,1,Hadley,C,Possession,3,44,31,16, 163
+2018-11-06 02:18:12 +0000,1,Hadley,C,Assist - Circle Entry,3,44,31,16, 163
+2018-11-06 02:18:12 +0000,1,Wallace,GS,Possession,3,44,31,29, 193
+2018-11-06 02:18:17 +0000,0,Francis,GD,Gain - Tip (Deflect),3,44,31,69, 170
+2018-11-06 02:18:27 +0000,0,Medhurst,GA,Possession,3,44,31,74, 132
+2018-11-06 02:18:30 +0000,1,McCulloch,WD,Penaly - Contact,3,44,31,74, 132
+2018-11-06 02:18:30 +0000,0,Francis,GD,Possession,3,44,31,74, 132
+2018-11-06 02:18:43 +0000,0,Colyer ,WA,Possession,3,44,31,89, 82
+2018-11-06 02:18:46 +0000,0,Medhurst,GA,Possession,3,44,31,76, 65
+2018-11-06 02:18:50 +0000,0,Charles,C,Possession,3,44,31,30, 33
+2018-11-06 02:18:52 +0000,0,Charles,C,Assist - Circle Entry,3,44,31,30, 33
+2018-11-06 02:18:52 +0000,0,Fowler,GS,Goal - Miss,3,44,31,45, 16
+2018-11-06 02:19:02 +0000,1,Klau ,GK,Gain - Def Reb,3,44,31,50, 2
+2018-11-06 02:19:05 +0000,1,McCulloch,WD,Possession,3,44,31,73, 27
+2018-11-06 02:19:16 +0000,1,Eddy,GD,Possession,3,44,31,92, 39
+2018-11-06 02:19:20 +0000,1,Klau ,GK,Possession,3,44,31,56, 30
+2018-11-06 02:19:23 +0000,1,Hadley,C,Possession,3,44,31,22, 72
+2018-11-06 02:19:27 +0000,1,O’Brien,WA,Possession,3,44,31,6, 112
+2018-11-06 02:19:29 +0000,1,McCulloch,WD,Possession,3,44,31,20, 129
+2018-11-06 02:19:42 +0000,1,O’Brien,WA,Possession,3,44,31,27, 169
+2018-11-06 02:19:45 +0000,1,Housby ,GA,Possession,3,44,31,36, 159
+2018-11-06 02:19:51 +0000,1,Housby ,GA,Assist - Circle Entry,3,44,31,36, 159
+2018-11-06 02:19:51 +0000,1,Wallace,GS,Goal - Score,3,44,31,58, 195
+2018-11-06 02:20:03 +0000,1,Hadley,C,Centre Pass,3,44,32,50, 100
+2018-11-06 02:20:03 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,3,44,32,15, 129
+2018-11-06 02:20:05 +0000,1,Housby ,GA,Assist - 2nd Phase,3,44,32,7, 167
+2018-11-06 02:20:07 +0000,1,McCulloch,WD,Possession,3,44,32,15, 132
+2018-11-06 02:20:09 +0000,1,Hadley,C,Possession,3,44,32,14, 155
+2018-11-06 02:20:11 +0000,1,O’Brien,WA,Possession,3,44,32,61, 156
+2018-11-06 02:20:13 +0000,1,Housby ,GA,Possession,3,44,32,89, 166
+2018-11-06 02:20:15 +0000,1,O’Brien,WA,Possession,3,44,32,68, 140
+2018-11-06 02:20:18 +0000,1,Housby ,GA,Possession,3,44,32,90, 176
+2018-11-06 02:20:20 +0000,1,O’Brien,WA,Possession,3,44,32,72, 176
+2018-11-06 02:20:22 +0000,0,Charles,C,Penaly - Contact,3,44,32,72, 176
+2018-11-06 02:20:22 +0000,1,O’Brien,WA,Possession,3,44,32,72, 176
+2018-11-06 02:20:29 +0000,1,O’Brien,WA,Assist - Circle Entry,3,44,32,72, 176
+2018-11-06 02:20:29 +0000,1,Wallace,GS,Possession,3,44,32,49, 186
+2018-11-06 02:20:32 +0000,0,Bruce,GK,Penaly - Obstruction,3,44,32,49, 186
+2018-11-06 02:20:32 +0000,1,Wallace,GS,Goal - Score,3,44,32,49, 186
+2018-11-06 02:20:40 +0000,0,Charles,C,Centre Pass,3,44,33,50, 100
+2018-11-06 02:20:40 +0000,0,Eagland,WD,Assist - Centre Pass Rec,3,44,33,18, 90
+2018-11-06 02:20:42 +0000,0,Colyer ,WA,Assist - 2nd Phase,3,44,33,28, 64
+2018-11-06 02:20:44 +0000,0,Medhurst,GA,Possession,3,44,33,16, 30
+2018-11-06 02:20:46 +0000,0,Colyer ,WA,Possession,3,44,33,20, 64
+2018-11-06 02:20:48 +0000,0,Medhurst,GA,Possession,3,44,33,16, 31
+2018-11-06 02:20:51 +0000,0,Medhurst,GA,Assist - Circle Entry,3,44,33,16, 31
+2018-11-06 02:20:51 +0000,0,Fowler,GS,Goal - Score,3,44,33,41, 7
+2018-11-06 02:21:51 +0000,1,Hadley,C,Centre Pass,3,45,33,50, 100
+2018-11-06 02:21:51 +0000,1,Housby ,GA,Assist - Centre Pass Rec,3,45,33,34, 117
+2018-11-06 02:21:53 +0000,1,O’Brien,WA,Assist - 2nd Phase,3,45,33,17, 156
+2018-11-06 02:21:55 +0000,0,Eagland,WD,Penaly - Obstruction,3,45,33,30, 172
+2018-11-06 02:21:55 +0000,1,Hadley,C,Possession,3,45,33,30, 172
+2018-11-06 02:22:04 +0000,1,Hadley,C,Assist - Circle Entry,3,45,33,30, 172
+2018-11-06 02:22:04 +0000,1,Housby ,GA,Possession,3,45,33,37, 181
+2018-11-06 02:22:07 +0000,1,O’Brien,WA,Possession,3,45,33,68, 172
+2018-11-06 02:22:09 +0000,1,O’Brien,WA,Assist - Circle Entry,3,45,33,68, 172
+2018-11-06 02:22:09 +0000,1,Housby ,GA,Possession,3,45,33,64, 185
+2018-11-06 02:22:12 +0000,1,O’Brien,WA,Possession,3,45,33,70, 171
+2018-11-06 02:22:14 +0000,1,O’Brien,WA,Assist - Circle Entry,3,45,33,70, 171
+2018-11-06 02:22:14 +0000,1,Housby ,GA,Goal - Miss,3,45,33,61, 186
+2018-11-06 02:22:21 +0000,1,Housby ,GA,Assist - Attack Rebound,3,45,33,50, 197
+2018-11-06 02:22:23 +0000,0,Francis,GD,Penaly - Contact,3,45,33,50, 197
+2018-11-06 02:22:23 +0000,1,Housby ,GA,Goal - Score,3,45,33,50, 197
+2018-11-06 02:22:32 +0000,0,Charles,C,Centre Pass,3,45,34,50, 100
+2018-11-06 02:22:32 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,3,45,34,16, 75
+2018-11-06 02:22:35 +0000,0,Medhurst,GA,Assist - 2nd Phase,3,45,34,44, 76
+2018-11-06 02:22:40 +0000,1,Eddy,GD,Penaly - Obstruction,3,45,34,44, 76
+2018-11-06 02:22:40 +0000,0,Eagland,WD,Possession,3,45,34,44, 76
+2018-11-06 02:23:04 +0000,0,Eagland,WD,Assist - Circle Entry,3,45,34,44, 76
+2018-11-06 02:23:04 +0000,0,Medhurst,GA,Possession,3,45,34,58, 30
+2018-11-06 02:23:22 +0000,1,McCulloch,WD,Penaly - Contact,3,45,34,22, 20
+2018-11-06 02:23:22 +0000,0,Colyer ,WA,Possession,3,45,34,22, 20
+2018-11-06 02:23:29 +0000,0,Colyer ,WA,Assist - Circle Entry,3,45,34,22, 20
+2018-11-06 02:23:29 +0000,0,Medhurst,GA,Possession,3,45,34,34, 10
+2018-11-06 02:23:32 +0000,0,Fowler,GS,Possession,3,45,34,48, 12
+2018-11-06 02:23:36 +0000,1,Klau ,GK,Penaly - Obstruction,3,45,34,48, 12
+2018-11-06 02:23:51 +0000,0,Fowler,GS,Goal - Score,3,45,34,49, 10
+2018-11-06 02:24:02 +0000,1,Hadley,C,Centre Pass,3,46,34,50, 100
+2018-11-06 02:24:02 +0000,1,McCulloch,WD,Assist - Centre Pass Rec,3,46,34,58, 82
+2018-11-06 02:24:04 +0000,1,McCulloch,WD,Assist - 2nd Phase,3,46,34,14, 100
+2018-11-06 02:24:06 +0000,1,Housby ,GA,Possession,3,46,34,13, 131
+2018-11-06 02:24:08 +0000,1,McCulloch,WD,Possession,3,46,34,29, 132
+2018-11-06 02:24:11 +0000,1,Housby ,GA,Possession,3,46,34,13, 164
+2018-11-06 02:24:12 +0000,1,O’Brien,WA,Possession,3,46,34,23, 144
+2018-11-06 02:24:14 +0000,1,,UNKNOWN,Possession,3,46,34,36, 143
+2018-11-06 02:24:16 +0000,1,Housby ,GA,Possession,3,46,34,87, 170
+2018-11-06 02:24:22 +0000,0,Charles,C,Penaly - Contact,3,46,34,71, 174
+2018-11-06 02:24:22 +0000,1,Hadley,C,Possession,3,46,34,71, 174
+2018-11-06 02:24:28 +0000,1,Hadley,C,Assist - Circle Entry,3,46,34,71, 174
+2018-11-06 02:24:28 +0000,1,Housby ,GA,Goal - Miss,3,46,34,63, 187
+2018-11-06 02:24:35 +0000,0,Francis,GD,Gain - Def Reb,3,46,34,50, 197
+2018-11-06 02:24:36 +0000,0,Bruce,GK,Possession,3,46,34,40, 186
+2018-11-06 02:24:39 +0000,0,Eagland,WD,Possession,3,46,34,43, 165
+2018-11-06 02:24:41 +0000,0,Charles,C,Possession,3,46,34,60, 139
+2018-11-06 02:24:45 +0000,0,Medhurst,GA,Possession,3,46,34,17, 118
+2018-11-06 02:24:49 +0000,1,Hadley,C,Gain - Inter,3,46,34,19, 30
+2018-11-06 02:24:57 +0000,0,Fowler,GS,Penaly - Obstruction,3,46,34,19, 30
+2018-11-06 02:24:57 +0000,1,Hadley,C,Possession,3,46,34,19, 30
+2018-11-06 02:25:00 +0000,1,Eddy,GD,Possession,3,46,34,63, 40
+2018-11-06 02:25:04 +0000,1,O’Brien,WA,Possession,3,46,34,92, 102
+2018-11-06 02:25:14 +0000,1,Eddy,GD,Possession,3,46,34,69, 79
+2018-11-06 02:25:17 +0000,1,Hadley,C,Possession,3,46,34,13, 115
+2018-11-06 02:25:19 +0000,1,Housby ,GA,Possession,3,46,34,27, 104
+2018-11-06 02:25:21 +0000,1,Hadley,C,Possession,3,46,34,17, 120
+2018-11-06 02:25:23 +0000,1,O’Brien,WA,Possession,3,46,34,30, 105
+2018-11-06 02:25:26 +0000,1,O’Brien,WA,Possession,3,46,34,52, 131
+2018-11-06 02:25:27 +0000,1,Housby ,GA,Possession,3,46,34,95, 150
+2018-11-06 02:25:30 +0000,1,O’Brien,WA,Possession,3,46,34,71, 170
+2018-11-06 02:25:35 +0000,1,O’Brien,WA,Assist - Circle Entry,3,46,34,71, 170
+2018-11-06 02:25:35 +0000,1,Housby ,GA,Goal - Score,3,46,34,69, 194
+2018-11-06 02:25:51 +0000,0,,UNKNOWN,Timeout,3,46,35,-10, -22
+2018-11-06 02:27:31 +0000,0,Medhurst,UNKNOWN,Interchange - Stanton,3,46,35,
+2018-11-06 02:27:31 +0000,0,Colyer ,UNKNOWN,Interchange - Medhurst,3,46,35,
+2018-11-06 02:27:31 +0000,0,Charles,UNKNOWN,Interchange - Colyer ,3,46,35,
+2018-11-06 02:27:33 +0000,0,Colyer ,C,Centre Pass,3,46,35,50, 100
+2018-11-06 02:27:33 +0000,0,Medhurst,WA,Assist - Centre Pass Rec,3,46,35,24, 87
+2018-11-06 02:27:35 +0000,0,Colyer ,C,Assist - 2nd Phase,3,46,35,13, 48
+2018-11-06 02:27:38 +0000,1,McCulloch,WD,Penaly - Obstruction,3,46,35,13, 48
+2018-11-06 02:27:38 +0000,0,Colyer ,C,Possession,3,46,35,13, 48
+2018-11-06 02:27:46 +0000,0,Stanton,GA,Possession,3,46,35,14, 11
+2018-11-06 02:27:51 +0000,0,,UNKNOWN,Possession,3,46,35,23, 25
+2018-11-06 02:27:53 +0000,0,,UNKNOWN,Assist - Circle Entry,3,46,35,23, 25
+2018-11-06 02:27:53 +0000,0,Stanton,GA,Goal - Miss,3,46,35,32, 10
+2018-11-06 02:28:03 +0000,1,Klau ,GK,Gain - Def Reb,3,46,35,50, 2
+2018-11-06 02:28:04 +0000,0,Fowler,GS,Penaly - Contact,3,46,35,50, 2
+2018-11-06 02:28:04 +0000,1,Klau ,GK,Possession,3,46,35,50, 2
+2018-11-06 02:28:13 +0000,1,McCulloch,WD,Possession,3,46,35,36, 33
+2018-11-06 02:28:16 +0000,0,Medhurst,WA,Penaly - Contact,3,46,35,36, 33
+2018-11-06 02:28:16 +0000,1,McCulloch,WD,Possession,3,46,35,36, 33
+2018-11-06 02:28:21 +0000,1,McCulloch,WD,Possession,3,46,35,17, 87
+2018-11-06 02:28:27 +0000,1,O’Brien,WA,Possession,3,46,35,51, 142
+2018-11-06 02:28:28 +0000,1,Housby ,GA,Possession,3,46,35,87, 162
+2018-11-06 02:28:31 +0000,1,Housby ,GA,Assist - Circle Entry,3,46,35,87, 162
+2018-11-06 02:28:31 +0000,1,Wallace,GS,Possession,3,46,35,52, 187
+2018-11-06 02:28:33 +0000,1,O’Brien,WA,Possession,3,46,35,74, 176
+2018-11-06 02:28:35 +0000,1,O’Brien,WA,Assist - Circle Entry,3,46,35,74, 176
+2018-11-06 02:28:35 +0000,1,Wallace,GS,Goal - Score,3,46,35,50, 189
+2018-11-06 02:28:45 +0000,1,Hadley,C,Centre Pass,3,46,36,50, 100
+2018-11-06 02:28:45 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,3,46,36,89, 115
+2018-11-06 02:28:47 +0000,1,Hadley,C,Assist - 2nd Phase,3,46,36,69, 121
+2018-11-06 02:28:48 +0000,1,Housby ,GA,Possession,3,46,36,95, 152
+2018-11-06 02:28:50 +0000,1,Hadley,C,Possession,3,46,36,73, 138
+2018-11-06 02:28:52 +0000,1,O’Brien,WA,Possession,3,46,36,23, 156
+2018-11-06 02:28:54 +0000,1,Hadley,C,Possession,3,46,36,14, 191
+2018-11-06 02:28:57 +0000,1,Hadley,C,Assist - Circle Entry,3,46,36,14, 191
+2018-11-06 02:28:57 +0000,1,Wallace,GS,Possession,3,46,36,37, 197
+2018-11-06 02:28:59 +0000,1,O’Brien,WA,Possession,3,46,36,67, 170
+2018-11-06 02:29:09 +0000,0,Bruce,GK,Deflect,3,46,36,53, 182
+2018-11-06 02:29:09 +0000,1,Housby ,GA,Possession,3,46,36,57, 175
+2018-11-06 02:29:15 +0000,1,O’Brien,WA,Possession,3,46,36,79, 179
+2018-11-06 02:29:17 +0000,1,O’Brien,WA,Assist - Circle Entry,3,46,36,79, 179
+2018-11-06 02:29:18 +0000,1,Wallace,GS,Goal - Score,3,46,36,39, 187
+2018-11-06 02:29:28 +0000,0,Colyer ,C,Centre Pass,3,46,37,50, 100
+2018-11-06 02:29:28 +0000,0,Francis,GD,Assist - Centre Pass Rec,3,46,37,52, 131
+2018-11-06 02:29:30 +0000,0,Colyer ,C,Assist - 2nd Phase,3,46,37,71, 110
+2018-11-06 02:29:35 +0000,0,Eagland,WD,Possession,3,46,37,57, 115
+2018-11-06 02:29:40 +0000,1,O’Brien,WA,Penaly - Contact,3,46,37,57, 115
+2018-11-06 02:29:40 +0000,0,Eagland,WD,Possession,3,46,37,57, 115
+2018-11-06 02:29:46 +0000,0,Colyer ,C,Possession,3,46,37,18, 46
+2018-11-06 02:29:49 +0000,0,Stanton,GA,Possession,3,46,37,24, 37
+2018-11-06 02:29:55 +0000,1,Eddy,GD,Penaly - Obstruction,3,46,37,25, 26
+2018-11-06 02:29:55 +0000,0,Colyer ,C,Possession,3,46,37,25, 26
+2018-11-06 02:30:02 +0000,0,Colyer ,C,Assist - Circle Entry,3,46,37,25, 26
+2018-11-06 02:30:02 +0000,0,Fowler,GS,Goal - Score,3,46,37,55, 11
+2018-11-06 02:30:11 +0000,1,Hadley,C,Centre Pass,3,47,37,50, 100
+2018-11-06 02:30:11 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,3,47,37,92, 127
+2018-11-06 02:30:14 +0000,1,McCulloch,WD,Assist - 2nd Phase,3,47,37,79, 132
+2018-11-06 02:30:16 +0000,1,O’Brien,WA,Possession,3,47,37,91, 148
+2018-11-06 02:30:17 +0000,1,Hadley,C,Possession,3,47,37,55, 148
+2018-11-06 02:30:19 +0000,1,Housby ,GA,Possession,3,47,37,77, 177
+2018-11-06 02:30:22 +0000,1,Hadley,C,Possession,3,47,37,55, 166
+2018-11-06 02:30:55 +0000,0,Francis,GD,Deflect,3,47,37,63, 189
+2018-11-06 02:30:55 +0000,1,O’Brien,WA,Possession,3,47,37,82, 182
+2018-11-06 02:31:10 +0000,0,Bruce,GK,Deflect,3,47,37,64, 182
+2018-11-06 02:31:10 +0000,0,Colyer ,C,Gain - Inter,3,47,37,63, 169
+2018-11-06 02:31:22 +0000,0,Francis,GD,Possession,3,47,37,87, 167
+2018-11-06 02:31:24 +0000,0,Colyer ,C,Possession,3,47,37,87, 125
+2018-11-06 02:31:27 +0000,0,Stanton,GA,Possession,3,47,37,82, 96
+2018-11-06 02:31:34 +0000,1,O’Brien,WA,Penaly - Obstruction,3,47,37,82, 96
+2018-11-06 02:31:34 +0000,0,Eagland,WD,Possession,3,47,37,82, 96
+2018-11-06 02:31:42 +0000,0,Colyer ,C,Possession,3,47,37,81, 64
+2018-11-06 02:31:47 +0000,0,Colyer ,C,Assist - Circle Entry,3,47,37,81, 64
+2018-11-06 02:31:48 +0000,0,Stanton,GA,Possession,3,47,37,35, 28
+2018-11-06 02:31:52 +0000,0,Medhurst,WA,Possession,3,47,37,84, 12
+2018-11-06 02:31:55 +0000,0,Medhurst,WA,Assist - Circle Entry,3,47,37,84, 12
+2018-11-06 02:31:55 +0000,0,Fowler,GS,Goal - Score,3,47,37,46, 15
+2018-11-06 02:32:07 +0000,0,Colyer ,C,Centre Pass,3,48,37,50, 100
+2018-11-06 02:32:07 +0000,0,Francis,GD,Assist - Centre Pass Rec,3,48,37,70, 78
+2018-11-06 02:32:12 +0000,1,Hadley,C,Penaly - Contact,3,48,37,70, 78
+2018-11-06 02:32:12 +0000,0,Francis,GD,Possession,3,48,37,70, 78
+2018-11-06 02:32:19 +0000,0,,UNKNOWN,Possession,3,48,37,26, 41
+2018-11-06 02:32:25 +0000,0,,UNKNOWN,Assist - Circle Entry,3,48,37,26, 41
+2018-11-06 02:32:25 +0000,0,Stanton,GA,Loss - Held Ball,3,48,37,47, 21
+2018-11-06 02:32:37 +0000,1,Eddy,GD,Possession,3,48,37,45, 22
+2018-11-06 02:32:40 +0000,1,,UNKNOWN,Possession,3,48,37,33, 96
+2018-11-06 02:32:44 +0000,1,,UNKNOWN,Possession,3,48,37,31, 96
+2018-11-06 02:32:45 +0000,1,O’Brien,WA,Possession,3,48,37,14, 129
+2018-11-06 02:32:46 +0000,1,Housby ,GA,Loss - Bad Pass,3,48,37,16, 167
+2018-11-06 02:32:49 +0000,0,Bruce,GK,Throw In,3,48,37,66, 206
+2018-11-06 02:32:53 +0000,0,Eagland,WD,Possession,3,48,37,79, 139
+2018-11-06 02:33:01 +0000,1,,UNKNOWN,Deflect,3,48,37,87, 78
+2018-11-06 02:33:01 +0000,0,Francis,GD,Possession,3,48,37,87, 78
+2018-11-06 02:33:10 +0000,1,McCulloch,WD,Deflect,3,48,37,92, 41
+2018-11-06 02:33:10 +0000,0,Colyer ,C,Throw In,3,48,37,107, 34
+2018-11-06 02:33:19 +0000,0,Stanton,GA,Possession,3,48,37,49, 52
+2018-11-06 02:33:22 +0000,0,Stanton,GA,Assist - Circle Entry,3,48,37,49, 52
+2018-11-06 02:33:22 +0000,0,Fowler,GS,Goal - Score,3,48,37,53, 8
+2018-11-06 02:35:38 +0000,0,Hadley,UNKNOWN,Interchange - Turner,4,49,37,
+2018-11-06 02:35:51 +0000,1,Turner,C,Centre Pass,4,49,37,50, 100
+2018-11-06 02:35:52 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,4,49,37,23, 106
+2018-11-06 02:35:54 +0000,0,Colyer ,C,Gain - Inter,4,49,37,7, 136
+2018-11-06 02:36:08 +0000,0,Bruce,GK,Possession,4,49,37,22, 171
+2018-11-06 02:36:10 +0000,0,Eagland,WD,Possession,4,49,37,10, 145
+2018-11-06 02:36:15 +0000,0,Bruce,GK,Possession,4,49,37,76, 149
+2018-11-06 02:36:16 +0000,0,Francis,GD,Possession,4,49,37,84, 117
+2018-11-06 02:36:19 +0000,0,Medhurst,WA,Possession,4,49,37,48, 114
+2018-11-06 02:36:25 +0000,0,Francis,GD,Possession,4,49,37,87, 74
+2018-11-06 02:36:32 +0000,1,Turner,C,Deflect,4,49,37,91, 40
+2018-11-06 02:36:32 +0000,0,Colyer ,C,Throw In,4,49,37,105, 36
+2018-11-06 02:36:39 +0000,0,Stanton,GA,Possession,4,49,37,83, 13
+2018-11-06 02:36:42 +0000,0,Stanton,GA,Assist - Circle Entry,4,49,37,83, 13
+2018-11-06 02:36:42 +0000,0,Fowler,GS,Possession,4,49,37,56, 2
+2018-11-06 02:36:44 +0000,1,Klau ,GK,Penaly - Contact,4,49,37,56, 2
+2018-11-06 02:36:44 +0000,0,Fowler,GS,Goal - Score,4,49,37,56, 2
+2018-11-06 02:37:00 +0000,0,Colyer ,C,Centre Pass,4,50,37,50, 100
+2018-11-06 02:37:00 +0000,0,Francis,GD,Assist - Centre Pass Rec,4,50,37,67, 76
+2018-11-06 02:37:03 +0000,0,Medhurst,WA,Assist - 2nd Phase,4,50,37,82, 43
+2018-11-06 02:37:07 +0000,0,Stanton,GA,Possession,4,50,37,81, 14
+2018-11-06 02:37:10 +0000,0,Stanton,GA,Assist - Circle Entry,4,50,37,81, 14
+2018-11-06 02:37:10 +0000,0,Fowler,GS,Goal - Score,4,50,37,43, 8
+2018-11-06 02:37:20 +0000,1,Turner,C,Centre Pass,4,51,37,50, 100
+2018-11-06 02:37:20 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,4,51,37,9, 125
+2018-11-06 02:37:23 +0000,1,McCulloch,WD,Assist - 2nd Phase,4,51,37,50, 88
+2018-11-06 02:37:26 +0000,1,Klau ,GK,Possession,4,51,37,75, 57
+2018-11-06 02:37:29 +0000,1,Eddy,GD,Possession,4,51,37,92, 86
+2018-11-06 02:37:35 +0000,1,Housby ,GA,Possession,4,51,37,87, 110
+2018-11-06 02:37:38 +0000,1,O’Brien,WA,Possession,4,51,37,68, 124
+2018-11-06 02:37:42 +0000,1,Turner,C,Possession,4,51,37,33, 151
+2018-11-06 02:37:44 +0000,1,Turner,C,Assist - Circle Entry,4,51,37,33, 151
+2018-11-06 02:37:44 +0000,1,Wallace,GS,Goal - Miss,4,51,37,39, 190
+2018-11-06 02:37:49 +0000,0,Bruce,GK,Gain - Def Reb,4,51,37,50, 197
+2018-11-06 02:37:51 +0000,1,Wallace,GS,Penaly - Contact,4,51,37,50, 197
+2018-11-06 02:37:51 +0000,0,Bruce,GK,Possession,4,51,37,50, 197
+2018-11-06 02:37:56 +0000,0,Francis,GD,Possession,4,51,37,38, 156
+2018-11-06 02:38:00 +0000,0,Bruce,GK,Loss - Bad Pass,4,51,37,87, 153
+2018-11-06 02:38:06 +0000,1,McCulloch,WD,Throw In,4,51,37,-4, 117
+2018-11-06 02:38:37 +0000,1,Turner,C,Possession,4,51,37,24, 114
+2018-11-06 02:38:40 +0000,1,Eddy,GD,Possession,4,51,37,63, 124
+2018-11-06 02:38:42 +0000,1,Housby ,GA,Possession,4,51,37,73, 154
+2018-11-06 02:38:49 +0000,1,Housby ,GA,Assist - Circle Entry,4,51,37,73, 154
+2018-11-06 02:38:49 +0000,1,Wallace,GS,Possession,4,51,37,53, 179
+2018-11-06 02:38:55 +0000,1,Turner,C,Possession,4,51,37,41, 164
+2018-11-06 02:39:00 +0000,1,Turner,C,Assist - Circle Entry,4,51,37,41, 164
+2018-11-06 02:39:00 +0000,0,Bruce,GK,Gain - Inter,4,51,37,55, 188
+2018-11-06 02:39:07 +0000,0,Eagland,WD,Possession,4,51,37,60, 162
+2018-11-06 02:39:09 +0000,0,Bruce,GK,Possession,4,51,37,50, 170
+2018-11-06 02:39:14 +0000,1,O’Brien,WA,Deflect,4,51,37,97, 145
+2018-11-06 02:39:14 +0000,0,Bruce,GK,Throw In,4,51,37,108, 139
+2018-11-06 02:39:21 +0000,0,Francis,GD,Possession,4,51,37,83, 112
+2018-11-06 02:39:23 +0000,1,Housby ,GA,Penaly - Contact,4,51,37,83, 112
+2018-11-06 02:39:24 +0000,0,Francis,GD,Possession,4,51,37,83, 112
+2018-11-06 02:39:27 +0000,0,Eagland,WD,Possession,4,51,37,19, 87
+2018-11-06 02:39:38 +0000,0,Medhurst,WA,Possession,4,51,37,28, 77
+2018-11-06 02:39:42 +0000,0,Stanton,GA,Possession,4,51,37,4, 47
+2018-11-06 02:39:44 +0000,0,Stanton,GA,Assist - Circle Entry,4,51,37,4, 47
+2018-11-06 02:39:44 +0000,0,Fowler,GS,Possession,4,51,37,32, 15
+2018-11-06 02:39:48 +0000,0,Medhurst,WA,Possession,4,51,37,82, 11
+2018-11-06 02:39:51 +0000,0,Medhurst,WA,Assist - Circle Entry,4,51,37,82, 11
+2018-11-06 02:39:51 +0000,0,Stanton,GA,Goal - Score,4,51,37,54, 3
+2018-11-06 02:40:03 +0000,0,Colyer ,C,Centre Pass,4,52,37,50, 100
+2018-11-06 02:40:03 +0000,0,Francis,GD,Assist - Centre Pass Rec,4,52,37,56, 79
+2018-11-06 02:40:06 +0000,0,Eagland,WD,Assist - 2nd Phase,4,52,37,36, 68
+2018-11-06 02:40:08 +0000,1,O’Brien,WA,Penaly - Contact,4,52,37,36, 68
+2018-11-06 02:40:08 +0000,0,Eagland,WD,Possession,4,52,37,36, 68
+2018-11-06 02:40:14 +0000,0,Medhurst,WA,Possession,4,52,37,46, 40
+2018-11-06 02:40:19 +0000,0,Medhurst,WA,Assist - Circle Entry,4,52,37,46, 40
+2018-11-06 02:40:19 +0000,0,Fowler,GS,Goal - Score,4,52,37,35, 9
+2018-11-06 02:40:29 +0000,1,Turner,C,Centre Pass,4,53,37,50, 100
+2018-11-06 02:40:29 +0000,1,Housby ,GA,Assist - Centre Pass Rec,4,53,37,86, 125
+2018-11-06 02:40:31 +0000,1,O’Brien,WA,Assist - 2nd Phase,4,53,37,77, 148
+2018-11-06 02:40:42 +0000,0,Eagland,WD,Penaly - Contact,4,53,37,79, 177
+2018-11-06 02:40:42 +0000,1,O’Brien,WA,Possession,4,53,37,79, 177
+2018-11-06 02:40:53 +0000,1,O’Brien,WA,Assist - Circle Entry,4,53,37,79, 177
+2018-11-06 02:40:53 +0000,1,Housby ,GA,Possession,4,53,37,69, 192
+2018-11-06 02:40:55 +0000,1,Turner,C,Possession,4,53,37,32, 168
+2018-11-06 02:40:58 +0000,1,Turner,C,Assist - Circle Entry,4,53,37,32, 168
+2018-11-06 02:40:58 +0000,1,Housby ,GA,Possession,4,53,37,33, 180
+2018-11-06 02:41:00 +0000,0,Francis,GD,Penaly - Contact,4,53,37,33, 180
+2018-11-06 02:41:00 +0000,1,Housby ,GA,Possession,4,53,37,33, 180
+2018-11-06 02:41:04 +0000,1,Wallace,GS,Goal - Score,4,53,37,40, 192
+2018-11-06 02:41:12 +0000,0,Colyer ,C,Centre Pass,4,53,38,50, 100
+2018-11-06 02:41:12 +0000,0,Stanton,GA,Assist - Centre Pass Rec,4,53,38,76, 82
+2018-11-06 02:41:14 +0000,0,Medhurst,WA,Assist - 2nd Phase,4,53,38,44, 72
+2018-11-06 02:41:19 +0000,0,Colyer ,C,Possession,4,53,38,24, 23
+2018-11-06 02:41:22 +0000,0,Colyer ,C,Assist - Circle Entry,4,53,38,24, 23
+2018-11-06 02:41:22 +0000,0,Fowler,GS,Possession,4,53,38,24, 2
+2018-11-06 02:41:26 +0000,1,Eddy,GD,Penaly - Contact,4,53,38,24, 2
+2018-11-06 02:41:27 +0000,0,Fowler,GS,Possession,4,53,38,24, 2
+2018-11-06 02:41:33 +0000,1,Eddy,GD,Penaly - Contact,4,53,38,54, 10
+2018-11-06 02:41:33 +0000,0,Stanton,GA,Goal - Miss,4,53,38,54, 10
+2018-11-06 02:41:45 +0000,0,Fowler,GS,Assist - Attack Rebound,4,53,38,50, 2
+2018-11-06 02:41:45 +0000,1,Eddy,GD,Penaly - Contact,4,53,38,50, 2
+2018-11-06 02:41:46 +0000,0,Fowler,GS,Goal - Score,4,53,38,50, 2
+2018-11-06 02:41:52 +0000,1,Turner,C,Centre Pass,4,54,38,50, 100
+2018-11-06 02:41:52 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,4,54,38,14, 126
+2018-11-06 02:42:05 +0000,1,Turner,C,Assist - 2nd Phase,4,54,38,28, 136
+2018-11-06 02:42:09 +0000,1,Wallace,GS,Possession,4,54,38,22, 174
+2018-11-06 02:42:13 +0000,1,Wallace,GS,Assist - Circle Entry,4,54,38,22, 174
+2018-11-06 02:42:13 +0000,1,Housby ,GA,Goal - Score,4,54,38,52, 193
+2018-11-06 02:42:21 +0000,0,Colyer ,C,Centre Pass,4,54,39,50, 100
+2018-11-06 02:42:21 +0000,0,Stanton,GA,Assist - Centre Pass Rec,4,54,39,78, 79
+2018-11-06 02:42:23 +0000,0,Francis,GD,Assist - 2nd Phase,4,54,39,5, 103
+2018-11-06 02:42:28 +0000,1,McCulloch,WD,Gain - Inter,4,54,39,7, 74
+2018-11-06 02:42:39 +0000,1,O’Brien,WA,Possession,4,54,39,22, 77
+2018-11-06 02:42:44 +0000,1,McCulloch,WD,Possession,4,54,39,38, 103
+2018-11-06 02:42:52 +0000,1,Turner,C,Possession,4,54,39,20, 127
+2018-11-06 02:42:54 +0000,1,O’Brien,WA,Possession,4,54,39,49, 146
+2018-11-06 02:42:56 +0000,1,Eddy,GD,Possession,4,54,39,49, 128
+2018-11-06 02:42:59 +0000,0,Stanton,GA,Penaly - Contact,4,54,39,49, 128
+2018-11-06 02:42:59 +0000,1,Eddy,GD,Possession,4,54,39,49, 128
+2018-11-06 02:43:05 +0000,1,O’Brien,WA,Possession,4,54,39,57, 152
+2018-11-06 02:43:09 +0000,1,Wallace,GS,Possession,4,54,39,41, 163
+2018-11-06 02:43:12 +0000,1,O’Brien,WA,Possession,4,54,39,82, 184
+2018-11-06 02:43:15 +0000,0,Bruce,GK,Penaly - Contact,4,54,39,63, 193
+2018-11-06 02:43:15 +0000,1,Housby ,GA,Possession,4,54,39,63, 193
+2018-11-06 02:43:23 +0000,1,Wallace,GS,Possession,4,54,39,47, 192
+2018-11-06 02:43:24 +0000,0,Francis,GD,Penaly - Contact,4,54,39,47, 192
+2018-11-06 02:43:24 +0000,1,Wallace,GS,Goal - Score,4,54,39,47, 192
+2018-11-06 02:43:34 +0000,1,Turner,C,Centre Pass,4,54,40,50, 100
+2018-11-06 02:43:34 +0000,1,Housby ,GA,Assist - Centre Pass Rec,4,54,40,34, 116
+2018-11-06 02:43:38 +0000,1,O’Brien,WA,Assist - 2nd Phase,4,54,40,80, 176
+2018-11-06 02:43:46 +0000,1,O’Brien,WA,Assist - Circle Entry,4,54,40,80, 176
+2018-11-06 02:43:46 +0000,1,Wallace,GS,Possession,4,54,40,36, 192
+2018-11-06 02:43:47 +0000,0,Fowler,GS,Penaly - Contact,4,54,40,36, 192
+2018-11-06 02:43:47 +0000,1,Wallace,GS,Goal - Score,4,54,40,36, 192
+2018-11-06 02:44:02 +0000,0,Colyer ,C,Centre Pass,4,54,41,50, 100
+2018-11-06 02:44:02 +0000,0,Stanton,GA,Assist - Centre Pass Rec,4,54,41,3, 77
+2018-11-06 02:44:06 +0000,0,Stanton,GA,Assist - Circle Entry,4,54,41,3, 77
+2018-11-06 02:44:06 +0000,0,Fowler,GS,Goal - Score,4,54,41,54, 6
+2018-11-06 02:44:14 +0000,1,Turner,C,Centre Pass,4,55,41,50, 100
+2018-11-06 02:44:17 +0000,1,Turner,C,Centre Pass,4,55,41,50, 100
+2018-11-06 02:44:17 +0000,0,Eagland,WD,Penaly - Contact on CP,4,55,41,35, 129
+2018-11-06 02:44:17 +0000,1,O’Brien,WA,Possession,4,55,41,35, 129
+2018-11-06 02:44:29 +0000,1,O’Brien,WA,Assist - Circle Entry,4,55,41,35, 129
+2018-11-06 02:44:29 +0000,1,Wallace,GS,Assist - 2nd Phase,4,55,41,27, 183
+2018-11-06 02:44:31 +0000,1,O’Brien,WA,Possession,4,55,41,26, 172
+2018-11-06 02:44:34 +0000,1,O’Brien,WA,Assist - Circle Entry,4,55,41,26, 172
+2018-11-06 02:44:34 +0000,1,Wallace,GS,Goal - Score,4,55,41,35, 185
+2018-11-06 02:44:44 +0000,0,Colyer ,C,Centre Pass,4,55,42,50, 100
+2018-11-06 02:44:44 +0000,0,Medhurst,WA,Assist - Centre Pass Rec,4,55,42,76, 70
+2018-11-06 02:44:48 +0000,1,O’Brien,WA,Penaly - Contact,4,55,42,26, 96
+2018-11-06 02:44:48 +0000,0,Eagland,WD,Assist - 2nd Phase,4,55,42,26, 96
+2018-11-06 02:44:55 +0000,0,Colyer ,C,Possession,4,55,42,24, 72
+2018-11-06 02:44:57 +0000,0,Stanton,GA,Possession,4,55,42,76, 40
+2018-11-06 02:44:59 +0000,0,Stanton,GA,Assist - Circle Entry,4,55,42,76, 40
+2018-11-06 02:44:59 +0000,0,Fowler,GS,Goal - Score,4,55,42,53, 4
+2018-11-06 02:45:07 +0000,1,Turner,C,Centre Pass,4,56,42,50, 100
+2018-11-06 02:45:07 +0000,1,Housby ,GA,Assist - Centre Pass Rec,4,56,42,84, 125
+2018-11-06 02:45:09 +0000,1,Turner,C,Assist - 2nd Phase,4,56,42,77, 129
+2018-11-06 02:45:10 +0000,1,O’Brien,WA,Possession,4,56,42,38, 127
+2018-11-06 02:45:43 +0000,0,Eagland,WD,Deflect,4,56,42,27, 164
+2018-11-06 02:45:43 +0000,1,Wallace,GS,Possession,4,56,42,31, 177
+2018-11-06 02:45:50 +0000,1,O’Brien,WA,Possession,4,56,42,75, 173
+2018-11-06 02:45:53 +0000,1,O’Brien,WA,Assist - Circle Entry,4,56,42,75, 173
+2018-11-06 02:45:53 +0000,1,Housby ,GA,Possession,4,56,42,58, 183
+2018-11-06 02:45:54 +0000,0,Francis,GD,Penaly - Obstruction,4,56,42,58, 183
+2018-11-06 02:45:54 +0000,1,Housby ,GA,Goal - Score,4,56,42,58, 183
+2018-11-06 02:46:28 +0000,0,Colyer ,C,Centre Pass,4,56,43,50, 100
+2018-11-06 02:46:28 +0000,1,O’Brien,WA,Penaly - Contact on CP,4,56,43,41, 102
+2018-11-06 02:46:28 +0000,0,Eagland,WD,Possession,4,56,43,41, 102
+2018-11-06 02:46:39 +0000,0,Stanton,GA,Assist - 2nd Phase,4,56,43,46, 69
+2018-11-06 02:46:41 +0000,0,Medhurst,WA,Possession,4,56,43,9, 53
+2018-11-06 02:46:44 +0000,0,Stanton,GA,Possession,4,56,43,16, 16
+2018-11-06 02:47:04 +0000,0,Medhurst,WA,Loss - Offside,4,56,43,19, 17
+2018-11-06 02:47:09 +0000,1,Klau ,GK,Possession,4,56,43,19, 16
+2018-11-06 02:47:19 +0000,1,Eddy,GD,Possession,4,56,43,77, 17
+2018-11-06 02:47:22 +0000,1,Klau ,GK,Possession,4,56,43,19, 32
+2018-11-06 02:47:26 +0000,1,Turner,C,Possession,4,56,43,13, 57
+2018-11-06 02:47:30 +0000,1,McCulloch,WD,Possession,4,56,43,7, 73
+2018-11-06 02:47:40 +0000,0,Medhurst,WA,Penaly - Obstruction,4,56,43,7, 73
+2018-11-06 02:47:40 +0000,1,Eddy,GD,Possession,4,56,43,7, 73
+2018-11-06 02:47:48 +0000,1,O’Brien,WA,Possession,4,56,43,18, 152
+2018-11-06 02:47:54 +0000,1,Wallace,GS,Possession,4,56,43,12, 186
+2018-11-06 02:47:57 +0000,1,McCulloch,WD,Possession,4,56,43,14, 128
+2018-11-06 02:48:00 +0000,1,Turner,C,Possession,4,56,43,15, 147
+2018-11-06 02:48:03 +0000,1,Housby ,GA,Possession,4,56,43,43, 164
+2018-11-06 02:48:05 +0000,1,Housby ,GA,Assist - Circle Entry,4,56,43,43, 164
+2018-11-06 02:48:05 +0000,1,Wallace,GS,Goal - Miss,4,56,43,47, 185
+2018-11-06 02:48:09 +0000,1,Wallace,GS,Assist - Attack Rebound,4,56,43,50, 197
+2018-11-06 02:48:10 +0000,1,Wallace,GS,Goal - Score,4,56,43,47, 185
+2018-11-06 02:48:14 +0000,0,,UNKNOWN,Timeout,4,56,44,110, 222
+2018-11-06 02:49:14 +0000,0,Colyer ,UNKNOWN,Interchange - Charles,4,56,44,
+2018-11-06 02:49:21 +0000,1,Turner,C,Centre Pass,4,56,44,50, 100
+2018-11-06 02:49:21 +0000,1,Eddy,GD,Loss - Bad Pass,4,56,44,26, 104
+2018-11-06 02:49:38 +0000,0,Bruce,GK,Throw In,4,56,44,-5, 155
+2018-11-06 02:50:37 +0000,1,,UNKNOWN,Deflect,4,56,44,68, 114
+2018-11-06 02:50:37 +0000,0,Francis,GD,Throw In,4,56,44,105, 115
+2018-11-06 02:50:45 +0000,0,Eagland,WD,Possession,4,56,44,7, 105
+2018-11-06 02:50:50 +0000,0,Francis,GD,Possession,4,56,44,34, 119
+2018-11-06 02:50:55 +0000,0,Medhurst,WA,Possession,4,56,44,74, 84
+2018-11-06 02:50:58 +0000,0,Stanton,GA,Possession,4,56,44,51, 83
+2018-11-06 02:51:02 +0000,0,Francis,GD,Possession,4,56,44,38, 116
+2018-11-06 02:51:05 +0000,0,Eagland,WD,Possession,4,56,44,79, 75
+2018-11-06 02:51:10 +0000,0,Medhurst,WA,Possession,4,56,44,89, 54
+2018-11-06 02:51:12 +0000,0,Charles,C,Possession,4,56,44,65, 58
+2018-11-06 02:51:17 +0000,0,Charles,C,Assist - Circle Entry,4,56,44,65, 58
+2018-11-06 02:51:17 +0000,0,Fowler,GS,Goal - Miss,4,56,44,35, 5
+2018-11-06 02:51:25 +0000,1,Eddy,GD,Gain - Def Reb,4,56,44,50, 2
+2018-11-06 02:51:28 +0000,0,Fowler,GS,Penaly - Obstruction,4,56,44,50, 2
+2018-11-06 02:51:28 +0000,1,Eddy,GD,Possession,4,56,44,50, 2
+2018-11-06 02:51:34 +0000,1,Turner,C,Possession,4,56,44,42, 83
+2018-11-06 02:51:36 +0000,1,McCulloch,WD,Possession,4,56,44,2, 102
+2018-11-06 02:51:41 +0000,1,Turner,C,Possession,4,56,44,23, 139
+2018-11-06 02:51:43 +0000,1,O’Brien,WA,Possession,4,56,44,50, 157
+2018-11-06 02:51:45 +0000,1,O’Brien,WA,Possession,4,56,44,73, 169
+2018-11-06 02:51:48 +0000,1,O’Brien,WA,Assist - Circle Entry,4,56,44,73, 169
+2018-11-06 02:51:48 +0000,1,Wallace,GS,Possession,4,56,44,49, 181
+2018-11-06 02:51:50 +0000,0,Bruce,GK,Penaly - Contact,4,56,44,49, 181
+2018-11-06 02:51:50 +0000,1,Wallace,GS,Goal - Score,4,56,44,49, 181
+2018-11-06 02:51:56 +0000,0,Charles,C,Centre Pass,4,56,45,50, 100
+2018-11-06 02:51:56 +0000,0,Stanton,GA,Assist - Centre Pass Rec,4,56,45,6, 84
+2018-11-06 02:51:58 +0000,0,Stanton,GA,Assist - 2nd Phase,4,56,45,11, 58
+2018-11-06 02:52:02 +0000,0,Fowler,GS,Possession,4,56,45,6, 32
+2018-11-06 02:52:04 +0000,0,Charles,C,Possession,4,56,45,83, 11
+2018-11-06 02:52:06 +0000,0,Medhurst,WA,Possession,4,56,45,69, 26
+2018-11-06 02:52:08 +0000,0,Medhurst,WA,Assist - Circle Entry,4,56,45,69, 26
+2018-11-06 02:52:08 +0000,0,Stanton,GA,Goal - Miss,4,56,45,51, 14
+2018-11-06 02:52:14 +0000,1,Eddy,GD,Gain - Def Reb,4,56,45,50, 2
+2018-11-06 02:52:17 +0000,1,McCulloch,WD,Possession,4,56,45,29, 30
+2018-11-06 02:52:21 +0000,1,Turner,C,Possession,4,56,45,6, 95
+2018-11-06 02:52:24 +0000,1,Housby ,GA,Possession,4,56,45,10, 130
+2018-11-06 02:52:30 +0000,0,Charles,C,Penaly - Contact,4,56,45,20, 153
+2018-11-06 02:52:30 +0000,1,O’Brien,WA,Possession,4,56,45,20, 153
+2018-11-06 02:52:39 +0000,1,Housby ,GA,Possession,4,56,45,29, 170
+2018-11-06 02:52:46 +0000,1,Turner,C,Possession,4,56,45,64, 166
+2018-11-06 02:52:52 +0000,1,Turner,C,Assist - Circle Entry,4,56,45,64, 166
+2018-11-06 02:52:52 +0000,1,Wallace,GS,Possession,4,56,45,18, 194
+2018-11-06 02:52:58 +0000,0,Charles,C,Loss - Offside,4,56,45,21, 180
+2018-11-06 02:53:09 +0000,1,Housby ,GA,Possession,4,56,45,22, 180
+2018-11-06 02:53:18 +0000,1,O’Brien,WA,Possession,4,56,45,16, 185
+2018-11-06 02:53:20 +0000,1,O’Brien,WA,Assist - Circle Entry,4,56,45,16, 185
+2018-11-06 02:53:20 +0000,1,Housby ,GA,Goal - Score,4,56,45,35, 189
+2018-11-06 02:53:27 +0000,1,Turner,C,Centre Pass,4,56,46,50, 100
+2018-11-06 02:53:28 +0000,1,O’Brien,WA,Assist - Centre Pass Rec,4,56,46,8, 125
+2018-11-06 02:53:29 +0000,1,Turner,C,Assist - 2nd Phase,4,56,46,14, 180
+2018-11-06 02:53:33 +0000,1,Turner,C,Assist - Circle Entry,4,56,46,14, 180
+2018-11-06 02:53:33 +0000,1,Wallace,GS,Goal - Score,4,56,46,53, 189
+2018-11-06 02:53:41 +0000,0,Charles,C,Centre Pass,4,56,47,50, 100
+2018-11-06 02:53:41 +0000,0,Medhurst,WA,Assist - Centre Pass Rec,4,56,47,26, 96
+2018-11-06 02:53:45 +0000,0,Charles,C,Assist - 2nd Phase,4,56,47,68, 82
+2018-11-06 02:53:47 +0000,0,Stanton,GA,Possession,4,56,47,81, 49
+2018-11-06 02:53:51 +0000,0,Stanton,GA,Assist - Circle Entry,4,56,47,81, 49
+2018-11-06 02:53:51 +0000,0,Fowler,GS,Goal - Score,4,56,47,42, 7
+2018-11-06 02:57:17 +0000,1,Turner,C,Centre Pass,4,57,47,50, 100
+2018-11-06 02:57:17 +0000,1,Turner,C,Loss - Bad Pass,4,57,47,79, 129
+2018-11-06 02:58:05 +0000,0,Francis,GD,Possession,4,57,47,79, 130
+2018-11-06 02:58:11 +0000,0,Eagland,WD,Possession,4,57,47,57, 136
+2018-11-06 02:58:14 +0000,1,O’Brien,WA,Penaly - Obstruction,4,57,47,57, 136
+2018-11-06 02:58:14 +0000,0,Eagland,WD,Possession,4,57,47,57, 136
+2018-11-06 02:58:22 +0000,0,Stanton,GA,Possession,4,57,47,6, 67
+2018-11-06 02:58:27 +0000,0,Stanton,GA,Assist - Circle Entry,4,57,47,6, 67
+2018-11-06 02:58:27 +0000,0,Fowler,GS,Possession,4,57,47,32, 9
+2018-11-06 02:58:29 +0000,0,Charles,C,Possession,4,57,47,83, 10
+2018-11-06 02:58:31 +0000,0,Charles,C,Assist - Circle Entry,4,57,47,83, 10
+2018-11-06 02:58:31 +0000,0,Stanton,GA,Goal - Score,4,57,47,57, 5
+2018-11-06 02:58:41 +0000,0,Charles,C,Centre Pass,4,58,47,50, 100
+2018-11-06 02:58:42 +0000,0,Francis,GD,Assist - Centre Pass Rec,4,58,47,65, 77
+2018-11-06 02:58:46 +0000,1,McCulloch,WD,Gain - Inter,4,58,47,60, 38
+2018-11-06 02:59:45 +0000,1,Eddy,GD,Possession,4,58,47,68, 42
+2018-11-06 03:00:06 +0000,0,Charles,C,Gain - Tip (Deflect),4,58,47,31, 43
+2018-11-06 03:00:16 +0000,0,Charles,C,Possession,4,58,47,26, 37
+2018-11-06 03:00:19 +0000,0,Charles,C,Assist - Circle Entry,4,58,47,26, 37
+2018-11-06 03:00:19 +0000,0,Fowler,GS,Possession,4,58,47,46, 5
+2018-11-06 03:00:27 +0000,1,Klau ,GK,Penaly - Contact,4,58,47,46, 5
+2018-11-06 03:00:27 +0000,0,Fowler,GS,Goal - Score,4,58,47,46, 5
+2018-11-06 03:00:38 +0000,1,Turner,C,Centre Pass,4,59,47,50, 100
+2018-11-06 03:00:38 +0000,1,Eddy,GD,Assist - Centre Pass Rec,4,59,47,23, 86
+2018-11-06 03:00:43 +0000,1,Turner,C,Assist - 2nd Phase,4,59,47,28, 98
+2018-11-06 03:00:45 +0000,1,McCulloch,WD,Possession,4,59,47,2, 109
+2018-11-06 03:00:50 +0000,1,Wallace,GS,Possession,4,59,47,7, 154
+2018-11-06 03:00:52 +0000,1,Turner,C,Possession,4,59,47,22, 155
+2018-11-06 03:00:55 +0000,1,Housby ,GA,Possession,4,59,47,75, 171
+2018-11-06 03:00:58 +0000,1,O’Brien,WA,Possession,4,59,47,14, 190
+2018-11-06 03:01:01 +0000,0,Bruce,GK,Deflect,4,59,47,65, 195
+2018-11-06 03:01:01 +0000,1,Housby ,GA,Throw In,4,59,47,69, 204
+2018-11-06 03:01:07 +0000,1,Turner,C,Possession,4,59,47,82, 183
+2018-11-06 03:01:11 +0000,0,Charles,C,Penaly - Contact,4,59,47,82, 183
+2018-11-06 03:01:11 +0000,1,Turner,C,Possession,4,59,47,82, 183
+2018-11-06 03:01:24 +0000,1,Turner,C,Assist - Circle Entry,4,59,47,82, 183
+2018-11-06 03:01:24 +0000,1,Wallace,GS,Possession,4,59,47,47, 181
+2018-11-06 03:01:27 +0000,0,Bruce,GK,Penaly - Obstruction,4,59,47,47, 181
+2018-11-06 03:01:27 +0000,1,Wallace,GS,Goal - Score,4,59,47,47, 181
+2018-11-06 03:01:40 +0000,0,Charles,C,Centre Pass,4,59,48,50, 100
+2018-11-06 03:01:40 +0000,0,Stanton,GA,Assist - Centre Pass Rec,4,59,48,7, 73
+2018-11-06 03:01:46 +0000,1,Turner,C,Gain - Inter,4,59,48,5, 28
+2018-11-06 03:01:54 +0000,1,McCulloch,WD,Possession,4,59,48,27, 27
+2018-11-06 03:01:57 +0000,0,Fowler,GS,Penaly - Obstruction,4,59,48,27, 27
+2018-11-06 03:01:57 +0000,1,Klau ,GK,Possession,4,59,48,27, 27
+2018-11-06 03:02:08 +0000,1,McCulloch,WD,Possession,4,59,48,12, 59
+2018-11-06 03:02:11 +0000,1,Turner,C,Possession,4,59,48,45, 74
+2018-11-06 03:02:14 +0000,1,McCulloch,WD,Possession,4,59,48,35, 95
+2018-11-06 03:02:17 +0000,1,Turner,C,Possession,4,59,48,42, 123
+2018-11-06 03:02:20 +0000,1,McCulloch,WD,Possession,4,59,48,52, 119
+2018-11-06 03:02:23 +0000,1,Housby ,GA,Possession,4,59,48,81, 142
+2018-11-06 03:02:34 +0000,1,McCulloch,WD,Possession,4,59,48,67, 128
+2018-11-06 03:02:38 +0000,1,Turner,C,Possession,4,59,48,66, 148
+2018-11-06 03:02:42 +0000,1,Wallace,GS,Possession,4,59,48,46, 163
+2018-11-06 03:02:45 +0000,1,Housby ,GA,Possession,4,59,48,77, 175
+2018-11-06 03:02:47 +0000,1,McCulloch,WD,Possession,4,59,48,79, 127
+2018-11-06 03:02:50 +0000,1,Housby ,GA,Possession,4,59,48,80, 146
+2018-11-06 03:02:54 +0000,1,Turner,C,Possession,4,59,48,82, 184
+2018-11-06 03:02:57 +0000,0,Bruce,GK,Penaly - Contact,4,59,48,67, 190
+2018-11-06 03:02:58 +0000,1,Housby ,GA,Goal - Score,4,59,48,67, 190
+2018-11-06 03:03:13 +0000,1,Turner,C,Centre Pass,4,59,49,50, 100
+2018-11-06 03:03:13 +0000,1,McCulloch,WD,Assist - Centre Pass Rec,4,59,49,32, 106
+2018-11-06 03:03:16 +0000,1,Eddy,GD,Assist - 2nd Phase,4,59,49,82, 126
+2018-11-06 03:03:18 +0000,1,O’Brien,WA,Possession,4,59,49,82, 150
+2018-11-06 03:03:21 +0000,1,Turner,C,Possession,4,59,49,86, 183
+2018-11-06 03:03:23 +0000,1,Turner,C,Assist - Circle Entry,4,59,49,86, 183
+2018-11-06 03:03:23 +0000,1,Housby ,GA,Goal - Score,4,59,49,63, 191
+2018-11-06 03:03:33 +0000,0,Charles,C,Centre Pass,4,59,50,50, 100
+2018-11-06 03:03:33 +0000,0,Francis,GD,Assist - Centre Pass Rec,4,59,50,6, 92
+2018-11-06 03:03:35 +0000,0,Charles,C,Assist - 2nd Phase,4,59,50,25, 86
+2018-11-06 03:03:37 +0000,0,Medhurst,WA,Possession,4,59,50,39, 67
+2018-11-06 03:03:40 +0000,0,Medhurst,WA,Assist - Circle Entry,4,59,50,39, 67
+2018-11-06 03:03:40 +0000,0,Fowler,GS,Goal - Score,4,59,50,39, 5
+2018-11-06 03:03:48 +0000,1,Turner,C,Centre Pass,4,60,50,50, 100
+2018-11-06 03:03:48 +0000,1,Housby ,GA,Assist - Centre Pass Rec,4,60,50,32, 114
+2018-11-06 03:03:50 +0000,1,O’Brien,WA,Assist - 2nd Phase,4,60,50,16, 130
+2018-11-06 03:03:57 +0000,1,Turner,C,Possession,4,60,50,14, 184
+2018-11-06 03:04:01 +0000,1,Turner,C,Assist - Circle Entry,4,60,50,14, 184
+2018-11-06 03:04:01 +0000,1,Wallace,GS,Goal - Score,4,60,50,38, 191
+2018-11-06 03:04:09 +0000,0,Charles,C,Centre Pass,4,60,51,50, 100
+2018-11-06 03:04:09 +0000,0,Medhurst,WA,Assist - Centre Pass Rec,4,60,51,82, 76
+2018-11-06 03:04:13 +0000,0,Medhurst,WA,Assist - Circle Entry,4,60,51,82, 76
+2018-11-06 03:04:13 +0000,0,Fowler,GS,Assist - 2nd Phase,4,60,51,49, 7
+2018-11-06 03:04:15 +0000,0,Fowler,GS,Goal - Score,4,60,51,49, 7
+2018-11-06 03:05:55 +0000,1,Turner,C,Centre Pass,4,61,51,50, 100
+2018-11-06 03:05:55 +0000,1,Housby ,GA,Assist - Centre Pass Rec,4,61,51,51, 122
+2018-11-06 03:05:58 +0000,1,Eddy,GD,Assist - 2nd Phase,4,61,51,53, 80
+2018-11-06 03:06:01 +0000,1,O’Brien,WA,Possession,4,61,51,91, 100
+2018-11-06 03:06:10 +0000,1,McCulloch,WD,Possession,4,61,51,70, 129
+2018-11-06 03:06:15 +0000,1,McCulloch,WD,Assist - Circle Entry,4,61,51,70, 129
+2018-11-06 03:06:16 +0000,1,Wallace,GS,Possession,4,61,51,55, 189
+2018-11-06 03:06:18 +0000,1,Housby ,GA,Goal - Score,4,61,51,38, 189
+2018-11-06 03:06:31 +0000,0,Charles,C,Centre Pass,4,61,52,50, 100
+2018-11-06 03:06:31 +0000,0,Eagland,WD,Assist - Centre Pass Rec,4,61,52,49, 110
+2018-11-06 03:06:36 +0000,0,Medhurst,WA,Assist - 2nd Phase,4,61,52,60, 90
+2018-11-06 03:06:40 +0000,1,McCulloch,WD,Penaly - Contact,4,61,52,33, 76
+2018-11-06 03:06:40 +0000,0,Medhurst,WA,Possession,4,61,52,33, 76
+2018-11-06 03:06:47 +0000,0,Stanton,GA,Possession,4,61,52,23, 54
+2018-11-06 03:06:51 +0000,0,Stanton,GA,Assist - Circle Entry,4,61,52,23, 54
+2018-11-06 03:06:51 +0000,0,Fowler,GS,Goal - Score,4,61,52,32, 7
+2018-11-06 03:07:01 +0000,1,Turner,C,Centre Pass,4,62,52,50, 100
+2018-11-06 03:07:01 +0000,1,McCulloch,WD,Assist - Centre Pass Rec,4,62,52,27, 94
+2018-11-06 03:07:03 +0000,1,Eddy,GD,Assist - 2nd Phase,4,62,52,81, 120
+2018-11-06 03:07:06 +0000,1,Housby ,GA,Possession,4,62,52,52, 122
+2018-11-06 03:07:08 +0000,1,Turner,C,Possession,4,62,52,51, 136
+2018-11-06 03:07:09 +0000,1,Wallace,GS,Possession,4,62,52,5, 160
+2018-11-06 03:07:12 +0000,1,Wallace,GS,Assist - Circle Entry,4,62,52,5, 160
+2018-11-06 03:07:12 +0000,0,Bruce,GK,Gain - Inter,4,62,52,43, 192
+2018-11-06 03:07:20 +0000,1,Wallace,GS,Gain - Inter,4,62,52,29, 170
+2018-11-06 03:07:26 +0000,1,Wallace,GS,Assist - Circle Entry,4,62,52,29, 170
+2018-11-06 03:07:26 +0000,1,Housby ,GA,Goal - Score,4,62,52,37, 192
+2018-11-06 03:07:36 +0000,0,Charles,C,Centre Pass,4,62,53,50, 100
+2018-11-06 03:07:37 +0000,0,Stanton,GA,Assist - Centre Pass Rec,4,62,53,76, 75
+2018-11-06 03:07:45 +0000,1,O’Brien,WA,Penaly - Obstruction,4,62,53,76, 75
+2018-11-06 03:07:45 +0000,0,Eagland,WD,Possession,4,62,53,76, 75
+2018-11-06 03:07:51 +0000,0,Medhurst,WA,Possession,4,62,53,67, 51
+2018-11-06 03:07:55 +0000,0,Medhurst,WA,Assist - Circle Entry,4,62,53,67, 51
+2018-11-06 03:07:55 +0000,0,Fowler,GS,Assist - 2nd Phase,4,62,53,56, 9
+2018-11-06 03:07:57 +0000,0,Fowler,GS,Goal - Score,4,62,53,56, 9
+2018-11-06 03:08:04 +0000,1,Turner,C,Centre Pass,4,63,53,50, 100
+2018-11-06 03:08:04 +0000,1,Housby ,GA,Assist - Centre Pass Rec,4,63,53,60, 119
+2018-11-06 03:08:10 +0000,0,Eagland,WD,Penaly - Contact,4,63,53,60, 119
+2018-11-06 03:08:10 +0000,1,McCulloch,WD,Possession,4,63,53,60, 119
+2018-11-06 03:08:17 +0000,0,Charles,C,Penaly - Contact,4,63,53,53, 144
+2018-11-06 03:08:17 +0000,1,O’Brien,WA,Possession,4,63,53,53, 144
+2018-11-06 03:08:22 +0000,1,Turner,C,Possession,4,63,53,76, 177
+2018-11-06 03:08:29 +0000,1,McCulloch,WD,Possession,4,63,53,72, 128
+2018-11-06 03:08:32 +0000,1,Housby ,GA,Possession,4,63,53,81, 166
+2018-11-06 03:08:34 +0000,1,Housby ,GA,Assist - Circle Entry,4,63,53,81, 166
+2018-11-06 03:08:34 +0000,1,Wallace,GS,Goal - Score,4,63,53,42, 181
+2018-11-06 03:08:43 +0000,0,Charles,C,Centre Pass,4,63,54,50, 100
+2018-11-06 03:08:43 +0000,0,Francis,GD,Assist - Centre Pass Rec,4,63,54,22, 110
+2018-11-06 03:08:45 +0000,0,Eagland,WD,Assist - 2nd Phase,4,63,54,84, 91
+2018-11-06 03:08:46 +0000,0,Francis,GD,Possession,4,63,54,29, 108
+2018-11-06 03:08:48 +0000,0,Stanton,GA,Loss - Bad Pass,4,63,54,7, 44
+2018-11-06 03:08:51 +0000,1,,UNKNOWN,Throw In,4,63,54,73, -6

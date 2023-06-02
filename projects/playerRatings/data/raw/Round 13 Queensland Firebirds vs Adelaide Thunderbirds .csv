@@ -1,0 +1,1671 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-11-28 09:44:45 +0000,1,Petty,C,Centre Pass,1,0,0,50, 100
+2018-11-28 09:44:45 +0000,1,Msomi,WA,Assist - Centre Pass Rec,1,0,0,63, 116
+2018-11-28 09:44:48 +0000,1,de Bruin,GD,Assist - 2nd Phase,1,0,0,39, 103
+2018-11-28 09:44:51 +0000,1,Petty,C,Possession,1,0,0,10, 142
+2018-11-28 09:44:54 +0000,1,Pitman,GA,Possession,1,0,0,10, 173
+2018-11-28 09:45:00 +0000,1,Pitman,GA,Assist - Circle Entry,1,0,0,10, 173
+2018-11-28 09:45:00 +0000,1,Nelson,GS,Possession,1,0,0,26, 193
+2018-11-28 09:45:03 +0000,0,Geitz,GK,Penaly - Contact,1,0,0,26, 193
+2018-11-28 09:45:03 +0000,1,Pitman,GA,Possession,1,0,0,26, 193
+2018-11-28 09:45:11 +0000,1,Nelson,GS,Goal - Score,1,0,0,48, 186
+2018-11-28 09:45:20 +0000,0,Cassidy,C,Centre Pass,1,0,1,50, 100
+2018-11-28 09:45:20 +0000,0,Tippett,GA,Assist - Centre Pass Rec,1,0,1,73, 91
+2018-11-28 09:45:22 +0000,0,Simpson,WD,Assist - 2nd Phase,1,0,1,46, 111
+2018-11-28 09:45:24 +0000,0,Cassidy,C,Possession,1,0,1,2, 57
+2018-11-28 09:45:50 +0000,0,Tippett,GA,Possession,1,0,1,35, 46
+2018-11-28 09:45:53 +0000,0,Tippett,GA,Assist - Circle Entry,1,0,1,35, 46
+2018-11-28 09:45:53 +0000,0,Aiken,GS,Possession,1,0,1,50, 29
+2018-11-28 09:46:00 +0000,0,Simpson,WD,Possession,1,0,1,46, 70
+2018-11-28 09:46:02 +0000,0,Nevins,WA,Possession,1,0,1,50, 49
+2018-11-28 09:46:06 +0000,0,Nevins,WA,Assist - Circle Entry,1,0,1,50, 49
+2018-11-28 09:46:06 +0000,0,Aiken,GS,Loss - Held Ball,1,0,1,46, 7
+2018-11-28 09:46:15 +0000,1,Shimmin,GK,Possession,1,0,1,44, 7
+2018-11-28 09:46:24 +0000,1,de Bruin,GD,Possession,1,0,1,14, 53
+2018-11-28 09:46:26 +0000,0,Tippett,GA,Penaly - Contact,1,0,1,14, 53
+2018-11-28 09:46:26 +0000,1,Shimmin,GK,Possession,1,0,1,14, 53
+2018-11-28 09:46:33 +0000,1,de Bruin,GD,Possession,1,0,1,42, 56
+2018-11-28 09:46:35 +0000,1,Shimmin,GK,Possession,1,0,1,24, 56
+2018-11-28 09:46:37 +0000,1,Petty,C,Loss - Bad Pass,1,0,1,7, 91
+2018-11-28 09:46:46 +0000,0,Geitz,GK,Gain - Inter,1,0,1,50, 161
+2018-11-28 09:46:53 +0000,0,Nevins,WA,Possession,1,0,1,75, 126
+2018-11-28 09:46:56 +0000,0,Jenner,GD,Possession,1,0,1,1, 80
+2018-11-28 09:47:02 +0000,0,Simpson,WD,Possession,1,0,1,20, 105
+2018-11-28 09:47:07 +0000,0,Cassidy,C,Possession,1,0,1,52, 60
+2018-11-28 09:47:09 +0000,0,Tippett,GA,Possession,1,0,1,73, 46
+2018-11-28 09:47:11 +0000,0,Cassidy,C,Possession,1,0,1,23, 35
+2018-11-28 09:47:14 +0000,0,Nevins,WA,Possession,1,0,1,49, 36
+2018-11-28 09:47:16 +0000,0,Nevins,WA,Assist - Circle Entry,1,0,1,49, 36
+2018-11-28 09:47:16 +0000,0,Aiken,GS,Possession,1,0,1,48, 22
+2018-11-28 09:47:19 +0000,0,Nevins,WA,Possession,1,0,1,48, 37
+2018-11-28 09:47:21 +0000,1,Fowler,WD,Penaly - Contact,1,0,1,48, 37
+2018-11-28 09:47:21 +0000,0,Nevins,WA,Possession,1,0,1,48, 37
+2018-11-28 09:47:27 +0000,0,Nevins,WA,Assist - Circle Entry,1,0,1,48, 37
+2018-11-28 09:47:27 +0000,0,Aiken,GS,Goal - Miss,1,0,1,47, 15
+2018-11-28 09:47:35 +0000,1,Shimmin,GK,Deflect,1,0,1,50, 2
+2018-11-28 09:47:36 +0000,0,Tippett,GA,Throw In,1,0,1,52, -3
+2018-11-28 09:47:49 +0000,0,Cassidy,C,Possession,1,0,1,15, 14
+2018-11-28 09:47:52 +0000,0,Cassidy,C,Assist - Circle Entry,1,0,1,15, 14
+2018-11-28 09:47:52 +0000,0,Aiken,GS,Goal - Score,1,0,1,54, 5
+2018-11-28 09:48:00 +0000,1,Petty,C,Centre Pass,1,1,1,50, 100
+2018-11-28 09:48:00 +0000,1,Pitman,GA,Assist - Centre Pass Rec,1,1,1,81, 118
+2018-11-28 09:48:02 +0000,1,de Bruin,GD,Assist - 2nd Phase,1,1,1,66, 97
+2018-11-28 09:48:04 +0000,1,Msomi,WA,Possession,1,1,1,83, 124
+2018-11-28 09:48:07 +0000,1,de Bruin,GD,Possession,1,1,1,79, 99
+2018-11-28 09:48:09 +0000,1,Pitman,GA,Possession,1,1,1,48, 91
+2018-11-28 09:48:11 +0000,1,Petty,C,Possession,1,1,1,43, 122
+2018-11-28 09:48:14 +0000,1,Msomi,WA,Possession,1,1,1,18, 166
+2018-11-28 09:48:20 +0000,0,Simpson,WD,Deflect,1,1,1,11, 185
+2018-11-28 09:48:20 +0000,1,Msomi,WA,Throw In,1,1,1,-3, 199
+2018-11-28 09:48:28 +0000,1,Fowler,WD,Possession,1,1,1,10, 130
+2018-11-28 09:48:30 +0000,1,Msomi,WA,Possession,1,1,1,11, 147
+2018-11-28 09:48:33 +0000,1,Petty,C,Possession,1,1,1,76, 175
+2018-11-28 09:48:36 +0000,1,Petty,C,Assist - Circle Entry,1,1,1,76, 175
+2018-11-28 09:48:36 +0000,1,Pitman,GA,Possession,1,1,1,48, 176
+2018-11-28 09:48:41 +0000,1,Petty,C,Possession,1,1,1,79, 180
+2018-11-28 09:48:44 +0000,1,Petty,C,Assist - Circle Entry,1,1,1,79, 180
+2018-11-28 09:48:44 +0000,1,Pitman,GA,Possession,1,1,1,60, 181
+2018-11-28 09:48:46 +0000,0,Jenner,GD,Penaly - Contact,1,1,1,60, 181
+2018-11-28 09:48:46 +0000,1,Pitman,GA,Possession,1,1,1,60, 181
+2018-11-28 09:48:50 +0000,1,Nelson,GS,Goal - Score,1,1,1,44, 194
+2018-11-28 09:49:22 +0000,0,Cassidy,C,Centre Pass,1,1,2,50, 100
+2018-11-28 09:49:22 +0000,0,Nevins,WA,Assist - Centre Pass Rec,1,1,2,60, 83
+2018-11-28 09:49:29 +0000,0,Aiken,GS,Assist - 2nd Phase,1,1,2,54, 36
+2018-11-28 09:49:32 +0000,0,Cassidy,C,Possession,1,1,2,78, 21
+2018-11-28 09:49:40 +0000,1,Petty,C,Penaly - Contact,1,1,2,52, 35
+2018-11-28 09:49:40 +0000,0,Nevins,WA,Possession,1,1,2,52, 35
+2018-11-28 09:49:48 +0000,0,Nevins,WA,Assist - Circle Entry,1,1,2,52, 35
+2018-11-28 09:49:48 +0000,0,Tippett,GA,Possession,1,1,2,50, 18
+2018-11-28 09:49:50 +0000,0,Aiken,GS,Goal - Score,1,1,2,45, 4
+2018-11-28 09:50:03 +0000,1,Petty,C,Centre Pass,1,2,2,50, 100
+2018-11-28 09:50:03 +0000,0,Nevins,WA,Gain - Inter,1,2,2,10, 104
+2018-11-28 09:50:07 +0000,0,Tippett,GA,Possession,1,2,2,13, 79
+2018-11-28 09:50:10 +0000,0,Simpson,WD,Possession,1,2,2,28, 71
+2018-11-28 09:50:12 +0000,0,Tippett,GA,Possession,1,2,2,24, 46
+2018-11-28 09:50:18 +0000,0,Tippett,GA,Assist - Circle Entry,1,2,2,24, 46
+2018-11-28 09:50:18 +0000,0,Aiken,GS,Possession,1,2,2,49, 28
+2018-11-28 09:50:20 +0000,0,Tippett,GA,Possession,1,2,2,35, 15
+2018-11-28 09:50:26 +0000,0,Aiken,GS,Possession,1,2,2,44, 5
+2018-11-28 09:50:28 +0000,1,Shimmin,GK,Penaly - Obstruction,1,2,2,44, 5
+2018-11-28 09:50:28 +0000,0,Aiken,GS,Goal - Score,1,2,2,44, 5
+2018-11-28 09:50:34 +0000,0,Cassidy,C,Centre Pass,1,3,2,50, 100
+2018-11-28 09:50:34 +0000,0,Nevins,WA,Assist - Centre Pass Rec,1,3,2,75, 73
+2018-11-28 09:50:36 +0000,0,Cassidy,C,Assist - 2nd Phase,1,3,2,74, 30
+2018-11-28 09:50:38 +0000,0,Cassidy,C,Assist - Circle Entry,1,3,2,74, 30
+2018-11-28 09:50:38 +0000,0,Tippett,GA,Goal - Score,1,3,2,52, 4
+2018-11-28 09:50:46 +0000,1,Petty,C,Centre Pass,1,4,2,50, 100
+2018-11-28 09:50:46 +0000,1,Pitman,GA,Assist - Centre Pass Rec,1,4,2,36, 130
+2018-11-28 09:50:48 +0000,0,Jenner,GD,Penaly - Contact,1,4,2,36, 130
+2018-11-28 09:50:48 +0000,1,de Bruin,GD,Possession,1,4,2,36, 130
+2018-11-28 09:50:55 +0000,1,Petty,C,Possession,1,4,2,34, 150
+2018-11-28 09:50:57 +0000,1,Petty,C,Assist - Circle Entry,1,4,2,34, 150
+2018-11-28 09:50:57 +0000,1,Pitman,GA,Assist - 2nd Phase,1,4,2,23, 196
+2018-11-28 09:51:00 +0000,1,Msomi,WA,Possession,1,4,2,79, 185
+2018-11-28 09:51:03 +0000,1,Fowler,WD,Possession,1,4,2,79, 130
+2018-11-28 09:51:06 +0000,0,Nevins,WA,Penaly - Contact,1,4,2,79, 130
+2018-11-28 09:51:06 +0000,1,Fowler,WD,Possession,1,4,2,79, 130
+2018-11-28 09:51:12 +0000,1,Msomi,WA,Possession,1,4,2,72, 145
+2018-11-28 09:51:15 +0000,1,Petty,C,Possession,1,4,2,18, 179
+2018-11-28 09:51:20 +0000,1,Petty,C,Assist - Circle Entry,1,4,2,18, 179
+2018-11-28 09:51:20 +0000,1,Nelson,GS,Goal - Score,1,4,2,31, 185
+2018-11-28 09:51:30 +0000,0,Cassidy,C,Centre Pass,1,4,3,50, 100
+2018-11-28 09:51:30 +0000,0,Tippett,GA,Assist - Centre Pass Rec,1,4,3,28, 78
+2018-11-28 09:51:32 +0000,0,Cassidy,C,Assist - 2nd Phase,1,4,3,24, 49
+2018-11-28 09:51:34 +0000,0,Cassidy,C,Assist - Circle Entry,1,4,3,24, 49
+2018-11-28 09:51:34 +0000,0,Aiken,GS,Possession,1,4,3,34, 14
+2018-11-28 09:51:37 +0000,0,Tippett,GA,Possession,1,4,3,47, 19
+2018-11-28 09:51:38 +0000,0,Nevins,WA,Possession,1,4,3,73, 25
+2018-11-28 09:51:41 +0000,0,Nevins,WA,Assist - Circle Entry,1,4,3,73, 25
+2018-11-28 09:51:41 +0000,0,Tippett,GA,Possession,1,4,3,57, 10
+2018-11-28 09:51:47 +0000,0,Aiken,GS,Goal - Score,1,4,3,45, 3
+2018-11-28 09:51:53 +0000,1,Petty,C,Centre Pass,1,5,3,50, 100
+2018-11-28 09:51:53 +0000,1,Msomi,WA,Assist - Centre Pass Rec,1,5,3,11, 126
+2018-11-28 09:51:55 +0000,1,Petty,C,Assist - 2nd Phase,1,5,3,25, 143
+2018-11-28 09:51:56 +0000,1,Msomi,WA,Possession,1,5,3,28, 129
+2018-11-28 09:51:58 +0000,1,Pitman,GA,Possession,1,5,3,65, 146
+2018-11-28 09:52:00 +0000,1,Msomi,WA,Possession,1,5,3,55, 164
+2018-11-28 09:52:05 +0000,1,Petty,C,Possession,1,5,3,15, 186
+2018-11-28 09:52:11 +0000,1,Pitman,GA,Loss - Bad Pass,1,5,3,27, 172
+2018-11-28 09:52:16 +0000,0,Cassidy,C,Gain - Inter,1,5,3,15, 175
+2018-11-28 09:52:33 +0000,0,Simpson,WD,Possession,1,5,3,19, 144
+2018-11-28 09:52:37 +0000,0,Tippett,GA,Possession,1,5,3,24, 89
+2018-11-28 09:52:46 +0000,0,Aiken,GS,Possession,1,5,3,6, 21
+2018-11-28 09:52:50 +0000,0,Cassidy,C,Possession,1,5,3,22, 29
+2018-11-28 09:52:54 +0000,0,Cassidy,C,Assist - Circle Entry,1,5,3,22, 29
+2018-11-28 09:52:54 +0000,0,Tippett,GA,Goal - Score,1,5,3,50, 4
+2018-11-28 09:53:01 +0000,0,Cassidy,C,Centre Pass,1,6,3,50, 100
+2018-11-28 09:53:01 +0000,0,Nevins,WA,Assist - Centre Pass Rec,1,6,3,76, 72
+2018-11-28 09:53:07 +0000,1,Petty,C,Gain - Inter,1,6,3,90, 34
+2018-11-28 09:53:13 +0000,1,Pitman,GA,Possession,1,6,3,81, 98
+2018-11-28 09:53:15 +0000,0,Jenner,GD,Penaly - Contact,1,6,3,81, 98
+2018-11-28 09:53:15 +0000,1,Fowler,WD,Possession,1,6,3,81, 98
+2018-11-28 09:53:25 +0000,1,Petty,C,Loss - Bad Pass,1,6,3,83, 135
+2018-11-28 09:53:32 +0000,0,Geitz,GK,Throw In,1,6,3,43, 203
+2018-11-28 09:53:35 +0000,0,Jenner,GD,Possession,1,6,3,19, 176
+2018-11-28 09:53:39 +0000,0,Simpson,WD,Possession,1,6,3,30, 155
+2018-11-28 09:53:44 +0000,1,Pitman,GA,Penaly - Contact,1,6,3,30, 155
+2018-11-28 09:53:44 +0000,0,Simpson,WD,Possession,1,6,3,30, 155
+2018-11-28 09:53:49 +0000,0,Cassidy,C,Possession,1,6,3,35, 114
+2018-11-28 09:53:51 +0000,0,Nevins,WA,Possession,1,6,3,34, 77
+2018-11-28 09:53:53 +0000,0,Tippett,GA,Possession,1,6,3,51, 50
+2018-11-28 09:53:55 +0000,0,Tippett,GA,Assist - Circle Entry,1,6,3,51, 50
+2018-11-28 09:53:55 +0000,0,Aiken,GS,Possession,1,6,3,44, 28
+2018-11-28 09:53:56 +0000,0,Cassidy,C,Possession,1,6,3,19, 21
+2018-11-28 09:53:59 +0000,0,Cassidy,C,Assist - Circle Entry,1,6,3,19, 21
+2018-11-28 09:53:59 +0000,0,Tippett,GA,Goal - Miss,1,6,3,44, 3
+2018-11-28 09:54:06 +0000,1,Shimmin,GK,Deflect,1,6,3,50, 2
+2018-11-28 09:54:07 +0000,0,Tippett,GA,Throw In,1,6,3,43, -3
+2018-11-28 09:54:14 +0000,0,Cassidy,C,Possession,1,6,3,18, 19
+2018-11-28 09:54:17 +0000,0,Cassidy,C,Assist - Circle Entry,1,6,3,18, 19
+2018-11-28 09:54:17 +0000,0,Aiken,GS,Possession,1,6,3,58, 7
+2018-11-28 09:54:22 +0000,0,Tippett,GA,Goal - Score,1,6,3,49, 8
+2018-11-28 09:54:34 +0000,1,,UNKNOWN,Timeout,1,7,3,110, 222
+2018-11-28 09:55:33 +0000,1,Petty,C,Centre Pass,1,7,3,50, 100
+2018-11-28 09:55:33 +0000,1,Msomi,WA,Assist - Centre Pass Rec,1,7,3,7, 124
+2018-11-28 09:55:35 +0000,1,Fowler,WD,Assist - 2nd Phase,1,7,3,58, 110
+2018-11-28 09:55:37 +0000,1,Msomi,WA,Possession,1,7,3,39, 126
+2018-11-28 09:55:40 +0000,1,Petty,C,Possession,1,7,3,22, 159
+2018-11-28 09:55:41 +0000,0,Simpson,WD,Penaly - Contact,1,7,3,22, 159
+2018-11-28 09:55:41 +0000,1,Petty,C,Possession,1,7,3,22, 159
+2018-11-28 09:55:46 +0000,1,Petty,C,Assist - Circle Entry,1,7,3,22, 159
+2018-11-28 09:55:46 +0000,1,Pitman,GA,Possession,1,7,3,37, 182
+2018-11-28 09:55:59 +0000,0,Cassidy,C,Penaly - Contact,1,7,3,81, 185
+2018-11-28 09:55:59 +0000,1,Msomi,WA,Possession,1,7,3,81, 185
+2018-11-28 09:56:10 +0000,1,Msomi,WA,Assist - Circle Entry,1,7,3,81, 185
+2018-11-28 09:56:10 +0000,1,Pitman,GA,Possession,1,7,3,59, 189
+2018-11-28 09:56:12 +0000,1,Nelson,GS,Goal - Score,1,7,3,48, 191
+2018-11-28 09:56:24 +0000,0,Cassidy,C,Centre Pass,1,7,4,50, 100
+2018-11-28 09:56:24 +0000,0,Nevins,WA,Assist - Centre Pass Rec,1,7,4,80, 71
+2018-11-28 09:56:26 +0000,0,Tippett,GA,Assist - 2nd Phase,1,7,4,89, 39
+2018-11-28 09:56:29 +0000,0,Tippett,GA,Assist - Circle Entry,1,7,4,89, 39
+2018-11-28 09:56:29 +0000,0,Aiken,GS,Possession,1,7,4,62, 5
+2018-11-28 09:56:31 +0000,0,Nevins,WA,Possession,1,7,4,18, 18
+2018-11-28 09:56:34 +0000,0,Nevins,WA,Assist - Circle Entry,1,7,4,18, 18
+2018-11-28 09:56:34 +0000,0,Tippett,GA,Goal - Score,1,7,4,42, 5
+2018-11-28 09:56:42 +0000,1,Petty,C,Centre Pass,1,8,4,50, 100
+2018-11-28 09:56:42 +0000,1,Msomi,WA,Assist - Centre Pass Rec,1,8,4,23, 129
+2018-11-28 09:56:44 +0000,1,Pitman,GA,Assist - 2nd Phase,1,8,4,6, 143
+2018-11-28 09:56:46 +0000,1,Pitman,GA,Assist - Circle Entry,1,8,4,6, 143
+2018-11-28 09:56:46 +0000,1,Nelson,GS,Possession,1,8,4,35, 193
+2018-11-28 09:56:48 +0000,1,Msomi,WA,Possession,1,8,4,19, 176
+2018-11-28 09:56:50 +0000,1,Msomi,WA,Assist - Circle Entry,1,8,4,19, 176
+2018-11-28 09:56:50 +0000,1,Nelson,GS,Goal - Score,1,8,4,38, 191
+2018-11-28 09:57:04 +0000,0,Cassidy,C,Centre Pass,1,8,5,50, 100
+2018-11-28 09:57:04 +0000,0,Tippett,GA,Loss - Break,1,8,5,26, 68
+2018-11-28 09:57:09 +0000,1,de Bruin,GD,Possession,1,8,5,25, 68
+2018-11-28 09:57:18 +0000,1,Petty,C,Possession,1,8,5,63, 89
+2018-11-28 09:57:21 +0000,1,Pitman,GA,Possession,1,8,5,40, 140
+2018-11-28 09:57:25 +0000,1,Msomi,WA,Possession,1,8,5,19, 167
+2018-11-28 09:57:30 +0000,1,Petty,C,Possession,1,8,5,77, 177
+2018-11-28 09:57:34 +0000,1,Petty,C,Assist - Circle Entry,1,8,5,77, 177
+2018-11-28 09:57:34 +0000,1,Pitman,GA,Possession,1,8,5,64, 185
+2018-11-28 09:57:35 +0000,0,Jenner,GD,Penaly - Contact,1,8,5,64, 185
+2018-11-28 09:57:35 +0000,1,Pitman,GA,Possession,1,8,5,64, 185
+2018-11-28 09:57:42 +0000,1,Nelson,GS,Goal - Score,1,8,5,42, 196
+2018-11-28 09:57:53 +0000,1,Petty,C,Centre Pass,1,8,6,50, 100
+2018-11-28 09:57:53 +0000,1,Pitman,GA,Assist - Centre Pass Rec,1,8,6,3, 128
+2018-11-28 09:58:09 +0000,1,Msomi,WA,Assist - 2nd Phase,1,8,6,46, 129
+2018-11-28 09:58:11 +0000,0,,UNKNOWN,Penaly - Contact,1,8,6,46, 129
+2018-11-28 09:58:11 +0000,1,de Bruin,GD,Possession,1,8,6,46, 129
+2018-11-28 09:58:18 +0000,1,Petty,C,Possession,1,8,6,72, 167
+2018-11-28 09:58:21 +0000,1,Petty,C,Assist - Circle Entry,1,8,6,72, 167
+2018-11-28 09:58:21 +0000,1,Nelson,GS,Goal - Score,1,8,6,40, 196
+2018-11-28 09:58:35 +0000,0,Cassidy,C,Centre Pass,1,8,7,50, 100
+2018-11-28 09:58:48 +0000,1,Petty,C,Gain - Inter,1,8,7,13, 75
+2018-11-28 09:59:10 +0000,1,Nelson,GS,Possession,1,8,7,14, 196
+2018-11-28 09:59:12 +0000,1,Msomi,WA,Possession,1,8,7,6, 176
+2018-11-28 09:59:15 +0000,1,Petty,C,Possession,1,8,7,5, 143
+2018-11-28 09:59:57 +0000,1,Petty,C,Assist - Circle Entry,1,8,7,5, 143
+2018-11-28 09:59:57 +0000,1,Pitman,GA,Possession,1,8,7,31, 184
+2018-11-28 10:00:00 +0000,0,Jenner,GD,Penaly - Contact,1,8,7,31, 184
+2018-11-28 10:00:00 +0000,1,Pitman,GA,Possession,1,8,7,31, 184
+2018-11-28 10:00:05 +0000,1,Nelson,GS,Goal - Score,1,8,7,48, 185
+2018-11-28 10:00:20 +0000,1,Petty,C,Centre Pass,1,8,8,50, 100
+2018-11-28 10:00:20 +0000,1,Fowler,WD,Assist - Centre Pass Rec,1,8,8,25, 79
+2018-11-28 10:00:22 +0000,0,Tippett,GA,Penaly - Contact,1,8,8,25, 79
+2018-11-28 10:00:22 +0000,1,Fowler,WD,Possession,1,8,8,25, 79
+2018-11-28 10:00:27 +0000,1,Msomi,WA,Possession,1,8,8,39, 117
+2018-11-28 10:00:29 +0000,1,Petty,C,Possession,1,8,8,16, 156
+2018-11-28 10:00:31 +0000,1,Petty,C,Assist - Circle Entry,1,8,8,16, 156
+2018-11-28 10:00:31 +0000,1,Pitman,GA,Assist - 2nd Phase,1,8,8,71, 192
+2018-11-28 10:00:33 +0000,1,Petty,C,Possession,1,8,8,79, 178
+2018-11-28 10:00:35 +0000,1,Petty,C,Assist - Circle Entry,1,8,8,79, 178
+2018-11-28 10:00:35 +0000,1,Pitman,GA,Possession,1,8,8,66, 191
+2018-11-28 10:00:39 +0000,1,Nelson,GS,Possession,1,8,8,49, 194
+2018-11-28 10:00:40 +0000,0,Geitz,GK,Penaly - Contact,1,8,8,49, 194
+2018-11-28 10:00:40 +0000,1,Nelson,GS,Goal - Score,1,8,8,49, 194
+2018-11-28 10:00:55 +0000,0,Cassidy,C,Centre Pass,1,8,9,50, 100
+2018-11-28 10:00:55 +0000,1,Petty,C,Penaly - Obstruction,1,8,9,47, 93
+2018-11-28 10:00:55 +0000,0,Simpson,WD,Possession,1,8,9,47, 93
+2018-11-28 10:01:04 +0000,0,Cassidy,C,Assist - 2nd Phase,1,8,9,18, 60
+2018-11-28 10:01:06 +0000,0,Tippett,GA,Possession,1,8,9,9, 33
+2018-11-28 10:01:08 +0000,0,Cassidy,C,Possession,1,8,9,20, 37
+2018-11-28 10:01:10 +0000,0,Cassidy,C,Assist - Circle Entry,1,8,9,20, 37
+2018-11-28 10:01:10 +0000,0,Tippett,GA,Possession,1,8,9,30, 16
+2018-11-28 10:01:14 +0000,0,Aiken,GS,Possession,1,8,9,49, 11
+2018-11-28 10:01:15 +0000,1,de Bruin,GD,Penaly - Contact,1,8,9,49, 11
+2018-11-28 10:01:15 +0000,0,Aiken,GS,Goal - Score,1,8,9,49, 11
+2018-11-28 10:01:25 +0000,1,Petty,C,Centre Pass,1,9,9,50, 100
+2018-11-28 10:01:25 +0000,1,Msomi,WA,Assist - Centre Pass Rec,1,9,9,34, 107
+2018-11-28 10:01:28 +0000,1,Fowler,WD,Assist - 2nd Phase,1,9,9,48, 82
+2018-11-28 10:01:30 +0000,1,Pitman,GA,Possession,1,9,9,25, 111
+2018-11-28 10:01:33 +0000,1,Fowler,WD,Possession,1,9,9,76, 125
+2018-11-28 10:01:36 +0000,1,Msomi,WA,Possession,1,9,9,81, 150
+2018-11-28 10:01:38 +0000,1,Petty,C,Possession,1,9,9,83, 184
+2018-11-28 10:01:42 +0000,1,Petty,C,Assist - Circle Entry,1,9,9,83, 184
+2018-11-28 10:01:42 +0000,1,Pitman,GA,Possession,1,9,9,61, 181
+2018-11-28 10:01:43 +0000,1,Petty,C,Possession,1,9,9,82, 185
+2018-11-28 10:03:22 +0000,1,Petty,C,Assist - Circle Entry,1,9,9,82, 185
+2018-11-28 10:03:22 +0000,1,Pitman,GA,Goal - Miss,1,9,9,54, 189
+2018-11-28 10:03:25 +0000,0,Jenner,GD,Penaly - Contact,1,9,9,39, 189
+2018-11-28 10:03:25 +0000,1,Pitman,GA,Possession,1,9,9,39, 189
+2018-11-28 10:03:38 +0000,1,Nelson,GS,Possession,1,9,9,53, 184
+2018-11-28 10:03:40 +0000,0,Geitz,GK,Penaly - Contact,1,9,9,53, 184
+2018-11-28 10:03:40 +0000,1,Nelson,GS,Goal - Score,1,9,9,53, 184
+2018-11-28 10:05:53 +0000,0,Cassidy,C,Centre Pass,1,9,10,50, 100
+2018-11-28 10:05:53 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,1,9,10,74, 79
+2018-11-28 10:05:54 +0000,0,Aiken,GS,Assist - 2nd Phase,1,9,10,81, 14
+2018-11-28 10:06:00 +0000,0,Aiken,GS,Assist - Circle Entry,1,9,10,81, 14
+2018-11-28 10:06:00 +0000,0,Tippett,GA,Possession,1,9,10,58, 4
+2018-11-28 10:06:02 +0000,0,Nevins,WA,Possession,1,9,10,24, 24
+2018-11-28 10:06:07 +0000,0,Nevins,WA,Assist - Circle Entry,1,9,10,24, 24
+2018-11-28 10:06:07 +0000,0,Aiken,GS,Possession,1,9,10,35, 12
+2018-11-28 10:06:09 +0000,0,Nevins,WA,Possession,1,9,10,23, 25
+2018-11-28 10:06:12 +0000,0,Nevins,WA,Assist - Circle Entry,1,9,10,23, 25
+2018-11-28 10:06:12 +0000,0,Aiken,GS,Goal - Score,1,9,10,44, 4
+2018-11-28 10:06:22 +0000,1,Petty,C,Centre Pass,1,10,10,50, 100
+2018-11-28 10:06:22 +0000,1,Pitman,GA,Assist - Centre Pass Rec,1,10,10,6, 120
+2018-11-28 10:06:26 +0000,1,Fowler,WD,Assist - 2nd Phase,1,10,10,84, 118
+2018-11-28 10:06:28 +0000,1,Petty,C,Possession,1,10,10,85, 169
+2018-11-28 10:06:30 +0000,0,Geitz,GK,Penaly - Contact,1,10,10,85, 169
+2018-11-28 10:06:30 +0000,1,Petty,C,Possession,1,10,10,85, 169
+2018-11-28 10:06:37 +0000,1,Pitman,GA,Possession,1,10,10,15, 193
+2018-11-28 10:06:41 +0000,0,Jenner,GD,Deflect,1,10,10,41, 197
+2018-11-28 10:06:41 +0000,1,Pitman,GA,Throw In,1,10,10,42, 204
+2018-11-28 10:06:56 +0000,0,Simpson,WD,Deflect,1,10,10,18, 191
+2018-11-28 10:06:56 +0000,1,Pitman,GA,Possession,1,10,10,25, 192
+2018-11-28 10:07:06 +0000,1,Nelson,GS,Goal - Score,1,10,10,52, 190
+2018-11-28 10:07:13 +0000,0,Cassidy,C,Centre Pass,1,10,11,50, 100
+2018-11-28 10:07:13 +0000,0,Nevins,WA,Assist - Centre Pass Rec,1,10,11,78, 83
+2018-11-28 10:07:15 +0000,0,Tippett,GA,Assist - 2nd Phase,1,10,11,56, 58
+2018-11-28 10:07:18 +0000,0,Tippett,GA,Assist - Circle Entry,1,10,11,56, 58
+2018-11-28 10:07:18 +0000,0,Aiken,GS,Possession,1,10,11,51, 8
+2018-11-28 10:07:19 +0000,1,Shimmin,GK,Penaly - Obstruction,1,10,11,51, 8
+2018-11-28 10:07:19 +0000,0,Aiken,GS,Goal - Miss,1,10,11,51, 8
+2018-11-28 10:07:25 +0000,0,Aiken,GS,Assist - Attack Rebound,1,10,11,50, 2
+2018-11-28 10:07:27 +0000,0,Aiken,GS,Goal - Score,1,10,11,51, 8
+2018-11-28 10:07:33 +0000,1,Petty,C,Centre Pass,1,11,11,50, 100
+2018-11-28 10:07:33 +0000,1,Msomi,WA,Assist - Centre Pass Rec,1,11,11,53, 115
+2018-11-28 10:07:37 +0000,1,Msomi,WA,Assist - Circle Entry,1,11,11,53, 115
+2018-11-28 10:07:37 +0000,1,,UNKNOWN,Assist - 2nd Phase,1,11,11,40, 194
+2018-11-28 10:07:46 +0000,1,Nelson,GS,Goal - Score,1,11,11,40, 194
+2018-11-28 10:07:53 +0000,0,Cassidy,C,Centre Pass,1,11,12,50, 100
+2018-11-28 10:07:53 +0000,0,Simpson,WD,Assist - Centre Pass Rec,1,11,12,4, 82
+2018-11-28 10:07:55 +0000,0,Cassidy,C,Assist - 2nd Phase,1,11,12,18, 69
+2018-11-28 10:07:58 +0000,0,Cassidy,C,Assist - Circle Entry,1,11,12,18, 69
+2018-11-28 10:07:58 +0000,0,Aiken,GS,Possession,1,11,12,36, 25
+2018-11-28 10:08:03 +0000,0,Cassidy,C,Possession,1,11,12,17, 19
+2018-11-28 10:08:08 +0000,0,Cassidy,C,Assist - Circle Entry,1,11,12,17, 19
+2018-11-28 10:08:08 +0000,1,Shimmin,GK,Gain - Inter,1,11,12,24, 14
+2018-11-28 10:08:14 +0000,1,Fowler,WD,Possession,1,11,12,14, 56
+2018-11-28 10:08:21 +0000,1,Shimmin,GK,Possession,1,11,12,22, 60
+2018-11-28 10:08:24 +0000,1,de Bruin,GD,Possession,1,11,12,75, 60
+2018-11-28 10:08:26 +0000,1,Msomi,WA,Possession,1,11,12,80, 100
+2018-11-28 10:08:28 +0000,1,de Bruin,GD,Possession,1,11,12,67, 107
+2018-11-28 10:08:30 +0000,1,Pitman,GA,Possession,1,11,12,68, 142
+2018-11-28 10:08:32 +0000,1,Msomi,WA,Possession,1,11,12,82, 148
+2018-11-28 10:08:34 +0000,1,Pitman,GA,Possession,1,11,12,85, 193
+2018-11-28 10:08:36 +0000,1,Msomi,WA,Possession,1,11,12,67, 168
+2018-11-28 10:08:55 +0000,1,Nelson,GS,Deflect,1,11,12,27, 192
+2018-11-28 10:08:55 +0000,1,Petty,C,Possession,1,11,12,16, 182
+2018-11-28 10:09:07 +0000,1,Fowler,WD,Possession,1,11,12,12, 128
+2018-11-28 10:09:11 +0000,0,Simpson,WD,Gain - Tip (Deflect),1,11,12,17, 144
+2018-11-28 10:09:17 +0000,0,Simpson,WD,Possession,1,11,12,21, 113
+2018-11-28 10:09:23 +0000,0,Tippett,GA,Possession,1,11,12,30, 72
+2018-11-28 10:09:25 +0000,0,Nevins,WA,Possession,1,11,12,9, 36
+2018-11-28 10:09:28 +0000,0,Tippett,GA,Possession,1,11,12,29, 44
+2018-11-28 10:09:30 +0000,0,Nevins,WA,Possession,1,11,12,26, 29
+2018-11-28 10:09:33 +0000,1,Fowler,WD,Penaly - Contact,1,11,12,26, 29
+2018-11-28 10:09:33 +0000,0,Nevins,WA,Possession,1,11,12,26, 29
+2018-11-28 10:09:38 +0000,0,Nevins,WA,Assist - Circle Entry,1,11,12,26, 29
+2018-11-28 10:09:38 +0000,0,Aiken,GS,Goal - Score,1,11,12,53, 4
+2018-11-28 10:09:46 +0000,1,Petty,C,Centre Pass,1,12,12,50, 100
+2018-11-28 10:09:46 +0000,1,Pitman,GA,Assist - Centre Pass Rec,1,12,12,65, 122
+2018-11-28 10:09:48 +0000,1,Msomi,WA,Assist - 2nd Phase,1,12,12,80, 141
+2018-11-28 10:09:50 +0000,1,Petty,C,Possession,1,12,12,85, 192
+2018-11-28 10:09:55 +0000,1,Petty,C,Assist - Circle Entry,1,12,12,85, 192
+2018-11-28 10:09:55 +0000,1,Pitman,GA,Possession,1,12,12,26, 190
+2018-11-28 10:09:56 +0000,0,Jenner,GD,Penaly - Contact,1,12,12,26, 190
+2018-11-28 10:09:56 +0000,1,Pitman,GA,Possession,1,12,12,26, 190
+2018-11-28 10:10:02 +0000,1,Nelson,GS,Goal - Score,1,12,12,53, 189
+2018-11-28 10:10:11 +0000,0,,UNKNOWN,Timeout,1,12,13,110, 222
+2018-11-28 10:11:06 +0000,0,Cassidy,C,Centre Pass,1,12,13,50, 100
+2018-11-28 10:11:06 +0000,0,Tippett,GA,Assist - Centre Pass Rec,1,12,13,6, 73
+2018-11-28 10:11:08 +0000,0,Cassidy,C,Assist - 2nd Phase,1,12,13,23, 73
+2018-11-28 10:11:11 +0000,0,Nevins,WA,Possession,1,12,13,22, 52
+2018-11-28 10:11:13 +0000,1,Petty,C,Penaly - Contact,1,12,13,22, 52
+2018-11-28 10:11:13 +0000,0,Nevins,WA,Possession,1,12,13,22, 52
+2018-11-28 10:11:20 +0000,0,Nevins,WA,Assist - Circle Entry,1,12,13,22, 52
+2018-11-28 10:11:20 +0000,0,Tippett,GA,Possession,1,12,13,29, 19
+2018-11-28 10:11:23 +0000,0,Aiken,GS,Possession,1,12,13,49, 12
+2018-11-28 10:11:23 +0000,0,Tippett,GA,Goal - Score,1,12,13,43, 4
+2018-11-28 10:11:35 +0000,1,Petty,C,Centre Pass,1,13,13,50, 100
+2018-11-28 10:11:35 +0000,1,Msomi,WA,Assist - Centre Pass Rec,1,13,13,10, 124
+2018-11-28 10:11:38 +0000,1,de Bruin,GD,Assist - 2nd Phase,1,13,13,80, 128
+2018-11-28 10:11:40 +0000,1,Pitman,GA,Possession,1,13,13,83, 185
+2018-11-28 10:11:45 +0000,1,Petty,C,Possession,1,13,13,78, 180
+2018-11-28 10:11:47 +0000,1,Petty,C,Assist - Circle Entry,1,13,13,78, 180
+2018-11-28 10:11:47 +0000,1,Pitman,GA,Possession,1,13,13,66, 191
+2018-11-28 10:11:49 +0000,1,Petty,C,Possession,1,13,13,82, 186
+2018-11-28 10:11:55 +0000,1,Petty,C,Assist - Circle Entry,1,13,13,82, 186
+2018-11-28 10:11:55 +0000,1,Nelson,GS,Goal - Score,1,13,13,44, 195
+2018-11-28 10:12:01 +0000,0,Cassidy,C,Centre Pass,1,13,14,50, 100
+2018-11-28 10:12:01 +0000,0,Tippett,GA,Assist - Centre Pass Rec,1,13,14,9, 73
+2018-11-28 10:12:03 +0000,0,Simpson,WD,Assist - 2nd Phase,1,13,14,21, 90
+2018-11-28 10:12:07 +0000,0,Nevins,WA,Possession,1,13,14,73, 49
+2018-11-28 10:12:10 +0000,0,Nevins,WA,Assist - Circle Entry,1,13,14,73, 49
+2018-11-28 10:12:10 +0000,0,Aiken,GS,Possession,1,13,14,47, 25
+2018-11-28 10:12:18 +0000,0,Cassidy,C,Possession,1,13,14,12, 7
+2018-11-28 10:12:22 +0000,0,Cassidy,C,Assist - Circle Entry,1,13,14,12, 7
+2018-11-28 10:12:23 +0000,0,Aiken,GS,Possession,1,13,14,40, 15
+2018-11-28 10:12:24 +0000,1,de Bruin,GD,Penaly - Obstruction,1,13,14,40, 15
+2018-11-28 10:12:24 +0000,0,Aiken,GS,Possession,1,13,14,40, 15
+2018-11-28 10:12:31 +0000,1,Shimmin,GK,Penaly - Obstruction,1,13,14,40, 15
+2018-11-28 10:12:31 +0000,0,Aiken,GS,Goal - Score,1,13,14,40, 15
+2018-11-28 10:12:49 +0000,1,Petty,C,Centre Pass,1,14,14,50, 100
+2018-11-28 10:12:49 +0000,0,Tippett,GA,Gain - Tip (Deflect),1,14,14,9, 117
+2018-11-28 10:12:54 +0000,0,Geitz,GK,Possession,1,14,14,12, 173
+2018-11-28 10:12:57 +0000,0,Cassidy,C,Possession,1,14,14,8, 148
+2018-11-28 10:13:01 +0000,0,Tippett,GA,Possession,1,14,14,8, 79
+2018-11-28 10:13:03 +0000,0,Simpson,WD,Possession,1,14,14,18, 96
+2018-11-28 10:13:05 +0000,0,Cassidy,C,Possession,1,14,14,21, 71
+2018-11-28 10:13:07 +0000,0,Nevins,WA,Possession,1,14,14,26, 50
+2018-11-28 10:13:09 +0000,0,Nevins,WA,Assist - Circle Entry,1,14,14,26, 50
+2018-11-28 10:13:09 +0000,0,Aiken,GS,Possession,1,14,14,44, 27
+2018-11-28 10:13:12 +0000,0,Nevins,WA,Possession,1,14,14,34, 33
+2018-11-28 10:13:13 +0000,1,Petty,C,Penaly - Contact,1,14,14,34, 33
+2018-11-28 10:13:13 +0000,0,Nevins,WA,Possession,1,14,14,34, 33
+2018-11-28 10:13:26 +0000,0,Nevins,WA,Assist - Circle Entry,1,14,14,34, 33
+2018-11-28 10:13:26 +0000,0,Aiken,GS,Goal - Score,1,14,14,43, 5
+2018-11-28 10:13:33 +0000,0,Cassidy,C,Centre Pass,1,15,14,50, 100
+2018-11-28 10:13:34 +0000,0,Tippett,GA,Assist - Centre Pass Rec,1,15,14,74, 70
+2018-11-28 10:13:35 +0000,0,Cassidy,C,Assist - 2nd Phase,1,15,14,58, 73
+2018-11-28 10:13:39 +0000,0,Tippett,GA,Possession,1,15,14,88, 52
+2018-11-28 10:13:43 +0000,0,Nevins,WA,Possession,1,15,14,82, 37
+2018-11-28 10:13:45 +0000,0,Nevins,WA,Possession,1,15,14,44, 70
+2018-11-28 10:13:48 +0000,0,Tippett,GA,Possession,1,15,14,8, 37
+2018-11-28 10:13:50 +0000,0,Nevins,WA,Possession,1,15,14,31, 56
+2018-11-28 10:13:52 +0000,0,Nevins,WA,Assist - Circle Entry,1,15,14,31, 56
+2018-11-28 10:13:52 +0000,0,Tippett,GA,Possession,1,15,14,58, 28
+2018-11-28 10:13:55 +0000,0,Nevins,WA,Possession,1,15,14,25, 27
+2018-11-28 10:14:42 +0000,1,de Bruin,GD,Deflect,1,15,14,43, 15
+2018-11-28 10:14:58 +0000,0,Aiken,GS,Deflect,1,15,14,39, 40
+2018-11-28 10:15:02 +0000,1,Petty,C,Gain - Pick-up,1,15,14,81, 51
+2018-11-28 10:15:06 +0000,0,Cassidy,C,Penaly - Contact,1,15,14,81, 51
+2018-11-28 10:15:06 +0000,1,Shimmin,GK,Possession,1,15,14,81, 51
+2018-11-28 10:15:20 +0000,1,Fowler,WD,Possession,1,15,14,46, 56
+2018-11-28 10:15:22 +0000,1,Shimmin,GK,Possession,1,15,14,65, 44
+2018-11-28 10:15:25 +0000,1,Msomi,WA,Possession,1,15,14,7, 108
+2018-11-28 10:15:27 +0000,1,Petty,C,Possession,1,15,14,14, 172
+2018-11-28 10:15:31 +0000,0,Cassidy,C,Penaly - Contact,1,15,14,14, 172
+2018-11-28 10:15:31 +0000,1,Petty,C,Possession,1,15,14,14, 172
+2018-11-28 10:15:36 +0000,1,Petty,C,Assist - Circle Entry,1,15,14,14, 172
+2018-11-28 10:15:36 +0000,1,Pitman,GA,Possession,1,15,14,37, 193
+2018-11-28 10:15:38 +0000,1,Nelson,GS,Possession,1,15,14,53, 191
+2018-11-28 10:15:40 +0000,0,Geitz,GK,Penaly - Obstruction,1,15,14,53, 191
+2018-11-28 10:15:41 +0000,1,Nelson,GS,Goal - Score,1,15,14,53, 191
+2018-11-28 10:16:34 +0000,1,Petty,C,Centre Pass,1,15,15,50, 100
+2018-11-28 10:16:34 +0000,1,Pitman,GA,Assist - Centre Pass Rec,1,15,15,19, 128
+2018-11-28 10:16:38 +0000,1,Pitman,GA,Assist - Circle Entry,1,15,15,19, 128
+2018-11-28 10:16:38 +0000,1,Nelson,GS,Possession,1,15,15,41, 178
+2018-11-28 10:17:19 +0000,0,Cassidy,C,Centre Pass,2,15,15,50, 100
+2018-11-28 10:17:19 +0000,0,Tippett,GA,Assist - Centre Pass Rec,2,15,15,73, 73
+2018-11-28 10:17:21 +0000,0,Tippett,GA,Assist - Circle Entry,2,15,15,73, 73
+2018-11-28 10:17:21 +0000,0,Aiken,GS,Possession,2,15,15,64, 13
+2018-11-28 10:17:22 +0000,0,Nevins,WA,Possession,2,15,15,17, 16
+2018-11-28 10:17:26 +0000,0,Nevins,WA,Assist - Circle Entry,2,15,15,17, 16
+2018-11-28 10:17:26 +0000,0,Aiken,GS,Possession,2,15,15,53, 27
+2018-11-28 10:17:28 +0000,0,Nevins,WA,Possession,2,15,15,24, 24
+2018-11-28 10:17:31 +0000,1,Fowler,WD,Penaly - Contact,2,15,15,24, 24
+2018-11-28 10:17:31 +0000,0,Nevins,WA,Possession,2,15,15,24, 24
+2018-11-28 10:17:36 +0000,0,Nevins,WA,Assist - Circle Entry,2,15,15,24, 24
+2018-11-28 10:17:36 +0000,0,Aiken,GS,Goal - Score,2,15,15,47, 5
+2018-11-28 10:17:46 +0000,1,Petty,C,Centre Pass,2,16,15,50, 100
+2018-11-28 10:17:46 +0000,1,Fowler,WD,Assist - Centre Pass Rec,2,16,15,27, 110
+2018-11-28 10:17:50 +0000,1,Petty,C,Assist - 2nd Phase,2,16,15,44, 116
+2018-11-28 10:17:56 +0000,1,Pitman,GA,Possession,2,16,15,52, 134
+2018-11-28 10:17:58 +0000,1,Msomi,WA,Possession,2,16,15,97, 147
+2018-11-28 10:18:00 +0000,1,de Bruin,GD,Possession,2,16,15,90, 129
+2018-11-28 10:18:02 +0000,1,Msomi,WA,Possession,2,16,15,94, 152
+2018-11-28 10:18:06 +0000,1,Petty,C,Possession,2,16,15,41, 143
+2018-11-28 10:18:07 +0000,1,Msomi,WA,Possession,2,16,15,60, 150
+2018-11-28 10:18:10 +0000,1,Msomi,WA,Assist - Circle Entry,2,16,15,60, 150
+2018-11-28 10:18:10 +0000,1,Nelson,GS,Possession,2,16,15,40, 185
+2018-11-28 10:18:13 +0000,0,Jenner,GD,Penaly - Contact,2,16,15,40, 185
+2018-11-28 10:18:13 +0000,1,Pitman,GA,Possession,2,16,15,40, 185
+2018-11-28 10:18:24 +0000,0,Geitz,GK,Gain - Tip (Deflect),2,16,15,55, 187
+2018-11-28 10:18:28 +0000,0,Jenner,GD,Possession,2,16,15,93, 172
+2018-11-28 10:18:32 +0000,0,Cassidy,C,Possession,2,16,15,93, 140
+2018-11-28 10:18:34 +0000,0,Geitz,GK,Possession,2,16,15,93, 182
+2018-11-28 10:18:36 +0000,0,Simpson,WD,Possession,2,16,15,93, 153
+2018-11-28 10:18:40 +0000,0,Tippett,GA,Possession,2,16,15,49, 114
+2018-11-28 10:18:43 +0000,0,Simpson,WD,Possession,2,16,15,61, 79
+2018-11-28 10:18:46 +0000,0,Nevins,WA,Possession,2,16,15,59, 58
+2018-11-28 10:18:49 +0000,0,Nevins,WA,Assist - Circle Entry,2,16,15,59, 58
+2018-11-28 10:18:50 +0000,0,Aiken,GS,Possession,2,16,15,58, 18
+2018-11-28 10:18:52 +0000,0,Simpson,WD,Possession,2,16,15,71, 70
+2018-11-28 10:18:54 +0000,0,Cassidy,C,Possession,2,16,15,84, 55
+2018-11-28 10:18:57 +0000,0,Tippett,GA,Possession,2,16,15,87, 9
+2018-11-28 10:20:06 +0000,0,Nevins,WA,Possession,2,16,15,83, 16
+2018-11-28 10:20:08 +0000,0,Nevins,WA,Assist - Circle Entry,2,16,15,83, 16
+2018-11-28 10:20:08 +0000,0,Tippett,GA,Goal - Miss,2,16,15,62, 4
+2018-11-28 10:20:42 +0000,1,Shimmin,GK,Deflect,2,16,15,62, 4
+2018-11-28 10:20:42 +0000,0,Tippett,GA,Possession,2,16,15,64, 4
+2018-11-28 10:20:50 +0000,1,Shimmin,GK,Penaly - Contact,2,16,15,64, 4
+2018-11-28 10:20:50 +0000,0,Tippett,GA,Goal - Score,2,16,15,64, 4
+2018-11-28 10:21:50 +0000,0,Cassidy,C,Centre Pass,2,17,15,50, 100
+2018-11-28 10:21:50 +0000,0,Tippett,GA,Assist - Centre Pass Rec,2,17,15,84, 91
+2018-11-28 10:21:52 +0000,0,Cassidy,C,Assist - 2nd Phase,2,17,15,56, 69
+2018-11-28 10:21:54 +0000,0,Nevins,WA,Possession,2,17,15,71, 45
+2018-11-28 10:21:58 +0000,0,Aiken,GS,Possession,2,17,15,80, 18
+2018-11-28 10:22:00 +0000,0,Nevins,WA,Possession,2,17,15,67, 30
+2018-11-28 10:22:02 +0000,0,Nevins,WA,Assist - Circle Entry,2,17,15,67, 30
+2018-11-28 10:22:02 +0000,0,Tippett,GA,Possession,2,17,15,65, 17
+2018-11-28 10:22:04 +0000,0,Cassidy,C,Possession,2,17,15,24, 23
+2018-11-28 10:22:06 +0000,0,Cassidy,C,Assist - Circle Entry,2,17,15,24, 23
+2018-11-28 10:22:06 +0000,0,Aiken,GS,Goal - Score,2,17,15,48, 4
+2018-11-28 10:22:18 +0000,1,Petty,C,Centre Pass,2,18,15,50, 100
+2018-11-28 10:22:18 +0000,1,Pitman,GA,Assist - Centre Pass Rec,2,18,15,81, 113
+2018-11-28 10:22:21 +0000,1,Msomi,WA,Assist - 2nd Phase,2,18,15,94, 125
+2018-11-28 10:22:23 +0000,0,Simpson,WD,Penaly - Contact,2,18,15,94, 125
+2018-11-28 10:22:23 +0000,1,de Bruin,GD,Possession,2,18,15,94, 125
+2018-11-28 10:22:32 +0000,1,Msomi,WA,Possession,2,18,15,94, 178
+2018-11-28 10:22:35 +0000,1,de Bruin,GD,Possession,2,18,15,84, 128
+2018-11-28 10:22:38 +0000,1,Msomi,WA,Possession,2,18,15,73, 164
+2018-11-28 10:22:42 +0000,1,Petty,C,Possession,2,18,15,15, 178
+2018-11-28 10:22:44 +0000,1,Petty,C,Assist - Circle Entry,2,18,15,15, 178
+2018-11-28 10:22:44 +0000,1,Pitman,GA,Possession,2,18,15,72, 180
+2018-11-28 10:22:46 +0000,1,Msomi,WA,Possession,2,18,15,83, 185
+2018-11-28 10:22:58 +0000,0,Geitz,GK,Penaly - Contact,2,18,15,47, 181
+2018-11-28 10:22:58 +0000,1,Pitman,GA,Goal - Score,2,18,15,47, 181
+2018-11-28 10:23:13 +0000,0,Cassidy,C,Centre Pass,2,18,16,50, 100
+2018-11-28 10:23:13 +0000,0,Nevins,WA,Assist - Centre Pass Rec,2,18,16,90, 78
+2018-11-28 10:23:15 +0000,0,Cassidy,C,Assist - 2nd Phase,2,18,16,82, 40
+2018-11-28 10:23:19 +0000,0,Nevins,WA,Possession,2,18,16,51, 36
+2018-11-28 10:23:20 +0000,1,Petty,C,Penaly - Contact,2,18,16,51, 36
+2018-11-28 10:23:20 +0000,0,Nevins,WA,Possession,2,18,16,51, 36
+2018-11-28 10:23:31 +0000,0,Nevins,WA,Assist - Circle Entry,2,18,16,51, 36
+2018-11-28 10:23:31 +0000,0,Tippett,GA,Possession,2,18,16,50, 18
+2018-11-28 10:23:33 +0000,0,Aiken,GS,Possession,2,18,16,51, 6
+2018-11-28 10:23:34 +0000,1,de Bruin,GD,Penaly - Contact,2,18,16,51, 6
+2018-11-28 10:23:34 +0000,0,Aiken,GS,Goal - Score,2,18,16,51, 6
+2018-11-28 10:23:44 +0000,1,Petty,C,Centre Pass,2,19,16,50, 100
+2018-11-28 10:23:44 +0000,1,Msomi,WA,Assist - Centre Pass Rec,2,19,16,22, 123
+2018-11-28 10:23:47 +0000,1,Petty,C,Assist - 2nd Phase,2,19,16,76, 154
+2018-11-28 10:23:50 +0000,1,Petty,C,Assist - Circle Entry,2,19,16,76, 154
+2018-11-28 10:23:50 +0000,1,Pitman,GA,Possession,2,19,16,53, 173
+2018-11-28 10:23:52 +0000,1,Nelson,GS,Goal - Score,2,19,16,47, 197
+2018-11-28 10:23:59 +0000,0,Cassidy,C,Centre Pass,2,19,17,50, 100
+2018-11-28 10:23:59 +0000,0,Nevins,WA,Assist - Centre Pass Rec,2,19,17,22, 78
+2018-11-28 10:24:00 +0000,0,Simpson,WD,Assist - 2nd Phase,2,19,17,34, 73
+2018-11-28 10:24:03 +0000,0,Tippett,GA,Possession,2,19,17,16, 52
+2018-11-28 10:24:08 +0000,0,Tippett,GA,Assist - Circle Entry,2,19,17,16, 52
+2018-11-28 10:24:08 +0000,0,Aiken,GS,Loss - Step,2,19,17,47, 4
+2018-11-28 10:24:13 +0000,1,Shimmin,GK,Possession,2,19,17,46, 4
+2018-11-28 10:24:25 +0000,1,Petty,C,Possession,2,19,17,45, 59
+2018-11-28 10:24:31 +0000,1,Msomi,WA,Possession,2,19,17,24, 116
+2018-11-28 10:24:33 +0000,1,Pitman,GA,Possession,2,19,17,82, 178
+2018-11-28 10:24:35 +0000,1,Petty,C,Possession,2,19,17,69, 170
+2018-11-28 10:24:37 +0000,1,Petty,C,Assist - Circle Entry,2,19,17,69, 170
+2018-11-28 10:24:37 +0000,1,Pitman,GA,Possession,2,19,17,63, 182
+2018-11-28 10:24:43 +0000,1,Nelson,GS,Possession,2,19,17,46, 193
+2018-11-28 10:24:44 +0000,0,Geitz,GK,Penaly - Contact,2,19,17,46, 193
+2018-11-28 10:24:44 +0000,1,Pitman,GA,Goal - Score,2,19,17,46, 193
+2018-11-28 10:25:05 +0000,1,Petty,C,Centre Pass,2,19,18,50, 100
+2018-11-28 10:25:05 +0000,1,Msomi,WA,Assist - Centre Pass Rec,2,19,18,59, 127
+2018-11-28 10:25:07 +0000,0,Jenner,GD,Penaly - Contact,2,19,18,59, 127
+2018-11-28 10:25:07 +0000,1,de Bruin,GD,Possession,2,19,18,59, 127
+2018-11-28 10:25:14 +0000,1,Pitman,GA,Possession,2,19,18,90, 167
+2018-11-28 10:25:17 +0000,1,Petty,C,Possession,2,19,18,74, 172
+2018-11-28 10:25:34 +0000,1,Petty,C,Assist - Circle Entry,2,19,18,74, 172
+2018-11-28 10:25:34 +0000,1,Nelson,GS,Assist - 2nd Phase,2,19,18,40, 193
+2018-11-28 10:25:37 +0000,0,Geitz,GK,Penaly - Contact,2,19,18,40, 193
+2018-11-28 10:25:38 +0000,1,Nelson,GS,Goal - Miss,2,19,18,40, 193
+2018-11-28 10:25:45 +0000,1,Pitman,GA,Assist - Attack Rebound,2,19,18,50, 197
+2018-11-28 10:25:47 +0000,1,Pitman,GA,Goal - Score,2,19,18,40, 193
+2018-11-28 10:25:59 +0000,0,Cassidy,C,Centre Pass,2,19,19,50, 100
+2018-11-28 10:25:59 +0000,0,Tippett,GA,Assist - Centre Pass Rec,2,19,19,14, 72
+2018-11-28 10:26:02 +0000,0,Cassidy,C,Assist - 2nd Phase,2,19,19,27, 73
+2018-11-28 10:26:05 +0000,0,Simpson,WD,Possession,2,19,19,23, 70
+2018-11-28 10:26:07 +0000,0,Cassidy,C,Possession,2,19,19,20, 53
+2018-11-28 10:26:10 +0000,0,Cassidy,C,Assist - Circle Entry,2,19,19,20, 53
+2018-11-28 10:26:10 +0000,0,Aiken,GS,Possession,2,19,19,29, 12
+2018-11-28 10:26:11 +0000,1,Shimmin,GK,Penaly - Contact,2,19,19,29, 12
+2018-11-28 10:26:11 +0000,0,Tippett,GA,Possession,2,19,19,29, 12
+2018-11-28 10:26:16 +0000,0,Aiken,GS,Possession,2,19,19,49, 9
+2018-11-28 10:26:20 +0000,1,de Bruin,GD,Penaly - Obstruction,2,19,19,49, 9
+2018-11-28 10:26:20 +0000,0,Aiken,GS,Goal - Score,2,19,19,49, 9
+2018-11-28 10:26:29 +0000,1,Petty,C,Centre Pass,2,20,19,50, 100
+2018-11-28 10:26:29 +0000,1,de Bruin,GD,Assist - Centre Pass Rec,2,20,19,78, 110
+2018-11-28 10:26:31 +0000,1,Pitman,GA,Assist - 2nd Phase,2,20,19,94, 180
+2018-11-28 10:26:43 +0000,0,Geitz,GK,Penaly - Contact,2,20,19,72, 189
+2018-11-28 10:26:43 +0000,1,Pitman,GA,Possession,2,20,19,72, 189
+2018-11-28 10:26:50 +0000,1,Nelson,GS,Goal - Score,2,20,19,50, 191
+2018-11-28 10:26:57 +0000,0,Cassidy,C,Centre Pass,2,20,20,50, 100
+2018-11-28 10:26:57 +0000,0,Nevins,WA,Assist - Centre Pass Rec,2,20,20,61, 86
+2018-11-28 10:26:59 +0000,0,Tippett,GA,Assist - 2nd Phase,2,20,20,83, 80
+2018-11-28 10:27:04 +0000,0,Jenner,GD,Possession,2,20,20,37, 106
+2018-11-28 10:27:11 +0000,1,Msomi,WA,Penaly - Contact,2,20,20,37, 106
+2018-11-28 10:27:11 +0000,0,Jenner,GD,Possession,2,20,20,37, 106
+2018-11-28 10:27:14 +0000,0,Nevins,WA,Possession,2,20,20,44, 98
+2018-11-28 10:27:19 +0000,0,Jenner,GD,Possession,2,20,20,27, 71
+2018-11-28 10:27:21 +0000,0,Nevins,WA,Possession,2,20,20,31, 51
+2018-11-28 10:27:24 +0000,0,Nevins,WA,Assist - Circle Entry,2,20,20,31, 51
+2018-11-28 10:27:24 +0000,0,Aiken,GS,Possession,2,20,20,57, 21
+2018-11-28 10:27:26 +0000,0,Tippett,GA,Possession,2,20,20,74, 19
+2018-11-28 10:27:28 +0000,0,Aiken,GS,Goal - Score,2,20,20,53, 6
+2018-11-28 10:27:38 +0000,1,Petty,C,Centre Pass,2,21,20,50, 100
+2018-11-28 10:27:38 +0000,1,Msomi,WA,Assist - Centre Pass Rec,2,21,20,93, 123
+2018-11-28 10:27:40 +0000,1,Pitman,GA,Assist - 2nd Phase,2,21,20,95, 173
+2018-11-28 10:27:42 +0000,1,Msomi,WA,Possession,2,21,20,88, 150
+2018-11-28 10:27:44 +0000,1,Pitman,GA,Possession,2,21,20,88, 178
+2018-11-28 10:27:46 +0000,1,Petty,C,Possession,2,21,20,18, 179
+2018-11-28 10:27:48 +0000,1,Petty,C,Assist - Circle Entry,2,21,20,18, 179
+2018-11-28 10:27:48 +0000,1,Pitman,GA,Possession,2,21,20,52, 177
+2018-11-28 10:28:06 +0000,0,Cassidy,C,Penaly - Contact,2,21,20,25, 175
+2018-11-28 10:28:06 +0000,1,Pitman,GA,Loss - Other,2,21,20,25, 175
+2018-11-28 10:29:01 +0000,0,Geitz,GK,Possession,2,21,20,24, 174
+2018-11-28 10:29:10 +0000,0,Simpson,WD,Possession,2,21,20,56, 141
+2018-11-28 10:29:14 +0000,0,Cassidy,C,Possession,2,21,20,63, 113
+2018-11-28 10:29:16 +0000,0,Simpson,WD,Possession,2,21,20,20, 76
+2018-11-28 10:29:21 +0000,0,Aiken,GS,Possession,2,21,20,19, 20
+2018-11-28 10:29:27 +0000,0,Nevins,WA,Possession,2,21,20,26, 23
+2018-11-28 10:29:29 +0000,1,Shimmin,GK,Penaly - Contact,2,21,20,26, 23
+2018-11-28 10:29:29 +0000,0,Nevins,WA,Possession,2,21,20,26, 23
+2018-11-28 10:29:34 +0000,0,Nevins,WA,Assist - Circle Entry,2,21,20,26, 23
+2018-11-28 10:29:34 +0000,0,Tippett,GA,Possession,2,21,20,44, 11
+2018-11-28 10:29:36 +0000,0,Aiken,GS,Goal - Score,2,21,20,49, 3
+2018-11-28 10:29:49 +0000,0,Cassidy,C,Centre Pass,2,22,20,50, 100
+2018-11-28 10:29:49 +0000,0,Tippett,GA,Assist - Centre Pass Rec,2,22,20,86, 72
+2018-11-28 10:29:52 +0000,0,Nevins,WA,Assist - 2nd Phase,2,22,20,86, 32
+2018-11-28 10:29:54 +0000,0,Nevins,WA,Assist - Circle Entry,2,22,20,86, 32
+2018-11-28 10:29:54 +0000,0,Aiken,GS,Possession,2,22,20,78, 5
+2018-11-28 10:29:56 +0000,0,Cassidy,C,Possession,2,22,20,25, 24
+2018-11-28 10:29:57 +0000,1,Petty,C,Penaly - Contact,2,22,20,25, 24
+2018-11-28 10:29:57 +0000,0,Cassidy,C,Possession,2,22,20,25, 24
+2018-11-28 10:30:10 +0000,1,de Bruin,GD,Penaly - Contact,2,22,20,71, 18
+2018-11-28 10:30:10 +0000,0,Tippett,GA,Possession,2,22,20,71, 18
+2018-11-28 10:30:20 +0000,0,Aiken,GS,Possession,2,22,20,51, 11
+2018-11-28 10:30:21 +0000,1,de Bruin,GD,Penaly - Contact,2,22,20,51, 11
+2018-11-28 10:30:21 +0000,0,Aiken,GS,Goal - Score,2,22,20,51, 11
+2018-11-28 10:30:50 +0000,1,Petty,C,Centre Pass,2,23,20,50, 100
+2018-11-28 10:30:50 +0000,0,,UNKNOWN,Loss - Break,2,23,20,58, 131
+2018-11-28 10:30:50 +0000,1,Petty,C,Possession,2,23,20,58, 131
+2018-11-28 10:31:02 +0000,1,Petty,C,Assist - Circle Entry,2,23,20,58, 131
+2018-11-28 10:31:02 +0000,1,Pitman,GA,Assist - 2nd Phase,2,23,20,77, 184
+2018-11-28 10:31:04 +0000,1,Petty,C,Possession,2,23,20,73, 172
+2018-11-28 10:31:07 +0000,1,Petty,C,Assist - Circle Entry,2,23,20,73, 172
+2018-11-28 10:31:08 +0000,1,Pitman,GA,Possession,2,23,20,68, 183
+2018-11-28 10:31:13 +0000,0,Geitz,GK,Gain - Inter,2,23,20,29, 192
+2018-11-28 10:31:21 +0000,1,Fowler,WD,Gain - Inter,2,23,20,13, 116
+2018-11-28 10:31:26 +0000,1,Msomi,WA,Possession,2,23,20,8, 132
+2018-11-28 10:31:39 +0000,0,Jenner,GD,Penaly - Contact,2,23,20,26, 175
+2018-11-28 10:31:39 +0000,1,Msomi,WA,Possession,2,23,20,26, 175
+2018-11-28 10:31:47 +0000,1,Msomi,WA,Assist - Circle Entry,2,23,20,26, 175
+2018-11-28 10:31:47 +0000,1,Pitman,GA,Possession,2,23,20,39, 180
+2018-11-28 10:31:49 +0000,0,Geitz,GK,Penaly - Contact,2,23,20,50, 188
+2018-11-28 10:31:49 +0000,1,Nelson,GS,Goal - Score,2,23,20,50, 188
+2018-11-28 10:32:01 +0000,0,Cassidy,C,Centre Pass,2,23,21,50, 100
+2018-11-28 10:32:01 +0000,0,Tippett,GA,Assist - Centre Pass Rec,2,23,21,75, 71
+2018-11-28 10:32:03 +0000,0,Nevins,WA,Assist - 2nd Phase,2,23,21,87, 49
+2018-11-28 10:32:07 +0000,0,Aiken,GS,Possession,2,23,21,83, 6
+2018-11-28 10:32:10 +0000,0,Aiken,GS,Assist - Circle Entry,2,23,21,83, 6
+2018-11-28 10:32:10 +0000,0,Tippett,GA,Goal - Score,2,23,21,56, 3
+2018-11-28 10:32:18 +0000,1,Petty,C,Centre Pass,2,24,21,50, 100
+2018-11-28 10:32:18 +0000,1,Msomi,WA,Assist - Centre Pass Rec,2,24,21,14, 124
+2018-11-28 10:32:23 +0000,1,Petty,C,Assist - 2nd Phase,2,24,21,36, 135
+2018-11-28 10:32:25 +0000,1,Msomi,WA,Possession,2,24,21,18, 177
+2018-11-28 11:06:52 +0000,0,Geitz,GK,Penaly - Contact,2,24,21,18, 177
+2018-11-28 11:06:52 +0000,1,Petty,C,Possession,2,24,21,18, 177
+2018-11-28 11:07:42 +0000,1,Petty,C,Assist - Circle Entry,2,24,21,18, 177
+2018-11-28 11:07:42 +0000,1,Pitman,GA,Possession,2,24,21,39, 193
+2018-11-28 11:07:44 +0000,1,Nelson,GS,Goal - Score,2,24,21,53, 191
+2018-11-28 11:07:48 +0000,0,Cassidy,C,Centre Pass,2,24,22,50, 100
+2018-11-28 11:07:48 +0000,0,Tippett,GA,Assist - Centre Pass Rec,2,24,22,91, 76
+2018-11-28 11:07:51 +0000,0,Tippett,GA,Assist - Circle Entry,2,24,22,91, 76
+2018-11-28 11:07:51 +0000,0,Aiken,GS,Possession,2,24,22,58, 3
+2018-11-28 11:07:55 +0000,1,Shimmin,GK,Penaly - Contact,2,24,22,58, 3
+2018-11-28 11:07:55 +0000,0,Aiken,GS,Possession,2,24,22,58, 3
+2018-11-28 11:08:00 +0000,1,de Bruin,GD,Penaly - Obstruction,2,24,22,58, 3
+2018-11-28 11:08:00 +0000,0,Aiken,GS,Goal - Score,2,24,22,58, 3
+2018-11-28 11:08:08 +0000,1,Petty,C,Centre Pass,2,25,22,50, 100
+2018-11-28 11:08:08 +0000,1,Msomi,WA,Assist - Centre Pass Rec,2,25,22,40, 112
+2018-11-28 11:08:11 +0000,1,Fowler,WD,Assist - 2nd Phase,2,25,22,38, 90
+2018-11-28 11:08:12 +0000,1,Petty,C,Loss - Bad Pass,2,25,22,62, 116
+2018-11-28 11:08:14 +0000,0,Simpson,WD,Throw In,2,25,22,-2, 118
+2018-11-28 11:08:20 +0000,0,Cassidy,C,Possession,2,25,22,24, 85
+2018-11-28 11:08:22 +0000,0,Nevins,WA,Possession,2,25,22,46, 81
+2018-11-28 11:08:25 +0000,0,Aiken,GS,Possession,2,25,22,77, 31
+2018-11-28 11:08:27 +0000,0,Nevins,WA,Possession,2,25,22,68, 32
+2018-11-28 11:08:29 +0000,1,Fowler,WD,Penaly - Contact,2,25,22,68, 32
+2018-11-28 11:08:29 +0000,0,Nevins,WA,Possession,2,25,22,68, 32
+2018-11-28 11:08:40 +0000,0,Nevins,WA,Assist - Circle Entry,2,25,22,68, 32
+2018-11-28 11:08:40 +0000,0,Aiken,GS,Goal - Score,2,25,22,55, 15
+2018-11-28 11:08:47 +0000,1,,UNKNOWN,Timeout,2,26,22,-10, -22
+2018-11-28 11:09:18 +0000,0,Cassidy,C,Centre Pass,2,26,22,50, 100
+2018-11-28 11:09:19 +0000,0,Nevins,WA,Assist - Centre Pass Rec,2,26,22,47, 84
+2018-11-28 11:09:21 +0000,0,Nevins,WA,Assist - Circle Entry,2,26,22,47, 84
+2018-11-28 11:09:21 +0000,0,Aiken,GS,Assist - 2nd Phase,2,26,22,47, 3
+2018-11-28 11:09:25 +0000,0,Aiken,GS,Goal - Score,2,26,22,47, 3
+2018-11-28 11:09:31 +0000,1,Petty,C,Centre Pass,2,27,22,50, 100
+2018-11-28 11:09:31 +0000,1,Msomi,WA,Assist - Centre Pass Rec,2,27,22,13, 119
+2018-11-28 11:09:34 +0000,1,Pitman,GA,Assist - 2nd Phase,2,27,22,47, 127
+2018-11-28 11:09:36 +0000,1,Petty,C,Possession,2,27,22,87, 176
+2018-11-28 11:09:38 +0000,1,Petty,C,Assist - Circle Entry,2,27,22,87, 176
+2018-11-28 11:09:38 +0000,1,Pitman,GA,Possession,2,27,22,75, 187
+2018-11-28 11:09:40 +0000,0,Jenner,GD,Penaly - Contact,2,27,22,75, 187
+2018-11-28 11:09:40 +0000,1,Pitman,GA,Possession,2,27,22,75, 187
+2018-11-28 11:09:44 +0000,1,Nelson,GS,Possession,2,27,22,48, 188
+2018-11-28 11:09:47 +0000,0,Jenner,GD,Penaly - Obstruction,2,27,22,48, 188
+2018-11-28 11:09:47 +0000,1,Nelson,GS,Goal - Score,2,27,22,48, 188
+2018-11-28 11:09:57 +0000,0,Cassidy,C,Centre Pass,2,27,23,50, 100
+2018-11-28 11:09:57 +0000,0,Jenner,GD,Assist - Centre Pass Rec,2,27,23,22, 98
+2018-11-28 11:09:58 +0000,0,Cassidy,C,Assist - 2nd Phase,2,27,23,25, 79
+2018-11-28 11:10:00 +0000,0,Jenner,GD,Possession,2,27,23,21, 99
+2018-11-28 11:10:02 +0000,0,Simpson,WD,Possession,2,27,23,40, 82
+2018-11-28 11:10:04 +0000,0,Tippett,GA,Possession,2,27,23,49, 54
+2018-11-28 11:10:08 +0000,0,Tippett,GA,Assist - Circle Entry,2,27,23,49, 54
+2018-11-28 11:10:08 +0000,0,Aiken,GS,Possession,2,27,23,51, 21
+2018-11-28 11:10:21 +0000,0,Nevins,WA,Loss - Out of Court,2,27,23,99, 21
+2018-11-28 11:10:29 +0000,1,Shimmin,GK,Throw In,2,27,23,99, 21
+2018-11-28 11:10:39 +0000,1,de Bruin,GD,Possession,2,27,23,98, 62
+2018-11-28 11:10:41 +0000,1,Fowler,WD,Possession,2,27,23,71, 60
+2018-11-28 11:10:43 +0000,1,Shimmin,GK,Possession,2,27,23,31, 63
+2018-11-28 11:10:47 +0000,1,Petty,C,Possession,2,27,23,15, 99
+2018-11-28 11:10:51 +0000,1,Msomi,WA,Possession,2,27,23,15, 185
+2018-11-28 11:10:54 +0000,1,Msomi,WA,Assist - Circle Entry,2,27,23,15, 185
+2018-11-28 11:10:54 +0000,1,Nelson,GS,Goal - Score,2,27,23,48, 192
+2018-11-28 11:11:07 +0000,1,Petty,C,Centre Pass,2,27,24,50, 100
+2018-11-28 11:11:07 +0000,1,Pitman,GA,Assist - Centre Pass Rec,2,27,24,59, 123
+2018-11-28 11:11:09 +0000,1,Msomi,WA,Assist - 2nd Phase,2,27,24,88, 185
+2018-11-28 11:11:14 +0000,1,Msomi,WA,Assist - Circle Entry,2,27,24,88, 185
+2018-11-28 11:11:14 +0000,1,Nelson,GS,Loss - Out of Court,2,27,24,55, 198
+2018-11-28 11:11:19 +0000,0,Geitz,GK,Possession,2,27,24,54, 197
+2018-11-28 11:11:26 +0000,0,Simpson,WD,Possession,2,27,24,72, 165
+2018-11-28 11:11:29 +0000,0,Jenner,GD,Possession,2,27,24,39, 141
+2018-11-28 11:11:30 +0000,0,Simpson,WD,Possession,2,27,24,54, 131
+2018-11-28 11:11:32 +0000,0,Tippett,GA,Possession,2,27,24,55, 85
+2018-11-28 11:11:34 +0000,0,Nevins,WA,Possession,2,27,24,24, 43
+2018-11-28 11:11:36 +0000,1,Fowler,WD,Penaly - Contact,2,27,24,24, 43
+2018-11-28 11:11:36 +0000,0,Nevins,WA,Possession,2,27,24,24, 43
+2018-11-28 11:11:45 +0000,0,Nevins,WA,Assist - Circle Entry,2,27,24,24, 43
+2018-11-28 11:11:45 +0000,0,Aiken,GS,Goal - Score,2,27,24,54, 4
+2018-11-28 11:12:15 +0000,0,Cassidy,C,Centre Pass,2,28,24,50, 100
+2018-11-28 11:12:15 +0000,0,Nevins,WA,Assist - Centre Pass Rec,2,28,24,69, 77
+2018-11-28 11:12:17 +0000,0,Aiken,GS,Assist - 2nd Phase,2,28,24,87, 31
+2018-11-28 11:12:19 +0000,0,Nevins,WA,Possession,2,28,24,73, 27
+2018-11-28 11:12:21 +0000,1,Petty,C,Penaly - Contact,2,28,24,73, 27
+2018-11-28 11:12:21 +0000,0,Nevins,WA,Possession,2,28,24,73, 27
+2018-11-28 11:12:24 +0000,0,Nevins,WA,Assist - Circle Entry,2,28,24,73, 27
+2018-11-28 11:12:25 +0000,0,Aiken,GS,Goal - Score,2,28,24,55, 3
+2018-11-28 11:12:34 +0000,1,Petty,C,Centre Pass,2,29,24,50, 100
+2018-11-28 11:12:34 +0000,1,Msomi,WA,Assist - Centre Pass Rec,2,29,24,32, 112
+2018-11-28 11:12:36 +0000,1,Pitman,GA,Assist - 2nd Phase,2,29,24,18, 181
+2018-11-28 11:12:44 +0000,1,Pitman,GA,Assist - Circle Entry,2,29,24,18, 181
+2018-11-28 11:12:44 +0000,1,Nelson,GS,Possession,2,29,24,40, 187
+2018-11-28 11:12:46 +0000,0,Geitz,GK,Penaly - Contact,2,29,24,40, 187
+2018-11-28 11:12:46 +0000,1,Pitman,GA,Goal - Miss,2,29,24,40, 187
+2018-11-28 11:13:02 +0000,0,Geitz,GK,Gain - Def Reb,2,29,24,50, 197
+2018-11-28 11:13:02 +0000,1,Pitman,GA,Penaly - Contact,2,29,24,50, 197
+2018-11-28 11:13:02 +0000,0,Geitz,GK,Possession,2,29,24,50, 197
+2018-11-28 11:13:08 +0000,0,Simpson,WD,Possession,2,29,24,36, 163
+2018-11-28 11:13:11 +0000,0,Jenner,GD,Possession,2,29,24,83, 99
+2018-11-28 11:13:15 +0000,0,Tippett,GA,Possession,2,29,24,89, 58
+2018-11-28 11:13:18 +0000,0,Aiken,GS,Possession,2,29,24,85, 9
+2018-11-28 11:13:20 +0000,1,Fowler,WD,Penaly - Contact,2,29,24,85, 9
+2018-11-28 11:13:20 +0000,0,Nevins,WA,Possession,2,29,24,85, 9
+2018-11-28 11:13:29 +0000,0,Nevins,WA,Assist - Circle Entry,2,29,24,85, 9
+2018-11-28 11:13:29 +0000,0,Tippett,GA,Goal - Score,2,29,24,62, 6
+2018-11-28 11:13:41 +0000,0,Cassidy,C,Centre Pass,2,30,24,50, 100
+2018-11-28 11:13:41 +0000,0,Nevins,WA,Assist - Centre Pass Rec,2,30,24,64, 75
+2018-11-28 11:13:44 +0000,0,Aiken,GS,Assist - 2nd Phase,2,30,24,90, 15
+2018-11-28 11:13:46 +0000,0,Cassidy,C,Possession,2,30,24,79, 20
+2018-11-28 11:13:48 +0000,0,Cassidy,C,Assist - Circle Entry,2,30,24,79, 20
+2018-11-28 11:13:48 +0000,0,Tippett,GA,Possession,2,30,24,79, 4
+2018-11-28 11:13:50 +0000,0,Aiken,GS,Goal - Score,2,30,24,51, 3
+2018-11-28 11:13:57 +0000,1,Petty,C,Centre Pass,2,31,24,50, 100
+2018-11-28 11:13:57 +0000,1,Msomi,WA,Assist - Centre Pass Rec,2,31,24,79, 121
+2018-11-28 11:14:00 +0000,1,Pitman,GA,Assist - 2nd Phase,2,31,24,92, 177
+2018-11-28 11:14:03 +0000,0,Jenner,GD,Penaly - Contact,2,31,24,92, 177
+2018-11-28 11:14:03 +0000,1,Msomi,WA,Possession,2,31,24,92, 177
+2018-11-28 11:14:07 +0000,1,Petty,C,Possession,2,31,24,50, 161
+2018-11-28 11:14:09 +0000,1,Petty,C,Assist - Circle Entry,2,31,24,50, 161
+2018-11-28 11:14:09 +0000,1,Pitman,GA,Possession,2,31,24,48, 176
+2018-11-28 11:14:21 +0000,0,Geitz,GK,Penaly - Contact,2,31,24,54, 192
+2018-11-28 11:14:21 +0000,1,Nelson,GS,Goal - Score,2,31,24,54, 192
+2018-11-28 11:14:34 +0000,0,Cassidy,C,Centre Pass,2,31,25,50, 100
+2018-11-28 11:14:34 +0000,0,Nevins,WA,Assist - Centre Pass Rec,2,31,25,81, 74
+2018-11-28 11:14:37 +0000,0,Tippett,GA,Assist - 2nd Phase,2,31,25,87, 45
+2018-11-28 11:14:39 +0000,0,Tippett,GA,Assist - Circle Entry,2,31,25,87, 45
+2018-11-28 11:14:39 +0000,0,Aiken,GS,Possession,2,31,25,48, 26
+2018-11-28 11:14:42 +0000,0,Nevins,WA,Possession,2,31,25,35, 32
+2018-11-28 11:14:43 +0000,1,Petty,C,Penaly - Contact,2,31,25,35, 32
+2018-11-28 11:14:43 +0000,0,Nevins,WA,Possession,2,31,25,35, 32
+2018-11-28 11:14:50 +0000,0,Nevins,WA,Assist - Circle Entry,2,31,25,35, 32
+2018-11-28 11:14:50 +0000,0,Aiken,GS,Possession,2,31,25,45, 6
+2018-11-28 11:14:52 +0000,1,Shimmin,GK,Penaly - Obstruction,2,31,25,45, 6
+2018-11-28 11:14:52 +0000,0,Aiken,GS,Goal - Score,2,31,25,45, 6
+2018-11-28 11:15:02 +0000,1,Petty,C,Centre Pass,2,32,25,50, 100
+2018-11-28 11:15:02 +0000,1,Msomi,WA,Assist - Centre Pass Rec,2,32,25,95, 119
+2018-11-28 11:15:07 +0000,1,de Bruin,GD,Deflect,2,32,25,79, 90
+2018-11-28 11:15:11 +0000,1,Fowler,WD,Possession,2,32,25,60, 78
+2018-11-28 11:15:14 +0000,1,Msomi,WA,Possession,2,32,25,92, 112
+2018-11-28 11:15:16 +0000,1,Pitman,GA,Possession,2,32,25,31, 126
+2018-11-28 11:15:26 +0000,0,Geitz,GK,Penaly - Contact,2,32,25,55, 192
+2018-11-28 11:15:26 +0000,1,Pitman,GA,Possession,2,32,25,55, 192
+2018-11-28 11:15:36 +0000,1,Nelson,GS,Goal - Score,2,32,25,47, 193
+2018-11-28 11:15:47 +0000,0,Cassidy,C,Centre Pass,2,32,26,50, 100
+2018-11-28 11:15:48 +0000,0,Tippett,GA,Assist - Centre Pass Rec,2,32,26,74, 76
+2018-11-28 11:15:50 +0000,0,Cassidy,C,Assist - 2nd Phase,2,32,26,52, 68
+2018-11-28 11:15:58 +0000,0,Cassidy,C,Assist - Circle Entry,2,32,26,52, 68
+2018-11-28 11:15:58 +0000,0,Aiken,GS,Possession,2,32,26,56, 14
+2018-11-28 11:16:04 +0000,0,Cassidy,C,Possession,2,32,26,69, 28
+2018-11-28 11:16:06 +0000,1,Petty,C,Penaly - Contact,2,32,26,69, 28
+2018-11-28 11:16:06 +0000,0,Cassidy,C,Possession,2,32,26,69, 28
+2018-11-28 11:16:13 +0000,0,Cassidy,C,Assist - Circle Entry,2,32,26,69, 28
+2018-11-28 11:16:13 +0000,0,Aiken,GS,Goal - Score,2,32,26,56, 4
+2018-11-28 11:16:23 +0000,1,Petty,C,Centre Pass,2,33,26,50, 100
+2018-11-28 11:16:23 +0000,1,de Bruin,GD,Assist - Centre Pass Rec,2,33,26,74, 98
+2018-11-28 11:16:24 +0000,1,Fowler,WD,Assist - 2nd Phase,2,33,26,31, 89
+2018-11-28 11:16:26 +0000,1,Msomi,WA,Possession,2,33,26,17, 116
+2018-11-28 11:16:28 +0000,1,Fowler,WD,Possession,2,33,26,35, 94
+2018-11-28 11:16:34 +0000,1,Petty,C,Possession,2,33,26,26, 120
+2018-11-28 11:16:36 +0000,0,Simpson,WD,Deflect,2,33,26,19, 145
+2018-11-28 11:16:36 +0000,1,Petty,C,Possession,2,33,26,23, 125
+2018-11-28 11:16:49 +0000,1,Petty,C,Assist - Circle Entry,2,33,26,23, 125
+2018-11-28 11:16:50 +0000,1,Nelson,GS,Goal - Score,2,33,26,54, 193
+2018-11-28 11:17:01 +0000,0,Cassidy,C,Centre Pass,2,33,27,50, 100
+2018-11-28 11:17:01 +0000,0,Simpson,WD,Assist - Centre Pass Rec,2,33,27,34, 89
+2018-11-28 11:17:04 +0000,0,Tippett,GA,Assist - 2nd Phase,2,33,27,49, 59
+2018-11-28 11:17:10 +0000,1,Fowler,WD,Penaly - Contact,2,33,27,47, 46
+2018-11-28 11:17:10 +0000,0,Nevins,WA,Possession,2,33,27,47, 46
+2018-11-28 11:17:15 +0000,0,Cassidy,C,Possession,2,33,27,80, 19
+2018-11-28 11:17:18 +0000,0,Cassidy,C,Assist - Circle Entry,2,33,27,80, 19
+2018-11-28 11:17:18 +0000,0,Aiken,GS,Possession,2,33,27,62, 9
+2018-11-28 11:17:23 +0000,0,Tippett,GA,Possession,2,33,27,38, 14
+2018-11-28 11:17:24 +0000,0,Nevins,WA,Possession,2,33,27,29, 27
+2018-11-28 11:17:26 +0000,0,Nevins,WA,Assist - Circle Entry,2,33,27,29, 27
+2018-11-28 11:17:26 +0000,0,Tippett,GA,Possession,2,33,27,42, 10
+2018-11-28 11:17:30 +0000,1,Shimmin,GK,Penaly - Contact,2,33,27,42, 10
+2018-11-28 11:17:30 +0000,0,Tippett,GA,Goal - Miss,2,33,27,42, 10
+2018-11-28 11:17:42 +0000,0,Tippett,GA,Assist - Attack Rebound,2,33,27,50, 2
+2018-11-28 11:21:42 +0000,0,Jenner,UNKNOWN,Interchange - Hinchliffe,3,33,27,
+2018-11-28 11:22:03 +0000,0,Hinchliffe,UNKNOWN,Interchange - Jenner,3,33,27,
+2018-11-28 11:25:48 +0000,1,Petty,C,Centre Pass,3,33,27,50, 100
+2018-11-28 11:25:48 +0000,1,Pitman,GA,Assist - Centre Pass Rec,3,33,27,23, 117
+2018-11-28 11:25:50 +0000,1,de Bruin,GD,Assist - 2nd Phase,3,33,27,8, 96
+2018-11-28 11:25:53 +0000,1,Fowler,WD,Possession,3,33,27,23, 117
+2018-11-28 11:25:54 +0000,0,Nevins,WA,Penaly - Contact,3,33,27,23, 117
+2018-11-28 11:25:54 +0000,1,Fowler,WD,Possession,3,33,27,23, 117
+2018-11-28 11:26:18 +0000,1,Pitman,GA,Loss - Bad Pass,3,33,27,10, 146
+2018-11-28 11:26:21 +0000,0,Geitz,GK,Throw In,3,33,27,40, 204
+2018-11-28 11:26:30 +0000,0,Hinchliffe,GD,Possession,3,33,27,21, 174
+2018-11-28 11:26:35 +0000,0,Geitz,GK,Possession,3,33,27,20, 157
+2018-11-28 11:26:38 +0000,1,Nelson,GS,Penaly - Contact,3,33,27,20, 157
+2018-11-28 11:26:38 +0000,0,Geitz,GK,Possession,3,33,27,20, 157
+2018-11-28 11:26:41 +0000,0,Hinchliffe,GD,Possession,3,33,27,7, 129
+2018-11-28 11:26:45 +0000,0,Cassidy,C,Possession,3,33,27,11, 89
+2018-11-28 11:26:47 +0000,0,Hinchliffe,GD,Possession,3,33,27,20, 99
+2018-11-28 11:26:52 +0000,0,Nevins,WA,Possession,3,33,27,43, 58
+2018-11-28 11:26:56 +0000,0,Tippett,GA,Possession,3,33,27,81, 20
+2018-11-28 11:26:58 +0000,0,Nevins,WA,Possession,3,33,27,67, 30
+2018-11-28 11:27:00 +0000,0,Nevins,WA,Assist - Circle Entry,3,33,27,67, 30
+2018-11-28 11:27:00 +0000,0,Aiken,GS,Goal - Score,3,33,27,46, 7
+2018-11-28 11:27:10 +0000,0,Cassidy,C,Centre Pass,3,34,27,50, 100
+2018-11-28 11:27:10 +0000,0,Tippett,GA,Assist - Centre Pass Rec,3,34,27,74, 74
+2018-11-28 11:27:12 +0000,0,Cassidy,C,Assist - 2nd Phase,3,34,27,74, 51
+2018-11-28 11:27:18 +0000,0,Nevins,WA,Possession,3,34,27,76, 40
+2018-11-28 11:27:20 +0000,1,Fowler,WD,Penaly - Contact,3,34,27,76, 40
+2018-11-28 11:27:20 +0000,0,Nevins,WA,Possession,3,34,27,76, 40
+2018-11-28 11:27:25 +0000,0,Nevins,WA,Assist - Circle Entry,3,34,27,76, 40
+2018-11-28 11:27:25 +0000,0,Aiken,GS,Possession,3,34,27,60, 19
+2018-11-28 11:27:28 +0000,0,Nevins,WA,Possession,3,34,27,68, 29
+2018-11-28 11:27:29 +0000,1,Fowler,WD,Penaly - Contact,3,34,27,68, 29
+2018-11-28 11:27:29 +0000,0,Nevins,WA,Possession,3,34,27,68, 29
+2018-11-28 11:27:33 +0000,0,Nevins,WA,Assist - Circle Entry,3,34,27,68, 29
+2018-11-28 11:27:33 +0000,0,Aiken,GS,Goal - Score,3,34,27,55, 7
+2018-11-28 11:27:47 +0000,1,Petty,C,Centre Pass,3,35,27,50, 100
+2018-11-28 11:27:47 +0000,1,Msomi,WA,Assist - Centre Pass Rec,3,35,27,81, 119
+2018-11-28 11:27:49 +0000,1,Pitman,GA,Assist - 2nd Phase,3,35,27,85, 165
+2018-11-28 11:27:56 +0000,0,,UNKNOWN,Loss - Offside,3,35,27,26, 182
+2018-11-28 11:27:57 +0000,1,Pitman,GA,Possession,3,35,27,26, 182
+2018-11-28 11:28:08 +0000,1,Petty,C,Possession,3,35,27,19, 182
+2018-11-28 11:28:12 +0000,1,Petty,C,Assist - Circle Entry,3,35,27,19, 182
+2018-11-28 11:28:12 +0000,1,Nelson,GS,Possession,3,35,27,52, 192
+2018-11-28 11:28:13 +0000,0,Geitz,GK,Penaly - Contact,3,35,27,52, 192
+2018-11-28 11:28:13 +0000,1,Nelson,GS,Goal - Score,3,35,27,52, 192
+2018-11-28 11:28:23 +0000,0,Cassidy,C,Centre Pass,3,35,28,50, 100
+2018-11-28 11:28:23 +0000,0,Simpson,WD,Assist - Centre Pass Rec,3,35,28,57, 111
+2018-11-28 11:28:25 +0000,0,Tippett,GA,Assist - 2nd Phase,3,35,28,64, 62
+2018-11-28 11:28:28 +0000,0,Tippett,GA,Assist - Circle Entry,3,35,28,64, 62
+2018-11-28 11:28:28 +0000,0,Aiken,GS,Possession,3,35,28,50, 29
+2018-11-28 11:28:30 +0000,0,Tippett,GA,Possession,3,35,28,83, 7
+2018-11-28 11:28:36 +0000,1,Petty,C,Loss - Offside,3,35,28,21, 13
+2018-11-28 11:28:36 +0000,0,Tippett,GA,Possession,3,35,28,21, 13
+2018-11-28 11:28:47 +0000,0,Nevins,WA,Possession,3,35,28,78, 22
+2018-11-28 11:28:49 +0000,0,Nevins,WA,Assist - Circle Entry,3,35,28,78, 22
+2018-11-28 11:28:49 +0000,0,Tippett,GA,Loss - Drop,3,35,28,54, 8
+2018-11-28 11:28:54 +0000,1,Shimmin,GK,Throw In,3,35,28,55, -4
+2018-11-28 11:31:11 +0000,1,Petty,C,Possession,3,35,28,25, 45
+2018-11-28 11:31:17 +0000,1,Fowler,WD,Possession,3,35,28,53, 42
+2018-11-28 11:31:19 +0000,1,Shimmin,GK,Possession,3,35,28,9, 56
+2018-11-28 11:31:21 +0000,1,de Bruin,GD,Possession,3,35,28,13, 71
+2018-11-28 11:31:22 +0000,0,Cassidy,C,Penaly - Contact,3,35,28,13, 71
+2018-11-28 11:31:22 +0000,1,de Bruin,GD,Possession,3,35,28,13, 71
+2018-11-28 11:31:27 +0000,1,Petty,C,Possession,3,35,28,27, 102
+2018-11-28 11:31:30 +0000,1,Msomi,WA,Possession,3,35,28,18, 158
+2018-11-28 11:31:32 +0000,1,Msomi,WA,Assist - Circle Entry,3,35,28,18, 158
+2018-11-28 11:31:32 +0000,1,Pitman,GA,Possession,3,35,28,31, 177
+2018-11-28 11:31:34 +0000,1,Msomi,WA,Possession,3,35,28,23, 175
+2018-11-28 11:31:36 +0000,1,Msomi,WA,Assist - Circle Entry,3,35,28,23, 175
+2018-11-28 11:31:36 +0000,1,Pitman,GA,Possession,3,35,28,36, 190
+2018-11-28 11:31:39 +0000,1,Nelson,GS,Goal - Score,3,35,28,50, 187
+2018-11-28 11:31:49 +0000,1,Petty,C,Centre Pass,3,35,29,50, 100
+2018-11-28 11:31:49 +0000,1,Pitman,GA,Assist - Centre Pass Rec,3,35,29,74, 123
+2018-11-28 11:31:50 +0000,1,Msomi,WA,Assist - 2nd Phase,3,35,29,83, 168
+2018-11-28 11:31:53 +0000,1,Fowler,WD,Possession,3,35,29,83, 129
+2018-11-28 11:31:56 +0000,1,de Bruin,GD,Possession,3,35,29,42, 128
+2018-11-28 11:31:58 +0000,1,Msomi,WA,Possession,3,35,29,15, 146
+2018-11-28 11:32:00 +0000,1,Pitman,GA,Possession,3,35,29,13, 179
+2018-11-28 11:32:10 +0000,1,Petty,C,Possession,3,35,29,77, 180
+2018-11-28 11:32:15 +0000,0,Simpson,WD,Loss - Offside,3,35,29,71, 179
+2018-11-28 11:32:15 +0000,1,Pitman,GA,Possession,3,35,29,71, 179
+2018-11-28 11:32:25 +0000,1,Petty,C,Possession,3,35,29,79, 181
+2018-11-28 11:32:30 +0000,1,Petty,C,Assist - Circle Entry,3,35,29,79, 181
+2018-11-28 11:32:30 +0000,1,Pitman,GA,Possession,3,35,29,63, 190
+2018-11-28 11:32:32 +0000,0,Hinchliffe,GD,Penaly - Contact,3,35,29,63, 190
+2018-11-28 11:32:32 +0000,1,Pitman,GA,Possession,3,35,29,63, 190
+2018-11-28 11:32:36 +0000,1,Nelson,GS,Goal - Score,3,35,29,44, 196
+2018-11-28 11:32:44 +0000,0,Cassidy,C,Centre Pass,3,35,30,50, 100
+2018-11-28 11:32:44 +0000,0,Nevins,WA,Assist - Centre Pass Rec,3,35,30,11, 75
+2018-11-28 11:32:46 +0000,0,Tippett,GA,Assist - 2nd Phase,3,35,30,73, 56
+2018-11-28 11:32:48 +0000,0,Nevins,WA,Possession,3,35,30,68, 31
+2018-11-28 11:32:50 +0000,0,Nevins,WA,Assist - Circle Entry,3,35,30,68, 31
+2018-11-28 11:32:50 +0000,0,Aiken,GS,Goal - Score,3,35,30,57, 3
+2018-11-28 11:32:59 +0000,1,Petty,C,Centre Pass,3,36,30,50, 100
+2018-11-28 11:32:59 +0000,1,Msomi,WA,Assist - Centre Pass Rec,3,36,30,72, 118
+2018-11-28 11:33:00 +0000,1,Pitman,GA,Assist - 2nd Phase,3,36,30,81, 148
+2018-11-28 11:33:02 +0000,1,Petty,C,Possession,3,36,30,79, 179
+2018-11-28 11:33:04 +0000,1,Petty,C,Assist - Circle Entry,3,36,30,79, 179
+2018-11-28 11:33:05 +0000,1,Nelson,GS,Possession,3,36,30,41, 177
+2018-11-28 11:33:06 +0000,1,Msomi,WA,Possession,3,36,30,22, 174
+2018-11-28 11:33:11 +0000,1,Msomi,WA,Assist - Circle Entry,3,36,30,22, 174
+2018-11-28 11:33:11 +0000,1,Nelson,GS,Possession,3,36,30,49, 187
+2018-11-28 11:33:12 +0000,0,Geitz,GK,Penaly - Contact,3,36,30,49, 187
+2018-11-28 11:33:12 +0000,1,Nelson,GS,Goal - Score,3,36,30,49, 187
+2018-11-28 11:33:21 +0000,0,Cassidy,C,Centre Pass,3,36,31,50, 100
+2018-11-28 11:33:21 +0000,0,Tippett,GA,Assist - Centre Pass Rec,3,36,31,79, 75
+2018-11-28 11:33:22 +0000,0,Cassidy,C,Assist - 2nd Phase,3,36,31,65, 71
+2018-11-28 11:33:24 +0000,0,Nevins,WA,Possession,3,36,31,70, 45
+2018-11-28 11:33:26 +0000,0,Simpson,WD,Possession,3,36,31,64, 71
+2018-11-28 11:33:29 +0000,0,Nevins,WA,Possession,3,36,31,60, 49
+2018-11-28 11:33:31 +0000,0,Cassidy,C,Possession,3,36,31,49, 35
+2018-11-28 11:33:33 +0000,0,Cassidy,C,Assist - Circle Entry,3,36,31,49, 35
+2018-11-28 11:33:33 +0000,0,Tippett,GA,Possession,3,36,31,50, 19
+2018-11-28 11:33:35 +0000,0,Aiken,GS,Possession,3,36,31,54, 5
+2018-11-28 11:33:39 +0000,1,Shimmin,GK,Penaly - Obstruction,3,36,31,54, 5
+2018-11-28 11:33:39 +0000,0,Aiken,GS,Goal - Score,3,36,31,54, 5
+2018-11-28 11:33:49 +0000,1,Petty,C,Centre Pass,3,37,31,50, 100
+2018-11-28 11:33:49 +0000,1,Pitman,GA,Assist - Centre Pass Rec,3,37,31,9, 116
+2018-11-28 11:33:52 +0000,1,Msomi,WA,Assist - 2nd Phase,3,37,31,10, 189
+2018-11-28 11:33:55 +0000,1,Msomi,WA,Assist - Circle Entry,3,37,31,10, 189
+2018-11-28 11:33:55 +0000,1,Nelson,GS,Goal - Miss,3,37,31,37, 195
+2018-11-28 11:34:42 +0000,0,Hinchliffe,GD,Gain - Def Reb,3,37,31,50, 197
+2018-11-28 11:34:43 +0000,1,Pitman,GA,Penaly - Contact,3,37,31,50, 197
+2018-11-28 11:34:43 +0000,0,Geitz,GK,Possession,3,37,31,50, 197
+2018-11-28 11:34:51 +0000,0,Simpson,WD,Possession,3,37,31,42, 161
+2018-11-28 11:34:52 +0000,0,Hinchliffe,GD,Possession,3,37,31,76, 116
+2018-11-28 11:34:54 +0000,0,Tippett,GA,Possession,3,37,31,75, 75
+2018-11-28 11:34:56 +0000,0,Simpson,WD,Possession,3,37,31,14, 77
+2018-11-28 11:34:58 +0000,0,Nevins,WA,Possession,3,37,31,12, 43
+2018-11-28 11:35:00 +0000,0,Nevins,WA,Assist - Circle Entry,3,37,31,12, 43
+2018-11-28 11:35:01 +0000,0,Tippett,GA,Possession,3,37,31,49, 20
+2018-11-28 11:35:02 +0000,0,Nevins,WA,Possession,3,37,31,17, 17
+2018-11-28 11:35:05 +0000,0,Aiken,GS,Possession,3,37,31,45, 35
+2018-11-28 11:35:10 +0000,0,Cassidy,C,Possession,3,37,31,75, 23
+2018-11-28 11:35:11 +0000,1,Fowler,WD,Penaly - Contact,3,37,31,75, 23
+2018-11-28 11:35:11 +0000,0,Cassidy,C,Possession,3,37,31,75, 23
+2018-11-28 11:35:19 +0000,0,Cassidy,C,Assist - Circle Entry,3,37,31,75, 23
+2018-11-28 11:35:19 +0000,0,Tippett,GA,Possession,3,37,31,58, 19
+2018-11-28 11:35:21 +0000,1,de Bruin,GD,Penaly - Contact,3,37,31,58, 19
+2018-11-28 11:35:21 +0000,0,Tippett,GA,Goal - Score,3,37,31,58, 19
+2018-11-28 11:35:31 +0000,0,Cassidy,C,Centre Pass,3,38,31,50, 100
+2018-11-28 11:35:31 +0000,0,Hinchliffe,GD,Assist - Centre Pass Rec,3,38,31,77, 98
+2018-11-28 11:35:35 +0000,0,Aiken,GS,Assist - 2nd Phase,3,38,31,83, 42
+2018-11-28 11:35:38 +0000,0,Aiken,GS,Assist - Circle Entry,3,38,31,83, 42
+2018-11-28 11:35:38 +0000,0,Tippett,GA,Possession,3,38,31,67, 7
+2018-11-28 11:35:45 +0000,1,Fowler,WD,Deflect,3,38,31,23, 23
+2018-11-28 11:35:45 +0000,0,Nevins,WA,Throw In,3,38,31,2, -2
+2018-11-28 11:35:53 +0000,0,Nevins,WA,Assist - Circle Entry,3,38,31,2, -2
+2018-11-28 11:35:54 +0000,0,Tippett,GA,Possession,3,38,31,24, 8
+2018-11-28 11:35:55 +0000,1,de Bruin,GD,Penaly - Contact,3,38,31,24, 8
+2018-11-28 11:35:55 +0000,0,Tippett,GA,Possession,3,38,31,24, 8
+2018-11-28 11:36:04 +0000,0,Aiken,GS,Possession,3,38,31,46, 5
+2018-11-28 11:36:06 +0000,1,Shimmin,GK,Penaly - Obstruction,3,38,31,46, 5
+2018-11-28 11:36:06 +0000,0,Aiken,GS,Goal - Score,3,38,31,46, 5
+2018-11-28 11:36:15 +0000,1,Petty,C,Centre Pass,3,39,31,50, 100
+2018-11-28 11:36:15 +0000,1,Pitman,GA,Assist - Centre Pass Rec,3,39,31,60, 112
+2018-11-28 11:36:17 +0000,1,Msomi,WA,Assist - 2nd Phase,3,39,31,7, 118
+2018-11-28 11:36:20 +0000,1,de Bruin,GD,Possession,3,39,31,14, 103
+2018-11-28 11:36:22 +0000,1,Msomi,WA,Possession,3,39,31,8, 124
+2018-11-28 11:36:23 +0000,1,de Bruin,GD,Possession,3,39,31,10, 107
+2018-11-28 11:36:25 +0000,1,Msomi,WA,Possession,3,39,31,6, 128
+2018-11-28 11:36:28 +0000,1,Petty,C,Possession,3,39,31,13, 184
+2018-11-28 11:36:32 +0000,1,Petty,C,Assist - Circle Entry,3,39,31,13, 184
+2018-11-28 11:36:32 +0000,0,Geitz,GK,Gain - Inter,3,39,31,47, 189
+2018-11-28 11:36:40 +0000,0,Cassidy,C,Possession,3,39,31,48, 150
+2018-11-28 11:36:42 +0000,0,Geitz,GK,Possession,3,39,31,63, 137
+2018-11-28 11:36:46 +0000,0,Cassidy,C,Possession,3,39,31,73, 124
+2018-11-28 11:36:48 +0000,0,Hinchliffe,GD,Possession,3,39,31,49, 117
+2018-11-28 11:36:50 +0000,1,Petty,C,Penaly - Contact,3,39,31,49, 117
+2018-11-28 11:36:50 +0000,0,Simpson,WD,Possession,3,39,31,49, 117
+2018-11-28 11:37:02 +0000,0,Cassidy,C,Possession,3,39,31,74, 81
+2018-11-28 11:37:04 +0000,0,Nevins,WA,Possession,3,39,31,64, 65
+2018-11-28 11:37:08 +0000,0,Nevins,WA,Assist - Circle Entry,3,39,31,64, 65
+2018-11-28 11:37:08 +0000,0,Aiken,GS,Goal - Miss,3,39,31,54, 3
+2018-11-28 11:37:22 +0000,1,Shimmin,GK,Deflect,3,39,31,53, 5
+2018-11-28 11:37:22 +0000,0,Aiken,GS,Goal - Score,3,39,31,54, 5
+2018-11-28 11:37:36 +0000,1,,UNKNOWN,Timeout,3,40,31,110, 222
+2018-11-28 11:38:22 +0000,0,Cassidy,C,Centre Pass,3,40,31,50, 100
+2018-11-28 11:38:22 +0000,0,Nevins,WA,Assist - Centre Pass Rec,3,40,31,78, 75
+2018-11-28 11:38:23 +0000,0,Cassidy,C,Assist - 2nd Phase,3,40,31,72, 60
+2018-11-28 11:38:25 +0000,0,Tippett,GA,Possession,3,40,31,49, 38
+2018-11-28 11:38:27 +0000,0,Tippett,GA,Assist - Circle Entry,3,40,31,49, 38
+2018-11-28 11:38:27 +0000,0,Aiken,GS,Possession,3,40,31,37, 20
+2018-11-28 11:38:30 +0000,1,Petty,C,Loss - Offside,3,40,31,70, 21
+2018-11-28 11:38:31 +0000,0,Tippett,GA,Possession,3,40,31,70, 21
+2018-11-28 11:38:42 +0000,0,Nevins,WA,Possession,3,40,31,80, 16
+2018-11-28 11:38:44 +0000,0,Nevins,WA,Assist - Circle Entry,3,40,31,80, 16
+2018-11-28 11:38:44 +0000,0,Tippett,GA,Possession,3,40,31,63, 7
+2018-11-28 11:39:18 +0000,0,Aiken,GS,Loss - Drop,3,40,31,50, 15
+2018-11-28 11:39:22 +0000,1,Petty,C,Gain - Pick-up,3,40,31,50, 37
+2018-11-28 11:39:30 +0000,1,Msomi,WA,Possession,3,40,31,19, 82
+2018-11-28 11:39:37 +0000,1,de Bruin,GD,Possession,3,40,31,30, 96
+2018-11-28 11:39:40 +0000,1,Msomi,WA,Possession,3,40,31,25, 124
+2018-11-28 11:39:44 +0000,1,Petty,C,Possession,3,40,31,11, 188
+2018-11-28 11:39:46 +0000,1,Msomi,WA,Possession,3,40,31,76, 173
+2018-11-28 11:39:49 +0000,1,Msomi,WA,Assist - Circle Entry,3,40,31,76, 173
+2018-11-28 11:39:49 +0000,1,Pitman,GA,Possession,3,40,31,50, 172
+2018-11-28 11:39:51 +0000,1,Msomi,WA,Possession,3,40,31,77, 176
+2018-11-28 11:39:53 +0000,1,Msomi,WA,Assist - Circle Entry,3,40,31,77, 176
+2018-11-28 11:39:53 +0000,1,Pitman,GA,Possession,3,40,31,53, 181
+2018-11-28 11:39:57 +0000,1,Nelson,GS,Goal - Score,3,40,31,46, 195
+2018-11-28 11:40:15 +0000,1,Petty,C,Centre Pass,3,40,32,50, 100
+2018-11-28 11:40:15 +0000,0,Hinchliffe,GD,Penaly - Contact on CP,3,40,32,59, 112
+2018-11-28 11:40:15 +0000,1,de Bruin,GD,Possession,3,40,32,59, 112
+2018-11-28 11:40:26 +0000,0,Simpson,WD,Gain - Tip (Deflect),3,40,32,52, 143
+2018-11-28 11:40:31 +0000,0,Nevins,WA,Possession,3,40,32,43, 119
+2018-11-28 11:40:33 +0000,0,Hinchliffe,GD,Possession,3,40,32,83, 87
+2018-11-28 11:40:35 +0000,0,Simpson,WD,Possession,3,40,32,68, 90
+2018-11-28 11:40:37 +0000,0,Hinchliffe,GD,Possession,3,40,32,82, 69
+2018-11-28 11:40:39 +0000,0,Cassidy,C,Possession,3,40,32,83, 47
+2018-11-28 11:40:42 +0000,0,Aiken,GS,Possession,3,40,32,82, 9
+2018-11-28 11:40:45 +0000,0,Cassidy,C,Possession,3,40,32,72, 25
+2018-11-28 11:40:48 +0000,0,Nevins,WA,Possession,3,40,32,50, 36
+2018-11-28 11:40:50 +0000,0,Nevins,WA,Assist - Circle Entry,3,40,32,50, 36
+2018-11-28 11:40:50 +0000,0,Tippett,GA,Possession,3,40,32,56, 12
+2018-11-28 11:40:55 +0000,1,Shimmin,GK,Penaly - Obstruction,3,40,32,56, 12
+2018-11-28 11:40:55 +0000,0,Tippett,GA,Goal - Score,3,40,32,56, 12
+2018-11-28 11:41:03 +0000,0,Cassidy,C,Centre Pass,3,41,32,50, 100
+2018-11-28 11:41:03 +0000,0,Nevins,WA,Assist - Centre Pass Rec,3,41,32,79, 74
+2018-11-28 11:41:05 +0000,0,Aiken,GS,Assist - 2nd Phase,3,41,32,81, 16
+2018-11-28 11:41:07 +0000,0,Nevins,WA,Possession,3,41,32,76, 27
+2018-11-28 11:41:09 +0000,0,Nevins,WA,Assist - Circle Entry,3,41,32,76, 27
+2018-11-28 11:41:09 +0000,0,Aiken,GS,Possession,3,41,32,65, 4
+2018-11-28 11:41:13 +0000,0,Tippett,GA,Possession,3,41,32,46, 8
+2018-11-28 11:41:13 +0000,1,de Bruin,GD,Penaly - Contact,3,41,32,46, 8
+2018-11-28 11:41:13 +0000,0,Tippett,GA,Goal - Score,3,41,32,46, 8
+2018-11-28 11:41:26 +0000,1,Petty,C,Centre Pass,3,42,32,50, 100
+2018-11-28 11:41:26 +0000,1,Msomi,WA,Assist - Centre Pass Rec,3,42,32,67, 124
+2018-11-28 11:41:29 +0000,1,Pitman,GA,Assist - 2nd Phase,3,42,32,75, 140
+2018-11-28 11:41:36 +0000,1,Fowler,WD,Possession,3,42,32,79, 131
+2018-11-28 11:41:38 +0000,0,Tippett,GA,Penaly - Contact,3,42,32,79, 131
+2018-11-28 11:41:39 +0000,1,Fowler,WD,Possession,3,42,32,79, 131
+2018-11-28 11:41:44 +0000,1,Petty,C,Possession,3,42,32,59, 137
+2018-11-28 11:41:47 +0000,1,de Bruin,GD,Possession,3,42,32,30, 122
+2018-11-28 11:41:49 +0000,1,Msomi,WA,Possession,3,42,32,23, 130
+2018-11-28 11:41:54 +0000,1,Pitman,GA,Possession,3,42,32,13, 163
+2018-11-28 11:42:00 +0000,1,de Bruin,GD,Possession,3,42,32,29, 130
+2018-11-28 11:42:03 +0000,1,Msomi,WA,Possession,3,42,32,35, 139
+2018-11-28 11:42:04 +0000,1,Pitman,GA,Possession,3,42,32,22, 158
+2018-11-28 11:42:10 +0000,1,Msomi,WA,Possession,3,42,32,23, 174
+2018-11-28 11:42:15 +0000,1,Msomi,WA,Assist - Circle Entry,3,42,32,23, 174
+2018-11-28 11:42:15 +0000,1,Pitman,GA,Possession,3,42,32,35, 190
+2018-11-28 11:42:17 +0000,1,Msomi,WA,Possession,3,42,32,18, 183
+2018-11-28 11:42:26 +0000,1,Msomi,WA,Assist - Circle Entry,3,42,32,18, 183
+2018-11-28 11:42:26 +0000,1,Nelson,GS,Goal - Score,3,42,32,56, 192
+2018-11-28 11:52:40 +0000,0,Cassidy,C,Centre Pass,3,42,33,50, 100
+2018-11-28 11:52:40 +0000,0,Simpson,WD,Assist - Centre Pass Rec,3,42,33,32, 106
+2018-11-28 11:52:43 +0000,0,Nevins,WA,Assist - 2nd Phase,3,42,33,19, 76
+2018-11-28 11:52:45 +0000,0,Simpson,WD,Possession,3,42,33,30, 97
+2018-11-28 11:52:46 +0000,0,Nevins,WA,Possession,3,42,33,5, 83
+2018-11-28 11:52:48 +0000,0,Simpson,WD,Possession,3,42,33,7, 68
+2018-11-28 11:52:49 +0000,1,Msomi,WA,Penaly - Contact,3,42,33,7, 68
+2018-11-28 11:52:50 +0000,0,Simpson,WD,Possession,3,42,33,7, 68
+2018-11-28 11:52:53 +0000,0,Cassidy,C,Possession,3,42,33,7, 57
+2018-11-28 11:52:54 +0000,0,Tippett,GA,Possession,3,42,33,16, 13
+2018-11-28 11:52:57 +0000,0,Tippett,GA,Assist - Circle Entry,3,42,33,16, 13
+2018-11-28 11:52:57 +0000,0,Aiken,GS,Possession,3,42,33,39, 23
+2018-11-28 11:53:01 +0000,0,Cassidy,C,Possession,3,42,33,28, 28
+2018-11-28 11:53:06 +0000,1,Fowler,WD,Penaly - Contact,3,42,33,28, 28
+2018-11-28 11:53:06 +0000,0,Cassidy,C,Possession,3,42,33,28, 28
+2018-11-28 11:53:11 +0000,0,Cassidy,C,Assist - Circle Entry,3,42,33,28, 28
+2018-11-28 11:53:11 +0000,0,Aiken,GS,Possession,3,42,33,54, 10
+2018-11-28 11:53:13 +0000,1,de Bruin,GD,Penaly - Obstruction,3,42,33,54, 10
+2018-11-28 11:53:13 +0000,0,Aiken,GS,Goal - Score,3,42,33,54, 10
+2018-11-28 11:53:24 +0000,1,Petty,C,Centre Pass,3,43,33,50, 100
+2018-11-28 11:53:24 +0000,1,de Bruin,GD,Assist - Centre Pass Rec,3,43,33,57, 87
+2018-11-28 11:53:26 +0000,0,Simpson,WD,Gain - Inter,3,43,33,77, 104
+2018-11-28 11:53:34 +0000,0,Aiken,GS,Possession,3,43,33,76, 48
+2018-11-28 11:53:39 +0000,0,Simpson,WD,Possession,3,43,33,80, 71
+2018-11-28 11:53:41 +0000,0,Cassidy,C,Possession,3,43,33,78, 58
+2018-11-28 11:53:43 +0000,0,Nevins,WA,Possession,3,43,33,62, 47
+2018-11-28 11:53:45 +0000,1,Petty,C,Penaly - Contact,3,43,33,62, 47
+2018-11-28 11:53:45 +0000,0,Nevins,WA,Possession,3,43,33,62, 47
+2018-11-28 11:54:08 +0000,0,Nevins,WA,Assist - Circle Entry,3,43,33,62, 47
+2018-11-28 11:54:08 +0000,0,Tippett,GA,Possession,3,43,33,57, 21
+2018-11-28 11:54:12 +0000,0,Aiken,GS,Possession,3,43,33,52, 9
+2018-11-28 11:54:12 +0000,1,Shimmin,GK,Penaly - Contact,3,43,33,52, 9
+2018-11-28 11:54:12 +0000,0,Aiken,GS,Goal - Score,3,43,33,52, 9
+2018-11-28 11:54:24 +0000,0,Cassidy,C,Centre Pass,3,44,33,50, 100
+2018-11-28 11:54:24 +0000,0,Tippett,GA,Assist - Centre Pass Rec,3,44,33,30, 79
+2018-11-28 11:54:28 +0000,0,Nevins,WA,Assist - 2nd Phase,3,44,33,7, 51
+2018-11-28 11:54:29 +0000,0,Tippett,GA,Possession,3,44,33,32, 49
+2018-11-28 11:54:32 +0000,0,Tippett,GA,Assist - Circle Entry,3,44,33,32, 49
+2018-11-28 11:54:32 +0000,0,Aiken,GS,Possession,3,44,33,66, 22
+2018-11-28 11:54:33 +0000,0,Cassidy,C,Possession,3,44,33,72, 28
+2018-11-28 11:54:35 +0000,0,Cassidy,C,Assist - Circle Entry,3,44,33,72, 28
+2018-11-28 11:54:35 +0000,0,Aiken,GS,Goal - Miss,3,44,33,56, 9
+2018-11-28 11:54:43 +0000,1,Shimmin,GK,Gain - Def Reb,3,44,33,50, 2
+2018-11-28 11:54:44 +0000,1,Fowler,WD,Possession,3,44,33,32, 31
+2018-11-28 11:54:47 +0000,1,Petty,C,Possession,3,44,33,45, 72
+2018-11-28 11:54:50 +0000,1,Pitman,GA,Possession,3,44,33,16, 113
+2018-11-28 11:54:59 +0000,0,Hinchliffe,GD,Gain - Tip (Deflect),3,44,33,23, 118
+2018-11-28 11:55:03 +0000,0,Nevins,WA,Possession,3,44,33,46, 113
+2018-11-28 11:55:07 +0000,0,Simpson,WD,Possession,3,44,33,61, 88
+2018-11-28 11:55:08 +0000,0,Hinchliffe,GD,Possession,3,44,33,30, 77
+2018-11-28 11:55:41 +0000,0,Nevins,WA,Possession,3,44,33,41, 48
+2018-11-28 11:55:43 +0000,0,Nevins,WA,Assist - Circle Entry,3,44,33,41, 48
+2018-11-28 11:55:43 +0000,0,Aiken,GS,Possession,3,44,33,43, 22
+2018-11-28 11:55:46 +0000,0,Nevins,WA,Possession,3,44,33,32, 32
+2018-11-28 11:55:49 +0000,0,Nevins,WA,Assist - Circle Entry,3,44,33,32, 32
+2018-11-28 11:55:49 +0000,0,Tippett,GA,Possession,3,44,33,54, 8
+2018-11-28 11:55:50 +0000,1,Shimmin,GK,Penaly - Contact,3,44,33,54, 8
+2018-11-28 11:55:50 +0000,0,Tippett,GA,Goal - Score,3,44,33,54, 8
+2018-11-28 11:56:17 +0000,1,Petty,C,Centre Pass,3,45,33,50, 100
+2018-11-28 11:56:17 +0000,0,Simpson,WD,Gain - Tip (Deflect),3,45,33,48, 121
+2018-11-28 11:56:23 +0000,0,Tippett,GA,Possession,3,45,33,66, 92
+2018-11-28 11:56:29 +0000,0,Simpson,WD,Possession,3,45,33,74, 73
+2018-11-28 11:56:31 +0000,0,Aiken,GS,Possession,3,45,33,77, 32
+2018-11-28 11:56:41 +0000,0,Simpson,WD,Possession,3,45,33,76, 69
+2018-11-28 11:56:43 +0000,0,Cassidy,C,Possession,3,45,33,84, 44
+2018-11-28 11:56:45 +0000,0,Tippett,GA,Possession,3,45,33,72, 28
+2018-11-28 11:56:47 +0000,0,Cassidy,C,Possession,3,45,33,74, 26
+2018-11-28 11:56:52 +0000,0,Cassidy,C,Assist - Circle Entry,3,45,33,74, 26
+2018-11-28 11:56:52 +0000,0,Aiken,GS,Goal - Score,3,45,33,55, 3
+2018-11-28 11:57:04 +0000,0,Cassidy,C,Centre Pass,3,46,33,50, 100
+2018-11-28 11:57:04 +0000,0,Tippett,GA,Assist - Centre Pass Rec,3,46,33,26, 74
+2018-11-28 11:57:06 +0000,0,Nevins,WA,Assist - 2nd Phase,3,46,33,9, 59
+2018-11-28 11:57:08 +0000,0,Tippett,GA,Possession,3,46,33,31, 53
+2018-11-28 11:57:10 +0000,0,Tippett,GA,Assist - Circle Entry,3,46,33,31, 53
+2018-11-28 11:57:10 +0000,0,Aiken,GS,Possession,3,46,33,40, 18
+2018-11-28 11:57:12 +0000,1,de Bruin,GD,Penaly - Contact,3,46,33,40, 18
+2018-11-28 11:57:12 +0000,0,Tippett,GA,Goal - Score,3,46,33,40, 18
+2018-11-28 11:57:28 +0000,1,Petty,C,Centre Pass,3,47,33,50, 100
+2018-11-28 11:57:28 +0000,1,de Bruin,GD,Assist - Centre Pass Rec,3,47,33,61, 81
+2018-11-28 11:57:32 +0000,1,Msomi,WA,Assist - 2nd Phase,3,47,33,80, 106
+2018-11-28 11:57:34 +0000,1,de Bruin,GD,Possession,3,47,33,61, 96
+2018-11-28 11:57:37 +0000,1,Pitman,GA,Possession,3,47,33,51, 112
+2018-11-28 11:57:41 +0000,1,Fowler,WD,Possession,3,47,33,6, 127
+2018-11-28 11:57:46 +0000,1,Petty,C,Possession,3,47,33,10, 189
+2018-11-28 11:57:49 +0000,1,Petty,C,Assist - Circle Entry,3,47,33,10, 189
+2018-11-28 11:57:49 +0000,1,Nelson,GS,Goal - Score,3,47,33,42, 194
+2018-11-28 11:57:59 +0000,0,Cassidy,C,Centre Pass,3,47,34,50, 100
+2018-11-28 11:57:59 +0000,0,Nevins,WA,Assist - Centre Pass Rec,3,47,34,9, 73
+2018-11-28 11:58:01 +0000,0,Aiken,GS,Assist - 2nd Phase,3,47,34,11, 46
+2018-11-28 11:58:03 +0000,0,Aiken,GS,Assist - Circle Entry,3,47,34,11, 46
+2018-11-28 11:58:03 +0000,0,Tippett,GA,Possession,3,47,34,28, 19
+2018-11-28 11:58:06 +0000,0,Nevins,WA,Possession,3,47,34,27, 27
+2018-11-28 11:58:09 +0000,0,Nevins,WA,Assist - Circle Entry,3,47,34,27, 27
+2018-11-28 11:58:09 +0000,0,Aiken,GS,Possession,3,47,34,42, 3
+2018-11-28 11:58:13 +0000,0,Nevins,WA,Possession,3,47,34,14, 9
+2018-11-28 11:58:15 +0000,1,Petty,C,Penaly - Contact,3,47,34,14, 9
+2018-11-28 11:58:15 +0000,0,Nevins,WA,Possession,3,47,34,14, 9
+2018-11-28 11:58:21 +0000,0,Nevins,WA,Assist - Circle Entry,3,47,34,14, 9
+2018-11-28 11:58:21 +0000,0,Tippett,GA,Possession,3,47,34,41, 7
+2018-11-28 11:58:26 +0000,1,Shimmin,GK,Penaly - Contact,3,47,34,41, 7
+2018-11-28 11:58:26 +0000,0,Tippett,GA,Goal - Score,3,47,34,41, 7
+2018-11-28 11:58:37 +0000,1,Petty,C,Centre Pass,3,48,34,50, 100
+2018-11-28 11:58:37 +0000,1,Msomi,WA,Assist - Centre Pass Rec,3,48,34,9, 123
+2018-11-28 11:58:39 +0000,1,Pitman,GA,Assist - 2nd Phase,3,48,34,7, 145
+2018-11-28 11:58:41 +0000,1,Petty,C,Possession,3,48,34,33, 167
+2018-11-28 11:58:44 +0000,1,Petty,C,Assist - Circle Entry,3,48,34,33, 167
+2018-11-28 11:58:44 +0000,1,Nelson,GS,Possession,3,48,34,53, 191
+2018-11-28 11:58:47 +0000,0,Geitz,GK,Penaly - Obstruction,3,48,34,53, 191
+2018-11-28 11:58:47 +0000,1,Nelson,GS,Goal - Score,3,48,34,53, 191
+2018-11-28 11:58:56 +0000,0,Cassidy,C,Centre Pass,3,48,35,50, 100
+2018-11-28 11:58:56 +0000,0,Simpson,WD,Assist - Centre Pass Rec,3,48,35,68, 101
+2018-11-28 11:58:58 +0000,0,Cassidy,C,Assist - 2nd Phase,3,48,35,72, 71
+2018-11-28 11:59:00 +0000,0,Cassidy,C,Assist - Circle Entry,3,48,35,72, 71
+2018-11-28 11:59:00 +0000,0,Aiken,GS,Goal - Miss,3,48,35,51, 5
+2018-11-28 11:59:06 +0000,0,Aiken,GS,Assist - Attack Rebound,3,48,35,50, 2
+2018-11-28 11:59:11 +0000,0,Aiken,GS,Goal - Miss,3,48,35,51, 5
+2018-11-28 11:59:11 +0000,0,Aiken,GS,Assist - Attack Rebound,3,48,35,50, 2
+2018-11-28 11:59:14 +0000,0,Aiken,GS,Goal - Score,3,48,35,51, 5
+2018-11-28 11:59:28 +0000,1,Petty,C,Centre Pass,3,49,35,50, 100
+2018-11-28 11:59:28 +0000,0,Cassidy,C,Penaly - Contact on CP,3,49,35,48, 130
+2018-11-28 11:59:28 +0000,1,Petty,C,Possession,3,49,35,48, 130
+2018-11-28 11:59:57 +0000,1,Msomi,WA,Assist - 2nd Phase,3,49,35,24, 146
+2018-11-28 12:00:01 +0000,1,Pitman,GA,Possession,3,49,35,13, 177
+2018-11-28 12:00:06 +0000,0,Hinchliffe,GD,Deflect,3,49,35,16, 168
+2018-11-28 12:00:06 +0000,1,Pitman,GA,Possession,3,49,35,17, 177
+2018-11-28 12:00:15 +0000,1,Pitman,GA,Assist - Circle Entry,3,49,35,17, 177
+2018-11-28 12:00:15 +0000,1,Nelson,GS,Possession,3,49,35,38, 191
+2018-11-28 12:00:19 +0000,0,Geitz,GK,Penaly - Contact,3,49,35,38, 191
+2018-11-28 12:00:19 +0000,1,Pitman,GA,Possession,3,49,35,38, 191
+2018-11-28 12:00:25 +0000,1,Nelson,GS,Possession,3,49,35,53, 193
+2018-11-28 12:00:25 +0000,0,Hinchliffe,GD,Penaly - Contact,3,49,35,53, 193
+2018-11-28 12:00:25 +0000,1,Nelson,GS,Possession,3,49,35,53, 193
+2018-11-28 12:00:31 +0000,0,Geitz,GK,Penaly - Contact,3,49,35,53, 193
+2018-11-28 12:00:31 +0000,1,Nelson,GS,Goal - Score,3,49,35,53, 193
+2018-11-28 12:00:40 +0000,0,Cassidy,C,Centre Pass,3,49,36,50, 100
+2018-11-28 12:00:40 +0000,0,Nevins,WA,Assist - Centre Pass Rec,3,49,36,10, 82
+2018-11-28 12:00:42 +0000,0,Cassidy,C,Assist - 2nd Phase,3,49,36,19, 59
+2018-11-28 12:01:04 +0000,0,Nevins,WA,Possession,3,49,36,14, 48
+2018-11-28 12:01:06 +0000,0,Cassidy,C,Possession,3,49,36,15, 21
+2018-11-28 12:01:09 +0000,0,Cassidy,C,Assist - Circle Entry,3,49,36,15, 21
+2018-11-28 12:01:10 +0000,0,Aiken,GS,Possession,3,49,36,51, 5
+2018-11-28 12:01:13 +0000,1,de Bruin,GD,Penaly - Contact,3,49,36,51, 5
+2018-11-28 12:01:13 +0000,0,Aiken,GS,Goal - Score,3,49,36,51, 5
+2018-11-28 12:02:59 +0000,1,Petty,C,Centre Pass,3,50,36,50, 100
+2018-11-28 12:02:59 +0000,1,Pitman,GA,Assist - Centre Pass Rec,3,50,36,12, 126
+2018-11-28 12:03:05 +0000,0,Hinchliffe,GD,Deflect,3,50,36,22, 147
+2018-11-28 12:03:05 +0000,1,Petty,C,Possession,3,50,36,31, 158
+2018-11-28 12:03:14 +0000,1,Petty,C,Assist - Circle Entry,3,50,36,31, 158
+2018-11-28 12:03:14 +0000,1,Nelson,GS,Loss - Drop,3,50,36,43, 194
+2018-11-28 12:03:19 +0000,0,Hinchliffe,GD,Gain - Pick-up,3,50,36,38, 191
+2018-11-28 12:03:26 +0000,0,Cassidy,C,Possession,3,50,36,51, 164
+2018-11-28 12:03:29 +0000,0,Hinchliffe,GD,Possession,3,50,36,48, 128
+2018-11-28 12:03:31 +0000,0,Tippett,GA,Possession,3,50,36,50, 76
+2018-11-28 12:03:33 +0000,0,Nevins,WA,Possession,3,50,36,69, 70
+2018-11-28 12:03:36 +0000,0,Aiken,GS,Possession,3,50,36,77, 31
+2018-11-28 12:03:52 +0000,0,Nevins,WA,Loss - Offside,3,50,36,69, 23
+2018-11-28 12:04:03 +0000,1,Shimmin,GK,Possession,3,50,36,68, 22
+2018-11-28 12:04:15 +0000,1,de Bruin,GD,Possession,3,50,36,77, 40
+2018-11-28 12:04:17 +0000,1,Fowler,WD,Possession,3,50,36,15, 106
+2018-11-28 12:04:19 +0000,1,Msomi,WA,Possession,3,50,36,13, 148
+2018-11-28 12:04:22 +0000,1,Petty,C,Possession,3,50,36,31, 167
+2018-11-28 12:04:24 +0000,1,Msomi,WA,Possession,3,50,36,16, 186
+2018-11-28 12:04:27 +0000,1,Msomi,WA,Assist - Circle Entry,3,50,36,16, 186
+2018-11-28 12:04:27 +0000,1,Pitman,GA,Possession,3,50,36,76, 190
+2018-11-28 12:04:36 +0000,1,Petty,C,Possession,3,50,36,69, 152
+2018-11-28 12:04:55 +0000,1,Petty,C,Assist - Circle Entry,3,50,36,69, 152
+2018-11-28 12:04:55 +0000,1,Pitman,GA,Possession,3,50,36,56, 184
+2018-11-28 12:04:57 +0000,1,Petty,C,Possession,3,50,36,51, 164
+2018-11-28 12:04:59 +0000,1,Petty,C,Assist - Circle Entry,3,50,36,51, 164
+2018-11-28 12:04:59 +0000,1,Pitman,GA,Possession,3,50,36,51, 177
+2018-11-28 12:05:01 +0000,0,Hinchliffe,GD,Penaly - Contact,3,50,36,51, 177
+2018-11-28 12:05:01 +0000,1,Pitman,GA,Possession,3,50,36,51, 177
+2018-11-28 12:05:07 +0000,0,Geitz,GK,Gain - Inter,3,50,36,47, 190
+2018-11-28 12:05:14 +0000,0,Cassidy,C,Possession,3,50,36,35, 150
+2018-11-28 12:05:17 +0000,0,Tippett,GA,Possession,3,50,36,58, 107
+2018-11-28 12:05:20 +0000,0,Tippett,GA,Assist - Circle Entry,3,50,36,58, 107
+2018-11-28 12:05:20 +0000,0,Aiken,GS,Possession,3,50,36,69, 14
+2018-11-28 12:05:22 +0000,0,Cassidy,C,Possession,3,50,36,84, 16
+2018-11-28 12:05:24 +0000,0,Cassidy,C,Assist - Circle Entry,3,50,36,84, 16
+2018-11-28 12:05:24 +0000,0,Aiken,GS,Possession,3,50,36,58, 7
+2018-11-28 12:05:29 +0000,0,Nevins,WA,Possession,3,50,36,25, 26
+2018-11-28 12:05:32 +0000,0,Nevins,WA,Assist - Circle Entry,3,50,36,25, 26
+2018-11-28 12:05:32 +0000,0,Aiken,GS,Possession,3,50,36,36, 16
+2018-11-28 12:05:36 +0000,0,Nevins,WA,Possession,3,50,36,24, 27
+2018-11-28 12:05:49 +0000,1,Shimmin,GK,Deflect,3,50,36,64, 13
+2018-11-28 12:05:49 +0000,0,Cassidy,C,Throw In,3,50,36,102, 17
+2018-11-28 12:05:57 +0000,0,Tippett,GA,Possession,3,50,36,70, 48
+2018-11-28 12:05:59 +0000,0,Cassidy,C,Possession,3,50,36,79, 32
+2018-11-28 12:06:05 +0000,0,Tippett,GA,Possession,3,50,36,60, 34
+2018-11-28 12:06:07 +0000,0,Tippett,GA,Assist - Circle Entry,3,50,36,60, 34
+2018-11-28 12:06:07 +0000,0,Aiken,GS,Possession,3,50,36,40, 12
+2018-11-28 12:06:09 +0000,1,de Bruin,GD,Penaly - Obstruction,3,50,36,40, 12
+2018-11-28 12:06:09 +0000,0,Aiken,GS,Goal - Score,3,50,36,40, 12
+2018-11-28 12:06:25 +0000,0,Cassidy,C,Centre Pass,3,51,36,50, 100
+2018-11-28 12:06:25 +0000,0,Tippett,GA,Assist - Centre Pass Rec,3,51,36,69, 71
+2018-11-28 12:07:00 +0000,0,Nelson,UNKNOWN,Interchange - Tuivaiti,4,51,36,
+2018-11-28 12:07:00 +0000,0,Pitman,UNKNOWN,Interchange - Latu-Meafou,4,51,36,
+2018-11-28 12:07:00 +0000,0,Petty,UNKNOWN,Interchange - Bryce,4,51,36,
+2018-11-28 12:07:07 +0000,1,Bryce,C,Centre Pass,4,51,36,50, 100
+2018-11-28 12:07:07 +0000,1,Msomi,WA,Assist - Centre Pass Rec,4,51,36,75, 102
+2018-11-28 12:07:08 +0000,1,de Bruin,GD,Assist - 2nd Phase,4,51,36,44, 89
+2018-11-28 12:07:12 +0000,0,Hinchliffe,GD,Gain - Inter,4,51,36,81, 169
+2018-11-28 12:07:23 +0000,0,Nevins,WA,Possession,4,51,36,87, 126
+2018-11-28 12:07:27 +0000,0,Cassidy,C,Possession,4,51,36,64, 120
+2018-11-28 12:07:29 +0000,0,Simpson,WD,Possession,4,51,36,77, 125
+2018-11-28 12:07:31 +0000,0,Hinchliffe,GD,Possession,4,51,36,93, 107
+2018-11-28 12:07:32 +0000,0,Simpson,WD,Possession,4,51,36,80, 98
+2018-11-28 12:07:35 +0000,0,Tippett,GA,Possession,4,51,36,64, 77
+2018-11-28 12:07:38 +0000,0,Nevins,WA,Possession,4,51,36,87, 56
+2018-11-28 12:07:41 +0000,0,Nevins,WA,Assist - Circle Entry,4,51,36,87, 56
+2018-11-28 12:07:41 +0000,0,Aiken,GS,Possession,4,51,36,64, 19
+2018-11-28 12:07:43 +0000,0,Nevins,WA,Possession,4,51,36,40, 36
+2018-11-28 12:07:47 +0000,0,Nevins,WA,Assist - Circle Entry,4,51,36,40, 36
+2018-11-28 12:07:47 +0000,0,Aiken,GS,Goal - Score,4,51,36,53, 6
+2018-11-28 12:07:58 +0000,0,Cassidy,C,Centre Pass,4,52,36,50, 100
+2018-11-28 12:07:58 +0000,0,Tippett,GA,Assist - Centre Pass Rec,4,52,36,85, 71
+2018-11-28 12:08:00 +0000,0,Cassidy,C,Assist - 2nd Phase,4,52,36,69, 69
+2018-11-28 12:08:03 +0000,0,Tippett,GA,Possession,4,52,36,78, 39
+2018-11-28 12:11:33 +0000,0,Tippett,GA,Assist - Circle Entry,4,52,36,78, 39
+2018-11-28 12:11:33 +0000,0,Aiken,GS,Possession,4,52,36,50, 21
+2018-11-28 12:11:40 +0000,1,de Bruin,GD,Penaly - Obstruction,4,52,36,50, 21
+2018-11-28 12:11:40 +0000,0,Tippett,GA,Possession,4,52,36,50, 21
+2018-11-28 12:11:46 +0000,0,Aiken,GS,Goal - Score,4,52,36,45, 8
+2018-11-28 12:11:56 +0000,1,Bryce,C,Centre Pass,4,53,36,50, 100
+2018-11-28 12:11:56 +0000,1,Msomi,WA,Assist - Centre Pass Rec,4,53,36,71, 119
+2018-11-28 12:12:03 +0000,1,Msomi,WA,Assist - Circle Entry,4,53,36,71, 119
+2018-11-28 12:12:03 +0000,1,Tuivaiti,GS,Assist - 2nd Phase,4,53,36,78, 195
+2018-11-28 12:12:05 +0000,1,Bryce,C,Possession,4,53,36,80, 180
+2018-11-28 12:12:09 +0000,1,Msomi,WA,Possession,4,53,36,73, 170
+2018-11-28 12:12:11 +0000,1,Latu-Meafou,GA,Possession,4,53,36,34, 167
+2018-11-28 12:12:13 +0000,1,Msomi,WA,Possession,4,53,36,71, 169
+2018-11-28 12:12:15 +0000,1,Msomi,WA,Assist - Circle Entry,4,53,36,71, 169
+2018-11-28 12:12:15 +0000,1,Tuivaiti,GS,Possession,4,53,36,61, 193
+2018-11-28 12:12:18 +0000,1,Bryce,C,Possession,4,53,36,21, 179
+2018-11-28 12:12:21 +0000,1,Bryce,C,Assist - Circle Entry,4,53,36,21, 179
+2018-11-28 12:12:21 +0000,1,Latu-Meafou,GA,Goal - Score,4,53,36,42, 188
+2018-11-28 12:12:36 +0000,0,Cassidy,C,Centre Pass,4,53,37,50, 100
+2018-11-28 12:12:36 +0000,0,Tippett,GA,Assist - Centre Pass Rec,4,53,37,92, 73
+2018-11-28 12:12:38 +0000,0,Nevins,WA,Assist - 2nd Phase,4,53,37,77, 48
+2018-11-28 12:12:40 +0000,0,Tippett,GA,Possession,4,53,37,88, 36
+2018-11-28 12:12:42 +0000,0,Cassidy,C,Possession,4,53,37,23, 22
+2018-11-28 12:12:44 +0000,0,Cassidy,C,Assist - Circle Entry,4,53,37,23, 22
+2018-11-28 12:12:44 +0000,0,Aiken,GS,Possession,4,53,37,43, 18
+2018-11-28 12:12:46 +0000,0,Nevins,WA,Possession,4,53,37,83, 9
+2018-11-28 12:12:49 +0000,0,Nevins,WA,Assist - Circle Entry,4,53,37,83, 9
+2018-11-28 12:12:49 +0000,0,Tippett,GA,Goal - Miss,4,53,37,60, 5
+2018-11-28 12:12:56 +0000,1,Shimmin,GK,Gain - Def Reb,4,53,37,50, 2
+2018-11-28 12:12:56 +0000,0,Aiken,GS,Penaly - Contact,4,53,37,50, 2
+2018-11-28 12:12:56 +0000,1,Shimmin,GK,Possession,4,53,37,50, 2
+2018-11-28 12:13:03 +0000,1,Bryce,C,Possession,4,53,37,92, 73
+2018-11-28 12:13:06 +0000,1,Msomi,WA,Possession,4,53,37,96, 130
+2018-11-28 12:13:09 +0000,1,Latu-Meafou,GA,Possession,4,53,37,91, 155
+2018-11-28 12:13:12 +0000,1,Latu-Meafou,GA,Assist - Circle Entry,4,53,37,91, 155
+2018-11-28 12:13:12 +0000,1,Tuivaiti,GS,Possession,4,53,37,78, 187
+2018-11-28 12:13:38 +0000,0,Cassidy,C,Penaly - Contact,4,53,37,71, 172
+2018-11-28 12:13:38 +0000,1,Msomi,WA,Possession,4,53,37,71, 172
+2018-11-28 12:14:22 +0000,1,Msomi,WA,Assist - Circle Entry,4,53,37,71, 172
+2018-11-28 12:14:22 +0000,0,Geitz,GK,Gain - Tip (Deflect),4,53,37,54, 185
+2018-11-28 12:14:39 +0000,0,Simpson,WD,Loss - Out of Court,4,53,37,2, 141
+2018-11-28 12:14:45 +0000,1,Bryce,C,Throw In,4,53,37,1, 141
+2018-11-28 12:14:51 +0000,1,Fowler,WD,Possession,4,53,37,16, 129
+2018-11-28 12:14:54 +0000,1,Bryce,C,Possession,4,53,37,20, 151
+2018-11-28 12:14:56 +0000,1,Bryce,C,Assist - Circle Entry,4,53,37,20, 151
+2018-11-28 12:14:56 +0000,1,Tuivaiti,GS,Possession,4,53,37,36, 178
+2018-11-28 12:14:59 +0000,1,Msomi,WA,Possession,4,53,37,84, 185
+2018-11-28 12:15:03 +0000,1,Msomi,WA,Assist - Circle Entry,4,53,37,84, 185
+2018-11-28 12:15:03 +0000,1,Latu-Meafou,GA,Possession,4,53,37,65, 190
+2018-11-28 12:15:05 +0000,0,Geitz,GK,Penaly - Contact,4,53,37,65, 190
+2018-11-28 12:15:05 +0000,1,Latu-Meafou,GA,Goal - Score,4,53,37,65, 190
+2018-11-28 12:15:17 +0000,1,Bryce,C,Centre Pass,4,53,38,50, 100
+2018-11-28 12:15:17 +0000,1,Latu-Meafou,GA,Assist - Centre Pass Rec,4,53,38,32, 129
+2018-11-28 12:15:23 +0000,0,Simpson,WD,Gain - Inter,4,53,38,5, 168
+2018-11-28 12:15:26 +0000,0,Cassidy,C,Possession,4,53,38,47, 145
+2018-11-28 12:15:31 +0000,0,Tippett,GA,Possession,4,53,38,44, 125
+2018-11-28 12:15:33 +0000,0,Geitz,GK,Possession,4,53,38,62, 137
+2018-11-28 12:15:37 +0000,0,Tippett,GA,Possession,4,53,38,75, 114
+2018-11-28 12:15:41 +0000,0,Nevins,WA,Possession,4,53,38,59, 82
+2018-11-28 12:15:42 +0000,0,Hinchliffe,GD,Possession,4,53,38,95, 84
+2018-11-28 12:15:45 +0000,0,Nevins,WA,Possession,4,53,38,82, 63
+2018-11-28 12:15:49 +0000,0,Cassidy,C,Possession,4,53,38,59, 49
+2018-11-28 12:15:53 +0000,0,Cassidy,C,Assist - Circle Entry,4,53,38,59, 49
+2018-11-28 12:15:53 +0000,0,Aiken,GS,Possession,4,53,38,57, 18
+2018-11-28 12:15:55 +0000,0,Simpson,WD,Possession,4,53,38,45, 69
+2018-11-28 12:15:57 +0000,0,Nevins,WA,Possession,4,53,38,27, 46
+2018-11-28 12:16:02 +0000,0,Nevins,WA,Assist - Circle Entry,4,53,38,27, 46
+2018-11-28 12:16:02 +0000,0,Aiken,GS,Possession,4,53,38,49, 20
+2018-11-28 12:16:04 +0000,0,Tippett,GA,Possession,4,53,38,19, 20
+2018-11-28 12:16:06 +0000,0,Cassidy,C,Possession,4,53,38,29, 34
+2018-11-28 12:16:08 +0000,1,Bryce,C,Penaly - Contact,4,53,38,29, 34
+2018-11-28 12:16:08 +0000,0,Cassidy,C,Possession,4,53,38,29, 34
+2018-11-28 12:16:11 +0000,0,Cassidy,C,Assist - Circle Entry,4,53,38,29, 34
+2018-11-28 12:16:12 +0000,0,Tippett,GA,Possession,4,53,38,38, 16
+2018-11-28 12:16:15 +0000,0,Cassidy,C,Possession,4,53,38,26, 28
+2018-11-28 12:16:17 +0000,0,Cassidy,C,Assist - Circle Entry,4,53,38,26, 28
+2018-11-28 12:16:17 +0000,0,Tippett,GA,Goal - Score,4,53,38,44, 10
+2018-11-28 12:16:40 +0000,0,Cassidy,C,Centre Pass,4,54,38,50, 100
+2018-11-28 12:16:40 +0000,0,Nevins,WA,Loss - Break,4,54,38,55, 67
+2018-11-28 12:16:44 +0000,1,Fowler,WD,Possession,4,54,38,56, 66
+2018-11-28 12:16:52 +0000,1,de Bruin,GD,Possession,4,54,38,29, 96
+2018-11-28 12:17:37 +0000,0,Tippett,GA,Deflect,4,54,38,29, 108
+2018-11-28 12:17:37 +0000,1,de Bruin,GD,Deflect,4,54,38,44, 102
+2018-11-28 12:18:55 +0000,1,Msomi,WA,Possession,4,54,38,63, 139
+2018-11-28 12:18:57 +0000,0,Simpson,WD,Penaly - Contact,4,54,38,63, 139
+2018-11-28 12:18:57 +0000,1,Msomi,WA,Possession,4,54,38,63, 139
+2018-11-28 12:19:37 +0000,1,Bryce,C,Possession,4,54,38,23, 174
+2018-11-28 12:19:39 +0000,1,Bryce,C,Assist - Circle Entry,4,54,38,23, 174
+2018-11-28 12:19:39 +0000,1,Latu-Meafou,GA,Possession,4,54,38,80, 194
+2018-11-28 12:19:41 +0000,1,Bryce,C,Possession,4,54,38,68, 168
+2018-11-28 12:19:43 +0000,1,Bryce,C,Assist - Circle Entry,4,54,38,68, 168
+2018-11-28 12:19:43 +0000,1,Latu-Meafou,GA,Possession,4,54,38,53, 184
+2018-11-28 12:19:45 +0000,0,Hinchliffe,GD,Penaly - Obstruction,4,54,38,53, 184
+2018-11-28 12:19:45 +0000,1,Latu-Meafou,GA,Goal - Score,4,54,38,53, 184
+2018-11-28 12:19:53 +0000,1,Bryce,C,Centre Pass,4,54,39,50, 100
+2018-11-28 12:19:53 +0000,1,Latu-Meafou,GA,Assist - Centre Pass Rec,4,54,39,26, 123
+2018-11-28 12:19:56 +0000,1,de Bruin,GD,Assist - 2nd Phase,4,54,39,24, 100
+2018-11-28 12:20:00 +0000,0,Simpson,WD,Penaly - Contact,4,54,39,48, 138
+2018-11-28 12:20:00 +0000,1,Msomi,WA,Possession,4,54,39,48, 138
+2018-11-28 12:20:06 +0000,1,Latu-Meafou,GA,Possession,4,54,39,59, 161
+2018-11-28 12:20:08 +0000,1,Bryce,C,Possession,4,54,39,16, 178
+2018-11-28 12:20:12 +0000,1,Bryce,C,Assist - Circle Entry,4,54,39,16, 178
+2018-11-28 12:20:12 +0000,0,Geitz,GK,Gain - Inter,4,54,39,50, 177
+2018-11-28 12:20:16 +0000,0,Simpson,WD,Possession,4,54,39,31, 147
+2018-11-28 12:20:21 +0000,0,Cassidy,C,Possession,4,54,39,40, 137
+2018-11-28 12:20:24 +0000,0,Tippett,GA,Possession,4,54,39,18, 81
+2018-11-28 12:20:29 +0000,0,Simpson,WD,Possession,4,54,39,16, 100
+2018-11-28 12:20:31 +0000,0,Cassidy,C,Possession,4,54,39,15, 67
+2018-11-28 12:20:33 +0000,0,Tippett,GA,Possession,4,54,39,39, 59
+2018-11-28 12:20:35 +0000,0,Tippett,GA,Assist - Circle Entry,4,54,39,39, 59
+2018-11-28 12:20:35 +0000,0,Aiken,GS,Goal - Score,4,54,39,55, 12
+2018-11-28 12:20:46 +0000,0,Cassidy,C,Centre Pass,4,55,39,50, 100
+2018-11-28 12:20:46 +0000,0,Tippett,GA,Assist - Centre Pass Rec,4,55,39,49, 72
+2018-11-28 12:20:48 +0000,0,Cassidy,C,Assist - 2nd Phase,4,55,39,79, 72
+2018-11-28 12:20:50 +0000,0,Nevins,WA,Possession,4,55,39,58, 50
+2018-11-28 12:21:07 +0000,0,Cassidy,C,Possession,4,55,39,43, 41
+2018-11-28 12:21:09 +0000,1,Bryce,C,Penaly - Contact,4,55,39,43, 41
+2018-11-28 12:21:09 +0000,0,Cassidy,C,Possession,4,55,39,43, 41
+2018-11-28 12:21:14 +0000,0,Nevins,WA,Possession,4,55,39,23, 23
+2018-11-28 12:21:16 +0000,0,Nevins,WA,Assist - Circle Entry,4,55,39,23, 23
+2018-11-28 12:21:16 +0000,0,Tippett,GA,Goal - Score,4,55,39,44, 6
+2018-11-28 12:21:30 +0000,1,Bryce,C,Centre Pass,4,56,39,50, 100
+2018-11-28 12:21:30 +0000,1,Msomi,WA,Assist - Centre Pass Rec,4,56,39,16, 130
+2018-11-28 12:21:38 +0000,1,de Bruin,GD,Assist - 2nd Phase,4,56,39,71, 119
+2018-11-28 12:21:40 +0000,1,Msomi,WA,Possession,4,56,39,46, 128
+2018-11-28 12:21:42 +0000,1,Bryce,C,Possession,4,56,39,86, 193
+2018-11-28 12:21:44 +0000,1,Bryce,C,Assist - Circle Entry,4,56,39,86, 193
+2018-11-28 12:21:44 +0000,1,Latu-Meafou,GA,Possession,4,56,39,41, 193
+2018-11-28 12:21:48 +0000,0,Geitz,GK,Penaly - Contact,4,56,39,41, 193
+2018-11-28 12:21:48 +0000,1,Latu-Meafou,GA,Goal - Score,4,56,39,41, 193
+2018-11-28 12:21:57 +0000,0,Cassidy,C,Centre Pass,4,56,40,50, 100
+2018-11-28 12:21:58 +0000,0,Tippett,GA,Assist - Centre Pass Rec,4,56,40,90, 74
+2018-11-28 12:22:01 +0000,0,Hinchliffe,GD,Assist - 2nd Phase,4,56,40,81, 82
+2018-11-28 12:22:03 +0000,0,Nevins,WA,Possession,4,56,40,86, 61
+2018-11-28 12:22:06 +0000,0,Tippett,GA,Possession,4,56,40,78, 46
+2018-11-28 12:22:09 +0000,0,Cassidy,C,Possession,4,56,40,62, 32
+2018-11-28 12:22:11 +0000,0,Cassidy,C,Assist - Circle Entry,4,56,40,62, 32
+2018-11-28 12:22:11 +0000,0,Aiken,GS,Possession,4,56,40,65, 8
+2018-11-28 12:22:14 +0000,0,Cassidy,C,Possession,4,56,40,67, 30
+2018-11-28 12:22:16 +0000,0,Cassidy,C,Assist - Circle Entry,4,56,40,67, 30
+2018-11-28 12:22:17 +0000,0,Tippett,GA,Goal - Score,4,56,40,59, 11
+2018-11-28 12:22:30 +0000,1,Bryce,C,Centre Pass,4,57,40,50, 100
+2018-11-28 12:22:30 +0000,1,Msomi,WA,Assist - Centre Pass Rec,4,57,40,50, 113
+2018-11-28 12:22:33 +0000,1,Latu-Meafou,GA,Assist - 2nd Phase,4,57,40,41, 147
+2018-11-28 12:22:42 +0000,1,Tuivaiti,GS,Possession,4,57,40,14, 193
+2018-11-28 12:22:46 +0000,1,Fowler,WD,Possession,4,57,40,83, 127
+2018-11-28 12:22:49 +0000,1,Msomi,WA,Possession,4,57,40,72, 152
+2018-11-28 12:22:53 +0000,1,Msomi,WA,Assist - Circle Entry,4,57,40,72, 152
+2018-11-28 12:22:54 +0000,1,Latu-Meafou,GA,Possession,4,57,40,36, 173
+2018-11-28 12:22:56 +0000,1,Tuivaiti,GS,Possession,4,57,40,48, 188
+2018-11-28 12:22:57 +0000,0,Geitz,GK,Penaly - Contact,4,57,40,48, 188
+2018-11-28 12:22:57 +0000,1,Tuivaiti,GS,Goal - Score,4,57,40,48, 188
+2018-11-28 12:23:04 +0000,0,Cassidy,C,Centre Pass,4,57,41,50, 100
+2018-11-28 12:23:04 +0000,0,Nevins,WA,Assist - Centre Pass Rec,4,57,41,83, 73
+2018-11-28 12:23:07 +0000,0,Tippett,GA,Assist - 2nd Phase,4,57,41,83, 28
+2018-11-28 12:23:09 +0000,0,Tippett,GA,Assist - Circle Entry,4,57,41,83, 28
+2018-11-28 12:23:09 +0000,0,Aiken,GS,Possession,4,57,41,63, 16
+2018-11-28 12:23:11 +0000,0,Hinchliffe,GD,Possession,4,57,41,88, 70
+2018-11-28 12:23:15 +0000,0,Nevins,WA,Possession,4,57,41,86, 54
+2018-11-28 12:23:19 +0000,0,Tippett,GA,Possession,4,57,41,93, 32
+2018-11-28 12:23:24 +0000,1,Fowler,WD,Penaly - Contact,4,57,41,76, 25
+2018-11-28 12:23:24 +0000,0,Nevins,WA,Possession,4,57,41,76, 25
+2018-11-28 12:23:32 +0000,0,Nevins,WA,Assist - Circle Entry,4,57,41,76, 25
+2018-11-28 12:23:32 +0000,0,Aiken,GS,Goal - Score,4,57,41,58, 4
+2018-11-28 12:23:45 +0000,1,Bryce,C,Centre Pass,4,58,41,50, 100
+2018-11-28 12:23:45 +0000,1,Msomi,WA,Assist - Centre Pass Rec,4,58,41,95, 120
+2018-11-28 12:23:47 +0000,1,Fowler,WD,Assist - 2nd Phase,4,58,41,91, 99
+2018-11-28 12:23:49 +0000,1,Bryce,C,Possession,4,58,41,92, 126
+2018-11-28 12:23:53 +0000,1,Msomi,WA,Possession,4,58,41,92, 164
+2018-11-28 12:23:54 +0000,0,Hinchliffe,GD,Penaly - Contact,4,58,41,92, 164
+2018-11-28 12:23:54 +0000,1,Msomi,WA,Possession,4,58,41,92, 164
+2018-11-28 12:24:02 +0000,1,Msomi,WA,Assist - Circle Entry,4,58,41,92, 164
+2018-11-28 12:24:02 +0000,1,Latu-Meafou,GA,Possession,4,58,41,80, 195
+2018-11-28 12:24:04 +0000,1,Tuivaiti,GS,Loss - Held Ball,4,58,41,57, 192
+2018-11-28 12:24:14 +0000,0,Geitz,GK,Possession,4,58,41,58, 192
+2018-11-28 12:24:39 +0000,0,Hinchliffe,GD,Possession,4,58,41,25, 146
+2018-11-28 12:24:42 +0000,0,Tippett,GA,Possession,4,58,41,17, 84
+2018-11-28 12:24:46 +0000,0,Simpson,WD,Possession,4,58,41,24, 69
+2018-11-28 12:24:48 +0000,0,Nevins,WA,Possession,4,58,41,33, 50
+2018-11-28 12:24:50 +0000,0,Nevins,WA,Assist - Circle Entry,4,58,41,33, 50
+2018-11-28 12:24:50 +0000,0,Aiken,GS,Possession,4,58,41,64, 19
+2018-11-28 12:24:52 +0000,0,Nevins,WA,Possession,4,58,41,53, 35
+2018-11-28 12:24:55 +0000,0,Nevins,WA,Assist - Circle Entry,4,58,41,53, 35
+2018-11-28 12:24:55 +0000,0,Tippett,GA,Goal - Miss,4,58,41,48, 5
+2018-11-28 12:25:34 +0000,1,Shimmin,GK,Deflect,4,58,41,47, 5
+2018-11-28 12:25:34 +0000,0,Tippett,GA,Goal - Score,4,58,41,47, 5
+2018-11-28 12:25:49 +0000,0,Cassidy,C,Centre Pass,4,59,41,50, 100
+2018-11-28 12:25:49 +0000,0,Tippett,GA,Assist - Centre Pass Rec,4,59,41,79, 75
+2018-11-28 12:25:51 +0000,0,Tippett,GA,Assist - Circle Entry,4,59,41,79, 75
+2018-11-28 12:25:51 +0000,0,Aiken,GS,Possession,4,59,41,53, 26
+2018-11-28 12:25:52 +0000,0,Tippett,GA,Possession,4,59,41,44, 37
+2018-11-28 12:25:55 +0000,0,Tippett,GA,Assist - Circle Entry,4,59,41,44, 37
+2018-11-28 12:25:55 +0000,0,Aiken,GS,Possession,4,59,41,54, 15
+2018-11-28 12:25:56 +0000,0,Tippett,GA,Goal - Score,4,59,41,46, 4
+2018-11-28 12:26:10 +0000,1,Bryce,C,Centre Pass,4,60,41,50, 100
+2018-11-28 12:26:11 +0000,1,Msomi,WA,Assist - Centre Pass Rec,4,60,41,34, 117
+2018-11-28 12:26:13 +0000,1,Msomi,WA,Assist - Circle Entry,4,60,41,34, 117
+2018-11-28 12:26:13 +0000,1,Tuivaiti,GS,Assist - 2nd Phase,4,60,41,62, 194
+2018-11-28 12:26:17 +0000,1,Tuivaiti,GS,Goal - Score,4,60,41,62, 194
+2018-11-28 12:26:24 +0000,0,Cassidy,C,Centre Pass,4,60,42,50, 100
+2018-11-28 12:26:24 +0000,0,Nevins,WA,Assist - Centre Pass Rec,4,60,42,87, 71
+2018-11-28 12:26:27 +0000,1,de Bruin,GD,Gain - Inter,4,60,42,81, 21
+2018-11-28 12:26:32 +0000,1,Shimmin,GK,Possession,4,60,42,62, 22
+2018-11-28 12:26:35 +0000,1,Fowler,WD,Possession,4,60,42,82, 26
+2018-11-28 12:26:37 +0000,1,Shimmin,GK,Possession,4,60,42,66, 45
+2018-11-28 12:26:39 +0000,1,Msomi,WA,Possession,4,60,42,25, 103
+2018-11-28 12:26:42 +0000,1,de Bruin,GD,Possession,4,60,42,40, 78
+2018-11-28 12:26:45 +0000,1,Msomi,WA,Possession,4,60,42,16, 102
+2018-11-28 12:26:49 +0000,0,Geitz,GK,Gain - Inter,4,60,42,12, 146
+2018-11-28 12:27:27 +0000,1,de Bruin,GD,Gain - Inter,4,60,42,3, 111
+2018-11-28 12:27:33 +0000,1,de Bruin,GD,Assist - Circle Entry,4,60,42,3, 111
+2018-11-28 12:27:34 +0000,1,Tuivaiti,GS,Possession,4,60,42,30, 192
+2018-11-28 12:27:36 +0000,1,Msomi,WA,Possession,4,60,42,86, 186
+2018-11-28 12:27:44 +0000,1,Latu-Meafou,GA,Penaly - Contact,4,60,42,44, 186
+2018-11-28 12:27:44 +0000,0,Geitz,GK,Possession,4,60,42,44, 186
+2018-11-28 12:27:57 +0000,0,Simpson,WD,Possession,4,60,42,76, 165
+2018-11-28 12:28:03 +0000,0,Tippett,GA,Possession,4,60,42,79, 92
+2018-11-28 12:28:05 +0000,1,Msomi,WA,Penaly - Contact,4,60,42,79, 92
+2018-11-28 12:28:05 +0000,0,Hinchliffe,GD,Possession,4,60,42,79, 92
+2018-11-28 12:28:10 +0000,0,Simpson,WD,Possession,4,60,42,18, 84
+2018-11-28 12:28:13 +0000,0,Cassidy,C,Possession,4,60,42,32, 70
+2018-11-28 12:28:16 +0000,0,Nevins,WA,Possession,4,60,42,38, 53
+2018-11-28 12:28:18 +0000,0,Cassidy,C,Possession,4,60,42,24, 24
+2018-11-28 12:28:23 +0000,0,Cassidy,C,Assist - Circle Entry,4,60,42,24, 24
+2018-11-28 12:28:23 +0000,0,Tippett,GA,Goal - Score,4,60,42,58, 5
+2018-11-28 12:28:32 +0000,1,Bryce,C,Centre Pass,4,61,42,50, 100
+2018-11-28 12:28:32 +0000,1,Msomi,WA,Assist - Centre Pass Rec,4,61,42,20, 125
+2018-11-28 12:28:34 +0000,1,Tuivaiti,GS,Assist - 2nd Phase,4,61,42,20, 171
+2018-11-28 12:28:38 +0000,0,Hinchliffe,GD,Deflect,4,61,42,65, 182
+2018-11-28 12:28:38 +0000,1,Bryce,C,Throw In,4,61,42,105, 161
+2018-11-28 12:28:50 +0000,1,de Bruin,GD,Possession,4,61,42,84, 129
+2018-11-28 12:28:55 +0000,1,Msomi,WA,Possession,4,61,42,23, 142
+2018-11-28 12:29:04 +0000,0,Nevins,WA,Loss - Offside,4,61,42,26, 134
+2018-11-28 12:29:09 +0000,1,Msomi,WA,Possession,4,61,42,27, 134
+2018-11-28 12:29:54 +0000,1,Latu-Meafou,GA,Possession,4,61,42,87, 163
+2018-11-28 12:29:57 +0000,1,Msomi,WA,Possession,4,61,42,70, 141
+2018-11-28 12:29:58 +0000,1,Bryce,C,Possession,4,61,42,13, 167
+2018-11-28 12:30:06 +0000,0,Hinchliffe,GD,Penaly - Contact,4,61,42,48, 182
+2018-11-28 12:30:06 +0000,1,Latu-Meafou,GA,Goal - Score,4,61,42,48, 182
+2018-11-28 12:30:17 +0000,1,,UNKNOWN,Timeout,4,61,43,-10, -22
+2018-11-28 12:30:59 +0000,0,Cassidy,C,Centre Pass,4,61,43,50, 100
+2018-11-28 12:30:59 +0000,0,Simpson,WD,Assist - Centre Pass Rec,4,61,43,67, 95
+2018-11-28 12:31:01 +0000,0,Hinchliffe,GD,Assist - 2nd Phase,4,61,43,19, 85
+2018-11-28 12:31:02 +0000,0,Nevins,WA,Possession,4,61,43,9, 73
+2018-11-28 12:31:05 +0000,0,Cassidy,C,Possession,4,61,43,12, 52
+2018-11-28 12:31:08 +0000,0,Nevins,WA,Possession,4,61,43,17, 34
+2018-11-28 12:31:10 +0000,0,Cassidy,C,Possession,4,61,43,32, 40
+2018-11-28 12:31:12 +0000,0,Nevins,WA,Possession,4,61,43,19, 19
+2018-11-28 12:31:14 +0000,0,Cassidy,C,Possession,4,61,43,63, 34
+2018-11-28 12:31:16 +0000,0,Cassidy,C,Assist - Circle Entry,4,61,43,63, 34
+2018-11-28 12:31:17 +0000,0,Aiken,GS,Goal - Score,4,61,43,53, 4
+2018-11-28 12:31:26 +0000,1,Bryce,C,Centre Pass,4,62,43,50, 100
+2018-11-28 12:31:26 +0000,1,Fowler,WD,Assist - Centre Pass Rec,4,62,43,78, 94
+2018-11-28 12:31:30 +0000,1,Bryce,C,Assist - 2nd Phase,4,62,43,82, 136
+2018-11-28 12:31:32 +0000,1,Latu-Meafou,GA,Possession,4,62,43,37, 149
+2018-11-28 12:31:36 +0000,1,de Bruin,GD,Possession,4,62,43,34, 131
+2018-11-28 12:31:37 +0000,1,Msomi,WA,Possession,4,62,43,51, 146
+2018-11-28 12:31:41 +0000,1,Msomi,WA,Assist - Circle Entry,4,62,43,51, 146
+2018-11-28 12:31:41 +0000,1,Tuivaiti,GS,Possession,4,62,43,53, 171
+2018-11-28 12:31:43 +0000,1,Bryce,C,Possession,4,62,43,79, 179
+2018-11-28 12:31:46 +0000,1,Bryce,C,Assist - Circle Entry,4,62,43,79, 179
+2018-11-28 12:31:47 +0000,1,Latu-Meafou,GA,Possession,4,62,43,60, 197
+2018-11-28 12:31:48 +0000,0,Geitz,GK,Penaly - Contact,4,62,43,60, 197
+2018-11-28 12:31:48 +0000,1,Latu-Meafou,GA,Goal - Score,4,62,43,60, 197
+2018-11-28 12:31:57 +0000,0,Cassidy,C,Centre Pass,4,62,44,50, 100
+2018-11-28 12:31:57 +0000,0,Nevins,WA,Assist - Centre Pass Rec,4,62,44,46, 82
+2018-11-28 12:31:59 +0000,0,Tippett,GA,Assist - 2nd Phase,4,62,44,90, 20
+2018-11-28 12:32:02 +0000,0,Cassidy,C,Possession,4,62,44,31, 31
+2018-11-28 12:32:04 +0000,0,Cassidy,C,Assist - Circle Entry,4,62,44,31, 31
+2018-11-28 12:32:04 +0000,0,Aiken,GS,Possession,4,62,44,52, 3
+2018-11-28 12:32:08 +0000,1,Shimmin,GK,Penaly - Obstruction,4,62,44,52, 3
+2018-11-28 12:32:08 +0000,0,Aiken,GS,Goal - Miss,4,62,44,52, 3
+2018-11-28 12:32:17 +0000,1,de Bruin,GD,Deflect,4,62,44,50, 2
+2018-11-28 12:32:18 +0000,0,Tippett,GA,Throw In,4,62,44,54, -3
+2018-11-28 12:32:32 +0000,0,Nevins,WA,Possession,4,62,44,81, 18
+2018-11-28 12:32:33 +0000,1,Fowler,WD,Penaly - Contact,4,62,44,81, 18
+2018-11-28 12:32:33 +0000,0,Nevins,WA,Possession,4,62,44,81, 18
+2018-11-28 12:32:41 +0000,0,Nevins,WA,Assist - Circle Entry,4,62,44,81, 18
+2018-11-28 12:32:41 +0000,0,Tippett,GA,Possession,4,62,44,61, 11
+2018-11-28 12:32:43 +0000,0,Aiken,GS,Goal - Score,4,62,44,50, 5
+2018-11-28 12:32:54 +0000,1,Bryce,C,Centre Pass,4,63,44,50, 100
+2018-11-28 12:32:54 +0000,1,de Bruin,GD,Assist - Centre Pass Rec,4,63,44,85, 122
+2018-11-28 12:32:57 +0000,1,Fowler,WD,Assist - 2nd Phase,4,63,44,65, 102
+2018-11-28 12:33:01 +0000,1,Msomi,WA,Possession,4,63,44,68, 129
+2018-11-28 12:33:04 +0000,1,Latu-Meafou,GA,Possession,4,63,44,63, 152
+2018-11-28 12:33:06 +0000,1,Msomi,WA,Possession,4,63,44,80, 166
+2018-11-28 12:33:09 +0000,1,Tuivaiti,GS,Possession,4,63,44,89, 195
+2018-11-28 12:33:11 +0000,1,Msomi,WA,Possession,4,63,44,81, 184
+2018-11-28 12:33:14 +0000,1,Msomi,WA,Assist - Circle Entry,4,63,44,81, 184
+2018-11-28 12:33:14 +0000,1,Latu-Meafou,GA,Goal - Miss,4,63,44,54, 189
+2018-11-28 12:33:20 +0000,0,Geitz,GK,Gain - Def Reb,4,63,44,50, 197
+2018-11-28 12:33:24 +0000,0,Simpson,WD,Possession,4,63,44,35, 163
+2018-11-28 12:33:28 +0000,1,Bryce,C,Penaly - Contact,4,63,44,35, 163
+2018-11-28 12:33:28 +0000,0,Geitz,GK,Possession,4,63,44,35, 163
+2018-11-28 12:33:34 +0000,0,Hinchliffe,GD,Possession,4,63,44,20, 130
+2018-11-28 12:33:37 +0000,0,Cassidy,C,Possession,4,63,44,14, 103
+2018-11-28 12:33:39 +0000,0,Simpson,WD,Possession,4,63,44,29, 109
+2018-11-28 12:33:42 +0000,0,Nevins,WA,Possession,4,63,44,52, 72
+2018-11-28 12:33:44 +0000,0,Cassidy,C,Possession,4,63,44,17, 17
+2018-11-28 12:33:47 +0000,1,Shimmin,GK,Penaly - Contact,4,63,44,35, 13
+2018-11-28 12:33:48 +0000,0,Tippett,GA,Possession,4,63,44,35, 13
+2018-11-28 12:33:55 +0000,0,Aiken,GS,Goal - Score,4,63,44,47, 4
+2018-11-28 12:34:04 +0000,0,Cassidy,C,Centre Pass,4,64,44,50, 100
+2018-11-28 12:34:04 +0000,0,Nevins,WA,Assist - Centre Pass Rec,4,64,44,60, 84
+2018-11-28 12:34:06 +0000,0,Cassidy,C,Assist - 2nd Phase,4,64,44,71, 72
+2018-11-28 12:34:08 +0000,0,Hinchliffe,GD,Possession,4,64,44,91, 73
+2018-11-28 12:34:10 +0000,0,Cassidy,C,Possession,4,64,44,88, 49
+2018-11-28 12:34:12 +0000,0,Nevins,WA,Possession,4,64,44,46, 55
+2018-11-28 12:34:15 +0000,0,Tippett,GA,Possession,4,64,44,40, 33
+2018-11-28 12:34:19 +0000,0,Tippett,GA,Assist - Circle Entry,4,64,44,40, 33
+2018-11-28 12:34:19 +0000,0,Aiken,GS,Possession,4,64,44,75, 6
+2018-11-28 12:34:20 +0000,0,Cassidy,C,Possession,4,64,44,81, 17
+2018-11-28 12:34:24 +0000,0,Cassidy,C,Assist - Circle Entry,4,64,44,81, 17
+2018-11-28 12:34:24 +0000,0,Tippett,GA,Goal - Score,4,64,44,47, 5
+2018-11-28 12:34:33 +0000,1,Bryce,C,Centre Pass,4,65,44,50, 100
+2018-11-28 12:34:34 +0000,1,Msomi,WA,Assist - Centre Pass Rec,4,65,44,79, 119
+2018-11-28 12:34:36 +0000,1,Latu-Meafou,GA,Assist - 2nd Phase,4,65,44,87, 158
+2018-11-28 12:34:38 +0000,1,Tuivaiti,GS,Possession,4,65,44,88, 193
+2018-11-28 12:34:40 +0000,1,Bryce,C,Possession,4,65,44,27, 172
+2018-11-28 12:34:41 +0000,0,Cassidy,C,Penaly - Contact,4,65,44,27, 172
+2018-11-28 12:34:41 +0000,1,Bryce,C,Possession,4,65,44,27, 172
+2018-11-28 12:34:50 +0000,1,Bryce,C,Assist - Circle Entry,4,65,44,27, 172
+2018-11-28 12:34:50 +0000,0,Geitz,GK,Gain - Inter,4,65,44,42, 193
+2018-11-28 12:34:54 +0000,1,Latu-Meafou,GA,Penaly - Contact,4,65,44,42, 193
+2018-11-28 12:34:54 +0000,0,Geitz,GK,Possession,4,65,44,42, 193
+2018-11-28 12:35:00 +0000,0,Hinchliffe,GD,Possession,4,65,44,26, 118
+2018-11-28 12:35:06 +0000,0,Tippett,GA,Possession,4,65,44,23, 80
+2018-11-28 12:35:09 +0000,0,Hinchliffe,GD,Possession,4,65,44,23, 92
+2018-11-28 12:35:54 +0000,0,Tippett,GA,Loss - Step,4,65,44,33, 80
+2018-11-28 12:35:58 +0000,1,de Bruin,GD,Possession,4,65,44,32, 81
+2018-11-28 12:36:05 +0000,1,Fowler,WD,Possession,4,65,44,61, 81
+2018-11-28 12:36:07 +0000,1,Bryce,C,Possession,4,65,44,84, 125
+2018-11-28 12:36:11 +0000,1,Latu-Meafou,GA,Possession,4,65,44,91, 143
+2018-11-28 12:36:13 +0000,1,Tuivaiti,GS,Possession,4,65,44,85, 190
+2018-11-28 12:36:16 +0000,1,Tuivaiti,GS,Assist - Circle Entry,4,65,44,85, 190
+2018-11-28 12:36:16 +0000,1,Latu-Meafou,GA,Goal - Score,4,65,44,52, 187
+2018-11-28 12:36:29 +0000,0,Cassidy,C,Centre Pass,4,65,45,50, 100
+2018-11-28 12:36:29 +0000,1,Fowler,WD,Loss - Break,4,65,45,45, 67
+2018-11-28 12:36:29 +0000,0,Simpson,WD,Possession,4,65,45,45, 67
+2018-11-28 12:36:39 +0000,0,Tippett,GA,Assist - 2nd Phase,4,65,45,49, 45
+2018-11-28 12:36:41 +0000,0,Tippett,GA,Assist - Circle Entry,4,65,45,49, 45
+2018-11-28 12:36:41 +0000,0,Aiken,GS,Possession,4,65,45,68, 21
+2018-11-28 12:36:42 +0000,0,Nevins,WA,Possession,4,65,45,75, 25
+2018-11-28 12:36:44 +0000,0,Nevins,WA,Assist - Circle Entry,4,65,45,75, 25
+2018-11-28 12:36:44 +0000,0,Aiken,GS,Possession,4,65,45,67, 14
+2018-11-28 12:36:46 +0000,0,Nevins,WA,Possession,4,65,45,75, 27
+2018-11-28 12:36:52 +0000,0,Nevins,WA,Assist - Circle Entry,4,65,45,75, 27
+2018-11-28 12:36:52 +0000,0,Aiken,GS,Goal - Score,4,65,45,55, 3
+2018-11-28 12:37:01 +0000,1,Bryce,C,Centre Pass,4,66,45,50, 100
+2018-11-28 12:37:01 +0000,1,Latu-Meafou,GA,Assist - Centre Pass Rec,4,66,45,85, 122
+2018-11-28 12:37:03 +0000,1,Fowler,WD,Loss - Held Ball,4,66,45,83, 98
+2018-11-28 12:37:09 +0000,0,Simpson,WD,Possession,4,66,45,83, 99
+2018-11-28 12:37:18 +0000,0,Nevins,WA,Possession,4,66,45,82, 76
+2018-11-28 12:37:20 +0000,0,Tippett,GA,Possession,4,66,45,85, 42
+2018-11-28 12:37:23 +0000,0,Cassidy,C,Possession,4,66,45,72, 39
+2018-11-28 12:37:25 +0000,0,Cassidy,C,Assist - Circle Entry,4,66,45,72, 39
+2018-11-28 12:37:25 +0000,0,Tippett,GA,Possession,4,66,45,53, 27
+2018-11-28 12:37:27 +0000,0,Aiken,GS,Goal - Miss,4,66,45,58, 4
+2018-11-28 12:37:34 +0000,0,Tippett,GA,Assist - Attack Rebound,4,66,45,50, 2
+2018-11-28 12:37:34 +0000,1,Shimmin,GK,Penaly - Contact,4,66,45,50, 2
+2018-11-28 12:37:35 +0000,0,Tippett,GA,Goal - Score,4,66,45,50, 2
+2018-11-28 12:37:49 +0000,0,Cassidy,C,Centre Pass,4,67,45,50, 100
+2018-11-28 12:37:49 +0000,0,Tippett,GA,Assist - Centre Pass Rec,4,67,45,81, 72
+2018-11-28 12:37:51 +0000,0,Tippett,GA,Assist - Circle Entry,4,67,45,81, 72
+2018-11-28 12:37:51 +0000,0,Aiken,GS,Possession,4,67,45,75, 12
+2018-11-28 12:37:56 +0000,1,Shimmin,GK,Penaly - Contact,4,67,45,61, 25
+2018-11-28 12:37:56 +0000,0,Tippett,GA,Possession,4,67,45,61, 25
+2018-11-28 12:38:03 +0000,1,de Bruin,GD,Gain - Tip (Deflect),4,67,45,46, 11
+2018-11-28 12:38:08 +0000,1,Bryce,C,Possession,4,67,45,22, 21
+2018-11-28 12:38:13 +0000,1,Shimmin,GK,Possession,4,67,45,42, 20
+2018-11-28 12:38:24 +0000,0,Aiken,GS,Deflect,4,67,45,46, 28
+2018-11-28 12:38:24 +0000,1,Fowler,WD,Deflect,4,67,45,81, 47
+2018-11-28 12:38:31 +0000,0,Simpson,WD,Gain - Inter,4,67,45,74, 71
+2018-11-28 12:38:41 +0000,0,Nevins,WA,Possession,4,67,45,59, 56
+2018-11-28 12:38:43 +0000,0,Hinchliffe,GD,Possession,4,67,45,42, 67
+2018-11-28 12:38:48 +0000,0,Nevins,WA,Possession,4,67,45,26, 48
+2018-11-28 12:38:51 +0000,0,Tippett,GA,Possession,4,67,45,47, 40
+2018-11-28 12:38:57 +0000,1,Fowler,WD,Loss - Offside,4,67,45,65, 27
+2018-11-28 12:38:57 +0000,0,Aiken,GS,Possession,4,67,45,65, 27
+2018-11-28 12:39:11 +0000,1,de Bruin,GD,Gain - Inter,4,67,45,49, 27
+2018-11-28 12:39:18 +0000,1,Bryce,C,Possession,4,67,45,17, 69
+2018-11-28 12:39:20 +0000,1,Latu-Meafou,GA,Possession,4,67,45,52, 126
+2018-11-28 12:39:22 +0000,1,Msomi,WA,Possession,4,67,45,86, 155
+2018-11-28 12:39:27 +0000,1,Latu-Meafou,GA,Penaly - Contact,4,67,45,69, 188
+2018-11-28 12:39:27 +0000,0,Geitz,GK,Possession,4,67,45,69, 188
+2018-11-28 12:39:43 +0000,0,Hinchliffe,GD,Possession,4,67,45,41, 149
+2018-11-28 12:39:45 +0000,0,Cassidy,C,Possession,4,67,45,15, 103
+2018-11-28 12:39:49 +0000,0,Tippett,GA,Possession,4,67,45,19, 70
+2018-11-28 12:39:51 +0000,0,Nevins,WA,Possession,4,67,45,19, 21
+2018-11-28 12:39:53 +0000,0,Nevins,WA,Assist - Circle Entry,4,67,45,19, 21
+2018-11-28 12:39:54 +0000,0,Aiken,GS,Possession,4,67,45,42, 16
+2018-11-28 12:39:56 +0000,0,Cassidy,C,Possession,4,67,45,80, 18
+2018-11-28 12:39:58 +0000,0,Cassidy,C,Assist - Circle Entry,4,67,45,80, 18
+2018-11-28 12:39:58 +0000,0,Aiken,GS,Goal - Miss,4,67,45,70, 14
+2018-11-28 12:40:04 +0000,0,Tippett,GA,Loss - Drop,4,67,45,50, 2
+2018-11-28 12:40:05 +0000,1,Shimmin,GK,Throw In,4,67,45,47, -4
+2018-11-28 12:40:23 +0000,1,de Bruin,GD,Possession,4,67,45,87, 44
+2018-11-28 12:40:26 +0000,0,Tippett,GA,Penaly - Contact,4,67,45,87, 44
+2018-11-28 12:40:27 +0000,1,de Bruin,GD,Possession,4,67,45,87, 44
+2018-11-28 12:40:32 +0000,1,Latu-Meafou,GA,Possession,4,67,45,79, 92
+2018-11-28 12:40:35 +0000,1,Msomi,WA,Possession,4,67,45,29, 114
+2018-11-28 12:40:38 +0000,1,Bryce,C,Possession,4,67,45,54, 133
+2018-11-28 12:40:40 +0000,1,Bryce,C,Assist - Circle Entry,4,67,45,54, 133
+2018-11-28 12:40:40 +0000,1,Tuivaiti,GS,Goal - Score,4,67,45,46, 197
+2018-11-28 12:40:47 +0000,1,Bryce,C,Centre Pass,4,67,46,50, 100
+2018-11-28 12:40:47 +0000,1,Msomi,WA,Assist - Centre Pass Rec,4,67,46,37, 128
+2018-11-28 12:40:50 +0000,0,Simpson,WD,Gain - Inter,4,67,46,32, 136

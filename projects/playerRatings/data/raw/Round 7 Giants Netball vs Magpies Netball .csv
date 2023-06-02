@@ -1,0 +1,1475 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-11-16 08:25:14 +0000,0,Guthrie,C,Centre Pass,1,0,0,50, 100
+2018-11-16 08:25:14 +0000,0,Harten ,GA,Assist - Centre Pass Rec,1,0,0,18, 83
+2018-11-16 08:25:19 +0000,0,Green,WA,Assist - 2nd Phase,1,0,0,11, 49
+2018-11-16 08:25:22 +0000,0,Guthrie,C,Possession,1,0,0,6, 6
+2018-11-16 08:25:24 +0000,0,Harten ,GA,Possession,1,0,0,26, 30
+2018-11-16 08:25:26 +0000,0,Green,WA,Possession,1,0,0,41, 32
+2018-11-16 08:25:31 +0000,1,Brandley,GD,Deflect,1,0,0,49, 21
+2018-11-16 08:25:32 +0000,0,Harten ,GA,Possession,1,0,0,87, 6
+2018-11-16 08:27:00 +0000,1,Layton,GK,Penaly - Contact,1,0,0,54, 12
+2018-11-16 08:27:00 +0000,0,Pettitt ,GS,Possession,1,0,0,54, 12
+2018-11-16 08:27:06 +0000,0,Harten ,GA,Goal - Score,1,0,0,53, 4
+2018-11-16 08:27:15 +0000,1,Brown,C,Centre Pass,1,1,0,50, 100
+2018-11-16 08:27:15 +0000,1,Bell,GA,Assist - Centre Pass Rec,1,1,0,11, 122
+2018-11-16 08:27:17 +0000,1,Brown,C,Assist - 2nd Phase,1,1,0,9, 170
+2018-11-16 08:27:18 +0000,0,Price,WD,Penaly - Contact,1,1,0,9, 170
+2018-11-16 08:27:18 +0000,1,Brown,C,Possession,1,1,0,9, 170
+2018-11-16 08:27:21 +0000,1,Brown,C,Assist - Circle Entry,1,1,0,9, 170
+2018-11-16 08:27:21 +0000,1,Thwaites,GS,Goal - Score,1,1,0,56, 186
+2018-11-16 08:27:32 +0000,0,Guthrie,C,Centre Pass,1,1,1,50, 100
+2018-11-16 08:27:32 +0000,0,Green,WA,Assist - Centre Pass Rec,1,1,1,38, 71
+2018-11-16 08:27:34 +0000,0,Harten ,GA,Assist - 2nd Phase,1,1,1,85, 14
+2018-11-16 08:27:40 +0000,0,Guthrie,C,Possession,1,1,1,74, 22
+2018-11-16 08:27:42 +0000,0,Guthrie,C,Assist - Circle Entry,1,1,1,74, 22
+2018-11-16 08:27:42 +0000,0,Harten ,GA,Possession,1,1,1,71, 9
+2018-11-16 08:27:44 +0000,0,Pettitt ,GS,Goal - Score,1,1,1,40, 14
+2018-11-16 08:27:55 +0000,1,Brown,C,Centre Pass,1,2,1,50, 100
+2018-11-16 08:27:56 +0000,1,Bell,GA,Assist - Centre Pass Rec,1,2,1,9, 125
+2018-11-16 08:27:58 +0000,1,Robinson,WA,Assist - 2nd Phase,1,2,1,6, 188
+2018-11-16 08:28:00 +0000,1,Brown,C,Possession,1,2,1,80, 179
+2018-11-16 08:28:04 +0000,1,Brown,C,Assist - Circle Entry,1,2,1,80, 179
+2018-11-16 08:28:04 +0000,1,Thwaites,GS,Possession,1,2,1,46, 179
+2018-11-16 08:28:37 +0000,0,Manu’a,GK,Penaly - Contact,1,2,1,57, 193
+2018-11-16 08:28:37 +0000,1,Bell,GA,Goal - Score,1,2,1,57, 193
+2018-11-16 08:28:50 +0000,0,Guthrie,C,Centre Pass,1,2,2,50, 100
+2018-11-16 08:28:50 +0000,0,Price,WD,Assist - Centre Pass Rec,1,2,2,69, 75
+2018-11-16 08:28:52 +0000,0,Guthrie,C,Assist - 2nd Phase,1,2,2,60, 53
+2018-11-16 08:28:54 +0000,0,Green,WA,Possession,1,2,2,69, 37
+2018-11-16 08:28:56 +0000,0,Guthrie,C,Possession,1,2,2,81, 44
+2018-11-16 08:29:06 +0000,0,Guthrie,C,Assist - Circle Entry,1,2,2,81, 44
+2018-11-16 08:29:06 +0000,1,Layton,GK,Gain - Tip (Deflect),1,2,2,54, 22
+2018-11-16 08:29:49 +0000,1,Brandley,GD,Deflect,1,2,2,51, 25
+2018-11-16 08:29:53 +0000,1,Brandley,GD,Possession,1,2,2,35, 9
+2018-11-16 08:29:58 +0000,1,Brown,C,Possession,1,2,2,17, 16
+2018-11-16 08:30:00 +0000,1,Brazill,WD,Possession,1,2,2,30, 58
+2018-11-16 08:30:02 +0000,1,Brandley,GD,Possession,1,2,2,6, 77
+2018-11-16 08:30:04 +0000,1,Brazill,WD,Possession,1,2,2,36, 72
+2018-11-16 08:30:09 +0000,1,Brandley,GD,Loss - Bad Pass,1,2,2,13, 87
+2018-11-16 08:30:16 +0000,0,Manu’a,GK,Throw In,1,2,2,106, 189
+2018-11-16 08:30:21 +0000,0,Bulley ,GD,Possession,1,2,2,58, 160
+2018-11-16 08:30:23 +0000,0,Manu’a,GK,Possession,1,2,2,83, 162
+2018-11-16 08:30:25 +0000,0,Manu’a,GK,Possession,1,2,2,27, 150
+2018-11-16 08:30:26 +0000,0,Price,WD,Possession,1,2,2,42, 118
+2018-11-16 08:30:28 +0000,0,Guthrie,C,Possession,1,2,2,19, 95
+2018-11-16 08:30:30 +0000,0,Green,WA,Possession,1,2,2,76, 41
+2018-11-16 08:30:33 +0000,0,Green,WA,Assist - Circle Entry,1,2,2,76, 41
+2018-11-16 08:30:33 +0000,0,Harten ,GA,Possession,1,2,2,73, 6
+2018-11-16 08:30:35 +0000,0,Guthrie,C,Possession,1,2,2,56, 33
+2018-11-16 08:30:38 +0000,0,Guthrie,C,Assist - Circle Entry,1,2,2,56, 33
+2018-11-16 08:30:38 +0000,0,Harten ,GA,Possession,1,2,2,56, 20
+2018-11-16 08:30:40 +0000,0,Guthrie,C,Possession,1,2,2,58, 33
+2018-11-16 08:30:42 +0000,0,Guthrie,C,Assist - Circle Entry,1,2,2,58, 33
+2018-11-16 08:30:43 +0000,0,Harten ,GA,Possession,1,2,2,55, 16
+2018-11-16 08:30:45 +0000,1,Layton,GK,Penaly - Contact,1,2,2,55, 16
+2018-11-16 08:30:45 +0000,0,Harten ,GA,Goal - Score,1,2,2,55, 16
+2018-11-16 08:30:59 +0000,1,Brown,C,Centre Pass,1,3,2,50, 100
+2018-11-16 08:30:59 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,3,2,30, 112
+2018-11-16 08:31:01 +0000,1,Thwaites,GS,Assist - 2nd Phase,1,3,2,76, 158
+2018-11-16 08:31:04 +0000,1,Thwaites,GS,Assist - Circle Entry,1,3,2,76, 158
+2018-11-16 08:31:04 +0000,1,Bell,GA,Possession,1,3,2,57, 192
+2018-11-16 08:31:05 +0000,0,Bulley ,GD,Penaly - Contact,1,3,2,57, 192
+2018-11-16 08:31:05 +0000,1,Bell,GA,Goal - Score,1,3,2,57, 192
+2018-11-16 08:31:20 +0000,0,Guthrie,C,Centre Pass,1,3,3,50, 100
+2018-11-16 08:31:20 +0000,0,Green,WA,Assist - Centre Pass Rec,1,3,3,42, 78
+2018-11-16 08:31:22 +0000,0,Harten ,GA,Assist - 2nd Phase,1,3,3,12, 34
+2018-11-16 08:31:51 +0000,1,Brown,C,Gain - Tip (Deflect),1,3,3,29, 46
+2018-11-16 08:31:55 +0000,1,Bell,GA,Possession,1,3,3,34, 68
+2018-11-16 08:31:59 +0000,1,Brandley,GD,Possession,1,3,3,76, 53
+2018-11-16 08:32:01 +0000,1,Brazill,WD,Possession,1,3,3,87, 102
+2018-11-16 08:32:04 +0000,1,Brown,C,Possession,1,3,3,83, 164
+2018-11-16 08:32:06 +0000,1,Brown,C,Assist - Circle Entry,1,3,3,83, 164
+2018-11-16 08:32:06 +0000,1,Thwaites,GS,Possession,1,3,3,63, 183
+2018-11-16 08:32:07 +0000,0,Manu’a,GK,Penaly - Contact,1,3,3,63, 183
+2018-11-16 08:32:07 +0000,1,Thwaites,GS,Goal - Score,1,3,3,63, 183
+2018-11-16 08:32:18 +0000,1,Brown,C,Centre Pass,1,3,4,50, 100
+2018-11-16 08:32:18 +0000,1,Brandley,GD,Assist - Centre Pass Rec,1,3,4,74, 106
+2018-11-16 08:32:20 +0000,0,Harten ,GA,Penaly - Contact,1,3,4,74, 106
+2018-11-16 08:32:20 +0000,1,Brandley,GD,Possession,1,3,4,74, 106
+2018-11-16 08:32:24 +0000,1,Robinson,WA,Possession,1,3,4,69, 130
+2018-11-16 08:32:26 +0000,1,Brown,C,Possession,1,3,4,55, 157
+2018-11-16 08:32:28 +0000,0,Guthrie,C,Penaly - Obstruction,1,3,4,55, 157
+2018-11-16 08:32:28 +0000,1,Brown,C,Possession,1,3,4,55, 157
+2018-11-16 08:32:36 +0000,1,Brown,C,Assist - Circle Entry,1,3,4,55, 157
+2018-11-16 08:32:36 +0000,1,Bell,GA,Assist - 2nd Phase,1,3,4,39, 184
+2018-11-16 08:32:37 +0000,0,Bulley ,GD,Penaly - Contact,1,3,4,56, 183
+2018-11-16 08:32:37 +0000,1,Bell,GA,Goal - Score,1,3,4,56, 183
+2018-11-16 08:32:46 +0000,0,Guthrie,C,Centre Pass,1,3,5,50, 100
+2018-11-16 08:32:46 +0000,0,Harten ,GA,Assist - Centre Pass Rec,1,3,5,62, 77
+2018-11-16 08:32:48 +0000,0,Green,WA,Assist - 2nd Phase,1,3,5,16, 49
+2018-11-16 08:32:50 +0000,0,Green,WA,Assist - Circle Entry,1,3,5,16, 49
+2018-11-16 08:32:50 +0000,0,Harten ,GA,Possession,1,3,5,31, 10
+2018-11-16 08:32:53 +0000,0,Pettitt ,GS,Goal - Score,1,3,5,52, 6
+2018-11-16 08:33:04 +0000,1,Brown,C,Centre Pass,1,4,5,50, 100
+2018-11-16 08:33:04 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,4,5,10, 124
+2018-11-16 08:33:12 +0000,0,Harten ,GA,Gain - Tip (Deflect),1,4,5,24, 116
+2018-11-16 08:33:16 +0000,0,Guthrie,C,Possession,1,4,5,22, 134
+2018-11-16 08:33:20 +0000,0,Bulley ,GD,Possession,1,4,5,35, 149
+2018-11-16 08:33:22 +0000,0,Manu’a,GK,Possession,1,4,5,87, 145
+2018-11-16 08:33:24 +0000,0,Bulley ,GD,Possession,1,4,5,75, 116
+2018-11-16 08:33:25 +0000,1,Bell,GA,Penaly - Contact,1,4,5,75, 116
+2018-11-16 08:33:25 +0000,0,Bulley ,GD,Possession,1,4,5,75, 116
+2018-11-16 08:33:29 +0000,0,Guthrie,C,Possession,1,4,5,82, 58
+2018-11-16 08:33:32 +0000,0,Harten ,GA,Possession,1,4,5,55, 55
+2018-11-16 08:33:34 +0000,0,Guthrie,C,Possession,1,4,5,70, 29
+2018-11-16 08:33:38 +0000,0,Guthrie,C,Assist - Circle Entry,1,4,5,70, 29
+2018-11-16 08:33:38 +0000,0,Pettitt ,GS,Possession,1,4,5,22, 2
+2018-11-16 08:33:41 +0000,0,Harten ,GA,Goal - Score,1,4,5,44, 7
+2018-11-16 08:33:57 +0000,0,Guthrie,C,Centre Pass,1,5,5,50, 100
+2018-11-16 08:33:57 +0000,0,Harten ,GA,Assist - Centre Pass Rec,1,5,5,38, 69
+2018-11-16 08:34:18 +0000,0,Green,WA,Loss - Offside,1,5,5,46, 34
+2018-11-16 08:34:22 +0000,1,Layton,GK,Possession,1,5,5,47, 34
+2018-11-16 08:34:29 +0000,1,Brandley,GD,Loss - Bad Pass,1,5,5,48, 49
+2018-11-16 08:34:33 +0000,0,Bulley ,GD,Throw In,1,5,5,-4, 117
+2018-11-16 08:34:43 +0000,1,Robinson,WA,Penaly - Contact,1,5,5,33, 91
+2018-11-16 08:34:43 +0000,0,Bulley ,GD,Possession,1,5,5,33, 91
+2018-11-16 08:34:48 +0000,0,Price,WD,Possession,1,5,5,5, 73
+2018-11-16 08:34:50 +0000,0,Green,WA,Possession,1,5,5,8, 6
+2018-11-16 08:34:54 +0000,0,Guthrie,C,Possession,1,5,5,35, 33
+2018-11-16 08:34:57 +0000,1,Layton,GK,Penaly - Contact,1,5,5,29, 9
+2018-11-16 08:34:57 +0000,0,Harten ,GA,Goal - Score,1,5,5,29, 9
+2018-11-16 08:35:08 +0000,1,Brown,C,Centre Pass,1,6,5,50, 100
+2018-11-16 08:35:08 +0000,1,Bell,GA,Assist - Centre Pass Rec,1,6,5,86, 123
+2018-11-16 08:35:12 +0000,1,Robinson,WA,Assist - 2nd Phase,1,6,5,87, 164
+2018-11-16 08:35:14 +0000,1,Robinson,WA,Assist - Circle Entry,1,6,5,87, 164
+2018-11-16 08:35:15 +0000,1,Thwaites,GS,Goal - Score,1,6,5,41, 191
+2018-11-16 08:35:27 +0000,0,Guthrie,C,Centre Pass,1,6,6,50, 100
+2018-11-16 08:35:27 +0000,0,Price,WD,Assist - Centre Pass Rec,1,6,6,7, 76
+2018-11-16 08:35:30 +0000,0,Harten ,GA,Assist - 2nd Phase,1,6,6,9, 37
+2018-11-16 08:35:33 +0000,0,Pettitt ,GS,Possession,1,6,6,14, 8
+2018-11-16 08:35:35 +0000,0,Green,WA,Possession,1,6,6,83, 7
+2018-11-16 08:35:38 +0000,0,Green,WA,Assist - Circle Entry,1,6,6,83, 7
+2018-11-16 08:35:38 +0000,0,Harten ,GA,Loss - Out of Court,1,6,6,59, 1
+2018-11-16 08:35:43 +0000,1,Layton,GK,Throw In,1,6,6,59, 0
+2018-11-16 08:35:58 +0000,1,Brazill,WD,Possession,1,6,6,80, 24
+2018-11-16 08:36:00 +0000,1,Brandley,GD,Possession,1,6,6,84, 54
+2018-11-16 08:36:03 +0000,1,Layton,GK,Possession,1,6,6,76, 40
+2018-11-16 08:36:05 +0000,1,Brandley,GD,Possession,1,6,6,35, 56
+2018-11-16 08:36:07 +0000,1,Brazill,WD,Loss - Bad Pass,1,6,6,30, 79
+2018-11-16 08:36:11 +0000,0,Guthrie,C,Gain - Inter,1,6,6,72, 145
+2018-11-16 08:36:19 +0000,1,Robinson,WA,Penaly - Obstruction,1,6,6,72, 145
+2018-11-16 08:36:19 +0000,0,Manu’a,GK,Possession,1,6,6,72, 145
+2018-11-16 08:36:27 +0000,0,Bulley ,GD,Possession,1,6,6,12, 123
+2018-11-16 08:36:50 +0000,0,Harten ,GA,Possession,1,6,6,8, 71
+2018-11-16 08:36:54 +0000,1,Brazill,WD,Gain - Tip (Deflect),1,6,6,20, 81
+2018-11-16 08:37:01 +0000,1,Robinson,WA,Possession,1,6,6,74, 124
+2018-11-16 08:37:03 +0000,1,Bell,GA,Possession,1,6,6,33, 145
+2018-11-16 08:37:05 +0000,1,Bell,GA,Assist - Circle Entry,1,6,6,33, 145
+2018-11-16 08:37:05 +0000,1,Thwaites,GS,Possession,1,6,6,34, 178
+2018-11-16 08:37:06 +0000,1,Brown,C,Possession,1,6,6,77, 175
+2018-11-16 08:37:09 +0000,1,Brown,C,Assist - Circle Entry,1,6,6,77, 175
+2018-11-16 08:37:09 +0000,1,Bell,GA,Goal - Miss,1,6,6,61, 182
+2018-11-16 08:37:14 +0000,0,Manu’a,GK,Gain - Def Reb,1,6,6,50, 197
+2018-11-16 08:37:22 +0000,1,Brown,C,Deflect,1,6,6,73, 119
+2018-11-16 08:37:22 +0000,0,Guthrie,C,Possession,1,6,6,78, 107
+2018-11-16 08:37:32 +0000,1,Robinson,WA,Penaly - Obstruction,1,6,6,85, 96
+2018-11-16 08:37:33 +0000,0,Price,WD,Possession,1,6,6,85, 96
+2018-11-16 08:37:42 +0000,0,Bulley ,GD,Possession,1,6,6,86, 73
+2018-11-16 08:37:44 +0000,0,Guthrie,C,Possession,1,6,6,49, 57
+2018-11-16 08:38:21 +0000,0,Harten ,GA,Loss - Stopped Lead,1,6,6,26, 26
+2018-11-16 08:38:27 +0000,1,Brandley,GD,Gain - Inter,1,6,6,27, 28
+2018-11-16 08:38:35 +0000,1,Robinson,WA,Possession,1,6,6,18, 73
+2018-11-16 08:38:40 +0000,1,Brazill,WD,Possession,1,6,6,65, 120
+2018-11-16 08:38:42 +0000,1,Bell,GA,Possession,1,6,6,72, 146
+2018-11-16 08:38:44 +0000,1,Brazill,WD,Possession,1,6,6,75, 129
+2018-11-16 08:38:46 +0000,1,Robinson,WA,Possession,1,6,6,58, 157
+2018-11-16 08:38:50 +0000,1,Thwaites,GS,Possession,1,6,6,14, 184
+2018-11-16 08:38:54 +0000,0,Price,WD,Loss - Offside,1,6,6,75, 177
+2018-11-16 08:38:59 +0000,1,Bell,GA,Possession,1,6,6,76, 177
+2018-11-16 08:39:04 +0000,1,Robinson,WA,Possession,1,6,6,50, 163
+2018-11-16 08:39:06 +0000,1,Brown,C,Possession,1,6,6,15, 185
+2018-11-16 08:39:08 +0000,1,Brown,C,Assist - Circle Entry,1,6,6,15, 185
+2018-11-16 08:39:09 +0000,1,Bell,GA,Goal - Score,1,6,6,39, 190
+2018-11-16 08:39:20 +0000,1,Brown,C,Centre Pass,1,6,7,50, 100
+2018-11-16 08:39:20 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,6,7,20, 121
+2018-11-16 08:39:22 +0000,1,Bell,GA,Assist - 2nd Phase,1,6,7,9, 147
+2018-11-16 08:39:24 +0000,1,Robinson,WA,Possession,1,6,7,33, 145
+2018-11-16 08:39:26 +0000,1,Brown,C,Possession,1,6,7,24, 158
+2018-11-16 08:39:28 +0000,1,Robinson,WA,Possession,1,6,7,36, 164
+2018-11-16 08:39:30 +0000,1,Robinson,WA,Assist - Circle Entry,1,6,7,36, 164
+2018-11-16 08:39:30 +0000,1,Bell,GA,Goal - Score,1,6,7,56, 192
+2018-11-16 08:39:39 +0000,0,Guthrie,C,Centre Pass,1,6,8,50, 100
+2018-11-16 08:39:39 +0000,0,Harten ,GA,Assist - Centre Pass Rec,1,6,8,51, 79
+2018-11-16 08:39:41 +0000,0,Harten ,GA,Assist - Circle Entry,1,6,8,51, 79
+2018-11-16 08:39:41 +0000,0,Pettitt ,GS,Goal - Score,1,6,8,26, 7
+2018-11-16 08:39:55 +0000,1,Brown,C,Centre Pass,1,7,8,50, 100
+2018-11-16 08:39:55 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,7,8,29, 101
+2018-11-16 08:39:57 +0000,1,Thwaites,GS,Loss - Bad Pass,1,7,8,74, 173
+2018-11-16 08:40:37 +0000,0,Guthrie,C,Gain - Inter,1,7,8,80, 124
+2018-11-16 08:40:45 +0000,0,Harten ,GA,Possession,1,7,8,74, 98
+2018-11-16 08:40:47 +0000,0,Green,WA,Possession,1,7,8,17, 59
+2018-11-16 08:40:49 +0000,0,Guthrie,C,Possession,1,7,8,23, 24
+2018-11-16 08:40:52 +0000,0,Guthrie,C,Assist - Circle Entry,1,7,8,23, 24
+2018-11-16 08:40:52 +0000,0,Pettitt ,GS,Possession,1,7,8,31, 13
+2018-11-16 08:40:53 +0000,1,Layton,GK,Penaly - Contact,1,7,8,31, 13
+2018-11-16 08:40:54 +0000,0,Pettitt ,GS,Possession,1,7,8,31, 13
+2018-11-16 08:41:02 +0000,1,Brandley,GD,Penaly - Obstruction,1,7,8,31, 13
+2018-11-16 08:41:02 +0000,0,Pettitt ,GS,Goal - Score,1,7,8,31, 13
+2018-11-16 08:43:47 +0000,0,Guthrie,C,Centre Pass,1,8,8,50, 100
+2018-11-16 08:43:47 +0000,0,,UNKNOWN,Loss - Unknown,1,8,8,39, 73
+2018-11-16 08:44:14 +0000,1,,UNKNOWN,Possession,1,8,8,36, 97
+2018-11-16 08:44:16 +0000,1,Robinson,WA,Possession,1,8,8,9, 104
+2018-11-16 08:44:19 +0000,1,Brown,C,Possession,1,8,8,19, 150
+2018-11-16 08:44:21 +0000,1,Thwaites,GS,Possession,1,8,8,15, 189
+2018-11-16 08:44:24 +0000,1,Brown,C,Possession,1,8,8,22, 176
+2018-11-16 08:44:25 +0000,0,Price,WD,Penaly - Contact,1,8,8,22, 176
+2018-11-16 08:44:25 +0000,1,Brown,C,Loss - Bad Pass,1,8,8,22, 176
+2018-11-16 08:44:51 +0000,1,Bell,GA,Deflect,1,8,8,85, 190
+2018-11-16 08:44:52 +0000,0,Manu’a,GK,Throw In,1,8,8,107, 194
+2018-11-16 08:45:34 +0000,0,Price,WD,Possession,1,8,8,95, 115
+2018-11-16 08:45:36 +0000,1,Brazill,WD,Gain - Inter,1,8,8,85, 100
+2018-11-16 08:45:42 +0000,1,Bell,GA,Possession,1,8,8,75, 119
+2018-11-16 08:45:46 +0000,1,Brown,C,Possession,1,8,8,55, 124
+2018-11-16 08:46:12 +0000,1,Thwaites,GS,Possession,1,8,8,62, 161
+2018-11-16 08:46:17 +0000,0,Manu’a,GK,Penaly - Contact,1,8,8,62, 161
+2018-11-16 08:46:17 +0000,1,Robinson,WA,Possession,1,8,8,62, 161
+2018-11-16 08:46:22 +0000,1,Brown,C,Possession,1,8,8,24, 175
+2018-11-16 08:46:25 +0000,1,Brown,C,Assist - Circle Entry,1,8,8,24, 175
+2018-11-16 08:46:25 +0000,1,Thwaites,GS,Goal - Score,1,8,8,57, 191
+2018-11-16 08:46:38 +0000,1,Brown,C,Centre Pass,1,8,9,50, 100
+2018-11-16 08:46:38 +0000,1,Brandley,GD,Assist - Centre Pass Rec,1,8,9,53, 119
+2018-11-16 08:46:40 +0000,1,Robinson,WA,Assist - 2nd Phase,1,8,9,75, 111
+2018-11-16 08:46:45 +0000,0,Price,WD,Penaly - Contact,1,8,9,76, 117
+2018-11-16 08:46:45 +0000,1,Brandley,GD,Possession,1,8,9,76, 117
+2018-11-16 08:46:51 +0000,1,Robinson,WA,Possession,1,8,9,64, 138
+2018-11-16 08:46:53 +0000,1,Brown,C,Possession,1,8,9,20, 152
+2018-11-16 08:46:55 +0000,1,Thwaites,GS,Possession,1,8,9,15, 190
+2018-11-16 08:46:58 +0000,1,Robinson,WA,Possession,1,8,9,23, 176
+2018-11-16 08:47:00 +0000,0,Guthrie,C,Penaly - Contact,1,8,9,23, 176
+2018-11-16 08:47:00 +0000,1,Robinson,WA,Possession,1,8,9,23, 176
+2018-11-16 08:47:04 +0000,1,Robinson,WA,Assist - Circle Entry,1,8,9,23, 176
+2018-11-16 08:47:05 +0000,1,Thwaites,GS,Possession,1,8,9,53, 185
+2018-11-16 08:47:06 +0000,0,Manu’a,GK,Penaly - Obstruction,1,8,9,53, 185
+2018-11-16 08:47:06 +0000,1,Thwaites,GS,Goal - Score,1,8,9,53, 185
+2018-11-16 08:47:13 +0000,0,Guthrie,C,Centre Pass,1,8,10,50, 100
+2018-11-16 08:47:13 +0000,0,Price,WD,Assist - Centre Pass Rec,1,8,10,67, 77
+2018-11-16 08:47:15 +0000,0,Guthrie,C,Assist - 2nd Phase,1,8,10,66, 58
+2018-11-16 08:47:17 +0000,1,Brown,C,Penaly - Obstruction,1,8,10,66, 58
+2018-11-16 08:47:17 +0000,0,Guthrie,C,Possession,1,8,10,66, 58
+2018-11-16 08:47:26 +0000,0,Pettitt ,GS,Possession,1,8,10,75, 29
+2018-11-16 08:47:28 +0000,0,Green,WA,Possession,1,8,10,65, 31
+2018-11-16 08:47:35 +0000,1,Layton,GK,Penaly - Contact,1,8,10,56, 22
+2018-11-16 08:47:35 +0000,0,Pettitt ,GS,Possession,1,8,10,56, 22
+2018-11-16 08:47:39 +0000,0,Harten ,GA,Goal - Score,1,8,10,51, 5
+2018-11-16 08:47:43 +0000,0,,UNKNOWN,Timeout,1,9,10,110, 222
+2018-11-16 08:48:29 +0000,1,Brown,C,Centre Pass,1,9,10,50, 100
+2018-11-16 08:48:29 +0000,1,Bell,GA,Assist - Centre Pass Rec,1,9,10,12, 123
+2018-11-16 08:48:31 +0000,1,Brandley,GD,Assist - 2nd Phase,1,9,10,31, 126
+2018-11-16 08:48:34 +0000,1,Robinson,WA,Possession,1,9,10,32, 150
+2018-11-16 08:48:38 +0000,0,Guthrie,C,Penaly - Contact,1,9,10,32, 150
+2018-11-16 08:48:38 +0000,1,Robinson,WA,Possession,1,9,10,32, 150
+2018-11-16 08:48:46 +0000,0,Manu’a,GK,Penaly - Contact,1,9,10,45, 174
+2018-11-16 08:48:46 +0000,1,Thwaites,GS,Possession,1,9,10,45, 174
+2018-11-16 08:48:50 +0000,1,Bell,GA,Goal - Score,1,9,10,57, 191
+2018-11-16 08:49:01 +0000,0,Guthrie,C,Centre Pass,1,9,11,50, 100
+2018-11-16 08:49:01 +0000,0,Harten ,GA,Assist - Centre Pass Rec,1,9,11,82, 68
+2018-11-16 08:49:04 +0000,0,Harten ,GA,Assist - Circle Entry,1,9,11,82, 68
+2018-11-16 08:49:05 +0000,0,Pettitt ,GS,Goal - Score,1,9,11,50, 7
+2018-11-16 08:49:13 +0000,1,Brown,C,Centre Pass,1,10,11,50, 100
+2018-11-16 08:49:13 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,10,11,81, 119
+2018-11-16 08:49:16 +0000,1,Robinson,WA,Assist - Circle Entry,1,10,11,81, 119
+2018-11-16 08:49:16 +0000,1,Thwaites,GS,Assist - 2nd Phase,1,10,11,34, 189
+2018-11-16 08:49:20 +0000,1,Thwaites,GS,Goal - Score,1,10,11,34, 189
+2018-11-16 08:49:51 +0000,0,Guthrie,C,Centre Pass,1,10,12,50, 100
+2018-11-16 08:49:51 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,1,10,12,56, 73
+2018-11-16 08:49:51 +0000,0,Green,WA,Assist - 2nd Phase,1,10,12,16, 12
+2018-11-16 08:49:54 +0000,0,Harten ,GA,Possession,1,10,12,20, 44
+2018-11-16 08:49:57 +0000,0,Guthrie,C,Possession,1,10,12,62, 40
+2018-11-16 08:49:59 +0000,0,Guthrie,C,Assist - Circle Entry,1,10,12,62, 40
+2018-11-16 08:49:59 +0000,0,Harten ,GA,Possession,1,10,12,50, 20
+2018-11-16 08:50:01 +0000,0,Green,WA,Possession,1,10,12,45, 33
+2018-11-16 08:50:04 +0000,0,Green,WA,Assist - Circle Entry,1,10,12,45, 33
+2018-11-16 08:50:04 +0000,0,Harten ,GA,Possession,1,10,12,56, 8
+2018-11-16 08:50:06 +0000,0,Guthrie,C,Possession,1,10,12,74, 23
+2018-11-16 08:50:08 +0000,0,Guthrie,C,Assist - Circle Entry,1,10,12,74, 23
+2018-11-16 08:50:08 +0000,0,Harten ,GA,Possession,1,10,12,53, 7
+2018-11-16 08:50:24 +0000,0,Guthrie,C,Possession,1,10,12,75, 23
+2018-11-16 08:50:26 +0000,0,Guthrie,C,Assist - Circle Entry,1,10,12,75, 23
+2018-11-16 08:50:26 +0000,0,Harten ,GA,Possession,1,10,12,53, 5
+2018-11-16 08:50:28 +0000,1,Layton,GK,Penaly - Obstruction,1,10,12,53, 5
+2018-11-16 08:50:28 +0000,0,Harten ,GA,Goal - Score,1,10,12,53, 5
+2018-11-16 08:50:35 +0000,1,Brown,C,Centre Pass,1,11,12,50, 100
+2018-11-16 08:50:35 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,11,12,20, 125
+2018-11-16 08:50:40 +0000,0,Guthrie,C,Deflect,1,11,12,17, 175
+2018-11-16 08:50:40 +0000,1,Brown,C,Possession,1,11,12,15, 167
+2018-11-16 08:50:47 +0000,1,Robinson,WA,Possession,1,11,12,75, 170
+2018-11-16 08:50:50 +0000,1,Robinson,WA,Assist - Circle Entry,1,11,12,75, 170
+2018-11-16 08:50:50 +0000,1,Thwaites,GS,Assist - 2nd Phase,1,11,12,43, 186
+2018-11-16 08:50:54 +0000,1,Thwaites,GS,Goal - Score,1,11,12,43, 186
+2018-11-16 08:51:03 +0000,0,Guthrie,C,Centre Pass,1,11,13,50, 100
+2018-11-16 08:51:03 +0000,0,Green,WA,Assist - Centre Pass Rec,1,11,13,85, 73
+2018-11-16 08:51:05 +0000,0,Pettitt ,GS,Assist - 2nd Phase,1,11,13,84, 35
+2018-11-16 08:51:07 +0000,0,Green,WA,Possession,1,11,13,84, 51
+2018-11-16 08:51:09 +0000,0,Harten ,GA,Possession,1,11,13,78, 27
+2018-11-16 08:51:11 +0000,0,Guthrie,C,Possession,1,11,13,78, 49
+2018-11-16 08:51:13 +0000,0,Pettitt ,GS,Possession,1,11,13,73, 25
+2018-11-16 08:51:25 +0000,1,Brandley,GD,Gain - Tip (Deflect),1,11,13,74, 28
+2018-11-16 08:51:32 +0000,1,Brandley,GD,Possession,1,11,13,89, 9
+2018-11-16 08:51:36 +0000,1,Brazill,WD,Possession,1,11,13,86, 39
+2018-11-16 08:51:38 +0000,1,Brandley,GD,Possession,1,11,13,84, 57
+2018-11-16 08:51:42 +0000,0,Bulley ,GD,Penaly - Obstruction,1,11,13,84, 57
+2018-11-16 08:51:42 +0000,1,Layton,GK,Possession,1,11,13,84, 57
+2018-11-16 08:51:48 +0000,1,Robinson,WA,Possession,1,11,13,15, 85
+2018-11-16 08:51:53 +0000,1,Brown,C,Possession,1,11,13,31, 115
+2018-11-16 08:51:55 +0000,0,Guthrie,C,Penaly - Contact,1,11,13,31, 115
+2018-11-16 08:51:55 +0000,1,Brazill,WD,Possession,1,11,13,31, 115
+2018-11-16 08:52:03 +0000,1,Robinson,WA,Possession,1,11,13,78, 140
+2018-11-16 08:52:05 +0000,1,Robinson,WA,Assist - Circle Entry,1,11,13,78, 140
+2018-11-16 08:52:05 +0000,1,Bell,GA,Possession,1,11,13,77, 191
+2018-11-16 08:52:08 +0000,1,Brown,C,Possession,1,11,13,16, 179
+2018-11-16 08:52:12 +0000,0,Manu’a,GK,Penaly - Contact,1,11,13,27, 189
+2018-11-16 08:52:12 +0000,1,Thwaites,GS,Goal - Score,1,11,13,27, 189
+2018-11-16 08:52:26 +0000,1,Brown,C,Centre Pass,1,11,14,50, 100
+2018-11-16 08:52:26 +0000,1,Bell,GA,Assist - Centre Pass Rec,1,11,14,50, 121
+2018-11-16 08:52:28 +0000,1,Robinson,WA,Assist - 2nd Phase,1,11,14,81, 180
+2018-11-16 08:52:43 +0000,1,Bell,GA,Penaly - Contact,1,11,14,74, 187
+2018-11-16 08:52:43 +0000,0,Manu’a,GK,Possession,1,11,14,74, 187
+2018-11-16 08:53:04 +0000,0,Bulley ,GD,Possession,1,11,14,82, 139
+2018-11-16 08:53:08 +0000,0,Green,WA,Possession,1,11,14,36, 69
+2018-11-16 08:53:10 +0000,0,Pettitt ,GS,Possession,1,11,14,70, 27
+2018-11-16 08:53:13 +0000,0,Guthrie,C,Possession,1,11,14,10, 0
+2018-11-16 08:53:14 +0000,1,Brown,C,Penaly - Contact,1,11,14,10, 0
+2018-11-16 08:53:14 +0000,0,Guthrie,C,Possession,1,11,14,10, 0
+2018-11-16 08:53:24 +0000,0,Guthrie,C,Assist - Circle Entry,1,11,14,10, 0
+2018-11-16 08:53:24 +0000,0,Harten ,GA,Goal - Score,1,11,14,32, 10
+2018-11-16 08:53:28 +0000,0,Guthrie,C,Centre Pass,1,12,14,50, 100
+2018-11-16 08:53:28 +0000,0,Green,WA,Assist - Centre Pass Rec,1,12,14,27, 77
+2018-11-16 08:53:31 +0000,0,Bulley ,GD,Loss - Drop,1,12,14,82, 79
+2018-11-16 08:53:36 +0000,1,Brandley,GD,Throw In,1,12,14,104, 71
+2018-11-16 08:53:48 +0000,1,Robinson,WA,Possession,1,12,14,42, 79
+2018-11-16 08:53:50 +0000,1,Brandley,GD,Possession,1,12,14,57, 84
+2018-11-16 08:53:52 +0000,1,Robinson,WA,Possession,1,12,14,16, 87
+2018-11-16 08:53:54 +0000,1,Brown,C,Possession,1,12,14,6, 138
+2018-11-16 08:53:58 +0000,1,Bell,GA,Possession,1,12,14,16, 185
+2018-11-16 08:54:00 +0000,1,Robinson,WA,Possession,1,12,14,37, 164
+2018-11-16 08:54:02 +0000,1,Robinson,WA,Assist - Circle Entry,1,12,14,37, 164
+2018-11-16 08:54:02 +0000,1,Thwaites,GS,Goal - Score,1,12,14,49, 187
+2018-11-16 08:54:13 +0000,1,Brown,C,Centre Pass,1,12,15,50, 100
+2018-11-16 08:54:13 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,12,15,51, 124
+2018-11-16 08:54:15 +0000,1,Bell,GA,Assist - 2nd Phase,1,12,15,56, 162
+2018-11-16 08:54:17 +0000,1,Robinson,WA,Possession,1,12,15,49, 160
+2018-11-16 08:54:19 +0000,1,Brown,C,Possession,1,12,15,18, 147
+2018-11-16 08:54:21 +0000,1,Brown,C,Assist - Circle Entry,1,12,15,18, 147
+2018-11-16 08:54:21 +0000,1,Thwaites,GS,Goal - Miss,1,12,15,66, 187
+2018-11-16 08:54:26 +0000,0,Manu’a,GK,Throw In,1,12,15,50, 192
+2018-11-16 08:54:32 +0000,0,Bulley ,GD,Possession,1,12,15,72, 161
+2018-11-16 08:54:35 +0000,0,Manu’a,GK,Possession,1,12,15,11, 135
+2018-11-16 08:54:38 +0000,0,Price,WD,Possession,1,12,15,17, 94
+2018-11-16 08:54:40 +0000,0,Bulley ,GD,Possession,1,12,15,39, 105
+2018-11-16 08:54:42 +0000,0,Price,WD,Possession,1,12,15,4, 71
+2018-11-16 08:54:46 +0000,1,Brazill,WD,Penaly - Contact,1,12,15,11, 50
+2018-11-16 08:54:46 +0000,0,Green,WA,Possession,1,12,15,11, 50
+2018-11-16 08:54:51 +0000,0,Guthrie,C,Possession,1,12,15,31, 30
+2018-11-16 08:54:52 +0000,0,Guthrie,C,Assist - Circle Entry,1,12,15,31, 30
+2018-11-16 08:54:53 +0000,0,Harten ,GA,Possession,1,12,15,35, 17
+2018-11-16 08:54:54 +0000,0,Guthrie,C,Possession,1,12,15,32, 30
+2018-11-16 08:54:57 +0000,0,Guthrie,C,Assist - Circle Entry,1,12,15,32, 30
+2018-11-16 08:54:57 +0000,0,Harten ,GA,Possession,1,12,15,40, 12
+2018-11-16 08:54:58 +0000,1,Layton,GK,Penaly - Contact,1,12,15,40, 12
+2018-11-16 08:54:58 +0000,0,Harten ,GA,Goal - Score,1,12,15,40, 12
+2018-11-16 08:55:07 +0000,0,Guthrie,C,Centre Pass,1,13,15,50, 100
+2018-11-16 08:55:07 +0000,0,Green,WA,Assist - Centre Pass Rec,1,13,15,10, 73
+2018-11-16 08:55:12 +0000,1,Layton,GK,Penaly - Contact,1,13,15,28, 16
+2018-11-16 08:55:12 +0000,0,Pettitt ,GS,Assist - 2nd Phase,1,13,15,28, 16
+2018-11-16 08:55:18 +0000,0,Harten ,GA,Goal - Score,1,13,15,50, 10
+2018-11-16 08:55:33 +0000,1,Brown,C,Centre Pass,1,14,15,50, 100
+2018-11-16 08:55:33 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,14,15,19, 124
+2018-11-16 08:55:36 +0000,1,Robinson,WA,Assist - Circle Entry,1,14,15,19, 124
+2018-11-16 08:55:36 +0000,1,Thwaites,GS,Assist - 2nd Phase,1,14,15,43, 182
+2018-11-16 08:55:39 +0000,1,Thwaites,GS,Goal - Score,1,14,15,43, 182
+2018-11-16 08:57:24 +0000,0,Guthrie,C,Centre Pass,2,14,16,50, 100
+2018-11-16 08:57:24 +0000,0,Green,WA,Assist - Centre Pass Rec,2,14,16,27, 87
+2018-11-16 08:57:26 +0000,0,Price,WD,Assist - 2nd Phase,2,14,16,26, 114
+2018-11-16 08:57:28 +0000,0,Green,WA,Possession,2,14,16,11, 84
+2018-11-16 08:57:30 +0000,0,Guthrie,C,Loss - Held Ball,2,14,16,20, 50
+2018-11-16 08:57:35 +0000,1,Layton,GK,Possession,2,14,16,18, 52
+2018-11-16 08:57:39 +0000,1,Brazill,WD,Possession,2,14,16,71, 70
+2018-11-16 08:57:41 +0000,1,Robinson,WA,Possession,2,14,16,90, 90
+2018-11-16 08:57:43 +0000,1,Layton,GK,Possession,2,14,16,80, 63
+2018-11-16 08:57:45 +0000,1,Bell,GA,Possession,2,14,16,67, 107
+2018-11-16 08:57:47 +0000,1,Brandley,GD,Possession,2,14,16,24, 128
+2018-11-16 08:57:49 +0000,1,Thwaites,GS,Possession,2,14,16,25, 166
+2018-11-16 08:57:50 +0000,1,Brown,C,Possession,2,14,16,25, 139
+2018-11-16 08:57:52 +0000,1,Robinson,WA,Possession,2,14,16,42, 143
+2018-11-16 08:57:54 +0000,1,Brown,C,Possession,2,14,16,26, 173
+2018-11-16 08:57:59 +0000,1,Brown,C,Assist - Circle Entry,2,14,16,26, 173
+2018-11-16 08:57:59 +0000,1,Bell,GA,Possession,2,14,16,18, 193
+2018-11-16 08:58:02 +0000,1,Robinson,WA,Possession,2,14,16,52, 166
+2018-11-16 08:58:07 +0000,0,Manu’a,GK,Penaly - Contact,2,14,16,52, 176
+2018-11-16 08:58:07 +0000,1,Bell,GA,Goal - Score,2,14,16,52, 176
+2018-11-16 08:58:29 +0000,1,Brown,C,Centre Pass,2,14,17,50, 100
+2018-11-16 08:58:29 +0000,1,Robinson,WA,Loss - Other,2,14,17,43, 132
+2018-11-16 08:58:37 +0000,0,Price,WD,Possession,2,14,17,41, 134
+2018-11-16 08:59:32 +0000,0,Manu’a,GK,Possession,2,14,17,22, 141
+2018-11-16 08:59:34 +0000,0,Price,WD,Possession,2,14,17,23, 127
+2018-11-16 08:59:50 +0000,0,Guthrie,C,Possession,2,14,17,62, 107
+2018-11-16 08:59:53 +0000,0,Green,WA,Loss - Step,2,14,17,77, 87
+2018-11-16 08:59:57 +0000,1,Brazill,WD,Possession,2,14,17,77, 87
+2018-11-16 09:00:00 +0000,1,Brandley,GD,Possession,2,14,17,93, 109
+2018-11-16 09:00:02 +0000,1,Layton,GK,Possession,2,14,17,86, 62
+2018-11-16 09:00:04 +0000,1,Brazill,WD,Possession,2,14,17,35, 94
+2018-11-16 09:00:09 +0000,0,Price,WD,Deflect,2,14,17,15, 156
+2018-11-16 09:00:09 +0000,1,Robinson,WA,Throw In,2,14,17,-8, 165
+2018-11-16 09:00:15 +0000,1,Robinson,WA,Assist - Circle Entry,2,14,17,-8, 165
+2018-11-16 09:00:15 +0000,1,Thwaites,GS,Assist - 2nd Phase,2,14,17,64, 196
+2018-11-16 09:00:17 +0000,1,Thwaites,GS,Goal - Score,2,14,17,64, 196
+2018-11-16 09:00:24 +0000,0,Guthrie,C,Centre Pass,2,14,18,50, 100
+2018-11-16 09:00:24 +0000,0,Green,WA,Assist - Centre Pass Rec,2,14,18,63, 84
+2018-11-16 09:00:28 +0000,0,Green,WA,Assist - Circle Entry,2,14,18,63, 84
+2018-11-16 09:00:28 +0000,0,Harten ,GA,Assist - 2nd Phase,2,14,18,46, 13
+2018-11-16 09:00:31 +0000,0,Harten ,GA,Goal - Score,2,14,18,46, 13
+2018-11-16 09:00:38 +0000,1,Brown,C,Centre Pass,2,15,18,50, 100
+2018-11-16 09:00:38 +0000,1,Bell,GA,Assist - Centre Pass Rec,2,15,18,26, 128
+2018-11-16 09:00:42 +0000,1,Brazill,WD,Assist - 2nd Phase,2,15,18,14, 130
+2018-11-16 09:00:45 +0000,1,Brandley,GD,Possession,2,15,18,92, 120
+2018-11-16 09:00:47 +0000,1,Robinson,WA,Possession,2,15,18,89, 146
+2018-11-16 09:00:49 +0000,1,Brazill,WD,Possession,2,15,18,74, 132
+2018-11-16 09:01:02 +0000,0,Harten ,GA,Penaly - Contact,2,15,18,74, 132
+2018-11-16 09:01:02 +0000,1,Brazill,WD,Possession,2,15,18,74, 132
+2018-11-16 09:01:07 +0000,1,Robinson,WA,Possession,2,15,18,75, 152
+2018-11-16 09:01:10 +0000,1,Bell,GA,Possession,2,15,18,27, 176
+2018-11-16 09:01:12 +0000,1,Brown,C,Possession,2,15,18,55, 166
+2018-11-16 09:01:14 +0000,1,Brown,C,Assist - Circle Entry,2,15,18,55, 166
+2018-11-16 09:01:14 +0000,1,Bell,GA,Goal - Score,2,15,18,55, 182
+2018-11-16 09:01:24 +0000,0,Guthrie,C,Centre Pass,2,15,19,50, 100
+2018-11-16 09:01:24 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,15,19,48, 78
+2018-11-16 09:01:25 +0000,1,Brandley,GD,Penaly - Contact,2,15,19,48, 78
+2018-11-16 09:01:25 +0000,0,Price,WD,Possession,2,15,19,48, 78
+2018-11-16 09:01:34 +0000,0,Guthrie,C,Possession,2,15,19,68, 60
+2018-11-16 09:01:36 +0000,0,Harten ,GA,Possession,2,15,19,83, 17
+2018-11-16 09:01:38 +0000,0,Guthrie,C,Possession,2,15,19,71, 29
+2018-11-16 09:01:41 +0000,0,Guthrie,C,Assist - Circle Entry,2,15,19,71, 29
+2018-11-16 09:01:41 +0000,0,Pettitt ,GS,Assist - 2nd Phase,2,15,19,51, 18
+2018-11-16 09:01:43 +0000,0,Pettitt ,GS,Goal - Score,2,15,19,51, 18
+2018-11-16 09:01:53 +0000,1,Brown,C,Centre Pass,2,16,19,50, 100
+2018-11-16 09:01:53 +0000,1,Brandley,GD,Assist - Centre Pass Rec,2,16,19,68, 78
+2018-11-16 09:01:55 +0000,1,Brazill,WD,Assist - 2nd Phase,2,16,19,66, 94
+2018-11-16 09:01:57 +0000,1,Brandley,GD,Possession,2,16,19,46, 87
+2018-11-16 09:01:59 +0000,1,Brown,C,Possession,2,16,19,94, 143
+2018-11-16 09:02:01 +0000,1,Thwaites,GS,Possession,2,16,19,89, 182
+2018-11-16 09:02:02 +0000,1,Brown,C,Possession,2,16,19,49, 158
+2018-11-16 09:02:13 +0000,1,Brown,C,Assist - Circle Entry,2,16,19,49, 158
+2018-11-16 09:02:13 +0000,1,Thwaites,GS,Goal - Score,2,16,19,40, 196
+2018-11-16 09:02:26 +0000,0,Guthrie,C,Centre Pass,2,16,20,50, 100
+2018-11-16 09:02:26 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,2,16,20,53, 76
+2018-11-16 09:02:28 +0000,0,Harten ,GA,Assist - 2nd Phase,2,16,20,68, 61
+2018-11-16 09:02:31 +0000,0,Harten ,GA,Assist - Circle Entry,2,16,20,68, 61
+2018-11-16 09:02:31 +0000,0,Pettitt ,GS,Goal - Score,2,16,20,40, 7
+2018-11-16 09:02:40 +0000,1,Brown,C,Centre Pass,2,17,20,50, 100
+2018-11-16 09:02:40 +0000,1,Bell,GA,Loss - Bad Pass,2,17,20,6, 126
+2018-11-16 09:02:43 +0000,0,Manu’a,GK,Throw In,2,17,20,24, 206
+2018-11-16 09:02:55 +0000,1,Robinson,WA,Penaly - Contact,2,17,20,16, 158
+2018-11-16 09:02:55 +0000,0,Manu’a,GK,Possession,2,17,20,16, 158
+2018-11-16 09:03:00 +0000,0,Bulley ,GD,Possession,2,17,20,49, 131
+2018-11-16 09:03:02 +0000,0,Green,WA,Possession,2,17,20,48, 93
+2018-11-16 09:03:05 +0000,0,Guthrie,C,Possession,2,17,20,14, 24
+2018-11-16 09:03:08 +0000,0,Pettitt ,GS,Possession,2,17,20,14, 6
+2018-11-16 09:03:11 +0000,0,Pettitt ,GS,Assist - Circle Entry,2,17,20,14, 6
+2018-11-16 09:03:11 +0000,0,Harten ,GA,Goal - Score,2,17,20,42, 7
+2018-11-16 09:03:16 +0000,0,Guthrie,C,Centre Pass,2,18,20,50, 100
+2018-11-16 09:03:16 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,18,20,54, 81
+2018-11-16 09:03:18 +0000,0,Green,WA,Assist - 2nd Phase,2,18,20,83, 75
+2018-11-16 09:03:20 +0000,0,Harten ,GA,Possession,2,18,20,33, 47
+2018-11-16 09:03:23 +0000,0,Harten ,GA,Assist - Circle Entry,2,18,20,33, 47
+2018-11-16 09:03:23 +0000,0,Pettitt ,GS,Goal - Score,2,18,20,66, 16
+2018-11-16 09:03:31 +0000,1,,UNKNOWN,Timeout,2,19,20,-10, -22
+2018-11-16 09:03:50 +0000,1,Brown,C,Centre Pass,2,19,20,50, 100
+2018-11-16 09:03:50 +0000,1,Brazill,WD,Assist - Centre Pass Rec,2,19,20,22, 102
+2018-11-16 09:03:52 +0000,1,Robinson,WA,Assist - 2nd Phase,2,19,20,12, 159
+2018-11-16 09:03:54 +0000,1,Thwaites,GS,Possession,2,19,20,18, 186
+2018-11-16 09:03:56 +0000,0,Bulley ,GD,Deflect,2,19,20,42, 198
+2018-11-16 09:03:56 +0000,1,Bell,GA,Throw In,2,19,20,40, 205
+2018-11-16 09:04:03 +0000,1,Brown,C,Possession,2,19,20,79, 180
+2018-11-16 09:04:08 +0000,0,,UNKNOWN,Penaly - Obstruction,2,19,20,48, 191
+2018-11-16 09:04:08 +0000,1,Thwaites,GS,Goal - Score,2,19,20,48, 191
+2018-11-16 09:04:17 +0000,0,Guthrie,C,Centre Pass,2,19,21,50, 100
+2018-11-16 09:04:17 +0000,0,Green,WA,Assist - Centre Pass Rec,2,19,21,92, 74
+2018-11-16 09:04:20 +0000,0,Harten ,GA,Assist - 2nd Phase,2,19,21,48, 56
+2018-11-16 09:04:22 +0000,0,Green,WA,Possession,2,19,21,57, 54
+2018-11-16 09:04:24 +0000,0,Pettitt ,GS,Possession,2,19,21,12, 31
+2018-11-16 09:04:26 +0000,0,Green,WA,Possession,2,19,21,27, 29
+2018-11-16 09:04:28 +0000,0,Green,WA,Assist - Circle Entry,2,19,21,27, 29
+2018-11-16 09:04:28 +0000,0,Harten ,GA,Possession,2,19,21,39, 22
+2018-11-16 09:04:29 +0000,1,Layton,GK,Penaly - Obstruction,2,19,21,39, 22
+2018-11-16 09:04:29 +0000,0,Pettitt ,GS,Goal - Score,2,19,21,39, 22
+2018-11-16 09:04:41 +0000,1,Brown,C,Centre Pass,2,20,21,50, 100
+2018-11-16 09:04:41 +0000,1,Robinson,WA,Assist - Centre Pass Rec,2,20,21,95, 124
+2018-11-16 09:04:43 +0000,1,Thwaites,GS,Assist - 2nd Phase,2,20,21,90, 180
+2018-11-16 09:04:46 +0000,1,Robinson,WA,Possession,2,20,21,77, 143
+2018-11-16 09:04:47 +0000,1,Brown,C,Possession,2,20,21,46, 162
+2018-11-16 09:04:51 +0000,1,Brown,C,Assist - Circle Entry,2,20,21,46, 162
+2018-11-16 09:04:51 +0000,1,Thwaites,GS,Loss - Drop,2,20,21,48, 182
+2018-11-16 09:04:56 +0000,0,Manu’a,GK,Gain - Pick-up,2,20,21,49, 185
+2018-11-16 09:05:02 +0000,0,Guthrie,C,Possession,2,20,21,83, 165
+2018-11-16 09:05:06 +0000,0,Bulley ,GD,Possession,2,20,21,52, 143
+2018-11-16 09:05:08 +0000,0,Guthrie,C,Possession,2,20,21,81, 126
+2018-11-16 09:05:10 +0000,0,Bulley ,GD,Loss - Bad Pass,2,20,21,88, 73
+2018-11-16 09:05:14 +0000,1,Brandley,GD,Throw In,2,20,21,-6, 74
+2018-11-16 09:05:21 +0000,1,Robinson,WA,Possession,2,20,21,77, 98
+2018-11-16 09:05:23 +0000,1,Brown,C,Possession,2,20,21,92, 131
+2018-11-16 09:05:28 +0000,1,Robinson,WA,Possession,2,20,21,75, 167
+2018-11-16 09:05:30 +0000,1,Robinson,WA,Assist - Circle Entry,2,20,21,75, 167
+2018-11-16 09:05:30 +0000,1,Thwaites,GS,Goal - Score,2,20,21,57, 188
+2018-11-16 09:05:39 +0000,0,Guthrie,C,Centre Pass,2,20,22,50, 100
+2018-11-16 09:05:39 +0000,1,Brazill,WD,Penaly - Contact on CP,2,20,22,45, 77
+2018-11-16 09:05:39 +0000,0,Price,WD,Possession,2,20,22,45, 77
+2018-11-16 09:05:44 +0000,0,Guthrie,C,Assist - 2nd Phase,2,20,22,21, 45
+2018-11-16 09:05:46 +0000,0,Pettitt ,GS,Possession,2,20,22,22, 23
+2018-11-16 09:05:48 +0000,0,Pettitt ,GS,Assist - Circle Entry,2,20,22,22, 23
+2018-11-16 09:05:48 +0000,0,Harten ,GA,Possession,2,20,22,41, 15
+2018-11-16 09:05:51 +0000,1,Layton,GK,Penaly - Contact,2,20,22,39, 10
+2018-11-16 09:05:51 +0000,0,Pettitt ,GS,Goal - Score,2,20,22,39, 10
+2018-11-16 09:06:05 +0000,1,Brown,C,Centre Pass,2,21,22,50, 100
+2018-11-16 09:06:05 +0000,1,Robinson,WA,Assist - Centre Pass Rec,2,21,22,85, 125
+2018-11-16 09:06:07 +0000,1,Bell,GA,Assist - 2nd Phase,2,21,22,17, 128
+2018-11-16 09:06:10 +0000,1,Brown,C,Possession,2,21,22,51, 144
+2018-11-16 09:06:12 +0000,1,Robinson,WA,Possession,2,21,22,37, 158
+2018-11-16 09:06:16 +0000,1,Bell,GA,Possession,2,21,22,14, 187
+2018-11-16 09:06:19 +0000,1,Brown,C,Possession,2,21,22,54, 166
+2018-11-16 09:06:21 +0000,1,Brown,C,Assist - Circle Entry,2,21,22,54, 166
+2018-11-16 09:06:21 +0000,1,Bell,GA,Goal - Score,2,21,22,58, 195
+2018-11-16 09:06:29 +0000,0,Guthrie,C,Centre Pass,2,21,23,50, 100
+2018-11-16 09:06:29 +0000,0,Green,WA,Assist - Centre Pass Rec,2,21,23,60, 92
+2018-11-16 09:06:31 +0000,0,Guthrie,C,Assist - 2nd Phase,2,21,23,37, 79
+2018-11-16 09:06:33 +0000,0,Bulley ,GD,Possession,2,21,23,14, 73
+2018-11-16 09:06:35 +0000,0,Guthrie,C,Possession,2,21,23,15, 54
+2018-11-16 09:06:39 +0000,1,Layton,GK,Gain - Inter,2,21,23,5, 27
+2018-11-16 09:06:47 +0000,1,Bell,GA,Possession,2,21,23,29, 104
+2018-11-16 09:06:49 +0000,1,Brandley,GD,Possession,2,21,23,91, 111
+2018-11-16 09:06:57 +0000,1,Brown,C,Possession,2,21,23,66, 168
+2018-11-16 09:07:04 +0000,1,Bell,GA,Penaly - Contact,2,21,23,54, 175
+2018-11-16 09:07:04 +0000,0,Manu’a,GK,Possession,2,21,23,54, 175
+2018-11-16 09:07:22 +0000,0,Bulley ,GD,Possession,2,21,23,78, 145
+2018-11-16 09:07:26 +0000,0,Green,WA,Deflect,2,21,23,27, 75
+2018-11-16 09:07:30 +0000,1,Layton,GK,Throw In,2,21,23,-6, 60
+2018-11-16 09:07:36 +0000,1,Brandley,GD,Possession,2,21,23,57, 53
+2018-11-16 09:07:40 +0000,1,Brazill,WD,Possession,2,21,23,11, 84
+2018-11-16 09:07:41 +0000,1,Brown,C,Possession,2,21,23,7, 122
+2018-11-16 09:07:44 +0000,1,Bell,GA,Possession,2,21,23,18, 185
+2018-11-16 09:07:51 +0000,1,Brown,C,Possession,2,21,23,74, 176
+2018-11-16 09:07:53 +0000,0,,UNKNOWN,Penaly - Contact,2,21,23,74, 176
+2018-11-16 09:07:53 +0000,1,Robinson,WA,Possession,2,21,23,74, 176
+2018-11-16 09:08:03 +0000,1,Robinson,WA,Assist - Circle Entry,2,21,23,74, 176
+2018-11-16 09:08:03 +0000,1,Bell,GA,Goal - Miss,2,21,23,59, 194
+2018-11-16 09:08:17 +0000,1,Thwaites,GS,Loss - Out of Court,2,21,23,50, 197
+2018-11-16 09:08:22 +0000,0,Manu’a,GK,Possession,2,21,23,49, 197
+2018-11-16 09:08:34 +0000,0,Price,WD,Possession,2,21,23,22, 173
+2018-11-16 09:08:36 +0000,0,Guthrie,C,Possession,2,21,23,49, 151
+2018-11-16 09:08:38 +0000,0,Manu’a,GK,Possession,2,21,23,90, 147
+2018-11-16 09:08:40 +0000,0,Price,WD,Possession,2,21,23,66, 135
+2018-11-16 09:08:42 +0000,0,Guthrie,C,Possession,2,21,23,80, 99
+2018-11-16 09:08:45 +0000,0,Harten ,GA,Possession,2,21,23,86, 65
+2018-11-16 09:08:47 +0000,0,Green,WA,Possession,2,21,23,85, 10
+2018-11-16 09:08:50 +0000,0,Green,WA,Assist - Circle Entry,2,21,23,85, 10
+2018-11-16 09:08:50 +0000,0,Pettitt ,GS,Goal - Score,2,21,23,49, 10
+2018-11-16 09:09:04 +0000,1,Brown,C,Centre Pass,2,22,23,50, 100
+2018-11-16 09:09:04 +0000,1,Bell,GA,Assist - Centre Pass Rec,2,22,23,72, 129
+2018-11-16 09:09:08 +0000,1,Robinson,WA,Assist - 2nd Phase,2,22,23,18, 178
+2018-11-16 09:09:10 +0000,1,Robinson,WA,Assist - Circle Entry,2,22,23,18, 178
+2018-11-16 09:09:10 +0000,1,Thwaites,GS,Possession,2,22,23,26, 192
+2018-11-16 09:09:12 +0000,1,Robinson,WA,Possession,2,22,23,20, 180
+2018-11-16 09:09:14 +0000,1,Brown,C,Possession,2,22,23,48, 166
+2018-11-16 09:09:19 +0000,1,Brown,C,Assist - Circle Entry,2,22,23,48, 166
+2018-11-16 09:09:19 +0000,1,Bell,GA,Goal - Score,2,22,23,48, 182
+2018-11-16 09:09:31 +0000,0,Guthrie,C,Centre Pass,2,22,24,50, 100
+2018-11-16 09:09:31 +0000,1,Brandley,GD,Deflect,2,22,24,77, 80
+2018-11-16 09:09:36 +0000,0,Price,WD,Throw In,2,22,24,105, 109
+2018-11-16 09:09:42 +0000,0,Guthrie,C,Possession,2,22,24,57, 80
+2018-11-16 09:09:52 +0000,0,Green,WA,Possession,2,22,24,43, 71
+2018-11-16 09:09:55 +0000,0,Green,WA,Assist - Circle Entry,2,22,24,43, 71
+2018-11-16 09:09:55 +0000,0,Harten ,GA,Possession,2,22,24,50, 31
+2018-11-16 09:09:56 +0000,1,Brandley,GD,Penaly - Contact,2,22,24,50, 31
+2018-11-16 09:09:56 +0000,0,Harten ,GA,Possession,2,22,24,50, 31
+2018-11-16 09:10:10 +0000,0,Green,WA,Possession,2,22,24,77, 25
+2018-11-16 09:10:13 +0000,0,Green,WA,Assist - Circle Entry,2,22,24,77, 25
+2018-11-16 09:10:13 +0000,0,Harten ,GA,Goal - Score,2,22,24,56, 12
+2018-11-16 09:10:21 +0000,1,Brown,C,Centre Pass,2,23,24,50, 100
+2018-11-16 09:10:21 +0000,1,Robinson,WA,Assist - Centre Pass Rec,2,23,24,96, 127
+2018-11-16 09:10:24 +0000,1,Brown,C,Assist - 2nd Phase,2,23,24,57, 140
+2018-11-16 09:10:27 +0000,1,Bell,GA,Possession,2,23,24,25, 170
+2018-11-16 09:10:28 +0000,0,Bulley ,GD,Penaly - Contact,2,23,24,25, 170
+2018-11-16 09:10:29 +0000,1,Bell,GA,Possession,2,23,24,25, 170
+2018-11-16 09:10:33 +0000,1,Robinson,WA,Loss - Bad Pass,2,23,24,16, 190
+2018-11-16 09:11:07 +0000,0,Manu’a,GK,Gain - Inter,2,23,24,54, 196
+2018-11-16 09:11:24 +0000,0,Guthrie,C,Possession,2,23,24,39, 147
+2018-11-16 09:11:26 +0000,0,Green,WA,Possession,2,23,24,91, 76
+2018-11-16 09:11:29 +0000,0,Guthrie,C,Possession,2,23,24,89, 12
+2018-11-16 09:11:31 +0000,0,Pettitt ,GS,Possession,2,23,24,85, 41
+2018-11-16 09:11:34 +0000,0,Bulley ,GD,Possession,2,23,24,82, 75
+2018-11-16 09:11:36 +0000,0,Guthrie,C,Possession,2,23,24,88, 60
+2018-11-16 09:11:38 +0000,0,Harten ,GA,Possession,2,23,24,86, 21
+2018-11-16 09:11:41 +0000,0,Green,WA,Possession,2,23,24,20, 21
+2018-11-16 09:11:43 +0000,1,Brazill,WD,Penaly - Contact,2,23,24,20, 21
+2018-11-16 09:11:43 +0000,0,Green,WA,Possession,2,23,24,20, 21
+2018-11-16 09:11:49 +0000,0,Green,WA,Assist - Circle Entry,2,23,24,20, 21
+2018-11-16 09:11:49 +0000,0,Harten ,GA,Goal - Miss,2,23,24,36, 15
+2018-11-16 09:11:58 +0000,0,Pettitt ,GS,Assist - Attack Rebound,2,23,24,50, 2
+2018-11-16 09:12:00 +0000,0,Pettitt ,GS,Goal - Score,2,23,24,36, 15
+2018-11-16 09:12:08 +0000,0,Guthrie,C,Centre Pass,2,24,24,50, 100
+2018-11-16 09:12:09 +0000,0,Price,WD,Assist - Centre Pass Rec,2,24,24,62, 95
+2018-11-16 09:12:11 +0000,1,Robinson,WA,Penaly - Contact,2,24,24,62, 95
+2018-11-16 09:12:11 +0000,0,Price,WD,Possession,2,24,24,62, 95
+2018-11-16 09:12:39 +0000,0,Green,WA,Possession,2,24,24,77, 59
+2018-11-16 09:12:44 +0000,0,Guthrie,C,Loss - Drop,2,24,24,50, 52
+2018-11-16 09:13:01 +0000,1,Brandley,GD,Gain - Pick-up,2,24,24,57, 44
+2018-11-16 09:13:12 +0000,1,Layton,GK,Possession,2,24,24,37, 59
+2018-11-16 09:13:14 +0000,1,Brown,C,Possession,2,24,24,9, 124
+2018-11-16 09:13:16 +0000,1,Bell,GA,Possession,2,24,24,16, 182
+2018-11-16 09:13:21 +0000,1,Robinson,WA,Loss - Stopped Lead,2,24,24,75, 176
+2018-11-16 09:13:26 +0000,0,Manu’a,GK,Throw In,2,24,24,105, 169
+2018-11-16 09:13:41 +0000,0,Price,WD,Possession,2,24,24,92, 119
+2018-11-16 09:13:43 +0000,0,Guthrie,C,Possession,2,24,24,74, 81
+2018-11-16 09:13:46 +0000,0,Harten ,GA,Possession,2,24,24,87, 43
+2018-11-16 09:14:19 +0000,0,Pettitt ,GS,Possession,2,24,24,86, 9
+2018-11-16 09:14:22 +0000,0,Green,WA,Possession,2,24,24,91, 58
+2018-11-16 09:14:25 +0000,0,Green,WA,Assist - Circle Entry,2,24,24,91, 58
+2018-11-16 09:14:25 +0000,0,Harten ,GA,Goal - Miss,2,24,24,55, 6
+2018-11-16 09:14:33 +0000,1,Layton,GK,Gain - Def Reb,2,24,24,50, 2
+2018-11-16 09:14:35 +0000,1,Brown,C,Possession,2,24,24,86, 31
+2018-11-16 09:14:39 +0000,1,Brandley,GD,Possession,2,24,24,79, 53
+2018-11-16 09:14:42 +0000,1,Layton,GK,Possession,2,24,24,69, 40
+2018-11-16 09:14:44 +0000,1,Robinson,WA,Possession,2,24,24,90, 95
+2018-11-16 09:14:46 +0000,1,Brazill,WD,Possession,2,24,24,68, 114
+2018-11-16 09:14:49 +0000,1,Brandley,GD,Possession,2,24,24,16, 131
+2018-11-16 09:14:51 +0000,1,Brown,C,Possession,2,24,24,12, 161
+2018-11-16 09:14:53 +0000,1,Robinson,WA,Possession,2,24,24,26, 155
+2018-11-16 09:14:55 +0000,0,Guthrie,C,Penaly - Contact,2,24,24,26, 155
+2018-11-16 09:14:55 +0000,1,Robinson,WA,Possession,2,24,24,26, 155
+2018-11-16 09:15:00 +0000,1,Robinson,WA,Assist - Circle Entry,2,24,24,26, 155
+2018-11-16 09:15:00 +0000,1,Bell,GA,Possession,2,24,24,26, 184
+2018-11-16 09:15:03 +0000,1,Robinson,WA,Possession,2,24,24,24, 175
+2018-11-16 09:15:07 +0000,1,Robinson,WA,Assist - Circle Entry,2,24,24,24, 175
+2018-11-16 09:15:07 +0000,1,Bell,GA,Possession,2,24,24,35, 197
+2018-11-16 09:15:09 +0000,1,Robinson,WA,Possession,2,24,24,23, 177
+2018-11-16 09:15:12 +0000,1,Robinson,WA,Assist - Circle Entry,2,24,24,23, 177
+2018-11-16 09:15:12 +0000,1,Thwaites,GS,Possession,2,24,24,45, 186
+2018-11-16 09:15:14 +0000,0,Manu’a,GK,Penaly - Obstruction,2,24,24,45, 186
+2018-11-16 09:15:14 +0000,1,Thwaites,GS,Goal - Score,2,24,24,45, 186
+2018-11-16 09:15:21 +0000,1,,UNKNOWN,Timeout,2,24,25,-10, -22
+2018-11-16 09:20:12 +0000,1,Brown,C,Centre Pass,2,24,25,50, 100
+2018-11-16 09:20:12 +0000,1,Brazill,WD,Assist - Centre Pass Rec,2,24,25,23, 100
+2018-11-16 09:20:14 +0000,1,Robinson,WA,Assist - 2nd Phase,2,24,25,16, 129
+2018-11-16 09:20:16 +0000,1,Bell,GA,Possession,2,24,25,14, 184
+2018-11-16 09:20:17 +0000,0,Bulley ,GD,Penaly - Contact,2,24,25,14, 184
+2018-11-16 09:20:17 +0000,1,Robinson,WA,Possession,2,24,25,14, 184
+2018-11-16 09:20:22 +0000,1,Robinson,WA,Assist - Circle Entry,2,24,25,14, 184
+2018-11-16 09:20:22 +0000,1,Bell,GA,Goal - Score,2,24,25,39, 190
+2018-11-16 09:20:33 +0000,0,Guthrie,C,Centre Pass,2,24,26,50, 100
+2018-11-16 09:20:33 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,2,24,26,18, 79
+2018-11-16 09:20:35 +0000,0,Green,WA,Assist - 2nd Phase,2,24,26,15, 33
+2018-11-16 09:20:38 +0000,1,Brown,C,Penaly - Obstruction,2,24,26,15, 33
+2018-11-16 09:20:38 +0000,0,Green,WA,Possession,2,24,26,15, 33
+2018-11-16 09:20:40 +0000,0,Green,WA,Assist - Circle Entry,2,24,26,15, 33
+2018-11-16 09:20:40 +0000,0,Harten ,GA,Goal - Score,2,24,26,51, 12
+2018-11-16 09:20:47 +0000,1,Brown,C,Centre Pass,2,25,26,50, 100
+2018-11-16 09:20:47 +0000,1,Robinson,WA,Assist - Centre Pass Rec,2,25,26,18, 127
+2018-11-16 09:20:49 +0000,1,Brown,C,Assist - 2nd Phase,2,25,26,22, 181
+2018-11-16 09:20:55 +0000,1,Robinson,WA,Penaly - Contact,2,25,26,36, 165
+2018-11-16 09:20:55 +0000,0,Manu’a,GK,Possession,2,25,26,36, 165
+2018-11-16 09:21:18 +0000,0,Price,WD,Possession,2,25,26,19, 126
+2018-11-16 09:21:21 +0000,0,Bulley ,GD,Possession,2,25,26,18, 84
+2018-11-16 09:21:23 +0000,0,Green,WA,Possession,2,25,26,16, 59
+2018-11-16 09:21:25 +0000,0,Guthrie,C,Possession,2,25,26,14, 17
+2018-11-16 09:21:26 +0000,0,Pettitt ,GS,Possession,2,25,26,32, 40
+2018-11-16 09:21:29 +0000,0,Green,WA,Possession,2,25,26,82, 14
+2018-11-16 09:21:32 +0000,0,Green,WA,Assist - Circle Entry,2,25,26,82, 14
+2018-11-16 09:21:32 +0000,0,Harten ,GA,Goal - Score,2,25,26,55, 6
+2018-11-16 09:21:40 +0000,0,Guthrie,C,Centre Pass,2,26,26,50, 100
+2018-11-16 09:21:40 +0000,0,Green,WA,Assist - Centre Pass Rec,2,26,26,47, 78
+2018-11-16 09:21:42 +0000,0,Harten ,GA,Loss - Bad Pass,2,26,26,72, 39
+2018-11-16 09:21:46 +0000,1,Layton,GK,Throw In,2,26,26,60, -2
+2018-11-16 09:21:49 +0000,1,Brandley,GD,Possession,2,26,26,60, 42
+2018-11-16 09:21:54 +0000,0,Harten ,GA,Gain - Tip (Deflect),2,26,26,52, 46
+2018-11-16 09:22:01 +0000,0,Pettitt ,GS,Possession,2,26,26,85, 57
+2018-11-16 09:22:05 +0000,0,Guthrie,C,Possession,2,26,26,87, 36
+2018-11-16 09:22:07 +0000,0,Guthrie,C,Assist - Circle Entry,2,26,26,87, 36
+2018-11-16 09:22:07 +0000,0,Harten ,GA,Possession,2,26,26,76, 9
+2018-11-16 09:22:09 +0000,0,Guthrie,C,Possession,2,26,26,80, 20
+2018-11-16 09:22:11 +0000,0,Guthrie,C,Assist - Circle Entry,2,26,26,80, 20
+2018-11-16 09:22:12 +0000,0,Pettitt ,GS,Goal - Score,2,26,26,47, 21
+2018-11-16 09:22:23 +0000,1,Brown,C,Centre Pass,2,27,26,50, 100
+2018-11-16 09:22:24 +0000,1,Robinson,WA,Assist - Centre Pass Rec,2,27,26,17, 127
+2018-11-16 09:22:26 +0000,1,Robinson,WA,Assist - Circle Entry,2,27,26,17, 127
+2018-11-16 09:22:26 +0000,1,Thwaites,GS,Assist - 2nd Phase,2,27,26,77, 187
+2018-11-16 09:22:28 +0000,1,Bell,GA,Goal - Score,2,27,26,55, 195
+2018-11-16 09:22:37 +0000,0,Guthrie,C,Centre Pass,2,27,27,50, 100
+2018-11-16 09:22:37 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,27,27,24, 78
+2018-11-16 09:22:39 +0000,0,Green,WA,Assist - 2nd Phase,2,27,27,17, 28
+2018-11-16 09:22:41 +0000,0,Green,WA,Assist - Circle Entry,2,27,27,17, 28
+2018-11-16 09:22:41 +0000,0,Pettitt ,GS,Goal - Score,2,27,27,37, 6
+2018-11-16 09:22:49 +0000,1,Brown,C,Centre Pass,2,28,27,50, 100
+2018-11-16 09:22:50 +0000,1,Robinson,WA,Assist - Centre Pass Rec,2,28,27,87, 107
+2018-11-16 09:22:51 +0000,1,Brazill,WD,Assist - 2nd Phase,2,28,27,86, 130
+2018-11-16 09:22:59 +0000,0,Price,WD,Penaly - Contact,2,28,27,71, 151
+2018-11-16 09:22:59 +0000,1,Robinson,WA,Possession,2,28,27,71, 151
+2018-11-16 09:23:03 +0000,1,Brown,C,Possession,2,28,27,86, 194
+2018-11-16 09:23:06 +0000,1,Brown,C,Assist - Circle Entry,2,28,27,86, 194
+2018-11-16 09:23:06 +0000,1,Thwaites,GS,Goal - Score,2,28,27,52, 192
+2018-11-16 09:23:20 +0000,0,Guthrie,C,Centre Pass,2,28,28,50, 100
+2018-11-16 09:23:20 +0000,0,Green,WA,Assist - Centre Pass Rec,2,28,28,20, 73
+2018-11-16 09:23:25 +0000,0,Pettitt ,GS,Assist - 2nd Phase,2,28,28,28, 56
+2018-11-16 09:23:27 +0000,0,Bulley ,GD,Possession,2,28,28,69, 71
+2018-11-16 09:23:29 +0000,0,Guthrie,C,Possession,2,28,28,79, 58
+2018-11-16 09:23:31 +0000,0,Green,WA,Possession,2,28,28,84, 34
+2018-11-16 09:23:34 +0000,0,Guthrie,C,Possession,2,28,28,66, 32
+2018-11-16 09:23:38 +0000,0,Guthrie,C,Assist - Circle Entry,2,28,28,66, 32
+2018-11-16 09:23:38 +0000,0,Pettitt ,GS,Goal - Miss,2,28,28,59, 10
+2018-11-16 09:23:46 +0000,1,Brandley,GD,Gain - Def Reb,2,28,28,50, 2
+2018-11-16 09:23:48 +0000,1,Layton,GK,Possession,2,28,28,51, 14
+2018-11-16 09:23:51 +0000,1,Brown,C,Possession,2,28,28,37, 42
+2018-11-16 09:23:54 +0000,1,Robinson,WA,Possession,2,28,28,21, 98
+2018-11-16 09:23:56 +0000,1,Brazill,WD,Loss - Held Ball,2,28,28,18, 130
+2018-11-16 09:24:01 +0000,0,Bulley ,GD,Possession,2,28,28,17, 131
+2018-11-16 09:24:12 +0000,0,Price,WD,Possession,2,28,28,45, 73
+2018-11-16 09:24:32 +0000,0,Green,WA,Possession,2,28,28,48, 56
+2018-11-16 09:24:38 +0000,0,Guthrie,C,Possession,2,28,28,86, 12
+2018-11-16 09:24:41 +0000,0,Pettitt ,GS,Possession,2,28,28,54, 37
+2018-11-16 09:24:43 +0000,0,Guthrie,C,Possession,2,28,28,68, 30
+2018-11-16 09:24:45 +0000,0,Guthrie,C,Assist - Circle Entry,2,28,28,68, 30
+2018-11-16 09:24:46 +0000,0,Pettitt ,GS,Possession,2,28,28,53, 23
+2018-11-16 09:24:47 +0000,1,Layton,GK,Penaly - Contact,2,28,28,53, 23
+2018-11-16 09:24:47 +0000,0,Pettitt ,GS,Possession,2,28,28,53, 23
+2018-11-16 09:24:51 +0000,1,Brandley,GD,Penaly - Contact,2,28,28,53, 23
+2018-11-16 09:24:51 +0000,0,Pettitt ,GS,Goal - Score,2,28,28,53, 23
+2018-11-16 09:24:58 +0000,1,Brown,C,Centre Pass,2,29,28,50, 100
+2018-11-16 09:24:58 +0000,1,Bell,GA,Loss - Bad Pass,2,29,28,18, 129
+2018-11-16 09:25:00 +0000,0,Manu’a,GK,Throw In,2,29,28,6, 206
+2018-11-16 09:25:07 +0000,0,Bulley ,GD,Possession,2,29,28,59, 183
+2018-11-16 09:25:10 +0000,0,Guthrie,C,Possession,2,29,28,29, 119
+2018-11-16 09:25:12 +0000,0,Green,WA,Possession,2,29,28,39, 115
+2018-11-16 09:25:15 +0000,0,Harten ,GA,Possession,2,29,28,55, 75
+2018-11-16 09:25:18 +0000,1,Brown,C,Penaly - Contact,2,29,28,54, 57
+2018-11-16 09:25:18 +0000,0,Harten ,GA,Possession,2,29,28,54, 57
+2018-11-16 09:25:25 +0000,0,Harten ,GA,Assist - Circle Entry,2,29,28,54, 57
+2018-11-16 09:25:25 +0000,0,Pettitt ,GS,Possession,2,29,28,62, 15
+2018-11-16 09:25:26 +0000,0,Guthrie,C,Possession,2,29,28,76, 24
+2018-11-16 09:25:28 +0000,0,Guthrie,C,Assist - Circle Entry,2,29,28,76, 24
+2018-11-16 09:25:28 +0000,0,Pettitt ,GS,Goal - Score,2,29,28,57, 10
+2018-11-16 09:43:02 +0000,0,Manu’a,UNKNOWN,Interchange - Poolman ,3,30,28,
+2018-11-16 09:43:02 +0000,0,Brown,UNKNOWN,Interchange - Ravaillion,3,30,28,
+2018-11-16 09:43:25 +0000,0,Guthrie,C,Centre Pass,3,30,28,50, 100
+2018-11-16 09:43:26 +0000,0,Green,WA,Assist - Centre Pass Rec,3,30,28,13, 73
+2018-11-16 09:43:28 +0000,0,Price,WD,Assist - 2nd Phase,3,30,28,71, 72
+2018-11-16 09:43:30 +0000,0,Pettitt ,GS,Possession,3,30,28,81, 41
+2018-11-16 09:43:33 +0000,0,Green,WA,Possession,3,30,28,17, 31
+2018-11-16 09:43:35 +0000,0,Green,WA,Assist - Circle Entry,3,30,28,17, 31
+2018-11-16 09:43:35 +0000,0,Harten ,GA,Goal - Score,3,30,28,57, 4
+2018-11-16 09:43:43 +0000,1,Ravaillion,C,Centre Pass,3,31,28,50, 100
+2018-11-16 09:43:44 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,31,28,29, 110
+2018-11-16 09:43:45 +0000,1,Ravaillion,C,Assist - 2nd Phase,3,31,28,14, 125
+2018-11-16 09:43:47 +0000,1,Thwaites,GS,Possession,3,31,28,11, 154
+2018-11-16 09:43:51 +0000,1,Robinson,WA,Possession,3,31,28,31, 166
+2018-11-16 09:44:32 +0000,1,Robinson,WA,Assist - Circle Entry,3,31,28,31, 166
+2018-11-16 09:44:32 +0000,1,Bell,GA,Goal - Score,3,31,28,53, 179
+2018-11-16 09:44:41 +0000,0,Guthrie,C,Centre Pass,3,31,29,50, 100
+2018-11-16 09:44:41 +0000,0,Green,WA,Assist - Centre Pass Rec,3,31,29,72, 73
+2018-11-16 09:44:45 +0000,0,Green,WA,Assist - 2nd Phase,3,31,29,48, 54
+2018-11-16 09:44:47 +0000,0,Green,WA,Assist - Circle Entry,3,31,29,48, 54
+2018-11-16 09:44:47 +0000,0,Harten ,GA,Possession,3,31,29,62, 12
+2018-11-16 09:44:49 +0000,0,Guthrie,C,Possession,3,31,29,22, 23
+2018-11-16 09:44:52 +0000,0,Guthrie,C,Assist - Circle Entry,3,31,29,22, 23
+2018-11-16 09:44:52 +0000,0,Pettitt ,GS,Goal - Score,3,31,29,38, 8
+2018-11-16 09:45:00 +0000,1,Ravaillion,C,Centre Pass,3,32,29,50, 100
+2018-11-16 09:45:00 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,32,29,7, 120
+2018-11-16 09:45:01 +0000,1,Bell,GA,Assist - 2nd Phase,3,32,29,7, 153
+2018-11-16 09:45:05 +0000,1,Robinson,WA,Possession,3,32,29,74, 172
+2018-11-16 09:45:07 +0000,1,Robinson,WA,Assist - Circle Entry,3,32,29,74, 172
+2018-11-16 09:45:07 +0000,1,Thwaites,GS,Goal - Score,3,32,29,44, 194
+2018-11-16 09:45:15 +0000,0,Guthrie,C,Centre Pass,3,32,30,50, 100
+2018-11-16 09:45:15 +0000,0,Green,WA,Assist - Centre Pass Rec,3,32,30,55, 82
+2018-11-16 09:45:17 +0000,0,Pettitt ,GS,Assist - 2nd Phase,3,32,30,71, 31
+2018-11-16 09:45:20 +0000,0,Green,WA,Possession,3,32,30,19, 20
+2018-11-16 09:45:23 +0000,0,Green,WA,Assist - Circle Entry,3,32,30,19, 20
+2018-11-16 09:45:23 +0000,0,Pettitt ,GS,Possession,3,32,30,42, 9
+2018-11-16 09:45:25 +0000,0,Green,WA,Possession,3,32,30,19, 18
+2018-11-16 09:45:27 +0000,0,Green,WA,Assist - Circle Entry,3,32,30,19, 18
+2018-11-16 09:45:27 +0000,0,Pettitt ,GS,Goal - Score,3,32,30,45, 6
+2018-11-16 09:45:35 +0000,1,Ravaillion,C,Centre Pass,3,33,30,50, 100
+2018-11-16 09:45:35 +0000,1,Bell,GA,Assist - Centre Pass Rec,3,33,30,19, 119
+2018-11-16 09:45:38 +0000,1,Ravaillion,C,Assist - 2nd Phase,3,33,30,40, 136
+2018-11-16 09:45:40 +0000,1,Thwaites,GS,Possession,3,33,30,50, 162
+2018-11-16 09:45:42 +0000,1,Ravaillion,C,Possession,3,33,30,46, 161
+2018-11-16 09:45:44 +0000,1,Robinson,WA,Possession,3,33,30,56, 163
+2018-11-16 09:45:47 +0000,0,Guthrie,C,Penaly - Contact,3,33,30,56, 163
+2018-11-16 09:45:47 +0000,1,Robinson,WA,Possession,3,33,30,56, 163
+2018-11-16 09:45:52 +0000,1,Robinson,WA,Assist - Circle Entry,3,33,30,56, 163
+2018-11-16 09:45:52 +0000,1,Thwaites,GS,Goal - Score,3,33,30,40, 193
+2018-11-16 09:46:01 +0000,0,Guthrie,C,Centre Pass,3,33,31,50, 100
+2018-11-16 09:46:01 +0000,0,Price,WD,Assist - Centre Pass Rec,3,33,31,26, 91
+2018-11-16 09:46:04 +0000,0,Guthrie,C,Assist - 2nd Phase,3,33,31,48, 66
+2018-11-16 09:46:17 +0000,1,Brazill,WD,Gain - Tip (Deflect),3,33,31,61, 54
+2018-11-16 09:46:22 +0000,0,Guthrie,C,Deflect,3,33,31,49, 61
+2018-11-16 09:46:22 +0000,1,Brazill,WD,Possession,3,33,31,50, 49
+2018-11-16 09:46:37 +0000,1,Layton,GK,Possession,3,33,31,26, 52
+2018-11-16 09:46:39 +0000,1,Brandley,GD,Possession,3,33,31,17, 69
+2018-11-16 09:46:41 +0000,1,Brazill,WD,Possession,3,33,31,16, 82
+2018-11-16 09:46:43 +0000,1,Brandley,GD,Possession,3,33,31,29, 85
+2018-11-16 09:46:49 +0000,0,Green,WA,Gain - Tip (Deflect),3,33,31,32, 72
+2018-11-16 09:46:55 +0000,0,Harten ,GA,Possession,3,33,31,12, 74
+2018-11-16 09:46:59 +0000,0,Harten ,GA,Assist - Circle Entry,3,33,31,12, 74
+2018-11-16 09:46:59 +0000,0,Pettitt ,GS,Goal - Score,3,33,31,45, 8
+2018-11-16 09:47:12 +0000,1,Ravaillion,C,Centre Pass,3,34,31,50, 100
+2018-11-16 09:47:12 +0000,1,Brandley,GD,Loss - Break,3,34,31,45, 67
+2018-11-16 09:47:12 +0000,0,Price,WD,Possession,3,34,31,45, 67
+2018-11-16 09:47:25 +0000,0,Green,WA,Possession,3,34,31,22, 54
+2018-11-16 09:47:28 +0000,0,Guthrie,C,Possession,3,34,31,25, 28
+2018-11-16 09:47:29 +0000,0,Guthrie,C,Assist - Circle Entry,3,34,31,25, 28
+2018-11-16 09:47:30 +0000,0,Harten ,GA,Possession,3,34,31,33, 16
+2018-11-16 09:47:31 +0000,0,Guthrie,C,Possession,3,34,31,26, 28
+2018-11-16 09:47:37 +0000,0,Guthrie,C,Assist - Circle Entry,3,34,31,26, 28
+2018-11-16 09:47:37 +0000,0,Harten ,GA,Goal - Score,3,34,31,39, 10
+2018-11-16 09:47:52 +0000,0,Guthrie,C,Centre Pass,3,35,31,50, 100
+2018-11-16 09:47:52 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,3,35,31,36, 115
+2018-11-16 09:47:54 +0000,0,Guthrie,C,Assist - 2nd Phase,3,35,31,69, 108
+2018-11-16 09:47:57 +0000,0,Price,WD,Possession,3,35,31,38, 101
+2018-11-16 09:47:59 +0000,1,Bell,GA,Penaly - Contact,3,35,31,38, 101
+2018-11-16 09:47:59 +0000,0,Price,WD,Possession,3,35,31,38, 101
+2018-11-16 09:48:05 +0000,0,Bulley ,GD,Possession,3,35,31,71, 80
+2018-11-16 09:48:07 +0000,0,Price,WD,Possession,3,35,31,51, 72
+2018-11-16 09:48:10 +0000,0,Green,WA,Possession,3,35,31,38, 49
+2018-11-16 09:48:12 +0000,0,Green,WA,Assist - Circle Entry,3,35,31,38, 49
+2018-11-16 09:48:12 +0000,0,Harten ,GA,Goal - Score,3,35,31,52, 5
+2018-11-16 09:48:20 +0000,1,Ravaillion,C,Centre Pass,3,36,31,50, 100
+2018-11-16 09:48:21 +0000,1,Brazill,WD,Assist - Centre Pass Rec,3,36,31,51, 81
+2018-11-16 09:48:23 +0000,1,Bell,GA,Assist - 2nd Phase,3,36,31,76, 123
+2018-11-16 09:48:26 +0000,1,Brazill,WD,Possession,3,36,31,62, 126
+2018-11-16 09:48:28 +0000,1,Robinson,WA,Possession,3,36,31,59, 140
+2018-11-16 09:48:30 +0000,1,Brazill,WD,Possession,3,36,31,60, 128
+2018-11-16 09:48:33 +0000,1,Robinson,WA,Possession,3,36,31,57, 148
+2018-11-16 09:48:34 +0000,0,Guthrie,C,Penaly - Contact,3,36,31,57, 148
+2018-11-16 09:48:34 +0000,1,Robinson,WA,Possession,3,36,31,57, 148
+2018-11-16 09:48:37 +0000,1,Bell,GA,Possession,3,36,31,37, 158
+2018-11-16 09:48:39 +0000,1,Robinson,WA,Possession,3,36,31,20, 178
+2018-11-16 09:49:50 +0000,0,Bulley ,GD,Gain - Tip (Deflect),3,36,31,55, 186
+2018-11-16 09:50:04 +0000,1,Thwaites,GS,Penaly - Contact,3,36,31,73, 186
+2018-11-16 09:50:04 +0000,0,Poolman ,GK,Possession,3,36,31,73, 186
+2018-11-16 09:50:25 +0000,0,Bulley ,GD,Possession,3,36,31,20, 148
+2018-11-16 09:50:28 +0000,1,Ravaillion,C,Penaly - Contact,3,36,31,29, 94
+2018-11-16 09:50:29 +0000,0,Price,WD,Possession,3,36,31,29, 94
+2018-11-16 09:50:32 +0000,0,Bulley ,GD,Possession,3,36,31,74, 71
+2018-11-16 09:50:35 +0000,0,Pettitt ,GS,Possession,3,36,31,59, 31
+2018-11-16 09:50:37 +0000,0,Guthrie,C,Possession,3,36,31,25, 24
+2018-11-16 09:50:40 +0000,0,Guthrie,C,Assist - Circle Entry,3,36,31,25, 24
+2018-11-16 09:50:40 +0000,0,Harten ,GA,Loss - Out of Court,3,36,31,63, 1
+2018-11-16 09:50:51 +0000,1,Layton,GK,Throw In,3,36,31,64, 1
+2018-11-16 09:50:59 +0000,1,Brandley,GD,Possession,3,36,31,47, 10
+2018-11-16 09:51:01 +0000,1,Layton,GK,Possession,3,36,31,42, 22
+2018-11-16 09:51:03 +0000,1,Brandley,GD,Possession,3,36,31,78, 29
+2018-11-16 09:51:05 +0000,1,Robinson,WA,Possession,3,36,31,86, 84
+2018-11-16 09:51:07 +0000,1,Ravaillion,C,Possession,3,36,31,11, 138
+2018-11-16 09:51:09 +0000,1,Thwaites,GS,Possession,3,36,31,18, 181
+2018-11-16 09:51:11 +0000,1,Thwaites,GS,Assist - Circle Entry,3,36,31,18, 181
+2018-11-16 09:51:11 +0000,1,Bell,GA,Goal - Score,3,36,31,44, 190
+2018-11-16 09:51:20 +0000,0,Guthrie,C,Centre Pass,3,36,32,50, 100
+2018-11-16 09:51:20 +0000,0,Harten ,GA,Assist - Centre Pass Rec,3,36,32,9, 71
+2018-11-16 09:51:23 +0000,0,Price,WD,Assist - 2nd Phase,3,36,32,88, 73
+2018-11-16 09:51:25 +0000,0,Pettitt ,GS,Possession,3,36,32,83, 53
+2018-11-16 09:51:34 +0000,0,Guthrie,C,Possession,3,36,32,64, 36
+2018-11-16 09:51:36 +0000,0,Pettitt ,GS,Possession,3,36,32,79, 16
+2018-11-16 09:51:38 +0000,0,Green,WA,Possession,3,36,32,14, 8
+2018-11-16 09:51:42 +0000,1,Brazill,WD,Penaly - Contact,3,36,32,14, 8
+2018-11-16 09:51:43 +0000,0,Green,WA,Possession,3,36,32,14, 8
+2018-11-16 09:51:53 +0000,0,Green,WA,Assist - Circle Entry,3,36,32,14, 8
+2018-11-16 09:51:53 +0000,0,Pettitt ,GS,Possession,3,36,32,29, 14
+2018-11-16 09:51:56 +0000,0,Harten ,GA,Goal - Score,3,36,32,54, 6
+2018-11-16 09:53:17 +0000,1,Ravaillion,C,Centre Pass,3,37,32,50, 100
+2018-11-16 09:53:17 +0000,1,Brazill,WD,Loss - Bad Pass,3,37,32,93, 70
+2018-11-16 09:53:20 +0000,0,Pettitt ,GS,Throw In,3,37,32,56, -5
+2018-11-16 09:53:31 +0000,0,Green,WA,Possession,3,37,32,82, 9
+2018-11-16 09:53:34 +0000,0,Green,WA,Assist - Circle Entry,3,37,32,82, 9
+2018-11-16 09:53:34 +0000,0,Pettitt ,GS,Possession,3,37,32,60, 4
+2018-11-16 09:53:35 +0000,1,Layton,GK,Penaly - Contact,3,37,32,60, 4
+2018-11-16 09:53:35 +0000,0,Pettitt ,GS,Goal - Score,3,37,32,60, 4
+2018-11-16 09:53:46 +0000,1,,UNKNOWN,Timeout,3,38,32,110, 222
+2018-11-16 09:54:13 +0000,0,Brandley,UNKNOWN,Interchange - Garrett,3,38,32,
+2018-11-16 09:54:59 +0000,0,Guthrie,C,Centre Pass,3,38,32,50, 100
+2018-11-16 09:54:59 +0000,0,Green,WA,Assist - Centre Pass Rec,3,38,32,4, 72
+2018-11-16 09:55:01 +0000,0,Harten ,GA,Assist - 2nd Phase,3,38,32,14, 45
+2018-11-16 09:55:03 +0000,0,Harten ,GA,Assist - Circle Entry,3,38,32,14, 45
+2018-11-16 09:55:04 +0000,0,Pettitt ,GS,Possession,3,38,32,54, 17
+2018-11-16 09:55:06 +0000,0,Green,WA,Possession,3,38,32,59, 33
+2018-11-16 09:55:09 +0000,0,Guthrie,C,Loss - Replay,3,38,32,76, 21
+2018-11-16 09:55:14 +0000,1,Layton,GK,Possession,3,38,32,78, 20
+2018-11-16 09:55:20 +0000,1,Brazill,WD,Possession,3,38,32,56, 42
+2018-11-16 09:55:23 +0000,1,Ravaillion,C,Possession,3,38,32,62, 59
+2018-11-16 09:55:24 +0000,1,Layton,GK,Possession,3,38,32,9, 58
+2018-11-16 09:55:26 +0000,1,Brazill,WD,Possession,3,38,32,7, 74
+2018-11-16 09:55:28 +0000,1,Ravaillion,C,Possession,3,38,32,94, 108
+2018-11-16 09:55:32 +0000,1,Bell,GA,Loss - Out of Court,3,38,32,96, 174
+2018-11-16 09:55:39 +0000,0,Poolman ,GK,Throw In,3,38,32,97, 174
+2018-11-16 09:55:49 +0000,0,Bulley ,GD,Possession,3,38,32,12, 182
+2018-11-16 09:55:55 +0000,0,Price,WD,Possession,3,38,32,81, 109
+2018-11-16 09:55:57 +0000,0,Harten ,GA,Possession,3,38,32,87, 72
+2018-11-16 09:56:00 +0000,0,Pettitt ,GS,Possession,3,38,32,62, 57
+2018-11-16 09:56:02 +0000,0,Green,WA,Possession,3,38,32,57, 43
+2018-11-16 09:56:04 +0000,0,Green,WA,Assist - Circle Entry,3,38,32,57, 43
+2018-11-16 09:56:04 +0000,0,Harten ,GA,Possession,3,38,32,56, 24
+2018-11-16 09:56:06 +0000,1,Garrett,GD,Penaly - Contact,3,38,32,56, 24
+2018-11-16 09:56:06 +0000,0,Harten ,GA,Goal - Score,3,38,32,56, 24
+2018-11-16 09:56:15 +0000,1,Ravaillion,C,Centre Pass,3,39,32,50, 100
+2018-11-16 09:56:15 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,39,32,8, 125
+2018-11-16 09:56:18 +0000,1,Ravaillion,C,Assist - 2nd Phase,3,39,32,81, 155
+2018-11-16 09:56:22 +0000,1,Bell,GA,Possession,3,39,32,84, 191
+2018-11-16 09:56:25 +0000,0,Poolman ,GK,Deflect,3,39,32,32, 193
+2018-11-16 09:56:25 +0000,1,Bell,GA,Throw In,3,39,32,26, 206
+2018-11-16 09:56:34 +0000,1,Ravaillion,C,Possession,3,39,32,30, 168
+2018-11-16 09:56:39 +0000,1,Ravaillion,C,Assist - Circle Entry,3,39,32,30, 168
+2018-11-16 09:56:39 +0000,1,Bell,GA,Goal - Score,3,39,32,39, 191
+2018-11-16 09:56:45 +0000,0,Guthrie,C,Centre Pass,3,39,33,50, 100
+2018-11-16 09:56:45 +0000,0,Harten ,GA,Assist - Centre Pass Rec,3,39,33,17, 71
+2018-11-16 09:56:49 +0000,0,Green,WA,Assist - 2nd Phase,3,39,33,51, 67
+2018-11-16 09:57:15 +0000,0,Harten ,GA,Loss - Bad Pass,3,39,33,63, 31
+2018-11-16 09:57:23 +0000,1,Garrett,GD,Possession,3,39,33,31, 5
+2018-11-16 09:57:27 +0000,1,Ravaillion,C,Possession,3,39,33,13, 20
+2018-11-16 09:57:30 +0000,0,Guthrie,C,Penaly - Contact,3,39,33,13, 20
+2018-11-16 09:57:30 +0000,1,Ravaillion,C,Possession,3,39,33,13, 20
+2018-11-16 09:57:34 +0000,1,Layton,GK,Possession,3,39,33,17, 58
+2018-11-16 09:57:36 +0000,1,Brazill,WD,Possession,3,39,33,27, 80
+2018-11-16 09:57:44 +0000,1,Bell,GA,Possession,3,39,33,53, 143
+2018-11-16 09:57:48 +0000,1,Bell,GA,Assist - Circle Entry,3,39,33,53, 143
+2018-11-16 09:57:48 +0000,1,Thwaites,GS,Possession,3,39,33,59, 184
+2018-11-16 09:57:50 +0000,0,Poolman ,GK,Penaly - Contact,3,39,33,59, 184
+2018-11-16 09:57:50 +0000,1,Thwaites,GS,Possession,3,39,33,59, 184
+2018-11-16 09:57:53 +0000,1,Bell,GA,Goal - Score,3,39,33,43, 190
+2018-11-16 09:58:04 +0000,1,Ravaillion,C,Centre Pass,3,39,34,50, 100
+2018-11-16 09:58:04 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,39,34,79, 122
+2018-11-16 09:58:06 +0000,1,Thwaites,GS,Assist - 2nd Phase,3,39,34,84, 180
+2018-11-16 09:58:10 +0000,1,Robinson,WA,Possession,3,39,34,57, 161
+2018-11-16 09:58:12 +0000,1,Ravaillion,C,Possession,3,39,34,18, 181
+2018-11-16 09:58:15 +0000,1,Ravaillion,C,Assist - Circle Entry,3,39,34,18, 181
+2018-11-16 09:58:15 +0000,1,Thwaites,GS,Possession,3,39,34,34, 190
+2018-11-16 09:58:16 +0000,0,Bulley ,GD,Penaly - Contact,3,39,34,34, 190
+2018-11-16 09:58:16 +0000,1,Thwaites,GS,Goal - Score,3,39,34,34, 190
+2018-11-16 09:58:30 +0000,0,Guthrie,C,Centre Pass,3,39,35,50, 100
+2018-11-16 09:58:30 +0000,0,Green,WA,Assist - Centre Pass Rec,3,39,35,21, 71
+2018-11-16 09:58:35 +0000,1,Ravaillion,C,Penaly - Obstruction,3,39,35,21, 71
+2018-11-16 09:58:35 +0000,0,Price,WD,Possession,3,39,35,21, 71
+2018-11-16 09:58:42 +0000,0,Guthrie,C,Possession,3,39,35,72, 28
+2018-11-16 09:58:44 +0000,0,Guthrie,C,Assist - Circle Entry,3,39,35,72, 28
+2018-11-16 09:58:44 +0000,0,Harten ,GA,Assist - 2nd Phase,3,39,35,67, 20
+2018-11-16 09:58:46 +0000,0,Green,WA,Possession,3,39,35,52, 33
+2018-11-16 09:58:55 +0000,0,Green,WA,Assist - Circle Entry,3,39,35,52, 33
+2018-11-16 09:58:55 +0000,0,Harten ,GA,Possession,3,39,35,51, 25
+2018-11-16 09:58:59 +0000,1,Garrett,GD,Penaly - Contact,3,39,35,51, 25
+2018-11-16 09:58:59 +0000,0,Pettitt ,GS,Goal - Score,3,39,35,51, 25
+2018-11-16 09:59:21 +0000,1,Ravaillion,C,Centre Pass,3,40,35,50, 100
+2018-11-16 09:59:22 +0000,1,Brazill,WD,Assist - Centre Pass Rec,3,40,35,81, 119
+2018-11-16 09:59:25 +0000,1,Robinson,WA,Assist - 2nd Phase,3,40,35,78, 167
+2018-11-16 09:59:35 +0000,1,Garrett,GD,Possession,3,40,35,63, 128
+2018-11-16 09:59:39 +0000,1,Robinson,WA,Possession,3,40,35,58, 155
+2018-11-16 09:59:41 +0000,1,Ravaillion,C,Possession,3,40,35,22, 171
+2018-11-16 09:59:45 +0000,1,Robinson,WA,Possession,3,40,35,83, 183
+2018-11-16 09:59:52 +0000,1,Robinson,WA,Assist - Circle Entry,3,40,35,83, 183
+2018-11-16 09:59:52 +0000,1,Thwaites,GS,Possession,3,40,35,44, 189
+2018-11-16 09:59:53 +0000,0,Poolman ,GK,Penaly - Contact,3,40,35,44, 189
+2018-11-16 09:59:53 +0000,1,Bell,GA,Goal - Score,3,40,35,44, 189
+2018-11-16 10:00:04 +0000,0,Guthrie,C,Centre Pass,3,40,36,50, 100
+2018-11-16 10:00:04 +0000,0,Green,WA,Assist - Centre Pass Rec,3,40,36,50, 74
+2018-11-16 10:00:08 +0000,0,Green,WA,Assist - Circle Entry,3,40,36,50, 74
+2018-11-16 10:00:08 +0000,0,Pettitt ,GS,Assist - 2nd Phase,3,40,36,49, 7
+2018-11-16 10:00:11 +0000,0,Pettitt ,GS,Goal - Score,3,40,36,49, 7
+2018-11-16 10:00:18 +0000,1,Ravaillion,C,Centre Pass,3,41,36,50, 100
+2018-11-16 10:00:18 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,41,36,82, 122
+2018-11-16 10:00:21 +0000,1,Brazill,WD,Assist - 2nd Phase,3,41,36,72, 127
+2018-11-16 10:00:23 +0000,1,Thwaites,GS,Possession,3,41,36,76, 150
+2018-11-16 10:00:25 +0000,1,Garrett,GD,Possession,3,41,36,76, 130
+2018-11-16 10:00:27 +0000,1,Bell,GA,Loss - Bad Pass,3,41,36,72, 157
+2018-11-16 10:00:33 +0000,0,Guthrie,C,Gain - Inter,3,41,36,33, 165
+2018-11-16 10:00:40 +0000,0,Price,WD,Possession,3,41,36,44, 135
+2018-11-16 10:00:52 +0000,0,Harten ,GA,Loss - Step,3,41,36,76, 62
+2018-11-16 10:00:56 +0000,1,Layton,GK,Possession,3,41,36,77, 62
+2018-11-16 10:01:02 +0000,1,Ravaillion,C,Possession,3,41,36,69, 81
+2018-11-16 10:01:04 +0000,1,Garrett,GD,Possession,3,41,36,89, 101
+2018-11-16 10:01:06 +0000,1,Ravaillion,C,Possession,3,41,36,72, 98
+2018-11-16 10:01:07 +0000,1,Brazill,WD,Possession,3,41,36,55, 106
+2018-11-16 10:01:11 +0000,1,Ravaillion,C,Possession,3,41,36,83, 161
+2018-11-16 10:01:13 +0000,1,Robinson,WA,Possession,3,41,36,62, 165
+2018-11-16 10:01:15 +0000,0,Price,WD,Penaly - Contact,3,41,36,62, 165
+2018-11-16 10:01:15 +0000,1,Robinson,WA,Possession,3,41,36,62, 165
+2018-11-16 10:01:18 +0000,0,Poolman ,GK,Penaly - Contact,3,41,36,59, 186
+2018-11-16 10:01:18 +0000,1,Thwaites,GS,Goal - Score,3,41,36,59, 186
+2018-11-16 10:01:36 +0000,0,Guthrie,C,Centre Pass,3,41,37,50, 100
+2018-11-16 10:01:36 +0000,0,Harten ,GA,Loss - Bad Pass,3,41,37,2, 74
+2018-11-16 10:01:41 +0000,1,Brazill,WD,Gain - Inter,3,41,37,30, 54
+2018-11-16 10:01:56 +0000,1,Ravaillion,C,Possession,3,41,37,54, 59
+2018-11-16 10:01:59 +0000,1,Brazill,WD,Possession,3,41,37,55, 78
+2018-11-16 10:02:01 +0000,1,Garrett,GD,Possession,3,41,37,17, 70
+2018-11-16 10:02:03 +0000,1,Brazill,WD,Possession,3,41,37,16, 115
+2018-11-16 10:02:10 +0000,1,Ravaillion,C,Possession,3,41,37,83, 159
+2018-11-16 10:02:12 +0000,1,Ravaillion,C,Assist - Circle Entry,3,41,37,83, 159
+2018-11-16 10:02:12 +0000,1,Thwaites,GS,Goal - Score,3,41,37,46, 192
+2018-11-16 10:02:25 +0000,0,,UNKNOWN,Timeout,3,41,38,110, 222
+2018-11-16 10:03:01 +0000,1,Ravaillion,C,Centre Pass,3,41,38,50, 100
+2018-11-16 10:03:01 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,41,38,34, 113
+2018-11-16 10:03:03 +0000,1,Garrett,GD,Assist - 2nd Phase,3,41,38,72, 110
+2018-11-16 10:03:05 +0000,1,Ravaillion,C,Possession,3,41,38,48, 123
+2018-11-16 10:03:07 +0000,1,Brazill,WD,Possession,3,41,38,20, 126
+2018-11-16 10:03:08 +0000,1,Robinson,WA,Possession,3,41,38,9, 148
+2018-11-16 10:03:10 +0000,1,Brazill,WD,Possession,3,41,38,22, 128
+2018-11-16 10:03:12 +0000,1,Robinson,WA,Possession,3,41,38,55, 158
+2018-11-16 10:03:14 +0000,1,Ravaillion,C,Possession,3,41,38,83, 185
+2018-11-16 10:03:16 +0000,1,Robinson,WA,Possession,3,41,38,56, 163
+2018-11-16 10:03:22 +0000,1,Robinson,WA,Assist - Circle Entry,3,41,38,56, 163
+2018-11-16 10:03:22 +0000,1,Thwaites,GS,Goal - Score,3,41,38,44, 191
+2018-11-16 10:03:33 +0000,0,Guthrie,C,Centre Pass,3,41,39,50, 100
+2018-11-16 10:03:33 +0000,0,Green,WA,Assist - Centre Pass Rec,3,41,39,25, 72
+2018-11-16 10:03:35 +0000,0,Pettitt ,GS,Assist - 2nd Phase,3,41,39,10, 48
+2018-11-16 10:03:38 +0000,1,Ravaillion,C,Penaly - Obstruction,3,41,39,10, 48
+2018-11-16 10:03:38 +0000,0,Green,WA,Possession,3,41,39,10, 48
+2018-11-16 10:03:43 +0000,0,Green,WA,Assist - Circle Entry,3,41,39,10, 48
+2018-11-16 10:03:43 +0000,0,Harten ,GA,Possession,3,41,39,30, 18
+2018-11-16 10:03:45 +0000,0,Guthrie,C,Possession,3,41,39,75, 28
+2018-11-16 10:04:24 +0000,0,Guthrie,C,Assist - Circle Entry,3,41,39,75, 28
+2018-11-16 10:04:24 +0000,0,Harten ,GA,Goal - Score,3,41,39,48, 6
+2018-11-16 10:04:34 +0000,1,Ravaillion,C,Centre Pass,3,42,39,50, 100
+2018-11-16 10:04:35 +0000,1,Bell,GA,Assist - Centre Pass Rec,3,42,39,20, 118
+2018-11-16 10:04:39 +0000,1,Brazill,WD,Assist - 2nd Phase,3,42,39,77, 116
+2018-11-16 10:04:43 +0000,1,Robinson,WA,Possession,3,42,39,67, 135
+2018-11-16 10:04:45 +0000,1,Ravaillion,C,Possession,3,42,39,87, 190
+2018-11-16 10:04:48 +0000,1,Robinson,WA,Possession,3,42,39,18, 180
+2018-11-16 10:04:51 +0000,1,Robinson,WA,Assist - Circle Entry,3,42,39,18, 180
+2018-11-16 10:04:51 +0000,1,Bell,GA,Possession,3,42,39,30, 187
+2018-11-16 10:04:52 +0000,0,Poolman ,GK,Penaly - Contact,3,42,39,30, 187
+2018-11-16 10:04:52 +0000,1,Bell,GA,Goal - Miss,3,42,39,30, 187
+2018-11-16 10:05:01 +0000,0,Poolman ,GK,Throw In,3,42,39,50, 192
+2018-11-16 10:05:08 +0000,0,Price,WD,Possession,3,42,39,25, 170
+2018-11-16 10:05:11 +0000,0,Poolman ,GK,Possession,3,42,39,60, 162
+2018-11-16 10:05:14 +0000,0,Price,WD,Possession,3,42,39,29, 135
+2018-11-16 10:05:22 +0000,0,Guthrie,C,Possession,3,42,39,66, 108
+2018-11-16 10:05:27 +0000,0,Guthrie,C,Possession,3,42,39,62, 71
+2018-11-16 10:05:30 +0000,0,Guthrie,C,Possession,3,42,39,21, 27
+2018-11-16 10:05:35 +0000,0,Guthrie,C,Assist - Circle Entry,3,42,39,21, 27
+2018-11-16 10:05:35 +0000,0,Pettitt ,GS,Possession,3,42,39,38, 4
+2018-11-16 10:05:37 +0000,1,Layton,GK,Penaly - Contact,3,42,39,38, 4
+2018-11-16 10:05:37 +0000,0,Pettitt ,GS,Goal - Score,3,42,39,38, 4
+2018-11-16 10:05:43 +0000,0,Guthrie,C,Centre Pass,3,43,39,50, 100
+2018-11-16 10:05:43 +0000,0,Harten ,GA,Assist - Centre Pass Rec,3,43,39,78, 74
+2018-11-16 10:05:44 +0000,0,Guthrie,C,Assist - 2nd Phase,3,43,39,42, 71
+2018-11-16 10:05:47 +0000,0,Green,WA,Possession,3,43,39,19, 25
+2018-11-16 10:05:49 +0000,0,Green,WA,Assist - Circle Entry,3,43,39,19, 25
+2018-11-16 10:05:50 +0000,0,Pettitt ,GS,Goal - Score,3,43,39,61, 4
+2018-11-16 10:05:57 +0000,1,Ravaillion,C,Centre Pass,3,44,39,50, 100
+2018-11-16 10:05:57 +0000,1,Bell,GA,Assist - Centre Pass Rec,3,44,39,76, 120
+2018-11-16 10:05:59 +0000,1,Robinson,WA,Assist - 2nd Phase,3,44,39,20, 176
+2018-11-16 10:06:03 +0000,1,Robinson,WA,Assist - Circle Entry,3,44,39,20, 176
+2018-11-16 10:06:03 +0000,1,Thwaites,GS,Goal - Score,3,44,39,51, 186
+2018-11-16 10:06:14 +0000,0,Guthrie,C,Centre Pass,3,44,40,50, 100
+2018-11-16 10:06:14 +0000,0,Green,WA,Assist - Centre Pass Rec,3,44,40,49, 77
+2018-11-16 10:06:15 +0000,0,Price,WD,Assist - 2nd Phase,3,44,40,76, 78
+2018-11-16 10:06:17 +0000,0,Guthrie,C,Possession,3,44,40,81, 68
+2018-11-16 10:06:19 +0000,0,Price,WD,Possession,3,44,40,73, 72
+2018-11-16 10:06:20 +0000,0,Pettitt ,GS,Possession,3,44,40,65, 52
+2018-11-16 10:06:22 +0000,0,Green,WA,Possession,3,44,40,68, 30
+2018-11-16 10:06:24 +0000,0,Green,WA,Assist - Circle Entry,3,44,40,68, 30
+2018-11-16 10:06:24 +0000,0,Pettitt ,GS,Goal - Score,3,44,40,57, 14
+2018-11-16 10:06:34 +0000,1,Ravaillion,C,Centre Pass,3,45,40,50, 100
+2018-11-16 10:06:34 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,45,40,17, 126
+2018-11-16 10:06:36 +0000,1,Bell,GA,Assist - 2nd Phase,3,45,40,18, 149
+2018-11-16 10:06:38 +0000,1,Ravaillion,C,Possession,3,45,40,26, 138
+2018-11-16 10:06:40 +0000,1,Robinson,WA,Possession,3,45,40,70, 163
+2018-11-16 10:06:42 +0000,1,Robinson,WA,Assist - Circle Entry,3,45,40,70, 163
+2018-11-16 10:06:42 +0000,1,Thwaites,GS,Goal - Score,3,45,40,48, 178
+2018-11-16 10:06:51 +0000,0,Guthrie,C,Centre Pass,3,45,41,50, 100
+2018-11-16 10:06:52 +0000,0,Harten ,GA,Assist - Centre Pass Rec,3,45,41,76, 76
+2018-11-16 10:06:53 +0000,0,Guthrie,C,Assist - 2nd Phase,3,45,41,54, 69
+2018-11-16 10:06:55 +0000,0,Green,WA,Possession,3,45,41,6, 54
+2018-11-16 10:06:57 +0000,0,Green,WA,Assist - Circle Entry,3,45,41,6, 54
+2018-11-16 10:06:57 +0000,0,Harten ,GA,Goal - Score,3,45,41,51, 5
+2018-11-16 10:07:24 +0000,1,Ravaillion,C,Centre Pass,3,46,41,50, 100
+2018-11-16 10:07:24 +0000,0,Harten ,GA,Penaly - Obstruction,3,46,41,43, 101
+2018-11-16 10:07:24 +0000,1,Brazill,WD,Possession,3,46,41,43, 101
+2018-11-16 10:07:30 +0000,1,Garrett,GD,Assist - 2nd Phase,3,46,41,77, 117
+2018-11-16 10:07:33 +0000,1,Robinson,WA,Possession,3,46,41,69, 151
+2018-11-16 10:07:34 +0000,0,Guthrie,C,Penaly - Contact,3,46,41,69, 151
+2018-11-16 10:07:34 +0000,1,Robinson,WA,Possession,3,46,41,69, 151
+2018-11-16 10:07:36 +0000,1,Bell,GA,Possession,3,46,41,64, 164
+2018-11-16 10:07:38 +0000,1,Robinson,WA,Possession,3,46,41,51, 161
+2018-11-16 10:07:40 +0000,1,Robinson,WA,Assist - Circle Entry,3,46,41,51, 161
+2018-11-16 10:07:40 +0000,1,Thwaites,GS,Goal - Score,3,46,41,56, 189
+2018-11-16 10:07:48 +0000,0,Guthrie,C,Centre Pass,3,46,42,50, 100
+2018-11-16 10:07:48 +0000,0,Green,WA,Assist - Centre Pass Rec,3,46,42,71, 75
+2018-11-16 10:07:50 +0000,0,Guthrie,C,Assist - 2nd Phase,3,46,42,50, 71
+2018-11-16 10:07:53 +0000,1,Garrett,GD,Penaly - Contact,3,46,42,43, 60
+2018-11-16 10:07:53 +0000,0,,UNKNOWN,Possession,3,46,42,43, 60
+2018-11-16 10:07:56 +0000,0,Harten ,GA,Possession,3,46,42,32, 29
+2018-11-16 10:08:06 +0000,1,Layton,GK,Penaly - Obstruction,3,46,42,35, 19
+2018-11-16 10:08:06 +0000,0,Pettitt ,GS,Goal - Score,3,46,42,35, 19
+2018-11-16 10:08:18 +0000,1,Ravaillion,C,Centre Pass,3,47,42,50, 100
+2018-11-16 10:08:18 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,47,42,49, 123
+2018-11-16 10:08:21 +0000,1,Bell,GA,Assist - 2nd Phase,3,47,42,25, 164
+2018-11-16 10:09:06 +0000,0,Guthrie,C,Gain - Tip (Deflect),3,47,42,21, 153
+2018-11-16 10:09:14 +0000,1,Garrett,GD,Loss - Offside,3,47,42,25, 131
+2018-11-16 10:09:39 +0000,0,Poolman ,GK,Possession,3,47,42,26, 133
+2018-11-16 10:09:43 +0000,0,Bulley ,GD,Possession,3,47,42,40, 112
+2018-11-16 10:12:10 +0000,0,Green,WA,Possession,3,47,42,83, 90
+2018-11-16 10:12:16 +0000,0,Price,WD,Loss - Drop,3,47,42,89, 70
+2018-11-16 10:12:28 +0000,0,Price,WD,Deflect,3,47,42,93, 66
+2018-11-16 10:12:28 +0000,1,Garrett,GD,Deflect,3,47,42,93, 60
+2018-11-16 10:12:36 +0000,0,Green,WA,Throw In,3,47,42,107, 108
+2018-11-16 10:13:18 +0000,0,Price,WD,Possession,3,47,42,74, 99
+2018-11-16 10:13:20 +0000,0,Bulley ,GD,Possession,3,47,42,13, 78
+2018-11-16 10:13:22 +0000,0,Guthrie,C,Possession,3,47,42,10, 24
+2018-11-16 10:13:24 +0000,0,Guthrie,C,Assist - Circle Entry,3,47,42,10, 24
+2018-11-16 10:13:25 +0000,0,Harten ,GA,Goal - Score,3,47,42,68, 9
+2018-11-16 10:13:44 +0000,0,Guthrie,C,Centre Pass,3,48,42,50, 100
+2018-11-16 10:13:44 +0000,1,,UNKNOWN,Penaly - Obstruction,3,48,42,27, 43
+2018-11-16 10:13:44 +0000,0,Guthrie,C,Throw In,3,48,42,27, 43
+2018-11-16 10:14:00 +0000,0,Guthrie,C,Assist - Circle Entry,3,48,42,27, 43
+2018-11-16 10:14:00 +0000,0,Harten ,GA,Assist - 2nd Phase,3,48,42,47, 16
+2018-11-16 10:14:05 +0000,0,Harten ,GA,Goal - Miss,3,48,42,47, 16
+2018-11-16 10:14:05 +0000,1,,UNKNOWN,Throw In,3,48,42,50, 7
+2018-11-16 10:14:37 +0000,0,Garrett,UNKNOWN,Interchange - Brandley,4,48,42,
+2018-11-16 10:14:37 +0000,0,Layton,UNKNOWN,Interchange - Garrett,4,48,42,
+2018-11-16 10:14:50 +0000,1,Ravaillion,C,Centre Pass,4,48,42,50, 100
+2018-11-16 10:14:50 +0000,1,Robinson,WA,Assist - Centre Pass Rec,4,48,42,18, 126
+2018-11-16 10:14:56 +0000,1,Bell,GA,Assist - 2nd Phase,4,48,42,17, 164
+2018-11-16 10:14:58 +0000,1,Bell,GA,Assist - Circle Entry,4,48,42,17, 164
+2018-11-16 10:14:58 +0000,1,Thwaites,GS,Goal - Score,4,48,42,52, 189
+2018-11-16 10:15:17 +0000,0,Guthrie,C,Centre Pass,4,48,43,50, 100
+2018-11-16 10:15:17 +0000,0,Harten ,GA,Assist - Centre Pass Rec,4,48,43,18, 81
+2018-11-16 10:15:19 +0000,0,Green,WA,Assist - 2nd Phase,4,48,43,52, 76
+2018-11-16 10:15:21 +0000,0,Bulley ,GD,Possession,4,48,43,91, 85
+2018-11-16 10:15:24 +0000,0,Guthrie,C,Possession,4,48,43,74, 74
+2018-11-16 10:15:25 +0000,0,Green,WA,Possession,4,48,43,84, 52
+2018-11-16 10:15:29 +0000,0,Green,WA,Assist - Circle Entry,4,48,43,84, 52
+2018-11-16 10:15:29 +0000,0,Pettitt ,GS,Possession,4,48,43,29, 17
+2018-11-16 10:15:31 +0000,0,Green,WA,Possession,4,48,43,49, 36
+2018-11-16 10:15:33 +0000,0,Green,WA,Assist - Circle Entry,4,48,43,49, 36
+2018-11-16 10:15:33 +0000,0,Harten ,GA,Goal - Score,4,48,43,48, 14
+2018-11-16 10:15:43 +0000,1,Ravaillion,C,Centre Pass,4,49,43,50, 100
+2018-11-16 10:15:43 +0000,1,Brazill,WD,Assist - Centre Pass Rec,4,49,43,69, 120
+2018-11-16 10:15:54 +0000,1,Robinson,WA,Assist - 2nd Phase,4,49,43,91, 147
+2018-11-16 10:15:56 +0000,1,Ravaillion,C,Possession,4,49,43,83, 177
+2018-11-16 10:16:00 +0000,0,Bulley ,GD,Penaly - Contact,4,49,43,69, 196
+2018-11-16 10:16:00 +0000,1,Bell,GA,Goal - Score,4,49,43,69, 196
+2018-11-16 10:16:12 +0000,0,Guthrie,C,Centre Pass,4,49,44,50, 100
+2018-11-16 10:16:12 +0000,0,Green,WA,Assist - Centre Pass Rec,4,49,44,76, 77
+2018-11-16 10:16:15 +0000,0,Green,WA,Assist - Circle Entry,4,49,44,76, 77
+2018-11-16 10:16:15 +0000,0,Pettitt ,GS,Assist - 2nd Phase,4,49,44,41, 12
+2018-11-16 10:16:18 +0000,1,Garrett,GK,Penaly - Contact,4,49,44,41, 12
+2018-11-16 10:16:18 +0000,0,Pettitt ,GS,Goal - Score,4,49,44,41, 12
+2018-11-16 10:16:32 +0000,1,Ravaillion,C,Centre Pass,4,50,44,50, 100
+2018-11-16 10:16:32 +0000,1,Brandley,GD,Assist - Centre Pass Rec,4,50,44,70, 83
+2018-11-16 10:16:35 +0000,1,Brazill,WD,Assist - 2nd Phase,4,50,44,68, 107
+2018-11-16 10:16:37 +0000,1,Thwaites,GS,Possession,4,50,44,86, 187
+2018-11-16 10:16:40 +0000,1,Robinson,WA,Possession,4,50,44,75, 177
+2018-11-16 10:16:44 +0000,0,Price,WD,Penaly - Contact,4,50,44,75, 177
+2018-11-16 10:16:44 +0000,1,Robinson,WA,Possession,4,50,44,75, 177
+2018-11-16 10:16:52 +0000,1,Ravaillion,C,Possession,4,50,44,30, 164
+2018-11-16 10:16:55 +0000,1,Ravaillion,C,Assist - Circle Entry,4,50,44,30, 164
+2018-11-16 10:16:55 +0000,1,Thwaites,GS,Goal - Score,4,50,44,40, 195
+2018-11-16 10:17:07 +0000,0,Guthrie,C,Centre Pass,4,50,45,50, 100
+2018-11-16 10:17:07 +0000,0,Harten ,GA,Assist - Centre Pass Rec,4,50,45,36, 80
+2018-11-16 10:17:09 +0000,0,Green,WA,Assist - 2nd Phase,4,50,45,11, 6
+2018-11-16 10:17:11 +0000,0,Harten ,GA,Possession,4,50,45,26, 29
+2018-11-16 10:17:13 +0000,0,Harten ,GA,Assist - Circle Entry,4,50,45,26, 29
+2018-11-16 10:17:13 +0000,0,Pettitt ,GS,Possession,4,50,45,65, 22
+2018-11-16 10:17:15 +0000,0,Guthrie,C,Possession,4,50,45,76, 27
+2018-11-16 10:17:17 +0000,1,Garrett,GK,Penaly - Contact,4,50,45,60, 18
+2018-11-16 10:17:17 +0000,0,Pettitt ,GS,Possession,4,50,45,60, 18
+2018-11-16 10:17:21 +0000,0,Harten ,GA,Goal - Score,4,50,45,49, 8
+2018-11-16 10:17:28 +0000,1,Ravaillion,C,Centre Pass,4,51,45,50, 100
+2018-11-16 10:17:28 +0000,1,Bell,GA,Assist - Centre Pass Rec,4,51,45,22, 123
+2018-11-16 10:17:30 +0000,1,Robinson,WA,Assist - 2nd Phase,4,51,45,88, 151
+2018-11-16 10:17:34 +0000,1,Brazill,WD,Possession,4,51,45,80, 129
+2018-11-16 10:17:36 +0000,1,Bell,GA,Possession,4,51,45,60, 151
+2018-11-16 10:17:41 +0000,0,Poolman ,GK,Penaly - Contact,4,51,45,55, 182
+2018-11-16 10:17:41 +0000,1,Thwaites,GS,Goal - Miss,4,51,45,55, 182
+2018-11-16 10:17:51 +0000,0,Poolman ,GK,Gain - Def Reb,4,51,45,50, 197
+2018-11-16 10:17:53 +0000,1,Thwaites,GS,Penaly - Contact,4,51,45,50, 197
+2018-11-16 10:17:53 +0000,0,Poolman ,GK,Possession,4,51,45,50, 197
+2018-11-16 10:18:26 +0000,0,Price,WD,Possession,4,51,45,81, 170
+2018-11-16 10:18:29 +0000,0,Bulley ,GD,Possession,4,51,45,84, 140
+2018-11-16 10:18:31 +0000,0,Guthrie,C,Possession,4,51,45,90, 82
+2018-11-16 10:18:34 +0000,0,Harten ,GA,Possession,4,51,45,89, 61
+2018-11-16 10:18:36 +0000,0,Bulley ,GD,Possession,4,51,45,67, 103
+2018-11-16 10:18:40 +0000,0,Guthrie,C,Possession,4,51,45,19, 80
+2018-11-16 10:18:41 +0000,0,Bulley ,GD,Possession,4,51,45,32, 78
+2018-11-16 10:18:45 +0000,1,Bell,GA,Penaly - Contact,4,51,45,32, 78
+2018-11-16 10:18:45 +0000,0,Bulley ,GD,Possession,4,51,45,32, 78
+2018-11-16 10:18:48 +0000,0,Green,WA,Possession,4,51,45,24, 43
+2018-11-16 10:18:52 +0000,0,Guthrie,C,Possession,4,51,45,14, 7
+2018-11-16 10:18:54 +0000,0,Harten ,GA,Possession,4,51,45,43, 39
+2018-11-16 10:18:57 +0000,0,Green,WA,Possession,4,51,45,83, 15
+2018-11-16 10:19:03 +0000,0,Green,WA,Assist - Circle Entry,4,51,45,83, 15
+2018-11-16 10:19:03 +0000,1,Garrett,GK,Gain - Inter,4,51,45,40, 12
+2018-11-16 10:19:09 +0000,0,Harten ,GA,Penaly - Contact,4,51,45,40, 12
+2018-11-16 10:19:09 +0000,1,Garrett,GK,Possession,4,51,45,40, 12
+2018-11-16 10:19:16 +0000,1,Brazill,WD,Possession,4,51,45,55, 47
+2018-11-16 10:19:18 +0000,1,Ravaillion,C,Possession,4,51,45,18, 111
+2018-11-16 10:19:20 +0000,1,Brazill,WD,Possession,4,51,45,37, 129
+2018-11-16 10:19:22 +0000,1,Robinson,WA,Possession,4,51,45,44, 149
+2018-11-16 10:19:24 +0000,1,Robinson,WA,Assist - Circle Entry,4,51,45,44, 149
+2018-11-16 10:19:24 +0000,1,Thwaites,GS,Possession,4,51,45,42, 178
+2018-11-16 10:19:28 +0000,1,Ravaillion,C,Possession,4,51,45,16, 190
+2018-11-16 10:19:33 +0000,1,Ravaillion,C,Assist - Circle Entry,4,51,45,16, 190
+2018-11-16 10:19:33 +0000,1,Bell,GA,Possession,4,51,45,38, 189
+2018-11-16 10:19:36 +0000,0,Bulley ,GD,Penaly - Contact,4,51,45,38, 189
+2018-11-16 10:19:36 +0000,1,Bell,GA,Goal - Score,4,51,45,38, 189
+2018-11-16 10:19:44 +0000,0,Guthrie,C,Centre Pass,4,51,46,50, 100
+2018-11-16 10:19:44 +0000,0,Green,WA,Assist - Centre Pass Rec,4,51,46,20, 78
+2018-11-16 10:19:47 +0000,0,Price,WD,Assist - 2nd Phase,4,51,46,53, 79
+2018-11-16 10:19:49 +0000,0,Pettitt ,GS,Possession,4,51,46,76, 58
+2018-11-16 10:19:52 +0000,0,Guthrie,C,Possession,4,51,46,49, 65
+2018-11-16 10:19:54 +0000,0,Harten ,GA,Possession,4,51,46,46, 39
+2018-11-16 10:19:56 +0000,1,,UNKNOWN,Penaly - Contact,4,51,46,46, 39
+2018-11-16 10:19:56 +0000,0,Guthrie,C,Possession,4,51,46,46, 39
+2018-11-16 10:20:06 +0000,0,Guthrie,C,Assist - Circle Entry,4,51,46,46, 39
+2018-11-16 10:20:06 +0000,0,Harten ,GA,Goal - Score,4,51,46,61, 11
+2018-11-16 10:20:14 +0000,1,Ravaillion,C,Centre Pass,4,52,46,50, 100
+2018-11-16 10:20:14 +0000,1,Brazill,WD,Assist - Centre Pass Rec,4,52,46,75, 116
+2018-11-16 10:23:46 +0000,1,Robinson,WA,Assist - 2nd Phase,4,52,46,84, 131
+2018-11-16 10:23:48 +0000,1,Ravaillion,C,Possession,4,52,46,52, 139
+2018-11-16 10:23:50 +0000,1,Robinson,WA,Possession,4,52,46,70, 163
+2018-11-16 10:23:52 +0000,1,Robinson,WA,Assist - Circle Entry,4,52,46,70, 163
+2018-11-16 10:23:52 +0000,1,Thwaites,GS,Goal - Score,4,52,46,61, 195
+2018-11-16 10:24:25 +0000,0,Guthrie,C,Centre Pass,4,52,47,50, 100
+2018-11-16 10:24:25 +0000,0,Green,WA,Assist - Centre Pass Rec,4,52,47,61, 85
+2018-11-16 10:24:27 +0000,1,Robinson,WA,Penaly - Contact,4,52,47,61, 85
+2018-11-16 10:24:27 +0000,0,Price,WD,Possession,4,52,47,61, 85
+2018-11-16 10:24:29 +0000,0,Green,WA,Possession,4,52,47,81, 73
+2018-11-16 10:24:37 +0000,0,Pettitt ,GS,Possession,4,52,47,18, 45
+2018-11-16 10:24:39 +0000,0,Guthrie,C,Possession,4,52,47,30, 33
+2018-11-16 10:24:41 +0000,0,Pettitt ,GS,Possession,4,52,47,16, 15
+2018-11-16 10:24:43 +0000,0,Guthrie,C,Possession,4,52,47,27, 29
+2018-11-16 10:24:45 +0000,0,Guthrie,C,Assist - Circle Entry,4,52,47,27, 29
+2018-11-16 10:24:45 +0000,0,Pettitt ,GS,Assist - 2nd Phase,4,52,47,38, 12
+2018-11-16 10:24:48 +0000,0,Pettitt ,GS,Goal - Miss,4,52,47,38, 12
+2018-11-16 10:24:48 +0000,0,Harten ,GA,Assist - Attack Rebound,4,52,47,50, 2
+2018-11-16 10:24:49 +0000,0,Harten ,GA,Goal - Score,4,52,47,38, 12
+2018-11-16 10:24:58 +0000,0,,UNKNOWN,Timeout,4,53,47,-10, -22
+2018-11-16 10:25:23 +0000,0,Pettitt ,UNKNOWN,Interchange - Brice,4,53,47,
+2018-11-16 10:25:23 +0000,0,Harten ,UNKNOWN,Interchange - Pettitt ,4,53,47,
+2018-11-16 10:25:59 +0000,1,Ravaillion,C,Centre Pass,4,53,47,50, 100
+2018-11-16 10:26:00 +0000,1,Brazill,WD,Assist - Centre Pass Rec,4,53,47,46, 83
+2018-11-16 10:26:02 +0000,1,Robinson,WA,Assist - 2nd Phase,4,53,47,90, 108
+2018-11-16 10:26:04 +0000,1,Ravaillion,C,Possession,4,53,47,46, 145
+2018-11-16 10:26:05 +0000,1,Thwaites,GS,Possession,4,53,47,36, 169
+2018-11-16 10:26:10 +0000,1,Robinson,WA,Possession,4,53,47,55, 166
+2018-11-16 10:26:12 +0000,0,Price,WD,Penaly - Contact,4,53,47,55, 166
+2018-11-16 10:26:12 +0000,1,Robinson,WA,Possession,4,53,47,55, 166
+2018-11-16 10:26:15 +0000,1,Robinson,WA,Assist - Circle Entry,4,53,47,55, 166
+2018-11-16 10:26:15 +0000,1,Bell,GA,Goal - Score,4,53,47,38, 195
+2018-11-16 10:26:25 +0000,0,Guthrie,C,Centre Pass,4,53,48,50, 100
+2018-11-16 10:26:25 +0000,0,Pettitt ,GA,Assist - Centre Pass Rec,4,53,48,40, 82
+2018-11-16 10:26:27 +0000,0,Green,WA,Assist - 2nd Phase,4,53,48,12, 49
+2018-11-16 10:26:28 +0000,0,Guthrie,C,Possession,4,53,48,36, 55
+2018-11-16 10:26:32 +0000,0,Pettitt ,GA,Possession,4,53,48,83, 15
+2018-11-16 10:26:35 +0000,0,Pettitt ,GA,Assist - Circle Entry,4,53,48,83, 15
+2018-11-16 10:26:35 +0000,0,Brice,GS,Goal - Miss,4,53,48,49, 21
+2018-11-16 10:26:41 +0000,1,Brandley,GD,Gain - Def Reb,4,53,48,50, 2
+2018-11-16 10:26:45 +0000,1,Ravaillion,C,Possession,4,53,48,48, 37
+2018-11-16 10:26:49 +0000,1,Brandley,GD,Possession,4,53,48,58, 58
+2018-11-16 10:26:51 +0000,1,Bell,GA,Possession,4,53,48,55, 124
+2018-11-16 10:26:53 +0000,1,Robinson,WA,Possession,4,53,48,19, 180
+2018-11-16 10:26:56 +0000,1,Robinson,WA,Assist - Circle Entry,4,53,48,19, 180
+2018-11-16 10:26:56 +0000,1,Thwaites,GS,Goal - Score,4,53,48,57, 195
+2018-11-16 10:27:14 +0000,1,Ravaillion,C,Centre Pass,4,53,49,50, 100
+2018-11-16 10:27:14 +0000,1,Brazill,WD,Assist - Centre Pass Rec,4,53,49,16, 80
+2018-11-16 10:27:16 +0000,1,Bell,GA,Assist - 2nd Phase,4,53,49,13, 122
+2018-11-16 10:27:17 +0000,1,Brandley,GD,Possession,4,53,49,43, 104
+2018-11-16 10:27:19 +0000,1,Brazill,WD,Possession,4,53,49,20, 127
+2018-11-16 10:27:22 +0000,1,Thwaites,GS,Possession,4,53,49,19, 171
+2018-11-16 10:27:33 +0000,1,Ravaillion,C,Loss - Offside,4,53,49,24, 178
+2018-11-16 10:27:47 +0000,0,Poolman ,GK,Possession,4,53,49,22, 178
+2018-11-16 10:27:50 +0000,0,Bulley ,GD,Possession,4,53,49,88, 101
+2018-11-16 10:27:53 +0000,0,Price,WD,Possession,4,53,49,28, 76
+2018-11-16 10:27:55 +0000,0,Guthrie,C,Possession,4,53,49,46, 75
+2018-11-16 10:27:59 +0000,0,Pettitt ,GA,Possession,4,53,49,18, 41
+2018-11-16 10:28:03 +0000,0,Pettitt ,GA,Assist - Circle Entry,4,53,49,18, 41
+2018-11-16 10:28:03 +0000,0,Brice,GS,Possession,4,53,49,48, 15
+2018-11-16 10:28:04 +0000,1,Garrett,GK,Penaly - Contact,4,53,49,48, 15
+2018-11-16 10:28:04 +0000,0,Brice,GS,Goal - Score,4,53,49,48, 15
+2018-11-16 10:29:35 +0000,0,Guthrie,C,Centre Pass,4,54,49,50, 100
+2018-11-16 10:29:35 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,4,54,49,36, 80
+2018-11-16 10:29:35 +0000,0,Guthrie,C,Assist - 2nd Phase,4,54,49,47, 70
+2018-11-16 10:29:39 +0000,0,Green,WA,Possession,4,54,49,19, 22
+2018-11-16 10:29:43 +0000,0,Green,WA,Assist - Circle Entry,4,54,49,19, 22
+2018-11-16 10:29:43 +0000,0,Pettitt ,GA,Possession,4,54,49,33, 7
+2018-11-16 10:29:45 +0000,0,Brice,GS,Goal - Score,4,54,49,53, 10
+2018-11-16 10:29:51 +0000,1,Ravaillion,C,Centre Pass,4,55,49,50, 100
+2018-11-16 10:29:51 +0000,1,Bell,GA,Assist - Centre Pass Rec,4,55,49,85, 116
+2018-11-16 10:29:54 +0000,1,Brazill,WD,Loss - Held Ball,4,55,49,24, 88
+2018-11-16 10:30:00 +0000,0,Price,WD,Possession,4,55,49,22, 89
+2018-11-16 10:30:06 +0000,0,Bulley ,GD,Possession,4,55,49,72, 73
+2018-11-16 10:30:10 +0000,0,Green,WA,Possession,4,55,49,88, 46
+2018-11-16 10:30:14 +0000,1,Brazill,WD,Deflect,4,55,49,93, 15
+2018-11-16 10:30:14 +0000,0,Guthrie,C,Possession,4,55,49,87, 9
+2018-11-16 10:30:19 +0000,0,Guthrie,C,Assist - Circle Entry,4,55,49,87, 9
+2018-11-16 10:30:19 +0000,0,Pettitt ,GA,Goal - Score,4,55,49,57, 8
+2018-11-16 10:30:29 +0000,0,Guthrie,C,Centre Pass,4,56,49,50, 100
+2018-11-16 10:30:29 +0000,0,Price,WD,Assist - Centre Pass Rec,4,56,49,40, 92
+2018-11-16 10:30:31 +0000,0,Green,WA,Assist - 2nd Phase,4,56,49,33, 45
+2018-11-16 10:30:33 +0000,0,Green,WA,Assist - Circle Entry,4,56,49,33, 45
+2018-11-16 10:30:33 +0000,0,Brice,GS,Goal - Miss,4,56,49,54, 14
+2018-11-16 10:30:39 +0000,1,Garrett,GK,Gain - Def Reb,4,56,49,50, 2
+2018-11-16 10:30:42 +0000,1,Brandley,GD,Possession,4,56,49,30, 10
+2018-11-16 10:30:44 +0000,1,Garrett,GK,Possession,4,56,49,48, 22
+2018-11-16 10:30:45 +0000,1,Brazill,WD,Possession,4,56,49,16, 26
+2018-11-16 10:30:49 +0000,1,Bell,GA,Possession,4,56,49,85, 124
+2018-11-16 10:31:00 +0000,0,Guthrie,C,Loss - Offside,4,56,49,29, 174
+2018-11-16 10:31:08 +0000,0,Guthrie,C,Assist - Circle Entry,4,56,49,29, 174
+2018-11-16 10:31:08 +0000,1,Bell,GA,Possession,4,56,49,30, 175
+2018-11-16 10:31:21 +0000,1,Robinson,WA,Possession,4,56,49,68, 170
+2018-11-16 10:31:25 +0000,1,Robinson,WA,Assist - Circle Entry,4,56,49,68, 170
+2018-11-16 10:31:25 +0000,1,Bell,GA,Goal - Score,4,56,49,48, 193
+2018-11-16 10:32:11 +0000,1,Ravaillion,C,Centre Pass,4,56,50,50, 100
+2018-11-16 10:32:11 +0000,1,,UNKNOWN,Assist - Centre Pass Rec,4,56,50,55, 126
+2018-11-16 10:32:12 +0000,1,Robinson,WA,Assist - 2nd Phase,4,56,50,81, 185
+2018-11-16 10:32:17 +0000,1,Ravaillion,C,Possession,4,56,50,20, 183
+2018-11-16 10:32:22 +0000,0,Poolman ,GK,Penaly - Contact,4,56,50,44, 193
+2018-11-16 10:32:22 +0000,1,Bell,GA,Goal - Score,4,56,50,44, 193
+2018-11-16 10:32:31 +0000,0,Guthrie,C,Centre Pass,4,56,51,50, 100
+2018-11-16 10:32:31 +0000,0,Green,WA,Assist - Centre Pass Rec,4,56,51,71, 94
+2018-11-16 10:32:33 +0000,0,Guthrie,C,Assist - 2nd Phase,4,56,51,47, 74
+2018-11-16 10:32:35 +0000,0,Pettitt ,GA,Possession,4,56,51,24, 57
+2018-11-16 10:32:37 +0000,0,Green,WA,Possession,4,56,51,43, 62
+2018-11-16 10:32:38 +0000,0,Guthrie,C,Possession,4,56,51,20, 48
+2018-11-16 10:32:40 +0000,0,Pettitt ,GA,Possession,4,56,51,14, 12
+2018-11-16 10:32:42 +0000,0,Guthrie,C,Possession,4,56,51,19, 42
+2018-11-16 10:32:46 +0000,0,Guthrie,C,Assist - Circle Entry,4,56,51,19, 42
+2018-11-16 10:32:46 +0000,0,Brice,GS,Goal - Score,4,56,51,48, 7
+2018-11-16 10:32:55 +0000,1,Ravaillion,C,Centre Pass,4,57,51,50, 100
+2018-11-16 10:32:55 +0000,1,Bell,GA,Assist - Centre Pass Rec,4,57,51,13, 127
+2018-11-16 10:33:01 +0000,0,Guthrie,C,Loss - Offside,4,57,51,56, 166
+2018-11-16 10:33:09 +0000,1,Bell,GA,Possession,4,57,51,57, 169
+2018-11-16 10:33:19 +0000,1,Robinson,WA,Possession,4,57,51,50, 166
+2018-11-16 10:33:22 +0000,1,Robinson,WA,Assist - Circle Entry,4,57,51,50, 166
+2018-11-16 10:33:22 +0000,1,Bell,GA,Goal - Miss,4,57,51,48, 181
+2018-11-16 10:33:27 +0000,1,Thwaites,GS,Assist - Attack Rebound,4,57,51,50, 197
+2018-11-16 10:33:28 +0000,1,Thwaites,GS,Goal - Score,4,57,51,48, 181
+2018-11-16 10:33:38 +0000,0,Guthrie,C,Centre Pass,4,57,52,50, 100
+2018-11-16 10:33:38 +0000,0,Green,WA,Assist - Centre Pass Rec,4,57,52,71, 88
+2018-11-16 10:33:40 +0000,0,Guthrie,C,Assist - 2nd Phase,4,57,52,91, 56
+2018-11-16 10:33:43 +0000,0,Pettitt ,GA,Possession,4,57,52,74, 64
+2018-11-16 10:33:45 +0000,0,Guthrie,C,Possession,4,57,52,85, 11
+2018-11-16 10:33:49 +0000,1,Brandley,GD,Penaly - Contact,4,57,52,64, 12
+2018-11-16 10:33:49 +0000,0,Pettitt ,GA,Possession,4,57,52,64, 12
+2018-11-16 10:33:54 +0000,0,Brice,GS,Goal - Score,4,57,52,45, 10
+2018-11-16 10:34:05 +0000,1,Ravaillion,C,Centre Pass,4,58,52,50, 100
+2018-11-16 10:34:05 +0000,1,Brazill,WD,Loss - Out of Court,4,58,52,99, 116
+2018-11-16 10:34:17 +0000,0,Bulley ,GD,Throw In,4,58,52,103, 120
+2018-11-16 10:34:29 +0000,0,Guthrie,C,Possession,4,58,52,37, 92
+2018-11-16 10:34:33 +0000,0,Price,WD,Loss - Offside,4,58,52,64, 69
+2018-11-16 10:34:47 +0000,1,Garrett,GK,Possession,4,58,52,63, 64
+2018-11-16 10:34:51 +0000,1,Brazill,WD,Possession,4,58,52,71, 81
+2018-11-16 10:34:53 +0000,1,Brandley,GD,Possession,4,58,52,60, 110
+2018-11-16 10:34:55 +0000,1,Bell,GA,Possession,4,58,52,49, 126
+2018-11-16 10:34:57 +0000,1,Brazill,WD,Possession,4,58,52,86, 130
+2018-11-16 10:34:59 +0000,1,Brandley,GD,Possession,4,58,52,64, 132
+2018-11-16 10:35:03 +0000,1,Brandley,GD,Assist - Circle Entry,4,58,52,64, 132
+2018-11-16 10:35:03 +0000,1,Thwaites,GS,Goal - Score,4,58,52,46, 186
+2018-11-16 10:35:13 +0000,0,Guthrie,C,Centre Pass,4,58,53,50, 100
+2018-11-16 10:35:13 +0000,0,Pettitt ,GA,Assist - Centre Pass Rec,4,58,53,23, 81
+2018-11-16 10:35:16 +0000,0,Price,WD,Assist - 2nd Phase,4,58,53,37, 91
+2018-11-16 10:35:19 +0000,0,Bulley ,GD,Possession,4,58,53,47, 73
+2018-11-16 10:35:22 +0000,0,Green,WA,Possession,4,58,53,33, 50
+2018-11-16 10:35:24 +0000,0,Guthrie,C,Possession,4,58,53,57, 59
+2018-11-16 10:35:26 +0000,0,Pettitt ,GA,Possession,4,58,53,17, 38
+2018-11-16 10:35:28 +0000,0,Pettitt ,GA,Assist - Circle Entry,4,58,53,17, 38
+2018-11-16 10:35:28 +0000,0,Brice,GS,Goal - Score,4,58,53,49, 8
+2018-11-16 10:35:38 +0000,1,Ravaillion,C,Centre Pass,4,59,53,50, 100
+2018-11-16 10:35:38 +0000,1,Brazill,WD,Assist - Centre Pass Rec,4,59,53,74, 117
+2018-11-16 10:35:40 +0000,1,Thwaites,GS,Assist - 2nd Phase,4,59,53,88, 183
+2018-11-16 10:35:43 +0000,1,Ravaillion,C,Possession,4,59,53,74, 168
+2018-11-16 10:35:45 +0000,1,Bell,GA,Possession,4,59,53,51, 164
+2018-11-16 10:35:55 +0000,1,Robinson,WA,Possession,4,59,53,28, 173
+2018-11-16 10:35:58 +0000,1,Robinson,WA,Assist - Circle Entry,4,59,53,28, 173
+2018-11-16 10:35:58 +0000,1,Thwaites,GS,Possession,4,59,53,42, 188
+2018-11-16 10:36:00 +0000,0,Bulley ,GD,Penaly - Contact,4,59,53,42, 188
+2018-11-16 10:36:00 +0000,1,Thwaites,GS,Goal - Score,4,59,53,42, 188
+2018-11-16 10:36:08 +0000,0,Guthrie,C,Centre Pass,4,59,54,50, 100
+2018-11-16 10:36:08 +0000,0,Pettitt ,GA,Assist - Centre Pass Rec,4,59,54,87, 75
+2018-11-16 10:36:11 +0000,0,Guthrie,C,Assist - 2nd Phase,4,59,54,89, 43
+2018-11-16 10:36:14 +0000,0,Guthrie,C,Assist - Circle Entry,4,59,54,89, 43
+2018-11-16 10:36:14 +0000,0,Brice,GS,Possession,4,59,54,59, 12
+2018-11-16 10:36:16 +0000,0,Green,WA,Possession,4,59,54,46, 36
+2018-11-16 10:36:19 +0000,0,Green,WA,Assist - Circle Entry,4,59,54,46, 36
+2018-11-16 10:36:19 +0000,0,Brice,GS,Goal - Score,4,59,54,56, 12
+2018-11-16 10:36:29 +0000,1,Ravaillion,C,Centre Pass,4,60,54,50, 100
+2018-11-16 10:36:29 +0000,1,Brazill,WD,Assist - Centre Pass Rec,4,60,54,75, 109
+2018-11-16 10:36:31 +0000,1,Robinson,WA,Assist - 2nd Phase,4,60,54,93, 141
+2018-11-16 10:36:34 +0000,1,Bell,GA,Possession,4,60,54,83, 186
+2018-11-16 10:36:36 +0000,1,Ravaillion,C,Possession,4,60,54,19, 181
+2018-11-16 10:36:39 +0000,1,Ravaillion,C,Assist - Circle Entry,4,60,54,19, 181
+2018-11-16 10:36:39 +0000,1,Bell,GA,Possession,4,60,54,31, 187
+2018-11-16 10:36:40 +0000,0,Poolman ,GK,Penaly - Contact,4,60,54,31, 187
+2018-11-16 10:36:40 +0000,1,Bell,GA,Possession,4,60,54,31, 187
+2018-11-16 10:36:43 +0000,1,Thwaites,GS,Possession,4,60,54,50, 189
+2018-11-16 10:36:44 +0000,0,Poolman ,GK,Penaly - Obstruction,4,60,54,50, 189
+2018-11-16 10:36:44 +0000,1,Thwaites,GS,Goal - Score,4,60,54,50, 189
+2018-11-16 10:36:54 +0000,0,Guthrie,C,Centre Pass,4,60,55,50, 100
+2018-11-16 10:36:55 +0000,0,Pettitt ,GA,Assist - Centre Pass Rec,4,60,55,12, 85
+2018-11-16 10:36:58 +0000,0,Green,WA,Assist - 2nd Phase,4,60,55,26, 32
+2018-11-16 10:37:00 +0000,0,Green,WA,Assist - Circle Entry,4,60,55,26, 32
+2018-11-16 10:37:00 +0000,0,Brice,GS,Goal - Score,4,60,55,54, 13
+2018-11-16 10:37:10 +0000,1,Ravaillion,C,Centre Pass,4,61,55,50, 100
+2018-11-16 10:37:10 +0000,1,Robinson,WA,Assist - Centre Pass Rec,4,61,55,43, 126
+2018-11-16 10:37:12 +0000,1,Robinson,WA,Assist - Circle Entry,4,61,55,43, 126
+2018-11-16 10:37:13 +0000,1,Thwaites,GS,Assist - 2nd Phase,4,61,55,44, 168
+2018-11-16 10:37:15 +0000,1,Ravaillion,C,Possession,4,61,55,19, 182
+2018-11-16 10:37:17 +0000,1,Bell,GA,Possession,4,61,55,17, 193
+2018-11-16 10:37:23 +0000,1,Ravaillion,C,Possession,4,61,55,20, 182
+2018-11-16 10:37:27 +0000,1,Ravaillion,C,Assist - Circle Entry,4,61,55,20, 182
+2018-11-16 10:37:27 +0000,1,Bell,GA,Possession,4,61,55,26, 196
+2018-11-16 10:37:36 +0000,0,Price,WD,Penaly - Contact,4,61,55,79, 181
+2018-11-16 10:37:36 +0000,1,Robinson,WA,Possession,4,61,55,79, 181
+2018-11-16 10:37:40 +0000,1,Robinson,WA,Assist - Circle Entry,4,61,55,79, 181
+2018-11-16 10:37:41 +0000,1,Thwaites,GS,Goal - Score,4,61,55,41, 192
+2018-11-16 10:37:51 +0000,0,Guthrie,C,Centre Pass,4,61,56,50, 100
+2018-11-16 10:37:51 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,4,61,56,23, 120
+2018-11-16 10:37:54 +0000,0,Price,WD,Assist - 2nd Phase,4,61,56,37, 101
+2018-11-16 10:37:56 +0000,0,Guthrie,C,Possession,4,61,56,32, 63
+2018-11-16 10:37:58 +0000,0,Pettitt ,GA,Possession,4,61,56,82, 34
+2018-11-16 10:38:01 +0000,0,Pettitt ,GA,Assist - Circle Entry,4,61,56,82, 34
+2018-11-16 10:38:01 +0000,0,Brice,GS,Goal - Score,4,61,56,55, 9
+2018-11-16 10:38:09 +0000,1,Ravaillion,C,Centre Pass,4,62,56,50, 100
+2018-11-16 10:38:09 +0000,1,Robinson,WA,Assist - Centre Pass Rec,4,62,56,84, 100
+2018-11-16 10:38:11 +0000,1,Ravaillion,C,Assist - 2nd Phase,4,62,56,13, 111
+2018-11-16 10:38:14 +0000,1,Bell,GA,Possession,4,62,56,37, 149
+2018-11-16 10:38:16 +0000,1,Bell,GA,Assist - Circle Entry,4,62,56,37, 149
+2018-11-16 10:38:17 +0000,1,Thwaites,GS,Goal - Score,4,62,56,59, 189
+2018-11-16 10:38:25 +0000,0,Guthrie,C,Centre Pass,4,62,57,50, 100
+2018-11-16 10:38:25 +0000,0,Pettitt ,GA,Assist - Centre Pass Rec,4,62,57,90, 100
+2018-11-16 10:38:29 +0000,0,Guthrie,C,Assist - 2nd Phase,4,62,57,80, 39
+2018-11-16 10:38:31 +0000,0,Pettitt ,GA,Possession,4,62,57,78, 55
+2018-11-16 10:38:33 +0000,0,Guthrie,C,Possession,4,62,57,84, 34
+2018-11-16 10:38:35 +0000,0,Guthrie,C,Assist - Circle Entry,4,62,57,84, 34
+2018-11-16 10:38:35 +0000,0,Brice,GS,Possession,4,62,57,39, 11
+2018-11-16 10:38:37 +0000,0,Green,WA,Possession,4,62,57,18, 17
+2018-11-16 10:38:39 +0000,0,Green,WA,Assist - Circle Entry,4,62,57,18, 17
+2018-11-16 10:38:39 +0000,0,Pettitt ,GA,Possession,4,62,57,47, 24
+2018-11-16 10:38:41 +0000,0,Green,WA,Possession,4,62,57,17, 17
+2018-11-16 10:38:43 +0000,1,Ravaillion,C,Penaly - Contact,4,62,57,17, 17
+2018-11-16 10:38:43 +0000,0,Green,WA,Possession,4,62,57,17, 17
+2018-11-16 10:38:46 +0000,0,Green,WA,Assist - Circle Entry,4,62,57,17, 17
+2018-11-16 10:38:46 +0000,0,Brice,GS,Goal - Score,4,62,57,51, 8
+2018-11-16 10:38:56 +0000,1,Ravaillion,C,Centre Pass,4,63,57,50, 100
+2018-11-16 10:38:56 +0000,1,Brazill,WD,Assist - Centre Pass Rec,4,63,57,51, 118
+2018-11-16 10:38:58 +0000,1,Bell,GA,Assist - 2nd Phase,4,63,57,83, 166
+2018-11-16 10:39:00 +0000,1,Ravaillion,C,Possession,4,63,57,74, 146
+2018-11-16 10:39:02 +0000,1,Robinson,WA,Possession,4,63,57,57, 154
+2018-11-16 10:39:05 +0000,1,Robinson,WA,Assist - Circle Entry,4,63,57,57, 154
+2018-11-16 10:39:05 +0000,1,Thwaites,GS,Goal - Score,4,63,57,39, 194
+2018-11-16 10:39:16 +0000,0,Guthrie,C,Centre Pass,4,63,58,50, 100
+2018-11-16 10:39:16 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,4,63,58,10, 81
+2018-11-16 10:39:20 +0000,0,Green,WA,Deflect,4,63,58,15, 22
+2018-11-16 10:39:28 +0000,1,Garrett,GK,Throw In,4,63,58,9, -2
+2018-11-16 10:39:35 +0000,1,Brazill,WD,Possession,4,63,58,77, 34
+2018-11-16 10:39:38 +0000,1,Brandley,GD,Possession,4,63,58,79, 62
+2018-11-16 10:39:40 +0000,1,Garrett,GK,Possession,4,63,58,55, 51
+2018-11-16 10:39:42 +0000,1,Brazill,WD,Possession,4,63,58,86, 82
+2018-11-16 10:39:45 +0000,1,Brazill,WD,Assist - Circle Entry,4,63,58,86, 82
+2018-11-16 10:39:45 +0000,1,Thwaites,GS,Goal - Score,4,63,58,47, 190
+2018-11-16 10:39:53 +0000,1,Ravaillion,C,Centre Pass,4,63,59,50, 100
+2018-11-16 10:39:53 +0000,1,Brazill,WD,Assist - Centre Pass Rec,4,63,59,15, 115
+2018-11-16 10:39:55 +0000,1,Thwaites,GS,Assist - 2nd Phase,4,63,59,17, 169
+2018-11-16 10:39:57 +0000,1,Ravaillion,C,Possession,4,63,59,26, 148
+2018-11-16 10:39:59 +0000,1,Bell,GA,Possession,4,63,59,19, 181
+2018-11-16 10:40:01 +0000,1,Robinson,WA,Possession,4,63,59,28, 171
+2018-11-16 10:40:05 +0000,1,Robinson,WA,Assist - Circle Entry,4,63,59,28, 171
+2018-11-16 10:40:05 +0000,1,Bell,GA,Goal - Score,4,63,59,45, 191
+2018-11-16 10:40:11 +0000,0,Guthrie,C,Centre Pass,4,63,60,50, 100
+2018-11-16 10:40:12 +0000,0,Green,WA,Assist - Centre Pass Rec,4,63,60,73, 84
+2018-11-16 10:40:15 +0000,1,Brazill,WD,Deflect,4,63,60,78, 91
+2018-11-16 10:40:15 +0000,0,Green,WA,Throw In,4,63,60,104, 102

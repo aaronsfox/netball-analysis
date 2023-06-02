@@ -1,0 +1,1434 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-10-31 00:06:39 +0000,1,Ravaillion,C,Centre Pass,1,0,0,50, 100
+2018-10-31 00:06:39 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,0,0,18, 126
+2018-10-31 00:06:50 +0000,1,Bell,GA,Assist - 2nd Phase,1,0,0,12, 152
+2018-10-31 00:06:53 +0000,1,Ravaillion,C,Possession,1,0,0,39, 157
+2018-10-31 00:06:57 +0000,1,Thwaites,GS,Possession,1,0,0,53, 166
+2018-10-31 00:06:59 +0000,1,Ravaillion,C,Possession,1,0,0,48, 166
+2018-10-31 00:07:04 +0000,1,Ravaillion,C,Assist - Circle Entry,1,0,0,48, 166
+2018-10-31 00:07:04 +0000,1,Thwaites,GS,Goal - Score,1,0,0,48, 183
+2018-10-31 00:07:16 +0000,0,Charles,C,Centre Pass,1,0,1,50, 100
+2018-10-31 00:07:16 +0000,1,Brandley,GD,Gain - Inter,1,0,1,10, 78
+2018-10-31 00:08:20 +0000,1,Thwaites,GS,Possession,1,0,1,12, 142
+2018-10-31 00:08:24 +0000,1,Ravaillion,C,Possession,1,0,1,90, 143
+2018-10-31 00:08:32 +0000,1,Ravaillion,C,Assist - Circle Entry,1,0,1,90, 143
+2018-10-31 00:08:32 +0000,1,Bell,GA,Possession,1,0,1,76, 195
+2018-10-31 00:08:35 +0000,0,Bruce,GK,Penaly - Contact,1,0,1,76, 195
+2018-10-31 00:08:35 +0000,1,Bell,GA,Loss - Bad Pass,1,0,1,76, 195
+2018-10-31 00:09:17 +0000,0,Anstiss,WD,Gain - Pick-up,1,0,1,65, 130
+2018-10-31 00:09:37 +0000,1,Ravaillion,C,Penaly - Contact,1,0,1,65, 130
+2018-10-31 00:09:37 +0000,0,Anstiss,WD,Possession,1,0,1,65, 130
+2018-10-31 00:09:48 +0000,0,Charles,C,Possession,1,0,1,85, 77
+2018-10-31 00:09:56 +0000,0,Colyer ,WA,Possession,1,0,1,76, 29
+2018-10-31 00:10:02 +0000,0,Colyer ,WA,Assist - Circle Entry,1,0,1,76, 29
+2018-10-31 00:10:02 +0000,0,Fowler,GS,Goal - Miss,1,0,1,53, 11
+2018-10-31 00:10:13 +0000,1,Layton,GK,Gain - Def Reb,1,0,1,50, 2
+2018-10-31 00:10:19 +0000,0,Medhurst,GA,Deflect,1,0,1,10, 22
+2018-10-31 00:10:20 +0000,1,Layton,GK,Throw In,1,0,1,-6, 23
+2018-10-31 00:10:43 +0000,1,Brandley,GD,Possession,1,0,1,7, 77
+2018-10-31 00:10:50 +0000,1,Bell,GA,Possession,1,0,1,47, 148
+2018-10-31 00:10:54 +0000,0,Bruce,GK,Penaly - Contact,1,0,1,47, 148
+2018-10-31 00:10:54 +0000,1,Ravaillion,C,Possession,1,0,1,47, 148
+2018-10-31 00:11:11 +0000,1,Ravaillion,C,Assist - Circle Entry,1,0,1,47, 148
+2018-10-31 00:11:11 +0000,1,Thwaites,GS,Possession,1,0,1,54, 174
+2018-10-31 00:11:13 +0000,1,Ravaillion,C,Possession,1,0,1,55, 166
+2018-10-31 00:11:19 +0000,1,Ravaillion,C,Assist - Circle Entry,1,0,1,55, 166
+2018-10-31 00:11:19 +0000,1,Thwaites,GS,Possession,1,0,1,52, 185
+2018-10-31 00:11:29 +0000,0,Francis,GD,Penaly - Contact,1,0,1,52, 185
+2018-10-31 00:11:29 +0000,1,Thwaites,GS,Goal - Score,1,0,1,52, 185
+2018-10-31 00:11:42 +0000,1,Ravaillion,C,Centre Pass,1,0,2,50, 100
+2018-10-31 00:11:42 +0000,1,Bell,GA,Assist - Centre Pass Rec,1,0,2,17, 125
+2018-10-31 00:11:48 +0000,0,Anstiss,WD,Penaly - Contact,1,0,2,37, 155
+2018-10-31 00:11:48 +0000,1,Robinson,WA,Assist - 2nd Phase,1,0,2,37, 155
+2018-10-31 00:11:55 +0000,1,Robinson,WA,Assist - Circle Entry,1,0,2,37, 155
+2018-10-31 00:11:55 +0000,1,Thwaites,GS,Goal - Score,1,0,2,47, 186
+2018-10-31 00:12:03 +0000,0,Charles,C,Centre Pass,1,0,3,50, 100
+2018-10-31 00:12:04 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,0,3,16, 99
+2018-10-31 00:12:09 +0000,0,Charles,C,Assist - 2nd Phase,1,0,3,45, 84
+2018-10-31 00:12:19 +0000,1,Layton,GK,Deflect,1,0,3,53, 48
+2018-10-31 00:12:19 +0000,0,Charles,C,Throw In,1,0,3,105, 41
+2018-10-31 00:12:32 +0000,0,Charles,C,Assist - Circle Entry,1,0,3,105, 41
+2018-10-31 00:12:32 +0000,0,Fowler,GS,Possession,1,0,3,51, 12
+2018-10-31 00:12:35 +0000,1,Layton,GK,Penaly - Contact,1,0,3,51, 12
+2018-10-31 00:12:35 +0000,0,Fowler,GS,Goal - Score,1,0,3,51, 12
+2018-10-31 00:12:43 +0000,1,Ravaillion,C,Centre Pass,1,1,3,50, 100
+2018-10-31 00:12:43 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,1,3,83, 115
+2018-10-31 00:12:45 +0000,1,Ravaillion,C,Assist - 2nd Phase,1,1,3,21, 160
+2018-10-31 00:12:49 +0000,1,Thwaites,GS,Possession,1,1,3,16, 194
+2018-10-31 00:12:56 +0000,1,Ravaillion,C,Loss - Held Ball,1,1,3,24, 175
+2018-10-31 00:13:10 +0000,0,Bruce,GK,Possession,1,1,3,23, 175
+2018-10-31 00:13:17 +0000,0,Anstiss,WD,Possession,1,1,3,15, 145
+2018-10-31 00:13:20 +0000,0,Charles,C,Possession,1,1,3,42, 132
+2018-10-31 00:13:22 +0000,0,Francis,GD,Possession,1,1,3,92, 126
+2018-10-31 00:13:28 +0000,0,Colyer ,WA,Possession,1,1,3,68, 118
+2018-10-31 00:13:43 +0000,0,Francis,GD,Possession,1,1,3,88, 105
+2018-10-31 00:13:45 +0000,0,Charles,C,Possession,1,1,3,90, 73
+2018-10-31 00:13:57 +0000,1,Bell,GA,Gain - Inter,1,1,3,75, 113
+2018-10-31 00:14:07 +0000,1,Brandley,GD,Possession,1,1,3,59, 129
+2018-10-31 00:14:15 +0000,1,Robinson,WA,Possession,1,1,3,30, 171
+2018-10-31 00:14:21 +0000,1,Robinson,WA,Assist - Circle Entry,1,1,3,30, 171
+2018-10-31 00:14:22 +0000,1,Thwaites,GS,Possession,1,1,3,36, 187
+2018-10-31 00:14:24 +0000,1,Ravaillion,C,Possession,1,1,3,84, 190
+2018-10-31 00:14:27 +0000,1,Robinson,WA,Possession,1,1,3,68, 165
+2018-10-31 00:14:30 +0000,1,Ravaillion,C,Possession,1,1,3,83, 190
+2018-10-31 00:14:35 +0000,1,Ravaillion,C,Assist - Circle Entry,1,1,3,83, 190
+2018-10-31 00:14:35 +0000,1,Bell,GA,Possession,1,1,3,77, 196
+2018-10-31 00:14:40 +0000,1,,UNKNOWN,Possession,1,1,3,83, 191
+2018-10-31 00:14:42 +0000,0,Charles,C,Penaly - Contact,1,1,3,83, 191
+2018-10-31 00:14:42 +0000,1,Ravaillion,C,Possession,1,1,3,83, 191
+2018-10-31 00:14:49 +0000,1,Ravaillion,C,Assist - Circle Entry,1,1,3,83, 191
+2018-10-31 00:14:49 +0000,1,Bell,GA,Goal - Score,1,1,3,71, 194
+2018-10-31 00:15:10 +0000,0,Charles,C,Centre Pass,1,1,4,50, 100
+2018-10-31 00:15:10 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,1,1,4,39, 87
+2018-10-31 00:15:13 +0000,0,Francis,GD,Assist - 2nd Phase,1,1,4,65, 115
+2018-10-31 00:15:15 +0000,0,Anstiss,WD,Possession,1,1,4,34, 100
+2018-10-31 00:15:17 +0000,0,Medhurst,GA,Possession,1,1,4,9, 80
+2018-10-31 00:15:21 +0000,0,Charles,C,Possession,1,1,4,7, 30
+2018-10-31 00:15:23 +0000,0,Charles,C,Assist - Circle Entry,1,1,4,7, 30
+2018-10-31 00:15:23 +0000,0,Fowler,GS,Goal - Score,1,1,4,51, 8
+2018-10-31 00:15:37 +0000,1,Ravaillion,C,Centre Pass,1,2,4,50, 100
+2018-10-31 00:15:37 +0000,1,Bell,GA,Assist - Centre Pass Rec,1,2,4,21, 128
+2018-10-31 00:15:45 +0000,1,Brazill,WD,Assist - 2nd Phase,1,2,4,10, 89
+2018-10-31 00:15:48 +0000,0,Colyer ,WA,Penaly - Contact,1,2,4,10, 89
+2018-10-31 00:15:48 +0000,1,Brazill,WD,Possession,1,2,4,10, 89
+2018-10-31 00:15:58 +0000,1,Ravaillion,C,Possession,1,2,4,27, 110
+2018-10-31 00:16:01 +0000,1,Brazill,WD,Possession,1,2,4,49, 112
+2018-10-31 00:16:06 +0000,1,Robinson,WA,Possession,1,2,4,50, 162
+2018-10-31 00:16:12 +0000,1,Robinson,WA,Assist - Circle Entry,1,2,4,50, 162
+2018-10-31 00:16:13 +0000,1,Bell,GA,Goal - Miss,1,2,4,75, 195
+2018-10-31 00:16:23 +0000,0,Bruce,GK,Gain - Def Reb,1,2,4,50, 197
+2018-10-31 00:16:28 +0000,0,Charles,C,Possession,1,2,4,75, 168
+2018-10-31 00:17:08 +0000,0,Anstiss,WD,Possession,1,2,4,46, 117
+2018-10-31 00:17:14 +0000,0,Medhurst,GA,Possession,1,2,4,92, 71
+2018-10-31 00:17:19 +0000,0,Colyer ,WA,Possession,1,2,4,86, 10
+2018-10-31 00:17:26 +0000,1,Layton,GK,Penaly - Contact,1,2,4,63, 9
+2018-10-31 00:17:26 +0000,0,Medhurst,GA,Possession,1,2,4,63, 9
+2018-10-31 00:17:41 +0000,1,Brandley,GD,Penaly - Obstruction,1,2,4,63, 9
+2018-10-31 00:17:41 +0000,0,Medhurst,GA,Goal - Score,1,2,4,63, 9
+2018-10-31 00:17:52 +0000,0,Charles,C,Centre Pass,1,3,4,50, 100
+2018-10-31 00:17:52 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,1,3,4,34, 90
+2018-10-31 00:17:55 +0000,0,Charles,C,Assist - 2nd Phase,1,3,4,12, 60
+2018-10-31 00:17:58 +0000,0,Charles,C,Assist - Circle Entry,1,3,4,12, 60
+2018-10-31 00:17:58 +0000,0,Fowler,GS,Goal - Score,1,3,4,53, 15
+2018-10-31 00:18:06 +0000,1,Ravaillion,C,Centre Pass,1,4,4,50, 100
+2018-10-31 00:18:06 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,4,4,22, 129
+2018-10-31 00:18:10 +0000,1,Bell,GA,Assist - 2nd Phase,1,4,4,18, 164
+2018-10-31 00:18:14 +0000,1,Robinson,WA,Possession,1,4,4,44, 160
+2018-10-31 00:18:19 +0000,1,Robinson,WA,Assist - Circle Entry,1,4,4,44, 160
+2018-10-31 00:18:19 +0000,1,Thwaites,GS,Possession,1,4,4,47, 182
+2018-10-31 00:18:20 +0000,0,Bruce,GK,Penaly - Obstruction,1,4,4,47, 182
+2018-10-31 00:18:20 +0000,1,Thwaites,GS,Possession,1,4,4,47, 182
+2018-10-31 00:18:25 +0000,1,Bell,GA,Goal - Score,1,4,4,52, 195
+2018-10-31 00:18:33 +0000,0,Charles,C,Centre Pass,1,4,5,50, 100
+2018-10-31 00:18:34 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,1,4,5,47, 112
+2018-10-31 00:18:39 +0000,0,Charles,C,Assist - 2nd Phase,1,4,5,59, 89
+2018-10-31 00:18:43 +0000,0,Colyer ,WA,Possession,1,4,5,91, 76
+2018-10-31 00:18:47 +0000,0,Charles,C,Possession,1,4,5,97, 39
+2018-10-31 00:18:51 +0000,0,Charles,C,Assist - Circle Entry,1,4,5,97, 39
+2018-10-31 00:18:51 +0000,0,Fowler,GS,Possession,1,4,5,71, 17
+2018-10-31 00:18:54 +0000,0,Medhurst,GA,Possession,1,4,5,42, 13
+2018-10-31 00:19:08 +0000,1,Brandley,GD,Penaly - Obstruction,1,4,5,42, 13
+2018-10-31 00:19:08 +0000,0,Medhurst,GA,Possession,1,4,5,42, 13
+2018-10-31 00:19:18 +0000,1,Layton,GK,Penaly - Obstruction,1,4,5,42, 13
+2018-10-31 00:19:18 +0000,0,Medhurst,GA,Goal - Score,1,4,5,42, 13
+2018-10-31 00:19:29 +0000,1,Ravaillion,C,Centre Pass,1,5,5,50, 100
+2018-10-31 00:19:29 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,5,5,84, 128
+2018-10-31 00:19:33 +0000,1,Bell,GA,Assist - 2nd Phase,1,5,5,92, 182
+2018-10-31 00:19:35 +0000,1,Robinson,WA,Possession,1,5,5,74, 174
+2018-10-31 00:19:39 +0000,1,Robinson,WA,Assist - Circle Entry,1,5,5,74, 174
+2018-10-31 00:19:39 +0000,1,Thwaites,GS,Goal - Score,1,5,5,52, 191
+2018-10-31 00:19:49 +0000,0,Charles,C,Centre Pass,1,5,6,50, 100
+2018-10-31 00:19:49 +0000,0,Francis,GD,Assist - Centre Pass Rec,1,5,6,44, 121
+2018-10-31 00:19:53 +0000,0,Charles,C,Assist - 2nd Phase,1,5,6,68, 109
+2018-10-31 00:19:57 +0000,0,Francis,GD,Possession,1,5,6,49, 127
+2018-10-31 00:19:59 +0000,0,Anstiss,WD,Possession,1,5,6,23, 114
+2018-10-31 00:20:06 +0000,0,Medhurst,GA,Possession,1,5,6,12, 61
+2018-10-31 00:20:12 +0000,0,Fowler,GS,Possession,1,5,6,18, 23
+2018-10-31 00:20:14 +0000,0,Colyer ,WA,Possession,1,5,6,27, 37
+2018-10-31 00:20:17 +0000,1,Brazill,WD,Penaly - Obstruction,1,5,6,27, 37
+2018-10-31 00:20:17 +0000,0,Colyer ,WA,Possession,1,5,6,27, 37
+2018-10-31 00:20:26 +0000,0,Colyer ,WA,Assist - Circle Entry,1,5,6,27, 37
+2018-10-31 00:20:26 +0000,0,Fowler,GS,Goal - Score,1,5,6,43, 7
+2018-10-31 00:20:35 +0000,1,Ravaillion,C,Centre Pass,1,6,6,50, 100
+2018-10-31 00:20:35 +0000,1,Brandley,GD,Assist - Centre Pass Rec,1,6,6,88, 115
+2018-10-31 00:20:44 +0000,1,Brandley,GD,Assist - Circle Entry,1,6,6,88, 115
+2018-10-31 00:20:44 +0000,1,Thwaites,GS,Deflect,1,6,6,44, 193
+2018-10-31 00:20:51 +0000,0,Bruce,GK,Throw In,1,6,6,36, 206
+2018-10-31 00:21:15 +0000,0,Anstiss,WD,Possession,1,6,6,71, 172
+2018-10-31 00:21:20 +0000,0,Charles,C,Possession,1,6,6,93, 127
+2018-10-31 00:21:23 +0000,0,Colyer ,WA,Possession,1,6,6,43, 115
+2018-10-31 00:21:28 +0000,0,Charles,C,Possession,1,6,6,48, 64
+2018-10-31 00:21:30 +0000,0,Medhurst,GA,Possession,1,6,6,69, 42
+2018-10-31 00:21:33 +0000,0,Medhurst,GA,Assist - Circle Entry,1,6,6,69, 42
+2018-10-31 00:21:33 +0000,0,Fowler,GS,Goal - Score,1,6,6,47, 14
+2018-10-31 00:21:43 +0000,0,Charles,C,Centre Pass,1,7,6,50, 100
+2018-10-31 00:21:43 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,7,6,63, 93
+2018-10-31 00:21:45 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,7,6,90, 75
+2018-10-31 00:21:48 +0000,0,Medhurst,GA,Assist - Circle Entry,1,7,6,90, 75
+2018-10-31 00:21:48 +0000,0,Fowler,GS,Possession,1,7,6,72, 19
+2018-10-31 00:21:51 +0000,0,Charles,C,Possession,1,7,6,14, 8
+2018-10-31 00:22:16 +0000,0,Charles,C,Assist - Circle Entry,1,7,6,14, 8
+2018-10-31 00:22:16 +0000,0,Medhurst,GA,Possession,1,7,6,27, 11
+2018-10-31 00:22:18 +0000,0,Charles,C,Possession,1,7,6,12, 10
+2018-10-31 00:22:21 +0000,0,Charles,C,Assist - Circle Entry,1,7,6,12, 10
+2018-10-31 00:22:21 +0000,0,Medhurst,GA,Possession,1,7,6,35, 10
+2018-10-31 00:22:26 +0000,0,Fowler,GS,Goal - Score,1,7,6,54, 10
+2018-10-31 00:22:35 +0000,1,Ravaillion,C,Centre Pass,1,8,6,50, 100
+2018-10-31 00:22:36 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,8,6,33, 116
+2018-10-31 00:22:38 +0000,1,Bell,GA,Assist - 2nd Phase,1,8,6,12, 151
+2018-10-31 00:22:45 +0000,1,Ravaillion,C,Possession,1,8,6,42, 148
+2018-10-31 00:22:49 +0000,1,Robinson,WA,Possession,1,8,6,51, 159
+2018-10-31 00:22:53 +0000,1,Robinson,WA,Assist - Circle Entry,1,8,6,51, 159
+2018-10-31 00:22:53 +0000,1,Bell,GA,Possession,1,8,6,63, 198
+2018-10-31 00:22:55 +0000,0,Francis,GD,Penaly - Obstruction,1,8,6,63, 198
+2018-10-31 00:22:55 +0000,1,Bell,GA,Goal - Miss,1,8,6,63, 198
+2018-10-31 00:23:02 +0000,1,Thwaites,GS,Assist - Attack Rebound,1,8,6,50, 197
+2018-10-31 00:23:04 +0000,1,Thwaites,GS,Goal - Score,1,8,6,63, 198
+2018-10-31 00:24:52 +0000,0,Charles,C,Centre Pass,1,8,7,50, 100
+2018-10-31 00:24:52 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,1,8,7,23, 84
+2018-10-31 00:24:55 +0000,0,Charles,C,Loss - Replay,1,8,7,63, 87
+2018-10-31 00:25:02 +0000,1,Brazill,WD,Possession,1,8,7,62, 86
+2018-10-31 00:25:12 +0000,1,Robinson,WA,Possession,1,8,7,94, 118
+2018-10-31 00:25:17 +0000,1,Brandley,GD,Possession,1,8,7,83, 118
+2018-10-31 00:25:19 +0000,1,Robinson,WA,Possession,1,8,7,93, 143
+2018-10-31 00:25:28 +0000,0,Anstiss,WD,Penaly - Obstruction,1,8,7,93, 143
+2018-10-31 00:25:28 +0000,1,Robinson,WA,Possession,1,8,7,93, 143
+2018-10-31 00:25:39 +0000,0,Bruce,GK,Penaly - Contact,1,8,7,70, 186
+2018-10-31 00:25:40 +0000,1,Bell,GA,Possession,1,8,7,70, 186
+2018-10-31 00:25:54 +0000,1,Thwaites,GS,Goal - Score,1,8,7,43, 196
+2018-10-31 00:26:01 +0000,1,Ravaillion,C,Centre Pass,1,8,8,50, 100
+2018-10-31 00:26:01 +0000,1,Bell,GA,Loss - Held Ball,1,8,8,88, 129
+2018-10-31 00:26:21 +0000,0,Francis,GD,Possession,1,8,8,87, 131
+2018-10-31 00:26:35 +0000,0,Colyer ,WA,Possession,1,8,8,89, 102
+2018-10-31 00:26:41 +0000,1,Brazill,WD,Penaly - Contact,1,8,8,89, 102
+2018-10-31 00:26:41 +0000,0,Francis,GD,Possession,1,8,8,89, 102
+2018-10-31 00:26:52 +0000,0,Charles,C,Possession,1,8,8,48, 53
+2018-10-31 00:26:55 +0000,0,Charles,C,Assist - Circle Entry,1,8,8,48, 53
+2018-10-31 00:26:55 +0000,0,Medhurst,GA,Possession,1,8,8,21, 6
+2018-10-31 00:26:58 +0000,0,Fowler,GS,Goal - Score,1,8,8,49, 9
+2018-10-31 00:27:11 +0000,0,Charles,C,Centre Pass,1,9,8,50, 100
+2018-10-31 00:27:11 +0000,1,Brazill,WD,Gain - Inter,1,9,8,42, 84
+2018-10-31 00:27:31 +0000,1,Bell,GA,Possession,1,9,8,38, 126
+2018-10-31 00:27:34 +0000,1,Brazill,WD,Possession,1,9,8,42, 132
+2018-10-31 00:27:38 +0000,1,Robinson,WA,Possession,1,9,8,80, 183
+2018-10-31 00:27:41 +0000,1,Robinson,WA,Assist - Circle Entry,1,9,8,80, 183
+2018-10-31 00:27:41 +0000,1,Bell,GA,Possession,1,9,8,46, 183
+2018-10-31 00:27:43 +0000,0,Francis,GD,Penaly - Contact,1,9,8,46, 183
+2018-10-31 00:27:43 +0000,1,Bell,GA,Possession,1,9,8,46, 183
+2018-10-31 00:27:47 +0000,1,Thwaites,GS,Goal - Score,1,9,8,48, 192
+2018-10-31 00:27:54 +0000,1,Ravaillion,C,Centre Pass,1,9,9,50, 100
+2018-10-31 00:27:54 +0000,1,Bell,GA,Loss - Bad Pass,1,9,9,26, 130
+2018-10-31 00:27:59 +0000,0,Bruce,GK,Throw In,1,9,9,9, 207
+2018-10-31 00:28:09 +0000,0,Francis,GD,Possession,1,9,9,9, 177
+2018-10-31 00:28:13 +0000,1,Bell,GA,Penaly - Contact,1,9,9,9, 177
+2018-10-31 00:28:13 +0000,0,Bruce,GK,Possession,1,9,9,9, 177
+2018-10-31 00:28:22 +0000,0,Anstiss,WD,Possession,1,9,9,68, 149
+2018-10-31 00:28:26 +0000,0,Charles,C,Possession,1,9,9,93, 115
+2018-10-31 00:28:28 +0000,0,Colyer ,WA,Possession,1,9,9,94, 60
+2018-10-31 00:28:32 +0000,0,Colyer ,WA,Assist - Circle Entry,1,9,9,94, 60
+2018-10-31 00:28:32 +0000,0,Fowler,GS,Goal - Score,1,9,9,48, 9
+2018-10-31 00:28:43 +0000,0,Charles,C,Centre Pass,1,10,9,50, 100
+2018-10-31 00:28:44 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,10,9,80, 73
+2018-10-31 00:28:46 +0000,0,Medhurst,GA,Assist - 2nd Phase,1,10,9,92, 46
+2018-10-31 00:28:49 +0000,0,Colyer ,WA,Possession,1,10,9,87, 11
+2018-10-31 00:28:54 +0000,1,Layton,GK,Deflect,1,10,9,71, 5
+2018-10-31 00:28:54 +0000,0,Medhurst,GA,Throw In,1,10,9,79, -6
+2018-10-31 00:29:01 +0000,0,Medhurst,GA,Assist - Circle Entry,1,10,9,79, -6
+2018-10-31 00:29:01 +0000,0,Fowler,GS,Goal - Score,1,10,9,48, 9
+2018-10-31 00:29:11 +0000,1,Ravaillion,C,Centre Pass,1,11,9,50, 100
+2018-10-31 00:29:11 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,11,9,36, 132
+2018-10-31 00:29:22 +0000,1,Brazill,WD,Assist - 2nd Phase,1,11,9,67, 133
+2018-10-31 00:29:26 +0000,0,Colyer ,WA,Penaly - Contact,1,11,9,67, 133
+2018-10-31 00:29:26 +0000,1,Brazill,WD,Possession,1,11,9,67, 133
+2018-10-31 00:29:31 +0000,1,Robinson,WA,Possession,1,11,9,71, 154
+2018-10-31 00:29:40 +0000,1,Ravaillion,C,Possession,1,11,9,89, 180
+2018-10-31 00:29:42 +0000,1,Robinson,WA,Possession,1,11,9,69, 168
+2018-10-31 00:29:45 +0000,0,Anstiss,WD,Penaly - Contact,1,11,9,69, 168
+2018-10-31 00:29:45 +0000,1,Robinson,WA,Possession,1,11,9,69, 168
+2018-10-31 00:29:50 +0000,1,Robinson,WA,Assist - Circle Entry,1,11,9,69, 168
+2018-10-31 00:29:51 +0000,1,Bell,GA,Goal - Miss,1,11,9,63, 186
+2018-10-31 00:29:59 +0000,1,Thwaites,GS,Assist - Attack Rebound,1,11,9,50, 197
+2018-10-31 00:30:02 +0000,1,Thwaites,GS,Goal - Score,1,11,9,63, 186
+2018-10-31 00:30:08 +0000,0,Charles,C,Centre Pass,1,11,10,50, 100
+2018-10-31 00:30:08 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,1,11,10,26, 85
+2018-10-31 00:30:10 +0000,0,Charles,C,Assist - 2nd Phase,1,11,10,32, 64
+2018-10-31 00:30:18 +0000,0,Charles,C,Assist - Circle Entry,1,11,10,32, 64
+2018-10-31 00:30:18 +0000,0,Fowler,GS,Possession,1,11,10,47, 16
+2018-10-31 00:30:21 +0000,1,Brandley,GD,Penaly - Contact,1,11,10,47, 16
+2018-10-31 00:30:21 +0000,0,Fowler,GS,Goal - Score,1,11,10,47, 16
+2018-10-31 00:30:32 +0000,1,Ravaillion,C,Centre Pass,1,12,10,50, 100
+2018-10-31 00:30:32 +0000,1,Brandley,GD,Assist - Centre Pass Rec,1,12,10,26, 115
+2018-10-31 00:30:35 +0000,1,Bell,GA,Assist - 2nd Phase,1,12,10,14, 152
+2018-10-31 00:30:40 +0000,1,Robinson,WA,Possession,1,12,10,12, 191
+2018-10-31 00:30:43 +0000,1,Robinson,WA,Assist - Circle Entry,1,12,10,12, 191
+2018-10-31 00:30:43 +0000,1,Thwaites,GS,Loss - Held Ball,1,12,10,35, 195
+2018-10-31 00:31:27 +0000,0,Bruce,GK,Possession,1,12,10,37, 195
+2018-10-31 00:31:33 +0000,0,Anstiss,WD,Possession,1,12,10,18, 182
+2018-10-31 00:31:35 +0000,1,Robinson,WA,Penaly - Contact,1,12,10,18, 182
+2018-10-31 00:31:35 +0000,0,Anstiss,WD,Possession,1,12,10,18, 182
+2018-10-31 00:31:40 +0000,0,Francis,GD,Possession,1,12,10,31, 93
+2018-10-31 00:31:45 +0000,0,Medhurst,GA,Loss - Bad Pass,1,12,10,73, 80
+2018-10-31 00:31:48 +0000,1,Layton,GK,Throw In,1,12,10,95, -3
+2018-10-31 00:31:57 +0000,1,Brazill,WD,Possession,1,12,10,97, 52
+2018-10-31 00:31:59 +0000,1,Brandley,GD,Possession,1,12,10,15, 79
+2018-10-31 00:32:06 +0000,1,Bell,GA,Possession,1,12,10,81, 128
+2018-10-31 00:32:08 +0000,1,Ravaillion,C,Possession,1,12,10,91, 132
+2018-10-31 00:33:11 +0000,1,Thwaites,GS,Possession,1,12,10,87, 180
+2018-10-31 00:33:16 +0000,1,Ravaillion,C,Possession,1,12,10,71, 173
+2018-10-31 00:33:18 +0000,1,Robinson,WA,Possession,1,12,10,42, 166
+2018-10-31 00:33:21 +0000,1,Robinson,WA,Assist - Circle Entry,1,12,10,42, 166
+2018-10-31 00:33:21 +0000,1,Bell,GA,Goal - Score,1,12,10,41, 196
+2018-10-31 00:33:29 +0000,0,Charles,C,Centre Pass,1,12,11,50, 100
+2018-10-31 00:33:29 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,1,12,11,43, 88
+2018-10-31 00:33:32 +0000,0,Charles,C,Loss - Bad Pass,1,12,11,46, 76
+2018-10-31 00:34:02 +0000,1,Brandley,GD,Possession,1,12,11,42, 54
+2018-10-31 00:34:14 +0000,1,Layton,GK,Possession,1,12,11,32, 57
+2018-10-31 00:34:20 +0000,1,Brazill,WD,Possession,1,12,11,13, 80
+2018-10-31 00:34:22 +0000,1,Ravaillion,C,Possession,1,12,11,94, 114
+2018-10-31 00:34:24 +0000,1,Bell,GA,Possession,1,12,11,89, 160
+2018-10-31 00:34:27 +0000,1,Bell,GA,Assist - Circle Entry,1,12,11,89, 160
+2018-10-31 00:34:27 +0000,1,Thwaites,GS,Possession,1,12,11,57, 181
+2018-10-31 00:34:31 +0000,1,Ravaillion,C,Possession,1,12,11,67, 171
+2018-10-31 00:34:34 +0000,1,Ravaillion,C,Assist - Circle Entry,1,12,11,67, 171
+2018-10-31 00:34:34 +0000,1,Thwaites,GS,Goal - Score,1,12,11,54, 186
+2018-10-31 00:34:53 +0000,0,,UNKNOWN,Timeout,1,12,12,-10, -22
+2018-10-31 00:36:34 +0000,1,Ravaillion,C,Centre Pass,1,12,12,50, 100
+2018-10-31 00:36:34 +0000,1,Brazill,WD,Deflect,1,12,12,76, 128
+2018-10-31 00:36:40 +0000,0,Anstiss,WD,Gain - Inter,1,12,12,72, 138
+2018-10-31 00:36:52 +0000,0,Bruce,GK,Possession,1,12,12,68, 165
+2018-10-31 00:36:54 +0000,0,Francis,GD,Possession,1,12,12,25, 165
+2018-10-31 00:36:56 +0000,0,Bruce,GK,Possession,1,12,12,45, 162
+2018-10-31 00:36:59 +0000,0,Charles,C,Possession,1,12,12,79, 124
+2018-10-31 00:37:03 +0000,0,Anstiss,WD,Possession,1,12,12,93, 97
+2018-10-31 00:37:14 +0000,1,Brazill,WD,Gain - Tip (Deflect),1,12,12,79, 102
+2018-10-31 00:37:20 +0000,1,Thwaites,GS,Possession,1,12,12,66, 139
+2018-10-31 00:37:24 +0000,1,Robinson,WA,Possession,1,12,12,47, 117
+2018-10-31 00:37:30 +0000,1,Ravaillion,C,Possession,1,12,12,84, 147
+2018-10-31 00:37:32 +0000,1,Robinson,WA,Possession,1,12,12,59, 166
+2018-10-31 00:37:35 +0000,0,Francis,GD,Penaly - Contact,1,12,12,52, 181
+2018-10-31 00:37:35 +0000,1,Thwaites,GS,Possession,1,12,12,52, 181
+2018-10-31 00:37:53 +0000,0,Bruce,GK,Gain - Inter,1,12,12,48, 183
+2018-10-31 00:38:02 +0000,0,Francis,GD,Possession,1,12,12,78, 174
+2018-10-31 00:38:06 +0000,0,Charles,C,Possession,1,12,12,92, 139
+2018-10-31 00:39:13 +0000,1,Brazill,WD,Deflect,1,12,12,95, 88
+2018-10-31 00:39:13 +0000,0,,UNKNOWN,Throw In,1,12,12,106, 100
+2018-10-31 00:40:56 +0000,0,,UNKNOWN,Possession,1,12,12,90, 80
+2018-10-31 00:40:59 +0000,0,,UNKNOWN,Possession,1,12,12,86, 40
+2018-10-31 00:41:00 +0000,0,Medhurst,GA,Possession,1,12,12,91, 8
+2018-10-31 00:41:19 +0000,0,Medhurst,GA,Assist - Circle Entry,1,12,12,91, 8
+2018-10-31 00:41:19 +0000,0,Fowler,GS,Goal - Score,1,12,12,55, 7
+2018-10-31 00:41:28 +0000,0,Charles,C,Centre Pass,1,13,12,50, 100
+2018-10-31 00:41:29 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,1,13,12,82, 86
+2018-10-31 00:41:36 +0000,0,Charles,C,Assist - 2nd Phase,1,13,12,84, 61
+2018-10-31 00:41:39 +0000,0,Colyer ,WA,Possession,1,13,12,68, 63
+2018-10-31 00:41:42 +0000,0,Medhurst,GA,Possession,1,13,12,15, 46
+2018-10-31 00:41:43 +0000,0,Colyer ,WA,Possession,1,13,12,14, 12
+2018-10-31 00:41:46 +0000,0,Colyer ,WA,Assist - Circle Entry,1,13,12,14, 12
+2018-10-31 00:41:46 +0000,0,Medhurst,GA,Possession,1,13,12,32, 10
+2018-10-31 00:41:48 +0000,0,Fowler,GS,Goal - Score,1,13,12,51, 10
+2018-10-31 00:41:55 +0000,1,Ravaillion,C,Centre Pass,1,14,12,50, 100
+2018-10-31 00:41:55 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,14,12,92, 124
+2018-10-31 00:41:58 +0000,1,Brazill,WD,Assist - 2nd Phase,1,14,12,75, 120
+2018-10-31 00:42:00 +0000,1,Robinson,WA,Possession,1,14,12,91, 151
+2018-10-31 00:42:03 +0000,0,Anstiss,WD,Penaly - Obstruction,1,14,12,91, 151
+2018-10-31 00:42:04 +0000,1,Robinson,WA,Possession,1,14,12,91, 151
+2018-10-31 00:42:12 +0000,1,Ravaillion,C,Possession,1,14,12,85, 173
+2018-10-31 00:42:15 +0000,1,Robinson,WA,Possession,1,14,12,62, 169
+2018-10-31 00:42:19 +0000,1,Robinson,WA,Assist - Circle Entry,1,14,12,62, 169
+2018-10-31 00:42:19 +0000,1,Thwaites,GS,Goal - Score,1,14,12,62, 185
+2018-10-31 00:42:27 +0000,0,Charles,C,Centre Pass,1,14,13,50, 100
+2018-10-31 00:42:27 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,1,14,13,88, 81
+2018-10-31 00:42:29 +0000,0,Charles,C,Assist - 2nd Phase,1,14,13,85, 31
+2018-10-31 00:42:33 +0000,0,Colyer ,WA,Possession,1,14,13,21, 21
+2018-10-31 00:42:37 +0000,0,Charles,C,Possession,1,14,13,35, 34
+2018-10-31 00:42:40 +0000,0,Charles,C,Assist - Circle Entry,1,14,13,35, 34
+2018-10-31 00:42:40 +0000,0,Fowler,GS,Goal - Score,1,14,13,48, 9
+2018-10-31 00:42:50 +0000,1,Ravaillion,C,Centre Pass,1,15,13,50, 100
+2018-10-31 00:42:50 +0000,1,Robinson,WA,Assist - Centre Pass Rec,1,15,13,82, 128
+2018-10-31 00:42:53 +0000,1,Thwaites,GS,Assist - 2nd Phase,1,15,13,63, 153
+2018-10-31 00:42:56 +0000,1,Thwaites,GS,Assist - Circle Entry,1,15,13,63, 153
+2018-10-31 00:42:56 +0000,1,Bell,GA,Possession,1,15,13,59, 175
+2018-10-31 00:42:58 +0000,1,Ravaillion,C,Possession,1,15,13,18, 185
+2018-10-31 00:43:01 +0000,1,Ravaillion,C,Assist - Circle Entry,1,15,13,18, 185
+2018-10-31 00:43:01 +0000,1,Bell,GA,Goal - Score,1,15,13,41, 197
+2018-10-31 00:43:14 +0000,0,Charles,C,Centre Pass,1,15,14,50, 100
+2018-10-31 00:43:14 +0000,0,Francis,GD,Assist - Centre Pass Rec,1,15,14,79, 105
+2018-10-31 00:43:19 +0000,1,Robinson,WA,Penaly - Obstruction,1,15,14,18, 85
+2018-10-31 00:43:19 +0000,0,Anstiss,WD,Assist - 2nd Phase,1,15,14,18, 85
+2018-10-31 00:43:28 +0000,0,Medhurst,GA,Possession,1,15,14,29, 62
+2018-10-31 00:43:31 +0000,0,Medhurst,GA,Assist - Circle Entry,1,15,14,29, 62
+2018-10-31 00:43:31 +0000,0,Fowler,GS,Goal - Miss,1,15,14,49, 19
+2018-10-31 00:43:38 +0000,1,Layton,GK,Gain - Def Reb,1,15,14,50, 2
+2018-10-31 00:43:43 +0000,1,Brazill,WD,Possession,1,15,14,61, 36
+2018-10-31 00:43:47 +0000,1,Layton,GK,Possession,1,15,14,58, 63
+2018-10-31 00:43:58 +0000,0,Fowler,GS,Penaly - Obstruction,1,15,14,58, 63
+2018-10-31 00:43:58 +0000,1,Layton,GK,Possession,1,15,14,58, 63
+2018-10-31 00:44:05 +0000,1,Brandley,GD,Possession,1,15,14,85, 81
+2018-10-31 00:44:07 +0000,1,Ravaillion,C,Possession,1,15,14,89, 140
+2018-10-31 00:44:14 +0000,1,Ravaillion,C,Assist - Circle Entry,1,15,14,89, 140
+2018-10-31 00:44:14 +0000,1,Thwaites,GS,Loss - Bad Pass,1,15,14,44, 196
+2018-10-31 00:44:20 +0000,0,Bruce,GK,Throw In,1,15,14,42, 205
+2018-10-31 00:44:29 +0000,0,Francis,GD,Possession,1,15,14,34, 169
+2018-10-31 00:45:01 +0000,1,Ravaillion,C,Centre Pass,2,15,14,50, 100
+2018-10-31 00:45:01 +0000,1,Robinson,WA,Assist - Centre Pass Rec,2,15,14,82, 111
+2018-10-31 00:45:03 +0000,1,Bell,GA,Assist - 2nd Phase,2,15,14,81, 165
+2018-10-31 00:45:08 +0000,1,Robinson,WA,Possession,2,15,14,23, 172
+2018-10-31 00:45:11 +0000,1,Robinson,WA,Assist - Circle Entry,2,15,14,23, 172
+2018-10-31 00:45:11 +0000,1,Thwaites,GS,Goal - Score,2,15,14,43, 186
+2018-10-31 00:45:19 +0000,0,Charles,C,Centre Pass,2,15,15,50, 100
+2018-10-31 00:45:19 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,15,15,82, 70
+2018-10-31 00:45:20 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,15,15,70, 54
+2018-10-31 00:45:23 +0000,0,Charles,C,Possession,2,15,15,39, 41
+2018-10-31 00:45:27 +0000,0,Colyer ,WA,Possession,2,15,15,77, 20
+2018-10-31 00:45:37 +0000,1,Layton,GK,Deflect,2,15,15,57, 10
+2018-10-31 00:45:41 +0000,0,Colyer ,WA,Loss - Offside,2,15,15,80, 16
+2018-10-31 00:45:53 +0000,1,Layton,GK,Possession,2,15,15,80, 14
+2018-10-31 00:45:56 +0000,1,Brazill,WD,Possession,2,15,15,66, 69
+2018-10-31 00:46:01 +0000,1,Brandley,GD,Possession,2,15,15,89, 95
+2018-10-31 00:46:58 +0000,0,Francis,GD,Deflect,2,15,15,82, 156
+2018-10-31 00:46:58 +0000,1,Robinson,WA,Possession,2,15,15,65, 148
+2018-10-31 00:47:40 +0000,0,Charles,C,Gain - Tip (Deflect),2,15,15,32, 142
+2018-10-31 00:47:46 +0000,0,Charles,C,Loss - Replay,2,15,15,27, 96
+2018-10-31 00:48:07 +0000,1,Brazill,WD,Possession,2,15,15,27, 93
+2018-10-31 00:48:10 +0000,1,Brandley,GD,Possession,2,15,15,10, 104
+2018-10-31 00:48:12 +0000,1,Robinson,WA,Possession,2,15,15,10, 129
+2018-10-31 00:48:17 +0000,1,Brandley,GD,Possession,2,15,15,9, 124
+2018-10-31 00:48:20 +0000,1,Brazill,WD,Possession,2,15,15,60, 114
+2018-10-31 00:48:22 +0000,1,Robinson,WA,Possession,2,15,15,76, 146
+2018-10-31 00:48:24 +0000,1,Bell,GA,Possession,2,15,15,53, 153
+2018-10-31 00:48:29 +0000,1,Bell,GA,Assist - Circle Entry,2,15,15,53, 153
+2018-10-31 00:48:29 +0000,1,Thwaites,GS,Possession,2,15,15,71, 184
+2018-10-31 00:48:31 +0000,1,Ravaillion,C,Possession,2,15,15,13, 189
+2018-10-31 00:48:36 +0000,0,Francis,GD,Penaly - Contact,2,15,15,29, 189
+2018-10-31 00:48:36 +0000,1,Bell,GA,Possession,2,15,15,29, 189
+2018-10-31 00:48:50 +0000,0,Bruce,GK,Penaly - Obstruction,2,15,15,29, 189
+2018-10-31 00:48:50 +0000,1,Bell,GA,Possession,2,15,15,29, 189
+2018-10-31 00:48:58 +0000,1,Thwaites,GS,Goal - Score,2,15,15,53, 192
+2018-10-31 00:49:28 +0000,1,Ravaillion,C,Centre Pass,2,15,16,50, 100
+2018-10-31 00:49:28 +0000,1,Brazill,WD,Loss - Bad Pass,2,15,16,5, 125
+2018-10-31 00:49:34 +0000,0,Bruce,GK,Throw In,2,15,16,-4, 137
+2018-10-31 00:49:41 +0000,0,Francis,GD,Possession,2,15,16,21, 148
+2018-10-31 00:49:43 +0000,0,Charles,C,Possession,2,15,16,16, 123
+2018-10-31 00:49:50 +0000,0,Colyer ,WA,Possession,2,15,16,6, 84
+2018-10-31 00:50:05 +0000,0,Anstiss,WD,Possession,2,15,16,29, 98
+2018-10-31 00:50:17 +0000,1,Brandley,GD,Penaly - Contact,2,15,16,19, 84
+2018-10-31 00:50:17 +0000,0,Anstiss,WD,Possession,2,15,16,19, 84
+2018-10-31 00:50:26 +0000,0,Colyer ,WA,Possession,2,15,16,6, 51
+2018-10-31 00:50:28 +0000,0,Medhurst,GA,Possession,2,15,16,6, 10
+2018-10-31 00:50:31 +0000,0,Medhurst,GA,Assist - Circle Entry,2,15,16,6, 10
+2018-10-31 00:50:31 +0000,0,Fowler,GS,Goal - Score,2,15,16,53, 4
+2018-10-31 00:50:39 +0000,0,Charles,C,Centre Pass,2,16,16,50, 100
+2018-10-31 00:50:40 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,2,16,16,72, 97
+2018-10-31 00:50:41 +0000,0,Francis,GD,Assist - 2nd Phase,2,16,16,55, 82
+2018-10-31 00:50:44 +0000,0,Anstiss,WD,Possession,2,16,16,11, 68
+2018-10-31 00:50:46 +0000,0,Charles,C,Possession,2,16,16,20, 51
+2018-10-31 00:51:02 +0000,0,Charles,C,Assist - Circle Entry,2,16,16,20, 51
+2018-10-31 00:51:02 +0000,0,Fowler,GS,Goal - Score,2,16,16,47, 3
+2018-10-31 00:51:14 +0000,1,Ravaillion,C,Centre Pass,2,17,16,50, 100
+2018-10-31 00:51:14 +0000,1,Robinson,WA,Assist - Centre Pass Rec,2,17,16,15, 126
+2018-10-31 00:51:16 +0000,1,Ravaillion,C,Assist - 2nd Phase,2,17,16,81, 181
+2018-10-31 00:51:35 +0000,1,Ravaillion,C,Possession,2,17,16,81, 181
+2018-10-31 00:51:35 +0000,1,Bell,GA,Loss - Off Contact,2,17,16,59, 191
+2018-10-31 00:52:47 +0000,0,Bruce,GK,Possession,2,17,16,61, 189
+2018-10-31 00:52:55 +0000,0,Francis,GD,Possession,2,17,16,81, 155
+2018-10-31 00:52:57 +0000,0,Anstiss,WD,Possession,2,17,16,83, 92
+2018-10-31 00:52:59 +0000,0,Anstiss,WD,Possession,2,17,16,67, 107
+2018-10-31 00:53:03 +0000,0,Colyer ,WA,Possession,2,17,16,50, 107
+2018-10-31 00:53:05 +0000,0,Medhurst,GA,Possession,2,17,16,5, 77
+2018-10-31 00:53:10 +0000,0,Colyer ,WA,Possession,2,17,16,11, 34
+2018-10-31 00:53:13 +0000,0,Colyer ,WA,Assist - Circle Entry,2,17,16,11, 34
+2018-10-31 00:53:13 +0000,0,Fowler,GS,Goal - Score,2,17,16,36, 7
+2018-10-31 00:53:26 +0000,1,,UNKNOWN,Timeout,2,18,16,110, 222
+2018-10-31 00:54:24 +0000,0,Charles,C,Centre Pass,2,18,16,50, 100
+2018-10-31 00:54:24 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,18,16,78, 71
+2018-10-31 00:54:26 +0000,0,Anstiss,WD,Assist - 2nd Phase,2,18,16,64, 83
+2018-10-31 00:54:29 +0000,0,Francis,GD,Possession,2,18,16,79, 106
+2018-10-31 00:54:32 +0000,0,Anstiss,WD,Possession,2,18,16,45, 119
+2018-10-31 00:54:34 +0000,0,Medhurst,GA,Possession,2,18,16,6, 56
+2018-10-31 00:54:36 +0000,0,Medhurst,GA,Assist - Circle Entry,2,18,16,6, 56
+2018-10-31 00:54:36 +0000,0,Fowler,GS,Goal - Score,2,18,16,48, 7
+2018-10-31 00:54:45 +0000,1,Ravaillion,C,Centre Pass,2,19,16,50, 100
+2018-10-31 00:54:45 +0000,1,Brazill,WD,Assist - Centre Pass Rec,2,19,16,24, 100
+2018-10-31 00:54:47 +0000,1,Bell,GA,Assist - 2nd Phase,2,19,16,8, 122
+2018-10-31 00:54:50 +0000,1,Brazill,WD,Possession,2,19,16,80, 120
+2018-10-31 00:54:54 +0000,1,Robinson,WA,Possession,2,19,16,95, 169
+2018-10-31 00:54:57 +0000,1,Thwaites,GS,Possession,2,19,16,75, 172
+2018-10-31 00:55:07 +0000,0,Francis,GD,Gain - Inter,2,19,16,66, 151
+2018-10-31 00:55:35 +0000,0,Colyer ,WA,Possession,2,19,16,54, 125
+2018-10-31 00:55:37 +0000,0,Charles,C,Possession,2,19,16,45, 112
+2018-10-31 00:55:41 +0000,0,Colyer ,WA,Possession,2,19,16,60, 91
+2018-10-31 00:55:46 +0000,0,Charles,C,Possession,2,19,16,55, 72
+2018-10-31 00:55:51 +0000,0,Charles,C,Assist - Circle Entry,2,19,16,55, 72
+2018-10-31 00:55:51 +0000,1,Layton,GK,Gain - Inter,2,19,16,49, 14
+2018-10-31 00:55:58 +0000,1,Brazill,WD,Possession,2,19,16,84, 32
+2018-10-31 00:56:03 +0000,1,Layton,GK,Possession,2,19,16,79, 49
+2018-10-31 00:56:28 +0000,1,Brandley,GD,Possession,2,19,16,61, 67
+2018-10-31 00:56:31 +0000,0,Anstiss,WD,Gain - Inter,2,19,16,56, 69
+2018-10-31 00:56:39 +0000,1,Brandley,GD,Penaly - Contact,2,19,16,56, 69
+2018-10-31 00:56:39 +0000,0,Anstiss,WD,Possession,2,19,16,56, 69
+2018-10-31 00:56:59 +0000,0,Medhurst,GA,Possession,2,19,16,52, 33
+2018-10-31 00:57:02 +0000,0,Medhurst,GA,Assist - Circle Entry,2,19,16,52, 33
+2018-10-31 00:57:02 +0000,0,Fowler,GS,Possession,2,19,16,42, 5
+2018-10-31 00:57:03 +0000,1,Layton,GK,Penaly - Contact,2,19,16,42, 5
+2018-10-31 00:57:03 +0000,0,Fowler,GS,Goal - Score,2,19,16,42, 5
+2018-10-31 00:57:11 +0000,0,Charles,C,Centre Pass,2,20,16,50, 100
+2018-10-31 00:57:11 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,20,16,76, 79
+2018-10-31 00:57:13 +0000,0,Francis,GD,Assist - 2nd Phase,2,20,16,79, 106
+2018-10-31 00:57:15 +0000,0,Charles,C,Possession,2,20,16,76, 86
+2018-10-31 00:57:17 +0000,0,Colyer ,WA,Possession,2,20,16,59, 68
+2018-10-31 00:57:19 +0000,0,Colyer ,WA,Possession,2,20,16,85, 34
+2018-10-31 00:57:22 +0000,0,Colyer ,WA,Assist - Circle Entry,2,20,16,85, 34
+2018-10-31 00:57:22 +0000,0,Fowler,GS,Possession,2,20,16,58, 15
+2018-10-31 00:58:35 +0000,0,Bell,UNKNOWN,Interchange - Brown,2,20,16,
+2018-10-31 00:58:44 +0000,1,Layton,GK,Penaly - Contact,2,20,16,58, 15
+2018-10-31 00:58:44 +0000,0,Medhurst,GA,Possession,2,20,16,58, 15
+2018-10-31 00:59:31 +0000,0,Fowler,GS,Goal - Score,2,20,16,47, 7
+2018-10-31 00:59:38 +0000,1,Ravaillion,C,Centre Pass,2,21,16,50, 100
+2018-10-31 00:59:38 +0000,1,Robinson,WA,Assist - Centre Pass Rec,2,21,16,30, 125
+2018-10-31 00:59:41 +0000,1,Brown,GA,Assist - 2nd Phase,2,21,16,79, 171
+2018-10-31 00:59:43 +0000,1,Brown,GA,Assist - Circle Entry,2,21,16,79, 171
+2018-10-31 00:59:43 +0000,1,Thwaites,GS,Possession,2,21,16,75, 191
+2018-10-31 00:59:46 +0000,1,Ravaillion,C,Possession,2,21,16,76, 175
+2018-10-31 00:59:56 +0000,1,Ravaillion,C,Assist - Circle Entry,2,21,16,76, 175
+2018-10-31 00:59:56 +0000,1,Thwaites,GS,Goal - Score,2,21,16,65, 191
+2018-10-31 01:00:09 +0000,0,Charles,C,Centre Pass,2,21,17,50, 100
+2018-10-31 01:00:09 +0000,0,Francis,GD,Assist - Centre Pass Rec,2,21,17,61, 112
+2018-10-31 01:00:12 +0000,0,Charles,C,Assist - 2nd Phase,2,21,17,31, 111
+2018-10-31 01:00:14 +0000,0,Francis,GD,Possession,2,21,17,46, 78
+2018-10-31 01:00:18 +0000,0,Colyer ,WA,Possession,2,21,17,51, 67
+2018-10-31 01:00:20 +0000,0,Medhurst,GA,Possession,2,21,17,7, 50
+2018-10-31 01:00:24 +0000,0,Medhurst,GA,Assist - Circle Entry,2,21,17,7, 50
+2018-10-31 01:00:24 +0000,0,Fowler,GS,Goal - Score,2,21,17,47, 8
+2018-10-31 01:00:34 +0000,1,Ravaillion,C,Centre Pass,2,22,17,50, 100
+2018-10-31 01:00:34 +0000,1,Brown,GA,Assist - Centre Pass Rec,2,22,17,22, 127
+2018-10-31 01:00:36 +0000,1,Robinson,WA,Assist - 2nd Phase,2,22,17,15, 180
+2018-10-31 01:00:38 +0000,1,Robinson,WA,Assist - Circle Entry,2,22,17,15, 180
+2018-10-31 01:00:38 +0000,1,Thwaites,GS,Goal - Miss,2,22,17,58, 193
+2018-10-31 01:00:44 +0000,0,Bruce,GK,Gain - Def Reb,2,22,17,50, 197
+2018-10-31 01:00:48 +0000,0,Francis,GD,Possession,2,22,17,16, 179
+2018-10-31 01:00:50 +0000,0,Bruce,GK,Possession,2,22,17,28, 163
+2018-10-31 01:00:52 +0000,0,Anstiss,WD,Possession,2,22,17,7, 136
+2018-10-31 01:01:00 +0000,0,Charles,C,Deflect,2,22,17,31, 136
+2018-10-31 01:01:04 +0000,0,Bruce,GK,Possession,2,22,17,22, 139
+2018-10-31 01:01:10 +0000,0,Francis,GD,Possession,2,22,17,60, 145
+2018-10-31 01:01:12 +0000,0,Anstiss,WD,Possession,2,22,17,47, 113
+2018-10-31 01:01:14 +0000,0,Charles,C,Possession,2,22,17,26, 106
+2018-10-31 01:01:18 +0000,0,Colyer ,WA,Possession,2,22,17,6, 53
+2018-10-31 01:01:21 +0000,0,Medhurst,GA,Possession,2,22,17,13, 19
+2018-10-31 01:01:29 +0000,0,Medhurst,GA,Assist - Circle Entry,2,22,17,13, 19
+2018-10-31 01:01:29 +0000,0,Fowler,GS,Goal - Score,2,22,17,47, 7
+2018-10-31 01:01:47 +0000,0,Charles,C,Centre Pass,2,23,17,50, 100
+2018-10-31 01:01:47 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,23,17,52, 83
+2018-10-31 01:01:50 +0000,1,Brazill,WD,Penaly - Contact,2,23,17,52, 83
+2018-10-31 01:01:50 +0000,0,Anstiss,WD,Possession,2,23,17,52, 83
+2018-10-31 01:02:03 +0000,0,Colyer ,WA,Possession,2,23,17,74, 48
+2018-10-31 01:02:05 +0000,0,Medhurst,GA,Possession,2,23,17,83, 13
+2018-10-31 01:02:09 +0000,0,Medhurst,GA,Assist - Circle Entry,2,23,17,83, 13
+2018-10-31 01:02:09 +0000,0,Fowler,GS,Possession,2,23,17,39, 15
+2018-10-31 01:02:11 +0000,0,Medhurst,GA,Possession,2,23,17,55, 5
+2018-10-31 01:02:12 +0000,1,Brandley,GD,Penaly - Obstruction,2,23,17,55, 5
+2018-10-31 01:02:12 +0000,0,Medhurst,GA,Possession,2,23,17,55, 5
+2018-10-31 01:02:19 +0000,1,Layton,GK,Penaly - Obstruction,2,23,17,55, 5
+2018-10-31 01:02:19 +0000,0,Medhurst,GA,Goal - Score,2,23,17,55, 5
+2018-10-31 01:02:32 +0000,1,Ravaillion,C,Centre Pass,2,24,17,50, 100
+2018-10-31 01:02:33 +0000,1,Robinson,WA,Assist - Centre Pass Rec,2,24,17,83, 119
+2018-10-31 01:02:36 +0000,1,Brazill,WD,Assist - 2nd Phase,2,24,17,66, 104
+2018-10-31 01:02:38 +0000,1,Brandley,GD,Possession,2,24,17,6, 117
+2018-10-31 01:02:41 +0000,1,Brown,GA,Possession,2,24,17,9, 187
+2018-10-31 01:02:47 +0000,1,Brown,GA,Assist - Circle Entry,2,24,17,9, 187
+2018-10-31 01:02:47 +0000,1,Thwaites,GS,Goal - Score,2,24,17,32, 192
+2018-10-31 01:03:00 +0000,0,Charles,C,Centre Pass,2,24,18,50, 100
+2018-10-31 01:03:00 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,2,24,18,16, 85
+2018-10-31 01:03:02 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,24,18,10, 47
+2018-10-31 01:03:04 +0000,0,Medhurst,GA,Assist - Circle Entry,2,24,18,10, 47
+2018-10-31 01:03:04 +0000,0,Fowler,GS,Goal - Score,2,24,18,49, 8
+2018-10-31 01:03:25 +0000,1,Ravaillion,C,Centre Pass,2,25,18,50, 100
+2018-10-31 01:03:25 +0000,0,Anstiss,WD,Penaly - Contact on CP,2,25,18,49, 130
+2018-10-31 01:03:25 +0000,1,Brandley,GD,Possession,2,25,18,49, 130
+2018-10-31 01:10:58 +0000,1,Ravaillion,C,Assist - 2nd Phase,2,25,18,76, 165
+2018-10-31 01:11:01 +0000,1,Ravaillion,C,Assist - Circle Entry,2,25,18,76, 165
+2018-10-31 01:11:01 +0000,1,Thwaites,GS,Possession,2,25,18,50, 188
+2018-10-31 01:11:03 +0000,0,Francis,GD,Penaly - Obstruction,2,25,18,50, 188
+2018-10-31 01:11:03 +0000,1,Thwaites,GS,Goal - Score,2,25,18,50, 188
+2018-10-31 01:11:13 +0000,0,Charles,C,Centre Pass,2,25,19,50, 100
+2018-10-31 01:11:13 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,25,19,70, 75
+2018-10-31 01:11:15 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,25,19,84, 42
+2018-10-31 01:11:21 +0000,0,Medhurst,GA,Assist - Circle Entry,2,25,19,84, 42
+2018-10-31 01:11:21 +0000,0,Fowler,GS,Goal - Score,2,25,19,52, 12
+2018-10-31 01:11:30 +0000,1,Ravaillion,C,Centre Pass,2,26,19,50, 100
+2018-10-31 01:11:30 +0000,1,Robinson,WA,Assist - Centre Pass Rec,2,26,19,7, 123
+2018-10-31 01:11:35 +0000,1,Robinson,WA,Assist - Circle Entry,2,26,19,7, 123
+2018-10-31 01:11:35 +0000,1,Thwaites,GS,Assist - 2nd Phase,2,26,19,52, 189
+2018-10-31 01:11:37 +0000,1,Thwaites,GS,Goal - Score,2,26,19,52, 189
+2018-10-31 01:11:45 +0000,0,Charles,C,Centre Pass,2,26,20,50, 100
+2018-10-31 01:11:45 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,26,20,16, 116
+2018-10-31 01:11:46 +0000,0,Charles,C,Assist - 2nd Phase,2,26,20,41, 122
+2018-10-31 01:11:49 +0000,0,Anstiss,WD,Possession,2,26,20,65, 111
+2018-10-31 01:11:51 +0000,0,Medhurst,GA,Possession,2,26,20,76, 88
+2018-10-31 01:11:56 +0000,0,Charles,C,Possession,2,26,20,84, 43
+2018-10-31 01:11:58 +0000,0,Colyer ,WA,Possession,2,26,20,59, 33
+2018-10-31 01:12:00 +0000,0,Colyer ,WA,Assist - Circle Entry,2,26,20,59, 33
+2018-10-31 01:12:01 +0000,0,Fowler,GS,Goal - Score,2,26,20,40, 2
+2018-10-31 01:12:09 +0000,1,Ravaillion,C,Centre Pass,2,27,20,50, 100
+2018-10-31 01:12:09 +0000,1,Brown,GA,Assist - Centre Pass Rec,2,27,20,80, 126
+2018-10-31 01:12:11 +0000,1,Ravaillion,C,Assist - 2nd Phase,2,27,20,49, 144
+2018-10-31 01:12:13 +0000,1,Thwaites,GS,Possession,2,27,20,21, 169
+2018-10-31 01:12:16 +0000,1,Ravaillion,C,Possession,2,27,20,31, 167
+2018-10-31 01:12:19 +0000,1,Ravaillion,C,Assist - Circle Entry,2,27,20,31, 167
+2018-10-31 01:12:19 +0000,1,Brown,GA,Possession,2,27,20,35, 181
+2018-10-31 01:12:25 +0000,0,Bruce,GK,Penaly - Obstruction,2,27,20,35, 181
+2018-10-31 01:12:25 +0000,1,Thwaites,GS,Goal - Score,2,27,20,35, 181
+2018-10-31 01:12:39 +0000,0,Charles,C,Centre Pass,2,27,21,50, 100
+2018-10-31 01:12:39 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,27,21,18, 75
+2018-10-31 01:12:43 +0000,0,Charles,C,Assist - 2nd Phase,2,27,21,35, 52
+2018-10-31 01:12:47 +0000,0,Charles,C,Assist - Circle Entry,2,27,21,35, 52
+2018-10-31 01:12:47 +0000,0,Fowler,GS,Goal - Score,2,27,21,49, 10
+2018-10-31 01:12:56 +0000,1,Ravaillion,C,Centre Pass,2,28,21,50, 100
+2018-10-31 01:12:56 +0000,1,,UNKNOWN,Assist - Centre Pass Rec,2,28,21,89, 124
+2018-10-31 01:12:59 +0000,1,Brazill,WD,Loss - Held Ball,2,28,21,71, 113
+2018-10-31 01:13:08 +0000,0,Francis,GD,Possession,2,28,21,72, 112
+2018-10-31 01:13:14 +0000,0,Anstiss,WD,Possession,2,28,21,91, 107
+2018-10-31 01:13:17 +0000,1,Brown,GA,Gain - Inter,2,28,21,59, 84
+2018-10-31 01:13:32 +0000,0,Colyer ,WA,Penaly - Contact,2,28,21,59, 84
+2018-10-31 01:13:32 +0000,1,Brazill,WD,Possession,2,28,21,59, 84
+2018-10-31 01:13:43 +0000,1,Ravaillion,C,Possession,2,28,21,90, 133
+2018-10-31 01:13:46 +0000,1,Thwaites,GS,Possession,2,28,21,87, 169
+2018-10-31 01:13:50 +0000,1,Brazill,WD,Possession,2,28,21,24, 124
+2018-10-31 01:13:52 +0000,1,Robinson,WA,Possession,2,28,21,46, 135
+2018-10-31 01:13:54 +0000,1,Ravaillion,C,Possession,2,28,21,73, 160
+2018-10-31 01:13:56 +0000,1,Robinson,WA,Possession,2,28,21,84, 185
+2018-10-31 01:13:59 +0000,1,Robinson,WA,Assist - Circle Entry,2,28,21,84, 185
+2018-10-31 01:13:59 +0000,1,Thwaites,GS,Goal - Score,2,28,21,64, 190
+2018-10-31 01:14:10 +0000,0,Charles,C,Centre Pass,2,28,22,50, 100
+2018-10-31 01:14:10 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,28,22,70, 88
+2018-10-31 01:14:11 +0000,0,Charles,C,Assist - 2nd Phase,2,28,22,51, 69
+2018-10-31 01:14:13 +0000,0,Colyer ,WA,Possession,2,28,22,79, 54
+2018-10-31 01:14:22 +0000,1,Layton,GK,Deflect,2,28,22,64, 11
+2018-10-31 01:14:22 +0000,0,Anstiss,WD,Throw In,2,28,22,106, 9
+2018-10-31 01:14:34 +0000,0,Medhurst,GA,Possession,2,28,22,78, 30
+2018-10-31 01:14:37 +0000,0,Medhurst,GA,Assist - Circle Entry,2,28,22,78, 30
+2018-10-31 01:14:37 +0000,0,Fowler,GS,Goal - Score,2,28,22,55, 4
+2018-10-31 01:14:46 +0000,1,Ravaillion,C,Centre Pass,2,29,22,50, 100
+2018-10-31 01:14:46 +0000,1,Robinson,WA,Assist - Centre Pass Rec,2,29,22,74, 125
+2018-10-31 01:14:49 +0000,1,Brown,GA,Assist - 2nd Phase,2,29,22,84, 181
+2018-10-31 01:14:53 +0000,1,Robinson,WA,Possession,2,29,22,54, 164
+2018-10-31 01:14:55 +0000,1,Robinson,WA,Assist - Circle Entry,2,29,22,54, 164
+2018-10-31 01:14:56 +0000,1,Thwaites,GS,Goal - Score,2,29,22,44, 192
+2018-10-31 01:15:05 +0000,0,Charles,C,Centre Pass,2,29,23,50, 100
+2018-10-31 01:15:05 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,29,23,20, 84
+2018-10-31 01:15:08 +0000,0,Charles,C,Assist - 2nd Phase,2,29,23,36, 72
+2018-10-31 01:15:12 +0000,0,Charles,C,Assist - Circle Entry,2,29,23,36, 72
+2018-10-31 01:15:12 +0000,0,Fowler,GS,Goal - Score,2,29,23,38, 8
+2018-10-31 01:15:21 +0000,1,Ravaillion,C,Centre Pass,2,30,23,50, 100
+2018-10-31 01:15:21 +0000,1,Robinson,WA,Assist - Centre Pass Rec,2,30,23,36, 112
+2018-10-31 01:15:23 +0000,0,Charles,C,Penaly - Contact,2,30,23,36, 112
+2018-10-31 01:15:23 +0000,1,Brazill,WD,Possession,2,30,23,36, 112
+2018-10-31 01:15:32 +0000,1,Ravaillion,C,Possession,2,30,23,68, 156
+2018-10-31 01:15:35 +0000,1,Ravaillion,C,Assist - Circle Entry,2,30,23,68, 156
+2018-10-31 01:15:35 +0000,1,Thwaites,GS,Assist - 2nd Phase,2,30,23,56, 176
+2018-10-31 01:15:37 +0000,1,Ravaillion,C,Possession,2,30,23,69, 168
+2018-10-31 01:15:41 +0000,0,Francis,GD,Penaly - Contact,2,30,23,59, 185
+2018-10-31 01:15:41 +0000,1,Brown,GA,Possession,2,30,23,59, 185
+2018-10-31 01:16:02 +0000,0,Bruce,GK,Penaly - Obstruction,2,30,23,59, 185
+2018-10-31 01:16:02 +0000,1,Thwaites,GS,Goal - Score,2,30,23,59, 185
+2018-10-31 01:16:17 +0000,0,Charles,C,Centre Pass,2,30,24,50, 100
+2018-10-31 01:16:17 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,2,30,24,12, 94
+2018-10-31 01:16:19 +0000,0,Francis,GD,Assist - 2nd Phase,2,30,24,32, 124
+2018-10-31 01:16:21 +0000,0,Anstiss,WD,Possession,2,30,24,68, 99
+2018-10-31 01:16:24 +0000,0,Colyer ,WA,Possession,2,30,24,71, 69
+2018-10-31 01:16:27 +0000,0,Medhurst,GA,Possession,2,30,24,52, 72
+2018-10-31 01:16:29 +0000,0,Colyer ,WA,Possession,2,30,24,90, 8
+2018-10-31 01:16:32 +0000,0,Colyer ,WA,Assist - Circle Entry,2,30,24,90, 8
+2018-10-31 01:16:32 +0000,0,Fowler,GS,Goal - Score,2,30,24,45, 6
+2018-10-31 01:16:44 +0000,1,Ravaillion,C,Centre Pass,2,31,24,50, 100
+2018-10-31 01:16:44 +0000,0,Anstiss,WD,Penaly - Contact on CP,2,31,24,66, 134
+2018-10-31 01:16:44 +0000,1,Ravaillion,C,Possession,2,31,24,66, 134
+2018-10-31 01:16:52 +0000,1,Robinson,WA,Assist - 2nd Phase,2,31,24,44, 157
+2018-10-31 01:16:54 +0000,0,Charles,C,Penaly - Contact,2,31,24,44, 157
+2018-10-31 01:16:54 +0000,1,Robinson,WA,Possession,2,31,24,44, 157
+2018-10-31 01:18:37 +0000,1,Robinson,WA,Possession,2,31,24,44, 157
+2018-10-31 01:18:37 +0000,1,Thwaites,GS,Loss - Off Contact,2,31,24,53, 185
+2018-10-31 01:18:55 +0000,0,Bruce,GK,Possession,2,31,24,54, 184
+2018-10-31 01:19:34 +0000,0,Anstiss,WD,Possession,2,31,24,9, 122
+2018-10-31 01:19:37 +0000,0,Bruce,GK,Possession,2,31,24,30, 152
+2018-10-31 01:19:41 +0000,0,Francis,GD,Possession,2,31,24,56, 142
+2018-10-31 01:19:44 +0000,0,Bruce,GK,Possession,2,31,24,22, 141
+2018-10-31 01:19:46 +0000,0,Anstiss,WD,Possession,2,31,24,47, 135
+2018-10-31 01:19:48 +0000,0,Colyer ,WA,Possession,2,31,24,84, 85
+2018-10-31 01:19:50 +0000,0,Francis,GD,Possession,2,31,24,14, 100
+2018-10-31 01:19:52 +0000,0,Charles,C,Possession,2,31,24,34, 71
+2018-10-31 01:19:54 +0000,0,Medhurst,GA,Possession,2,31,24,13, 56
+2018-10-31 01:19:57 +0000,0,Charles,C,Possession,2,31,24,21, 22
+2018-10-31 01:20:01 +0000,0,Charles,C,Assist - Circle Entry,2,31,24,21, 22
+2018-10-31 01:20:01 +0000,0,Fowler,GS,Goal - Score,2,31,24,45, 5
+2018-10-31 01:21:18 +0000,0,Charles,C,Centre Pass,2,32,24,50, 100
+2018-10-31 01:21:18 +0000,0,Anstiss,WD,CP Infringe - ,2,32,24,64, 129
+2018-10-31 01:21:41 +0000,1,Brandley,GD,Possession,2,32,24,65, 129
+2018-10-31 01:21:55 +0000,1,Robinson,WA,Possession,2,32,24,68, 145
+2018-10-31 01:21:57 +0000,1,Brown,GA,Possession,2,32,24,26, 159
+2018-10-31 01:22:00 +0000,1,Robinson,WA,Possession,2,32,24,27, 171
+2018-10-31 01:22:04 +0000,1,Robinson,WA,Assist - Circle Entry,2,32,24,27, 171
+2018-10-31 01:22:04 +0000,1,Brown,GA,Goal - Score,2,32,24,41, 193
+2018-10-31 01:22:12 +0000,1,Ravaillion,C,Centre Pass,2,32,25,50, 100
+2018-10-31 01:22:12 +0000,1,Brazill,WD,Assist - Centre Pass Rec,2,32,25,51, 78
+2018-10-31 01:22:15 +0000,1,Brazill,WD,Assist - 2nd Phase,2,32,25,35, 99
+2018-10-31 01:22:20 +0000,1,Brown,GA,Possession,2,32,25,60, 123
+2018-10-31 01:22:24 +0000,1,Brown,GA,Possession,2,32,25,42, 145
+2018-10-31 01:22:28 +0000,1,Brown,GA,Assist - Circle Entry,2,32,25,42, 145
+2018-10-31 01:22:28 +0000,0,Francis,GD,Gain - Inter,2,32,25,66, 186
+2018-10-31 01:22:36 +0000,0,Bruce,GK,Possession,2,32,25,20, 176
+2018-10-31 01:22:42 +0000,0,Anstiss,WD,Possession,2,32,25,14, 136
+2018-10-31 01:22:44 +0000,0,Bruce,GK,Possession,2,32,25,20, 153
+2018-10-31 01:22:47 +0000,0,Francis,GD,Possession,2,32,25,73, 135
+2018-10-31 01:22:51 +0000,0,Colyer ,WA,Possession,2,32,25,75, 95
+2018-10-31 01:22:53 +0000,0,Francis,GD,Possession,2,32,25,51, 122
+2018-10-31 01:22:57 +0000,0,Colyer ,WA,Loss - Replay,2,32,25,88, 76
+2018-10-31 01:23:03 +0000,1,Brazill,WD,Possession,2,32,25,87, 75
+2018-10-31 01:23:07 +0000,1,Brandley,GD,Loss - Step,2,32,25,65, 85
+2018-10-31 01:23:16 +0000,0,Anstiss,WD,Possession,2,32,25,67, 86
+2018-10-31 01:23:18 +0000,0,Medhurst,GA,Possession,2,32,25,88, 76
+2018-10-31 01:23:23 +0000,0,Charles,C,Possession,2,32,25,64, 58
+2018-10-31 01:23:25 +0000,0,Medhurst,GA,Possession,2,32,25,86, 33
+2018-10-31 01:23:28 +0000,0,Medhurst,GA,Assist - Circle Entry,2,32,25,86, 33
+2018-10-31 01:23:28 +0000,0,Fowler,GS,Possession,2,32,25,66, 17
+2018-10-31 01:23:33 +0000,1,Brandley,GD,Penaly - Contact,2,32,25,66, 17
+2018-10-31 01:23:33 +0000,0,Medhurst,GA,Possession,2,32,25,66, 17
+2018-10-31 01:23:47 +0000,0,Fowler,GS,Goal - Score,2,32,25,42, 7
+2018-10-31 01:23:59 +0000,0,Charles,C,Centre Pass,2,33,25,50, 100
+2018-10-31 01:23:59 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,33,25,24, 88
+2018-10-31 01:24:05 +0000,0,Francis,GD,Assist - 2nd Phase,2,33,25,64, 123
+2018-10-31 01:24:07 +0000,0,Charles,C,Possession,2,33,25,86, 87
+2018-10-31 01:24:13 +0000,0,Francis,GD,Possession,2,33,25,51, 79
+2018-10-31 01:24:16 +0000,1,Robinson,WA,Penaly - Contact,2,33,25,51, 79
+2018-10-31 01:24:16 +0000,0,Francis,GD,Possession,2,33,25,51, 79
+2018-10-31 01:24:21 +0000,0,Colyer ,WA,Possession,2,33,25,54, 54
+2018-10-31 01:24:27 +0000,0,Charles,C,Possession,2,33,25,83, 9
+2018-10-31 01:24:29 +0000,0,Charles,C,Assist - Circle Entry,2,33,25,83, 9
+2018-10-31 01:24:29 +0000,0,Fowler,GS,Goal - Score,2,33,25,44, 8
+2018-10-31 01:24:37 +0000,1,Ravaillion,C,Centre Pass,2,34,25,50, 100
+2018-10-31 01:24:37 +0000,1,Robinson,WA,Assist - Centre Pass Rec,2,34,25,32, 118
+2018-10-31 01:24:38 +0000,1,Brown,GA,Assist - 2nd Phase,2,34,25,9, 155
+2018-10-31 01:24:41 +0000,1,Brandley,GD,Possession,2,34,25,17, 128
+2018-10-31 01:24:44 +0000,0,Colyer ,WA,Penaly - Contact,2,34,25,17, 128
+2018-10-31 01:24:44 +0000,1,Brandley,GD,Possession,2,34,25,17, 128
+2018-10-31 01:24:50 +0000,1,Robinson,WA,Possession,2,34,25,41, 148
+2018-10-31 01:24:53 +0000,1,Ravaillion,C,Possession,2,34,25,79, 178
+2018-10-31 01:24:55 +0000,1,Ravaillion,C,Assist - Circle Entry,2,34,25,79, 178
+2018-10-31 01:24:55 +0000,1,Brown,GA,Possession,2,34,25,67, 187
+2018-10-31 01:24:57 +0000,1,Ravaillion,C,Possession,2,34,25,81, 181
+2018-10-31 01:25:02 +0000,0,Bruce,GK,Penaly - Contact,2,34,25,44, 187
+2018-10-31 01:25:02 +0000,1,Thwaites,GS,Goal - Miss,2,34,25,44, 187
+2018-10-31 01:25:16 +0000,1,Thwaites,GS,Assist - Attack Rebound,2,34,25,50, 197
+2018-10-31 01:25:18 +0000,1,Thwaites,GS,Goal - Score,2,34,25,44, 187
+2018-10-31 01:25:23 +0000,0,Charles,C,Centre Pass,2,34,26,50, 100
+2018-10-31 01:25:23 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,2,34,26,77, 76
+2018-10-31 01:25:25 +0000,0,Medhurst,GA,Assist - 2nd Phase,2,34,26,60, 51
+2018-10-31 01:25:32 +0000,0,Medhurst,GA,Assist - Circle Entry,2,34,26,60, 51
+2018-10-31 01:25:32 +0000,0,Fowler,GS,Loss - Bad Pass,2,34,26,45, 6
+2018-10-31 01:25:35 +0000,1,Layton,GK,Throw In,2,34,26,44, -6
+2018-10-31 01:25:41 +0000,1,Brandley,GD,Possession,2,34,26,19, 21
+2018-10-31 01:25:43 +0000,1,Layton,GK,Possession,2,34,26,13, 60
+2018-10-31 01:25:47 +0000,1,Robinson,WA,Possession,2,34,26,13, 96
+2018-10-31 01:25:49 +0000,1,Ravaillion,C,Possession,2,34,26,76, 154
+2018-10-31 01:28:49 +0000,0,Brown,UNKNOWN,Interchange - Bell,3,34,26,
+2018-10-31 01:28:49 +0000,0,Ravaillion,UNKNOWN,Interchange - Brown,3,34,26,
+2018-10-31 01:28:54 +0000,1,Brown,C,Centre Pass,3,34,26,50, 100
+2018-10-31 01:28:54 +0000,1,Bell,GA,Assist - Centre Pass Rec,3,34,26,48, 129
+2018-10-31 01:28:58 +0000,1,Robinson,WA,Assist - 2nd Phase,3,34,26,86, 142
+2018-10-31 01:29:04 +0000,1,Brown,C,Possession,3,34,26,72, 172
+2018-10-31 01:29:07 +0000,1,Brazill,WD,Possession,3,34,26,89, 131
+2018-10-31 01:29:10 +0000,1,Bell,GA,Possession,3,34,26,82, 144
+2018-10-31 01:29:14 +0000,1,Robinson,WA,Possession,3,34,26,67, 156
+2018-10-31 01:29:18 +0000,0,Bruce,GK,Penaly - Contact,3,34,26,58, 180
+2018-10-31 01:29:18 +0000,1,Thwaites,GS,Goal - Score,3,34,26,58, 180
+2018-10-31 01:29:27 +0000,0,Charles,C,Centre Pass,3,34,27,50, 100
+2018-10-31 01:29:27 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,34,27,30, 87
+2018-10-31 01:29:29 +0000,0,Medhurst,GA,Assist - 2nd Phase,3,34,27,13, 59
+2018-10-31 01:29:30 +0000,0,Charles,C,Possession,3,34,27,12, 17
+2018-10-31 01:29:33 +0000,0,Charles,C,Assist - Circle Entry,3,34,27,12, 17
+2018-10-31 01:29:33 +0000,0,Fowler,GS,Goal - Score,3,34,27,43, 8
+2018-10-31 01:29:43 +0000,1,Brown,C,Loss - Step,3,35,27,50, 100
+2018-10-31 01:29:52 +0000,0,Anstiss,WD,Possession,3,35,27,47, 99
+2018-10-31 01:29:57 +0000,0,Charles,C,Possession,3,35,27,91, 76
+2018-10-31 01:30:00 +0000,0,Anstiss,WD,Possession,3,35,27,73, 84
+2018-10-31 01:30:02 +0000,0,Charles,C,Possession,3,35,27,81, 72
+2018-10-31 01:30:06 +0000,0,Colyer ,WA,Possession,3,35,27,46, 53
+2018-10-31 01:30:10 +0000,1,Layton,GK,Gain - Inter,3,35,27,26, 29
+2018-10-31 01:30:17 +0000,1,Bell,GA,Possession,3,35,27,16, 82
+2018-10-31 01:30:22 +0000,1,Brazill,WD,Possession,3,35,27,51, 119
+2018-10-31 01:30:25 +0000,1,Brown,C,Possession,3,35,27,26, 155
+2018-10-31 01:30:27 +0000,1,Brazill,WD,Possession,3,35,27,20, 130
+2018-10-31 01:30:34 +0000,1,Brown,C,Possession,3,35,27,29, 154
+2018-10-31 01:30:37 +0000,1,Brown,C,Assist - Circle Entry,3,35,27,29, 154
+2018-10-31 01:30:37 +0000,1,Thwaites,GS,Goal - Score,3,35,27,69, 196
+2018-10-31 01:30:50 +0000,0,Charles,C,Centre Pass,3,35,28,50, 100
+2018-10-31 01:30:51 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,35,28,57, 78
+2018-10-31 01:30:54 +0000,1,Brandley,GD,Penaly - Contact,3,35,28,47, 65
+2018-10-31 01:30:54 +0000,0,Charles,C,Assist - 2nd Phase,3,35,28,47, 65
+2018-10-31 01:31:07 +0000,0,Charles,C,Assist - Circle Entry,3,35,28,47, 65
+2018-10-31 01:31:08 +0000,0,Fowler,GS,Goal - Score,3,35,28,53, 10
+2018-10-31 01:31:15 +0000,1,Brown,C,Centre Pass,3,36,28,50, 100
+2018-10-31 01:31:15 +0000,1,Bell,GA,Assist - Centre Pass Rec,3,36,28,34, 124
+2018-10-31 01:31:17 +0000,1,Brown,C,Assist - 2nd Phase,3,36,28,87, 159
+2018-10-31 01:31:20 +0000,1,Thwaites,GS,Possession,3,36,28,86, 193
+2018-10-31 01:31:52 +0000,0,Francis,GD,Gain - Tip (Deflect),3,36,28,21, 184
+2018-10-31 01:32:14 +0000,0,Anstiss,WD,Loss - Offside,3,36,28,21, 183
+2018-10-31 01:32:23 +0000,0,Anstiss,WD,Assist - Circle Entry,3,36,28,21, 183
+2018-10-31 01:32:23 +0000,1,Bell,GA,Possession,3,36,28,21, 185
+2018-10-31 01:32:45 +0000,0,Bruce,GK,Deflect,3,36,28,65, 186
+2018-10-31 01:32:45 +0000,1,Bell,GA,Possession,3,36,28,65, 177
+2018-10-31 01:32:59 +0000,1,Robinson,WA,Possession,3,36,28,56, 167
+2018-10-31 01:33:03 +0000,1,Robinson,WA,Assist - Circle Entry,3,36,28,56, 167
+2018-10-31 01:33:03 +0000,1,Bell,GA,Goal - Score,3,36,28,59, 182
+2018-10-31 01:33:21 +0000,0,Charles,C,Centre Pass,3,36,29,50, 100
+2018-10-31 01:33:21 +0000,1,Brandley,GD,Deflect,3,36,29,80, 84
+2018-10-31 01:33:28 +0000,0,Anstiss,WD,Throw In,3,36,29,105, 92
+2018-10-31 01:33:47 +0000,0,Francis,GD,Possession,3,36,29,31, 93
+2018-10-31 01:33:49 +0000,0,Colyer ,WA,Possession,3,36,29,13, 75
+2018-10-31 01:33:55 +0000,0,Francis,GD,Possession,3,36,29,36, 100
+2018-10-31 01:33:58 +0000,0,Anstiss,WD,Possession,3,36,29,17, 75
+2018-10-31 01:34:04 +0000,0,Charles,C,Possession,3,36,29,21, 51
+2018-10-31 01:34:06 +0000,0,Charles,C,Assist - Circle Entry,3,36,29,21, 51
+2018-10-31 01:34:07 +0000,0,Fowler,GS,Goal - Score,3,36,29,39, 10
+2018-10-31 01:34:15 +0000,1,Brown,C,Centre Pass,3,37,29,50, 100
+2018-10-31 01:34:15 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,37,29,94, 122
+2018-10-31 01:34:17 +0000,1,Bell,GA,Assist - 2nd Phase,3,37,29,92, 158
+2018-10-31 01:34:21 +0000,1,Brazill,WD,Possession,3,37,29,66, 131
+2018-10-31 01:34:24 +0000,1,Robinson,WA,Possession,3,37,29,46, 159
+2018-10-31 01:34:28 +0000,1,Robinson,WA,Assist - Circle Entry,3,37,29,46, 159
+2018-10-31 01:34:28 +0000,1,Bell,GA,Goal - Score,3,37,29,37, 196
+2018-10-31 01:34:42 +0000,0,Charles,C,Centre Pass,3,37,30,50, 100
+2018-10-31 01:34:42 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,37,30,34, 89
+2018-10-31 01:34:44 +0000,0,Medhurst,GA,Assist - 2nd Phase,3,37,30,20, 37
+2018-10-31 01:34:47 +0000,0,Medhurst,GA,Assist - Circle Entry,3,37,30,20, 37
+2018-10-31 01:34:47 +0000,0,Fowler,GS,Goal - Score,3,37,30,44, 8
+2018-10-31 01:34:54 +0000,1,Brown,C,Centre Pass,3,38,30,50, 100
+2018-10-31 01:34:54 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,38,30,89, 131
+2018-10-31 01:34:57 +0000,1,Bell,GA,Assist - 2nd Phase,3,38,30,90, 160
+2018-10-31 01:35:02 +0000,1,Brown,C,Possession,3,38,30,85, 187
+2018-10-31 01:35:15 +0000,0,Anstiss,WD,Penaly - Contact,3,38,30,15, 189
+2018-10-31 01:35:15 +0000,1,Robinson,WA,Possession,3,38,30,15, 189
+2018-10-31 01:35:25 +0000,1,Robinson,WA,Assist - Circle Entry,3,38,30,15, 189
+2018-10-31 01:35:25 +0000,1,Bell,GA,Possession,3,38,30,32, 192
+2018-10-31 01:35:28 +0000,1,Robinson,WA,Possession,3,38,30,14, 190
+2018-10-31 01:35:30 +0000,1,Robinson,WA,Assist - Circle Entry,3,38,30,14, 190
+2018-10-31 01:35:30 +0000,1,Bell,GA,Goal - Score,3,38,30,39, 196
+2018-10-31 01:35:34 +0000,0,Charles,C,Centre Pass,3,38,31,50, 100
+2018-10-31 01:35:34 +0000,0,Medhurst,GA,Loss - Bad Pass,3,38,31,86, 72
+2018-10-31 01:35:37 +0000,1,Layton,GK,Throw In,3,38,31,93, -3
+2018-10-31 01:36:01 +0000,1,Brandley,GD,Possession,3,38,31,51, 25
+2018-10-31 01:36:11 +0000,0,Fowler,GS,Penaly - Obstruction,3,38,31,51, 25
+2018-10-31 01:36:11 +0000,1,Layton,GK,Possession,3,38,31,51, 25
+2018-10-31 01:36:20 +0000,1,Brown,C,Possession,3,38,31,73, 78
+2018-10-31 01:36:25 +0000,1,Brandley,GD,Possession,3,38,31,19, 116
+2018-10-31 01:36:27 +0000,1,Robinson,WA,Possession,3,38,31,25, 130
+2018-10-31 01:36:32 +0000,1,Brown,C,Possession,3,38,31,76, 163
+2018-10-31 01:36:35 +0000,1,Brown,C,Assist - Circle Entry,3,38,31,76, 163
+2018-10-31 01:36:35 +0000,1,Thwaites,GS,Goal - Score,3,38,31,56, 190
+2018-10-31 01:36:47 +0000,1,Brown,C,Centre Pass,3,38,32,50, 100
+2018-10-31 01:36:47 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,38,32,89, 113
+2018-10-31 01:36:49 +0000,1,Brown,C,Assist - 2nd Phase,3,38,32,86, 157
+2018-10-31 01:36:52 +0000,0,Anstiss,WD,Penaly - Contact,3,38,32,86, 157
+2018-10-31 01:36:52 +0000,1,Brown,C,Possession,3,38,32,86, 157
+2018-10-31 01:36:59 +0000,0,Charles,C,Penaly - Contact,3,38,32,74, 169
+2018-10-31 01:36:59 +0000,1,Robinson,WA,Possession,3,38,32,74, 169
+2018-10-31 01:37:10 +0000,1,Robinson,WA,Assist - Circle Entry,3,38,32,74, 169
+2018-10-31 01:37:10 +0000,1,Bell,GA,Goal - Score,3,38,32,48, 187
+2018-10-31 01:37:27 +0000,0,Charles,C,Centre Pass,3,38,33,50, 100
+2018-10-31 01:37:27 +0000,1,Bell,GA,Penaly - Contact on CP,3,38,33,67, 97
+2018-10-31 01:37:27 +0000,0,Anstiss,WD,Possession,3,38,33,67, 97
+2018-10-31 01:37:36 +0000,0,Colyer ,WA,Assist - 2nd Phase,3,38,33,83, 78
+2018-10-31 01:37:43 +0000,1,Brandley,GD,Deflect,3,38,33,89, 40
+2018-10-31 01:37:43 +0000,0,Colyer ,WA,Throw In,3,38,33,106, 47
+2018-10-31 01:37:58 +0000,0,Medhurst,GA,Possession,3,38,33,59, 61
+2018-10-31 01:38:00 +0000,0,Charles,C,Possession,3,38,33,24, 27
+2018-10-31 01:38:02 +0000,0,Charles,C,Assist - Circle Entry,3,38,33,24, 27
+2018-10-31 01:38:02 +0000,0,Medhurst,GA,Goal - Score,3,38,33,37, 11
+2018-10-31 01:38:12 +0000,1,Brown,C,Centre Pass,3,39,33,50, 100
+2018-10-31 01:38:12 +0000,1,Bell,GA,Assist - Centre Pass Rec,3,39,33,30, 129
+2018-10-31 01:38:14 +0000,1,Robinson,WA,Assist - 2nd Phase,3,39,33,12, 189
+2018-10-31 01:38:16 +0000,1,Brown,C,Possession,3,39,33,82, 185
+2018-10-31 01:38:19 +0000,1,Brown,C,Assist - Circle Entry,3,39,33,82, 185
+2018-10-31 01:38:19 +0000,1,Thwaites,GS,Goal - Score,3,39,33,64, 197
+2018-10-31 01:38:28 +0000,0,Charles,C,Centre Pass,3,39,34,50, 100
+2018-10-31 01:38:28 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,39,34,84, 90
+2018-10-31 01:38:31 +0000,0,Medhurst,GA,Assist - Circle Entry,3,39,34,84, 90
+2018-10-31 01:38:32 +0000,0,Fowler,GS,Possession,3,39,34,58, 18
+2018-10-31 01:38:34 +0000,0,Charles,C,Possession,3,39,34,73, 29
+2018-10-31 01:38:41 +0000,0,Charles,C,Assist - Circle Entry,3,39,34,73, 29
+2018-10-31 01:38:41 +0000,0,Fowler,GS,Goal - Score,3,39,34,61, 7
+2018-10-31 01:38:52 +0000,1,Brown,C,Centre Pass,3,40,34,50, 100
+2018-10-31 01:38:52 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,40,34,25, 132
+2018-10-31 01:38:57 +0000,1,Brown,C,Assist - 2nd Phase,3,40,34,79, 169
+2018-10-31 01:38:59 +0000,1,Brown,C,Assist - Circle Entry,3,40,34,79, 169
+2018-10-31 01:38:59 +0000,1,Thwaites,GS,Goal - Score,3,40,34,56, 196
+2018-10-31 01:39:08 +0000,0,Charles,C,Centre Pass,3,40,35,50, 100
+2018-10-31 01:39:08 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,40,35,19, 87
+2018-10-31 01:39:11 +0000,1,Brazill,WD,Deflect,3,40,35,5, 61
+2018-10-31 01:39:12 +0000,0,Anstiss,WD,Throw In,3,40,35,-6, 70
+2018-10-31 01:39:36 +0000,0,Francis,GD,Possession,3,40,35,78, 101
+2018-10-31 01:39:38 +0000,0,Medhurst,GA,Possession,3,40,35,87, 55
+2018-10-31 01:40:04 +0000,0,Medhurst,GA,Assist - Circle Entry,3,40,35,87, 55
+2018-10-31 01:40:04 +0000,0,Fowler,GS,Possession,3,40,35,47, 11
+2018-10-31 01:40:07 +0000,1,Brandley,GD,Penaly - Contact,3,40,35,47, 11
+2018-10-31 01:40:07 +0000,0,Fowler,GS,Goal - Score,3,40,35,47, 11
+2018-10-31 01:40:18 +0000,1,Brown,C,Centre Pass,3,41,35,50, 100
+2018-10-31 01:40:18 +0000,1,Bell,GA,Assist - Centre Pass Rec,3,41,35,27, 127
+2018-10-31 01:40:20 +0000,1,Robinson,WA,Assist - 2nd Phase,3,41,35,14, 184
+2018-10-31 01:40:22 +0000,1,Bell,GA,Possession,3,41,35,43, 161
+2018-10-31 01:40:32 +0000,1,Robinson,WA,Possession,3,41,35,24, 178
+2018-10-31 01:41:10 +0000,1,Robinson,WA,Assist - Circle Entry,3,41,35,24, 178
+2018-10-31 01:41:10 +0000,0,Bruce,GK,Deflect,3,41,35,69, 194
+2018-10-31 01:41:17 +0000,1,Bell,GA,Throw In,3,41,35,73, 208
+2018-10-31 01:41:26 +0000,1,Brown,C,Possession,3,41,35,75, 177
+2018-10-31 01:41:39 +0000,0,Francis,GD,Penaly - Contact,3,41,35,69, 185
+2018-10-31 01:41:40 +0000,1,Bell,GA,Goal - Score,3,41,35,69, 185
+2018-10-31 01:41:48 +0000,0,Charles,C,Centre Pass,3,41,36,50, 100
+2018-10-31 01:41:48 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,41,36,17, 80
+2018-10-31 01:42:00 +0000,0,Charles,C,Assist - 2nd Phase,3,41,36,43, 65
+2018-10-31 01:42:06 +0000,1,Brown,C,Penaly - Contact,3,41,36,43, 65
+2018-10-31 01:42:06 +0000,0,Colyer ,WA,Possession,3,41,36,43, 65
+2018-10-31 01:42:13 +0000,0,Charles,C,Possession,3,41,36,76, 39
+2018-10-31 01:42:17 +0000,0,Charles,C,Assist - Circle Entry,3,41,36,76, 39
+2018-10-31 01:42:17 +0000,0,Medhurst,GA,Possession,3,41,36,76, 6
+2018-10-31 01:42:19 +0000,0,Fowler,GS,Goal - Score,3,41,36,47, 8
+2018-10-31 01:42:24 +0000,1,Brown,C,Centre Pass,3,42,36,50, 100
+2018-10-31 01:42:24 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,42,36,27, 120
+2018-10-31 01:42:26 +0000,1,Thwaites,GS,Assist - 2nd Phase,3,42,36,77, 158
+2018-10-31 01:42:28 +0000,1,Brown,C,Possession,3,42,36,15, 192
+2018-10-31 01:42:31 +0000,1,Brown,C,Assist - Circle Entry,3,42,36,15, 192
+2018-10-31 01:42:31 +0000,1,Bell,GA,Possession,3,42,36,33, 190
+2018-10-31 01:42:33 +0000,0,Bruce,GK,Penaly - Contact,3,42,36,33, 190
+2018-10-31 01:42:33 +0000,1,Bell,GA,Goal - Score,3,42,36,33, 190
+2018-10-31 01:42:42 +0000,0,Charles,C,Centre Pass,3,42,37,50, 100
+2018-10-31 01:42:42 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,42,37,86, 74
+2018-10-31 01:42:44 +0000,0,Francis,GD,Assist - 2nd Phase,3,42,37,83, 111
+2018-10-31 01:42:51 +0000,1,Bell,GA,Deflect,3,42,37,86, 90
+2018-10-31 01:42:51 +0000,0,Anstiss,WD,Throw In,3,42,37,108, 87
+2018-10-31 01:43:04 +0000,0,Colyer ,WA,Possession,3,42,37,80, 100
+2018-10-31 01:43:08 +0000,0,Francis,GD,Possession,3,42,37,65, 115
+2018-10-31 01:43:10 +0000,0,Anstiss,WD,Possession,3,42,37,56, 82
+2018-10-31 01:43:21 +0000,0,Colyer ,WA,Possession,3,42,37,80, 52
+2018-10-31 01:43:27 +0000,0,Anstiss,WD,Possession,3,42,37,74, 71
+2018-10-31 01:43:30 +0000,0,Charles,C,Possession,3,42,37,47, 37
+2018-10-31 01:43:33 +0000,0,Medhurst,GA,Possession,3,42,37,16, 15
+2018-10-31 01:43:38 +0000,0,Medhurst,GA,Assist - Circle Entry,3,42,37,16, 15
+2018-10-31 01:43:38 +0000,0,Fowler,GS,Goal - Score,3,42,37,52, 8
+2018-10-31 01:43:46 +0000,1,Brown,C,Centre Pass,3,43,37,50, 100
+2018-10-31 01:43:46 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,43,37,72, 122
+2018-10-31 01:43:49 +0000,1,Brown,C,Assist - 2nd Phase,3,43,37,68, 162
+2018-10-31 01:43:52 +0000,1,Brown,C,Assist - Circle Entry,3,43,37,68, 162
+2018-10-31 01:43:52 +0000,1,Thwaites,GS,Goal - Score,3,43,37,58, 186
+2018-10-31 01:44:01 +0000,0,Charles,C,Centre Pass,3,43,38,50, 100
+2018-10-31 01:44:01 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,3,43,38,68, 81
+2018-10-31 01:44:04 +0000,0,Colyer ,WA,Assist - 2nd Phase,3,43,38,49, 65
+2018-10-31 01:44:05 +0000,0,Charles,C,Possession,3,43,38,24, 52
+2018-10-31 01:44:09 +0000,1,Layton,GK,Penaly - Contact,3,43,38,50, 21
+2018-10-31 01:44:09 +0000,0,Medhurst,GA,Possession,3,43,38,50, 21
+2018-10-31 01:44:20 +0000,0,Fowler,GS,Goal - Score,3,43,38,55, 7
+2018-10-31 01:44:29 +0000,1,Brown,C,Centre Pass,3,44,38,50, 100
+2018-10-31 01:44:29 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,44,38,93, 125
+2018-10-31 01:44:34 +0000,1,Bell,GA,Assist - 2nd Phase,3,44,38,45, 144
+2018-10-31 01:44:39 +0000,0,Francis,GD,Penaly - Contact,3,44,38,45, 144
+2018-10-31 01:44:39 +0000,1,Brown,C,Possession,3,44,38,45, 144
+2018-10-31 01:44:50 +0000,1,Bell,GA,Possession,3,44,38,54, 164
+2018-10-31 01:44:52 +0000,1,Robinson,WA,Possession,3,44,38,84, 190
+2018-10-31 01:44:55 +0000,1,Robinson,WA,Assist - Circle Entry,3,44,38,84, 190
+2018-10-31 01:44:55 +0000,1,Thwaites,GS,Possession,3,44,38,43, 194
+2018-10-31 01:44:57 +0000,0,Francis,GD,Penaly - Contact,3,44,38,43, 194
+2018-10-31 01:44:57 +0000,1,Thwaites,GS,Goal - Score,3,44,38,43, 194
+2018-10-31 01:45:06 +0000,0,Charles,C,Centre Pass,3,44,39,50, 100
+2018-10-31 01:45:06 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,3,44,39,29, 113
+2018-10-31 01:45:10 +0000,0,Colyer ,WA,Assist - 2nd Phase,3,44,39,14, 74
+2018-10-31 01:45:14 +0000,0,Anstiss,WD,Possession,3,44,39,24, 99
+2018-10-31 01:45:16 +0000,0,Colyer ,WA,Possession,3,44,39,11, 76
+2018-10-31 01:45:18 +0000,0,Medhurst,GA,Possession,3,44,39,19, 54
+2018-10-31 01:45:21 +0000,0,Medhurst,GA,Assist - Circle Entry,3,44,39,19, 54
+2018-10-31 01:45:21 +0000,0,Fowler,GS,Goal - Score,3,44,39,57, 13
+2018-10-31 01:45:32 +0000,1,Brown,C,Centre Pass,3,45,39,50, 100
+2018-10-31 01:45:32 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,45,39,65, 113
+2018-10-31 01:45:43 +0000,1,Bell,GA,Assist - 2nd Phase,3,45,39,83, 161
+2018-10-31 01:45:48 +0000,0,Francis,GD,Penaly - Contact,3,45,39,83, 161
+2018-10-31 01:45:48 +0000,1,Robinson,WA,Possession,3,45,39,83, 161
+2018-10-31 01:46:02 +0000,0,Anstiss,WD,Penaly - Obstruction,3,45,39,83, 161
+2018-10-31 01:46:02 +0000,1,Robinson,WA,Possession,3,45,39,83, 161
+2018-10-31 01:46:08 +0000,1,Robinson,WA,Assist - Circle Entry,3,45,39,83, 161
+2018-10-31 01:46:08 +0000,1,Bell,GA,Goal - Score,3,45,39,64, 183
+2018-10-31 01:46:20 +0000,0,Charles,C,Centre Pass,3,45,40,50, 100
+2018-10-31 01:46:20 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,45,40,71, 96
+2018-10-31 01:46:24 +0000,1,Brazill,WD,Penaly - Obstruction,3,45,40,71, 96
+2018-10-31 01:46:24 +0000,0,Francis,GD,Possession,3,45,40,71, 96
+2018-10-31 01:46:35 +0000,0,Charles,C,Possession,3,45,40,61, 42
+2018-10-31 01:46:47 +0000,0,Charles,C,Assist - Circle Entry,3,45,40,61, 42
+2018-10-31 01:46:47 +0000,0,Fowler,GS,Assist - 2nd Phase,3,45,40,53, 15
+2018-10-31 01:46:50 +0000,1,Layton,GK,Penaly - Obstruction,3,45,40,53, 15
+2018-10-31 01:46:50 +0000,0,Fowler,GS,Goal - Score,3,45,40,53, 15
+2018-10-31 01:47:05 +0000,1,Brown,C,Centre Pass,3,46,40,50, 100
+2018-10-31 01:47:05 +0000,1,Brandley,GD,Assist - Centre Pass Rec,3,46,40,94, 113
+2018-10-31 01:47:07 +0000,0,Medhurst,GA,Penaly - Contact,3,46,40,94, 113
+2018-10-31 01:47:07 +0000,1,Brandley,GD,Possession,3,46,40,94, 113
+2018-10-31 01:47:14 +0000,1,Brown,C,Possession,3,46,40,96, 133
+2018-10-31 01:47:19 +0000,1,Bell,GA,Possession,3,46,40,53, 165
+2018-10-31 01:48:14 +0000,0,Bruce,GK,Deflect,3,46,40,69, 195
+2018-10-31 01:48:14 +0000,1,Bell,GA,Throw In,3,46,40,70, 208
+2018-10-31 01:48:36 +0000,1,Robinson,WA,Possession,3,46,40,65, 169
+2018-10-31 01:48:39 +0000,1,Robinson,WA,Assist - Circle Entry,3,46,40,65, 169
+2018-10-31 01:48:39 +0000,1,Bell,GA,Assist - 2nd Phase,3,46,40,53, 189
+2018-10-31 01:48:47 +0000,1,Bell,GA,Goal - Score,3,46,40,53, 189
+2018-10-31 01:48:55 +0000,0,Charles,C,Centre Pass,3,46,41,50, 100
+2018-10-31 01:48:55 +0000,0,Francis,GD,Assist - Centre Pass Rec,3,46,41,21, 80
+2018-10-31 01:48:57 +0000,0,Medhurst,GA,Assist - 2nd Phase,3,46,41,20, 34
+2018-10-31 01:48:59 +0000,0,Charles,C,Possession,3,46,41,82, 17
+2018-10-31 01:49:03 +0000,0,Charles,C,Assist - Circle Entry,3,46,41,82, 17
+2018-10-31 01:49:03 +0000,0,Fowler,GS,Goal - Score,3,46,41,48, 8
+2018-10-31 01:49:19 +0000,0,,UNKNOWN,Timeout,3,47,41,-10, -22
+2018-10-31 01:51:26 +0000,1,Brown,C,Centre Pass,3,47,41,50, 100
+2018-10-31 01:51:26 +0000,0,Anstiss,WD,(null),3,47,41,49, 130
+2018-10-31 01:51:26 +0000,1,Brandley,GD,Possession,3,47,41,49, 130
+2018-10-31 01:51:48 +0000,1,Brandley,GD,Assist - Circle Entry,3,47,41,49, 130
+2018-10-31 01:51:48 +0000,1,Bell,GA,Assist - 2nd Phase,3,47,41,42, 173
+2018-10-31 01:51:54 +0000,1,Brown,C,Possession,3,47,41,30, 147
+2018-10-31 01:51:56 +0000,1,Brown,C,Assist - Circle Entry,3,47,41,30, 147
+2018-10-31 01:51:57 +0000,1,Bell,GA,Possession,3,47,41,37, 170
+2018-10-31 01:52:00 +0000,1,Brown,C,Possession,3,47,41,83, 189
+2018-10-31 01:52:10 +0000,1,Brown,C,Assist - Circle Entry,3,47,41,83, 189
+2018-10-31 01:52:10 +0000,1,Bell,GA,Goal - Miss,3,47,41,64, 197
+2018-10-31 01:52:27 +0000,0,Francis,GD,Deflect,3,47,41,50, 197
+2018-10-31 01:52:34 +0000,1,Robinson,WA,Gain - Pick-up,3,47,41,22, 178
+2018-10-31 01:52:45 +0000,0,Francis,GD,Penaly - Contact,3,47,41,33, 189
+2018-10-31 01:52:45 +0000,1,Bell,GA,Goal - Score,3,47,41,33, 189
+2018-10-31 01:52:55 +0000,0,Charles,C,Centre Pass,3,47,42,50, 100
+2018-10-31 01:52:55 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,47,42,24, 81
+2018-10-31 01:52:57 +0000,0,Medhurst,GA,Assist - 2nd Phase,3,47,42,13, 33
+2018-10-31 01:52:59 +0000,0,Medhurst,GA,Assist - Circle Entry,3,47,42,13, 33
+2018-10-31 01:52:59 +0000,0,Fowler,GS,Possession,3,47,42,33, 11
+2018-10-31 01:53:02 +0000,0,Charles,C,Possession,3,47,42,25, 26
+2018-10-31 01:53:12 +0000,0,Medhurst,GA,Possession,3,47,42,82, 20
+2018-10-31 01:53:15 +0000,0,Charles,C,Possession,3,47,42,57, 35
+2018-10-31 01:53:19 +0000,1,Brandley,GD,Penaly - Contact,3,47,42,50, 15
+2018-10-31 01:53:19 +0000,0,Medhurst,GA,Goal - Score,3,47,42,50, 15
+2018-10-31 01:54:53 +0000,1,Brown,C,Centre Pass,3,48,42,50, 100
+2018-10-31 01:54:53 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,48,42,55, 115
+2018-10-31 01:54:56 +0000,0,Anstiss,WD,Penaly - Contact,3,48,42,60, 128
+2018-10-31 01:54:56 +0000,1,Robinson,WA,Assist - 2nd Phase,3,48,42,60, 128
+2018-10-31 01:55:06 +0000,1,Bell,GA,Possession,3,48,42,75, 166
+2018-10-31 01:55:09 +0000,1,Robinson,WA,Possession,3,48,42,51, 165
+2018-10-31 01:55:11 +0000,1,Robinson,WA,Assist - Circle Entry,3,48,42,51, 165
+2018-10-31 01:55:11 +0000,1,Bell,GA,Goal - Miss,3,48,42,49, 182
+2018-10-31 01:55:36 +0000,0,Bruce,GK,Deflect,3,48,42,50, 197
+2018-10-31 01:55:44 +0000,1,Brandley,GD,Throw In,3,48,42,-6, 80
+2018-10-31 01:56:05 +0000,1,Brown,C,Possession,3,48,42,13, 149
+2018-10-31 01:56:08 +0000,1,Brazill,WD,Possession,3,48,42,41, 131
+2018-10-31 01:56:10 +0000,1,Robinson,WA,Possession,3,48,42,77, 175
+2018-10-31 01:56:16 +0000,0,Bruce,GK,Penaly - Contact,3,48,42,77, 175
+2018-10-31 01:56:16 +0000,1,Robinson,WA,Possession,3,48,42,77, 175
+2018-10-31 01:56:21 +0000,1,Robinson,WA,Assist - Circle Entry,3,48,42,77, 175
+2018-10-31 01:56:21 +0000,1,Thwaites,GS,Goal - Score,3,48,42,54, 190
+2018-10-31 01:56:34 +0000,0,Charles,C,Centre Pass,3,48,43,50, 100
+2018-10-31 01:56:34 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,3,48,43,86, 86
+2018-10-31 01:56:36 +0000,0,Anstiss,WD,Assist - 2nd Phase,3,48,43,79, 120
+2018-10-31 01:56:39 +0000,0,Anstiss,WD,Possession,3,48,43,20, 81
+2018-10-31 01:56:41 +0000,0,Colyer ,WA,Possession,3,48,43,18, 63
+2018-10-31 01:56:43 +0000,0,Charles,C,Possession,3,48,43,23, 39
+2018-10-31 01:56:48 +0000,0,Charles,C,Assist - Circle Entry,3,48,43,23, 39
+2018-10-31 01:56:48 +0000,0,Fowler,GS,Goal - Score,3,48,43,57, 10
+2018-10-31 01:56:59 +0000,1,Brown,C,Centre Pass,3,49,43,50, 100
+2018-10-31 01:56:59 +0000,1,Bell,GA,Assist - Centre Pass Rec,3,49,43,24, 129
+2018-10-31 01:57:01 +0000,1,Robinson,WA,Assist - 2nd Phase,3,49,43,16, 185
+2018-10-31 01:57:03 +0000,1,Brown,C,Possession,3,49,43,82, 184
+2018-10-31 01:57:07 +0000,1,Brown,C,Assist - Circle Entry,3,49,43,82, 184
+2018-10-31 01:57:07 +0000,1,Bell,GA,Possession,3,49,43,72, 196
+2018-10-31 01:57:09 +0000,0,Francis,GD,Penaly - Contact,3,49,43,72, 196
+2018-10-31 01:57:09 +0000,1,Bell,GA,Goal - Score,3,49,43,72, 196
+2018-10-31 01:57:19 +0000,0,Charles,C,Centre Pass,3,49,44,50, 100
+2018-10-31 01:57:19 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,3,49,44,89, 79
+2018-10-31 01:57:22 +0000,0,Francis,GD,Assist - 2nd Phase,3,49,44,91, 105
+2018-10-31 01:57:30 +0000,1,Brazill,WD,Penaly - Contact,3,49,44,79, 66
+2018-10-31 01:57:30 +0000,0,Colyer ,WA,Possession,3,49,44,79, 66
+2018-10-31 01:57:43 +0000,0,Charles,C,Possession,3,49,44,63, 41
+2018-10-31 01:57:45 +0000,0,Charles,C,Assist - Circle Entry,3,49,44,63, 41
+2018-10-31 01:57:45 +0000,0,Fowler,GS,Goal - Score,3,49,44,50, 11
+2018-10-31 01:57:53 +0000,1,Brown,C,Centre Pass,3,50,44,50, 100
+2018-10-31 01:57:53 +0000,1,Robinson,WA,Assist - Centre Pass Rec,3,50,44,83, 129
+2018-10-31 01:57:56 +0000,1,Brown,C,Assist - 2nd Phase,3,50,44,65, 147
+2018-10-31 01:58:00 +0000,1,Bell,GA,Possession,3,50,44,91, 174
+2018-10-31 01:58:02 +0000,1,Brown,C,Possession,3,50,44,71, 173
+2018-10-31 01:58:06 +0000,0,Bruce,GK,Penaly - Contact,3,50,44,63, 187
+2018-10-31 01:58:06 +0000,1,Bell,GA,Goal - Score,3,50,44,63, 187
+2018-10-31 01:58:18 +0000,0,Charles,C,Centre Pass,3,50,45,50, 100
+2018-10-31 01:58:18 +0000,0,Francis,GD,Assist - Centre Pass Rec,3,50,45,85, 111
+2018-10-31 01:58:20 +0000,0,Charles,C,Assist - 2nd Phase,3,50,45,68, 90
+2018-10-31 01:58:22 +0000,0,Colyer ,WA,Possession,3,50,45,75, 71
+2018-10-31 01:58:24 +0000,0,Francis,GD,Possession,3,50,45,79, 109
+2018-10-31 01:58:30 +0000,0,Medhurst,GA,Possession,3,50,45,28, 97
+2018-10-31 01:58:32 +0000,0,Charles,C,Possession,3,50,45,46, 78
+2018-10-31 01:58:36 +0000,0,Colyer ,WA,Possession,3,50,45,73, 46
+2018-10-31 01:58:41 +0000,1,Brazill,WD,Penaly - Obstruction,3,50,45,73, 46
+2018-10-31 01:58:41 +0000,0,Colyer ,WA,Possession,3,50,45,73, 46
+2018-10-31 01:58:48 +0000,0,Medhurst,GA,Possession,3,50,45,84, 9
+2018-10-31 01:58:52 +0000,0,Medhurst,GA,Assist - Circle Entry,3,50,45,84, 9
+2018-10-31 01:58:52 +0000,0,Fowler,GS,Goal - Score,3,50,45,50, 10
+2018-10-31 01:59:01 +0000,1,Brown,C,Centre Pass,3,51,45,50, 100
+2018-10-31 01:59:01 +0000,1,Brandley,GD,Assist - Centre Pass Rec,3,51,45,46, 81
+2018-10-31 01:59:04 +0000,0,Francis,GD,Gain - Inter,3,51,45,8, 160
+2018-10-31 01:59:11 +0000,1,Robinson,WA,Gain - Inter,3,51,45,79, 142
+2018-10-31 01:59:18 +0000,1,Bell,GA,Possession,3,51,45,86, 172
+2018-10-31 01:59:21 +0000,1,Robinson,WA,Possession,3,51,45,70, 168
+2018-10-31 01:59:26 +0000,1,Robinson,WA,Assist - Circle Entry,3,51,45,70, 168
+2018-10-31 01:59:26 +0000,1,Bell,GA,Goal - Miss,3,51,45,59, 187
+2018-10-31 01:59:35 +0000,0,Bruce,GK,Deflect,3,51,45,50, 197
+2018-10-31 01:59:38 +0000,1,Robinson,WA,Gain - Pick-up,3,51,45,81, 186
+2018-10-31 01:59:48 +0000,0,Bruce,GK,Penaly - Contact,3,51,45,71, 186
+2018-10-31 01:59:48 +0000,1,Bell,GA,Goal - Miss,3,51,45,71, 186
+2018-10-31 02:00:21 +0000,0,,UNKNOWN,Throw In,3,51,45,50, 202
+2018-10-31 02:04:29 +0000,0,Charles,C,Centre Pass,4,51,45,50, 100
+2018-10-31 02:04:29 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,51,45,80, 87
+2018-10-31 02:04:31 +0000,0,Charles,C,Assist - 2nd Phase,4,51,45,66, 70
+2018-10-31 02:04:35 +0000,1,Brandley,GD,Deflect,4,51,45,84, 43
+2018-10-31 02:04:36 +0000,0,Charles,C,Throw In,4,51,45,108, 38
+2018-10-31 02:04:50 +0000,1,Brazill,WD,Penaly - Contact,4,51,45,52, 46
+2018-10-31 02:04:50 +0000,0,Colyer ,WA,Possession,4,51,45,52, 46
+2018-10-31 02:05:04 +0000,0,Colyer ,WA,Assist - Circle Entry,4,51,45,52, 46
+2018-10-31 02:05:04 +0000,0,Fowler,GS,Goal - Score,4,51,45,56, 5
+2018-10-31 02:05:11 +0000,1,Brown,C,Centre Pass,4,52,45,50, 100
+2018-10-31 02:05:11 +0000,1,Robinson,WA,Assist - Centre Pass Rec,4,52,45,80, 121
+2018-10-31 02:05:14 +0000,1,Brazill,WD,Assist - 2nd Phase,4,52,45,15, 121
+2018-10-31 02:05:18 +0000,1,Brown,C,Possession,4,52,45,11, 135
+2018-10-31 02:05:24 +0000,1,Brazill,WD,Possession,4,52,45,17, 101
+2018-10-31 02:05:32 +0000,1,Bell,GA,Possession,4,52,45,21, 113
+2018-10-31 02:05:35 +0000,0,Francis,GD,Penaly - Contact,4,52,45,21, 113
+2018-10-31 02:05:35 +0000,1,Brandley,GD,Possession,4,52,45,21, 113
+2018-10-31 02:05:50 +0000,1,Bell,GA,Possession,4,52,45,47, 161
+2018-10-31 02:05:52 +0000,0,Bruce,GK,Penaly - Obstruction,4,52,45,51, 184
+2018-10-31 02:05:53 +0000,1,Thwaites,GS,Goal - Score,4,52,45,51, 184
+2018-10-31 02:06:06 +0000,0,Charles,C,Centre Pass,4,52,46,50, 100
+2018-10-31 02:06:06 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,4,52,46,13, 74
+2018-10-31 02:06:14 +0000,1,Brazill,WD,Deflect,4,52,46,10, 43
+2018-10-31 02:06:14 +0000,0,Colyer ,WA,Throw In,4,52,46,-7, 43
+2018-10-31 02:06:23 +0000,0,Medhurst,GA,Possession,4,52,46,29, 37
+2018-10-31 02:06:26 +0000,0,Medhurst,GA,Assist - Circle Entry,4,52,46,29, 37
+2018-10-31 02:06:26 +0000,0,Fowler,GS,Possession,4,52,46,34, 20
+2018-10-31 02:06:28 +0000,1,Brazill,WD,Loss - Offside,4,52,46,17, 12
+2018-10-31 02:06:58 +0000,1,Bell,GA,Possession,4,52,46,17, 12
+2018-10-31 02:07:06 +0000,1,Bell,GA,Assist - Circle Entry,4,52,46,17, 12
+2018-10-31 02:07:06 +0000,1,Thwaites,GS,Goal - Score,4,52,46,47, 9
+2018-10-31 02:07:15 +0000,1,Brown,C,Centre Pass,4,53,46,50, 100
+2018-10-31 02:07:15 +0000,1,Bell,GA,Assist - Centre Pass Rec,4,53,46,34, 118
+2018-10-31 02:07:17 +0000,1,Robinson,WA,Assist - 2nd Phase,4,53,46,9, 153
+2018-10-31 02:07:19 +0000,1,Brown,C,Possession,4,53,46,18, 178
+2018-10-31 02:07:22 +0000,1,Brown,C,Assist - Circle Entry,4,53,46,18, 178
+2018-10-31 02:07:22 +0000,1,Thwaites,GS,Possession,4,53,46,44, 192
+2018-10-31 02:07:31 +0000,0,Francis,GD,Penaly - Contact,4,53,46,44, 192
+2018-10-31 02:07:31 +0000,1,Thwaites,GS,Goal - Score,4,53,46,44, 192
+2018-10-31 02:07:49 +0000,0,Charles,C,Centre Pass,4,53,47,50, 100
+2018-10-31 02:07:50 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,4,53,47,77, 84
+2018-10-31 02:07:53 +0000,0,Medhurst,GA,Assist - Circle Entry,4,53,47,77, 84
+2018-10-31 02:07:53 +0000,0,Fowler,GS,Goal - Score,4,53,47,48, 9
+2018-10-31 02:08:03 +0000,1,Brown,C,Centre Pass,4,54,47,50, 100
+2018-10-31 02:08:03 +0000,1,Brazill,WD,Assist - Centre Pass Rec,4,54,47,34, 80
+2018-10-31 02:08:08 +0000,0,Colyer ,WA,Deflect,4,54,47,88, 109
+2018-10-31 02:08:09 +0000,1,Brandley,GD,Possession,4,54,47,82, 118
+2018-10-31 02:08:17 +0000,1,Robinson,WA,Possession,4,54,47,54, 119
+2018-10-31 02:08:21 +0000,1,Brown,C,Possession,4,54,47,10, 177
+2018-10-31 02:08:25 +0000,1,Robinson,WA,Possession,4,54,47,72, 172
+2018-10-31 02:08:28 +0000,1,Brown,C,Possession,4,54,47,13, 190
+2018-10-31 02:08:36 +0000,0,Bruce,GK,Penaly - Contact,4,54,47,35, 188
+2018-10-31 02:08:36 +0000,1,Bell,GA,Goal - Miss,4,54,47,35, 188
+2018-10-31 02:08:46 +0000,0,Francis,GD,Gain - Def Reb,4,54,47,50, 197
+2018-10-31 02:08:50 +0000,0,Bruce,GK,Possession,4,54,47,14, 167
+2018-10-31 02:08:56 +0000,0,Anstiss,WD,Possession,4,54,47,14, 123
+2018-10-31 02:09:02 +0000,0,Charles,C,Possession,4,54,47,43, 81
+2018-10-31 02:09:04 +0000,0,Medhurst,GA,Possession,4,54,47,70, 41
+2018-10-31 02:09:07 +0000,0,Medhurst,GA,Assist - Circle Entry,4,54,47,70, 41
+2018-10-31 02:09:07 +0000,0,Fowler,GS,Possession,4,54,47,51, 13
+2018-10-31 02:09:08 +0000,1,Brandley,GD,Penaly - Contact,4,54,47,51, 13
+2018-10-31 02:09:08 +0000,0,Fowler,GS,Goal - Score,4,54,47,51, 13
+2018-10-31 02:09:20 +0000,0,Charles,C,Centre Pass,4,55,47,50, 100
+2018-10-31 02:09:20 +0000,0,Anstiss,WD,Assist - Centre Pass Rec,4,55,47,75, 81
+2018-10-31 02:09:22 +0000,0,Medhurst,GA,Assist - 2nd Phase,4,55,47,86, 49
+2018-10-31 02:09:24 +0000,0,Medhurst,GA,Assist - Circle Entry,4,55,47,86, 49
+2018-10-31 02:09:24 +0000,0,Fowler,GS,Goal - Score,4,55,47,59, 8
+2018-10-31 02:09:41 +0000,1,Brown,C,Centre Pass,4,56,47,50, 100
+2018-10-31 02:09:41 +0000,1,Robinson,WA,Assist - Centre Pass Rec,4,56,47,92, 122
+2018-10-31 02:09:45 +0000,1,Brown,C,Assist - 2nd Phase,4,56,47,56, 140
+2018-10-31 02:09:47 +0000,1,Thwaites,GS,Possession,4,56,47,34, 153
+2018-10-31 02:09:50 +0000,1,Thwaites,GS,Assist - Circle Entry,4,56,47,34, 153
+2018-10-31 02:09:50 +0000,1,Bell,GA,Goal - Score,4,56,47,39, 194
+2018-10-31 02:10:00 +0000,0,Charles,C,Centre Pass,4,56,48,50, 100
+2018-10-31 02:10:00 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,4,56,48,9, 92
+2018-10-31 02:10:03 +0000,0,Anstiss,WD,Assist - 2nd Phase,4,56,48,38, 72
+2018-10-31 02:10:05 +0000,0,Colyer ,WA,Possession,4,56,48,74, 54
+2018-10-31 02:10:08 +0000,0,Anstiss,WD,Possession,4,56,48,54, 66
+2018-10-31 02:10:13 +0000,0,Medhurst,GA,Possession,4,56,48,86, 4
+2018-10-31 02:10:16 +0000,0,Medhurst,GA,Assist - Circle Entry,4,56,48,86, 4
+2018-10-31 02:10:16 +0000,0,Fowler,GS,Goal - Score,4,56,48,42, 12
+2018-10-31 02:10:27 +0000,1,Brown,C,Centre Pass,4,57,48,50, 100
+2018-10-31 02:10:27 +0000,1,Brazill,WD,Assist - Centre Pass Rec,4,57,48,11, 117
+2018-10-31 02:10:29 +0000,1,Robinson,WA,Assist - 2nd Phase,4,57,48,9, 143
+2018-10-31 02:10:35 +0000,0,Francis,GD,Gain - Inter,4,57,48,15, 191
+2018-10-31 02:10:44 +0000,0,Charles,C,Possession,4,57,48,49, 155
+2018-10-31 02:10:48 +0000,0,Anstiss,WD,Possession,4,57,48,56, 125
+2018-10-31 02:10:50 +0000,0,Colyer ,WA,Possession,4,57,48,86, 82
+2018-10-31 02:10:52 +0000,0,Anstiss,WD,Possession,4,57,48,66, 69
+2018-10-31 02:10:54 +0000,0,Charles,C,Possession,4,57,48,59, 53
+2018-10-31 02:11:05 +0000,0,Charles,C,Assist - Circle Entry,4,57,48,59, 53
+2018-10-31 02:11:05 +0000,0,Fowler,GS,Possession,4,57,48,38, 13
+2018-10-31 02:11:07 +0000,0,Medhurst,GA,Possession,4,57,48,26, 10
+2018-10-31 02:11:13 +0000,0,Fowler,GS,Goal - Score,4,57,48,49, 8
+2018-10-31 02:11:27 +0000,0,Charles,C,Centre Pass,4,58,48,50, 100
+2018-10-31 02:11:27 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,4,58,48,88, 74
+2018-10-31 02:11:30 +0000,1,Brown,C,Penaly - Contact,4,58,48,82, 46
+2018-10-31 02:11:30 +0000,0,Charles,C,Assist - 2nd Phase,4,58,48,82, 46
+2018-10-31 02:11:42 +0000,0,Medhurst,GA,Possession,4,58,48,80, 17
+2018-10-31 02:11:44 +0000,0,Colyer ,WA,Possession,4,58,48,47, 34
+2018-10-31 02:11:48 +0000,0,Colyer ,WA,Assist - Circle Entry,4,58,48,47, 34
+2018-10-31 02:11:48 +0000,0,Medhurst,GA,Possession,4,58,48,42, 21
+2018-10-31 02:11:50 +0000,0,Colyer ,WA,Possession,4,58,48,47, 34
+2018-10-31 02:12:36 +0000,0,Colyer ,WA,Assist - Circle Entry,4,58,48,47, 34
+2018-10-31 02:12:36 +0000,0,Medhurst,GA,Goal - Miss,4,58,48,42, 12
+2018-10-31 02:12:48 +0000,1,Brandley,GD,Gain - Def Reb,4,58,48,50, 2
+2018-10-31 02:13:39 +0000,1,Brazill,WD,Possession,4,58,48,83, 43
+2018-10-31 02:13:41 +0000,1,Layton,GK,Possession,4,58,48,53, 54
+2018-10-31 02:14:06 +0000,1,Robinson,WA,Possession,4,58,48,15, 93
+2018-10-31 02:14:09 +0000,1,,UNKNOWN,Timeout,4,58,48,110, 222
+2018-10-31 02:14:44 +0000,0,Brandley,UNKNOWN,Interchange - Garrett,4,58,48,
+2018-10-31 02:15:36 +0000,1,,UNKNOWN,Possession,4,58,48,52, 141
+2018-10-31 02:15:38 +0000,1,Garrett,GD,Possession,4,58,48,81, 128
+2018-10-31 02:15:41 +0000,1,Thwaites,GS,Possession,4,58,48,66, 148
+2018-10-31 02:15:43 +0000,1,,UNKNOWN,Possession,4,58,48,38, 163
+2018-10-31 02:15:45 +0000,1,Bell,GA,Possession,4,58,48,13, 192
+2018-10-31 02:15:47 +0000,1,Brown,C,Possession,4,58,48,29, 168
+2018-10-31 02:15:50 +0000,1,Brown,C,Assist - Circle Entry,4,58,48,29, 168
+2018-10-31 02:15:50 +0000,1,Thwaites,GS,Goal - Score,4,58,48,55, 192
+2018-10-31 02:16:04 +0000,1,Brown,C,Centre Pass,4,58,49,50, 100
+2018-10-31 02:16:04 +0000,1,Robinson,WA,Assist - Centre Pass Rec,4,58,49,15, 125
+2018-10-31 02:16:06 +0000,1,Bell,GA,Assist - 2nd Phase,4,58,49,7, 161
+2018-10-31 02:16:08 +0000,1,Brown,C,Possession,4,58,49,28, 147
+2018-10-31 02:16:10 +0000,1,Thwaites,GS,Possession,4,58,49,55, 153
+2018-10-31 02:16:12 +0000,1,Brown,C,Possession,4,58,49,82, 182
+2018-10-31 02:16:16 +0000,1,Brown,C,Assist - Circle Entry,4,58,49,82, 182
+2018-10-31 02:16:16 +0000,1,Bell,GA,Possession,4,58,49,37, 191
+2018-10-31 02:16:52 +0000,0,Francis,GD,Penaly - Contact,4,58,49,37, 191
+2018-10-31 02:16:52 +0000,1,Thwaites,GS,Goal - Score,4,58,49,37, 191
+2018-10-31 02:17:21 +0000,0,Charles,C,Centre Pass,4,58,50,50, 100
+2018-10-31 02:17:21 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,4,58,50,8, 88
+2018-10-31 02:17:23 +0000,0,Charles,C,Assist - 2nd Phase,4,58,50,7, 60
+2018-10-31 02:17:29 +0000,1,Robinson,WA,Penaly - Contact,4,58,50,19, 71
+2018-10-31 02:17:29 +0000,0,Anstiss,WD,Possession,4,58,50,19, 71
+2018-10-31 02:17:48 +0000,0,Medhurst,GA,Possession,4,58,50,29, 37
+2018-10-31 02:17:50 +0000,0,Medhurst,GA,Assist - Circle Entry,4,58,50,29, 37
+2018-10-31 02:17:50 +0000,0,Fowler,GS,Goal - Score,4,58,50,47, 7
+2018-10-31 02:18:00 +0000,1,Brown,C,Centre Pass,4,59,50,50, 100
+2018-10-31 02:18:00 +0000,1,Robinson,WA,Assist - Centre Pass Rec,4,59,50,90, 126
+2018-10-31 02:18:03 +0000,1,Bell,GA,Assist - 2nd Phase,4,59,50,59, 140
+2018-10-31 02:18:18 +0000,1,Brown,C,Possession,4,59,50,15, 185
+2018-10-31 02:18:21 +0000,1,Brown,C,Assist - Circle Entry,4,59,50,15, 185
+2018-10-31 02:18:21 +0000,1,Thwaites,GS,Possession,4,59,50,44, 192
+2018-10-31 02:18:30 +0000,0,Bruce,GK,Penaly - Contact,4,59,50,44, 192
+2018-10-31 02:18:30 +0000,1,Thwaites,GS,Goal - Score,4,59,50,44, 192
+2018-10-31 02:18:43 +0000,0,Charles,C,Centre Pass,4,59,51,50, 100
+2018-10-31 02:18:43 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,4,59,51,85, 78
+2018-10-31 02:18:47 +0000,0,Colyer ,WA,Assist - 2nd Phase,4,59,51,59, 71
+2018-10-31 02:18:54 +0000,1,Bell,GA,Penaly - Contact,4,59,51,59, 71
+2018-10-31 02:18:54 +0000,0,Colyer ,WA,Possession,4,59,51,59, 71
+2018-10-31 02:18:59 +0000,0,Francis,GD,Possession,4,59,51,83, 91
+2018-10-31 02:19:01 +0000,0,Medhurst,GA,Possession,4,59,51,89, 60
+2018-10-31 02:19:05 +0000,0,Colyer ,WA,Possession,4,59,51,56, 68
+2018-10-31 02:19:08 +0000,0,Charles,C,Possession,4,59,51,63, 48
+2018-10-31 02:19:10 +0000,1,Brown,C,Penaly - Contact,4,59,51,63, 48
+2018-10-31 02:19:10 +0000,0,Charles,C,Possession,4,59,51,63, 48
+2018-10-31 02:19:17 +0000,0,Charles,C,Assist - Circle Entry,4,59,51,63, 48
+2018-10-31 02:19:17 +0000,0,Fowler,GS,Goal - Score,4,59,51,56, 3
+2018-10-31 02:19:26 +0000,1,Brown,C,Centre Pass,4,60,51,50, 100
+2018-10-31 02:19:26 +0000,1,Robinson,WA,Assist - Centre Pass Rec,4,60,51,80, 116
+2018-10-31 02:19:54 +0000,1,Thwaites,GS,Assist - 2nd Phase,4,60,51,80, 175
+2018-10-31 02:19:58 +0000,1,Brown,C,Possession,4,60,51,15, 184
+2018-10-31 02:20:01 +0000,1,Brown,C,Assist - Circle Entry,4,60,51,15, 184
+2018-10-31 02:20:01 +0000,1,Bell,GA,Goal - Miss,4,60,51,47, 176
+2018-10-31 02:20:07 +0000,0,Bruce,GK,Throw In,4,60,51,50, 192
+2018-10-31 02:20:15 +0000,0,Francis,GD,Possession,4,60,51,70, 167
+2018-10-31 02:20:21 +0000,0,Anstiss,WD,Possession,4,60,51,35, 147
+2018-10-31 02:20:25 +0000,0,Charles,C,Possession,4,60,51,58, 137
+2018-10-31 02:20:29 +0000,0,Anstiss,WD,Possession,4,60,51,7, 101
+2018-10-31 02:20:40 +0000,0,Charles,C,Possession,4,60,51,23, 68
+2018-10-31 02:20:43 +0000,0,Medhurst,GA,Possession,4,60,51,4, 47
+2018-10-31 02:20:48 +0000,0,Medhurst,GA,Assist - Circle Entry,4,60,51,4, 47
+2018-10-31 02:20:48 +0000,0,Fowler,GS,Possession,4,60,51,50, 15
+2018-10-31 02:20:51 +0000,1,Garrett,GD,Penaly - Contact,4,60,51,50, 15
+2018-10-31 02:20:51 +0000,0,Fowler,GS,Goal - Score,4,60,51,50, 15
+2018-10-31 02:21:00 +0000,0,Charles,C,Centre Pass,4,61,51,50, 100
+2018-10-31 02:21:00 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,61,51,64, 80
+2018-10-31 02:21:02 +0000,0,Anstiss,WD,Assist - 2nd Phase,4,61,51,69, 98
+2018-10-31 02:21:04 +0000,0,Medhurst,GA,Possession,4,61,51,89, 61
+2018-10-31 02:21:09 +0000,0,Medhurst,GA,Assist - Circle Entry,4,61,51,89, 61
+2018-10-31 02:21:09 +0000,0,Fowler,GS,Goal - Score,4,61,51,56, 8
+2018-10-31 02:21:20 +0000,1,Brown,C,Centre Pass,4,62,51,50, 100
+2018-10-31 02:21:20 +0000,1,Robinson,WA,Assist - Centre Pass Rec,4,62,51,91, 124
+2018-10-31 02:21:22 +0000,1,Bell,GA,Assist - 2nd Phase,4,62,51,85, 167
+2018-10-31 02:21:24 +0000,1,Bell,GA,Assist - Circle Entry,4,62,51,85, 167
+2018-10-31 02:21:24 +0000,1,Thwaites,GS,Possession,4,62,51,68, 185
+2018-10-31 02:21:27 +0000,1,Robinson,WA,Possession,4,62,51,73, 170
+2018-10-31 02:21:32 +0000,1,Robinson,WA,Assist - Circle Entry,4,62,51,73, 170
+2018-10-31 02:21:32 +0000,1,Bell,GA,Goal - Miss,4,62,51,63, 193
+2018-10-31 02:21:43 +0000,0,Francis,GD,Deflect,4,62,51,50, 197
+2018-10-31 02:21:45 +0000,1,Bell,GA,Throw In,4,62,51,45, 202
+2018-10-31 02:22:02 +0000,1,Robinson,WA,Possession,4,62,51,45, 161
+2018-10-31 02:22:06 +0000,1,Robinson,WA,Assist - Circle Entry,4,62,51,45, 161
+2018-10-31 02:22:06 +0000,1,Bell,GA,Possession,4,62,51,49, 175
+2018-10-31 02:22:08 +0000,1,Robinson,WA,Possession,4,62,51,46, 161
+2018-10-31 02:22:15 +0000,0,Charles,C,Penaly - Contact,4,62,51,46, 161
+2018-10-31 02:22:15 +0000,1,Robinson,WA,Possession,4,62,51,46, 161
+2018-10-31 02:22:24 +0000,0,Bruce,GK,Penaly - Contact,4,62,51,59, 189
+2018-10-31 02:22:24 +0000,1,Thwaites,GS,Goal - Score,4,62,51,59, 189
+2018-10-31 02:22:38 +0000,0,Charles,C,Centre Pass,4,62,52,50, 100
+2018-10-31 02:22:38 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,62,52,18, 69
+2018-10-31 02:22:40 +0000,0,Charles,C,Assist - 2nd Phase,4,62,52,36, 59
+2018-10-31 02:22:47 +0000,0,Charles,C,Assist - Circle Entry,4,62,52,36, 59
+2018-10-31 02:22:48 +0000,0,Fowler,GS,Deflect,4,62,52,46, 18
+2018-10-31 02:22:53 +0000,0,Colyer ,WA,Possession,4,62,52,85, 10
+2018-10-31 02:22:58 +0000,0,Charles,C,Possession,4,62,52,83, 40
+2018-10-31 02:23:00 +0000,0,Medhurst,GA,Possession,4,62,52,30, 30
+2018-10-31 02:23:03 +0000,0,Medhurst,GA,Assist - Circle Entry,4,62,52,30, 30
+2018-10-31 02:23:19 +0000,0,Fowler,GS,Goal - Miss,4,62,52,38, 6
+2018-10-31 02:23:22 +0000,0,Fowler,GS,Loss - Bad Pass,4,62,52,50, 2
+2018-10-31 02:23:27 +0000,1,Layton,GK,Throw In,4,62,52,24, -5
+2018-10-31 02:23:35 +0000,1,Brazill,WD,Possession,4,62,52,83, 16
+2018-10-31 02:23:37 +0000,1,Layton,GK,Possession,4,62,52,86, 56
+2018-10-31 02:23:42 +0000,1,Robinson,WA,Possession,4,62,52,27, 123
+2018-10-31 02:23:52 +0000,1,Robinson,WA,Assist - Circle Entry,4,62,52,27, 123
+2018-10-31 02:23:52 +0000,1,Bell,GA,Possession,4,62,52,44, 187
+2018-10-31 02:24:01 +0000,0,Bruce,GK,Penaly - Contact,4,62,52,44, 187
+2018-10-31 02:24:01 +0000,1,Bell,GA,Goal - Score,4,62,52,44, 187
+2018-10-31 02:24:13 +0000,1,Brown,C,Centre Pass,4,62,53,50, 100
+2018-10-31 02:24:13 +0000,1,Bell,GA,Assist - Centre Pass Rec,4,62,53,49, 116
+2018-10-31 02:24:15 +0000,1,Robinson,WA,Assist - 2nd Phase,4,62,53,91, 178
+2018-10-31 02:24:19 +0000,1,Robinson,WA,Assist - Circle Entry,4,62,53,91, 178
+2018-10-31 02:24:19 +0000,1,Bell,GA,Possession,4,62,53,66, 178
+2018-10-31 02:24:21 +0000,1,Brown,C,Possession,4,62,53,57, 163
+2018-10-31 02:24:27 +0000,1,Brown,C,Assist - Circle Entry,4,62,53,57, 163
+2018-10-31 02:24:27 +0000,1,Thwaites,GS,Possession,4,62,53,57, 180
+2018-10-31 02:24:35 +0000,1,Bell,GA,Possession,4,62,53,41, 191
+2018-10-31 02:24:38 +0000,0,Francis,GD,Penaly - Contact,4,62,53,41, 191
+2018-10-31 02:24:38 +0000,1,Bell,GA,Goal - Miss,4,62,53,41, 191
+2018-10-31 02:24:53 +0000,0,Francis,GD,Gain - Def Reb,4,62,53,50, 197
+2018-10-31 02:25:03 +0000,0,Anstiss,WD,Deflect,4,62,53,69, 114
+2018-10-31 02:25:08 +0000,1,Brazill,WD,Gain - Pick-up,4,62,53,58, 87
+2018-10-31 02:25:26 +0000,1,Brown,C,Possession,4,62,53,36, 143
+2018-10-31 02:25:28 +0000,1,Bell,GA,Possession,4,62,53,49, 163
+2018-10-31 02:25:31 +0000,1,Brown,C,Possession,4,62,53,15, 188
+2018-10-31 02:25:34 +0000,1,Brown,C,Assist - Circle Entry,4,62,53,15, 188
+2018-10-31 02:25:34 +0000,1,Thwaites,GS,Possession,4,62,53,49, 180
+2018-10-31 02:25:37 +0000,1,Robinson,WA,Possession,4,62,53,82, 183
+2018-10-31 02:25:39 +0000,1,Robinson,WA,Assist - Circle Entry,4,62,53,82, 183
+2018-10-31 02:25:39 +0000,1,Bell,GA,Possession,4,62,53,56, 181
+2018-10-31 02:25:43 +0000,1,Robinson,WA,Possession,4,62,53,84, 188
+2018-10-31 02:25:46 +0000,1,Robinson,WA,Assist - Circle Entry,4,62,53,84, 188
+2018-10-31 02:25:46 +0000,1,Thwaites,GS,Goal - Score,4,62,53,52, 186
+2018-10-31 02:26:02 +0000,0,Charles,C,Centre Pass,4,62,54,50, 100
+2018-10-31 02:26:02 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,62,54,6, 81
+2018-10-31 02:26:04 +0000,0,Medhurst,GA,Assist - 2nd Phase,4,62,54,29, 71
+2018-10-31 02:26:07 +0000,0,Anstiss,WD,Possession,4,62,54,66, 69
+2018-10-31 02:26:09 +0000,0,Charles,C,Possession,4,62,54,68, 48
+2018-10-31 02:26:13 +0000,0,Charles,C,Assist - Circle Entry,4,62,54,68, 48
+2018-10-31 02:26:13 +0000,0,Medhurst,GA,Possession,4,62,54,54, 14
+2018-10-31 02:26:16 +0000,1,Layton,GK,Penaly - Obstruction,4,62,54,54, 14
+2018-10-31 02:26:16 +0000,0,Medhurst,GA,Possession,4,62,54,54, 14
+2018-10-31 02:26:21 +0000,0,Fowler,GS,Possession,4,62,54,43, 5
+2018-10-31 02:26:22 +0000,1,Garrett,GD,Penaly - Contact,4,62,54,43, 5
+2018-10-31 02:26:22 +0000,0,Fowler,GS,Goal - Score,4,62,54,43, 5
+2018-10-31 02:26:40 +0000,0,,UNKNOWN,Timeout,4,63,54,110, 222
+2018-10-31 02:27:24 +0000,0,Anstiss,UNKNOWN,Interchange - Eagland,4,63,54,
+2018-10-31 02:27:43 +0000,1,Brown,C,Centre Pass,4,63,54,50, 100
+2018-10-31 02:27:43 +0000,1,Robinson,WA,Assist - Centre Pass Rec,4,63,54,64, 115
+2018-10-31 02:27:46 +0000,1,Bell,GA,Assist - 2nd Phase,4,63,54,88, 143
+2018-10-31 02:27:51 +0000,1,Brown,C,Possession,4,63,54,49, 162
+2018-10-31 02:27:54 +0000,1,Brown,C,Assist - Circle Entry,4,63,54,49, 162
+2018-10-31 02:27:54 +0000,1,Thwaites,GS,Goal - Score,4,63,54,48, 178
+2018-10-31 02:28:04 +0000,0,Charles,C,Centre Pass,4,63,55,50, 100
+2018-10-31 02:28:04 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,63,55,81, 84
+2018-10-31 02:28:06 +0000,0,Francis,GD,Assist - 2nd Phase,4,63,55,79, 119
+2018-10-31 02:28:09 +0000,0,Eagland,WD,Possession,4,63,55,84, 86
+2018-10-31 02:28:14 +0000,0,Charles,C,Possession,4,63,55,61, 80
+2018-10-31 02:28:17 +0000,0,Eagland,WD,Possession,4,63,55,39, 76
+2018-10-31 02:28:20 +0000,0,Medhurst,GA,Possession,4,63,55,10, 21
+2018-10-31 02:28:22 +0000,0,Medhurst,GA,Assist - Circle Entry,4,63,55,10, 21
+2018-10-31 02:28:22 +0000,0,Fowler,GS,Goal - Miss,4,63,55,49, 21
+2018-10-31 02:28:33 +0000,1,Layton,GK,Gain - Def Reb,4,63,55,50, 2
+2018-10-31 02:28:35 +0000,0,Medhurst,GA,Gain - Inter,4,63,55,37, 4
+2018-10-31 02:28:43 +0000,0,Fowler,GS,Goal - Score,4,63,55,53, 3
+2018-10-31 02:28:53 +0000,1,Brown,C,Centre Pass,4,64,55,50, 100
+2018-10-31 02:28:53 +0000,1,Garrett,GD,Assist - Centre Pass Rec,4,64,55,96, 111
+2018-10-31 02:28:56 +0000,1,Robinson,WA,Assist - 2nd Phase,4,64,55,87, 137
+2018-10-31 02:29:00 +0000,1,Robinson,WA,Assist - Circle Entry,4,64,55,87, 137
+2018-10-31 02:29:00 +0000,1,Bell,GA,Possession,4,64,55,31, 181
+2018-10-31 02:29:09 +0000,1,Thwaites,GS,Goal - Miss,4,64,55,45, 193
+2018-10-31 02:29:13 +0000,0,Francis,GD,Gain - Def Reb,4,64,55,50, 197
+2018-10-31 02:29:14 +0000,0,Bruce,GK,Possession,4,64,55,42, 192
+2018-10-31 02:29:18 +0000,0,Francis,GD,Possession,4,64,55,87, 179
+2018-10-31 02:29:21 +0000,0,Medhurst,GA,Possession,4,64,55,85, 105
+2018-10-31 02:29:23 +0000,0,Eagland,WD,Possession,4,64,55,35, 78
+2018-10-31 02:29:28 +0000,0,Colyer ,WA,Possession,4,64,55,21, 62
+2018-10-31 02:29:32 +0000,0,Francis,GD,Possession,4,64,55,25, 99
+2018-10-31 02:29:34 +0000,0,Medhurst,GA,Possession,4,64,55,71, 75
+2018-10-31 02:29:39 +0000,0,Colyer ,WA,Possession,4,64,55,45, 57
+2018-10-31 02:29:43 +0000,0,Colyer ,WA,Assist - Circle Entry,4,64,55,45, 57
+2018-10-31 02:29:44 +0000,0,Fowler,GS,Goal - Miss,4,64,55,41, 10
+2018-10-31 02:29:49 +0000,0,Fowler,GS,Assist - Attack Rebound,4,64,55,50, 2
+2018-10-31 02:29:50 +0000,0,Fowler,GS,Goal - Score,4,64,55,41, 10
+2018-10-31 02:29:57 +0000,0,Charles,C,Centre Pass,4,65,55,50, 100
+2018-10-31 02:29:57 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,4,65,55,83, 74
+2018-10-31 02:30:00 +0000,0,Colyer ,WA,Assist - 2nd Phase,4,65,55,85, 15
+2018-10-31 02:30:02 +0000,0,Colyer ,WA,Assist - Circle Entry,4,65,55,85, 15
+2018-10-31 02:30:02 +0000,0,Fowler,GS,Goal - Score,4,65,55,59, 3
+2018-10-31 02:30:13 +0000,1,Brown,C,Centre Pass,4,66,55,50, 100
+2018-10-31 02:30:13 +0000,1,Brazill,WD,Assist - Centre Pass Rec,4,66,55,8, 112
+2018-10-31 02:30:16 +0000,1,Bell,GA,Assist - 2nd Phase,4,66,55,5, 152
+2018-10-31 02:30:17 +0000,1,Brown,C,Possession,4,66,55,11, 190
+2018-10-31 02:30:20 +0000,1,Brown,C,Assist - Circle Entry,4,66,55,11, 190
+2018-10-31 02:30:27 +0000,0,Bruce,GK,Deflect,4,66,55,28, 194
+2018-10-31 02:30:27 +0000,1,Bell,GA,Throw In,4,66,55,27, 205
+2018-10-31 02:30:41 +0000,0,Charles,C,Penaly - Contact,4,66,55,17, 184
+2018-10-31 02:30:41 +0000,1,Brown,C,Possession,4,66,55,17, 184
+2018-10-31 02:30:50 +0000,1,Brown,C,Assist - Circle Entry,4,66,55,17, 184
+2018-10-31 02:30:50 +0000,1,Bell,GA,Goal - Score,4,66,55,56, 182
+2018-10-31 02:31:02 +0000,0,Charles,C,Centre Pass,4,66,56,50, 100
+2018-10-31 02:31:02 +0000,0,Colyer ,WA,Assist - Centre Pass Rec,4,66,56,34, 81
+2018-10-31 02:31:05 +0000,0,Charles,C,Assist - 2nd Phase,4,66,56,51, 71
+2018-10-31 02:31:07 +0000,0,Fowler,GS,Possession,4,66,56,70, 30
+2018-10-31 02:31:09 +0000,0,,UNKNOWN,Possession,4,66,56,57, 49
+2018-10-31 02:31:12 +0000,1,Brazill,WD,Gain - Inter,4,66,56,28, 36
+2018-10-31 02:31:18 +0000,1,Layton,GK,Possession,4,66,56,51, 57
+2018-10-31 02:31:23 +0000,1,Garrett,GD,Possession,4,66,56,29, 103
+2018-10-31 02:31:26 +0000,1,Brown,C,Possession,4,66,56,34, 139
+2018-10-31 02:31:30 +0000,1,Brown,C,Assist - Circle Entry,4,66,56,34, 139
+2018-10-31 02:31:30 +0000,1,Bell,GA,Loss - Bad Pass,4,66,56,35, 191
+2018-10-31 02:31:34 +0000,0,Bruce,GK,Throw In,4,66,56,37, 201
+2018-10-31 02:31:39 +0000,0,Eagland,WD,Possession,4,66,56,63, 164
+2018-10-31 02:31:45 +0000,0,Charles,C,Possession,4,66,56,45, 144
+2018-10-31 02:31:49 +0000,0,Francis,GD,Possession,4,66,56,5, 127
+2018-10-31 02:31:53 +0000,1,Brown,C,Deflect,4,66,56,4, 97
+2018-10-31 02:31:53 +0000,0,Francis,GD,Throw In,4,66,56,-7, 90
+2018-10-31 02:32:01 +0000,0,Colyer ,WA,Possession,4,66,56,15, 86
+2018-10-31 02:32:06 +0000,1,,UNKNOWN,Penaly - Contact,4,66,56,15, 86
+2018-10-31 02:32:06 +0000,0,Colyer ,WA,Possession,4,66,56,15, 86
+2018-10-31 02:32:21 +0000,1,Bell,GA,Deflect,4,66,56,15, 77
+2018-10-31 02:32:21 +0000,0,Colyer ,WA,Throw In,4,66,56,-5, 56
+2018-10-31 02:32:36 +0000,0,Charles,C,Possession,4,66,56,69, 28
+2018-10-31 02:32:39 +0000,0,Charles,C,Assist - Circle Entry,4,66,56,69, 28
+2018-10-31 02:32:39 +0000,0,Medhurst,GA,Possession,4,66,56,62, 14
+2018-10-31 02:32:41 +0000,0,Charles,C,Possession,4,66,56,72, 27
+2018-10-31 02:32:43 +0000,0,Charles,C,Assist - Circle Entry,4,66,56,72, 27
+2018-10-31 02:32:44 +0000,0,Medhurst,GA,Goal - Score,4,66,56,57, 7
+2018-10-31 02:32:52 +0000,1,Brown,C,Centre Pass,4,67,56,50, 100
+2018-10-31 02:32:52 +0000,1,Brazill,WD,Assist - Centre Pass Rec,4,67,56,49, 128
+2018-10-31 02:32:57 +0000,0,Eagland,WD,Penaly - Contact,4,67,56,51, 150
+2018-10-31 02:32:57 +0000,1,Robinson,WA,Assist - 2nd Phase,4,67,56,51, 150
+2018-10-31 02:33:04 +0000,1,Robinson,WA,Assist - Circle Entry,4,67,56,51, 150
+2018-10-31 02:33:05 +0000,1,Thwaites,GS,Possession,4,67,56,45, 181
+2018-10-31 02:33:08 +0000,0,Francis,GD,Penaly - Contact,4,67,56,45, 181
+2018-10-31 02:33:08 +0000,1,Thwaites,GS,Goal - Score,4,67,56,45, 181
+2018-10-31 02:33:19 +0000,0,Charles,C,Centre Pass,4,67,57,50, 100
+2018-10-31 02:33:19 +0000,0,Medhurst,GA,Assist - Centre Pass Rec,4,67,57,40, 77
+2018-10-31 02:35:06 +0000,0,Francis,GD,Assist - 2nd Phase,4,67,57,25, 67
+2018-10-31 02:35:38 +0000,1,Brazill,WD,Deflect,4,67,57,46, 32
+2018-10-31 02:35:39 +0000,0,Fowler,GS,Goal - Score,4,67,57,45, 3

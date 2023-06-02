@@ -1,0 +1,1667 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-11-16 10:49:25 +0000,1,Scherian ,C,Centre Pass,1,0,0,50, 100
+2018-11-16 10:49:25 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,0,0,36, 123
+2018-11-16 10:49:27 +0000,1,Wood,GA,Assist - 2nd Phase,1,0,0,48, 127
+2018-11-16 10:49:29 +0000,1,Browne,WA,Possession,1,0,0,63, 142
+2018-11-16 10:49:31 +0000,1,Browne,WA,Possession,1,0,0,42, 152
+2018-11-16 10:49:33 +0000,1,Scherian ,C,Possession,1,0,0,56, 161
+2018-11-16 10:49:37 +0000,1,Scherian ,C,Assist - Circle Entry,1,0,0,56, 161
+2018-11-16 10:49:37 +0000,1,Bassett,GS,Goal - Score,1,0,0,50, 190
+2018-11-16 10:49:47 +0000,0,Proud,C,Centre Pass,1,0,1,50, 100
+2018-11-16 10:49:47 +0000,1,McAuliffe,WD,Penaly - Contact on CP,1,0,1,47, 73
+2018-11-16 10:49:47 +0000,0,McCulloch,WD,Possession,1,0,1,47, 73
+2018-11-16 10:49:52 +0000,0,Hadley,WA,Assist - 2nd Phase,1,0,1,18, 37
+2018-11-16 10:49:54 +0000,0,Housby ,GA,Possession,1,0,1,12, 13
+2018-11-16 10:50:00 +0000,0,Housby ,GA,Assist - Circle Entry,1,0,1,12, 13
+2018-11-16 10:50:00 +0000,0,Wallace,GS,Possession,1,0,1,49, 9
+2018-11-16 10:50:06 +0000,1,Mentor,GK,Penaly - Contact,1,0,1,49, 9
+2018-11-16 10:50:06 +0000,0,Wallace,GS,Goal - Score,1,0,1,49, 9
+2018-11-16 10:50:27 +0000,1,Scherian ,C,Centre Pass,1,1,1,50, 100
+2018-11-16 10:50:27 +0000,1,Wood,GA,Loss - Break,1,1,1,56, 132
+2018-11-16 10:50:30 +0000,0,Turner,GD,Possession,1,1,1,55, 133
+2018-11-16 10:50:35 +0000,0,Proud,C,Possession,1,1,1,83, 120
+2018-11-16 10:50:37 +0000,0,Turner,GD,Possession,1,1,1,55, 115
+2018-11-16 10:50:39 +0000,0,McCulloch,WD,Possession,1,1,1,19, 93
+2018-11-16 10:50:47 +0000,1,Pretorius ,GD,Penaly - Contact,1,1,1,28, 72
+2018-11-16 10:50:47 +0000,0,Turner,GD,Possession,1,1,1,28, 72
+2018-11-16 10:50:56 +0000,0,Proud,C,Possession,1,1,1,14, 41
+2018-11-16 10:50:58 +0000,0,Housby ,GA,Possession,1,1,1,17, 14
+2018-11-16 10:51:10 +0000,0,Proud,C,Possession,1,1,1,39, 35
+2018-11-16 10:51:12 +0000,0,Proud,C,Assist - Circle Entry,1,1,1,39, 35
+2018-11-16 10:51:12 +0000,0,Housby ,GA,Goal - Score,1,1,1,35, 13
+2018-11-16 10:51:19 +0000,0,Proud,C,Centre Pass,1,2,1,50, 100
+2018-11-16 10:51:19 +0000,0,Turner,GD,Assist - Centre Pass Rec,1,2,1,15, 96
+2018-11-16 10:51:22 +0000,0,McCulloch,WD,Assist - 2nd Phase,1,2,1,31, 77
+2018-11-16 10:51:26 +0000,0,Hadley,WA,Possession,1,2,1,27, 70
+2018-11-16 10:51:29 +0000,1,Scherian ,C,Penaly - Contact,1,2,1,27, 70
+2018-11-16 10:51:29 +0000,0,McCulloch,WD,Possession,1,2,1,27, 70
+2018-11-16 10:51:35 +0000,0,Proud,C,Possession,1,2,1,23, 34
+2018-11-16 10:51:37 +0000,0,Proud,C,Assist - Circle Entry,1,2,1,23, 34
+2018-11-16 10:51:37 +0000,0,Wallace,GS,Possession,1,2,1,37, 24
+2018-11-16 10:51:39 +0000,0,Proud,C,Possession,1,2,1,35, 35
+2018-11-16 10:51:42 +0000,0,Proud,C,Assist - Circle Entry,1,2,1,35, 35
+2018-11-16 10:51:42 +0000,0,Wallace,GS,Possession,1,2,1,39, 20
+2018-11-16 10:51:44 +0000,0,Proud,C,Possession,1,2,1,14, 34
+2018-11-16 10:51:47 +0000,0,Proud,C,Assist - Circle Entry,1,2,1,14, 34
+2018-11-16 10:51:47 +0000,0,Housby ,GA,Possession,1,2,1,59, 6
+2018-11-16 10:51:48 +0000,1,Mentor,GK,Penaly - Contact,1,2,1,59, 6
+2018-11-16 10:51:48 +0000,0,Housby ,GA,Goal - Score,1,2,1,59, 6
+2018-11-16 10:51:59 +0000,1,Scherian ,C,Centre Pass,1,3,1,50, 100
+2018-11-16 10:51:59 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,3,1,30, 121
+2018-11-16 10:52:01 +0000,1,Wood,GA,Assist - 2nd Phase,1,3,1,54, 130
+2018-11-16 10:52:03 +0000,1,Scherian ,C,Possession,1,3,1,28, 154
+2018-11-16 10:52:05 +0000,1,Browne,WA,Possession,1,3,1,48, 145
+2018-11-16 10:52:08 +0000,0,McCulloch,WD,Penaly - Contact,1,3,1,48, 166
+2018-11-16 10:52:08 +0000,1,Scherian ,C,Possession,1,3,1,48, 166
+2018-11-16 10:52:18 +0000,0,Turner,GD,Gain - Inter,1,3,1,60, 177
+2018-11-16 10:52:18 +0000,0,Proud,C,Possession,1,3,1,62, 165
+2018-11-16 10:52:32 +0000,0,Klau ,GK,Possession,1,3,1,22, 159
+2018-11-16 10:52:56 +0000,0,McCulloch,WD,Possession,1,3,1,19, 125
+2018-11-16 10:52:58 +0000,0,Turner,GD,Possession,1,3,1,59, 132
+2018-11-16 10:53:01 +0000,0,Proud,C,Possession,1,3,1,89, 82
+2018-11-16 10:53:03 +0000,0,Turner,GD,Possession,1,3,1,69, 101
+2018-11-16 10:53:05 +0000,0,McCulloch,WD,Possession,1,3,1,25, 86
+2018-11-16 10:53:07 +0000,0,Hadley,WA,Possession,1,3,1,24, 60
+2018-11-16 10:53:08 +0000,0,Proud,C,Possession,1,3,1,56, 58
+2018-11-16 10:53:17 +0000,1,Pretorius ,GD,Deflect,1,3,1,91, 59
+2018-11-16 10:53:17 +0000,1,Wood,GA,Deflect,1,3,1,95, 126
+2018-11-16 10:53:25 +0000,0,Turner,GD,Throw In,1,3,1,103, 132
+2018-11-16 10:53:37 +0000,0,Proud,C,Possession,1,3,1,90, 76
+2018-11-16 10:53:39 +0000,1,Scherian ,C,Penaly - Contact,1,3,1,90, 76
+2018-11-16 10:53:39 +0000,0,Turner,GD,Possession,1,3,1,90, 76
+2018-11-16 10:53:45 +0000,0,Proud,C,Possession,1,3,1,90, 48
+2018-11-16 10:53:48 +0000,0,Hadley,WA,Possession,1,3,1,50, 40
+2018-11-16 10:54:49 +0000,1,Pretorius ,GD,Deflect,1,3,1,53, 6
+2018-11-16 10:54:49 +0000,0,Housby ,GA,Throw In,1,3,1,61, -2
+2018-11-16 10:54:56 +0000,0,Proud,C,Possession,1,3,1,84, 17
+2018-11-16 10:54:58 +0000,0,Proud,C,Assist - Circle Entry,1,3,1,84, 17
+2018-11-16 10:54:58 +0000,0,Wallace,GS,Goal - Score,1,3,1,63, 15
+2018-11-16 10:55:10 +0000,0,Proud,C,Centre Pass,1,4,1,50, 100
+2018-11-16 10:55:10 +0000,0,Hadley,WA,Assist - Centre Pass Rec,1,4,1,53, 80
+2018-11-16 10:55:12 +0000,0,Housby ,GA,Assist - 2nd Phase,1,4,1,77, 40
+2018-11-16 10:55:15 +0000,0,Housby ,GA,Assist - Circle Entry,1,4,1,77, 40
+2018-11-16 10:55:15 +0000,0,Wallace,GS,Possession,1,4,1,54, 24
+2018-11-16 10:55:16 +0000,0,Hadley,WA,Possession,1,4,1,17, 18
+2018-11-16 10:55:18 +0000,0,Hadley,WA,Assist - Circle Entry,1,4,1,17, 18
+2018-11-16 10:55:18 +0000,0,Wallace,GS,Goal - Score,1,4,1,56, 8
+2018-11-16 10:55:24 +0000,1,Scherian ,C,Centre Pass,1,5,1,50, 100
+2018-11-16 10:55:24 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,1,5,1,24, 95
+2018-11-16 10:55:26 +0000,1,Scherian ,C,Assist - 2nd Phase,1,5,1,35, 102
+2018-11-16 10:55:28 +0000,1,Wood,GA,Possession,1,5,1,42, 117
+2018-11-16 10:55:30 +0000,1,Pretorius ,GD,Possession,1,5,1,73, 99
+2018-11-16 10:55:31 +0000,1,Browne,WA,Possession,1,5,1,95, 117
+2018-11-16 10:55:35 +0000,1,Pretorius ,GD,Possession,1,5,1,78, 113
+2018-11-16 10:55:36 +0000,1,Scherian ,C,Possession,1,5,1,83, 130
+2018-11-16 10:55:38 +0000,1,Browne,WA,Possession,1,5,1,92, 148
+2018-11-16 10:55:41 +0000,1,Wood,GA,Possession,1,5,1,86, 180
+2018-11-16 10:55:44 +0000,1,Browne,WA,Possession,1,5,1,77, 159
+2018-11-16 10:55:46 +0000,1,McAuliffe,WD,Possession,1,5,1,74, 132
+2018-11-16 10:55:49 +0000,1,Browne,WA,Possession,1,5,1,58, 162
+2018-11-16 10:55:51 +0000,1,Browne,WA,Assist - Circle Entry,1,5,1,58, 162
+2018-11-16 10:55:52 +0000,1,Bassett,GS,Possession,1,5,1,60, 184
+2018-11-16 10:55:53 +0000,0,Klau ,GK,Penaly - Contact,1,5,1,60, 184
+2018-11-16 10:55:53 +0000,1,Wood,GA,Possession,1,5,1,60, 184
+2018-11-16 10:55:56 +0000,1,Bassett,GS,Goal - Score,1,5,1,57, 195
+2018-11-16 10:56:05 +0000,0,Proud,C,Centre Pass,1,5,2,50, 100
+2018-11-16 10:56:05 +0000,0,Hadley,WA,Assist - Centre Pass Rec,1,5,2,70, 83
+2018-11-16 10:56:08 +0000,0,Housby ,GA,Assist - 2nd Phase,1,5,2,89, 25
+2018-11-16 10:56:10 +0000,0,Proud,C,Possession,1,5,2,36, 34
+2018-11-16 10:56:12 +0000,0,Proud,C,Assist - Circle Entry,1,5,2,36, 34
+2018-11-16 10:56:12 +0000,0,Wallace,GS,Goal - Score,1,5,2,56, 16
+2018-11-16 10:56:21 +0000,1,Scherian ,C,Centre Pass,1,6,2,50, 100
+2018-11-16 10:56:21 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,6,2,88, 122
+2018-11-16 10:56:23 +0000,1,Scherian ,C,Assist - 2nd Phase,1,6,2,73, 141
+2018-11-16 10:56:25 +0000,0,Proud,C,Penaly - Obstruction,1,6,2,73, 141
+2018-11-16 10:56:25 +0000,1,Scherian ,C,Possession,1,6,2,73, 141
+2018-11-16 10:57:07 +0000,1,Wood,GA,Possession,1,6,2,81, 185
+2018-11-16 10:57:09 +0000,1,Scherian ,C,Possession,1,6,2,64, 170
+2018-11-16 10:57:12 +0000,1,Scherian ,C,Assist - Circle Entry,1,6,2,64, 170
+2018-11-16 10:57:12 +0000,1,Wood,GA,Goal - Miss,1,6,2,64, 189
+2018-11-16 10:57:23 +0000,1,Bassett,GS,Deflect,1,6,2,50, 197
+2018-11-16 10:57:24 +0000,0,Klau ,GK,Throw In,1,6,2,61, 205
+2018-11-16 10:57:41 +0000,1,Wood,GA,Penaly - Contact,1,6,2,83, 166
+2018-11-16 10:57:41 +0000,0,Klau ,GK,Possession,1,6,2,83, 166
+2018-11-16 10:57:49 +0000,0,Turner,GD,Possession,1,6,2,94, 145
+2018-11-16 10:57:52 +0000,0,Proud,C,Possession,1,6,2,17, 103
+2018-11-16 10:57:53 +0000,0,Housby ,GA,Possession,1,6,2,33, 82
+2018-11-16 10:57:55 +0000,0,Hadley,WA,Possession,1,6,2,44, 55
+2018-11-16 10:57:57 +0000,0,Proud,C,Possession,1,6,2,77, 29
+2018-11-16 10:57:59 +0000,0,Proud,C,Assist - Circle Entry,1,6,2,77, 29
+2018-11-16 10:58:00 +0000,0,Wallace,GS,Goal - Score,1,6,2,40, 7
+2018-11-16 10:58:07 +0000,0,Proud,C,Centre Pass,1,7,2,50, 100
+2018-11-16 10:58:08 +0000,0,Housby ,GA,Assist - Centre Pass Rec,1,7,2,72, 72
+2018-11-16 10:58:09 +0000,0,Proud,C,Assist - 2nd Phase,1,7,2,56, 71
+2018-11-16 10:58:11 +0000,0,Wallace,GS,Possession,1,7,2,26, 31
+2018-11-16 10:58:14 +0000,0,Proud,C,Possession,1,7,2,37, 36
+2018-11-16 10:58:16 +0000,0,Proud,C,Assist - Circle Entry,1,7,2,37, 36
+2018-11-16 10:58:16 +0000,0,Wallace,GS,Possession,1,7,2,30, 19
+2018-11-16 10:58:18 +0000,0,Hadley,WA,Possession,1,7,2,78, 25
+2018-11-16 10:58:20 +0000,0,Hadley,WA,Assist - Circle Entry,1,7,2,78, 25
+2018-11-16 10:58:20 +0000,0,Wallace,GS,Possession,1,7,2,40, 13
+2018-11-16 10:58:21 +0000,1,Pretorius ,GD,Penaly - Contact,1,7,2,40, 13
+2018-11-16 10:58:22 +0000,0,Wallace,GS,Possession,1,7,2,40, 13
+2018-11-16 10:58:25 +0000,0,Housby ,GA,Goal - Score,1,7,2,56, 7
+2018-11-16 10:58:31 +0000,1,,UNKNOWN,Timeout,1,8,2,-10, -22
+2018-11-16 10:59:22 +0000,1,Scherian ,C,Centre Pass,1,8,2,50, 100
+2018-11-16 10:59:22 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,8,2,86, 124
+2018-11-16 10:59:24 +0000,1,Scherian ,C,Assist - 2nd Phase,1,8,2,70, 142
+2018-11-16 10:59:26 +0000,1,Browne,WA,Possession,1,8,2,88, 140
+2018-11-16 10:59:28 +0000,1,Scherian ,C,Possession,1,8,2,63, 130
+2018-11-16 10:59:30 +0000,0,McCulloch,WD,Penaly - Contact,1,8,2,63, 159
+2018-11-16 10:59:31 +0000,1,Browne,WA,Possession,1,8,2,63, 159
+2018-11-16 10:59:34 +0000,1,Browne,WA,Assist - Circle Entry,1,8,2,63, 159
+2018-11-16 10:59:34 +0000,1,Wood,GA,Possession,1,8,2,49, 176
+2018-11-16 10:59:36 +0000,1,Browne,WA,Possession,1,8,2,49, 164
+2018-11-16 10:59:39 +0000,1,Browne,WA,Assist - Circle Entry,1,8,2,49, 164
+2018-11-16 10:59:39 +0000,1,Wood,GA,Possession,1,8,2,47, 183
+2018-11-16 10:59:40 +0000,0,Turner,GD,Penaly - Contact,1,8,2,47, 183
+2018-11-16 10:59:40 +0000,1,Wood,GA,Goal - Score,1,8,2,47, 183
+2018-11-16 10:59:56 +0000,0,Proud,C,Centre Pass,1,8,3,50, 100
+2018-11-16 10:59:56 +0000,0,Hadley,WA,Assist - Centre Pass Rec,1,8,3,70, 77
+2018-11-16 10:59:58 +0000,0,Housby ,GA,Assist - 2nd Phase,1,8,3,20, 34
+2018-11-16 11:00:00 +0000,0,Hadley,WA,Possession,1,8,3,31, 32
+2018-11-16 11:00:01 +0000,0,Hadley,WA,Assist - Circle Entry,1,8,3,31, 32
+2018-11-16 11:00:02 +0000,0,Wallace,GS,Possession,1,8,3,41, 21
+2018-11-16 11:00:03 +0000,0,Proud,C,Possession,1,8,3,78, 27
+2018-11-16 11:00:05 +0000,0,Proud,C,Assist - Circle Entry,1,8,3,78, 27
+2018-11-16 11:00:05 +0000,0,Wallace,GS,Possession,1,8,3,53, 17
+2018-11-16 11:00:07 +0000,0,Proud,C,Possession,1,8,3,76, 24
+2018-11-16 11:00:09 +0000,0,Proud,C,Assist - Circle Entry,1,8,3,76, 24
+2018-11-16 11:00:09 +0000,0,Housby ,GA,Possession,1,8,3,61, 20
+2018-11-16 11:00:11 +0000,0,Hadley,WA,Possession,1,8,3,53, 36
+2018-11-16 11:00:13 +0000,0,Hadley,WA,Assist - Circle Entry,1,8,3,53, 36
+2018-11-16 11:00:13 +0000,0,Housby ,GA,Goal - Score,1,8,3,51, 17
+2018-11-16 11:00:22 +0000,1,Scherian ,C,Centre Pass,1,9,3,50, 100
+2018-11-16 11:00:22 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,9,3,22, 128
+2018-11-16 11:00:24 +0000,1,Browne,WA,Assist - 2nd Phase,1,9,3,18, 178
+2018-11-16 11:00:26 +0000,1,Wood,GA,Possession,1,9,3,33, 165
+2018-11-16 11:00:57 +0000,1,Wood,GA,Assist - Circle Entry,1,9,3,33, 165
+2018-11-16 11:00:57 +0000,0,Klau ,GK,Gain - Tip (Deflect),1,9,3,47, 172
+2018-11-16 11:01:02 +0000,0,Turner,GD,Possession,1,9,3,43, 166
+2018-11-16 11:01:07 +0000,0,McCulloch,WD,Possession,1,9,3,35, 157
+2018-11-16 11:01:09 +0000,0,Klau ,GK,Possession,1,9,3,16, 151
+2018-11-16 11:01:11 +0000,0,McCulloch,WD,Possession,1,9,3,42, 144
+2018-11-16 11:01:14 +0000,1,Bassett,GS,Penaly - Obstruction,1,9,3,42, 144
+2018-11-16 11:01:14 +0000,0,Klau ,GK,Possession,1,9,3,42, 144
+2018-11-16 11:01:18 +0000,0,McCulloch,WD,Possession,1,9,3,20, 129
+2018-11-16 11:01:20 +0000,1,Browne,WA,Penaly - Contact,1,9,3,20, 129
+2018-11-16 11:01:20 +0000,0,McCulloch,WD,Possession,1,9,3,20, 129
+2018-11-16 11:01:27 +0000,0,Hadley,WA,Possession,1,9,3,27, 90
+2018-11-16 11:01:31 +0000,0,Proud,C,Possession,1,9,3,53, 73
+2018-11-16 11:01:35 +0000,0,Housby ,GA,Possession,1,9,3,19, 49
+2018-11-16 11:01:37 +0000,0,Housby ,GA,Assist - Circle Entry,1,9,3,19, 49
+2018-11-16 11:01:37 +0000,0,Wallace,GS,Possession,1,9,3,22, 9
+2018-11-16 11:01:39 +0000,0,Housby ,GA,Goal - Score,1,9,3,55, 7
+2018-11-16 11:01:48 +0000,0,Proud,C,Centre Pass,1,10,3,50, 100
+2018-11-16 11:01:48 +0000,0,Hadley,WA,Assist - Centre Pass Rec,1,10,3,33, 86
+2018-11-16 11:01:49 +0000,0,Housby ,GA,Assist - 2nd Phase,1,10,3,18, 32
+2018-11-16 11:01:52 +0000,0,McCulloch,WD,Possession,1,10,3,28, 72
+2018-11-16 11:01:57 +0000,0,Hadley,WA,Possession,1,10,3,38, 46
+2018-11-16 11:01:59 +0000,0,Housby ,GA,Possession,1,10,3,24, 29
+2018-11-16 11:02:03 +0000,0,Housby ,GA,Assist - Circle Entry,1,10,3,24, 29
+2018-11-16 11:02:03 +0000,0,Wallace,GS,Possession,1,10,3,39, 17
+2018-11-16 11:02:06 +0000,0,Housby ,GA,Possession,1,10,3,46, 28
+2018-11-16 11:02:07 +0000,0,Hadley,WA,Possession,1,10,3,38, 34
+2018-11-16 11:02:14 +0000,0,Hadley,WA,Assist - Circle Entry,1,10,3,38, 34
+2018-11-16 11:02:14 +0000,1,Mentor,GK,Gain - Tip (Deflect),1,10,3,43, 11
+2018-11-16 11:02:18 +0000,1,McAuliffe,WD,Possession,1,10,3,28, 31
+2018-11-16 11:02:23 +0000,1,Mentor,GK,Possession,1,10,3,9, 43
+2018-11-16 11:02:25 +0000,1,McAuliffe,WD,Possession,1,10,3,15, 62
+2018-11-16 11:02:27 +0000,1,Scherian ,C,Possession,1,10,3,7, 97
+2018-11-16 11:02:29 +0000,1,Browne,WA,Possession,1,10,3,42, 109
+2018-11-16 11:02:31 +0000,1,Wood,GA,Possession,1,10,3,84, 141
+2018-11-16 11:02:35 +0000,1,Scherian ,C,Possession,1,10,3,59, 153
+2018-11-16 11:02:37 +0000,1,Scherian ,C,Assist - Circle Entry,1,10,3,59, 153
+2018-11-16 11:02:37 +0000,1,Bassett,GS,Possession,1,10,3,62, 179
+2018-11-16 11:02:39 +0000,1,Browne,WA,Possession,1,10,3,83, 185
+2018-11-16 11:02:42 +0000,1,Browne,WA,Assist - Circle Entry,1,10,3,83, 185
+2018-11-16 11:02:42 +0000,1,Wood,GA,Possession,1,10,3,68, 191
+2018-11-16 11:02:44 +0000,1,Browne,WA,Possession,1,10,3,83, 189
+2018-11-16 11:02:46 +0000,1,Browne,WA,Assist - Circle Entry,1,10,3,83, 189
+2018-11-16 11:02:46 +0000,1,Bassett,GS,Goal - Score,1,10,3,47, 189
+2018-11-16 11:02:54 +0000,1,Scherian ,C,Centre Pass,1,10,4,50, 100
+2018-11-16 11:02:54 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,10,4,17, 124
+2018-11-16 11:02:56 +0000,1,Browne,WA,Assist - 2nd Phase,1,10,4,48, 131
+2018-11-16 11:02:58 +0000,1,Scherian ,C,Possession,1,10,4,87, 184
+2018-11-16 11:03:01 +0000,1,Scherian ,C,Assist - Circle Entry,1,10,4,87, 184
+2018-11-16 11:03:01 +0000,1,Bassett,GS,Possession,1,10,4,49, 193
+2018-11-16 11:03:03 +0000,0,Klau ,GK,Penaly - Contact,1,10,4,49, 193
+2018-11-16 11:03:03 +0000,1,Bassett,GS,Goal - Score,1,10,4,49, 193
+2018-11-16 11:03:13 +0000,0,Proud,C,Centre Pass,1,10,5,50, 100
+2018-11-16 11:03:13 +0000,0,Hadley,WA,Assist - Centre Pass Rec,1,10,5,61, 86
+2018-11-16 11:03:14 +0000,1,Scherian ,C,Penaly - Contact,1,10,5,61, 86
+2018-11-16 11:03:15 +0000,0,McCulloch,WD,Possession,1,10,5,61, 86
+2018-11-16 11:03:20 +0000,0,Hadley,WA,Possession,1,10,5,71, 31
+2018-11-16 11:03:23 +0000,0,McCulloch,WD,Possession,1,10,5,81, 72
+2018-11-16 11:03:25 +0000,0,Hadley,WA,Possession,1,10,5,87, 48
+2018-11-16 11:03:27 +0000,0,Housby ,GA,Possession,1,10,5,65, 49
+2018-11-16 11:03:28 +0000,0,Housby ,GA,Assist - Circle Entry,1,10,5,65, 49
+2018-11-16 11:03:28 +0000,0,Wallace,GS,Possession,1,10,5,45, 26
+2018-11-16 11:03:30 +0000,0,Proud,C,Possession,1,10,5,26, 31
+2018-11-16 11:03:32 +0000,0,Proud,C,Assist - Circle Entry,1,10,5,26, 31
+2018-11-16 11:03:32 +0000,0,Wallace,GS,Goal - Score,1,10,5,51, 9
+2018-11-16 11:03:37 +0000,1,Scherian ,C,Centre Pass,1,11,5,50, 100
+2018-11-16 11:03:37 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,11,5,23, 122
+2018-11-16 11:03:40 +0000,1,Scherian ,C,Assist - 2nd Phase,1,11,5,39, 161
+2018-11-16 11:04:04 +0000,1,Scherian ,C,Assist - Circle Entry,1,11,5,39, 161
+2018-11-16 11:04:04 +0000,0,Klau ,GK,Gain - Tip (Deflect),1,11,5,56, 181
+2018-11-16 11:04:09 +0000,0,McCulloch,WD,Possession,1,11,5,82, 165
+2018-11-16 11:04:13 +0000,0,Proud,C,Possession,1,11,5,71, 139
+2018-11-16 11:04:15 +0000,0,Housby ,GA,Possession,1,11,5,9, 87
+2018-11-16 11:04:18 +0000,0,McCulloch,WD,Possession,1,11,5,41, 75
+2018-11-16 11:04:20 +0000,0,Proud,C,Possession,1,11,5,48, 52
+2018-11-16 11:04:22 +0000,0,Hadley,WA,Possession,1,11,5,31, 35
+2018-11-16 11:04:26 +0000,1,Mentor,GK,Deflect,1,11,5,36, 17
+2018-11-16 11:04:26 +0000,0,Hadley,WA,Throw In,1,11,5,-6, 46
+2018-11-16 11:04:32 +0000,0,McCulloch,WD,Possession,1,11,5,91, 74
+2018-11-16 11:04:36 +0000,1,Browne,WA,Penaly - Obstruction,1,11,5,91, 74
+2018-11-16 11:04:36 +0000,0,McCulloch,WD,Possession,1,11,5,91, 74
+2018-11-16 11:05:07 +0000,0,Proud,C,Possession,1,11,5,83, 59
+2018-11-16 11:05:09 +0000,0,Housby ,GA,Possession,1,11,5,58, 38
+2018-11-16 11:05:11 +0000,0,Housby ,GA,Assist - Circle Entry,1,11,5,58, 38
+2018-11-16 11:05:11 +0000,0,Wallace,GS,Possession,1,11,5,56, 24
+2018-11-16 11:05:12 +0000,0,Proud,C,Possession,1,11,5,73, 29
+2018-11-16 11:05:14 +0000,0,Proud,C,Assist - Circle Entry,1,11,5,73, 29
+2018-11-16 11:05:15 +0000,0,Wallace,GS,Goal - Score,1,11,5,59, 9
+2018-11-16 11:05:23 +0000,0,Proud,C,Centre Pass,1,12,5,50, 100
+2018-11-16 11:05:23 +0000,0,Hadley,WA,Assist - Centre Pass Rec,1,12,5,21, 98
+2018-11-16 11:05:25 +0000,0,Housby ,GA,Assist - 2nd Phase,1,12,5,45, 62
+2018-11-16 11:05:27 +0000,0,Wallace,GS,Possession,1,12,5,69, 38
+2018-11-16 11:05:31 +0000,0,Proud,C,Possession,1,12,5,18, 29
+2018-11-16 11:05:34 +0000,0,Wallace,GS,Possession,1,12,5,45, 38
+2018-11-16 11:05:36 +0000,0,Proud,C,Possession,1,12,5,14, 17
+2018-11-16 11:05:39 +0000,0,Proud,C,Assist - Circle Entry,1,12,5,14, 17
+2018-11-16 11:05:39 +0000,0,Wallace,GS,Possession,1,12,5,38, 17
+2018-11-16 11:05:41 +0000,0,Hadley,WA,Possession,1,12,5,77, 24
+2018-11-16 11:05:44 +0000,0,Hadley,WA,Assist - Circle Entry,1,12,5,77, 24
+2018-11-16 11:05:44 +0000,0,Wallace,GS,Goal - Score,1,12,5,48, 16
+2018-11-16 11:05:53 +0000,1,Scherian ,C,Centre Pass,1,13,5,50, 100
+2018-11-16 11:05:53 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,13,5,83, 127
+2018-11-16 11:05:56 +0000,1,Scherian ,C,Assist - 2nd Phase,1,13,5,87, 187
+2018-11-16 11:05:59 +0000,1,Wood,GA,Possession,1,13,5,72, 165
+2018-11-16 11:06:01 +0000,1,Scherian ,C,Possession,1,13,5,58, 165
+2018-11-16 11:06:03 +0000,1,Browne,WA,Possession,1,13,5,18, 177
+2018-11-16 11:06:05 +0000,0,Klau ,GK,Penaly - Contact,1,13,5,43, 188
+2018-11-16 11:06:05 +0000,1,Wood,GA,Goal - Score,1,13,5,43, 188
+2018-11-16 11:06:13 +0000,0,Proud,C,Centre Pass,1,13,6,50, 100
+2018-11-16 11:06:13 +0000,0,Housby ,GA,Assist - Centre Pass Rec,1,13,6,21, 83
+2018-11-16 11:06:17 +0000,0,Proud,C,Assist - 2nd Phase,1,13,6,86, 26
+2018-11-16 11:06:19 +0000,0,Wallace,GS,Possession,1,13,6,83, 15
+2018-11-16 11:06:22 +0000,0,Hadley,WA,Possession,1,13,6,23, 25
+2018-11-16 11:06:56 +0000,0,Hadley,WA,Assist - Circle Entry,1,13,6,23, 25
+2018-11-16 11:06:56 +0000,0,Wallace,GS,Goal - Miss,1,13,6,59, 7
+2018-11-16 11:07:13 +0000,1,Pretorius ,GD,Deflect,1,13,6,47, 10
+2018-11-16 11:07:13 +0000,0,Hadley,WA,Deflect,1,13,6,33, 33
+2018-11-16 11:07:23 +0000,0,Wallace,GS,Possession,1,13,6,39, 35
+2018-11-16 11:07:30 +0000,0,Hadley,WA,Possession,1,13,6,28, 52
+2018-11-16 11:07:32 +0000,0,Turner,GD,Possession,1,13,6,28, 71
+2018-11-16 11:07:33 +0000,0,Hadley,WA,Possession,1,13,6,38, 53
+2018-11-16 11:07:35 +0000,0,Wallace,GS,Possession,1,13,6,28, 29
+2018-11-16 11:07:38 +0000,0,Proud,C,Possession,1,13,6,80, 25
+2018-11-16 11:07:39 +0000,1,Scherian ,C,Penaly - Contact,1,13,6,80, 25
+2018-11-16 11:07:39 +0000,0,Proud,C,Possession,1,13,6,80, 25
+2018-11-16 11:07:42 +0000,0,Proud,C,Assist - Circle Entry,1,13,6,80, 25
+2018-11-16 11:07:42 +0000,0,Wallace,GS,Goal - Score,1,13,6,42, 9
+2018-11-16 11:07:49 +0000,1,Scherian ,C,Centre Pass,1,14,6,50, 100
+2018-11-16 11:07:49 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,14,6,27, 120
+2018-11-16 11:07:51 +0000,1,Wood,GA,Assist - 2nd Phase,1,14,6,15, 130
+2018-11-16 11:07:55 +0000,1,Wood,GA,Assist - Circle Entry,1,14,6,15, 130
+2018-11-16 11:07:55 +0000,1,Bassett,GS,Goal - Score,1,14,6,48, 191
+2018-11-16 11:08:02 +0000,0,Proud,C,Centre Pass,1,14,7,50, 100
+2018-11-16 11:08:02 +0000,0,Housby ,GA,Assist - Centre Pass Rec,1,14,7,18, 76
+2018-11-16 11:08:05 +0000,0,Proud,C,Assist - 2nd Phase,1,14,7,79, 32
+2018-11-16 11:08:07 +0000,0,Proud,C,Assist - Circle Entry,1,14,7,79, 32
+2018-11-16 11:08:07 +0000,0,Wallace,GS,Possession,1,14,7,70, 21
+2018-11-16 11:08:09 +0000,0,Proud,C,Possession,1,14,7,77, 24
+2018-11-16 11:08:11 +0000,0,Proud,C,Assist - Circle Entry,1,14,7,77, 24
+2018-11-16 11:08:11 +0000,0,Housby ,GA,Possession,1,14,7,53, 26
+2018-11-16 11:08:13 +0000,0,Wallace,GS,Goal - Score,1,14,7,43, 6
+2018-11-16 11:08:23 +0000,1,Scherian ,C,Centre Pass,1,15,7,50, 100
+2018-11-16 11:08:23 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,1,15,7,22, 110
+2018-11-16 11:08:25 +0000,0,Hadley,WA,Penaly - Contact,1,15,7,22, 110
+2018-11-16 11:08:25 +0000,1,Pretorius ,GD,Possession,1,15,7,22, 110
+2018-11-16 11:08:52 +0000,1,McAuliffe,WD,Possession,1,15,7,46, 130
+2018-11-16 11:09:05 +0000,0,Proud,C,Penaly - Contact,1,15,7,36, 166
+2018-11-16 11:09:05 +0000,1,Scherian ,C,Possession,1,15,7,36, 166
+2018-11-16 11:09:09 +0000,1,Scherian ,C,Assist - Circle Entry,1,15,7,36, 166
+2018-11-16 11:09:09 +0000,1,Bassett,GS,Possession,1,15,7,43, 182
+2018-11-16 11:09:11 +0000,0,Klau ,GK,Penaly - Contact,1,15,7,43, 182
+2018-11-16 11:09:11 +0000,1,Wood,GA,Possession,1,15,7,43, 182
+2018-11-16 11:09:14 +0000,1,Bassett,GS,Possession,1,15,7,45, 195
+2018-11-16 11:09:15 +0000,0,Turner,GD,Penaly - Contact,1,15,7,45, 195
+2018-11-16 11:09:15 +0000,1,Bassett,GS,Goal - Score,1,15,7,45, 195
+2018-11-16 11:09:26 +0000,0,Proud,C,Centre Pass,1,15,8,50, 100
+2018-11-16 11:09:26 +0000,0,Housby ,GA,Assist - Centre Pass Rec,1,15,8,14, 79
+2018-11-16 11:09:29 +0000,1,Pretorius ,GD,Gain - Tip (Deflect),1,15,8,26, 83
+2018-11-16 11:09:33 +0000,1,Wood,GA,Possession,1,15,8,33, 108
+2018-11-16 11:09:36 +0000,1,Pretorius ,GD,Possession,1,15,8,24, 129
+2018-11-16 11:09:39 +0000,1,Wood,GA,Possession,1,15,8,27, 152
+2018-11-16 11:09:41 +0000,1,Wood,GA,Assist - Circle Entry,1,15,8,27, 152
+2018-11-16 11:09:41 +0000,1,Bassett,GS,Possession,1,15,8,37, 187
+2018-11-16 11:09:42 +0000,1,Browne,WA,Possession,1,15,8,23, 175
+2018-11-16 11:09:47 +0000,1,Browne,WA,Assist - Circle Entry,1,15,8,23, 175
+2018-11-16 11:09:47 +0000,1,Bassett,GS,Goal - Score,1,15,8,50, 186
+2018-11-16 11:09:55 +0000,1,Scherian ,C,Centre Pass,1,15,9,50, 100
+2018-11-16 11:09:55 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,1,15,9,19, 78
+2018-11-16 11:09:57 +0000,1,Scherian ,C,Assist - 2nd Phase,1,15,9,45, 78
+2018-11-16 11:09:59 +0000,1,Pretorius ,GD,Possession,1,15,9,58, 106
+2018-11-16 11:10:00 +0000,1,Wood,GA,Possession,1,15,9,73, 126
+2018-11-16 11:10:02 +0000,1,Browne,WA,Possession,1,15,9,93, 139
+2018-11-16 11:10:06 +0000,0,Hadley,WA,Penaly - Contact,1,15,9,69, 130
+2018-11-16 11:10:06 +0000,1,McAuliffe,WD,Possession,1,15,9,69, 130
+2018-11-16 11:10:11 +0000,1,Browne,WA,Possession,1,15,9,53, 150
+2018-11-16 11:10:13 +0000,1,Wood,GA,Loss - Bad Pass,1,15,9,73, 155
+2018-11-16 11:10:15 +0000,0,Klau ,GK,Throw In,1,15,9,55, 206
+2018-11-16 11:10:23 +0000,0,Turner,GD,Possession,1,15,9,92, 192
+2018-11-16 11:10:26 +0000,0,Klau ,GK,Possession,1,15,9,54, 184
+2018-11-16 11:10:28 +0000,0,McCulloch,WD,Possession,1,15,9,19, 158
+2018-11-16 11:10:31 +0000,0,Klau ,GK,Possession,1,15,9,60, 180
+2018-11-16 11:10:33 +0000,0,Proud,C,Possession,1,15,9,79, 167
+2018-11-16 11:10:35 +0000,0,Turner,GD,Possession,1,15,9,90, 143
+2018-11-16 11:10:37 +0000,0,Proud,C,Possession,1,15,9,76, 142
+2018-11-16 11:10:40 +0000,0,Klau ,GK,Possession,1,15,9,54, 175
+2018-11-16 11:10:42 +0000,0,Turner,GD,Possession,1,15,9,75, 155
+2018-11-16 11:10:44 +0000,0,McCulloch,WD,Possession,1,15,9,90, 130
+2018-11-16 11:10:48 +0000,0,Turner,GD,Possession,1,15,9,27, 89
+2018-11-16 11:10:50 +0000,0,Proud,C,Possession,1,15,9,15, 70
+2018-11-16 11:10:52 +0000,0,Turner,GD,Possession,1,15,9,23, 73
+2018-11-16 11:10:54 +0000,0,Turner,GD,Possession,1,15,9,73, 115
+2018-11-16 11:10:56 +0000,0,Hadley,WA,Possession,1,15,9,44, 92
+2018-11-16 11:10:58 +0000,0,Proud,C,Possession,1,15,9,44, 72
+2018-11-16 11:11:00 +0000,0,Hadley,WA,Possession,1,15,9,74, 36
+2018-11-16 11:11:05 +0000,1,McAuliffe,WD,Deflect,1,15,9,52, 40
+2018-11-16 11:11:05 +0000,0,Hadley,WA,Possession,1,15,9,45, 60
+2018-11-16 11:11:10 +0000,0,Hadley,WA,Assist - Circle Entry,1,15,9,45, 60
+2018-11-16 11:11:10 +0000,0,Housby ,GA,Possession,1,15,9,49, 32
+2018-11-16 11:11:15 +0000,0,Proud,C,Possession,1,15,9,28, 28
+2018-11-16 11:11:17 +0000,0,Housby ,GA,Possession,1,15,9,15, 8
+2018-11-16 11:11:21 +0000,0,Proud,C,Possession,1,15,9,35, 34
+2018-11-16 11:11:23 +0000,0,Proud,C,Assist - Circle Entry,1,15,9,35, 34
+2018-11-16 11:11:23 +0000,0,Wallace,GS,Goal - Score,1,15,9,47, 19
+2018-11-16 11:11:29 +0000,0,Proud,C,Centre Pass,1,16,9,50, 100
+2018-11-16 11:11:29 +0000,0,Hadley,WA,Assist - Centre Pass Rec,1,16,9,72, 76
+2018-11-16 11:11:31 +0000,0,Housby ,GA,Assist - 2nd Phase,1,16,9,19, 56
+2018-11-16 11:11:33 +0000,0,Proud,C,Possession,1,16,9,44, 59
+2018-11-16 11:11:35 +0000,1,Scherian ,C,Penaly - Contact,1,16,9,44, 59
+2018-11-16 11:11:35 +0000,0,Proud,C,Possession,1,16,9,44, 59
+2018-11-16 11:11:38 +0000,0,Housby ,GA,Possession,1,16,9,44, 34
+2018-11-16 11:12:29 +0000,0,Housby ,GA,Assist - Circle Entry,1,16,9,44, 34
+2018-11-16 11:12:29 +0000,0,Wallace,GS,Goal - Score,1,16,9,45, 7
+2018-11-16 11:12:36 +0000,1,Scherian ,C,Centre Pass,1,17,9,50, 100
+2018-11-16 11:12:36 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,17,9,70, 130
+2018-11-16 11:12:40 +0000,0,McCulloch,WD,Penaly - Obstruction,1,17,9,68, 136
+2018-11-16 11:12:40 +0000,1,Browne,WA,Assist - 2nd Phase,1,17,9,68, 136
+2018-11-16 11:12:50 +0000,1,Browne,WA,Assist - Circle Entry,1,17,9,68, 136
+2018-11-16 11:12:50 +0000,1,Bassett,GS,Loss - Step,1,17,9,53, 180
+2018-11-16 11:12:54 +0000,0,Turner,GD,Possession,1,17,9,53, 181
+2018-11-16 11:12:57 +0000,0,Klau ,GK,Possession,1,17,9,71, 150
+2018-11-16 11:13:00 +0000,0,Hadley,WA,Possession,1,17,9,72, 115
+2018-11-16 11:13:05 +0000,0,Housby ,GA,Possession,1,17,9,30, 74
+2018-11-16 11:13:11 +0000,0,Hadley,WA,Possession,1,17,9,71, 32
+2018-11-16 11:13:13 +0000,0,Housby ,GA,Possession,1,17,9,48, 38
+2018-11-16 11:13:16 +0000,0,Housby ,GA,Assist - Circle Entry,1,17,9,48, 38
+2018-11-16 11:13:16 +0000,0,Wallace,GS,Possession,1,17,9,37, 6
+2018-11-16 11:13:17 +0000,0,Proud,C,Possession,1,17,9,36, 35
+2018-11-16 11:13:23 +0000,0,Proud,C,Assist - Circle Entry,1,17,9,36, 35
+2018-11-16 11:13:23 +0000,0,Wallace,GS,Possession,1,17,9,40, 11
+2018-11-16 11:13:24 +0000,1,Pretorius ,GD,Penaly - Obstruction,1,17,9,40, 11
+2018-11-16 11:13:24 +0000,0,Housby ,GA,Goal - Score,1,17,9,40, 11
+2018-11-16 11:13:41 +0000,0,Proud,C,Centre Pass,1,18,9,50, 100
+2018-11-16 11:13:41 +0000,0,Hadley,WA,Assist - Centre Pass Rec,1,18,9,67, 81
+2018-11-16 11:13:43 +0000,0,Housby ,GA,Assist - 2nd Phase,1,18,9,18, 57
+2018-11-16 11:13:45 +0000,0,Hadley,WA,Possession,1,18,9,26, 71
+2018-11-16 11:13:48 +0000,0,Housby ,GA,Possession,1,18,9,20, 46
+2018-11-16 11:13:50 +0000,0,Hadley,WA,Possession,1,18,9,10, 56
+2018-11-16 11:13:53 +0000,0,Proud,C,Possession,1,18,9,14, 7
+2018-11-16 11:13:55 +0000,0,Proud,C,Assist - Circle Entry,1,18,9,14, 7
+2018-11-16 11:13:55 +0000,0,Wallace,GS,Possession,1,18,9,27, 14
+2018-11-16 11:13:59 +0000,1,McAuliffe,WD,Penaly - Contact,1,18,9,77, 26
+2018-11-16 11:13:59 +0000,0,Hadley,WA,Possession,1,18,9,77, 26
+2018-11-16 11:14:04 +0000,0,Hadley,WA,Assist - Circle Entry,1,18,9,77, 26
+2018-11-16 11:14:04 +0000,0,Wallace,GS,Goal - Score,1,18,9,46, 8
+2018-11-16 13:15:08 +0000,1,Scherian ,C,Centre Pass,2,19,9,50, 100
+2018-11-16 13:15:08 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,19,9,65, 123
+2018-11-16 13:15:12 +0000,1,Scherian ,C,Assist - 2nd Phase,2,19,9,13, 171
+2018-11-16 13:15:16 +0000,1,McAuliffe,WD,Possession,2,19,9,27, 127
+2018-11-16 13:15:18 +0000,1,Scherian ,C,Possession,2,19,9,43, 153
+2018-11-16 13:15:20 +0000,1,Wood,GA,Possession,2,19,9,20, 177
+2018-11-16 13:15:22 +0000,1,Scherian ,C,Possession,2,19,9,26, 171
+2018-11-16 13:16:16 +0000,0,Turner,GD,Deflect,2,19,9,25, 178
+2018-11-16 13:16:27 +0000,0,Turner,GD,Penaly - Contact,2,19,9,15, 182
+2018-11-16 13:16:27 +0000,1,Scherian ,C,Possession,2,19,9,15, 182
+2018-11-16 13:16:45 +0000,1,Scherian ,C,Assist - Circle Entry,2,19,9,15, 182
+2018-11-16 13:16:45 +0000,1,Wood,GA,Goal - Miss,2,19,9,33, 191
+2018-11-16 13:16:54 +0000,0,Klau ,GK,Deflect,2,19,9,50, 197
+2018-11-16 13:16:56 +0000,1,Bassett,GS,Assist - Attack Rebound,2,19,9,51, 193
+2018-11-16 13:17:20 +0000,1,Bassett,GS,Goal - Score,2,19,9,49, 193
+2018-11-16 13:17:32 +0000,0,Proud,C,Centre Pass,2,19,10,50, 100
+2018-11-16 13:17:32 +0000,0,Hadley,WA,Assist - Centre Pass Rec,2,19,10,13, 82
+2018-11-16 13:17:34 +0000,0,Housby ,GA,Assist - 2nd Phase,2,19,10,2, 43
+2018-11-16 13:17:37 +0000,0,Hadley,WA,Possession,2,19,10,34, 52
+2018-11-16 13:17:39 +0000,0,Proud,C,Possession,2,19,10,10, 21
+2018-11-16 13:17:41 +0000,0,Hadley,WA,Possession,2,19,10,16, 12
+2018-11-16 13:17:45 +0000,1,McAuliffe,WD,Loss - Offside,2,19,10,34, 29
+2018-11-16 13:17:55 +0000,0,Housby ,GA,Possession,2,19,10,34, 29
+2018-11-16 13:18:10 +0000,0,Hadley,WA,Possession,2,19,10,18, 15
+2018-11-16 13:18:23 +0000,0,Hadley,WA,Assist - Circle Entry,2,19,10,18, 15
+2018-11-16 13:18:23 +0000,0,Wallace,GS,Goal - Score,2,19,10,39, 6
+2018-11-16 13:18:33 +0000,1,Scherian ,C,Centre Pass,2,20,10,50, 100
+2018-11-16 13:18:33 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,20,10,76, 124
+2018-11-16 13:18:35 +0000,1,Browne,WA,Assist - 2nd Phase,2,20,10,49, 140
+2018-11-16 13:18:36 +0000,1,Scherian ,C,Possession,2,20,10,27, 145
+2018-11-16 13:18:38 +0000,1,McAuliffe,WD,Possession,2,20,10,44, 129
+2018-11-16 13:18:48 +0000,1,Browne,WA,Possession,2,20,10,49, 156
+2018-11-16 13:18:50 +0000,1,Scherian ,C,Possession,2,20,10,81, 183
+2018-11-16 13:18:55 +0000,1,Scherian ,C,Assist - Circle Entry,2,20,10,81, 183
+2018-11-16 13:18:55 +0000,1,Bassett,GS,Possession,2,20,10,43, 192
+2018-11-16 13:19:06 +0000,0,,GK,Penaly - Contact,2,20,10,43, 192
+2018-11-16 13:19:06 +0000,1,Bassett,GS,Goal - Score,2,20,10,43, 192
+2018-11-16 13:19:57 +0000,0,Proud,C,Centre Pass,2,20,11,50, 100
+2018-11-16 13:19:57 +0000,0,Hadley,WA,Assist - Centre Pass Rec,2,20,11,76, 79
+2018-11-16 13:20:00 +0000,0,Housby ,GA,Assist - 2nd Phase,2,20,11,12, 58
+2018-11-16 13:20:02 +0000,0,Housby ,GA,Assist - Circle Entry,2,20,11,12, 58
+2018-11-16 13:20:02 +0000,0,Wallace,GS,Possession,2,20,11,52, 24
+2018-11-16 13:20:03 +0000,0,Housby ,GA,Possession,2,20,11,41, 32
+2018-11-16 13:20:06 +0000,0,Proud,C,Possession,2,20,11,77, 19
+2018-11-16 13:20:08 +0000,0,Proud,C,Assist - Circle Entry,2,20,11,77, 19
+2018-11-16 13:20:08 +0000,0,Housby ,GA,Possession,2,20,11,63, 13
+2018-11-16 13:20:10 +0000,0,Proud,C,Possession,2,20,11,77, 19
+2018-11-16 13:20:12 +0000,0,Proud,C,Assist - Circle Entry,2,20,11,77, 19
+2018-11-16 13:20:12 +0000,0,Housby ,GA,Goal - Miss,2,20,11,59, 10
+2018-11-16 13:20:20 +0000,1,Mentor,GK,Gain - Def Reb,2,20,11,50, 2
+2018-11-16 13:20:24 +0000,0,Hadley,WA,Gain - Inter,2,20,11,34, 32
+2018-11-16 13:20:35 +0000,0,Housby ,GA,Goal - Score,2,20,11,34, 32
+2018-11-16 13:20:44 +0000,1,Scherian ,C,Centre Pass,2,21,11,50, 100
+2018-11-16 13:20:44 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,21,11,21, 126
+2018-11-16 13:20:47 +0000,1,McAuliffe,WD,Assist - 2nd Phase,2,21,11,29, 89
+2018-11-16 13:20:49 +0000,1,Browne,WA,Possession,2,21,11,61, 116
+2018-11-16 13:20:51 +0000,1,Wood,GA,Possession,2,21,11,78, 157
+2018-11-16 13:20:52 +0000,1,Bassett,GS,Possession,2,21,11,84, 189
+2018-11-16 13:21:19 +0000,1,Browne,WA,Possession,2,21,11,76, 175
+2018-11-16 13:21:21 +0000,1,Browne,WA,Assist - Circle Entry,2,21,11,76, 175
+2018-11-16 13:21:21 +0000,1,Bassett,GS,Possession,2,21,11,68, 193
+2018-11-16 13:21:27 +0000,1,Scherian ,C,Possession,2,21,11,21, 178
+2018-11-16 13:21:29 +0000,0,Proud,C,Penaly - Contact,2,21,11,21, 178
+2018-11-16 13:21:29 +0000,1,Scherian ,C,Possession,2,21,11,21, 178
+2018-11-16 13:21:34 +0000,1,Scherian ,C,Assist - Circle Entry,2,21,11,21, 178
+2018-11-16 13:21:34 +0000,1,Bassett,GS,Goal - Score,2,21,11,52, 187
+2018-11-16 13:21:42 +0000,0,Proud,C,Centre Pass,2,21,12,50, 100
+2018-11-16 13:21:42 +0000,0,Housby ,GA,Assist - Centre Pass Rec,2,21,12,76, 73
+2018-11-16 13:21:43 +0000,0,Proud,C,Assist - 2nd Phase,2,21,12,77, 61
+2018-11-16 13:21:45 +0000,0,Proud,C,Possession,2,21,12,63, 69
+2018-11-16 13:21:47 +0000,0,Hadley,WA,Possession,2,21,12,80, 46
+2018-11-16 13:21:49 +0000,0,Housby ,GA,Possession,2,21,12,20, 23
+2018-11-16 13:21:51 +0000,0,Hadley,WA,Possession,2,21,12,30, 29
+2018-11-16 13:21:53 +0000,0,Housby ,GA,Possession,2,21,12,15, 10
+2018-11-16 13:21:55 +0000,0,Hadley,WA,Possession,2,21,12,16, 15
+2018-11-16 13:21:59 +0000,0,Proud,C,Possession,2,21,12,50, 34
+2018-11-16 13:22:04 +0000,0,Proud,C,Assist - Circle Entry,2,21,12,50, 34
+2018-11-16 13:22:04 +0000,0,Housby ,GA,Goal - Score,2,21,12,53, 11
+2018-11-16 13:22:12 +0000,1,Scherian ,C,Centre Pass,2,22,12,50, 100
+2018-11-16 13:22:12 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,22,12,80, 115
+2018-11-16 13:22:17 +0000,0,Turner,GD,Gain - Inter,2,22,12,89, 183
+2018-11-16 13:22:26 +0000,0,McCulloch,WD,Loss - Bad Pass,2,22,12,77, 157
+2018-11-16 13:22:46 +0000,0,Proud,C,Deflect,2,22,12,75, 108
+2018-11-16 13:23:05 +0000,1,Pretorius ,GD,Gain - Inter,2,22,12,77, 94
+2018-11-16 13:23:11 +0000,1,Browne,WA,Possession,2,22,12,60, 118
+2018-11-16 13:23:17 +0000,1,Scherian ,C,Possession,2,22,12,25, 127
+2018-11-16 13:23:19 +0000,1,Browne,WA,Possession,2,22,12,31, 155
+2018-11-16 13:23:21 +0000,1,Bassett,GS,Possession,2,22,12,55, 164
+2018-11-16 13:23:28 +0000,1,Scherian ,C,Possession,2,22,12,5, 176
+2018-11-16 13:23:30 +0000,1,Wood,GA,Possession,2,22,12,14, 193
+2018-11-16 13:23:32 +0000,1,Scherian ,C,Possession,2,22,12,18, 181
+2018-11-16 13:23:40 +0000,0,McCulloch,WD,Penaly - Obstruction,2,22,12,18, 181
+2018-11-16 13:23:40 +0000,1,Scherian ,C,Possession,2,22,12,18, 181
+2018-11-16 13:23:50 +0000,1,Scherian ,C,Assist - Circle Entry,2,22,12,18, 181
+2018-11-16 13:23:50 +0000,1,Wood,GA,Goal - Miss,2,22,12,36, 190
+2018-11-16 13:23:53 +0000,0,Klau ,GK,Throw In,2,22,12,50, 192
+2018-11-16 13:23:57 +0000,0,McCulloch,WD,Possession,2,22,12,9, 187
+2018-11-16 13:24:01 +0000,0,Proud,C,Possession,2,22,12,40, 156
+2018-11-16 13:24:04 +0000,0,Turner,GD,Possession,2,22,12,64, 123
+2018-11-16 13:24:06 +0000,0,Proud,C,Possession,2,22,12,49, 121
+2018-11-16 13:24:08 +0000,0,Hadley,WA,Possession,2,22,12,8, 93
+2018-11-16 13:24:40 +0000,0,Proud,C,Possession,2,22,12,24, 79
+2018-11-16 13:24:42 +0000,0,Housby ,GA,Possession,2,22,12,13, 69
+2018-11-16 13:24:44 +0000,0,Proud,C,Possession,2,22,12,25, 54
+2018-11-16 13:24:53 +0000,0,Hadley,WA,Deflect,2,22,12,9, 8
+2018-11-16 13:24:56 +0000,1,Mentor,GK,Throw In,2,22,12,13, -5
+2018-11-16 13:25:04 +0000,1,Pretorius ,GD,Possession,2,22,12,64, 15
+2018-11-16 13:25:05 +0000,1,Wood,GA,Possession,2,22,12,77, 90
+2018-11-16 13:25:07 +0000,1,Browne,WA,Possession,2,22,12,45, 114
+2018-11-16 13:25:09 +0000,1,McAuliffe,WD,Possession,2,22,12,71, 128
+2018-11-16 13:25:11 +0000,1,Wood,GA,Possession,2,22,12,82, 158
+2018-11-16 13:25:13 +0000,1,McAuliffe,WD,Possession,2,22,12,80, 129
+2018-11-16 13:25:20 +0000,1,Browne,WA,Possession,2,22,12,69, 153
+2018-11-16 13:25:25 +0000,1,Browne,WA,Assist - Circle Entry,2,22,12,69, 153
+2018-11-16 13:25:25 +0000,1,Wood,GA,Goal - Score,2,22,12,63, 185
+2018-11-16 13:25:42 +0000,0,Proud,C,Centre Pass,2,22,13,50, 100
+2018-11-16 13:25:42 +0000,0,Hadley,WA,Assist - Centre Pass Rec,2,22,13,77, 72
+2018-11-16 13:25:44 +0000,0,Housby ,GA,Assist - 2nd Phase,2,22,13,13, 55
+2018-11-16 13:25:47 +0000,0,Proud,C,Possession,2,22,13,78, 21
+2018-11-16 13:25:52 +0000,0,Wallace,GS,Penaly - Contact,2,22,13,61, 11
+2018-11-16 13:25:52 +0000,1,Mentor,GK,Possession,2,22,13,61, 11
+2018-11-16 13:26:07 +0000,1,Pretorius ,GD,Possession,2,22,13,71, 35
+2018-11-16 13:26:10 +0000,1,Mentor,GK,Possession,2,22,13,19, 55
+2018-11-16 13:26:12 +0000,1,Scherian ,C,Possession,2,22,13,37, 54
+2018-11-16 13:26:14 +0000,1,McAuliffe,WD,Possession,2,22,13,51, 73
+2018-11-16 13:26:21 +0000,1,Browne,WA,Possession,2,22,13,69, 117
+2018-11-16 13:26:23 +0000,1,Wood,GA,Loss - Bad Pass,2,22,13,86, 127
+2018-11-16 13:27:17 +0000,1,Pretorius ,GD,Deflect,2,22,13,80, 113
+2018-11-16 13:27:17 +0000,0,Hadley,WA,Gain - Pick-up,2,22,13,92, 49
+2018-11-16 13:27:35 +0000,0,Wallace,GS,Possession,2,22,13,83, 9
+2018-11-16 13:27:37 +0000,0,Hadley,WA,Possession,2,22,13,17, 17
+2018-11-16 13:27:40 +0000,0,Hadley,WA,Assist - Circle Entry,2,22,13,17, 17
+2018-11-16 13:27:40 +0000,0,Housby ,GA,Goal - Score,2,22,13,37, 12
+2018-11-16 13:27:55 +0000,1,Scherian ,C,Centre Pass,2,23,13,50, 100
+2018-11-16 13:27:55 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,2,23,13,56, 78
+2018-11-16 13:27:57 +0000,1,Browne,WA,Assist - 2nd Phase,2,23,13,76, 99
+2018-11-16 13:27:59 +0000,1,Pretorius ,GD,Possession,2,23,13,56, 78
+2018-11-16 13:28:01 +0000,1,Scherian ,C,Possession,2,23,13,52, 112
+2018-11-16 13:28:03 +0000,1,Browne,WA,Possession,2,23,13,81, 114
+2018-11-16 13:28:05 +0000,1,Wood,GA,Possession,2,23,13,70, 144
+2018-11-16 13:28:07 +0000,1,Browne,WA,Possession,2,23,13,84, 154
+2018-11-16 13:28:31 +0000,0,Proud,C,Deflect,2,23,13,46, 138
+2018-11-16 13:28:42 +0000,1,Pretorius ,GD,Deflect,2,23,13,11, 127
+2018-11-16 13:28:46 +0000,1,Scherian ,C,Possession,2,23,13,9, 135
+2018-11-16 13:28:52 +0000,1,Wood,GA,Possession,2,23,13,16, 184
+2018-11-16 13:28:55 +0000,1,Wood,GA,Assist - Circle Entry,2,23,13,16, 184
+2018-11-16 13:28:55 +0000,1,Bassett,GS,Goal - Score,2,23,13,43, 190
+2018-11-16 13:29:03 +0000,0,Proud,C,Centre Pass,2,23,14,50, 100
+2018-11-16 13:29:03 +0000,0,Housby ,GA,Assist - Centre Pass Rec,2,23,14,22, 85
+2018-11-16 13:29:05 +0000,0,Hadley,WA,Assist - 2nd Phase,2,23,14,3, 80
+2018-11-16 13:29:08 +0000,0,Proud,C,Possession,2,23,14,7, 26
+2018-11-16 13:29:10 +0000,0,Proud,C,Assist - Circle Entry,2,23,14,7, 26
+2018-11-16 13:29:10 +0000,0,Wallace,GS,Goal - Score,2,23,14,38, 7
+2018-11-16 13:29:28 +0000,1,Scherian ,C,Centre Pass,2,24,14,50, 100
+2018-11-16 13:29:28 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,24,14,11, 108
+2018-11-16 13:29:29 +0000,1,Wood,GA,Assist - 2nd Phase,2,24,14,8, 142
+2018-11-16 13:29:34 +0000,1,Wood,GA,Assist - Circle Entry,2,24,14,8, 142
+2018-11-16 13:29:34 +0000,1,Bassett,GS,Possession,2,24,14,27, 192
+2018-11-16 13:29:35 +0000,1,Browne,WA,Possession,2,24,14,22, 172
+2018-11-16 13:29:38 +0000,1,Browne,WA,Assist - Circle Entry,2,24,14,22, 172
+2018-11-16 13:29:38 +0000,1,Wood,GA,Possession,2,24,14,31, 193
+2018-11-16 13:29:41 +0000,0,Turner,GD,Penaly - Obstruction,2,24,14,31, 193
+2018-11-16 13:29:41 +0000,1,Wood,GA,Goal - Score,2,24,14,31, 193
+2018-11-16 13:29:51 +0000,0,Proud,C,Centre Pass,2,24,15,50, 100
+2018-11-16 13:29:51 +0000,0,Housby ,GA,Assist - Centre Pass Rec,2,24,15,7, 74
+2018-11-16 13:29:52 +0000,0,Proud,C,Assist - 2nd Phase,2,24,15,24, 69
+2018-11-16 13:29:54 +0000,0,Hadley,WA,Possession,2,24,15,31, 45
+2018-11-16 13:29:56 +0000,0,Hadley,WA,Assist - Circle Entry,2,24,15,31, 45
+2018-11-16 13:29:56 +0000,0,Wallace,GS,Possession,2,24,15,34, 14
+2018-11-16 13:30:00 +0000,0,Proud,C,Possession,2,24,15,75, 22
+2018-11-16 13:30:02 +0000,1,McAuliffe,WD,Penaly - Contact,2,24,15,75, 22
+2018-11-16 13:30:02 +0000,0,Proud,C,Possession,2,24,15,75, 22
+2018-11-16 13:30:05 +0000,0,Proud,C,Assist - Circle Entry,2,24,15,75, 22
+2018-11-16 13:30:06 +0000,0,,GS,Possession,2,24,15,44, 14
+2018-11-16 13:30:07 +0000,1,Pretorius ,GD,Penaly - Contact,2,24,15,44, 14
+2018-11-16 13:30:07 +0000,0,,GS,Goal - Score,2,24,15,44, 14
+2018-11-16 13:31:03 +0000,1,Scherian ,C,Centre Pass,2,25,15,50, 100
+2018-11-16 13:31:03 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,2,25,15,28, 81
+2018-11-16 13:31:05 +0000,1,Scherian ,C,Assist - 2nd Phase,2,25,15,40, 84
+2018-11-16 13:31:09 +0000,1,Pretorius ,GD,Possession,2,25,15,50, 94
+2018-11-16 13:31:28 +0000,1,Browne,WA,Possession,2,25,15,81, 176
+2018-11-16 13:31:30 +0000,1,Wood,GA,Possession,2,25,15,53, 161
+2018-11-16 13:31:32 +0000,1,Scherian ,C,Possession,2,25,15,13, 187
+2018-11-16 13:31:33 +0000,0,Proud,C,Penaly - Contact,2,25,15,13, 187
+2018-11-16 13:31:33 +0000,1,Scherian ,C,Possession,2,25,15,13, 187
+2018-11-16 13:31:36 +0000,1,Scherian ,C,Assist - Circle Entry,2,25,15,13, 187
+2018-11-16 13:31:36 +0000,1,Bassett,GS,Possession,2,25,15,49, 170
+2018-11-16 13:31:44 +0000,1,Scherian ,C,Possession,2,25,15,45, 163
+2018-11-16 13:31:48 +0000,1,Browne,WA,Possession,2,25,15,77, 176
+2018-11-16 13:31:50 +0000,1,Browne,WA,Assist - Circle Entry,2,25,15,77, 176
+2018-11-16 13:31:50 +0000,1,Wood,GA,Goal - Score,2,25,15,59, 191
+2018-11-16 13:31:59 +0000,0,Proud,C,Centre Pass,2,25,16,50, 100
+2018-11-16 13:31:59 +0000,0,Hadley,WA,Assist - Centre Pass Rec,2,25,16,1, 78
+2018-11-16 13:32:01 +0000,0,Housby ,GA,Assist - 2nd Phase,2,25,16,19, 54
+2018-11-16 13:32:07 +0000,1,McAuliffe,WD,Penaly - Contact,2,25,16,19, 54
+2018-11-16 13:32:07 +0000,0,Hadley,WA,Possession,2,25,16,19, 54
+2018-11-16 13:32:15 +0000,0,Housby ,GA,Possession,2,25,16,42, 34
+2018-11-16 13:32:17 +0000,0,Hadley,WA,Possession,2,25,16,40, 33
+2018-11-16 13:32:19 +0000,0,Hadley,WA,Assist - Circle Entry,2,25,16,40, 33
+2018-11-16 13:32:20 +0000,0,Housby ,GA,Goal - Score,2,25,16,45, 18
+2018-11-16 13:32:29 +0000,1,Scherian ,C,Centre Pass,2,26,16,50, 100
+2018-11-16 13:32:29 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,26,16,75, 121
+2018-11-16 13:32:31 +0000,1,Wood,GA,Assist - 2nd Phase,2,26,16,83, 137
+2018-11-16 13:32:33 +0000,1,Scherian ,C,Possession,2,26,16,77, 129
+2018-11-16 13:32:36 +0000,1,McAuliffe,WD,Possession,2,26,16,80, 98
+2018-11-16 13:32:39 +0000,1,Wood,GA,Possession,2,26,16,26, 125
+2018-11-16 13:32:41 +0000,1,Scherian ,C,Possession,2,26,16,36, 150
+2018-11-16 13:32:43 +0000,1,Wood,GA,Possession,2,26,16,21, 159
+2018-11-16 13:32:45 +0000,1,Browne,WA,Possession,2,26,16,16, 185
+2018-11-16 13:33:07 +0000,1,Browne,WA,Assist - Circle Entry,2,26,16,16, 185
+2018-11-16 13:33:07 +0000,1,Bassett,GS,Possession,2,26,16,31, 183
+2018-11-16 13:33:11 +0000,1,Scherian ,C,Possession,2,26,16,70, 169
+2018-11-16 13:33:13 +0000,1,Scherian ,C,Assist - Circle Entry,2,26,16,70, 169
+2018-11-16 13:33:13 +0000,1,Wood,GA,Goal - Score,2,26,16,53, 180
+2018-11-16 13:33:20 +0000,0,Proud,C,Centre Pass,2,26,17,50, 100
+2018-11-16 13:33:20 +0000,0,Hadley,WA,Assist - Centre Pass Rec,2,26,17,79, 73
+2018-11-16 13:33:22 +0000,0,Housby ,GA,Assist - 2nd Phase,2,26,17,14, 61
+2018-11-16 13:33:25 +0000,0,Proud,C,Possession,2,26,17,65, 42
+2018-11-16 13:33:27 +0000,0,Proud,C,Assist - Circle Entry,2,26,17,65, 42
+2018-11-16 13:33:27 +0000,0,Wallace,GS,Possession,2,26,17,62, 18
+2018-11-16 13:33:29 +0000,0,Proud,C,Possession,2,26,17,70, 27
+2018-11-16 13:33:31 +0000,0,Proud,C,Assist - Circle Entry,2,26,17,70, 27
+2018-11-16 13:33:31 +0000,0,Wallace,GS,Goal - Score,2,26,17,57, 8
+2018-11-16 13:33:39 +0000,1,,UNKNOWN,Timeout,2,27,17,110, 222
+2018-11-16 13:34:53 +0000,1,Scherian ,C,Centre Pass,2,27,17,50, 100
+2018-11-16 13:34:53 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,2,27,17,14, 99
+2018-11-16 13:34:55 +0000,1,Browne,WA,Assist - 2nd Phase,2,27,17,16, 133
+2018-11-16 13:34:58 +0000,1,Wood,GA,Possession,2,27,17,8, 190
+2018-11-16 13:35:01 +0000,1,Browne,WA,Possession,2,27,17,22, 177
+2018-11-16 13:35:04 +0000,1,Browne,WA,Assist - Circle Entry,2,27,17,22, 177
+2018-11-16 13:35:04 +0000,1,Bassett,GS,Possession,2,27,17,48, 190
+2018-11-16 13:35:06 +0000,0,Klau ,GK,Penaly - Contact,2,27,17,48, 190
+2018-11-16 13:35:06 +0000,1,Bassett,GS,Goal - Score,2,27,17,48, 190
+2018-11-16 13:35:15 +0000,0,Proud,C,Centre Pass,2,27,18,50, 100
+2018-11-16 13:35:15 +0000,0,Hadley,WA,Assist - Centre Pass Rec,2,27,18,22, 75
+2018-11-16 13:35:21 +0000,1,Mentor,GK,Gain - Tip (Deflect),2,27,18,48, 45
+2018-11-16 13:35:25 +0000,1,Browne,WA,Possession,2,27,18,59, 80
+2018-11-16 13:35:31 +0000,1,Wood,GA,Possession,2,27,18,78, 151
+2018-11-16 13:35:33 +0000,1,Wood,GA,Assist - Circle Entry,2,27,18,78, 151
+2018-11-16 13:35:33 +0000,1,Bassett,GS,Possession,2,27,18,65, 184
+2018-11-16 13:35:34 +0000,1,Scherian ,C,Possession,2,27,18,75, 174
+2018-11-16 13:35:36 +0000,1,Scherian ,C,Assist - Circle Entry,2,27,18,75, 174
+2018-11-16 13:35:36 +0000,1,Wood,GA,Possession,2,27,18,76, 193
+2018-11-16 13:35:38 +0000,1,Scherian ,C,Possession,2,27,18,76, 177
+2018-11-16 13:35:40 +0000,1,Scherian ,C,Assist - Circle Entry,2,27,18,76, 177
+2018-11-16 13:35:40 +0000,1,Wood,GA,Goal - Score,2,27,18,62, 188
+2018-11-16 13:35:51 +0000,1,Scherian ,C,Centre Pass,2,27,19,50, 100
+2018-11-16 13:35:51 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,27,19,83, 124
+2018-11-16 13:35:52 +0000,1,Scherian ,C,Assist - 2nd Phase,2,27,19,65, 141
+2018-11-16 13:35:54 +0000,1,Pretorius ,GD,Possession,2,27,19,56, 128
+2018-11-16 13:35:57 +0000,1,Browne,WA,Possession,2,27,19,50, 157
+2018-11-16 13:35:59 +0000,1,Pretorius ,GD,Possession,2,27,19,47, 128
+2018-11-16 13:36:01 +0000,1,Browne,WA,Possession,2,27,19,45, 144
+2018-11-16 13:36:03 +0000,1,Wood,GA,Possession,2,27,19,20, 161
+2018-11-16 13:36:04 +0000,1,Wood,GA,Assist - Circle Entry,2,27,19,20, 161
+2018-11-16 13:36:04 +0000,1,Bassett,GS,Goal - Score,2,27,19,51, 190
+2018-11-16 13:36:13 +0000,0,Proud,C,Centre Pass,2,27,20,50, 100
+2018-11-16 13:36:13 +0000,0,Hadley,WA,Assist - Centre Pass Rec,2,27,20,73, 72
+2018-11-16 13:36:20 +0000,1,McAuliffe,WD,Penaly - Obstruction,2,27,20,73, 72
+2018-11-16 13:36:20 +0000,0,McCulloch,WD,Possession,2,27,20,73, 72
+2018-11-16 13:36:25 +0000,0,Hadley,WA,Possession,2,27,20,67, 37
+2018-11-16 13:36:28 +0000,0,Hadley,WA,Assist - Circle Entry,2,27,20,67, 37
+2018-11-16 13:36:28 +0000,0,Wallace,GS,Assist - 2nd Phase,2,27,20,41, 14
+2018-11-16 13:36:30 +0000,0,Hadley,WA,Possession,2,27,20,82, 13
+2018-11-16 13:36:34 +0000,1,Pretorius ,GD,Penaly - Contact,2,27,20,59, 23
+2018-11-16 13:36:34 +0000,0,Housby ,GA,Goal - Miss,2,27,20,59, 23
+2018-11-16 13:36:42 +0000,1,Mentor,GK,Gain - Def Reb,2,27,20,50, 2
+2018-11-16 13:36:45 +0000,1,Pretorius ,GD,Possession,2,27,20,31, 7
+2018-11-16 13:36:47 +0000,1,Scherian ,C,Possession,2,27,20,28, 27
+2018-11-16 13:36:49 +0000,1,Pretorius ,GD,Possession,2,27,20,35, 16
+2018-11-16 13:36:51 +0000,1,Scherian ,C,Possession,2,27,20,53, 38
+2018-11-16 13:36:53 +0000,0,Wallace,GS,Penaly - Obstruction,2,27,20,53, 38
+2018-11-16 13:36:53 +0000,1,Mentor,GK,Possession,2,27,20,53, 38
+2018-11-16 13:37:03 +0000,1,Browne,WA,Possession,2,27,20,62, 76
+2018-11-16 13:37:11 +0000,1,Pretorius ,GD,Possession,2,27,20,85, 98
+2018-11-16 13:37:14 +0000,1,Wood,GA,Possession,2,27,20,81, 133
+2018-11-16 13:37:17 +0000,1,Pretorius ,GD,Possession,2,27,20,86, 106
+2018-11-16 13:37:20 +0000,1,Scherian ,C,Possession,2,27,20,84, 136
+2018-11-16 13:37:48 +0000,1,Wood,GA,Possession,2,27,20,84, 163
+2018-11-16 13:37:49 +0000,0,Turner,GD,Penaly - Contact,2,27,20,84, 163
+2018-11-16 13:37:49 +0000,1,Scherian ,C,Possession,2,27,20,84, 163
+2018-11-16 13:37:58 +0000,1,Wood,GA,Possession,2,27,20,49, 165
+2018-11-16 13:38:00 +0000,1,Browne,WA,Possession,2,27,20,15, 189
+2018-11-16 13:38:02 +0000,1,Browne,WA,Assist - Circle Entry,2,27,20,15, 189
+2018-11-16 13:38:03 +0000,1,Wood,GA,Possession,2,27,20,33, 191
+2018-11-16 13:38:04 +0000,1,Bassett,GS,Goal - Score,2,27,20,47, 191
+2018-11-16 13:38:12 +0000,1,Scherian ,C,Centre Pass,2,27,21,50, 100
+2018-11-16 13:38:12 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,27,21,63, 115
+2018-11-16 13:38:15 +0000,1,Pretorius ,GD,Assist - 2nd Phase,2,27,21,58, 101
+2018-11-16 13:38:16 +0000,1,Browne,WA,Possession,2,27,21,69, 118
+2018-11-16 13:38:18 +0000,1,McAuliffe,WD,Possession,2,27,21,87, 115
+2018-11-16 13:38:20 +0000,1,Browne,WA,Loss - Bad Pass,2,27,21,80, 143
+2018-11-16 13:38:56 +0000,0,Klau ,GK,Gain - Inter,2,27,21,45, 175
+2018-11-16 13:39:10 +0000,0,McCulloch,WD,Possession,2,27,21,63, 140
+2018-11-16 13:39:12 +0000,0,Hadley,WA,Possession,2,27,21,53, 110
+2018-11-16 13:39:14 +0000,0,Turner,GD,Possession,2,27,21,80, 94
+2018-11-16 13:39:16 +0000,0,McCulloch,WD,Possession,2,27,21,57, 108
+2018-11-16 13:39:18 +0000,0,Hadley,WA,Possession,2,27,21,23, 80
+2018-11-16 13:39:20 +0000,0,Turner,GD,Possession,2,27,21,42, 105
+2018-11-16 13:39:22 +0000,0,Hadley,WA,Possession,2,27,21,28, 93
+2018-11-16 13:39:24 +0000,0,McCulloch,WD,Possession,2,27,21,4, 79
+2018-11-16 13:39:28 +0000,0,Housby ,GA,Possession,2,27,21,4, 49
+2018-11-16 13:39:30 +0000,0,Hadley,WA,Possession,2,27,21,13, 7
+2018-11-16 13:39:36 +0000,1,Mentor,GK,Deflect,2,27,21,44, 12
+2018-11-16 13:39:36 +0000,0,Hadley,WA,Possession,2,27,21,10, 5
+2018-11-16 13:39:43 +0000,0,Hadley,WA,Assist - Circle Entry,2,27,21,10, 5
+2018-11-16 13:39:43 +0000,0,Housby ,GA,Goal - Score,2,27,21,34, 7
+2018-11-16 13:39:53 +0000,0,Proud,C,Centre Pass,2,28,21,50, 100
+2018-11-16 13:39:53 +0000,0,Hadley,WA,Assist - Centre Pass Rec,2,28,21,71, 78
+2018-11-16 13:39:55 +0000,0,Wallace,GS,Assist - 2nd Phase,2,28,21,78, 28
+2018-11-16 13:39:57 +0000,0,Proud,C,Possession,2,28,21,22, 24
+2018-11-16 13:40:06 +0000,0,Wallace,GS,Penaly - Contact,2,28,21,55, 10
+2018-11-16 13:40:06 +0000,1,Mentor,GK,Possession,2,28,21,55, 10
+2018-11-16 13:40:19 +0000,1,McAuliffe,WD,Possession,2,28,21,52, 41
+2018-11-16 13:40:24 +0000,1,Pretorius ,GD,Possession,2,28,21,42, 59
+2018-11-16 13:40:26 +0000,1,Scherian ,C,Possession,2,28,21,73, 86
+2018-11-16 13:40:28 +0000,1,Scherian ,C,Possession,2,28,21,56, 130
+2018-11-16 13:40:35 +0000,1,Wood,GA,Loss - Step,2,28,21,50, 163
+2018-11-16 13:40:40 +0000,0,Klau ,GK,Possession,2,28,21,50, 162
+2018-11-16 13:40:43 +0000,0,Proud,C,Possession,2,28,21,19, 122
+2018-11-16 13:40:45 +0000,0,McCulloch,WD,Possession,2,28,21,32, 89
+2018-11-16 13:40:48 +0000,0,Hadley,WA,Possession,2,28,21,40, 66
+2018-11-16 13:40:51 +0000,0,Proud,C,Possession,2,28,21,57, 34
+2018-11-16 13:40:55 +0000,0,Proud,C,Assist - Circle Entry,2,28,21,57, 34
+2018-11-16 13:40:55 +0000,0,Wallace,GS,Goal - Score,2,28,21,55, 14
+2018-11-16 13:41:03 +0000,1,Scherian ,C,Centre Pass,2,29,21,50, 100
+2018-11-16 13:41:04 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,29,21,80, 117
+2018-11-16 13:41:05 +0000,1,Wood,GA,Assist - 2nd Phase,2,29,21,87, 157
+2018-11-16 13:41:08 +0000,1,Browne,WA,Possession,2,29,21,80, 128
+2018-11-16 13:41:11 +0000,1,Browne,WA,Assist - Circle Entry,2,29,21,80, 128
+2018-11-16 13:41:12 +0000,1,Bassett,GS,Goal - Score,2,29,21,50, 187
+2018-11-16 13:41:19 +0000,0,Proud,C,Centre Pass,2,29,22,50, 100
+2018-11-16 13:41:19 +0000,0,Hadley,WA,Assist - Centre Pass Rec,2,29,22,80, 76
+2018-11-16 13:41:22 +0000,0,Housby ,GA,Assist - 2nd Phase,2,29,22,29, 68
+2018-11-16 13:41:24 +0000,0,Proud,C,Possession,2,29,22,15, 14
+2018-11-16 13:41:26 +0000,0,Proud,C,Assist - Circle Entry,2,29,22,15, 14
+2018-11-16 13:41:26 +0000,0,Wallace,GS,Goal - Score,2,29,22,30, 10
+2018-11-16 13:41:35 +0000,1,Scherian ,C,Centre Pass,2,30,22,50, 100
+2018-11-16 13:41:35 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,2,30,22,78, 125
+2018-11-16 13:41:37 +0000,1,Browne,WA,Assist - 2nd Phase,2,30,22,81, 140
+2018-11-16 13:41:38 +0000,0,Turner,GD,Penaly - Contact,2,30,22,81, 140
+2018-11-16 13:41:38 +0000,1,Browne,WA,Possession,2,30,22,81, 140
+2018-11-16 13:41:43 +0000,1,Wood,GA,Possession,2,30,22,85, 181
+2018-11-16 13:41:45 +0000,1,Wood,GA,Assist - Circle Entry,2,30,22,85, 181
+2018-11-16 13:41:46 +0000,1,Bassett,GS,Possession,2,30,22,68, 185
+2018-11-16 13:41:47 +0000,0,Klau ,GK,Penaly - Contact,2,30,22,68, 185
+2018-11-16 13:41:47 +0000,1,Wood,GA,Possession,2,30,22,68, 185
+2018-11-16 13:41:51 +0000,0,Turner,GD,Penaly - Contact,2,30,22,57, 191
+2018-11-16 13:41:51 +0000,1,Bassett,GS,Possession,2,30,22,57, 191
+2018-11-16 13:41:56 +0000,0,Klau ,GK,Penaly - Contact,2,30,22,57, 191
+2018-11-16 13:41:56 +0000,1,Bassett,GS,Goal - Score,2,30,22,57, 191
+2018-11-16 13:42:09 +0000,0,Proud,C,Centre Pass,2,30,23,50, 100
+2018-11-16 13:42:09 +0000,1,McAuliffe,WD,Loss - Break,2,30,23,47, 67
+2018-11-16 13:42:09 +0000,0,McCulloch,WD,Possession,2,30,23,47, 67
+2018-11-16 13:42:20 +0000,0,Hadley,WA,Assist - 2nd Phase,2,30,23,72, 33
+2018-11-16 13:42:24 +0000,0,Hadley,WA,Assist - Circle Entry,2,30,23,72, 33
+2018-11-16 13:42:24 +0000,0,Wallace,GS,Goal - Score,2,30,23,53, 10
+2018-11-16 13:42:33 +0000,1,Scherian ,C,Centre Pass,2,31,23,50, 100
+2018-11-16 13:42:33 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,31,23,80, 122
+2018-11-16 13:42:35 +0000,1,Scherian ,C,Assist - 2nd Phase,2,31,23,55, 127
+2018-11-16 13:42:37 +0000,1,Browne,WA,Possession,2,31,23,68, 144
+2018-11-16 13:42:39 +0000,1,Scherian ,C,Possession,2,31,23,50, 138
+2018-11-16 13:42:41 +0000,1,Wood,GA,Possession,2,31,23,88, 173
+2018-11-16 13:42:43 +0000,1,Browne,WA,Possession,2,31,23,84, 189
+2018-11-16 13:42:46 +0000,1,Browne,WA,Assist - Circle Entry,2,31,23,84, 189
+2018-11-16 13:42:46 +0000,1,Bassett,GS,Goal - Score,2,31,23,56, 185
+2018-11-16 13:42:54 +0000,0,Proud,C,Centre Pass,2,31,24,50, 100
+2018-11-16 13:42:54 +0000,0,Hadley,WA,Assist - Centre Pass Rec,2,31,24,66, 77
+2018-11-16 13:42:56 +0000,0,Housby ,GA,Loss - Bad Pass,2,31,24,43, 61
+2018-11-16 13:43:01 +0000,1,Mentor,GK,Throw In,2,31,24,52, -6
+2018-11-16 13:43:12 +0000,1,Pretorius ,GD,Possession,2,31,24,25, 9
+2018-11-16 13:43:13 +0000,1,Scherian ,C,Possession,2,31,24,24, 45
+2018-11-16 13:43:15 +0000,1,McAuliffe,WD,Possession,2,31,24,55, 77
+2018-11-16 13:43:19 +0000,1,Browne,WA,Possession,2,31,24,43, 128
+2018-11-16 13:43:22 +0000,1,Wood,GA,Possession,2,31,24,27, 160
+2018-11-16 13:43:30 +0000,0,Proud,C,Loss - Offside,2,31,24,74, 176
+2018-11-16 13:43:37 +0000,1,Wood,GA,Possession,2,31,24,73, 176
+2018-11-16 13:43:43 +0000,1,Scherian ,C,Possession,2,31,24,67, 167
+2018-11-16 13:43:47 +0000,1,Scherian ,C,Assist - Circle Entry,2,31,24,67, 167
+2018-11-16 13:43:47 +0000,1,Bassett,GS,Possession,2,31,24,61, 186
+2018-11-16 13:43:49 +0000,1,Browne,WA,Possession,2,31,24,14, 188
+2018-11-16 13:43:53 +0000,1,Browne,WA,Assist - Circle Entry,2,31,24,14, 188
+2018-11-16 13:43:53 +0000,1,Bassett,GS,Possession,2,31,24,38, 190
+2018-11-16 13:43:54 +0000,0,Turner,GD,Penaly - Contact,2,31,24,38, 190
+2018-11-16 13:43:54 +0000,1,Wood,GA,Goal - Score,2,31,24,38, 190
+2018-11-16 13:44:20 +0000,1,Scherian ,C,Centre Pass,2,31,25,50, 100
+2018-11-16 13:44:20 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,31,25,41, 113
+2018-11-16 13:44:23 +0000,1,Wood,GA,Assist - Circle Entry,2,31,25,41, 113
+2018-11-16 13:44:23 +0000,1,Bassett,GS,Possession,2,31,25,54, 190
+2018-11-16 13:44:25 +0000,0,Klau ,GK,Penaly - Obstruction,2,31,25,54, 190
+2018-11-16 13:44:26 +0000,1,Bassett,GS,Goal - Score,2,31,25,54, 190
+2018-11-16 13:44:34 +0000,0,Proud,C,Centre Pass,2,31,26,50, 100
+2018-11-16 13:44:35 +0000,1,Pretorius ,GD,Gain - Inter,2,31,26,59, 78
+2018-11-16 13:45:11 +0000,1,Scherian ,C,Possession,2,31,26,83, 76
+2018-11-16 13:45:14 +0000,1,Pretorius ,GD,Possession,2,31,26,75, 96
+2018-11-16 13:45:16 +0000,1,Scherian ,C,Possession,2,31,26,78, 141
+2018-11-16 13:45:18 +0000,1,Scherian ,C,Assist - Circle Entry,2,31,26,78, 141
+2018-11-16 13:45:18 +0000,1,Wood,GA,Possession,2,31,26,75, 194
+2018-11-16 13:45:21 +0000,1,Scherian ,C,Possession,2,31,26,74, 172
+2018-11-16 13:45:25 +0000,1,Scherian ,C,Assist - Circle Entry,2,31,26,74, 172
+2018-11-16 13:45:25 +0000,1,Bassett,GS,Possession,2,31,26,39, 189
+2018-11-16 13:45:26 +0000,0,Klau ,GK,Penaly - Contact,2,31,26,39, 189
+2018-11-16 13:45:26 +0000,1,Wood,GA,Goal - Score,2,31,26,39, 189
+2018-11-16 13:46:40 +0000,0,Turner,UNKNOWN,Interchange - Eddy,3,31,27,
+2018-11-16 13:48:21 +0000,1,Scherian ,C,Centre Pass,3,31,27,50, 100
+2018-11-16 13:48:21 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,31,27,24, 126
+2018-11-16 13:48:23 +0000,1,Wood,GA,Loss - Bad Pass,3,31,27,22, 148
+2018-11-16 13:48:34 +0000,0,Proud,C,Gain - Inter,3,31,27,50, 147
+2018-11-16 13:48:47 +0000,0,McCulloch,WD,Possession,3,31,27,38, 128
+2018-11-16 13:48:49 +0000,0,Housby ,GA,Possession,3,31,27,16, 73
+2018-11-16 13:48:51 +0000,0,Eddy,GD,Possession,3,31,27,27, 96
+2018-11-16 13:48:53 +0000,0,Hadley,WA,Possession,3,31,27,22, 64
+2018-11-16 13:48:56 +0000,0,McCulloch,WD,Possession,3,31,27,80, 72
+2018-11-16 13:49:01 +0000,0,Proud,C,Possession,3,31,27,47, 40
+2018-11-16 13:49:04 +0000,0,Proud,C,Assist - Circle Entry,3,31,27,47, 40
+2018-11-16 13:49:05 +0000,0,Housby ,GA,Goal - Score,3,31,27,43, 9
+2018-11-16 13:49:13 +0000,0,Proud,C,Centre Pass,3,32,27,50, 100
+2018-11-16 13:49:13 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,32,27,72, 74
+2018-11-16 13:49:15 +0000,0,Housby ,GA,Assist - 2nd Phase,3,32,27,87, 23
+2018-11-16 13:49:17 +0000,0,Hadley,WA,Possession,3,32,27,86, 51
+2018-11-16 13:49:19 +0000,0,Housby ,GA,Possession,3,32,27,87, 21
+2018-11-16 13:49:22 +0000,0,Hadley,WA,Possession,3,32,27,83, 14
+2018-11-16 13:50:38 +0000,0,Hadley,WA,Assist - Circle Entry,3,32,27,83, 14
+2018-11-16 13:50:38 +0000,1,Mentor,GK,Gain - Inter,3,32,27,67, 13
+2018-11-16 13:50:44 +0000,1,McAuliffe,WD,Possession,3,32,27,88, 26
+2018-11-16 13:50:46 +0000,1,Mentor,GK,Possession,3,32,27,74, 29
+2018-11-16 13:50:48 +0000,1,Pretorius ,GD,Possession,3,32,27,26, 43
+2018-11-16 13:50:50 +0000,1,McAuliffe,WD,Possession,3,32,27,30, 65
+2018-11-16 13:51:31 +0000,1,Scherian ,C,Possession,3,32,27,15, 88
+2018-11-16 13:51:33 +0000,1,Pretorius ,GD,Possession,3,32,27,41, 83
+2018-11-16 13:51:35 +0000,1,Browne,WA,Possession,3,32,27,78, 104
+2018-11-16 13:51:36 +0000,1,Wood,GA,Possession,3,32,27,65, 122
+2018-11-16 13:51:38 +0000,1,Scherian ,C,Possession,3,32,27,53, 141
+2018-11-16 13:51:40 +0000,1,Browne,WA,Possession,3,32,27,66, 138
+2018-11-16 13:51:42 +0000,1,Wood,GA,Possession,3,32,27,46, 153
+2018-11-16 13:51:46 +0000,1,Browne,WA,Possession,3,32,27,22, 175
+2018-11-16 13:51:48 +0000,1,Browne,WA,Assist - Circle Entry,3,32,27,22, 175
+2018-11-16 13:51:48 +0000,1,Bassett,GS,Possession,3,32,27,31, 196
+2018-11-16 13:51:50 +0000,1,Scherian ,C,Possession,3,32,27,75, 176
+2018-11-16 13:51:52 +0000,0,McCulloch,WD,Penaly - Contact,3,32,27,75, 176
+2018-11-16 13:51:52 +0000,1,Scherian ,C,Possession,3,32,27,75, 176
+2018-11-16 13:51:55 +0000,1,Scherian ,C,Assist - Circle Entry,3,32,27,75, 176
+2018-11-16 13:51:55 +0000,1,Bassett,GS,Goal - Score,3,32,27,44, 190
+2018-11-16 13:52:04 +0000,1,Scherian ,C,Centre Pass,3,32,28,50, 100
+2018-11-16 13:52:04 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,32,28,45, 126
+2018-11-16 13:52:06 +0000,1,Browne,WA,Assist - 2nd Phase,3,32,28,22, 144
+2018-11-16 13:52:09 +0000,1,Scherian ,C,Possession,3,32,28,83, 172
+2018-11-16 13:52:12 +0000,1,Scherian ,C,Assist - Circle Entry,3,32,28,83, 172
+2018-11-16 13:52:12 +0000,1,Wood,GA,Goal - Score,3,32,28,62, 189
+2018-11-16 13:52:23 +0000,0,Proud,C,Centre Pass,3,32,29,50, 100
+2018-11-16 13:52:23 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,32,29,79, 75
+2018-11-16 13:52:26 +0000,0,Proud,C,Assist - 2nd Phase,3,32,29,54, 77
+2018-11-16 13:52:27 +0000,0,Housby ,GA,Possession,3,32,29,18, 60
+2018-11-16 13:52:29 +0000,0,Eddy,GD,Possession,3,32,29,27, 72
+2018-11-16 13:52:32 +0000,0,Hadley,WA,Possession,3,32,29,31, 65
+2018-11-16 13:52:34 +0000,0,Proud,C,Possession,3,32,29,53, 72
+2018-11-16 13:52:41 +0000,0,Housby ,GA,Possession,3,32,29,80, 39
+2018-11-16 13:52:44 +0000,0,Proud,C,Possession,3,32,29,68, 41
+2018-11-16 13:52:46 +0000,0,Housby ,GA,Possession,3,32,29,75, 26
+2018-11-16 13:52:50 +0000,0,Proud,C,Possession,3,32,29,69, 29
+2018-11-16 13:52:52 +0000,0,Proud,C,Assist - Circle Entry,3,32,29,69, 29
+2018-11-16 13:52:52 +0000,0,Housby ,GA,Possession,3,32,29,67, 20
+2018-11-16 13:52:53 +0000,0,Proud,C,Possession,3,32,29,70, 30
+2018-11-16 13:52:55 +0000,0,Proud,C,Assist - Circle Entry,3,32,29,70, 30
+2018-11-16 13:52:56 +0000,0,Housby ,GA,Goal - Score,3,32,29,58, 16
+2018-11-16 13:53:08 +0000,1,Scherian ,C,Centre Pass,3,33,29,50, 100
+2018-11-16 13:53:08 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,33,29,82, 123
+2018-11-16 13:53:10 +0000,1,Wood,GA,Assist - 2nd Phase,3,33,29,63, 127
+2018-11-16 13:53:13 +0000,1,Scherian ,C,Possession,3,33,29,22, 155
+2018-11-16 13:53:15 +0000,1,Browne,WA,Possession,3,33,29,51, 152
+2018-11-16 13:53:17 +0000,1,Wood,GA,Possession,3,33,29,85, 159
+2018-11-16 13:53:19 +0000,1,Wood,GA,Assist - Circle Entry,3,33,29,85, 159
+2018-11-16 13:53:19 +0000,1,Bassett,GS,Possession,3,33,29,66, 195
+2018-11-16 13:53:22 +0000,1,Scherian ,C,Possession,3,33,29,27, 175
+2018-11-16 13:53:24 +0000,0,Proud,C,Penaly - Obstruction,3,33,29,27, 175
+2018-11-16 13:53:24 +0000,1,Scherian ,C,Possession,3,33,29,27, 175
+2018-11-16 13:54:02 +0000,0,Eddy,GD,Penaly - Contact,3,33,29,50, 181
+2018-11-16 13:54:02 +0000,1,Wood,GA,Possession,3,33,29,50, 181
+2018-11-16 13:54:07 +0000,1,Bassett,GS,Goal - Score,3,33,29,49, 189
+2018-11-16 13:54:16 +0000,0,Proud,C,Centre Pass,3,33,30,50, 100
+2018-11-16 13:54:16 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,33,30,68, 74
+2018-11-16 13:54:18 +0000,0,Wallace,GS,Assist - 2nd Phase,3,33,30,80, 27
+2018-11-16 13:54:22 +0000,1,McAuliffe,WD,Penaly - Contact,3,33,30,77, 25
+2018-11-16 13:54:22 +0000,0,Hadley,WA,Possession,3,33,30,77, 25
+2018-11-16 13:54:34 +0000,1,Pretorius ,GD,Penaly - Contact,3,33,30,66, 20
+2018-11-16 13:54:34 +0000,0,Housby ,GA,Possession,3,33,30,66, 20
+2018-11-16 13:54:39 +0000,0,Wallace,GS,Goal - Miss,3,33,30,51, 8
+2018-11-16 13:54:44 +0000,0,Wallace,GS,Assist - Attack Rebound,3,33,30,50, 2
+2018-11-16 13:54:44 +0000,0,Wallace,GS,Goal - Score,3,33,30,51, 8
+2018-11-16 13:54:52 +0000,1,Scherian ,C,Centre Pass,3,34,30,50, 100
+2018-11-16 13:54:52 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,3,34,30,75, 98
+2018-11-16 13:54:54 +0000,1,McAuliffe,WD,Assist - 2nd Phase,3,34,30,42, 78
+2018-11-16 13:54:56 +0000,1,Scherian ,C,Possession,3,34,30,21, 103
+2018-11-16 13:54:59 +0000,1,McAuliffe,WD,Possession,3,34,30,53, 90
+2018-11-16 13:55:00 +0000,0,Hadley,WA,Penaly - Contact,3,34,30,53, 90
+2018-11-16 13:55:00 +0000,1,McAuliffe,WD,Possession,3,34,30,53, 90
+2018-11-16 13:55:04 +0000,1,McAuliffe,WD,Possession,3,34,30,86, 119
+2018-11-16 13:55:07 +0000,1,Pretorius ,GD,Possession,3,34,30,91, 131
+2018-11-16 13:55:09 +0000,1,Wood,GA,Possession,3,34,30,81, 151
+2018-11-16 13:55:10 +0000,0,Eddy,GD,Penaly - Obstruction,3,34,30,81, 151
+2018-11-16 13:55:10 +0000,1,Browne,WA,Possession,3,34,30,81, 151
+2018-11-16 13:55:16 +0000,1,Browne,WA,Assist - Circle Entry,3,34,30,81, 151
+2018-11-16 13:55:16 +0000,1,Wood,GA,Goal - Score,3,34,30,60, 189
+2018-11-16 13:55:25 +0000,0,Proud,C,Centre Pass,3,34,31,50, 100
+2018-11-16 13:55:25 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,34,31,37, 77
+2018-11-16 13:55:27 +0000,0,Housby ,GA,Assist - 2nd Phase,3,34,31,19, 63
+2018-11-16 13:55:31 +0000,0,McCulloch,WD,Possession,3,34,31,22, 70
+2018-11-16 13:55:37 +0000,1,Wood,GA,Penaly - Contact,3,34,31,22, 70
+2018-11-16 13:55:37 +0000,0,McCulloch,WD,Possession,3,34,31,22, 70
+2018-11-16 13:55:40 +0000,0,Hadley,WA,Possession,3,34,31,36, 56
+2018-11-16 13:55:42 +0000,0,Wallace,GS,Possession,3,34,31,56, 36
+2018-11-16 13:55:44 +0000,0,Hadley,WA,Possession,3,34,31,47, 37
+2018-11-16 13:55:48 +0000,0,Housby ,GA,Possession,3,34,31,21, 20
+2018-11-16 13:55:50 +0000,0,Proud,C,Possession,3,34,31,84, 15
+2018-11-16 13:55:54 +0000,0,Proud,C,Assist - Circle Entry,3,34,31,84, 15
+2018-11-16 13:55:54 +0000,0,Wallace,GS,Goal - Score,3,34,31,45, 10
+2018-11-16 13:56:03 +0000,1,Scherian ,C,Centre Pass,3,35,31,50, 100
+2018-11-16 13:56:03 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,35,31,80, 124
+2018-11-16 13:56:07 +0000,1,McAuliffe,WD,Assist - 2nd Phase,3,35,31,51, 93
+2018-11-16 13:56:11 +0000,1,Scherian ,C,Possession,3,35,31,24, 122
+2018-11-16 13:56:13 +0000,1,Wood,GA,Possession,3,35,31,81, 141
+2018-11-16 13:56:15 +0000,1,Scherian ,C,Possession,3,35,31,87, 185
+2018-11-16 13:56:17 +0000,1,Scherian ,C,Assist - Circle Entry,3,35,31,87, 185
+2018-11-16 13:56:17 +0000,1,Bassett,GS,Goal - Score,3,35,31,39, 193
+2018-11-16 13:56:31 +0000,0,Proud,C,Centre Pass,3,35,32,50, 100
+2018-11-16 13:56:31 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,35,32,70, 92
+2018-11-16 13:56:33 +0000,0,Housby ,GA,Assist - 2nd Phase,3,35,32,23, 64
+2018-11-16 13:56:35 +0000,0,Proud,C,Possession,3,35,32,18, 18
+2018-11-16 13:56:39 +0000,1,Mentor,GK,Deflect,3,35,32,27, 12
+2018-11-16 13:56:40 +0000,0,Proud,C,Possession,3,35,32,17, 12
+2018-11-16 13:56:45 +0000,0,Proud,C,Assist - Circle Entry,3,35,32,17, 12
+2018-11-16 13:56:45 +0000,0,Wallace,GS,Goal - Score,3,35,32,45, 8
+2018-11-16 13:56:55 +0000,1,Scherian ,C,Centre Pass,3,36,32,50, 100
+2018-11-16 13:56:55 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,36,32,26, 117
+2018-11-16 13:56:57 +0000,1,Browne,WA,Loss - Step,3,36,32,15, 140
+2018-11-16 13:57:03 +0000,0,McCulloch,WD,Possession,3,36,32,14, 141
+2018-11-16 13:57:08 +0000,0,Klau ,GK,Possession,3,36,32,77, 143
+2018-11-16 13:57:10 +0000,0,Proud,C,Possession,3,36,32,67, 123
+2018-11-16 13:57:11 +0000,0,Hadley,WA,Possession,3,36,32,86, 99
+2018-11-16 13:57:13 +0000,0,McCulloch,WD,Possession,3,36,32,59, 86
+2018-11-16 13:57:15 +0000,0,Hadley,WA,Possession,3,36,32,77, 83
+2018-11-16 13:57:17 +0000,0,Proud,C,Possession,3,36,32,83, 31
+2018-11-16 13:57:19 +0000,0,Hadley,WA,Possession,3,36,32,59, 45
+2018-11-16 13:57:21 +0000,0,Housby ,GA,Possession,3,36,32,29, 31
+2018-11-16 13:57:23 +0000,0,Proud,C,Possession,3,36,32,81, 21
+2018-11-16 13:57:25 +0000,0,Proud,C,Assist - Circle Entry,3,36,32,81, 21
+2018-11-16 13:57:25 +0000,0,Wallace,GS,Goal - Score,3,36,32,44, 7
+2018-11-16 13:57:37 +0000,0,Proud,C,Centre Pass,3,37,32,50, 100
+2018-11-16 13:57:37 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,37,32,21, 76
+2018-11-16 13:57:40 +0000,0,Housby ,GA,Assist - 2nd Phase,3,37,32,16, 61
+2018-11-16 13:57:42 +0000,0,Eddy,GD,Possession,3,37,32,39, 80
+2018-11-16 13:57:44 +0000,0,Hadley,WA,Possession,3,37,32,23, 64
+2018-11-16 13:57:47 +0000,0,Housby ,GA,Possession,3,37,32,13, 53
+2018-11-16 13:57:48 +0000,1,Pretorius ,GD,Penaly - Contact,3,37,32,13, 53
+2018-11-16 13:57:48 +0000,0,Hadley,WA,Possession,3,37,32,13, 53
+2018-11-16 13:57:57 +0000,0,Wallace,GS,Possession,3,37,32,33, 34
+2018-11-16 13:57:59 +0000,0,Hadley,WA,Possession,3,37,32,38, 36
+2018-11-16 13:58:02 +0000,0,Hadley,WA,Assist - Circle Entry,3,37,32,38, 36
+2018-11-16 13:58:02 +0000,0,Wallace,GS,Goal - Score,3,37,32,41, 22
+2018-11-16 13:58:22 +0000,1,Scherian ,C,Centre Pass,3,38,32,50, 100
+2018-11-16 13:58:22 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,3,38,32,18, 99
+2018-11-16 13:58:25 +0000,1,Browne,WA,Assist - 2nd Phase,3,38,32,14, 165
+2018-11-16 13:58:28 +0000,1,Browne,WA,Assist - Circle Entry,3,38,32,14, 165
+2018-11-16 13:58:28 +0000,1,Bassett,GS,Goal - Score,3,38,32,61, 194
+2018-11-16 13:58:38 +0000,1,,UNKNOWN,Timeout,3,38,33,-10, -22
+2018-11-16 13:59:38 +0000,0,Proud,C,Centre Pass,3,38,33,50, 100
+2018-11-16 13:59:38 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,38,33,76, 76
+2018-11-16 13:59:43 +0000,1,Browne,WA,Penaly - Obstruction,3,38,33,76, 76
+2018-11-16 13:59:43 +0000,0,McCulloch,WD,Possession,3,38,33,76, 76
+2018-11-16 13:59:56 +0000,0,Proud,C,Possession,3,38,33,47, 60
+2018-11-16 13:59:59 +0000,0,Housby ,GA,Possession,3,38,33,34, 49
+2018-11-16 14:00:05 +0000,0,Hadley,WA,Possession,3,38,33,43, 54
+2018-11-16 14:00:07 +0000,0,Housby ,GA,Possession,3,38,33,22, 34
+2018-11-16 14:00:11 +0000,0,Housby ,GA,Assist - Circle Entry,3,38,33,22, 34
+2018-11-16 14:00:11 +0000,0,Wallace,GS,Possession,3,38,33,50, 27
+2018-11-16 14:00:13 +0000,1,Mentor,GK,Penaly - Contact,3,38,33,50, 27
+2018-11-16 14:00:13 +0000,0,Housby ,GA,Possession,3,38,33,50, 27
+2018-11-16 14:00:18 +0000,0,Wallace,GS,Goal - Score,3,38,33,52, 11
+2018-11-16 14:00:26 +0000,1,Scherian ,C,Centre Pass,3,39,33,50, 100
+2018-11-16 14:00:26 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,39,33,91, 120
+2018-11-16 14:00:29 +0000,1,Scherian ,C,Assist - 2nd Phase,3,39,33,66, 126
+2018-11-16 14:00:30 +0000,1,Wood,GA,Possession,3,39,33,51, 129
+2018-11-16 14:00:32 +0000,1,Pretorius ,GD,Possession,3,39,33,12, 129
+2018-11-16 14:00:34 +0000,1,Scherian ,C,Possession,3,39,33,20, 153
+2018-11-16 14:00:36 +0000,1,Wood,GA,Possession,3,39,33,75, 163
+2018-11-16 14:00:39 +0000,1,Scherian ,C,Possession,3,39,33,77, 177
+2018-11-16 14:00:40 +0000,1,Scherian ,C,Assist - Circle Entry,3,39,33,77, 177
+2018-11-16 14:00:40 +0000,1,Wood,GA,Goal - Score,3,39,33,57, 190
+2018-11-16 14:00:50 +0000,0,Proud,C,Centre Pass,3,39,34,50, 100
+2018-11-16 14:00:50 +0000,0,Eddy,GD,Assist - Centre Pass Rec,3,39,34,80, 77
+2018-11-16 14:00:52 +0000,0,Hadley,WA,Assist - 2nd Phase,3,39,34,85, 61
+2018-11-16 14:00:53 +0000,1,McAuliffe,WD,Penaly - Contact,3,39,34,85, 61
+2018-11-16 14:00:53 +0000,0,Hadley,WA,Possession,3,39,34,85, 61
+2018-11-16 14:00:56 +0000,0,Proud,C,Possession,3,39,34,46, 52
+2018-11-16 14:00:58 +0000,0,Proud,C,Assist - Circle Entry,3,39,34,46, 52
+2018-11-16 14:00:58 +0000,0,Housby ,GA,Possession,3,39,34,58, 29
+2018-11-16 14:01:00 +0000,0,Hadley,WA,Possession,3,39,34,77, 25
+2018-11-16 14:01:02 +0000,0,Hadley,WA,Assist - Circle Entry,3,39,34,77, 25
+2018-11-16 14:01:02 +0000,0,Housby ,GA,Possession,3,39,34,50, 26
+2018-11-16 14:01:05 +0000,0,Proud,C,Possession,3,39,34,51, 34
+2018-11-16 14:01:07 +0000,0,Proud,C,Assist - Circle Entry,3,39,34,51, 34
+2018-11-16 14:01:08 +0000,0,Wallace,GS,Goal - Score,3,39,34,47, 9
+2018-11-16 14:01:13 +0000,1,Scherian ,C,Centre Pass,3,40,34,50, 100
+2018-11-16 14:01:13 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,40,34,96, 123
+2018-11-16 14:01:15 +0000,1,Wood,GA,Assist - 2nd Phase,3,40,34,94, 157
+2018-11-16 14:01:17 +0000,1,Browne,WA,Possession,3,40,34,76, 140
+2018-11-16 14:01:19 +0000,1,Scherian ,C,Possession,3,40,34,86, 159
+2018-11-16 14:01:21 +0000,1,Bassett,GS,Possession,3,40,34,86, 193
+2018-11-16 14:01:23 +0000,1,Browne,WA,Possession,3,40,34,22, 176
+2018-11-16 14:01:25 +0000,1,Browne,WA,Assist - Circle Entry,3,40,34,22, 176
+2018-11-16 14:01:25 +0000,1,Wood,GA,Possession,3,40,34,44, 185
+2018-11-16 14:01:27 +0000,1,Scherian ,C,Possession,3,40,34,45, 166
+2018-11-16 14:01:31 +0000,1,Browne,WA,Possession,3,40,34,16, 159
+2018-11-16 14:01:32 +0000,1,Wood,GA,Possession,3,40,34,31, 160
+2018-11-16 14:01:35 +0000,1,Wood,GA,Assist - Circle Entry,3,40,34,31, 160
+2018-11-16 14:01:35 +0000,1,Bassett,GS,Possession,3,40,34,48, 175
+2018-11-16 14:01:37 +0000,1,Browne,WA,Possession,3,40,34,84, 189
+2018-11-16 14:01:40 +0000,0,McCulloch,WD,Penaly - Contact,3,40,34,84, 189
+2018-11-16 14:01:40 +0000,1,Browne,WA,Possession,3,40,34,84, 189
+2018-11-16 14:01:44 +0000,1,Browne,WA,Assist - Circle Entry,3,40,34,84, 189
+2018-11-16 14:01:44 +0000,1,Bassett,GS,Goal - Score,3,40,34,50, 185
+2018-11-16 14:01:51 +0000,0,Proud,C,Centre Pass,3,40,35,50, 100
+2018-11-16 14:01:51 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,40,35,70, 78
+2018-11-16 14:01:56 +0000,1,Pretorius ,GD,Gain - Tip (Deflect),3,40,35,15, 44
+2018-11-16 14:02:03 +0000,1,Scherian ,C,Possession,3,40,35,14, 62
+2018-11-16 14:02:07 +0000,1,Wood,GA,Possession,3,40,35,18, 106
+2018-11-16 14:02:09 +0000,1,Pretorius ,GD,Possession,3,40,35,25, 84
+2018-11-16 14:02:11 +0000,1,McAuliffe,WD,Possession,3,40,35,71, 109
+2018-11-16 14:02:13 +0000,1,Browne,WA,Possession,3,40,35,88, 127
+2018-11-16 14:02:15 +0000,1,Pretorius ,GD,Possession,3,40,35,62, 102
+2018-11-16 14:02:16 +0000,1,Scherian ,C,Possession,3,40,35,72, 130
+2018-11-16 14:02:18 +0000,1,Wood,GA,Possession,3,40,35,89, 167
+2018-11-16 14:02:23 +0000,0,Hadley,WA,Loss - Offside,3,40,35,63, 132
+2018-11-16 14:02:37 +0000,1,Scherian ,C,Possession,3,40,35,64, 134
+2018-11-16 14:02:44 +0000,1,Wood,GA,Possession,3,40,35,38, 157
+2018-11-16 14:02:46 +0000,1,Scherian ,C,Possession,3,40,35,16, 188
+2018-11-16 14:02:49 +0000,1,Scherian ,C,Assist - Circle Entry,3,40,35,16, 188
+2018-11-16 14:02:50 +0000,1,Bassett,GS,Goal - Score,3,40,35,53, 189
+2018-11-16 14:03:03 +0000,1,Scherian ,C,Centre Pass,3,40,36,50, 100
+2018-11-16 14:03:03 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,40,36,73, 112
+2018-11-16 14:03:35 +0000,1,Wood,GA,Assist - 2nd Phase,3,40,36,86, 163
+2018-11-16 14:03:36 +0000,1,Browne,WA,Possession,3,40,36,75, 147
+2018-11-16 14:03:38 +0000,1,Wood,GA,Possession,3,40,36,91, 179
+2018-11-16 14:03:40 +0000,1,Scherian ,C,Possession,3,40,36,67, 169
+2018-11-16 14:03:42 +0000,1,Wood,GA,Possession,3,40,36,84, 190
+2018-11-16 14:03:47 +0000,1,Scherian ,C,Possession,3,40,36,73, 175
+2018-11-16 14:04:46 +0000,1,Scherian ,C,Assist - Circle Entry,3,40,36,73, 175
+2018-11-16 14:04:46 +0000,1,Bassett,GS,Possession,3,40,36,42, 196
+2018-11-16 14:04:49 +0000,1,Browne,WA,Possession,3,40,36,17, 186
+2018-11-16 14:04:56 +0000,1,Browne,WA,Assist - Circle Entry,3,40,36,17, 186
+2018-11-16 14:04:56 +0000,1,Wood,GA,Goal - Score,3,40,36,38, 192
+2018-11-16 14:05:04 +0000,0,Proud,C,Centre Pass,3,40,37,50, 100
+2018-11-16 14:05:04 +0000,1,McAuliffe,WD,Loss - Break,3,40,37,59, 69
+2018-11-16 14:05:04 +0000,0,Eddy,GD,Possession,3,40,37,59, 69
+2018-11-16 14:05:15 +0000,0,Hadley,WA,Assist - 2nd Phase,3,40,37,83, 37
+2018-11-16 14:05:18 +0000,0,Housby ,GA,Possession,3,40,37,55, 44
+2018-11-16 14:05:21 +0000,0,Hadley,WA,Possession,3,40,37,77, 26
+2018-11-16 14:05:23 +0000,0,Hadley,WA,Assist - Circle Entry,3,40,37,77, 26
+2018-11-16 14:05:23 +0000,0,Housby ,GA,Goal - Miss,3,40,37,58, 13
+2018-11-16 14:05:31 +0000,0,Wallace,GS,Deflect,3,40,37,50, 2
+2018-11-16 14:05:32 +0000,1,Mentor,GK,Throw In,3,40,37,55, -2
+2018-11-16 14:05:42 +0000,1,Pretorius ,GD,Possession,3,40,37,30, 31
+2018-11-16 14:05:45 +0000,1,Scherian ,C,Possession,3,40,37,54, 55
+2018-11-16 14:05:47 +0000,1,Browne,WA,Possession,3,40,37,19, 104
+2018-11-16 14:05:49 +0000,1,McAuliffe,WD,Possession,3,40,37,27, 91
+2018-11-16 14:05:51 +0000,1,Browne,WA,Possession,3,40,37,17, 108
+2018-11-16 14:05:53 +0000,1,Wood,GA,Possession,3,40,37,81, 128
+2018-11-16 14:05:56 +0000,1,Browne,WA,Possession,3,40,37,60, 145
+2018-11-16 14:05:59 +0000,1,Pretorius ,GD,Possession,3,40,37,30, 130
+2018-11-16 14:06:03 +0000,1,Wood,GA,Possession,3,40,37,48, 152
+2018-11-16 14:06:05 +0000,1,Wood,GA,Assist - Circle Entry,3,40,37,48, 152
+2018-11-16 14:06:06 +0000,1,Bassett,GS,Possession,3,40,37,54, 178
+2018-11-16 14:06:07 +0000,1,Scherian ,C,Loss - Offside,3,40,37,71, 172
+2018-11-16 14:06:12 +0000,0,Klau ,GK,Possession,3,40,37,69, 174
+2018-11-16 14:06:16 +0000,0,Eddy,GD,Possession,3,40,37,76, 153
+2018-11-16 14:06:21 +0000,1,Bassett,GS,Gain - Tip (Deflect),3,40,37,66, 143
+2018-11-16 14:06:25 +0000,1,Scherian ,C,Possession,3,40,37,65, 131
+2018-11-16 14:06:27 +0000,1,Wood,GA,Possession,3,40,37,94, 142
+2018-11-16 14:06:29 +0000,1,McAuliffe,WD,Possession,3,40,37,78, 129
+2018-11-16 14:06:32 +0000,1,Wood,GA,Possession,3,40,37,89, 154
+2018-11-16 14:06:34 +0000,1,Browne,WA,Possession,3,40,37,89, 188
+2018-11-16 14:06:37 +0000,1,Pretorius ,GD,Possession,3,40,37,77, 129
+2018-11-16 14:06:39 +0000,1,Wood,GA,Possession,3,40,37,60, 156
+2018-11-16 14:06:43 +0000,1,Scherian ,C,Possession,3,40,37,17, 189
+2018-11-16 14:06:44 +0000,0,Proud,C,Penaly - Contact,3,40,37,17, 189
+2018-11-16 14:06:44 +0000,1,Scherian ,C,Possession,3,40,37,17, 189
+2018-11-16 14:06:50 +0000,1,Scherian ,C,Assist - Circle Entry,3,40,37,17, 189
+2018-11-16 14:06:50 +0000,1,Wood,GA,Possession,3,40,37,35, 191
+2018-11-16 14:06:53 +0000,0,Eddy,GD,Penaly - Obstruction,3,40,37,35, 191
+2018-11-16 14:06:53 +0000,1,Wood,GA,Goal - Score,3,40,37,35, 191
+2018-11-16 14:07:04 +0000,1,Scherian ,C,Centre Pass,3,40,38,50, 100
+2018-11-16 14:07:04 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,40,38,74, 121
+2018-11-16 14:07:06 +0000,1,Wood,GA,Assist - 2nd Phase,3,40,38,96, 146
+2018-11-16 14:07:08 +0000,1,Scherian ,C,Possession,3,40,38,68, 138
+2018-11-16 14:07:13 +0000,1,Browne,WA,Possession,3,40,38,29, 171
+2018-11-16 14:07:15 +0000,1,Scherian ,C,Possession,3,40,38,75, 175
+2018-11-16 14:07:17 +0000,1,Scherian ,C,Assist - Circle Entry,3,40,38,75, 175
+2018-11-16 14:07:17 +0000,1,Bassett,GS,Goal - Score,3,40,38,45, 194
+2018-11-16 14:07:22 +0000,0,Proud,C,Centre Pass,3,40,39,50, 100
+2018-11-16 14:07:22 +0000,0,Housby ,GA,Assist - Centre Pass Rec,3,40,39,60, 74
+2018-11-16 14:07:26 +0000,1,Wood,GA,Penaly - Contact,3,40,39,63, 86
+2018-11-16 14:07:26 +0000,0,Eddy,GD,Assist - 2nd Phase,3,40,39,63, 86
+2018-11-16 14:08:19 +0000,0,Proud,C,Possession,3,40,39,72, 65
+2018-11-16 14:08:22 +0000,0,Hadley,WA,Possession,3,40,39,86, 29
+2018-11-16 14:08:25 +0000,1,Scherian ,C,Penaly - Obstruction,3,40,39,78, 27
+2018-11-16 14:08:25 +0000,0,Hadley,WA,Possession,3,40,39,78, 27
+2018-11-16 14:08:30 +0000,0,Housby ,GA,Possession,3,40,39,59, 48
+2018-11-16 14:08:36 +0000,0,Housby ,GA,Assist - Circle Entry,3,40,39,59, 48
+2018-11-16 14:08:36 +0000,1,Mentor,GK,Gain - Tip (Deflect),3,40,39,56, 21
+2018-11-16 14:08:41 +0000,1,Pretorius ,GD,Possession,3,40,39,38, 22
+2018-11-16 14:08:43 +0000,1,McAuliffe,WD,Possession,3,40,39,35, 56
+2018-11-16 14:08:47 +0000,1,Scherian ,C,Possession,3,40,39,51, 85
+2018-11-16 14:08:50 +0000,1,McAuliffe,WD,Possession,3,40,39,38, 105
+2018-11-16 14:08:52 +0000,1,Scherian ,C,Possession,3,40,39,47, 126
+2018-11-16 14:08:54 +0000,1,McAuliffe,WD,Possession,3,40,39,35, 128
+2018-11-16 14:08:57 +0000,1,Scherian ,C,Possession,3,40,39,37, 158
+2018-11-16 14:09:00 +0000,1,Scherian ,C,Assist - Circle Entry,3,40,39,37, 158
+2018-11-16 14:09:00 +0000,1,Wood,GA,Possession,3,40,39,46, 178
+2018-11-16 14:09:02 +0000,1,Scherian ,C,Possession,3,40,39,36, 168
+2018-11-16 14:09:04 +0000,1,Scherian ,C,Assist - Circle Entry,3,40,39,36, 168
+2018-11-16 14:09:04 +0000,1,Wood,GA,Possession,3,40,39,47, 186
+2018-11-16 14:09:06 +0000,1,Scherian ,C,Possession,3,40,39,35, 168
+2018-11-16 14:09:08 +0000,1,Scherian ,C,Assist - Circle Entry,3,40,39,35, 168
+2018-11-16 14:09:08 +0000,1,Wood,GA,Goal - Score,3,40,39,47, 189
+2018-11-16 14:09:33 +0000,0,McCulloch,UNKNOWN,Interchange - Eddy,3,40,40,
+2018-11-16 14:09:33 +0000,0,Eddy,UNKNOWN,Interchange - Turner,3,40,40,
+2018-11-16 14:10:12 +0000,1,Scherian ,C,Centre Pass,3,40,40,50, 100
+2018-11-16 14:10:12 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,40,40,83, 126
+2018-11-16 14:10:13 +0000,1,Wood,GA,Assist - 2nd Phase,3,40,40,92, 148
+2018-11-16 14:10:15 +0000,1,Browne,WA,Possession,3,40,40,79, 140
+2018-11-16 14:10:17 +0000,1,Wood,GA,Possession,3,40,40,48, 153
+2018-11-16 14:10:21 +0000,1,Browne,WA,Possession,3,40,40,17, 192
+2018-11-16 14:10:23 +0000,1,Browne,WA,Assist - Circle Entry,3,40,40,17, 192
+2018-11-16 14:10:23 +0000,1,Bassett,GS,Possession,3,40,40,44, 192
+2018-11-16 14:10:26 +0000,1,Wood,GA,Possession,3,40,40,55, 190
+2018-11-16 14:10:28 +0000,0,Klau ,GK,Penaly - Contact,3,40,40,55, 190
+2018-11-16 14:10:28 +0000,1,Wood,GA,Goal - Score,3,40,40,55, 190
+2018-11-16 14:10:40 +0000,0,Proud,C,Centre Pass,3,40,41,50, 100
+2018-11-16 14:10:40 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,40,41,80, 76
+2018-11-16 14:10:43 +0000,0,Housby ,GA,Assist - 2nd Phase,3,40,41,17, 53
+2018-11-16 14:10:45 +0000,0,Housby ,GA,Assist - Circle Entry,3,40,41,17, 53
+2018-11-16 14:10:45 +0000,0,Wallace,GS,Possession,3,40,41,44, 9
+2018-11-16 14:10:47 +0000,1,Pretorius ,GD,Penaly - Contact,3,40,41,44, 9
+2018-11-16 14:10:47 +0000,0,Wallace,GS,Goal - Score,3,40,41,44, 9
+2018-11-16 14:10:56 +0000,1,Scherian ,C,Centre Pass,3,41,41,50, 100
+2018-11-16 14:10:56 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,41,41,71, 117
+2018-11-16 14:10:58 +0000,1,Wood,GA,Assist - 2nd Phase,3,41,41,88, 137
+2018-11-16 14:11:01 +0000,1,Pretorius ,GD,Possession,3,41,41,83, 99
+2018-11-16 14:11:04 +0000,0,Eddy,WD,Penaly - Contact,3,41,41,77, 144
+2018-11-16 14:11:04 +0000,1,Browne,WA,Possession,3,41,41,77, 144
+2018-11-16 14:11:07 +0000,1,Bassett,GS,Possession,3,41,41,62, 167
+2018-11-16 14:11:11 +0000,0,Proud,C,Gain - Inter,3,41,41,33, 171
+2018-11-16 14:11:16 +0000,0,Turner,GD,Possession,3,41,41,30, 142
+2018-11-16 14:11:18 +0000,0,Hadley,WA,Possession,3,41,41,22, 116
+2018-11-16 14:11:20 +0000,0,Turner,GD,Possession,3,41,41,82, 75
+2018-11-16 14:11:22 +0000,0,Proud,C,Possession,3,41,41,75, 36
+2018-11-16 14:11:24 +0000,0,Wallace,GS,Possession,3,41,41,85, 11
+2018-11-16 14:11:26 +0000,0,Proud,C,Possession,3,41,41,72, 28
+2018-11-16 14:11:28 +0000,0,Proud,C,Assist - Circle Entry,3,41,41,72, 28
+2018-11-16 14:11:28 +0000,0,Wallace,GS,Possession,3,41,41,38, 9
+2018-11-16 14:11:30 +0000,0,Proud,C,Possession,3,41,41,75, 25
+2018-11-16 14:11:33 +0000,0,Proud,C,Assist - Circle Entry,3,41,41,75, 25
+2018-11-16 14:11:33 +0000,0,Housby ,GA,Possession,3,41,41,41, 5
+2018-11-16 14:11:35 +0000,0,Hadley,WA,Possession,3,41,41,27, 28
+2018-11-16 14:11:37 +0000,0,Hadley,WA,Assist - Circle Entry,3,41,41,27, 28
+2018-11-16 14:11:37 +0000,0,Wallace,GS,Goal - Score,3,41,41,50, 12
+2018-11-16 14:11:46 +0000,0,Proud,C,Centre Pass,3,42,41,50, 100
+2018-11-16 14:11:46 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,42,41,40, 79
+2018-11-16 14:11:48 +0000,0,Housby ,GA,Assist - 2nd Phase,3,42,41,20, 72
+2018-11-16 14:11:54 +0000,1,Pretorius ,GD,Penaly - Contact,3,42,41,21, 60
+2018-11-16 14:11:54 +0000,0,Hadley,WA,Possession,3,42,41,21, 60
+2018-11-16 14:12:01 +0000,0,Wallace,GS,Possession,3,42,41,47, 37
+2018-11-16 14:12:03 +0000,0,Wallace,GS,Assist - Circle Entry,3,42,41,47, 37
+2018-11-16 14:12:03 +0000,0,Housby ,GA,Possession,3,42,41,28, 9
+2018-11-16 14:12:04 +0000,0,Proud,C,Possession,3,42,41,80, 24
+2018-11-16 14:12:07 +0000,0,Hadley,WA,Possession,3,42,41,18, 18
+2018-11-16 14:12:09 +0000,0,Hadley,WA,Assist - Circle Entry,3,42,41,18, 18
+2018-11-16 14:12:09 +0000,0,Wallace,GS,Goal - Score,3,42,41,54, 6
+2018-11-16 14:12:17 +0000,1,Scherian ,C,Centre Pass,3,43,41,50, 100
+2018-11-16 14:12:17 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,3,43,41,38, 82
+2018-11-16 14:12:19 +0000,1,Scherian ,C,Assist - 2nd Phase,3,43,41,26, 101
+2018-11-16 14:12:20 +0000,1,Browne,WA,Possession,3,43,41,52, 119
+2018-11-16 14:12:22 +0000,1,Wood,GA,Possession,3,43,41,84, 144
+2018-11-16 14:12:24 +0000,1,McAuliffe,WD,Possession,3,43,41,26, 127
+2018-11-16 14:12:26 +0000,1,Scherian ,C,Possession,3,43,41,33, 148
+2018-11-16 14:12:28 +0000,0,Eddy,WD,Penaly - Contact,3,43,41,50, 154
+2018-11-16 14:12:28 +0000,1,Scherian ,C,Possession,3,43,41,50, 154
+2018-11-16 14:12:34 +0000,1,Scherian ,C,Assist - Circle Entry,3,43,41,50, 154
+2018-11-16 14:12:34 +0000,1,Wood,GA,Goal - Score,3,43,41,46, 181
+2018-11-16 14:12:42 +0000,0,Proud,C,Centre Pass,3,43,42,50, 100
+2018-11-16 14:12:42 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,43,42,72, 80
+2018-11-16 14:12:44 +0000,0,Proud,C,Assist - 2nd Phase,3,43,42,58, 61
+2018-11-16 14:12:45 +0000,1,Scherian ,C,Penaly - Contact,3,43,42,58, 61
+2018-11-16 14:12:45 +0000,0,Proud,C,Possession,3,43,42,58, 61
+2018-11-16 14:12:49 +0000,0,Wallace,GS,Possession,3,43,42,66, 28
+2018-11-16 14:12:51 +0000,0,Proud,C,Possession,3,43,42,66, 34
+2018-11-16 14:12:53 +0000,1,Scherian ,C,Penaly - Contact,3,43,42,66, 34
+2018-11-16 14:12:53 +0000,0,Proud,C,Possession,3,43,42,66, 34
+2018-11-16 14:12:58 +0000,0,Proud,C,Assist - Circle Entry,3,43,42,66, 34
+2018-11-16 14:12:58 +0000,0,Wallace,GS,Possession,3,43,42,62, 5
+2018-11-16 14:12:59 +0000,1,Mentor,GK,Penaly - Contact,3,43,42,62, 5
+2018-11-16 14:13:00 +0000,0,Wallace,GS,Goal - Score,3,43,42,62, 5
+2018-11-16 14:13:08 +0000,1,Scherian ,C,Centre Pass,3,44,42,50, 100
+2018-11-16 14:13:08 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,44,42,93, 123
+2018-11-16 14:13:11 +0000,1,Wood,GA,Assist - 2nd Phase,3,44,42,92, 142
+2018-11-16 14:13:13 +0000,1,Scherian ,C,Possession,3,44,42,71, 139
+2018-11-16 14:13:15 +0000,1,Browne,WA,Possession,3,44,42,84, 155
+2018-11-16 14:13:17 +0000,1,Wood,GA,Possession,3,44,42,89, 188
+2018-11-16 14:13:19 +0000,1,Wood,GA,Assist - Circle Entry,3,44,42,89, 188
+2018-11-16 14:13:19 +0000,1,Bassett,GS,Goal - Score,3,44,42,55, 193
+2018-11-16 14:13:27 +0000,0,Proud,C,Centre Pass,3,44,43,50, 100
+2018-11-16 14:13:27 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,44,43,73, 76
+2018-11-16 14:13:30 +0000,0,Turner,GD,Assist - 2nd Phase,3,44,43,48, 75
+2018-11-16 14:13:32 +0000,1,Browne,WA,Penaly - Contact,3,44,43,48, 75
+2018-11-16 14:13:32 +0000,0,Turner,GD,Possession,3,44,43,48, 75
+2018-11-16 14:13:37 +0000,0,Hadley,WA,Possession,3,44,43,30, 55
+2018-11-16 14:13:39 +0000,0,Housby ,GA,Possession,3,44,43,20, 25
+2018-11-16 14:13:42 +0000,0,Proud,C,Possession,3,44,43,85, 13
+2018-11-16 14:13:46 +0000,0,Proud,C,Assist - Circle Entry,3,44,43,85, 13
+2018-11-16 14:13:46 +0000,0,Wallace,GS,Goal - Score,3,44,43,42, 13
+2018-11-16 14:14:34 +0000,1,Scherian ,C,Centre Pass,4,45,43,50, 100
+2018-11-16 14:14:34 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,45,43,80, 118
+2018-11-16 14:14:37 +0000,1,Wood,GA,Assist - 2nd Phase,4,45,43,35, 152
+2018-11-16 14:14:39 +0000,1,Scherian ,C,Possession,4,45,43,47, 161
+2018-11-16 14:14:43 +0000,1,Scherian ,C,Assist - Circle Entry,4,45,43,47, 161
+2018-11-16 14:14:43 +0000,1,Wood,GA,Goal - Score,4,45,43,43, 191
+2018-11-16 14:14:49 +0000,0,Proud,C,Centre Pass,4,45,44,50, 100
+2018-11-16 14:14:49 +0000,0,Eddy,WD,Assist - Centre Pass Rec,4,45,44,74, 83
+2018-11-16 14:14:54 +0000,0,Proud,C,Assist - 2nd Phase,4,45,44,47, 73
+2018-11-16 14:14:56 +0000,0,Hadley,WA,Possession,4,45,44,21, 69
+2018-11-16 14:15:00 +0000,1,Scherian ,C,Penaly - Contact,4,45,44,52, 34
+2018-11-16 14:15:00 +0000,0,Hadley,WA,Possession,4,45,44,52, 34
+2018-11-16 14:15:04 +0000,0,Hadley,WA,Assist - Circle Entry,4,45,44,52, 34
+2018-11-16 14:15:04 +0000,0,Housby ,GA,Possession,4,45,44,51, 20
+2018-11-16 14:15:07 +0000,1,Mentor,GK,Penaly - Contact,4,45,44,51, 20
+2018-11-16 14:15:07 +0000,0,Housby ,GA,Possession,4,45,44,51, 20
+2018-11-16 14:15:12 +0000,0,Wallace,GS,Possession,4,45,44,46, 9
+2018-11-16 14:15:12 +0000,1,Pretorius ,GD,Penaly - Obstruction,4,45,44,46, 9
+2018-11-16 14:15:12 +0000,0,Wallace,GS,Possession,4,45,44,46, 9
+2018-11-16 14:15:14 +0000,1,Mentor,GK,Penaly - Obstruction,4,45,44,46, 9
+2018-11-16 14:15:14 +0000,0,Wallace,GS,Goal - Score,4,45,44,46, 9
+2018-11-16 14:15:25 +0000,1,Scherian ,C,Centre Pass,4,46,44,50, 100
+2018-11-16 14:15:25 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,4,46,44,62, 75
+2018-11-16 14:15:27 +0000,1,Scherian ,C,Assist - 2nd Phase,4,46,44,50, 85
+2018-11-16 14:15:39 +0000,0,Housby ,GA,Gain - Tip (Deflect),4,46,44,36, 115
+2018-11-16 14:15:44 +0000,0,Eddy,WD,Possession,4,46,44,29, 126
+2018-11-16 14:15:50 +0000,0,Proud,C,Possession,4,46,44,47, 113
+2018-11-16 14:15:52 +0000,0,Turner,GD,Possession,4,46,44,44, 89
+2018-11-16 14:15:57 +0000,0,Hadley,WA,Possession,4,46,44,83, 76
+2018-11-16 14:15:59 +0000,0,Proud,C,Possession,4,46,44,66, 53
+2018-11-16 14:16:00 +0000,1,Scherian ,C,Penaly - Contact,4,46,44,66, 53
+2018-11-16 14:16:00 +0000,0,Proud,C,Possession,4,46,44,66, 53
+2018-11-16 14:16:04 +0000,0,Wallace,GS,Possession,4,46,44,57, 36
+2018-11-16 14:16:07 +0000,0,Hadley,WA,Possession,4,46,44,19, 19
+2018-11-16 14:16:45 +0000,1,McAuliffe,WD,Gain - Tip (Deflect),4,46,44,25, 24
+2018-11-16 14:16:54 +0000,1,Scherian ,C,Possession,4,46,44,54, 40
+2018-11-16 14:16:57 +0000,1,Browne,WA,Possession,4,46,44,9, 105
+2018-11-16 14:17:01 +0000,1,Wood,GA,Possession,4,46,44,23, 161
+2018-11-16 14:17:04 +0000,1,Browne,WA,Possession,4,46,44,17, 174
+2018-11-16 14:17:07 +0000,1,Scherian ,C,Possession,4,46,44,39, 160
+2018-11-16 14:17:10 +0000,1,McAuliffe,WD,Possession,4,46,44,27, 127
+2018-11-16 14:17:12 +0000,1,Scherian ,C,Possession,4,46,44,28, 140
+2018-11-16 14:17:14 +0000,1,Wood,GA,Possession,4,46,44,9, 166
+2018-11-16 14:17:16 +0000,1,Scherian ,C,Possession,4,46,44,21, 150
+2018-11-16 14:17:18 +0000,1,Wood,GA,Possession,4,46,44,11, 174
+2018-11-16 14:17:20 +0000,0,Eddy,WD,Penaly - Contact,4,46,44,19, 181
+2018-11-16 14:17:21 +0000,1,Scherian ,C,Possession,4,46,44,19, 181
+2018-11-16 14:17:25 +0000,1,Scherian ,C,Assist - Circle Entry,4,46,44,19, 181
+2018-11-16 14:17:25 +0000,1,Bassett,GS,Possession,4,46,44,51, 190
+2018-11-16 14:17:26 +0000,0,Klau ,GK,Penaly - Contact,4,46,44,51, 190
+2018-11-16 14:17:26 +0000,1,Bassett,GS,Goal - Score,4,46,44,51, 190
+2018-11-16 14:17:31 +0000,0,Proud,C,Centre Pass,4,46,45,50, 100
+2018-11-16 14:17:31 +0000,0,Hadley,WA,Assist - Centre Pass Rec,4,46,45,72, 73
+2018-11-16 14:17:33 +0000,0,Wallace,GS,Assist - 2nd Phase,4,46,45,51, 49
+2018-11-16 14:17:36 +0000,0,Hadley,WA,Possession,4,46,45,18, 21
+2018-11-16 14:17:38 +0000,0,Hadley,WA,Assist - Circle Entry,4,46,45,18, 21
+2018-11-16 14:17:38 +0000,0,Housby ,GA,Possession,4,46,45,35, 9
+2018-11-16 14:17:40 +0000,1,Pretorius ,GD,Penaly - Contact,4,46,45,35, 9
+2018-11-16 14:17:40 +0000,0,Housby ,GA,Goal - Score,4,46,45,35, 9
+2018-11-16 14:17:50 +0000,1,Scherian ,C,Centre Pass,4,47,45,50, 100
+2018-11-16 14:17:50 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,47,45,71, 121
+2018-11-16 14:17:53 +0000,1,Browne,WA,Assist - 2nd Phase,4,47,45,44, 124
+2018-11-16 14:17:55 +0000,1,Scherian ,C,Possession,4,47,45,78, 134
+2018-11-16 14:17:57 +0000,1,McAuliffe,WD,Possession,4,47,45,75, 96
+2018-11-16 14:17:59 +0000,1,Pretorius ,GD,Possession,4,47,45,48, 107
+2018-11-16 14:18:00 +0000,1,Browne,WA,Possession,4,47,45,16, 125
+2018-11-16 14:18:02 +0000,1,McAuliffe,WD,Possession,4,47,45,58, 87
+2018-11-16 14:18:04 +0000,1,Wood,GA,Possession,4,47,45,79, 124
+2018-11-16 14:18:06 +0000,1,Scherian ,C,Possession,4,47,45,64, 148
+2018-11-16 14:18:08 +0000,1,Scherian ,C,Assist - Circle Entry,4,47,45,64, 148
+2018-11-16 14:18:08 +0000,1,Bassett,GS,Possession,4,47,45,60, 173
+2018-11-16 14:18:11 +0000,1,Wood,GA,Possession,4,47,45,91, 184
+2018-11-16 14:18:13 +0000,1,Wood,GA,Assist - Circle Entry,4,47,45,91, 184
+2018-11-16 14:18:13 +0000,1,Bassett,GS,Possession,4,47,45,53, 176
+2018-11-16 14:18:14 +0000,1,Scherian ,C,Possession,4,47,45,33, 163
+2018-11-16 14:18:16 +0000,1,Scherian ,C,Assist - Circle Entry,4,47,45,33, 163
+2018-11-16 14:18:16 +0000,1,Bassett,GS,Goal - Score,4,47,45,57, 192
+2018-11-16 14:18:26 +0000,0,Proud,C,Centre Pass,4,47,46,50, 100
+2018-11-16 14:18:26 +0000,0,Housby ,GA,Assist - Centre Pass Rec,4,47,46,78, 75
+2018-11-16 14:18:29 +0000,0,Eddy,WD,Assist - 2nd Phase,4,47,46,74, 76
+2018-11-16 14:18:31 +0000,0,Hadley,WA,Possession,4,47,46,73, 40
+2018-11-16 14:18:33 +0000,0,Wallace,GS,Possession,4,47,46,60, 33
+2018-11-16 14:18:34 +0000,0,Hadley,WA,Possession,4,47,46,65, 29
+2018-11-16 14:18:37 +0000,0,Hadley,WA,Assist - Circle Entry,4,47,46,65, 29
+2018-11-16 14:18:37 +0000,0,Wallace,GS,Goal - Score,4,47,46,44, 13
+2018-11-16 14:18:44 +0000,1,Scherian ,C,Centre Pass,4,48,46,50, 100
+2018-11-16 14:18:44 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,48,46,74, 122
+2018-11-16 14:18:47 +0000,1,Browne,WA,Assist - 2nd Phase,4,48,46,43, 161
+2018-11-16 14:18:49 +0000,1,Browne,WA,Assist - Circle Entry,4,48,46,43, 161
+2018-11-16 14:18:49 +0000,1,Wood,GA,Possession,4,48,46,42, 182
+2018-11-16 14:18:53 +0000,0,Klau ,GK,Penaly - Contact,4,48,46,42, 182
+2018-11-16 14:18:53 +0000,1,Wood,GA,Goal - Score,4,48,46,42, 182
+2018-11-16 14:19:08 +0000,0,Proud,C,Centre Pass,4,48,47,50, 100
+2018-11-16 14:19:08 +0000,0,Housby ,GA,Assist - Centre Pass Rec,4,48,47,20, 72
+2018-11-16 14:19:10 +0000,0,Eddy,WD,Assist - 2nd Phase,4,48,47,50, 71
+2018-11-16 14:19:32 +0000,0,Hadley,WA,Possession,4,48,47,65, 71
+2018-11-16 14:19:34 +0000,0,Proud,C,Possession,4,48,47,84, 54
+2018-11-16 14:19:48 +0000,0,Wallace,GS,Possession,4,48,47,50, 38
+2018-11-16 14:19:50 +0000,0,Hadley,WA,Possession,4,48,47,28, 27
+2018-11-16 14:19:55 +0000,0,Hadley,WA,Assist - Circle Entry,4,48,47,28, 27
+2018-11-16 14:19:55 +0000,0,Wallace,GS,Possession,4,48,47,39, 17
+2018-11-16 14:19:57 +0000,1,Mentor,GK,Penaly - Contact,4,48,47,39, 17
+2018-11-16 14:19:57 +0000,0,Housby ,GA,Possession,4,48,47,39, 17
+2018-11-16 14:20:04 +0000,0,Wallace,GS,Goal - Score,4,48,47,53, 9
+2018-11-16 14:20:12 +0000,1,Scherian ,C,Centre Pass,4,49,47,50, 100
+2018-11-16 14:20:12 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,49,47,70, 118
+2018-11-16 14:20:14 +0000,1,Wood,GA,Assist - 2nd Phase,4,49,47,82, 146
+2018-11-16 14:20:17 +0000,1,Browne,WA,Possession,4,49,47,79, 129
+2018-11-16 14:20:19 +0000,1,McAuliffe,WD,Possession,4,49,47,68, 126
+2018-11-16 14:20:21 +0000,1,Scherian ,C,Possession,4,49,47,48, 142
+2018-11-16 14:20:22 +0000,1,Wood,GA,Possession,4,49,47,66, 157
+2018-11-16 14:20:24 +0000,1,Wood,GA,Assist - Circle Entry,4,49,47,66, 157
+2018-11-16 14:20:24 +0000,1,Bassett,GS,Possession,4,49,47,60, 173
+2018-11-16 14:20:25 +0000,1,Browne,WA,Possession,4,49,47,84, 192
+2018-11-16 14:20:28 +0000,1,Browne,WA,Assist - Circle Entry,4,49,47,84, 192
+2018-11-16 14:20:28 +0000,1,Bassett,GS,Goal - Score,4,49,47,54, 190
+2018-11-16 14:20:35 +0000,0,Proud,C,Centre Pass,4,49,48,50, 100
+2018-11-16 14:20:35 +0000,0,Hadley,WA,Assist - Centre Pass Rec,4,49,48,7, 78
+2018-11-16 14:20:38 +0000,0,Housby ,GA,Assist - 2nd Phase,4,49,48,19, 69
+2018-11-16 14:20:40 +0000,0,Hadley,WA,Possession,4,49,48,62, 34
+2018-11-16 14:20:43 +0000,0,Hadley,WA,Assist - Circle Entry,4,49,48,62, 34
+2018-11-16 14:20:43 +0000,0,Wallace,GS,Possession,4,49,48,61, 18
+2018-11-16 14:20:45 +0000,0,Hadley,WA,Possession,4,49,48,61, 33
+2018-11-16 14:20:51 +0000,0,Hadley,WA,Assist - Circle Entry,4,49,48,61, 33
+2018-11-16 14:20:51 +0000,0,Wallace,GS,Goal - Score,4,49,48,58, 14
+2018-11-16 14:21:21 +0000,1,Scherian ,C,Centre Pass,4,50,48,50, 100
+2018-11-16 14:21:21 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,4,50,48,25, 86
+2018-11-16 14:21:23 +0000,1,Wood,GA,Assist - 2nd Phase,4,50,48,84, 94
+2018-11-16 14:21:25 +0000,1,Pretorius ,GD,Possession,4,50,48,76, 126
+2018-11-16 14:21:27 +0000,1,Scherian ,C,Possession,4,50,48,79, 143
+2018-11-16 14:21:30 +0000,1,Browne,WA,Possession,4,50,48,58, 139
+2018-11-16 14:21:31 +0000,1,Browne,WA,Possession,4,50,48,85, 148
+2018-11-16 14:21:50 +0000,0,Eddy,WD,Loss - Offside,4,50,48,28, 176
+2018-11-16 14:21:50 +0000,1,Wood,GA,Possession,4,50,48,28, 176
+2018-11-16 14:21:56 +0000,1,Scherian ,C,Possession,4,50,48,22, 176
+2018-11-16 14:22:01 +0000,1,Scherian ,C,Assist - Circle Entry,4,50,48,22, 176
+2018-11-16 14:22:01 +0000,1,Bassett,GS,Possession,4,50,48,24, 194
+2018-11-16 14:22:03 +0000,1,Wood,GA,Goal - Score,4,50,48,39, 184
+2018-11-16 14:22:13 +0000,0,Proud,C,Centre Pass,4,50,49,50, 100
+2018-11-16 14:22:13 +0000,0,Hadley,WA,Assist - Centre Pass Rec,4,50,49,79, 79
+2018-11-16 14:22:15 +0000,0,Housby ,GA,Assist - 2nd Phase,4,50,49,13, 68
+2018-11-16 14:22:17 +0000,0,Turner,GD,Possession,4,50,49,34, 74
+2018-11-16 14:22:19 +0000,0,Hadley,WA,Possession,4,50,49,63, 73
+2018-11-16 14:22:20 +0000,0,Proud,C,Possession,4,50,49,55, 59
+2018-11-16 14:22:22 +0000,0,Wallace,GS,Possession,4,50,49,86, 46
+2018-11-16 14:22:24 +0000,0,Proud,C,Possession,4,50,49,71, 58
+2018-11-16 14:22:26 +0000,0,Hadley,WA,Possession,4,50,49,82, 34
+2018-11-16 14:22:28 +0000,0,Housby ,GA,Possession,4,50,49,86, 10
+2018-11-16 14:22:37 +0000,0,Hadley,WA,Possession,4,50,49,81, 52
+2018-11-16 14:22:40 +0000,0,Housby ,GA,Possession,4,50,49,80, 18
+2018-11-16 14:22:44 +0000,0,Hadley,WA,Possession,4,50,49,86, 38
+2018-11-16 14:22:46 +0000,0,Housby ,GA,Possession,4,50,49,92, 11
+2018-11-16 14:22:53 +0000,1,Scherian ,C,Penaly - Contact,4,50,49,81, 14
+2018-11-16 14:22:53 +0000,0,Hadley,WA,Possession,4,50,49,81, 14
+2018-11-16 14:23:02 +0000,1,Pretorius ,GD,Penaly - Contact,4,50,49,81, 14
+2018-11-16 14:23:02 +0000,0,Hadley,WA,Possession,4,50,49,81, 14
+2018-11-16 14:23:07 +0000,0,Hadley,WA,Assist - Circle Entry,4,50,49,81, 14
+2018-11-16 14:23:07 +0000,0,Housby ,GA,Possession,4,50,49,54, 10
+2018-11-16 14:23:09 +0000,1,Mentor,GK,Penaly - Contact,4,50,49,54, 10
+2018-11-16 14:23:09 +0000,0,Housby ,GA,Goal - Score,4,50,49,54, 10
+2018-11-16 14:23:21 +0000,1,Scherian ,C,Centre Pass,4,51,49,50, 100
+2018-11-16 14:23:21 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,4,51,49,25, 85
+2018-11-16 14:23:25 +0000,1,Scherian ,C,Assist - 2nd Phase,4,51,49,48, 85
+2018-11-16 14:23:29 +0000,1,McAuliffe,WD,Possession,4,51,49,83, 89
+2018-11-16 14:23:47 +0000,0,Eddy,WD,Gain - Inter,4,51,49,91, 124
+2018-11-16 14:23:51 +0000,1,Browne,WA,Penaly - Contact,4,51,49,91, 124
+2018-11-16 14:23:51 +0000,0,Eddy,WD,Possession,4,51,49,91, 124
+2018-11-16 14:23:56 +0000,0,Proud,C,Possession,4,51,49,67, 102
+2018-11-16 14:23:59 +0000,0,Eddy,WD,Possession,4,51,49,86, 117
+2018-11-16 14:24:03 +0000,0,Proud,C,Possession,4,51,49,71, 108
+2018-11-16 14:24:05 +0000,0,Eddy,WD,Possession,4,51,49,58, 120
+2018-11-16 14:24:08 +0000,0,Hadley,WA,Possession,4,51,49,94, 99
+2018-11-16 14:24:10 +0000,0,Turner,GD,Possession,4,51,49,68, 76
+2018-11-16 14:24:12 +0000,0,Hadley,WA,Possession,4,51,49,90, 57
+2018-11-16 14:24:14 +0000,0,Wallace,GS,Possession,4,51,49,60, 45
+2018-11-16 14:24:16 +0000,0,Housby ,GA,Possession,4,51,49,20, 31
+2018-11-16 14:24:19 +0000,1,McAuliffe,WD,Penaly - Contact,4,51,49,32, 31
+2018-11-16 14:24:19 +0000,0,Hadley,WA,Possession,4,51,49,32, 31
+2018-11-16 14:24:24 +0000,0,Hadley,WA,Assist - Circle Entry,4,51,49,32, 31
+2018-11-16 14:24:24 +0000,0,Wallace,GS,Possession,4,51,49,49, 16
+2018-11-16 14:24:26 +0000,0,Hadley,WA,Possession,4,51,49,36, 31
+2018-11-16 14:24:29 +0000,0,Hadley,WA,Assist - Circle Entry,4,51,49,36, 31
+2018-11-16 14:24:29 +0000,0,Wallace,GS,Goal - Score,4,51,49,53, 12
+2018-11-16 14:25:26 +0000,0,Proud,C,Centre Pass,4,52,49,50, 100
+2018-11-16 14:25:26 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,4,52,49,78, 75
+2018-11-16 14:25:27 +0000,0,Housby ,GA,Assist - 2nd Phase,4,52,49,65, 45
+2018-11-16 14:25:29 +0000,0,Hadley,WA,Possession,4,52,49,62, 57
+2018-11-16 14:25:32 +0000,0,Wallace,GS,Possession,4,52,49,40, 40
+2018-11-16 14:25:34 +0000,0,Proud,C,Possession,4,52,49,83, 6
+2018-11-16 14:25:39 +0000,0,Hadley,WA,Possession,4,52,49,22, 21
+2018-11-16 14:25:45 +0000,1,McAuliffe,WD,Penaly - Contact,4,52,49,22, 21
+2018-11-16 14:25:45 +0000,0,Hadley,WA,Possession,4,52,49,22, 21
+2018-11-16 14:25:55 +0000,1,Pretorius ,GD,Penaly - Obstruction,4,52,49,28, 15
+2018-11-16 14:25:55 +0000,0,Housby ,GA,Possession,4,52,49,28, 15
+2018-11-16 14:25:59 +0000,0,Wallace,GS,Goal - Score,4,52,49,45, 6
+2018-11-16 14:26:02 +0000,1,Scherian ,C,Centre Pass,4,53,49,50, 100
+2018-11-16 14:26:02 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,53,49,78, 114
+2018-11-16 14:26:05 +0000,1,Browne,WA,Assist - 2nd Phase,4,53,49,87, 149
+2018-11-16 14:26:06 +0000,1,Scherian ,C,Possession,4,53,49,73, 142
+2018-11-16 14:26:08 +0000,1,Browne,WA,Possession,4,53,49,89, 163
+2018-11-16 14:26:10 +0000,1,Browne,WA,Possession,4,53,49,59, 146
+2018-11-16 14:26:12 +0000,1,Wood,GA,Possession,4,53,49,73, 170
+2018-11-16 14:26:14 +0000,1,Browne,WA,Possession,4,53,49,83, 186
+2018-11-16 14:26:16 +0000,1,Browne,WA,Assist - Circle Entry,4,53,49,83, 186
+2018-11-16 14:26:16 +0000,1,Wood,GA,Goal - Score,4,53,49,64, 186
+2018-11-16 14:26:25 +0000,0,Proud,C,Centre Pass,4,53,50,50, 100
+2018-11-16 14:26:25 +0000,0,Eddy,WD,Assist - Centre Pass Rec,4,53,50,75, 101
+2018-11-16 14:26:26 +0000,0,Proud,C,Assist - 2nd Phase,4,53,50,60, 87
+2018-11-16 14:26:28 +0000,0,Hadley,WA,Possession,4,53,50,41, 78
+2018-11-16 14:26:30 +0000,0,Housby ,GA,Possession,4,53,50,5, 51
+2018-11-16 14:26:31 +0000,0,Hadley,WA,Possession,4,53,50,29, 51
+2018-11-16 14:26:33 +0000,0,Wallace,GS,Possession,4,53,50,69, 33
+2018-11-16 14:26:35 +0000,0,Housby ,GA,Possession,4,53,50,41, 37
+2018-11-16 14:26:37 +0000,0,Hadley,WA,Possession,4,53,50,35, 31
+2018-11-16 14:26:39 +0000,0,Hadley,WA,Assist - Circle Entry,4,53,50,35, 31
+2018-11-16 14:26:39 +0000,0,Housby ,GA,Goal - Score,4,53,50,44, 18
+2018-11-16 14:26:47 +0000,1,Scherian ,C,Centre Pass,4,54,50,50, 100
+2018-11-16 14:26:47 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,54,50,68, 108
+2018-11-16 14:26:49 +0000,1,Wood,GA,Assist - 2nd Phase,4,54,50,11, 126
+2018-11-16 14:27:22 +0000,1,Browne,WA,Possession,4,54,50,14, 169
+2018-11-16 14:27:24 +0000,1,Wood,GA,Possession,4,54,50,19, 146
+2018-11-16 14:27:26 +0000,1,Browne,WA,Possession,4,54,50,25, 167
+2018-11-16 14:27:28 +0000,1,Scherian ,C,Possession,4,54,50,83, 180
+2018-11-16 14:27:31 +0000,1,Browne,WA,Possession,4,54,50,20, 178
+2018-11-16 14:27:33 +0000,0,Eddy,WD,Penaly - Contact,4,54,50,20, 178
+2018-11-16 14:27:33 +0000,1,Browne,WA,Possession,4,54,50,20, 178
+2018-11-16 14:27:38 +0000,1,Browne,WA,Assist - Circle Entry,4,54,50,20, 178
+2018-11-16 14:27:39 +0000,1,Bassett,GS,Possession,4,54,50,56, 190
+2018-11-16 14:27:40 +0000,0,Klau ,GK,Penaly - Contact,4,54,50,56, 190
+2018-11-16 14:27:40 +0000,1,Bassett,GS,Goal - Score,4,54,50,56, 190
+2018-11-16 14:27:57 +0000,0,Proud,C,Centre Pass,4,54,51,50, 100
+2018-11-16 14:28:04 +0000,0,Proud,C,Centre Pass,4,54,51,50, 100
+2018-11-16 14:28:04 +0000,1,Pretorius ,GD,Penaly - Contact on CP,4,54,51,27, 67
+2018-11-16 14:28:04 +0000,0,Eddy,WD,Possession,4,54,51,27, 67
+2018-11-16 14:28:18 +0000,0,Proud,C,Assist - 2nd Phase,4,54,51,76, 35
+2018-11-16 14:28:21 +0000,0,Hadley,WA,Possession,4,54,51,60, 37
+2018-11-16 14:28:23 +0000,0,Housby ,GA,Possession,4,54,51,84, 14
+2018-11-16 14:28:25 +0000,0,Proud,C,Possession,4,54,51,66, 28
+2018-11-16 14:28:28 +0000,0,Proud,C,Assist - Circle Entry,4,54,51,66, 28
+2018-11-16 14:28:28 +0000,0,Housby ,GA,Possession,4,54,51,58, 16
+2018-11-16 14:28:30 +0000,0,Hadley,WA,Possession,4,54,51,37, 31
+2018-11-16 14:28:32 +0000,0,Hadley,WA,Assist - Circle Entry,4,54,51,37, 31
+2018-11-16 14:28:32 +0000,0,Housby ,GA,Possession,4,54,51,39, 15
+2018-11-16 14:28:34 +0000,0,Proud,C,Possession,4,54,51,83, 9
+2018-11-16 14:28:37 +0000,0,Proud,C,Assist - Circle Entry,4,54,51,83, 9
+2018-11-16 14:28:37 +0000,0,Wallace,GS,Goal - Score,4,54,51,60, 6
+2018-11-16 14:28:40 +0000,1,,UNKNOWN,Timeout,4,55,51,110, 222
+2018-11-16 14:29:39 +0000,1,Scherian ,C,Centre Pass,4,55,51,50, 100
+2018-11-16 14:29:39 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,55,51,36, 117
+2018-11-16 14:29:41 +0000,1,Wood,GA,Assist - 2nd Phase,4,55,51,13, 127
+2018-11-16 14:29:44 +0000,0,Housby ,GA,Deflect,4,55,51,20, 127
+2018-11-16 14:29:44 +0000,1,Pretorius ,GD,Throw In,4,55,51,-6, 125
+2018-11-16 14:29:53 +0000,1,Browne,WA,Possession,4,55,51,20, 112
+2018-11-16 14:29:56 +0000,0,Eddy,WD,Penaly - Contact,4,55,51,20, 112
+2018-11-16 14:29:56 +0000,1,Pretorius ,GD,Possession,4,55,51,20, 112
+2018-11-16 14:30:02 +0000,1,Browne,WA,Possession,4,55,51,35, 145
+2018-11-16 14:30:04 +0000,1,McAuliffe,WD,Possession,4,55,51,55, 127
+2018-11-16 14:30:06 +0000,1,Browne,WA,Possession,4,55,51,57, 151
+2018-11-16 14:30:08 +0000,1,Wood,GA,Possession,4,55,51,34, 160
+2018-11-16 14:30:10 +0000,1,Wood,GA,Assist - Circle Entry,4,55,51,34, 160
+2018-11-16 14:30:10 +0000,1,Bassett,GS,Goal - Score,4,55,51,53, 191
+2018-11-16 14:30:17 +0000,0,Proud,C,Centre Pass,4,55,52,50, 100
+2018-11-16 14:30:17 +0000,0,Hadley,WA,Assist - Centre Pass Rec,4,55,52,53, 73
+2018-11-16 14:30:20 +0000,0,Turner,GD,Assist - 2nd Phase,4,55,52,7, 79
+2018-11-16 14:30:22 +0000,0,Proud,C,Possession,4,55,52,35, 68
+2018-11-16 14:30:24 +0000,0,Hadley,WA,Possession,4,55,52,45, 56
+2018-11-16 14:30:26 +0000,0,Housby ,GA,Possession,4,55,52,74, 39
+2018-11-16 14:30:28 +0000,0,Proud,C,Possession,4,55,52,18, 18
+2018-11-16 14:30:32 +0000,0,Proud,C,Assist - Circle Entry,4,55,52,18, 18
+2018-11-16 14:30:33 +0000,1,Mentor,GK,Gain - Inter,4,55,52,45, 16
+2018-11-16 14:30:38 +0000,1,McAuliffe,WD,Possession,4,55,52,58, 34
+2018-11-16 14:30:42 +0000,1,Mentor,GK,Possession,4,55,52,82, 35
+2018-11-16 14:30:44 +0000,1,McAuliffe,WD,Possession,4,55,52,84, 62
+2018-11-16 14:30:46 +0000,1,Pretorius ,GD,Possession,4,55,52,60, 58
+2018-11-16 14:30:47 +0000,1,Mentor,GK,Possession,4,55,52,46, 37
+2018-11-16 14:30:49 +0000,1,Scherian ,C,Possession,4,55,52,45, 48
+2018-11-16 14:30:51 +0000,1,Mentor,GK,Possession,4,55,52,74, 60
+2018-11-16 14:30:54 +0000,1,McAuliffe,WD,Possession,4,55,52,53, 70
+2018-11-16 14:30:56 +0000,1,Pretorius ,GD,Possession,4,55,52,33, 75
+2018-11-16 14:30:59 +0000,1,Scherian ,C,Possession,4,55,52,12, 125
+2018-11-16 14:31:01 +0000,1,Wood,GA,Possession,4,55,52,23, 155
+2018-11-16 14:32:23 +0000,0,Eddy,WD,Deflect,4,55,52,91, 143
+2018-11-16 14:32:23 +0000,1,Browne,WA,Throw In,4,55,52,108, 138
+2018-11-16 14:32:34 +0000,1,Wood,GA,Possession,4,55,52,83, 159
+2018-11-16 14:32:38 +0000,1,Wood,GA,Assist - Circle Entry,4,55,52,83, 159
+2018-11-16 14:32:38 +0000,1,Bassett,GS,Goal - Score,4,55,52,51, 189
+2018-11-16 14:34:02 +0000,1,Scherian ,C,Centre Pass,4,55,53,50, 100
+2018-11-16 14:34:02 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,55,53,51, 110
+2018-11-16 14:34:04 +0000,1,Scherian ,C,Assist - 2nd Phase,4,55,53,57, 91
+2018-11-16 14:34:06 +0000,1,Wood,GA,Possession,4,55,53,87, 138
+2018-11-16 14:34:09 +0000,1,Browne,WA,Possession,4,55,53,65, 143
+2018-11-16 14:34:11 +0000,1,Scherian ,C,Possession,4,55,53,49, 140
+2018-11-16 14:34:13 +0000,1,Wood,GA,Possession,4,55,53,80, 155
+2018-11-16 14:34:15 +0000,1,Browne,WA,Possession,4,55,53,58, 155
+2018-11-16 14:34:17 +0000,1,Pretorius ,GD,Possession,4,55,53,58, 128
+2018-11-16 14:34:25 +0000,1,Browne,WA,Possession,4,55,53,62, 162
+2018-11-16 14:34:27 +0000,1,Wood,GA,Possession,4,55,53,77, 164
+2018-11-16 14:34:29 +0000,1,Browne,WA,Possession,4,55,53,82, 185
+2018-11-16 14:34:35 +0000,1,Browne,WA,Assist - Circle Entry,4,55,53,82, 185
+2018-11-16 14:34:35 +0000,1,Bassett,GS,Goal - Score,4,55,53,47, 191
+2018-11-16 14:34:46 +0000,0,Proud,C,Centre Pass,4,55,54,50, 100
+2018-11-16 14:34:46 +0000,0,Eddy,WD,Assist - Centre Pass Rec,4,55,54,48, 117
+2018-11-16 14:34:48 +0000,0,Hadley,WA,Assist - 2nd Phase,4,55,54,71, 98
+2018-11-16 14:34:50 +0000,0,Proud,C,Possession,4,55,54,75, 68
+2018-11-16 14:34:52 +0000,0,Eddy,WD,Possession,4,55,54,55, 113
+2018-11-16 14:34:53 +0000,0,Turner,GD,Possession,4,55,54,24, 103
+2018-11-16 14:34:55 +0000,0,Housby ,GA,Possession,4,55,54,0, 81
+2018-11-16 14:34:57 +0000,0,Hadley,WA,Possession,4,55,54,26, 95
+2018-11-16 14:34:59 +0000,0,Turner,GD,Possession,4,55,54,32, 111
+2018-11-16 14:35:01 +0000,0,Proud,C,Possession,4,55,54,38, 88
+2018-11-16 14:35:02 +0000,0,Turner,GD,Possession,4,55,54,50, 109
+2018-11-16 14:35:04 +0000,0,Proud,C,Possession,4,55,54,23, 93
+2018-11-16 14:35:06 +0000,0,Turner,GD,Possession,4,55,54,49, 112
+2018-11-16 14:35:09 +0000,0,Hadley,WA,Possession,4,55,54,9, 80
+2018-11-16 14:35:16 +0000,0,Eddy,WD,Possession,4,55,54,31, 80
+2018-11-16 14:35:19 +0000,0,Housby ,GA,Possession,4,55,54,20, 61
+2018-11-16 14:35:21 +0000,0,Hadley,WA,Possession,4,55,54,4, 46
+2018-11-16 14:35:24 +0000,0,Wallace,GS,Possession,4,55,54,19, 16
+2018-11-16 14:35:26 +0000,0,Proud,C,Possession,4,55,54,77, 22
+2018-11-16 14:35:28 +0000,0,Proud,C,Assist - Circle Entry,4,55,54,77, 22
+2018-11-16 14:35:28 +0000,0,Wallace,GS,Possession,4,55,54,46, 9
+2018-11-16 14:35:31 +0000,1,Pretorius ,GD,Penaly - Contact,4,55,54,46, 9
+2018-11-16 14:35:32 +0000,0,Wallace,GS,Goal - Score,4,55,54,46, 9
+2018-11-16 14:35:45 +0000,1,Scherian ,C,Centre Pass,4,56,54,50, 100
+2018-11-16 14:35:45 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,56,54,77, 124
+2018-11-16 14:35:47 +0000,1,Pretorius ,GD,Assist - 2nd Phase,4,56,54,61, 122
+2018-11-16 14:35:49 +0000,1,Scherian ,C,Possession,4,56,54,43, 140
+2018-11-16 14:35:51 +0000,1,Browne,WA,Possession,4,56,54,80, 146
+2018-11-16 14:35:53 +0000,1,Wood,GA,Possession,4,56,54,90, 162
+2018-11-16 14:35:54 +0000,1,Browne,WA,Loss - Held Ball,4,56,54,83, 142
+2018-11-16 14:35:58 +0000,0,Klau ,GK,Possession,4,56,54,82, 141
+2018-11-16 14:36:06 +0000,0,Turner,GD,Possession,4,56,54,29, 146
+2018-11-16 14:36:08 +0000,0,Klau ,GK,Possession,4,56,54,78, 146
+2018-11-16 14:36:10 +0000,0,Proud,C,Possession,4,56,54,75, 136
+2018-11-16 14:36:11 +0000,0,Hadley,WA,Possession,4,56,54,79, 105
+2018-11-16 14:36:13 +0000,0,Turner,GD,Possession,4,56,54,72, 85
+2018-11-16 14:36:15 +0000,1,Wood,GA,Penaly - Obstruction,4,56,54,72, 85
+2018-11-16 14:36:15 +0000,0,Turner,GD,Possession,4,56,54,72, 85
+2018-11-16 14:36:21 +0000,0,Hadley,WA,Possession,4,56,54,51, 77
+2018-11-16 14:36:24 +0000,0,Turner,GD,Possession,4,56,54,38, 90
+2018-11-16 14:36:26 +0000,0,Hadley,WA,Possession,4,56,54,71, 78
+2018-11-16 14:36:28 +0000,0,Housby ,GA,Possession,4,56,54,24, 73
+2018-11-16 14:36:29 +0000,0,Proud,C,Possession,4,56,54,26, 58
+2018-11-16 14:36:31 +0000,0,Hadley,WA,Possession,4,56,54,52, 42
+2018-11-16 14:36:34 +0000,0,Eddy,WD,Possession,4,56,54,72, 71
+2018-11-16 14:36:36 +0000,0,Hadley,WA,Possession,4,56,54,63, 45
+2018-11-16 14:36:38 +0000,0,Wallace,GS,Possession,4,56,54,76, 20
+2018-11-16 14:36:42 +0000,0,Hadley,WA,Possession,4,56,54,79, 52
+2018-11-16 14:36:44 +0000,0,Proud,C,Possession,4,56,54,17, 32
+2018-11-16 14:36:47 +0000,0,Hadley,WA,Possession,4,56,54,30, 45
+2018-11-16 14:36:49 +0000,0,Eddy,WD,Possession,4,56,54,81, 70
+2018-11-16 14:36:53 +0000,1,Scherian ,C,Penaly - Contact,4,56,54,63, 59
+2018-11-16 14:36:53 +0000,0,Hadley,WA,Possession,4,56,54,63, 59
+2018-11-16 14:37:09 +0000,0,Hadley,WA,Assist - Circle Entry,4,56,54,63, 59
+2018-11-16 14:37:09 +0000,0,Housby ,GA,Possession,4,56,54,55, 25
+2018-11-16 14:37:11 +0000,0,Hadley,WA,Possession,4,56,54,17, 15
+2018-11-16 14:37:14 +0000,0,Hadley,WA,Assist - Circle Entry,4,56,54,17, 15
+2018-11-16 14:37:14 +0000,0,Housby ,GA,Possession,4,56,54,39, 24
+2018-11-16 14:37:16 +0000,0,Proud,C,Possession,4,56,54,75, 22
+2018-11-16 14:37:19 +0000,1,McAuliffe,WD,Penaly - Contact,4,56,54,75, 22
+2018-11-16 14:37:20 +0000,0,Proud,C,Possession,4,56,54,75, 22
+2018-11-16 14:37:23 +0000,0,Proud,C,Assist - Circle Entry,4,56,54,75, 22
+2018-11-16 14:37:23 +0000,0,Wallace,GS,Possession,4,56,54,43, 8
+2018-11-16 14:37:25 +0000,1,Mentor,GK,Penaly - Obstruction,4,56,54,43, 8
+2018-11-16 14:37:25 +0000,0,Wallace,GS,Goal - Score,4,56,54,43, 8
+2018-11-16 14:37:32 +0000,0,Proud,C,Centre Pass,4,57,54,50, 100
+2018-11-16 14:37:32 +0000,0,Housby ,GA,Assist - Centre Pass Rec,4,57,54,8, 79
+2018-11-16 14:37:34 +0000,0,Eddy,WD,Assist - 2nd Phase,4,57,54,23, 72
+2018-11-16 14:37:38 +0000,0,Wallace,GS,Possession,4,57,54,17, 15
+2018-11-16 14:37:40 +0000,0,Hadley,WA,Possession,4,57,54,27, 26
+2018-11-16 14:37:43 +0000,0,Proud,C,Possession,4,57,54,69, 26
+2018-11-16 14:37:45 +0000,0,Proud,C,Assist - Circle Entry,4,57,54,69, 26
+2018-11-16 14:37:45 +0000,0,Housby ,GA,Possession,4,57,54,51, 26
+2018-11-16 14:37:47 +0000,0,Proud,C,Possession,4,57,54,83, 14
+2018-11-16 14:37:50 +0000,0,Proud,C,Assist - Circle Entry,4,57,54,83, 14
+2018-11-16 14:37:50 +0000,0,Wallace,GS,Possession,4,57,54,57, 7
+2018-11-16 14:37:51 +0000,1,Pretorius ,GD,Penaly - Contact,4,57,54,57, 7
+2018-11-16 14:37:51 +0000,0,Wallace,GS,Goal - Score,4,57,54,57, 7
+2018-11-16 14:38:00 +0000,1,Scherian ,C,Centre Pass,4,58,54,50, 100
+2018-11-16 14:38:00 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,58,54,35, 112
+2018-11-16 14:38:03 +0000,1,Scherian ,C,Assist - 2nd Phase,4,58,54,16, 145
+2018-11-16 14:38:08 +0000,0,Proud,C,Penaly - Contact,4,58,54,16, 145
+2018-11-16 14:38:08 +0000,1,Scherian ,C,Possession,4,58,54,16, 145
+2018-11-16 14:38:11 +0000,1,Scherian ,C,Assist - Circle Entry,4,58,54,16, 145
+2018-11-16 14:38:11 +0000,1,Wood,GA,Goal - Score,4,58,54,56, 192
+2018-11-16 14:38:25 +0000,0,Proud,C,Centre Pass,4,58,55,50, 100
+2018-11-16 14:38:25 +0000,0,Eddy,WD,Assist - Centre Pass Rec,4,58,55,75, 117
+2018-11-16 14:38:28 +0000,0,Hadley,WA,Assist - 2nd Phase,4,58,55,89, 113
+2018-11-16 14:38:30 +0000,0,Klau ,GK,Possession,4,58,55,15, 137
+2018-11-16 14:38:32 +0000,0,Turner,GD,Possession,4,58,55,20, 101
+2018-11-16 14:38:34 +0000,0,Hadley,WA,Possession,4,58,55,76, 109
+2018-11-16 14:38:36 +0000,0,Proud,C,Possession,4,58,55,53, 110
+2018-11-16 14:38:37 +0000,0,Hadley,WA,Possession,4,58,55,68, 97
+2018-11-16 14:38:39 +0000,0,Turner,GD,Possession,4,58,55,53, 108
+2018-11-16 14:38:41 +0000,1,Browne,WA,Penaly - Contact,4,58,55,53, 108
+2018-11-16 14:38:41 +0000,0,Turner,GD,Possession,4,58,55,53, 108
+2018-11-16 14:38:44 +0000,0,Hadley,WA,Possession,4,58,55,82, 82
+2018-11-16 14:38:53 +0000,1,Wood,GA,Penaly - Contact,4,58,55,43, 70
+2018-11-16 14:38:53 +0000,0,Eddy,WD,Possession,4,58,55,43, 70
+2018-11-16 14:38:58 +0000,0,Proud,C,Possession,4,58,55,45, 52
+2018-11-16 14:39:01 +0000,0,Housby ,GA,Possession,4,58,55,18, 46
+2018-11-16 14:39:03 +0000,0,Proud,C,Possession,4,58,55,22, 55
+2018-11-16 14:39:05 +0000,0,Proud,C,Assist - Circle Entry,4,58,55,22, 55
+2018-11-16 14:39:05 +0000,0,Wallace,GS,Possession,4,58,55,25, 10
+2018-11-16 14:39:08 +0000,0,Hadley,WA,Possession,4,58,55,27, 28
+2018-11-16 14:39:10 +0000,0,Hadley,WA,Assist - Circle Entry,4,58,55,27, 28
+2018-11-16 14:39:10 +0000,0,Wallace,GS,Goal - Score,4,58,55,41, 7
+2018-11-16 14:39:36 +0000,1,Scherian ,C,Centre Pass,4,59,55,50, 100
+2018-11-16 14:39:36 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,59,55,80, 123
+2018-11-16 14:39:38 +0000,0,Turner,GD,Deflect,4,59,55,85, 177
+2018-11-16 14:39:38 +0000,1,Browne,WA,Throw In,4,59,55,108, 186
+2018-11-16 14:39:43 +0000,1,Wood,GA,Possession,4,59,55,78, 154
+2018-11-16 14:39:47 +0000,0,Proud,C,Loss - Offside,4,59,55,19, 181
+2018-11-16 14:39:54 +0000,1,Wood,GA,Possession,4,59,55,18, 181
+2018-11-16 14:39:58 +0000,1,Scherian ,C,Possession,4,59,55,15, 187
+2018-11-16 14:40:02 +0000,1,Scherian ,C,Assist - Circle Entry,4,59,55,15, 187
+2018-11-16 14:40:02 +0000,1,Bassett,GS,Assist - 2nd Phase,4,59,55,44, 192
+2018-11-16 14:40:03 +0000,0,Klau ,GK,Penaly - Contact,4,59,55,44, 192
+2018-11-16 14:40:03 +0000,1,Bassett,GS,Goal - Score,4,59,55,44, 192
+2018-11-16 14:40:14 +0000,0,Proud,C,Centre Pass,4,59,56,50, 100
+2018-11-16 14:40:14 +0000,0,Hadley,WA,Assist - Centre Pass Rec,4,59,56,76, 80
+2018-11-16 14:40:15 +0000,0,Housby ,GA,Assist - 2nd Phase,4,59,56,76, 52
+2018-11-16 14:40:18 +0000,0,Eddy,WD,Possession,4,59,56,78, 94
+2018-11-16 14:40:20 +0000,0,Hadley,WA,Possession,4,59,56,19, 69
+2018-11-16 14:40:26 +0000,1,McAuliffe,WD,Penaly - Contact,4,59,56,72, 44
+2018-11-16 14:40:26 +0000,0,Proud,C,Possession,4,59,56,72, 44

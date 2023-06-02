@@ -1,0 +1,1650 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-12-19 12:46:29 +0000,0,Guthrie,C,Centre Pass,1,0,0,50, 100
+2018-12-19 12:46:29 +0000,0,Green,WA,Assist - Centre Pass Rec,1,0,0,76, 70
+2018-12-19 12:46:30 +0000,0,Guthrie,C,Assist - 2nd Phase,1,0,0,48, 70
+2018-12-19 12:46:32 +0000,0,Pettitt ,GS,Possession,1,0,0,16, 39
+2018-12-19 12:46:37 +0000,0,Green,WA,Possession,1,0,0,27, 39
+2018-12-19 12:46:41 +0000,0,Guthrie,C,Possession,1,0,0,80, 19
+2018-12-19 12:46:53 +0000,0,Guthrie,C,Assist - Circle Entry,1,0,0,80, 19
+2018-12-19 12:46:53 +0000,0,Pettitt ,GS,Goal - Score,1,0,0,37, 13
+2018-12-19 12:47:02 +0000,1,Scherian ,C,Centre Pass,1,1,0,50, 100
+2018-12-19 12:47:02 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,1,0,67, 102
+2018-12-19 12:47:05 +0000,1,Scherian ,C,Assist - 2nd Phase,1,1,0,34, 109
+2018-12-19 12:47:07 +0000,1,Wood,GA,Possession,1,1,0,50, 116
+2018-12-19 12:47:10 +0000,1,McAuliffe,WD,Possession,1,1,0,51, 89
+2018-12-19 12:47:12 +0000,1,Browne,WA,Possession,1,1,0,80, 120
+2018-12-19 12:47:14 +0000,1,Pretorius ,GD,Possession,1,1,0,85, 97
+2018-12-19 12:47:16 +0000,1,Browne,WA,Possession,1,1,0,88, 124
+2018-12-19 12:47:18 +0000,1,McAuliffe,WD,Possession,1,1,0,54, 129
+2018-12-19 12:47:24 +0000,1,McAuliffe,WD,Assist - Circle Entry,1,1,0,54, 129
+2018-12-19 12:47:25 +0000,1,Bassett,GS,Goal - Score,1,1,0,54, 194
+2018-12-19 12:48:01 +0000,0,Guthrie,C,Centre Pass,1,1,1,50, 100
+2018-12-19 12:48:01 +0000,0,Green,WA,Assist - Centre Pass Rec,1,1,1,58, 78
+2018-12-19 12:48:04 +0000,0,Harten ,GA,Assist - 2nd Phase,1,1,1,9, 57
+2018-12-19 12:48:05 +0000,0,Pettitt ,GS,Possession,1,1,1,11, 8
+2018-12-19 12:48:08 +0000,0,Guthrie,C,Possession,1,1,1,23, 23
+2018-12-19 12:48:11 +0000,0,Guthrie,C,Assist - Circle Entry,1,1,1,23, 23
+2018-12-19 12:48:11 +0000,0,Pettitt ,GS,Possession,1,1,1,53, 24
+2018-12-19 12:48:14 +0000,0,Guthrie,C,Possession,1,1,1,16, 13
+2018-12-19 12:48:20 +0000,0,Green,WA,Possession,1,1,1,77, 20
+2018-12-19 12:48:27 +0000,1,Mentor,GK,Deflect,1,1,1,60, 19
+2018-12-19 12:48:27 +0000,0,Price,WD,Possession,1,1,1,66, 69
+2018-12-19 12:48:33 +0000,0,Guthrie,C,Possession,1,1,1,42, 56
+2018-12-19 12:48:52 +0000,0,Green,WA,Possession,1,1,1,50, 34
+2018-12-19 12:48:55 +0000,0,Green,WA,Assist - Circle Entry,1,1,1,50, 34
+2018-12-19 12:48:55 +0000,0,Harten ,GA,Goal - Score,1,1,1,53, 16
+2018-12-19 12:49:04 +0000,1,Scherian ,C,Centre Pass,1,2,1,50, 100
+2018-12-19 12:49:04 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,2,1,64, 119
+2018-12-19 12:49:06 +0000,1,Browne,WA,Assist - 2nd Phase,1,2,1,85, 146
+2018-12-19 12:49:08 +0000,1,McAuliffe,WD,Possession,1,2,1,77, 130
+2018-12-19 12:49:10 +0000,1,Wood,GA,Possession,1,2,1,60, 159
+2018-12-19 12:49:12 +0000,1,Scherian ,C,Possession,1,2,1,30, 167
+2018-12-19 12:49:16 +0000,1,Scherian ,C,Assist - Circle Entry,1,2,1,30, 167
+2018-12-19 12:49:16 +0000,1,Wood,GA,Possession,1,2,1,32, 188
+2018-12-19 12:49:18 +0000,1,Scherian ,C,Possession,1,2,1,34, 168
+2018-12-19 12:49:20 +0000,1,Scherian ,C,Assist - Circle Entry,1,2,1,34, 168
+2018-12-19 12:49:20 +0000,1,Wood,GA,Goal - Score,1,2,1,41, 190
+2018-12-19 12:49:32 +0000,0,Guthrie,C,Centre Pass,1,2,2,50, 100
+2018-12-19 12:49:32 +0000,0,Green,WA,Assist - Centre Pass Rec,1,2,2,21, 83
+2018-12-19 12:49:38 +0000,0,Harten ,GA,Assist - 2nd Phase,1,2,2,23, 53
+2018-12-19 12:49:41 +0000,0,Harten ,GA,Assist - Circle Entry,1,2,2,23, 53
+2018-12-19 12:49:41 +0000,0,Pettitt ,GS,Goal - Score,1,2,2,43, 4
+2018-12-19 12:49:53 +0000,1,Scherian ,C,Centre Pass,1,3,2,50, 100
+2018-12-19 12:49:53 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,3,2,80, 115
+2018-12-19 12:49:59 +0000,0,Price,WD,Penaly - Contact,1,3,2,61, 137
+2018-12-19 12:49:59 +0000,1,Scherian ,C,Assist - 2nd Phase,1,3,2,61, 137
+2018-12-19 12:50:05 +0000,1,Scherian ,C,Assist - Circle Entry,1,3,2,61, 137
+2018-12-19 12:50:05 +0000,1,Bassett,GS,Possession,1,3,2,56, 168
+2018-12-19 12:50:09 +0000,0,Poolman ,GK,Penaly - Contact,1,3,2,56, 168
+2018-12-19 12:50:09 +0000,1,Wood,GA,Possession,1,3,2,56, 168
+2018-12-19 12:50:21 +0000,1,Bassett,GS,Goal - Score,1,3,2,45, 191
+2018-12-19 12:51:50 +0000,0,Guthrie,C,Centre Pass,1,3,3,50, 100
+2018-12-19 12:51:50 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,1,3,3,52, 73
+2018-12-19 12:51:51 +0000,0,Green,WA,Assist - 2nd Phase,1,3,3,27, 24
+2018-12-19 12:51:56 +0000,0,Green,WA,Assist - Circle Entry,1,3,3,27, 24
+2018-12-19 12:51:56 +0000,0,Pettitt ,GS,Possession,1,3,3,22, 5
+2018-12-19 12:51:58 +0000,0,Guthrie,C,Possession,1,3,3,79, 18
+2018-12-19 12:52:00 +0000,0,Green,WA,Possession,1,3,3,55, 35
+2018-12-19 12:52:08 +0000,0,Green,WA,Assist - Circle Entry,1,3,3,55, 35
+2018-12-19 12:52:08 +0000,1,Pretorius ,GD,Gain - Inter,1,3,3,61, 11
+2018-12-19 12:52:12 +0000,1,Pretorius ,GD,Loss - Replay,1,3,3,61, 12
+2018-12-19 12:52:19 +0000,0,Pettitt ,GS,Possession,1,3,3,61, 12
+2018-12-19 12:52:24 +0000,0,Green,WA,Possession,1,3,3,26, 25
+2018-12-19 12:52:26 +0000,1,McAuliffe,WD,Penaly - Contact,1,3,3,26, 25
+2018-12-19 12:52:26 +0000,0,Green,WA,Possession,1,3,3,26, 25
+2018-12-19 12:52:31 +0000,0,Green,WA,Assist - Circle Entry,1,3,3,26, 25
+2018-12-19 12:52:31 +0000,0,Harten ,GA,Goal - Score,1,3,3,35, 15
+2018-12-19 12:52:42 +0000,1,Scherian ,C,Centre Pass,1,4,3,50, 100
+2018-12-19 12:52:42 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,4,3,81, 124
+2018-12-19 12:52:46 +0000,0,Price,WD,Deflect,1,4,3,90, 169
+2018-12-19 12:52:46 +0000,1,Browne,WA,Throw In,1,4,3,102, 174
+2018-12-19 12:52:56 +0000,0,Bulley ,GD,Deflect,1,4,3,81, 166
+2018-12-19 12:52:56 +0000,1,Browne,WA,Possession,1,4,3,91, 163
+2018-12-19 12:53:02 +0000,1,Browne,WA,Assist - Circle Entry,1,4,3,91, 163
+2018-12-19 12:53:02 +0000,1,Wood,GA,Assist - 2nd Phase,1,4,3,72, 193
+2018-12-19 12:53:04 +0000,1,Bassett,GS,Goal - Score,1,4,3,46, 194
+2018-12-19 12:53:32 +0000,0,Guthrie,C,Centre Pass,1,4,4,50, 100
+2018-12-19 12:53:32 +0000,1,Pretorius ,GD,Gain - Tip (Deflect),1,4,4,65, 86
+2018-12-19 12:53:36 +0000,1,Wood,GA,Possession,1,4,4,50, 113
+2018-12-19 12:53:40 +0000,1,Wood,GA,Assist - Circle Entry,1,4,4,50, 113
+2018-12-19 12:53:40 +0000,1,Bassett,GS,Goal - Score,1,4,4,48, 194
+2018-12-19 12:53:49 +0000,1,Scherian ,C,Centre Pass,1,4,5,50, 100
+2018-12-19 12:53:49 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,1,4,5,42, 83
+2018-12-19 12:53:51 +0000,1,Scherian ,C,Assist - 2nd Phase,1,4,5,18, 108
+2018-12-19 12:53:56 +0000,1,Browne,WA,Possession,1,4,5,16, 159
+2018-12-19 12:53:58 +0000,1,Browne,WA,Assist - Circle Entry,1,4,5,16, 159
+2018-12-19 12:53:58 +0000,1,Bassett,GS,Possession,1,4,5,31, 193
+2018-12-19 12:54:00 +0000,1,Scherian ,C,Possession,1,4,5,73, 173
+2018-12-19 12:54:06 +0000,0,Guthrie,C,Deflect,1,4,5,76, 170
+2018-12-19 12:54:06 +0000,1,Scherian ,C,Throw In,1,4,5,106, 166
+2018-12-19 12:54:39 +0000,1,Scherian ,C,Assist - Circle Entry,1,4,5,106, 166
+2018-12-19 12:54:39 +0000,1,Bassett,GS,Goal - Miss,1,4,5,50, 194
+2018-12-19 12:54:44 +0000,0,Poolman ,GK,Gain - Def Reb,1,4,5,50, 197
+2018-12-19 12:54:46 +0000,0,Bulley ,GD,Possession,1,4,5,28, 170
+2018-12-19 12:54:52 +0000,0,Green,WA,Possession,1,4,5,4, 106
+2018-12-19 12:54:54 +0000,1,McAuliffe,WD,Penaly - Contact,1,4,5,4, 106
+2018-12-19 12:54:54 +0000,0,Bulley ,GD,Possession,1,4,5,4, 106
+2018-12-19 12:55:00 +0000,0,Poolman ,GK,Possession,1,4,5,15, 137
+2018-12-19 12:55:01 +0000,0,Bulley ,GD,Possession,1,4,5,38, 117
+2018-12-19 12:55:03 +0000,0,Price,WD,Possession,1,4,5,15, 88
+2018-12-19 12:55:06 +0000,0,Green,WA,Possession,1,4,5,5, 75
+2018-12-19 12:55:08 +0000,0,Pettitt ,GS,Possession,1,4,5,29, 49
+2018-12-19 12:55:13 +0000,1,Scherian ,C,Penaly - Contact,1,4,5,29, 49
+2018-12-19 12:55:13 +0000,0,Green,WA,Possession,1,4,5,29, 49
+2018-12-19 12:55:19 +0000,0,Green,WA,Assist - Circle Entry,1,4,5,29, 49
+2018-12-19 12:55:19 +0000,0,Pettitt ,GS,Possession,1,4,5,47, 25
+2018-12-19 12:55:21 +0000,0,Green,WA,Possession,1,4,5,33, 30
+2018-12-19 12:55:24 +0000,0,Green,WA,Assist - Circle Entry,1,4,5,33, 30
+2018-12-19 12:55:24 +0000,0,Pettitt ,GS,Goal - Miss,1,4,5,40, 17
+2018-12-19 12:55:29 +0000,0,Harten ,GA,Assist - Attack Rebound,1,4,5,50, 2
+2018-12-19 12:55:30 +0000,1,Pretorius ,GD,Penaly - Contact,1,4,5,50, 2
+2018-12-19 12:55:30 +0000,0,Harten ,GA,Goal - Score,1,4,5,50, 2
+2018-12-19 12:55:46 +0000,0,Guthrie,C,Centre Pass,1,5,5,50, 100
+2018-12-19 12:55:46 +0000,0,Green,WA,Assist - Centre Pass Rec,1,5,5,45, 84
+2018-12-19 12:55:47 +0000,0,Guthrie,C,Assist - 2nd Phase,1,5,5,81, 69
+2018-12-19 12:55:50 +0000,0,Pettitt ,GS,Possession,1,5,5,76, 19
+2018-12-19 12:55:54 +0000,0,Green,WA,Possession,1,5,5,53, 47
+2018-12-19 12:56:23 +0000,0,Green,WA,Assist - Circle Entry,1,5,5,53, 47
+2018-12-19 12:56:23 +0000,0,Pettitt ,GS,Possession,1,5,5,53, 26
+2018-12-19 12:56:26 +0000,0,Green,WA,Possession,1,5,5,53, 35
+2018-12-19 12:58:11 +0000,0,Green,WA,Assist - Circle Entry,1,5,5,53, 35
+2018-12-19 12:58:11 +0000,0,Pettitt ,GS,Possession,1,5,5,52, 19
+2018-12-19 12:58:13 +0000,0,Green,WA,Possession,1,5,5,53, 35
+2018-12-19 12:58:23 +0000,1,Mentor,GK,Penaly - Contact,1,5,5,56, 20
+2018-12-19 12:58:23 +0000,0,Harten ,GA,Goal - Score,1,5,5,56, 20
+2018-12-19 12:58:39 +0000,1,Scherian ,C,Centre Pass,1,6,5,50, 100
+2018-12-19 12:58:39 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,6,5,29, 117
+2018-12-19 12:58:41 +0000,1,Browne,WA,Assist - 2nd Phase,1,6,5,52, 122
+2018-12-19 12:58:44 +0000,1,Scherian ,C,Possession,1,6,5,84, 157
+2018-12-19 12:58:45 +0000,1,Browne,WA,Possession,1,6,5,76, 176
+2018-12-19 12:59:25 +0000,1,Browne,WA,Assist - Circle Entry,1,6,5,76, 176
+2018-12-19 12:59:25 +0000,1,Bassett,GS,Possession,1,6,5,35, 195
+2018-12-19 12:59:27 +0000,1,Scherian ,C,Possession,1,6,5,21, 177
+2018-12-19 12:59:29 +0000,1,Browne,WA,Possession,1,6,5,71, 170
+2018-12-19 12:59:32 +0000,1,McAuliffe,WD,Possession,1,6,5,74, 130
+2018-12-19 12:59:34 +0000,1,Browne,WA,Possession,1,6,5,53, 142
+2018-12-19 12:59:36 +0000,1,Scherian ,C,Possession,1,6,5,14, 165
+2018-12-19 12:59:43 +0000,1,Wood,GA,Possession,1,6,5,96, 164
+2018-12-19 12:59:47 +0000,0,Guthrie,C,Gain - Inter,1,6,5,66, 155
+2018-12-19 12:59:53 +0000,0,Poolman ,GK,Possession,1,6,5,53, 148
+2018-12-19 12:59:55 +0000,0,Harten ,GA,Possession,1,6,5,8, 100
+2018-12-19 12:59:58 +0000,0,Poolman ,GK,Possession,1,6,5,16, 136
+2018-12-19 13:00:02 +0000,0,Bulley ,GD,Possession,1,6,5,11, 113
+2018-12-19 13:00:05 +0000,0,Guthrie,C,Possession,1,6,5,56, 107
+2018-12-19 13:00:07 +0000,0,Price,WD,Possession,1,6,5,23, 89
+2018-12-19 13:00:09 +0000,0,Green,WA,Possession,1,6,5,9, 70
+2018-12-19 13:00:12 +0000,0,Bulley ,GD,Possession,1,6,5,45, 78
+2018-12-19 13:00:19 +0000,0,Green,WA,Possession,1,6,5,54, 39
+2018-12-19 13:00:23 +0000,0,Green,WA,Assist - Circle Entry,1,6,5,54, 39
+2018-12-19 13:00:24 +0000,0,Harten ,GA,Possession,1,6,5,56, 9
+2018-12-19 13:00:26 +0000,1,Mentor,GK,Penaly - Contact,1,6,5,56, 9
+2018-12-19 13:00:26 +0000,0,Harten ,GA,Possession,1,6,5,56, 9
+2018-12-19 13:00:30 +0000,1,Pretorius ,GD,Penaly - Obstruction,1,6,5,56, 9
+2018-12-19 13:00:30 +0000,0,Harten ,GA,Goal - Score,1,6,5,56, 9
+2018-12-19 13:03:03 +0000,0,Guthrie,C,Centre Pass,1,7,5,50, 100
+2018-12-19 13:03:03 +0000,0,Harten ,GA,Assist - Centre Pass Rec,1,7,5,53, 70
+2018-12-19 13:03:05 +0000,0,Guthrie,C,Assist - 2nd Phase,1,7,5,22, 43
+2018-12-19 13:03:08 +0000,0,Pettitt ,GS,Possession,1,7,5,13, 15
+2018-12-19 13:03:11 +0000,0,Guthrie,C,Possession,1,7,5,23, 23
+2018-12-19 13:03:16 +0000,0,Guthrie,C,Assist - Circle Entry,1,7,5,23, 23
+2018-12-19 13:03:16 +0000,0,Pettitt ,GS,Goal - Score,1,7,5,57, 5
+2018-12-19 13:03:32 +0000,1,Scherian ,C,Centre Pass,1,8,5,50, 100
+2018-12-19 13:03:32 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,8,5,11, 128
+2018-12-19 13:03:34 +0000,1,Browne,WA,Assist - 2nd Phase,1,8,5,31, 130
+2018-12-19 13:03:40 +0000,1,Wood,GA,Possession,1,8,5,14, 190
+2018-12-19 13:03:43 +0000,1,Wood,GA,Assist - Circle Entry,1,8,5,14, 190
+2018-12-19 13:03:43 +0000,1,Bassett,GS,Possession,1,8,5,30, 192
+2018-12-19 13:03:44 +0000,0,Poolman ,GK,Penaly - Contact,1,8,5,30, 192
+2018-12-19 13:03:44 +0000,1,Wood,GA,Possession,1,8,5,30, 192
+2018-12-19 13:03:47 +0000,1,Bassett,GS,Goal - Score,1,8,5,47, 192
+2018-12-19 13:03:57 +0000,0,Guthrie,C,Centre Pass,1,8,6,50, 100
+2018-12-19 13:03:57 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,1,8,6,71, 88
+2018-12-19 13:04:00 +0000,0,Green,WA,Assist - 2nd Phase,1,8,6,84, 50
+2018-12-19 13:04:02 +0000,0,Pettitt ,GS,Possession,1,8,6,54, 49
+2018-12-19 13:04:05 +0000,1,Scherian ,C,Penaly - Contact,1,8,6,65, 42
+2018-12-19 13:04:05 +0000,0,Green,WA,Possession,1,8,6,65, 42
+2018-12-19 13:04:14 +0000,0,Green,WA,Assist - Circle Entry,1,8,6,65, 42
+2018-12-19 13:04:14 +0000,0,Harten ,GA,Possession,1,8,6,65, 7
+2018-12-19 13:04:37 +0000,1,Scherian ,C,Penaly - Contact,1,8,6,74, 22
+2018-12-19 13:04:37 +0000,0,Green,WA,Possession,1,8,6,74, 22
+2018-12-19 13:05:19 +0000,0,Pretorius ,UNKNOWN,Interchange - Mikaere,1,8,6,
+2018-12-19 13:05:52 +0000,0,Pettitt ,UNKNOWN,Interchange - Brice,1,8,6,
+2018-12-19 13:06:04 +0000,0,Green,WA,Assist - Circle Entry,1,8,6,74, 22
+2018-12-19 13:06:04 +0000,0,Brice,GS,Goal - Score,1,8,6,48, 17
+2018-12-19 13:06:18 +0000,1,Scherian ,C,Centre Pass,1,9,6,50, 100
+2018-12-19 13:06:18 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,9,6,86, 109
+2018-12-19 13:06:24 +0000,0,Harten ,GA,Deflect,1,9,6,84, 94
+2018-12-19 13:06:24 +0000,1,Mikaere,GD,Throw In,1,9,6,104, 90
+2018-12-19 13:06:35 +0000,0,Harten ,GA,Gain - Inter,1,9,6,58, 99
+2018-12-19 13:06:44 +0000,1,Mentor,GK,Gain - Inter,1,9,6,49, 49
+2018-12-19 13:06:49 +0000,1,Mikaere,GD,Possession,1,9,6,64, 89
+2018-12-19 13:06:54 +0000,0,Green,WA,Penaly - Obstruction,1,9,6,64, 89
+2018-12-19 13:06:54 +0000,1,Mikaere,GD,Possession,1,9,6,64, 89
+2018-12-19 13:07:03 +0000,1,McAuliffe,WD,Possession,1,9,6,68, 111
+2018-12-19 13:07:18 +0000,1,Browne,WA,Possession,1,9,6,83, 125
+2018-12-19 13:07:25 +0000,0,Bulley ,GD,Penaly - Contact,1,9,6,63, 163
+2018-12-19 13:07:25 +0000,1,Browne,WA,Possession,1,9,6,63, 163
+2018-12-19 13:07:33 +0000,0,Guthrie,C,Penaly - Obstruction,1,9,6,63, 163
+2018-12-19 13:07:33 +0000,1,Browne,WA,Possession,1,9,6,63, 163
+2018-12-19 13:07:36 +0000,1,Browne,WA,Assist - Circle Entry,1,9,6,63, 163
+2018-12-19 13:07:36 +0000,1,Bassett,GS,Goal - Score,1,9,6,52, 187
+2018-12-19 13:07:47 +0000,0,Brice,UNKNOWN,Interchange - Pettitt ,1,9,7,
+2018-12-19 13:07:58 +0000,0,Mikaere,UNKNOWN,Interchange - Pretorius ,1,9,7,
+2018-12-19 13:08:03 +0000,0,Guthrie,C,Centre Pass,1,9,7,50, 100
+2018-12-19 13:08:03 +0000,0,Harten ,GA,Assist - Centre Pass Rec,1,9,7,71, 82
+2018-12-19 13:08:14 +0000,1,Scherian ,C,Penaly - Contact,1,9,7,53, 58
+2018-12-19 13:08:14 +0000,0,Green,WA,Assist - 2nd Phase,1,9,7,53, 58
+2018-12-19 13:08:22 +0000,0,Pettitt ,GS,Possession,1,9,7,27, 40
+2018-12-19 13:08:25 +0000,0,Green,WA,Possession,1,9,7,38, 33
+2018-12-19 13:08:31 +0000,0,Green,WA,Assist - Circle Entry,1,9,7,38, 33
+2018-12-19 13:08:31 +0000,0,Pettitt ,GS,Possession,1,9,7,27, 4
+2018-12-19 13:08:33 +0000,0,Green,WA,Possession,1,9,7,20, 18
+2018-12-19 13:08:38 +0000,0,Green,WA,Assist - Circle Entry,1,9,7,20, 18
+2018-12-19 13:08:38 +0000,0,Pettitt ,GS,Goal - Score,1,9,7,38, 3
+2018-12-19 13:08:47 +0000,1,Scherian ,C,Centre Pass,1,10,7,50, 100
+2018-12-19 13:08:47 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,10,7,31, 113
+2018-12-19 13:08:50 +0000,1,Wood,GA,Assist - Circle Entry,1,10,7,31, 113
+2018-12-19 13:08:51 +0000,1,Bassett,GS,Possession,1,10,7,71, 179
+2018-12-19 13:08:53 +0000,1,Browne,WA,Possession,1,10,7,15, 189
+2018-12-19 13:08:55 +0000,1,Browne,WA,Assist - Circle Entry,1,10,7,15, 189
+2018-12-19 13:08:55 +0000,1,Wood,GA,Goal - Score,1,10,7,32, 194
+2018-12-19 13:09:09 +0000,0,Guthrie,C,Centre Pass,1,10,8,50, 100
+2018-12-19 13:09:09 +0000,1,Wood,GA,Penaly - Contact on CP,1,10,8,53, 116
+2018-12-19 13:09:09 +0000,0,Bulley ,GD,Possession,1,10,8,53, 116
+2018-12-19 13:09:14 +0000,0,Green,WA,Assist - 2nd Phase,1,10,8,19, 72
+2018-12-19 13:09:18 +0000,0,Pettitt ,GS,Possession,1,10,8,8, 38
+2018-12-19 13:09:20 +0000,0,Guthrie,C,Possession,1,10,8,80, 18
+2018-12-19 13:09:27 +0000,0,Guthrie,C,Assist - Circle Entry,1,10,8,80, 18
+2018-12-19 13:09:27 +0000,1,Mentor,GK,Gain - Inter,1,10,8,48, 15
+2018-12-19 13:09:29 +0000,0,Pettitt ,GS,Penaly - Contact,1,10,8,48, 15
+2018-12-19 13:09:29 +0000,1,Mentor,GK,Possession,1,10,8,48, 15
+2018-12-19 13:09:40 +0000,1,Scherian ,C,Possession,1,10,8,51, 54
+2018-12-19 13:09:42 +0000,1,Pretorius ,GD,Possession,1,10,8,76, 63
+2018-12-19 13:09:46 +0000,1,Scherian ,C,Possession,1,10,8,61, 73
+2018-12-19 13:09:48 +0000,1,Pretorius ,GD,Possession,1,10,8,48, 68
+2018-12-19 13:09:50 +0000,1,McAuliffe,WD,Possession,1,10,8,30, 82
+2018-12-19 13:09:54 +0000,1,Pretorius ,GD,Possession,1,10,8,46, 92
+2018-12-19 13:09:57 +0000,1,Browne,WA,Possession,1,10,8,53, 112
+2018-12-19 13:09:59 +0000,1,McAuliffe,WD,Possession,1,10,8,31, 122
+2018-12-19 13:10:03 +0000,1,Wood,GA,Possession,1,10,8,29, 137
+2018-12-19 13:10:07 +0000,1,Browne,WA,Possession,1,10,8,20, 179
+2018-12-19 13:10:10 +0000,1,Browne,WA,Assist - Circle Entry,1,10,8,20, 179
+2018-12-19 13:10:10 +0000,1,Wood,GA,Possession,1,10,8,42, 195
+2018-12-19 13:10:12 +0000,0,Poolman ,GK,Penaly - Contact,1,10,8,42, 195
+2018-12-19 13:10:12 +0000,1,Wood,GA,Goal - Miss,1,10,8,42, 195
+2018-12-19 13:10:20 +0000,1,Bassett,GS,Assist - Attack Rebound,1,10,8,50, 197
+2018-12-19 13:10:21 +0000,1,Bassett,GS,Goal - Score,1,10,8,42, 195
+2018-12-19 13:10:40 +0000,1,Scherian ,C,Centre Pass,1,10,9,50, 100
+2018-12-19 13:10:40 +0000,1,McAuliffe,WD,Loss - Step,1,10,9,6, 123
+2018-12-19 13:10:45 +0000,0,Bulley ,GD,Possession,1,10,9,6, 124
+2018-12-19 13:10:55 +0000,0,Green,WA,Possession,1,10,9,54, 85
+2018-12-19 13:10:57 +0000,0,Guthrie,C,Loss - Held Ball,1,10,9,47, 72
+2018-12-19 13:11:01 +0000,1,McAuliffe,WD,Possession,1,10,9,50, 71
+2018-12-19 13:11:08 +0000,1,Wood,GA,Possession,1,10,9,92, 111
+2018-12-19 13:11:11 +0000,1,Browne,WA,Possession,1,10,9,81, 176
+2018-12-19 13:11:13 +0000,1,Wood,GA,Possession,1,10,9,75, 156
+2018-12-19 13:11:16 +0000,1,Browne,WA,Possession,1,10,9,56, 163
+2018-12-19 13:11:18 +0000,1,Scherian ,C,Possession,1,10,9,17, 184
+2018-12-19 13:11:22 +0000,1,Browne,WA,Possession,1,10,9,50, 164
+2018-12-19 13:11:24 +0000,1,Browne,WA,Assist - Circle Entry,1,10,9,50, 164
+2018-12-19 13:11:24 +0000,1,Wood,GA,Assist - 2nd Phase,1,10,9,51, 180
+2018-12-19 13:11:26 +0000,1,Bassett,GS,Goal - Score,1,10,9,58, 193
+2018-12-19 13:11:36 +0000,0,Guthrie,C,Centre Pass,1,10,10,50, 100
+2018-12-19 13:11:36 +0000,0,Price,WD,Assist - Centre Pass Rec,1,10,10,63, 94
+2018-12-19 13:11:38 +0000,0,Harten ,GA,Assist - 2nd Phase,1,10,10,88, 59
+2018-12-19 13:11:40 +0000,0,Guthrie,C,Possession,1,10,10,12, 12
+2018-12-19 13:11:43 +0000,0,Guthrie,C,Assist - Circle Entry,1,10,10,12, 12
+2018-12-19 13:11:43 +0000,0,Pettitt ,GS,Possession,1,10,10,28, 10
+2018-12-19 13:11:45 +0000,0,Guthrie,C,Possession,1,10,10,16, 10
+2018-12-19 13:11:48 +0000,0,Guthrie,C,Assist - Circle Entry,1,10,10,16, 10
+2018-12-19 13:11:48 +0000,0,Pettitt ,GS,Possession,1,10,10,33, 7
+2018-12-19 13:11:49 +0000,1,Mentor,GK,Penaly - Contact,1,10,10,33, 7
+2018-12-19 13:11:49 +0000,0,Pettitt ,GS,Goal - Score,1,10,10,33, 7
+2018-12-19 13:12:04 +0000,1,Scherian ,C,Centre Pass,1,11,10,50, 100
+2018-12-19 13:12:04 +0000,1,Wood,GA,Assist - Centre Pass Rec,1,11,10,12, 125
+2018-12-19 13:12:06 +0000,1,Scherian ,C,Assist - 2nd Phase,1,11,10,31, 155
+2018-12-19 13:12:09 +0000,1,Scherian ,C,Assist - Circle Entry,1,11,10,31, 155
+2018-12-19 13:12:09 +0000,1,Bassett,GS,Possession,1,11,10,47, 178
+2018-12-19 13:12:11 +0000,1,Scherian ,C,Possession,1,11,10,30, 169
+2018-12-19 13:12:14 +0000,1,Scherian ,C,Assist - Circle Entry,1,11,10,30, 169
+2018-12-19 13:12:14 +0000,1,Wood,GA,Possession,1,11,10,29, 184
+2018-12-19 13:12:17 +0000,1,Scherian ,C,Possession,1,11,10,34, 167
+2018-12-19 13:12:23 +0000,1,Scherian ,C,Assist - Circle Entry,1,11,10,34, 167
+2018-12-19 13:12:23 +0000,1,Wood,GA,Possession,1,11,10,40, 180
+2018-12-19 13:12:24 +0000,0,Poolman ,GK,Penaly - Contact,1,11,10,40, 180
+2018-12-19 13:12:24 +0000,1,Wood,GA,Goal - Score,1,11,10,40, 180
+2018-12-19 13:12:33 +0000,0,Guthrie,C,Centre Pass,1,11,11,50, 100
+2018-12-19 13:12:33 +0000,0,Green,WA,Assist - Centre Pass Rec,1,11,11,69, 86
+2018-12-19 13:12:35 +0000,0,Harten ,GA,Assist - 2nd Phase,1,11,11,55, 40
+2018-12-19 13:12:38 +0000,1,McAuliffe,WD,Gain - Inter,1,11,11,82, 12
+2018-12-19 13:12:43 +0000,1,Pretorius ,GD,Possession,1,11,11,65, 6
+2018-12-19 13:12:45 +0000,1,McAuliffe,WD,Possession,1,11,11,79, 30
+2018-12-19 13:12:49 +0000,1,Mentor,GK,Possession,1,11,11,48, 18
+2018-12-19 13:12:51 +0000,1,Pretorius ,GD,Possession,1,11,11,78, 24
+2018-12-19 13:12:53 +0000,1,Mentor,GK,Possession,1,11,11,69, 42
+2018-12-19 13:12:58 +0000,1,McAuliffe,WD,Possession,1,11,11,69, 61
+2018-12-19 13:13:00 +0000,0,Guthrie,C,Penaly - Contact,1,11,11,69, 61
+2018-12-19 13:13:00 +0000,1,McAuliffe,WD,Possession,1,11,11,69, 61
+2018-12-19 13:13:02 +0000,1,Scherian ,C,Possession,1,11,11,15, 82
+2018-12-19 13:13:05 +0000,1,Browne,WA,Loss - Bad Pass,1,11,11,33, 110
+2018-12-19 13:13:20 +0000,1,Wood,GA,Deflect,1,11,11,98, 164
+2018-12-19 13:13:20 +0000,0,Poolman ,GK,Throw In,1,11,11,104, 166
+2018-12-19 13:13:34 +0000,0,Bulley ,GD,Possession,1,11,11,79, 124
+2018-12-19 13:13:37 +0000,0,Guthrie,C,Possession,1,11,11,79, 49
+2018-12-19 13:13:39 +0000,0,Pettitt ,GS,Possession,1,11,11,52, 54
+2018-12-19 13:13:41 +0000,0,Green,WA,Possession,1,11,11,65, 54
+2018-12-19 13:13:46 +0000,0,Green,WA,Assist - Circle Entry,1,11,11,65, 54
+2018-12-19 13:13:46 +0000,0,Harten ,GA,Possession,1,11,11,53, 6
+2018-12-19 13:13:48 +0000,1,Mentor,GK,Penaly - Obstruction,1,11,11,53, 6
+2018-12-19 13:13:48 +0000,0,Harten ,GA,Goal - Score,1,11,11,53, 6
+2018-12-19 13:13:56 +0000,1,Scherian ,C,Centre Pass,1,12,11,50, 100
+2018-12-19 13:13:56 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,12,11,86, 119
+2018-12-19 13:13:58 +0000,1,Pretorius ,GD,Assist - 2nd Phase,1,12,11,67, 115
+2018-12-19 13:14:00 +0000,1,Browne,WA,Possession,1,12,11,86, 144
+2018-12-19 13:14:02 +0000,1,Browne,WA,Assist - Circle Entry,1,12,11,86, 144
+2018-12-19 13:14:02 +0000,1,Bassett,GS,Possession,1,12,11,77, 193
+2018-12-19 13:14:03 +0000,1,Wood,GA,Goal - Score,1,12,11,44, 194
+2018-12-19 13:14:15 +0000,0,Guthrie,C,Centre Pass,1,12,12,50, 100
+2018-12-19 13:14:15 +0000,0,Green,WA,Assist - Centre Pass Rec,1,12,12,59, 70
+2018-12-19 13:14:19 +0000,0,Pettitt ,GS,Assist - 2nd Phase,1,12,12,46, 48
+2018-12-19 13:14:22 +0000,0,Guthrie,C,Possession,1,12,12,18, 17
+2018-12-19 13:14:25 +0000,0,Guthrie,C,Assist - Circle Entry,1,12,12,18, 17
+2018-12-19 13:14:25 +0000,0,Pettitt ,GS,Possession,1,12,12,29, 9
+2018-12-19 13:14:27 +0000,1,Pretorius ,GD,Penaly - Contact,1,12,12,29, 9
+2018-12-19 13:14:27 +0000,0,Pettitt ,GS,Goal - Score,1,12,12,29, 9
+2018-12-19 13:14:46 +0000,1,Scherian ,C,Centre Pass,1,13,12,50, 100
+2018-12-19 13:14:46 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,1,13,12,14, 124
+2018-12-19 13:14:48 +0000,1,Browne,WA,Assist - 2nd Phase,1,13,12,22, 163
+2018-12-19 13:14:53 +0000,1,Wood,GA,Possession,1,13,12,76, 176
+2018-12-19 13:14:55 +0000,1,Browne,WA,Possession,1,13,12,68, 169
+2018-12-19 13:14:57 +0000,1,Browne,WA,Assist - Circle Entry,1,13,12,68, 169
+2018-12-19 13:14:58 +0000,1,Bassett,GS,Possession,1,13,12,60, 189
+2018-12-19 13:14:59 +0000,0,Bulley ,GD,Penaly - Contact,1,13,12,60, 189
+2018-12-19 13:14:59 +0000,1,Wood,GA,Possession,1,13,12,60, 189
+2018-12-19 13:15:07 +0000,1,Bassett,GS,Goal - Score,1,13,12,53, 195
+2018-12-19 13:15:19 +0000,0,Guthrie,C,Centre Pass,1,13,13,50, 100
+2018-12-19 13:15:19 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,1,13,13,44, 84
+2018-12-19 13:15:21 +0000,1,Wood,GA,Penaly - Contact,1,13,13,44, 84
+2018-12-19 13:15:21 +0000,0,Bulley ,GD,Possession,1,13,13,44, 84
+2018-12-19 13:15:26 +0000,0,Green,WA,Possession,1,13,13,42, 52
+2018-12-19 13:15:28 +0000,0,Guthrie,C,Possession,1,13,13,12, 50
+2018-12-19 13:15:33 +0000,0,Bulley ,GD,Possession,1,13,13,26, 70
+2018-12-19 13:15:35 +0000,0,Guthrie,C,Possession,1,13,13,33, 53
+2018-12-19 13:15:37 +0000,0,Guthrie,C,Assist - Circle Entry,1,13,13,33, 53
+2018-12-19 13:15:37 +0000,0,Pettitt ,GS,Assist - 2nd Phase,1,13,13,51, 27
+2018-12-19 13:16:10 +0000,0,Green,WA,Possession,1,13,13,85, 5
+2018-12-19 13:16:18 +0000,0,Green,WA,Assist - Circle Entry,1,13,13,85, 5
+2018-12-19 13:16:18 +0000,0,Pettitt ,GS,Possession,1,13,13,69, 8
+2018-12-19 13:16:20 +0000,0,Green,WA,Possession,1,13,13,83, 12
+2018-12-19 13:16:25 +0000,0,Green,WA,Assist - Circle Entry,1,13,13,83, 12
+2018-12-19 13:16:25 +0000,0,Pettitt ,GS,Goal - Miss,1,13,13,59, 8
+2018-12-19 13:16:33 +0000,0,Harten ,GA,Assist - Attack Rebound,1,13,13,50, 2
+2018-12-19 13:16:36 +0000,0,Harten ,GA,Goal - Score,1,13,13,59, 8
+2018-12-19 13:16:42 +0000,1,Scherian ,C,Centre Pass,1,14,13,50, 100
+2018-12-19 13:16:42 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,14,13,78, 118
+2018-12-19 13:16:44 +0000,1,Pretorius ,GD,Assist - 2nd Phase,1,14,13,61, 111
+2018-12-19 13:16:46 +0000,1,Wood,GA,Possession,1,14,13,79, 154
+2018-12-19 13:16:48 +0000,1,Scherian ,C,Possession,1,14,13,68, 138
+2018-12-19 13:16:50 +0000,0,Guthrie,C,Penaly - Contact,1,14,13,68, 138
+2018-12-19 13:16:50 +0000,1,Scherian ,C,Possession,1,14,13,68, 138
+2018-12-19 13:16:56 +0000,1,Bassett,GS,Possession,1,14,13,70, 172
+2018-12-19 13:17:04 +0000,1,Bassett,GS,Assist - Circle Entry,1,14,13,70, 172
+2018-12-19 13:17:04 +0000,0,Bulley ,GD,Gain - Inter,1,14,13,41, 170
+2018-12-19 13:17:13 +0000,0,Guthrie,C,Possession,1,14,13,25, 130
+2018-12-19 13:17:18 +0000,0,Poolman ,GK,Possession,1,14,13,28, 137
+2018-12-19 13:17:20 +0000,0,Guthrie,C,Possession,1,14,13,10, 102
+2018-12-19 13:17:23 +0000,0,Bulley ,GD,Possession,1,14,13,16, 86
+2018-12-19 13:17:27 +0000,0,Price,WD,Possession,1,14,13,29, 83
+2018-12-19 13:17:29 +0000,0,Guthrie,C,Possession,1,14,13,63, 91
+2018-12-19 13:17:31 +0000,0,Bulley ,GD,Possession,1,14,13,22, 78
+2018-12-19 13:17:34 +0000,1,Wood,GA,Penaly - Contact,1,14,13,22, 78
+2018-12-19 13:17:34 +0000,0,Bulley ,GD,Possession,1,14,13,22, 78
+2018-12-19 13:17:38 +0000,0,Guthrie,C,Possession,1,14,13,31, 59
+2018-12-19 13:18:00 +0000,0,Guthrie,C,Assist - Circle Entry,1,14,13,31, 59
+2018-12-19 13:18:00 +0000,0,Harten ,GA,Possession,1,14,13,63, 13
+2018-12-19 13:18:04 +0000,0,Guthrie,C,Possession,1,14,13,80, 17
+2018-12-19 13:18:07 +0000,0,Guthrie,C,Assist - Circle Entry,1,14,13,80, 17
+2018-12-19 13:18:07 +0000,0,Harten ,GA,Goal - Miss,1,14,13,62, 9
+2018-12-19 13:18:13 +0000,1,Pretorius ,GD,Gain - Def Reb,1,14,13,50, 2
+2018-12-19 13:18:17 +0000,1,McAuliffe,WD,Possession,1,14,13,51, 35
+2018-12-19 13:18:19 +0000,1,Pretorius ,GD,Possession,1,14,13,84, 82
+2018-12-19 13:18:23 +0000,1,Browne,WA,Possession,1,14,13,62, 95
+2018-12-19 13:18:26 +0000,1,Wood,GA,Possession,1,14,13,62, 116
+2018-12-19 13:18:30 +0000,1,Scherian ,C,Possession,1,14,13,49, 125
+2018-12-19 13:18:33 +0000,1,Wood,GA,Possession,1,14,13,79, 164
+2018-12-19 13:18:37 +0000,1,Wood,GA,Assist - Circle Entry,1,14,13,79, 164
+2018-12-19 13:18:37 +0000,1,Bassett,GS,Goal - Score,1,14,13,52, 190
+2018-12-19 13:18:45 +0000,0,Guthrie,C,Centre Pass,1,14,14,50, 100
+2018-12-19 13:18:45 +0000,0,Harten ,GA,Assist - Centre Pass Rec,1,14,14,35, 75
+2018-12-19 13:18:47 +0000,0,Green,WA,Assist - 2nd Phase,1,14,14,49, 62
+2018-12-19 13:18:50 +0000,0,Pettitt ,GS,Possession,1,14,14,52, 38
+2018-12-19 13:19:01 +0000,1,Pretorius ,GD,Deflect,1,14,14,42, 31
+2018-12-19 13:19:01 +0000,0,Pettitt ,GS,Goal - Miss,1,14,14,46, 13
+2018-12-19 13:19:16 +0000,0,Harten ,GA,Assist - Attack Rebound,1,14,14,50, 2
+2018-12-19 13:19:18 +0000,0,Pettitt ,GS,Possession,1,14,14,25, 9
+2018-12-19 13:19:20 +0000,1,Pretorius ,GD,Penaly - Contact,1,14,14,25, 9
+2018-12-19 13:19:20 +0000,0,Pettitt ,GS,Possession,1,14,14,25, 9
+2018-12-19 13:19:28 +0000,0,Guthrie,C,Possession,1,14,14,53, 35
+2018-12-19 13:19:34 +0000,1,McAuliffe,WD,Penaly - Contact,1,14,14,29, 29
+2018-12-19 13:19:34 +0000,0,Green,WA,Possession,1,14,14,29, 29
+2018-12-19 13:19:48 +0000,0,Green,WA,Assist - Circle Entry,1,14,14,29, 29
+2018-12-19 13:19:48 +0000,0,Harten ,GA,Possession,1,14,14,56, 10
+2018-12-19 13:19:50 +0000,1,Mentor,GK,Penaly - Contact,1,14,14,56, 10
+2018-12-19 13:19:50 +0000,0,Harten ,GA,Goal - Score,1,14,14,56, 10
+2018-12-19 13:20:01 +0000,1,Scherian ,C,Centre Pass,1,15,14,50, 100
+2018-12-19 13:20:01 +0000,1,Browne,WA,Assist - Centre Pass Rec,1,15,14,73, 127
+2018-12-19 13:20:03 +0000,1,Wood,GA,Assist - 2nd Phase,1,15,14,77, 175
+2018-12-19 13:20:05 +0000,1,Wood,GA,Assist - Circle Entry,1,15,14,77, 175
+2018-12-19 13:20:05 +0000,1,Bassett,GS,Goal - Score,1,15,14,39, 190
+2018-12-19 13:20:39 +0000,0,Guthrie,C,Centre Pass,2,15,15,50, 100
+2018-12-19 13:20:39 +0000,0,Green,WA,Assist - Centre Pass Rec,2,15,15,52, 80
+2018-12-19 13:20:50 +0000,0,Harten ,GA,Assist - 2nd Phase,2,15,15,79, 45
+2018-12-19 13:20:55 +0000,0,Green,WA,Possession,2,15,15,73, 57
+2018-12-19 13:21:03 +0000,0,Harten ,GA,Possession,2,15,15,82, 30
+2018-12-19 13:21:07 +0000,0,Price,WD,Possession,2,15,15,62, 70
+2018-12-19 13:21:11 +0000,0,Pettitt ,GS,Possession,2,15,15,47, 50
+2018-12-19 13:21:13 +0000,0,Pettitt ,GS,Assist - Circle Entry,2,15,15,47, 50
+2018-12-19 13:21:13 +0000,0,Harten ,GA,Possession,2,15,15,47, 24
+2018-12-19 13:21:16 +0000,0,Guthrie,C,Possession,2,15,15,25, 22
+2018-12-19 13:21:21 +0000,1,Pretorius ,GD,Penaly - Contact,2,15,15,46, 20
+2018-12-19 13:21:21 +0000,0,Pettitt ,GS,Goal - Miss,2,15,15,46, 20
+2018-12-19 13:21:38 +0000,1,Pretorius ,GD,Gain - Def Reb,2,15,15,40, 16
+2018-12-19 13:21:46 +0000,1,Scherian ,C,Possession,2,15,15,50, 35
+2018-12-19 13:21:54 +0000,0,Harten ,GA,Gain - Tip (Deflect),2,15,15,54, 33
+2018-12-19 13:21:58 +0000,0,Guthrie,C,Possession,2,15,15,25, 37
+2018-12-19 13:22:08 +0000,0,Green,WA,Possession,2,15,15,78, 21
+2018-12-19 13:22:13 +0000,0,Guthrie,C,Possession,2,15,15,20, 18
+2018-12-19 13:22:15 +0000,0,Guthrie,C,Assist - Circle Entry,2,15,15,20, 18
+2018-12-19 13:22:16 +0000,0,Harten ,GA,Goal - Score,2,15,15,35, 11
+2018-12-19 13:22:29 +0000,0,Poolman ,UNKNOWN,Interchange - Manu’a,2,16,15,
+2018-12-19 13:22:37 +0000,1,Scherian ,C,Centre Pass,2,16,15,50, 100
+2018-12-19 13:22:37 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,16,15,66, 121
+2018-12-19 13:22:43 +0000,1,Scherian ,C,Assist - 2nd Phase,2,16,15,42, 130
+2018-12-19 13:22:46 +0000,1,McAuliffe,WD,Possession,2,16,15,56, 129
+2018-12-19 13:22:48 +0000,1,Browne,WA,Possession,2,16,15,54, 147
+2018-12-19 13:22:51 +0000,0,Guthrie,C,Penaly - Contact,2,16,15,54, 147
+2018-12-19 13:22:51 +0000,1,Browne,WA,Possession,2,16,15,54, 147
+2018-12-19 13:22:58 +0000,1,Browne,WA,Assist - Circle Entry,2,16,15,54, 147
+2018-12-19 13:22:58 +0000,1,Wood,GA,Possession,2,16,15,53, 178
+2018-12-19 13:23:02 +0000,1,Bassett,GS,Goal - Score,2,16,15,50, 189
+2018-12-19 13:23:11 +0000,0,Guthrie,C,Centre Pass,2,16,16,50, 100
+2018-12-19 13:23:11 +0000,0,Price,WD,Assist - Centre Pass Rec,2,16,16,67, 82
+2018-12-19 13:23:13 +0000,0,Harten ,GA,Assist - 2nd Phase,2,16,16,88, 40
+2018-12-19 13:23:15 +0000,0,Guthrie,C,Possession,2,16,16,30, 37
+2018-12-19 13:23:17 +0000,0,Pettitt ,GS,Possession,2,16,16,15, 10
+2018-12-19 13:23:19 +0000,0,Pettitt ,GS,Assist - Circle Entry,2,16,16,15, 10
+2018-12-19 13:23:19 +0000,0,Harten ,GA,Goal - Score,2,16,16,40, 5
+2018-12-19 13:23:31 +0000,1,Scherian ,C,Centre Pass,2,17,16,50, 100
+2018-12-19 13:23:31 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,17,16,97, 124
+2018-12-19 13:23:32 +0000,1,Pretorius ,GD,Assist - 2nd Phase,2,17,16,92, 99
+2018-12-19 13:23:34 +0000,1,Scherian ,C,Possession,2,17,16,70, 100
+2018-12-19 13:23:36 +0000,1,Browne,WA,Possession,2,17,16,62, 113
+2018-12-19 13:23:39 +0000,1,McAuliffe,WD,Possession,2,17,16,38, 116
+2018-12-19 13:23:42 +0000,1,Pretorius ,GD,Possession,2,17,16,70, 95
+2018-12-19 13:23:46 +0000,1,Scherian ,C,Possession,2,17,16,93, 148
+2018-12-19 13:23:48 +0000,1,Wood,GA,Possession,2,17,16,90, 179
+2018-12-19 13:23:51 +0000,1,Browne,WA,Possession,2,17,16,16, 184
+2018-12-19 13:23:54 +0000,1,Browne,WA,Assist - Circle Entry,2,17,16,16, 184
+2018-12-19 13:23:54 +0000,1,Wood,GA,Possession,2,17,16,38, 188
+2018-12-19 13:23:56 +0000,0,Bulley ,GD,Penaly - Contact,2,17,16,38, 188
+2018-12-19 13:23:56 +0000,1,Wood,GA,Possession,2,17,16,38, 188
+2018-12-19 13:24:00 +0000,1,Bassett,GS,Goal - Score,2,17,16,49, 189
+2018-12-19 13:24:25 +0000,0,Guthrie,C,Centre Pass,2,17,17,50, 100
+2018-12-19 13:24:25 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,17,17,60, 75
+2018-12-19 13:24:27 +0000,0,Guthrie,C,Assist - 2nd Phase,2,17,17,63, 45
+2018-12-19 13:24:29 +0000,0,Pettitt ,GS,Possession,2,17,17,85, 21
+2018-12-19 13:24:33 +0000,0,Guthrie,C,Possession,2,17,17,71, 27
+2018-12-19 13:24:36 +0000,0,Guthrie,C,Assist - Circle Entry,2,17,17,71, 27
+2018-12-19 13:24:36 +0000,0,Harten ,GA,Goal - Score,2,17,17,64, 15
+2018-12-19 13:24:49 +0000,1,Scherian ,C,Centre Pass,2,18,17,50, 100
+2018-12-19 13:24:49 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,2,18,17,18, 101
+2018-12-19 13:24:50 +0000,1,Wood,GA,Assist - 2nd Phase,2,18,17,40, 121
+2018-12-19 13:24:53 +0000,1,Scherian ,C,Possession,2,18,17,93, 127
+2018-12-19 13:24:55 +0000,1,Browne,WA,Possession,2,18,17,58, 145
+2018-12-19 13:24:57 +0000,1,Browne,WA,Assist - Circle Entry,2,18,17,58, 145
+2018-12-19 13:24:57 +0000,1,Wood,GA,Possession,2,18,17,30, 188
+2018-12-19 13:25:00 +0000,1,Browne,WA,Possession,2,18,17,19, 182
+2018-12-19 13:25:02 +0000,1,Browne,WA,Assist - Circle Entry,2,18,17,19, 182
+2018-12-19 13:25:02 +0000,1,Wood,GA,Goal - Miss,2,18,17,38, 191
+2018-12-19 13:25:20 +0000,0,Bulley ,GD,Gain - Tip (Deflect),2,18,17,40, 192
+2018-12-19 13:25:26 +0000,0,Manu’a,GK,Possession,2,18,17,46, 194
+2018-12-19 13:25:34 +0000,0,Guthrie,C,Possession,2,18,17,48, 138
+2018-12-19 13:25:36 +0000,0,Green,WA,Possession,2,18,17,46, 107
+2018-12-19 13:25:42 +0000,0,Guthrie,C,Possession,2,18,17,27, 74
+2018-12-19 13:25:44 +0000,0,Green,WA,Possession,2,18,17,39, 39
+2018-12-19 13:25:46 +0000,0,Pettitt ,GS,Possession,2,18,17,16, 26
+2018-12-19 13:25:48 +0000,0,Green,WA,Possession,2,18,17,26, 26
+2018-12-19 13:25:51 +0000,0,Price,WD,Possession,2,18,17,17, 68
+2018-12-19 13:25:53 +0000,0,Green,WA,Possession,2,18,17,14, 43
+2018-12-19 13:25:57 +0000,0,Price,WD,Possession,2,18,17,26, 70
+2018-12-19 13:26:00 +0000,0,Pettitt ,GS,Possession,2,18,17,43, 52
+2018-12-19 13:26:02 +0000,0,Guthrie,C,Possession,2,18,17,65, 45
+2018-12-19 13:26:07 +0000,0,Pettitt ,GS,Possession,2,18,17,18, 33
+2018-12-19 13:26:11 +0000,0,Guthrie,C,Possession,2,18,17,45, 35
+2018-12-19 13:26:25 +0000,1,McAuliffe,WD,Deflect,2,18,17,10, 20
+2018-12-19 13:26:25 +0000,0,Green,WA,Throw In,2,18,17,-1, 3
+2018-12-19 13:26:34 +0000,0,Green,WA,Assist - Circle Entry,2,18,17,-1, 3
+2018-12-19 13:26:34 +0000,0,Pettitt ,GS,Goal - Score,2,18,17,49, 11
+2018-12-19 13:26:47 +0000,0,Guthrie,C,Centre Pass,2,19,17,50, 100
+2018-12-19 13:26:47 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,19,17,24, 75
+2018-12-19 13:26:50 +0000,0,Guthrie,C,Assist - 2nd Phase,2,19,17,78, 29
+2018-12-19 13:26:52 +0000,0,Guthrie,C,Assist - Circle Entry,2,19,17,78, 29
+2018-12-19 13:26:53 +0000,0,Pettitt ,GS,Loss - Held Ball,2,19,17,57, 10
+2018-12-19 13:26:58 +0000,1,Mentor,GK,Possession,2,19,17,57, 11
+2018-12-19 13:27:02 +0000,1,McAuliffe,WD,Possession,2,19,17,74, 46
+2018-12-19 13:27:07 +0000,1,Scherian ,C,Possession,2,19,17,58, 63
+2018-12-19 13:27:08 +0000,1,Pretorius ,GD,Possession,2,19,17,16, 93
+2018-12-19 13:27:11 +0000,1,Browne,WA,Possession,2,19,17,21, 118
+2018-12-19 13:27:14 +0000,1,Pretorius ,GD,Possession,2,19,17,29, 109
+2018-12-19 13:27:16 +0000,1,McAuliffe,WD,Possession,2,19,17,69, 101
+2018-12-19 13:27:18 +0000,1,Scherian ,C,Possession,2,19,17,95, 121
+2018-12-19 13:27:29 +0000,1,McAuliffe,WD,Possession,2,19,17,76, 125
+2018-12-19 13:27:31 +0000,1,Scherian ,C,Possession,2,19,17,63, 138
+2018-12-19 13:27:33 +0000,1,Bassett,GS,Possession,2,19,17,34, 166
+2018-12-19 13:27:38 +0000,1,Scherian ,C,Possession,2,19,17,82, 186
+2018-12-19 13:27:41 +0000,1,Scherian ,C,Assist - Circle Entry,2,19,17,82, 186
+2018-12-19 13:27:41 +0000,1,Bassett,GS,Goal - Score,2,19,17,59, 195
+2018-12-19 13:27:59 +0000,1,Scherian ,C,Centre Pass,2,19,18,50, 100
+2018-12-19 13:27:59 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,19,18,39, 124
+2018-12-19 13:28:02 +0000,1,Browne,WA,Assist - 2nd Phase,2,19,18,83, 182
+2018-12-19 13:28:04 +0000,1,Browne,WA,Assist - Circle Entry,2,19,18,83, 182
+2018-12-19 13:28:04 +0000,1,Wood,GA,Possession,2,19,18,57, 175
+2018-12-19 13:28:10 +0000,0,Price,WD,Deflect,2,19,18,18, 188
+2018-12-19 13:28:10 +0000,1,Wood,GA,Throw In,2,19,18,20, 202
+2018-12-19 13:28:24 +0000,0,Guthrie,C,Gain - Tip (Deflect),2,19,18,27, 168
+2018-12-19 13:28:28 +0000,0,Guthrie,C,Possession,2,19,18,2, 169
+2018-12-19 13:28:32 +0000,0,Harten ,GA,Possession,2,19,18,18, 112
+2018-12-19 13:28:36 +0000,0,Bulley ,GD,Possession,2,19,18,33, 116
+2018-12-19 13:28:41 +0000,0,Green,WA,Possession,2,19,18,71, 103
+2018-12-19 13:28:46 +0000,0,Pettitt ,GS,Possession,2,19,18,84, 52
+2018-12-19 13:28:50 +0000,0,Price,WD,Possession,2,19,18,54, 74
+2018-12-19 13:28:52 +0000,0,Guthrie,C,Possession,2,19,18,16, 21
+2018-12-19 13:28:54 +0000,0,Price,WD,Possession,2,19,18,27, 72
+2018-12-19 13:28:56 +0000,0,Guthrie,C,Possession,2,19,18,41, 51
+2018-12-19 13:29:00 +0000,0,Pettitt ,GS,Possession,2,19,18,25, 27
+2018-12-19 13:29:02 +0000,0,Green,WA,Possession,2,19,18,45, 39
+2018-12-19 13:29:06 +0000,0,Green,WA,Assist - Circle Entry,2,19,18,45, 39
+2018-12-19 13:29:06 +0000,0,Pettitt ,GS,Goal - Score,2,19,18,55, 5
+2018-12-19 14:06:26 +0000,0,Guthrie,C,Centre Pass,2,20,18,50, 100
+2018-12-19 14:06:27 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,2,20,18,49, 77
+2018-12-19 14:06:28 +0000,0,Harten ,GA,Assist - 2nd Phase,2,20,18,56, 50
+2018-12-19 14:06:31 +0000,0,Pettitt ,GS,Possession,2,20,18,40, 35
+2018-12-19 14:06:34 +0000,0,Green,WA,Possession,2,20,18,85, 6
+2018-12-19 14:06:37 +0000,0,Green,WA,Assist - Circle Entry,2,20,18,85, 6
+2018-12-19 14:06:37 +0000,0,Pettitt ,GS,Possession,2,20,18,75, 11
+2018-12-19 14:06:44 +0000,1,Pretorius ,GD,Penaly - Contact,2,20,18,81, 18
+2018-12-19 14:06:44 +0000,0,Green,WA,Possession,2,20,18,81, 18
+2018-12-19 14:06:53 +0000,0,Green,WA,Assist - Circle Entry,2,20,18,81, 18
+2018-12-19 14:06:53 +0000,0,Pettitt ,GS,Goal - Score,2,20,18,44, 5
+2018-12-19 14:07:00 +0000,1,,UNKNOWN,Timeout,2,21,18,-10, -22
+2018-12-19 14:08:00 +0000,1,Scherian ,C,Centre Pass,2,21,18,50, 100
+2018-12-19 14:08:01 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,21,18,41, 119
+2018-12-19 14:08:03 +0000,1,Scherian ,C,Assist - 2nd Phase,2,21,18,67, 125
+2018-12-19 14:08:05 +0000,1,Wood,GA,Possession,2,21,18,40, 164
+2018-12-19 14:08:13 +0000,0,Manu’a,GK,Penaly - Contact,2,21,18,62, 185
+2018-12-19 14:08:13 +0000,1,Wood,GA,Goal - Score,2,21,18,62, 185
+2018-12-19 14:08:31 +0000,0,Guthrie,C,Centre Pass,2,21,19,50, 100
+2018-12-19 14:08:31 +0000,0,Price,WD,Assist - Centre Pass Rec,2,21,19,76, 89
+2018-12-19 14:08:33 +0000,0,Guthrie,C,Assist - 2nd Phase,2,21,19,46, 57
+2018-12-19 14:08:37 +0000,0,Pettitt ,GS,Possession,2,21,19,15, 9
+2018-12-19 14:09:22 +0000,0,Guthrie,C,Possession,2,21,19,25, 26
+2018-12-19 14:09:24 +0000,0,Guthrie,C,Assist - Circle Entry,2,21,19,25, 26
+2018-12-19 14:09:24 +0000,1,Pretorius ,GD,Gain - Inter,2,21,19,29, 9
+2018-12-19 14:09:29 +0000,1,Mentor,GK,Possession,2,21,19,29, 17
+2018-12-19 14:09:30 +0000,1,Pretorius ,GD,Possession,2,21,19,68, 9
+2018-12-19 14:09:33 +0000,1,Scherian ,C,Possession,2,21,19,91, 42
+2018-12-19 14:09:37 +0000,1,McAuliffe,WD,Possession,2,21,19,71, 49
+2018-12-19 14:09:39 +0000,1,Scherian ,C,Possession,2,21,19,84, 63
+2018-12-19 14:09:41 +0000,1,Mentor,GK,Possession,2,21,19,75, 36
+2018-12-19 14:09:43 +0000,1,Scherian ,C,Possession,2,21,19,94, 52
+2018-12-19 14:09:47 +0000,1,Mentor,GK,Possession,2,21,19,65, 39
+2018-12-19 14:09:49 +0000,1,Pretorius ,GD,Possession,2,21,19,75, 55
+2018-12-19 14:09:51 +0000,1,Mentor,GK,Possession,2,21,19,24, 55
+2018-12-19 14:09:53 +0000,1,Browne,WA,Possession,2,21,19,11, 112
+2018-12-19 14:09:57 +0000,1,Scherian ,C,Possession,2,21,19,46, 154
+2018-12-19 14:09:59 +0000,1,Scherian ,C,Assist - Circle Entry,2,21,19,46, 154
+2018-12-19 14:09:59 +0000,1,Bassett,GS,Possession,2,21,19,52, 189
+2018-12-19 14:10:01 +0000,0,Manu’a,GK,Penaly - Obstruction,2,21,19,52, 189
+2018-12-19 14:10:01 +0000,1,Bassett,GS,Goal - Score,2,21,19,52, 189
+2018-12-19 14:10:13 +0000,1,Scherian ,C,Centre Pass,2,21,20,50, 100
+2018-12-19 14:10:13 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,2,21,20,67, 93
+2018-12-19 14:10:17 +0000,1,Browne,WA,Assist - 2nd Phase,2,21,20,90, 175
+2018-12-19 14:10:21 +0000,1,Wood,GA,Possession,2,21,20,94, 186
+2018-12-19 14:10:26 +0000,1,Wood,GA,Assist - Circle Entry,2,21,20,94, 186
+2018-12-19 14:10:26 +0000,1,Bassett,GS,Possession,2,21,20,69, 195
+2018-12-19 14:10:27 +0000,1,Browne,WA,Possession,2,21,20,64, 167
+2018-12-19 14:10:29 +0000,1,Browne,WA,Assist - Circle Entry,2,21,20,64, 167
+2018-12-19 14:10:29 +0000,1,Wood,GA,Possession,2,21,20,58, 183
+2018-12-19 14:10:32 +0000,1,Scherian ,C,Possession,2,21,20,46, 143
+2018-12-19 14:10:35 +0000,1,Pretorius ,GD,Possession,2,21,20,52, 124
+2018-12-19 14:10:37 +0000,1,Wood,GA,Possession,2,21,20,80, 149
+2018-12-19 14:10:39 +0000,1,Browne,WA,Possession,2,21,20,82, 184
+2018-12-19 14:10:43 +0000,1,Browne,WA,Assist - Circle Entry,2,21,20,82, 184
+2018-12-19 14:10:43 +0000,1,Bassett,GS,Goal - Score,2,21,20,51, 184
+2018-12-19 14:10:52 +0000,0,Guthrie,C,Centre Pass,2,21,21,50, 100
+2018-12-19 14:10:53 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,2,21,21,30, 90
+2018-12-19 14:10:55 +0000,0,Harten ,GA,Assist - 2nd Phase,2,21,21,14, 21
+2018-12-19 14:10:57 +0000,0,Green,WA,Possession,2,21,21,36, 32
+2018-12-19 14:10:59 +0000,0,Green,WA,Assist - Circle Entry,2,21,21,36, 32
+2018-12-19 14:10:59 +0000,0,Pettitt ,GS,Possession,2,21,21,26, 16
+2018-12-19 14:11:01 +0000,0,Guthrie,C,Possession,2,21,21,63, 34
+2018-12-19 14:11:04 +0000,0,Guthrie,C,Assist - Circle Entry,2,21,21,63, 34
+2018-12-19 14:11:04 +0000,0,Harten ,GA,Goal - Score,2,21,21,59, 7
+2018-12-19 14:11:16 +0000,1,Scherian ,C,Centre Pass,2,22,21,50, 100
+2018-12-19 14:11:16 +0000,1,Wood,GA,Assist - Centre Pass Rec,2,22,21,37, 124
+2018-12-19 14:11:19 +0000,1,Browne,WA,Assist - 2nd Phase,2,22,21,50, 142
+2018-12-19 14:11:23 +0000,1,Scherian ,C,Possession,2,22,21,27, 159
+2018-12-19 14:11:24 +0000,1,Browne,WA,Possession,2,22,21,41, 156
+2018-12-19 14:11:26 +0000,1,Wood,GA,Possession,2,22,21,63, 152
+2018-12-19 14:11:28 +0000,1,Wood,GA,Assist - Circle Entry,2,22,21,63, 152
+2018-12-19 14:11:28 +0000,1,Bassett,GS,Possession,2,22,21,50, 178
+2018-12-19 14:11:29 +0000,1,Browne,WA,Possession,2,22,21,76, 174
+2018-12-19 14:11:32 +0000,1,Browne,WA,Assist - Circle Entry,2,22,21,76, 174
+2018-12-19 14:11:32 +0000,1,Bassett,GS,Possession,2,22,21,49, 186
+2018-12-19 14:11:36 +0000,0,Price,WD,Gain - Tip (Deflect),2,22,21,41, 166
+2018-12-19 14:11:42 +0000,0,Guthrie,C,Possession,2,22,21,71, 165
+2018-12-19 14:11:47 +0000,0,Bulley ,GD,Possession,2,22,21,69, 146
+2018-12-19 14:11:50 +0000,0,Price,WD,Possession,2,22,21,84, 119
+2018-12-19 14:11:51 +0000,0,Green,WA,Possession,2,22,21,90, 74
+2018-12-19 14:12:00 +0000,0,Green,WA,Assist - Circle Entry,2,22,21,90, 74
+2018-12-19 14:12:00 +0000,1,Pretorius ,GD,Gain - Inter,2,22,21,71, 9
+2018-12-19 14:12:02 +0000,0,Pettitt ,GS,Penaly - Contact,2,22,21,71, 9
+2018-12-19 14:12:02 +0000,1,Mentor,GK,Possession,2,22,21,71, 9
+2018-12-19 14:12:10 +0000,1,McAuliffe,WD,Possession,2,22,21,72, 42
+2018-12-19 14:12:13 +0000,1,Mentor,GK,Possession,2,22,21,31, 35
+2018-12-19 14:12:15 +0000,1,McAuliffe,WD,Possession,2,22,21,84, 52
+2018-12-19 14:12:18 +0000,1,Mentor,GK,Possession,2,22,21,71, 44
+2018-12-19 14:12:20 +0000,1,McAuliffe,WD,Possession,2,22,21,55, 56
+2018-12-19 14:12:22 +0000,1,Pretorius ,GD,Possession,2,22,21,90, 95
+2018-12-19 14:12:24 +0000,1,Browne,WA,Possession,2,22,21,95, 131
+2018-12-19 14:12:26 +0000,1,Pretorius ,GD,Possession,2,22,21,89, 127
+2018-12-19 14:12:33 +0000,0,Price,WD,Gain - Tip (Deflect),2,22,21,81, 121
+2018-12-19 14:12:37 +0000,0,Price,WD,Possession,2,22,21,77, 96
+2018-12-19 14:12:40 +0000,0,Green,WA,Possession,2,22,21,67, 76
+2018-12-19 14:12:43 +0000,0,Guthrie,C,Possession,2,22,21,31, 81
+2018-12-19 14:12:46 +0000,0,Green,WA,Possession,2,22,21,39, 55
+2018-12-19 14:12:49 +0000,0,Green,WA,Assist - Circle Entry,2,22,21,39, 55
+2018-12-19 14:12:49 +0000,0,Pettitt ,GS,Possession,2,22,21,67, 20
+2018-12-19 14:12:52 +0000,0,Green,WA,Possession,2,22,21,63, 34
+2018-12-19 14:12:56 +0000,0,Green,WA,Assist - Circle Entry,2,22,21,63, 34
+2018-12-19 14:12:56 +0000,0,Pettitt ,GS,Possession,2,22,21,75, 5
+2018-12-19 14:13:06 +0000,1,McAuliffe,WD,Loss - Offside,2,22,21,29, 23
+2018-12-19 14:13:06 +0000,0,Pettitt ,GS,Possession,2,22,21,29, 23
+2018-12-19 14:13:14 +0000,0,Green,WA,Possession,2,22,21,50, 35
+2018-12-19 14:13:23 +0000,0,Green,WA,Assist - Circle Entry,2,22,21,50, 35
+2018-12-19 14:13:23 +0000,0,Harten ,GA,Goal - Miss,2,22,21,64, 7
+2018-12-19 14:13:43 +0000,1,Mentor,GK,Deflect,2,22,21,42, 12
+2018-12-19 14:13:43 +0000,0,Guthrie,C,Possession,2,22,21,22, 20
+2018-12-19 14:13:56 +0000,0,Guthrie,C,Assist - Circle Entry,2,22,21,22, 20
+2018-12-19 14:13:56 +0000,0,Pettitt ,GS,Possession,2,22,21,31, 12
+2018-12-19 14:13:58 +0000,0,Guthrie,C,Possession,2,22,21,19, 18
+2018-12-19 14:14:00 +0000,0,Guthrie,C,Assist - Circle Entry,2,22,21,19, 18
+2018-12-19 14:14:00 +0000,0,Pettitt ,GS,Goal - Miss,2,22,21,38, 8
+2018-12-19 14:14:09 +0000,0,Harten ,GA,Assist - Attack Rebound,2,22,21,50, 2
+2018-12-19 14:14:10 +0000,1,Mentor,GK,Penaly - Contact,2,22,21,50, 2
+2018-12-19 14:14:10 +0000,0,Harten ,GA,Possession,2,22,21,50, 2
+2018-12-19 14:14:12 +0000,1,Pretorius ,GD,Penaly - Contact,2,22,21,50, 2
+2018-12-19 14:14:13 +0000,0,Harten ,GA,Goal - Score,2,22,21,50, 2
+2018-12-19 14:14:26 +0000,0,Guthrie,C,Centre Pass,2,23,21,50, 100
+2018-12-19 14:14:26 +0000,1,Pretorius ,GD,Penaly - Contact on CP,2,23,21,49, 73
+2018-12-19 14:14:26 +0000,0,Bulley ,GD,Possession,2,23,21,49, 73
+2018-12-19 14:14:33 +0000,0,Bulley ,GD,Assist - Circle Entry,2,23,21,49, 73
+2018-12-19 14:14:33 +0000,0,Harten ,GA,Assist - 2nd Phase,2,23,21,48, 29
+2018-12-19 14:14:46 +0000,0,Pettitt ,GS,Deflect,2,23,21,25, 11
+2018-12-19 14:14:47 +0000,1,Mentor,GK,Throw In,2,23,21,9, -2
+2018-12-19 14:14:56 +0000,1,McAuliffe,WD,Possession,2,23,21,17, 13
+2018-12-19 14:14:58 +0000,0,Pettitt ,GS,Penaly - Contact,2,23,21,17, 13
+2018-12-19 14:14:58 +0000,1,Mentor,GK,Possession,2,23,21,17, 13
+2018-12-19 14:15:06 +0000,1,McAuliffe,WD,Possession,2,23,21,14, 78
+2018-12-19 14:15:08 +0000,1,Scherian ,C,Possession,2,23,21,12, 109
+2018-12-19 14:15:15 +0000,0,Bulley ,GD,Penaly - Contact,2,23,21,26, 140
+2018-12-19 14:15:15 +0000,1,Browne,WA,Possession,2,23,21,26, 140
+2018-12-19 14:15:27 +0000,1,Scherian ,C,Possession,2,23,21,86, 151
+2018-12-19 14:15:32 +0000,1,McAuliffe,WD,Possession,2,23,21,73, 129
+2018-12-19 14:15:36 +0000,1,Browne,WA,Possession,2,23,21,90, 137
+2018-12-19 14:15:39 +0000,1,Wood,GA,Possession,2,23,21,63, 139
+2018-12-19 14:15:45 +0000,1,Wood,GA,Assist - Circle Entry,2,23,21,63, 139
+2018-12-19 14:15:45 +0000,1,Bassett,GS,Possession,2,23,21,48, 169
+2018-12-19 14:15:46 +0000,1,Scherian ,C,Possession,2,23,21,85, 192
+2018-12-19 14:15:51 +0000,1,Browne,WA,Possession,2,23,21,20, 182
+2018-12-19 14:15:53 +0000,0,Price,WD,Penaly - Contact,2,23,21,20, 182
+2018-12-19 14:15:53 +0000,1,Browne,WA,Possession,2,23,21,20, 182
+2018-12-19 14:16:01 +0000,1,Browne,WA,Assist - Circle Entry,2,23,21,20, 182
+2018-12-19 14:16:01 +0000,1,Bassett,GS,Possession,2,23,21,48, 187
+2018-12-19 14:16:03 +0000,0,Manu’a,GK,Penaly - Contact,2,23,21,48, 187
+2018-12-19 14:16:03 +0000,1,Bassett,GS,Goal - Score,2,23,21,48, 187
+2018-12-19 14:16:21 +0000,1,Scherian ,C,Centre Pass,2,23,22,50, 100
+2018-12-19 14:16:22 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,2,23,22,39, 82
+2018-12-19 14:16:23 +0000,1,Wood,GA,Assist - 2nd Phase,2,23,22,12, 123
+2018-12-19 14:16:28 +0000,0,Bulley ,GD,Deflect,2,23,22,23, 127
+2018-12-19 14:16:38 +0000,1,Pretorius ,GD,Throw In,2,23,22,-6, 130
+2018-12-19 14:16:44 +0000,1,Scherian ,C,Possession,2,23,22,50, 123
+2018-12-19 14:16:49 +0000,1,Wood,GA,Possession,2,23,22,30, 130
+2018-12-19 14:16:54 +0000,1,Browne,WA,Possession,2,23,22,18, 183
+2018-12-19 14:16:57 +0000,1,Browne,WA,Assist - Circle Entry,2,23,22,18, 183
+2018-12-19 14:16:57 +0000,1,Bassett,GS,Goal - Score,2,23,22,50, 191
+2018-12-19 14:17:09 +0000,0,Guthrie,C,Centre Pass,2,23,23,50, 100
+2018-12-19 14:17:09 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,23,23,80, 85
+2018-12-19 14:17:15 +0000,1,Scherian ,C,Penaly - Contact,2,23,23,77, 51
+2018-12-19 14:17:15 +0000,0,Green,WA,Assist - 2nd Phase,2,23,23,77, 51
+2018-12-19 14:17:21 +0000,0,Pettitt ,GS,Possession,2,23,23,57, 39
+2018-12-19 14:17:25 +0000,0,Guthrie,C,Possession,2,23,23,27, 26
+2018-12-19 14:17:26 +0000,1,McAuliffe,WD,Penaly - Contact,2,23,23,27, 26
+2018-12-19 14:17:26 +0000,0,Guthrie,C,Possession,2,23,23,27, 26
+2018-12-19 14:17:37 +0000,0,Guthrie,C,Assist - Circle Entry,2,23,23,27, 26
+2018-12-19 14:17:37 +0000,0,Pettitt ,GS,Goal - Miss,2,23,23,48, 18
+2018-12-19 14:17:49 +0000,1,Mentor,GK,Throw In,2,23,23,50, -2
+2018-12-19 14:17:55 +0000,1,Pretorius ,GD,Possession,2,23,23,21, 39
+2018-12-19 14:17:58 +0000,1,Scherian ,C,Possession,2,23,23,45, 57
+2018-12-19 14:18:01 +0000,1,McAuliffe,WD,Possession,2,23,23,45, 81
+2018-12-19 14:18:04 +0000,1,Pretorius ,GD,Possession,2,23,23,29, 92
+2018-12-19 14:18:06 +0000,1,Scherian ,C,Possession,2,23,23,51, 116
+2018-12-19 14:18:09 +0000,1,Pretorius ,GD,Possession,2,23,23,37, 129
+2018-12-19 14:18:13 +0000,1,Browne,WA,Possession,2,23,23,14, 168
+2018-12-19 14:18:16 +0000,1,Scherian ,C,Possession,2,23,23,11, 142
+2018-12-19 14:18:19 +0000,0,Guthrie,C,Penaly - Contact,2,23,23,29, 153
+2018-12-19 14:18:19 +0000,1,Browne,WA,Possession,2,23,23,29, 153
+2018-12-19 14:18:27 +0000,1,Wood,GA,Possession,2,23,23,36, 167
+2018-12-19 14:18:32 +0000,0,Bulley ,GD,Penaly - Contact,2,23,23,44, 190
+2018-12-19 14:18:32 +0000,1,Bassett,GS,Goal - Score,2,23,23,44, 190
+2018-12-19 14:18:40 +0000,0,,UNKNOWN,Timeout,2,23,24,-10, -22
+2018-12-19 14:19:30 +0000,0,Pettitt ,UNKNOWN,Interchange - Austin,2,23,24,
+2018-12-19 14:21:15 +0000,0,Austin,UNKNOWN,Interchange - Harten ,2,23,24,
+2018-12-19 14:21:15 +0000,0,Harten ,UNKNOWN,Interchange - Austin,2,23,24,
+2018-12-19 14:21:26 +0000,1,Scherian ,C,Centre Pass,2,23,24,50, 100
+2018-12-19 14:21:26 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,2,23,24,14, 116
+2018-12-19 14:21:29 +0000,1,Browne,WA,Assist - 2nd Phase,2,23,24,29, 160
+2018-12-19 14:21:33 +0000,1,Browne,WA,Assist - Circle Entry,2,23,24,29, 160
+2018-12-19 14:21:33 +0000,0,Bulley ,GD,Gain - Inter,2,23,24,54, 181
+2018-12-19 14:21:36 +0000,1,Bassett,GS,Penaly - Contact,2,23,24,54, 181
+2018-12-19 14:21:36 +0000,0,Manu’a,GK,Possession,2,23,24,54, 181
+2018-12-19 14:21:46 +0000,0,Price,WD,Possession,2,23,24,35, 155
+2018-12-19 14:21:49 +0000,0,Bulley ,GD,Possession,2,23,24,52, 133
+2018-12-19 14:21:53 +0000,0,Austin,GA,Possession,2,23,24,22, 95
+2018-12-19 14:21:57 +0000,0,Price,WD,Possession,2,23,24,46, 108
+2018-12-19 14:22:01 +0000,0,Green,WA,Possession,2,23,24,68, 91
+2018-12-19 14:22:05 +0000,0,Austin,GA,Possession,2,23,24,54, 60
+2018-12-19 14:22:08 +0000,1,Pretorius ,GD,Penaly - Contact,2,23,24,54, 60
+2018-12-19 14:22:09 +0000,0,Green,WA,Possession,2,23,24,54, 60
+2018-12-19 14:22:18 +0000,0,Green,WA,Assist - Circle Entry,2,23,24,54, 60
+2018-12-19 14:22:18 +0000,0,Austin,GA,Possession,2,23,24,23, 11
+2018-12-19 14:22:20 +0000,0,Green,WA,Possession,2,23,24,27, 28
+2018-12-19 14:22:24 +0000,0,Green,WA,Assist - Circle Entry,2,23,24,27, 28
+2018-12-19 14:22:24 +0000,0,Austin,GA,Goal - Score,2,23,24,43, 11
+2018-12-19 14:22:36 +0000,0,Guthrie,C,Centre Pass,2,24,24,50, 100
+2018-12-19 14:22:36 +0000,0,Green,WA,Assist - Centre Pass Rec,2,24,24,37, 92
+2018-12-19 14:22:38 +0000,0,Guthrie,C,Assist - 2nd Phase,2,24,24,73, 49
+2018-12-19 14:22:40 +0000,0,Guthrie,C,Assist - Circle Entry,2,24,24,73, 49
+2018-12-19 14:22:40 +0000,0,Harten ,GS,Possession,2,24,24,65, 23
+2018-12-19 14:22:42 +0000,0,Guthrie,C,Possession,2,24,24,72, 26
+2018-12-19 14:22:45 +0000,0,Guthrie,C,Assist - Circle Entry,2,24,24,72, 26
+2018-12-19 14:22:45 +0000,0,Harten ,GS,Possession,2,24,24,60, 12
+2018-12-19 14:22:47 +0000,0,Green,WA,Possession,2,24,24,27, 26
+2018-12-19 14:22:50 +0000,1,Pretorius ,GD,Penaly - Contact,2,24,24,44, 10
+2018-12-19 14:22:50 +0000,0,Harten ,GS,Goal - Miss,2,24,24,44, 10
+2018-12-19 14:23:05 +0000,1,Mentor,GK,Gain - Def Reb,2,24,24,50, 2
+2018-12-19 14:23:07 +0000,1,McAuliffe,WD,Possession,2,24,24,19, 16
+2018-12-19 14:23:10 +0000,1,Mentor,GK,Possession,2,24,24,24, 9
+2018-12-19 14:23:14 +0000,1,Pretorius ,GD,Possession,2,24,24,73, 26
+2018-12-19 14:23:16 +0000,1,Mentor,GK,Possession,2,24,24,49, 21
+2018-12-19 14:23:19 +0000,1,Pretorius ,GD,Possession,2,24,24,62, 36
+2018-12-19 14:23:21 +0000,1,McAuliffe,WD,Possession,2,24,24,63, 54
+2018-12-19 14:23:26 +0000,0,Green,WA,Penaly - Contact,2,24,24,63, 54
+2018-12-19 14:23:26 +0000,1,McAuliffe,WD,Possession,2,24,24,63, 54
+2018-12-19 14:23:38 +0000,1,Browne,WA,Possession,2,24,24,90, 102
+2018-12-19 14:23:39 +0000,1,McAuliffe,WD,Possession,2,24,24,71, 105
+2018-12-19 14:23:43 +0000,1,Browne,WA,Possession,2,24,24,82, 144
+2018-12-19 14:23:46 +0000,1,Scherian ,C,Possession,2,24,24,62, 144
+2018-12-19 14:23:48 +0000,1,Wood,GA,Possession,2,24,24,31, 168
+2018-12-19 14:23:52 +0000,1,Wood,GA,Assist - Circle Entry,2,24,24,31, 168
+2018-12-19 14:23:52 +0000,1,Bassett,GS,Possession,2,24,24,54, 183
+2018-12-19 14:23:53 +0000,0,Manu’a,GK,Penaly - Contact,2,24,24,54, 183
+2018-12-19 14:23:53 +0000,1,Bassett,GS,Goal - Score,2,24,24,54, 183
+2018-12-19 14:24:09 +0000,1,Scherian ,C,Centre Pass,2,24,25,50, 100
+2018-12-19 14:24:09 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,2,24,25,76, 93
+2018-12-19 14:24:11 +0000,1,Scherian ,C,Assist - 2nd Phase,2,24,25,58, 85
+2018-12-19 14:24:13 +0000,1,Pretorius ,GD,Possession,2,24,25,20, 81
+2018-12-19 14:24:16 +0000,1,McAuliffe,WD,Possession,2,24,25,53, 99
+2018-12-19 14:24:19 +0000,1,Wood,GA,Possession,2,24,25,88, 116
+2018-12-19 14:24:23 +0000,1,Browne,WA,Possession,2,24,25,80, 138
+2018-12-19 14:24:30 +0000,1,Pretorius ,GD,Possession,2,24,25,68, 129
+2018-12-19 14:24:31 +0000,0,Green,WA,Penaly - Contact,2,24,25,68, 129
+2018-12-19 14:24:31 +0000,1,Pretorius ,GD,Possession,2,24,25,68, 129
+2018-12-19 14:24:36 +0000,0,Guthrie,C,Penaly - Contact,2,24,25,76, 151
+2018-12-19 14:24:36 +0000,1,Browne,WA,Possession,2,24,25,76, 151
+2018-12-19 14:24:53 +0000,1,Browne,WA,Assist - Circle Entry,2,24,25,76, 151
+2018-12-19 14:24:53 +0000,1,Bassett,GS,Possession,2,24,25,54, 195
+2018-12-19 14:24:55 +0000,0,Manu’a,GK,Penaly - Obstruction,2,24,25,54, 195
+2018-12-19 14:24:55 +0000,1,Bassett,GS,Goal - Score,2,24,25,54, 195
+2018-12-19 14:25:07 +0000,0,Guthrie,C,Centre Pass,2,24,26,50, 100
+2018-12-19 14:25:07 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,2,24,26,68, 112
+2018-12-19 14:25:10 +0000,0,Green,WA,Assist - 2nd Phase,2,24,26,92, 101
+2018-12-19 14:25:13 +0000,0,Price,WD,Possession,2,24,26,83, 76
+2018-12-19 14:25:17 +0000,1,Browne,WA,Penaly - Contact,2,24,26,83, 76
+2018-12-19 14:25:17 +0000,0,Price,WD,Possession,2,24,26,83, 76
+2018-12-19 14:25:24 +0000,0,Green,WA,Possession,2,24,26,73, 60
+2018-12-19 14:25:27 +0000,0,Austin,GA,Possession,2,24,26,47, 50
+2018-12-19 14:25:29 +0000,0,Guthrie,C,Possession,2,24,26,26, 27
+2018-12-19 14:25:32 +0000,0,Guthrie,C,Assist - Circle Entry,2,24,26,26, 27
+2018-12-19 14:25:32 +0000,0,Austin,GA,Possession,2,24,26,40, 25
+2018-12-19 14:25:34 +0000,0,Guthrie,C,Possession,2,24,26,27, 27
+2018-12-19 14:25:37 +0000,0,Guthrie,C,Assist - Circle Entry,2,24,26,27, 27
+2018-12-19 14:25:37 +0000,0,Austin,GA,Goal - Score,2,24,26,42, 16
+2018-12-19 14:25:48 +0000,1,Scherian ,C,Centre Pass,2,25,26,50, 100
+2018-12-19 14:25:49 +0000,1,Browne,WA,Assist - Centre Pass Rec,2,25,26,94, 126
+2018-12-19 14:25:51 +0000,1,McAuliffe,WD,Assist - 2nd Phase,2,25,26,86, 94
+2018-12-19 14:25:53 +0000,1,Browne,WA,Possession,2,25,26,90, 122
+2018-12-19 14:25:55 +0000,1,Wood,GA,Possession,2,25,26,68, 135
+2018-12-19 14:25:57 +0000,1,Scherian ,C,Possession,2,25,26,23, 142
+2018-12-19 14:26:08 +0000,1,Browne,WA,Deflect,2,25,26,7, 185
+2018-12-19 14:26:08 +0000,0,Manu’a,GK,Throw In,2,25,26,-3, 193
+2018-12-19 14:26:25 +0000,0,Bulley ,GD,Possession,2,25,26,23, 172
+2018-12-19 14:26:27 +0000,1,Wood,GA,Penaly - Contact,2,25,26,23, 172
+2018-12-19 14:26:27 +0000,0,Manu’a,GK,Possession,2,25,26,23, 172
+2018-12-19 14:26:33 +0000,0,Bulley ,GD,Possession,2,25,26,15, 148
+2018-12-19 14:27:16 +0000,0,Guthrie,C,Possession,2,25,26,12, 126
+2018-12-19 14:27:24 +0000,1,Browne,WA,Deflect,2,25,26,1, 85
+2018-12-19 14:27:24 +0000,0,Price,WD,Throw In,2,25,26,-3, 83
+2018-12-19 14:27:43 +0000,1,Browne,WA,Penaly - Obstruction,2,25,26,4, 81
+2018-12-19 14:27:44 +0000,0,Price,WD,Possession,2,25,26,4, 81
+2018-12-19 14:28:06 +0000,0,Green,WA,Loss - Drop,2,25,26,10, 67
+2018-12-19 14:28:10 +0000,1,McAuliffe,WD,Gain - Pick-up,2,25,26,11, 61
+2018-12-19 14:28:18 +0000,1,Browne,WA,Possession,2,25,26,63, 138
+2018-12-19 14:28:24 +0000,1,Browne,WA,Assist - Circle Entry,2,25,26,63, 138
+2018-12-19 14:28:24 +0000,1,Bassett,GS,Possession,2,25,26,54, 181
+2018-12-19 14:28:27 +0000,1,Scherian ,C,Possession,2,25,26,18, 186
+2018-12-19 14:28:30 +0000,1,Scherian ,C,Assist - Circle Entry,2,25,26,18, 186
+2018-12-19 14:28:30 +0000,1,Bassett,GS,Goal - Score,2,25,26,42, 192
+2018-12-19 14:28:41 +0000,0,Guthrie,C,Centre Pass,2,25,27,50, 100
+2018-12-19 14:28:41 +0000,0,Green,WA,Assist - Centre Pass Rec,2,25,27,65, 83
+2018-12-19 14:28:44 +0000,0,Harten ,GS,Assist - 2nd Phase,2,25,27,68, 44
+2018-12-19 14:28:58 +0000,1,Scherian ,C,Loss - Offside,2,25,27,25, 19
+2018-12-19 14:28:59 +0000,0,Austin,GA,Possession,2,25,27,25, 19
+2018-12-19 14:29:13 +0000,0,Green,WA,Possession,2,25,27,79, 19
+2018-12-19 14:29:14 +0000,1,McAuliffe,WD,Penaly - Contact,2,25,27,79, 19
+2018-12-19 14:29:14 +0000,0,Green,WA,Possession,2,25,27,79, 19
+2018-12-19 14:29:20 +0000,0,Green,WA,Assist - Circle Entry,2,25,27,79, 19
+2018-12-19 14:29:20 +0000,0,Austin,GA,Goal - Score,2,25,27,50, 20
+2018-12-19 23:23:10 +0000,1,Scherian ,C,Centre Pass,3,26,27,50, 100
+2018-12-19 23:23:10 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,26,27,36, 119
+2018-12-19 23:23:12 +0000,1,Wood,GA,Assist - 2nd Phase,3,26,27,76, 124
+2018-12-19 23:23:14 +0000,1,Browne,WA,Possession,3,26,27,59, 135
+2018-12-19 23:23:18 +0000,1,Scherian ,C,Possession,3,26,27,44, 136
+2018-12-19 23:23:20 +0000,1,Browne,WA,Possession,3,26,27,79, 136
+2018-12-19 23:23:22 +0000,1,Wood,GA,Possession,3,26,27,80, 176
+2018-12-19 23:24:08 +0000,1,Wood,GA,Assist - Circle Entry,3,26,27,80, 176
+2018-12-19 23:24:08 +0000,0,Manu’a,GK,Gain - Inter,3,26,27,41, 185
+2018-12-19 23:24:30 +0000,0,Bulley ,GD,Possession,3,26,27,62, 176
+2018-12-19 23:24:32 +0000,0,Price,WD,Possession,3,26,27,76, 144
+2018-12-19 23:24:34 +0000,0,Manu’a,GK,Possession,3,26,27,53, 157
+2018-12-19 23:24:36 +0000,0,Bulley ,GD,Possession,3,26,27,84, 97
+2018-12-19 23:24:40 +0000,1,McAuliffe,WD,Gain - Inter,3,26,27,70, 92
+2018-12-19 23:24:45 +0000,1,Scherian ,C,Possession,3,26,27,55, 79
+2018-12-19 23:24:48 +0000,1,Browne,WA,Possession,3,26,27,61, 93
+2018-12-19 23:24:51 +0000,1,Wood,GA,Possession,3,26,27,88, 122
+2018-12-19 23:24:54 +0000,1,Pretorius ,GD,Possession,3,26,27,63, 128
+2018-12-19 23:24:59 +0000,1,Bassett,GS,Possession,3,26,27,61, 164
+2018-12-19 23:25:03 +0000,1,Bassett,GS,Assist - Circle Entry,3,26,27,61, 164
+2018-12-19 23:25:03 +0000,1,Wood,GA,Possession,3,26,27,65, 196
+2018-12-19 23:25:11 +0000,0,Bulley ,GD,Penaly - Contact,3,26,27,65, 196
+2018-12-19 23:25:11 +0000,1,Wood,GA,Possession,3,26,27,65, 196
+2018-12-19 23:25:13 +0000,0,Manu’a,GK,Penaly - Obstruction,3,26,27,65, 196
+2018-12-19 23:25:13 +0000,1,Wood,GA,Goal - Score,3,26,27,65, 196
+2018-12-19 23:25:32 +0000,0,Guthrie,C,Centre Pass,3,26,28,50, 100
+2018-12-19 23:25:32 +0000,0,Green,WA,Assist - Centre Pass Rec,3,26,28,19, 76
+2018-12-19 23:25:34 +0000,0,Harten ,GS,Assist - 2nd Phase,3,26,28,14, 25
+2018-12-19 23:25:36 +0000,0,Green,WA,Possession,3,26,28,21, 49
+2018-12-19 23:25:40 +0000,0,Guthrie,C,Possession,3,26,28,78, 20
+2018-12-19 23:25:42 +0000,0,Guthrie,C,Assist - Circle Entry,3,26,28,78, 20
+2018-12-19 23:25:42 +0000,0,Austin,GA,Goal - Score,3,26,28,54, 3
+2018-12-19 23:25:52 +0000,1,Scherian ,C,Centre Pass,3,27,28,50, 100
+2018-12-19 23:25:52 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,27,28,36, 116
+2018-12-19 23:25:54 +0000,1,Browne,WA,Assist - 2nd Phase,3,27,28,10, 188
+2018-12-19 23:26:04 +0000,1,Wood,GA,Possession,3,27,28,23, 162
+2018-12-19 23:26:06 +0000,1,Wood,GA,Assist - Circle Entry,3,27,28,23, 162
+2018-12-19 23:26:06 +0000,1,Bassett,GS,Goal - Score,3,27,28,48, 192
+2018-12-19 23:26:17 +0000,0,Guthrie,C,Centre Pass,3,27,29,50, 100
+2018-12-19 23:26:17 +0000,0,Austin,GA,Assist - Centre Pass Rec,3,27,29,69, 74
+2018-12-19 23:26:18 +0000,0,Guthrie,C,Assist - 2nd Phase,3,27,29,49, 56
+2018-12-19 23:26:20 +0000,0,Green,WA,Possession,3,27,29,62, 47
+2018-12-19 23:26:22 +0000,1,McAuliffe,WD,Penaly - Contact,3,27,29,62, 47
+2018-12-19 23:26:22 +0000,0,Green,WA,Possession,3,27,29,62, 47
+2018-12-19 23:26:34 +0000,0,Green,WA,Assist - Circle Entry,3,27,29,62, 47
+2018-12-19 23:26:34 +0000,1,Pretorius ,GD,Gain - Tip (Deflect),3,27,29,49, 19
+2018-12-19 23:26:39 +0000,1,Mentor,GK,Possession,3,27,29,58, 14
+2018-12-19 23:26:44 +0000,1,McAuliffe,WD,Possession,3,27,29,77, 29
+2018-12-19 23:26:46 +0000,1,Mentor,GK,Possession,3,27,29,78, 18
+2018-12-19 23:26:50 +0000,1,McAuliffe,WD,Possession,3,27,29,87, 61
+2018-12-19 23:26:52 +0000,1,Wood,GA,Possession,3,27,29,89, 93
+2018-12-19 23:26:56 +0000,1,Scherian ,C,Possession,3,27,29,60, 103
+2018-12-19 23:26:59 +0000,1,Wood,GA,Possession,3,27,29,90, 142
+2018-12-19 23:27:10 +0000,0,Bulley ,GD,Penaly - Contact,3,27,29,90, 142
+2018-12-19 23:27:10 +0000,1,Scherian ,C,Possession,3,27,29,90, 142
+2018-12-19 23:27:18 +0000,1,Wood,GA,Possession,3,27,29,79, 178
+2018-12-19 23:27:27 +0000,0,Guthrie,C,Penaly - Obstruction,3,27,29,71, 179
+2018-12-19 23:27:27 +0000,1,Wood,GA,Possession,3,27,29,71, 179
+2018-12-19 23:27:39 +0000,1,Scherian ,C,Possession,3,27,29,60, 166
+2018-12-19 23:27:48 +0000,0,Bulley ,GD,Penaly - Obstruction,3,27,29,57, 173
+2018-12-19 23:27:48 +0000,1,Wood,GA,Goal - Score,3,27,29,57, 173
+2018-12-19 23:28:05 +0000,1,Scherian ,C,Centre Pass,3,27,30,50, 100
+2018-12-19 23:28:05 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,27,30,8, 125
+2018-12-19 23:28:08 +0000,1,Scherian ,C,Assist - 2nd Phase,3,27,30,21, 122
+2018-12-19 23:28:11 +0000,1,Browne,WA,Possession,3,27,30,9, 141
+2018-12-19 23:28:14 +0000,1,Wood,GA,Possession,3,27,30,12, 179
+2018-12-19 23:28:15 +0000,1,Scherian ,C,Possession,3,27,30,15, 190
+2018-12-19 23:28:21 +0000,1,Wood,GA,Possession,3,27,30,45, 161
+2018-12-19 23:28:24 +0000,1,Browne,WA,Possession,3,27,30,54, 160
+2018-12-19 23:28:38 +0000,1,Browne,WA,Assist - Circle Entry,3,27,30,54, 160
+2018-12-19 23:28:39 +0000,1,Bassett,GS,Loss - Off Contact,3,27,30,52, 189
+2018-12-19 23:28:44 +0000,0,Manu’a,GK,Possession,3,27,30,52, 189
+2018-12-19 23:28:51 +0000,0,Price,WD,Possession,3,27,30,29, 168
+2018-12-19 23:28:53 +0000,0,Manu’a,GK,Possession,3,27,30,46, 150
+2018-12-19 23:28:56 +0000,0,Price,WD,Possession,3,27,30,13, 116
+2018-12-19 23:28:58 +0000,0,Austin,GA,Possession,3,27,30,11, 84
+2018-12-19 23:29:01 +0000,0,Green,WA,Possession,3,27,30,26, 82
+2018-12-19 23:29:05 +0000,0,Austin,GA,Possession,3,27,30,13, 55
+2018-12-19 23:29:07 +0000,1,McAuliffe,WD,Penaly - Contact,3,27,30,13, 55
+2018-12-19 23:29:07 +0000,0,Green,WA,Possession,3,27,30,13, 55
+2018-12-19 23:29:13 +0000,0,Austin,GA,Possession,3,27,30,31, 32
+2018-12-19 23:29:14 +0000,0,Guthrie,C,Possession,3,27,30,80, 13
+2018-12-19 23:29:24 +0000,1,Pretorius ,GD,Penaly - Contact,3,27,30,49, 15
+2018-12-19 23:29:24 +0000,0,Harten ,GS,Goal - Score,3,27,30,49, 15
+2018-12-19 23:29:42 +0000,0,Guthrie,C,Centre Pass,3,28,30,50, 100
+2018-12-19 23:29:42 +0000,0,Austin,GA,Assist - Centre Pass Rec,3,28,30,69, 71
+2018-12-19 23:29:47 +0000,0,Guthrie,C,Assist - 2nd Phase,3,28,30,18, 32
+2018-12-19 23:29:50 +0000,0,Guthrie,C,Assist - Circle Entry,3,28,30,18, 32
+2018-12-19 23:29:50 +0000,0,Harten ,GS,Possession,3,28,30,30, 15
+2018-12-19 23:29:52 +0000,0,Austin,GA,Goal - Score,3,28,30,46, 6
+2018-12-19 23:30:01 +0000,1,Scherian ,C,Centre Pass,3,29,30,50, 100
+2018-12-19 23:30:02 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,3,29,30,21, 88
+2018-12-19 23:30:03 +0000,1,Scherian ,C,Assist - 2nd Phase,3,29,30,31, 114
+2018-12-19 23:30:06 +0000,1,McAuliffe,WD,Possession,3,29,30,4, 101
+2018-12-19 23:30:10 +0000,1,Mentor,GK,Possession,3,29,30,11, 53
+2018-12-19 23:30:12 +0000,1,Pretorius ,GD,Possession,3,29,30,52, 64
+2018-12-19 23:30:26 +0000,0,Bulley ,GD,Penaly - Contact,3,29,30,46, 130
+2018-12-19 23:30:26 +0000,1,Pretorius ,GD,Possession,3,29,30,46, 130
+2018-12-19 23:30:33 +0000,1,Scherian ,C,Possession,3,29,30,11, 147
+2018-12-19 23:30:38 +0000,1,Bassett,GS,Possession,3,29,30,13, 188
+2018-12-19 23:30:41 +0000,1,Bassett,GS,Assist - Circle Entry,3,29,30,13, 188
+2018-12-19 23:30:41 +0000,1,Wood,GA,Goal - Score,3,29,30,45, 194
+2018-12-19 23:30:56 +0000,0,Guthrie,C,Centre Pass,3,29,31,50, 100
+2018-12-19 23:30:56 +0000,0,Austin,GA,Assist - Centre Pass Rec,3,29,31,27, 77
+2018-12-19 23:31:00 +0000,0,Green,WA,Assist - 2nd Phase,3,29,31,89, 47
+2018-12-19 23:31:02 +0000,0,Harten ,GS,Possession,3,29,31,83, 26
+2018-12-19 23:31:04 +0000,0,Guthrie,C,Possession,3,29,31,15, 13
+2018-12-19 23:31:07 +0000,0,Guthrie,C,Assist - Circle Entry,3,29,31,15, 13
+2018-12-19 23:31:07 +0000,0,Harten ,GS,Goal - Score,3,29,31,52, 7
+2018-12-19 23:31:18 +0000,1,Scherian ,C,Centre Pass,3,30,31,50, 100
+2018-12-19 23:31:18 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,30,31,35, 114
+2018-12-19 23:31:21 +0000,1,Scherian ,C,Assist - 2nd Phase,3,30,31,78, 113
+2018-12-19 23:31:23 +0000,1,Browne,WA,Possession,3,30,31,50, 119
+2018-12-19 23:31:25 +0000,1,Pretorius ,GD,Possession,3,30,31,51, 108
+2018-12-19 23:31:28 +0000,1,Wood,GA,Possession,3,30,31,68, 157
+2018-12-19 23:31:31 +0000,0,Price,WD,Penaly - Contact,3,30,31,39, 165
+2018-12-19 23:31:31 +0000,1,Scherian ,C,Possession,3,30,31,39, 165
+2018-12-19 23:31:40 +0000,1,Scherian ,C,Assist - Circle Entry,3,30,31,39, 165
+2018-12-19 23:31:40 +0000,1,Bassett,GS,Goal - Score,3,30,31,50, 193
+2018-12-19 23:31:59 +0000,0,Guthrie,C,Centre Pass,3,30,32,50, 100
+2018-12-19 23:31:59 +0000,1,Wood,GA,Penaly - Contact on CP,3,30,32,33, 97
+2018-12-19 23:31:59 +0000,0,Bulley ,GD,Possession,3,30,32,33, 97
+2018-12-19 23:32:04 +0000,0,Guthrie,C,Assist - 2nd Phase,3,30,32,39, 77
+2018-12-19 23:32:06 +0000,0,Austin,GA,Loss - Bad Pass,3,30,32,33, 45
+2018-12-19 23:32:14 +0000,1,Mentor,GK,Gain - Inter,3,30,32,58, 13
+2018-12-19 23:32:21 +0000,1,Pretorius ,GD,Possession,3,30,32,45, 10
+2018-12-19 23:32:24 +0000,1,Scherian ,C,Possession,3,30,32,86, 25
+2018-12-19 23:32:26 +0000,1,Pretorius ,GD,Possession,3,30,32,71, 36
+2018-12-19 23:32:28 +0000,1,Mentor,GK,Possession,3,30,32,83, 23
+2018-12-19 23:32:30 +0000,1,Pretorius ,GD,Possession,3,30,32,89, 49
+2018-12-19 23:32:36 +0000,1,Mentor,GK,Possession,3,30,32,59, 30
+2018-12-19 23:32:37 +0000,1,McAuliffe,WD,Possession,3,30,32,40, 49
+2018-12-19 23:33:08 +0000,1,Mentor,GK,Possession,3,30,32,60, 57
+2018-12-19 23:33:12 +0000,1,Pretorius ,GD,Possession,3,30,32,89, 98
+2018-12-19 23:33:14 +0000,1,Wood,GA,Possession,3,30,32,67, 125
+2018-12-19 23:33:16 +0000,1,Scherian ,C,Possession,3,30,32,55, 127
+2018-12-19 23:33:18 +0000,1,Browne,WA,Possession,3,30,32,16, 151
+2018-12-19 23:33:20 +0000,1,Browne,WA,Assist - Circle Entry,3,30,32,16, 151
+2018-12-19 23:33:20 +0000,1,Bassett,GS,Goal - Score,3,30,32,52, 188
+2018-12-19 23:33:30 +0000,1,Scherian ,C,Centre Pass,3,30,33,50, 100
+2018-12-19 23:33:30 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,30,33,9, 121
+2018-12-19 23:33:38 +0000,1,Wood,GA,Assist - 2nd Phase,3,30,33,37, 131
+2018-12-19 23:33:41 +0000,1,Browne,WA,Possession,3,30,33,80, 183
+2018-12-19 23:33:43 +0000,1,Browne,WA,Assist - Circle Entry,3,30,33,80, 183
+2018-12-19 23:33:43 +0000,1,Wood,GA,Goal - Score,3,30,33,46, 194
+2018-12-19 23:33:56 +0000,0,Guthrie,C,Centre Pass,3,30,34,50, 100
+2018-12-19 23:33:56 +0000,0,Green,WA,Assist - Centre Pass Rec,3,30,34,65, 93
+2018-12-19 23:33:58 +0000,0,Bulley ,GD,Assist - 2nd Phase,3,30,34,77, 72
+2018-12-19 23:34:00 +0000,0,Green,WA,Possession,3,30,34,66, 61
+2018-12-19 23:34:04 +0000,0,Guthrie,C,Possession,3,30,34,10, 16
+2018-12-19 23:34:06 +0000,0,Green,WA,Possession,3,30,34,80, 16
+2018-12-19 23:34:10 +0000,1,Mentor,GK,Penaly - Contact,3,30,34,65, 8
+2018-12-19 23:34:10 +0000,0,Harten ,GS,Goal - Score,3,30,34,65, 8
+2018-12-19 23:34:20 +0000,1,Scherian ,C,Centre Pass,3,31,34,50, 100
+2018-12-19 23:34:20 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,31,34,83, 122
+2018-12-19 23:34:22 +0000,1,Scherian ,C,Assist - 2nd Phase,3,31,34,83, 144
+2018-12-19 23:34:24 +0000,1,Bassett,GS,Possession,3,31,34,26, 163
+2018-12-19 23:34:26 +0000,1,Bassett,GS,Assist - Circle Entry,3,31,34,26, 163
+2018-12-19 23:34:26 +0000,1,Wood,GA,Goal - Score,3,31,34,46, 195
+2018-12-19 23:34:35 +0000,0,Guthrie,C,Centre Pass,3,31,35,50, 100
+2018-12-19 23:34:35 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,3,31,35,69, 87
+2018-12-19 23:34:37 +0000,0,Green,WA,Assist - 2nd Phase,3,31,35,69, 70
+2018-12-19 23:34:39 +0000,0,Guthrie,C,Possession,3,31,35,71, 29
+2018-12-19 23:34:44 +0000,0,Guthrie,C,Assist - Circle Entry,3,31,35,71, 29
+2018-12-19 23:34:44 +0000,0,Harten ,GS,Possession,3,31,35,67, 3
+2018-12-19 23:34:46 +0000,0,Guthrie,C,Possession,3,31,35,71, 30
+2018-12-19 23:34:49 +0000,0,Guthrie,C,Assist - Circle Entry,3,31,35,71, 30
+2018-12-19 23:34:49 +0000,0,Harten ,GS,Possession,3,31,35,61, 13
+2018-12-19 23:34:50 +0000,1,Mentor,GK,Penaly - Contact,3,31,35,61, 13
+2018-12-19 23:34:50 +0000,0,Harten ,GS,Goal - Score,3,31,35,61, 13
+2018-12-19 23:35:09 +0000,1,Scherian ,C,Centre Pass,3,32,35,50, 100
+2018-12-19 23:35:10 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,32,35,41, 123
+2018-12-19 23:35:12 +0000,1,Browne,WA,Assist - 2nd Phase,3,32,35,12, 168
+2018-12-19 23:35:16 +0000,1,Wood,GA,Possession,3,32,35,41, 157
+2018-12-19 23:35:19 +0000,1,Browne,WA,Possession,3,32,35,36, 166
+2018-12-19 23:35:27 +0000,0,Manu’a,GK,Penaly - Contact,3,32,35,40, 178
+2018-12-19 23:35:27 +0000,1,Wood,GA,Possession,3,32,35,40, 178
+2018-12-19 23:35:35 +0000,0,Bulley ,GD,Penaly - Obstruction,3,32,35,40, 178
+2018-12-19 23:35:36 +0000,1,Wood,GA,Possession,3,32,35,40, 178
+2018-12-19 23:35:41 +0000,1,Bassett,GS,Goal - Score,3,32,35,53, 194
+2018-12-19 23:35:46 +0000,0,Guthrie,C,Centre Pass,3,32,36,50, 100
+2018-12-19 23:35:46 +0000,0,Austin,GA,Assist - Centre Pass Rec,3,32,36,76, 73
+2018-12-19 23:35:48 +0000,0,Green,WA,Assist - 2nd Phase,3,32,36,51, 55
+2018-12-19 23:35:50 +0000,0,Harten ,GS,Possession,3,32,36,23, 28
+2018-12-19 23:35:52 +0000,0,Green,WA,Possession,3,32,36,83, 9
+2018-12-19 23:35:54 +0000,0,Green,WA,Assist - Circle Entry,3,32,36,83, 9
+2018-12-19 23:35:54 +0000,0,Austin,GA,Goal - Miss,3,32,36,58, 7
+2018-12-19 23:36:05 +0000,1,Mentor,GK,Deflect,3,32,36,50, 2
+2018-12-19 23:36:11 +0000,0,Austin,GA,Throw In,3,32,36,80, -4
+2018-12-19 23:36:19 +0000,0,Green,WA,Possession,3,32,36,81, 15
+2018-12-19 23:36:22 +0000,0,Green,WA,Assist - Circle Entry,3,32,36,81, 15
+2018-12-19 23:36:23 +0000,1,Mentor,GK,Gain - Inter,3,32,36,51, 18
+2018-12-19 23:36:27 +0000,1,McAuliffe,WD,Possession,3,32,36,70, 54
+2018-12-19 23:36:32 +0000,1,Browne,WA,Possession,3,32,36,93, 101
+2018-12-19 23:36:33 +0000,1,McAuliffe,WD,Possession,3,32,36,75, 124
+2018-12-19 23:36:36 +0000,1,Bassett,GS,Possession,3,32,36,82, 190
+2018-12-19 23:36:46 +0000,1,Browne,WA,Possession,3,32,36,78, 182
+2018-12-19 23:36:48 +0000,0,Price,WD,Penaly - Contact,3,32,36,78, 182
+2018-12-19 23:36:48 +0000,1,Browne,WA,Possession,3,32,36,78, 182
+2018-12-19 23:36:53 +0000,1,Wood,GA,Possession,3,32,36,66, 163
+2018-12-19 23:36:56 +0000,1,Browne,WA,Possession,3,32,36,70, 170
+2018-12-19 23:36:58 +0000,1,Browne,WA,Assist - Circle Entry,3,32,36,70, 170
+2018-12-19 23:36:58 +0000,1,Bassett,GS,Goal - Score,3,32,36,60, 188
+2018-12-19 23:37:07 +0000,0,,UNKNOWN,Timeout,3,32,37,110, 222
+2018-12-19 23:40:57 +0000,1,Scherian ,C,Centre Pass,3,32,37,50, 100
+2018-12-19 23:40:58 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,32,37,29, 119
+2018-12-19 23:40:59 +0000,1,Browne,WA,Assist - 2nd Phase,3,32,37,45, 123
+2018-12-19 23:41:01 +0000,1,Scherian ,C,Possession,3,32,37,82, 133
+2018-12-19 23:41:03 +0000,1,Wood,GA,Possession,3,32,37,34, 145
+2018-12-19 23:41:05 +0000,1,Bassett,GS,Possession,3,32,37,14, 189
+2018-12-19 23:41:07 +0000,1,Scherian ,C,Possession,3,32,37,21, 176
+2018-12-19 23:41:18 +0000,0,Guthrie,C,Deflect,3,32,37,81, 176
+2018-12-19 23:41:18 +0000,1,Browne,WA,Possession,3,32,37,88, 159
+2018-12-19 23:41:27 +0000,1,Wood,GA,Possession,3,32,37,66, 153
+2018-12-19 23:41:29 +0000,1,Scherian ,C,Possession,3,32,37,7, 145
+2018-12-19 23:41:31 +0000,1,Wood,GA,Possession,3,32,37,41, 151
+2018-12-19 23:41:34 +0000,0,Guthrie,C,Penaly - Contact,3,32,37,41, 151
+2018-12-19 23:41:34 +0000,1,Browne,WA,Possession,3,32,37,41, 151
+2018-12-19 23:41:44 +0000,1,Scherian ,C,Possession,3,32,37,9, 158
+2018-12-19 23:41:46 +0000,1,Scherian ,C,Assist - Circle Entry,3,32,37,9, 158
+2018-12-19 23:41:46 +0000,1,Wood,GA,Possession,3,32,37,25, 192
+2018-12-19 23:41:48 +0000,1,Browne,WA,Possession,3,32,37,13, 188
+2018-12-19 23:41:51 +0000,1,Browne,WA,Assist - Circle Entry,3,32,37,13, 188
+2018-12-19 23:41:51 +0000,1,Bassett,GS,Goal - Score,3,32,37,53, 194
+2018-12-19 23:41:58 +0000,0,Guthrie,C,Centre Pass,3,32,38,50, 100
+2018-12-19 23:41:58 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,3,32,38,46, 80
+2018-12-19 23:42:00 +0000,0,Green,WA,Assist - 2nd Phase,3,32,38,66, 29
+2018-12-19 23:42:01 +0000,0,Green,WA,Assist - Circle Entry,3,32,38,66, 29
+2018-12-19 23:42:02 +0000,0,Harten ,GS,Possession,3,32,38,64, 12
+2018-12-19 23:42:04 +0000,0,Guthrie,C,Possession,3,32,38,47, 33
+2018-12-19 23:42:07 +0000,0,Guthrie,C,Assist - Circle Entry,3,32,38,47, 33
+2018-12-19 23:42:07 +0000,0,Austin,GA,Goal - Score,3,32,38,46, 16
+2018-12-19 23:42:17 +0000,1,Scherian ,C,Centre Pass,3,33,38,50, 100
+2018-12-19 23:42:17 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,3,33,38,41, 86
+2018-12-19 23:42:19 +0000,1,Browne,WA,Assist - 2nd Phase,3,33,38,73, 114
+2018-12-19 23:42:21 +0000,1,Pretorius ,GD,Possession,3,33,38,42, 104
+2018-12-19 23:42:23 +0000,1,McAuliffe,WD,Possession,3,33,38,80, 106
+2018-12-19 23:42:25 +0000,1,Wood,GA,Possession,3,33,38,85, 132
+2018-12-19 23:42:28 +0000,1,Browne,WA,Possession,3,33,38,85, 177
+2018-12-19 23:42:33 +0000,1,Browne,WA,Assist - Circle Entry,3,33,38,85, 177
+2018-12-19 23:42:33 +0000,0,Manu’a,GK,Gain - Inter,3,33,38,51, 170
+2018-12-19 23:42:39 +0000,0,Green,WA,Possession,3,33,38,55, 130
+2018-12-19 23:42:41 +0000,0,Guthrie,C,Possession,3,33,38,32, 124
+2018-12-19 23:42:43 +0000,0,Price,WD,Possession,3,33,38,90, 101
+2018-12-19 23:42:46 +0000,0,Bulley ,GD,Possession,3,33,38,65, 114
+2018-12-19 23:42:47 +0000,0,Austin,GA,Possession,3,33,38,53, 79
+2018-12-19 23:43:26 +0000,0,Green,WA,Possession,3,33,38,64, 58
+2018-12-19 23:43:28 +0000,0,Guthrie,C,Possession,3,33,38,70, 27
+2018-12-19 23:43:31 +0000,0,Guthrie,C,Assist - Circle Entry,3,33,38,70, 27
+2018-12-19 23:43:31 +0000,0,Harten ,GS,Possession,3,33,38,59, 20
+2018-12-19 23:43:33 +0000,0,Bulley ,GD,Possession,3,33,38,34, 69
+2018-12-19 23:43:35 +0000,0,Guthrie,C,Possession,3,33,38,42, 55
+2018-12-19 23:43:37 +0000,0,Guthrie,C,Assist - Circle Entry,3,33,38,42, 55
+2018-12-19 23:43:37 +0000,0,Harten ,GS,Possession,3,33,38,50, 26
+2018-12-19 23:43:40 +0000,1,Scherian ,C,Penaly - Contact,3,33,38,28, 26
+2018-12-19 23:43:41 +0000,0,Guthrie,C,Possession,3,33,38,28, 26
+2018-12-19 23:43:47 +0000,0,Green,WA,Possession,3,33,38,75, 23
+2018-12-19 23:43:50 +0000,0,Green,WA,Assist - Circle Entry,3,33,38,75, 23
+2018-12-19 23:43:50 +0000,1,Pretorius ,GD,Gain - Inter,3,33,38,66, 16
+2018-12-19 23:43:57 +0000,1,McAuliffe,WD,Possession,3,33,38,76, 69
+2018-12-19 23:44:00 +0000,1,Browne,WA,Possession,3,33,38,69, 82
+2018-12-19 23:44:02 +0000,1,Wood,GA,Possession,3,33,38,19, 104
+2018-12-19 23:44:04 +0000,1,Scherian ,C,Possession,3,33,38,29, 130
+2018-12-19 23:44:13 +0000,0,Bulley ,GD,Penaly - Contact,3,33,38,30, 147
+2018-12-19 23:44:13 +0000,1,Scherian ,C,Possession,3,33,38,30, 147
+2018-12-19 23:44:23 +0000,1,Pretorius ,GD,Possession,3,33,38,39, 132
+2018-12-19 23:44:29 +0000,1,Wood,GA,Possession,3,33,38,65, 153
+2018-12-19 23:44:32 +0000,1,Wood,GA,Assist - Circle Entry,3,33,38,65, 153
+2018-12-19 23:44:32 +0000,1,Bassett,GS,Goal - Score,3,33,38,53, 192
+2018-12-19 23:44:41 +0000,0,Guthrie,C,Centre Pass,3,33,39,50, 100
+2018-12-19 23:44:41 +0000,0,Price,WD,Assist - Centre Pass Rec,3,33,39,17, 89
+2018-12-19 23:44:46 +0000,0,Manu’a,GK,Assist - 2nd Phase,3,33,39,22, 136
+2018-12-19 23:44:48 +0000,0,Bulley ,GD,Possession,3,33,39,7, 109
+2018-12-19 23:44:52 +0000,0,Price,WD,Possession,3,33,39,40, 101
+2018-12-19 23:44:56 +0000,0,Green,WA,Possession,3,33,39,55, 86
+2018-12-19 23:44:57 +0000,0,Bulley ,GD,Possession,3,33,39,47, 70
+2018-12-19 23:45:00 +0000,0,Green,WA,Possession,3,33,39,53, 51
+2018-12-19 23:45:02 +0000,0,Austin,GA,Possession,3,33,39,24, 35
+2018-12-19 23:45:37 +0000,1,Pretorius ,GD,Gain - Tip (Deflect),3,33,39,25, 29
+2018-12-19 23:45:42 +0000,1,Mentor,GK,Possession,3,33,39,39, 26
+2018-12-19 23:45:46 +0000,1,Wood,GA,Possession,3,33,39,26, 120
+2018-12-19 23:45:48 +0000,1,Browne,WA,Possession,3,33,39,39, 157
+2018-12-19 23:45:51 +0000,1,Browne,WA,Assist - Circle Entry,3,33,39,39, 157
+2018-12-19 23:45:52 +0000,1,Bassett,GS,Possession,3,33,39,41, 177
+2018-12-19 23:45:54 +0000,1,Browne,WA,Possession,3,33,39,41, 165
+2018-12-19 23:45:56 +0000,1,Browne,WA,Assist - Circle Entry,3,33,39,41, 165
+2018-12-19 23:45:56 +0000,1,Bassett,GS,Goal - Score,3,33,39,46, 190
+2018-12-19 23:46:06 +0000,1,Scherian ,C,Centre Pass,3,33,40,50, 100
+2018-12-19 23:46:06 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,33,40,86, 123
+2018-12-19 23:46:07 +0000,0,Price,WD,Penaly - Contact,3,33,40,86, 123
+2018-12-19 23:46:07 +0000,1,Browne,WA,Possession,3,33,40,86, 123
+2018-12-19 23:46:14 +0000,1,Wood,GA,Possession,3,33,40,79, 179
+2018-12-19 23:46:15 +0000,1,Browne,WA,Possession,3,33,40,76, 173
+2018-12-19 23:46:18 +0000,1,Browne,WA,Assist - Circle Entry,3,33,40,76, 173
+2018-12-19 23:46:18 +0000,1,Wood,GA,Assist - 2nd Phase,3,33,40,65, 187
+2018-12-19 23:46:20 +0000,0,Bulley ,GD,Penaly - Contact,3,33,40,65, 187
+2018-12-19 23:46:21 +0000,1,Wood,GA,Goal - Score,3,33,40,65, 187
+2018-12-19 23:46:35 +0000,0,Guthrie,C,Centre Pass,3,33,41,50, 100
+2018-12-19 23:46:35 +0000,0,Austin,GA,Assist - Centre Pass Rec,3,33,41,16, 74
+2018-12-19 23:46:38 +0000,0,Guthrie,C,Assist - 2nd Phase,3,33,41,28, 70
+2018-12-19 23:46:40 +0000,0,Harten ,GS,Possession,3,33,41,62, 36
+2018-12-19 23:46:42 +0000,0,Guthrie,C,Possession,3,33,41,51, 45
+2018-12-19 23:46:45 +0000,0,Harten ,GS,Possession,3,33,41,85, 19
+2018-12-19 23:46:47 +0000,0,Harten ,GS,Assist - Circle Entry,3,33,41,85, 19
+2018-12-19 23:46:47 +0000,0,Austin,GA,Possession,3,33,41,59, 23
+2018-12-19 23:46:50 +0000,0,Harten ,GS,Possession,3,33,41,52, 5
+2018-12-19 23:46:50 +0000,1,Pretorius ,GD,Penaly - Contact,3,33,41,52, 5
+2018-12-19 23:46:50 +0000,0,Harten ,GS,Goal - Score,3,33,41,52, 5
+2018-12-19 23:47:00 +0000,1,Scherian ,C,Centre Pass,3,34,41,50, 100
+2018-12-19 23:47:01 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,34,41,31, 118
+2018-12-19 23:47:05 +0000,1,Browne,WA,Assist - 2nd Phase,3,34,41,67, 161
+2018-12-19 23:47:09 +0000,1,Browne,WA,Assist - Circle Entry,3,34,41,67, 161
+2018-12-19 23:47:09 +0000,1,Bassett,GS,Goal - Score,3,34,41,46, 194
+2018-12-19 23:47:17 +0000,0,Guthrie,C,Centre Pass,3,34,42,50, 100
+2018-12-19 23:47:17 +0000,0,Green,WA,Assist - Centre Pass Rec,3,34,42,64, 85
+2018-12-19 23:47:20 +0000,0,Austin,GA,Assist - 2nd Phase,3,34,42,32, 55
+2018-12-19 23:47:22 +0000,0,Guthrie,C,Possession,3,34,42,15, 18
+2018-12-19 23:47:25 +0000,0,Guthrie,C,Assist - Circle Entry,3,34,42,15, 18
+2018-12-19 23:47:25 +0000,0,Harten ,GS,Goal - Score,3,34,42,40, 5
+2018-12-19 23:47:35 +0000,1,Scherian ,C,Centre Pass,3,35,42,50, 100
+2018-12-19 23:47:35 +0000,1,Browne,WA,Assist - Centre Pass Rec,3,35,42,29, 124
+2018-12-19 23:47:39 +0000,1,McAuliffe,WD,Assist - 2nd Phase,3,35,42,23, 94
+2018-12-19 23:47:41 +0000,0,Green,WA,Penaly - Obstruction,3,35,42,23, 94
+2018-12-19 23:47:41 +0000,1,McAuliffe,WD,Possession,3,35,42,23, 94
+2018-12-19 23:47:53 +0000,1,Scherian ,C,Possession,3,35,42,49, 123
+2018-12-19 23:47:58 +0000,1,McAuliffe,WD,Possession,3,35,42,76, 127
+2018-12-19 23:48:08 +0000,0,Price,WD,Deflect,3,35,42,96, 157
+2018-12-19 23:48:08 +0000,1,McAuliffe,WD,Possession,3,35,42,89, 124
+2018-12-19 23:48:20 +0000,1,McAuliffe,WD,Assist - Circle Entry,3,35,42,89, 124
+2018-12-19 23:48:20 +0000,1,Bassett,GS,Possession,3,35,42,73, 185
+2018-12-19 23:48:22 +0000,1,Wood,GA,Possession,3,35,42,79, 183
+2018-12-19 23:48:28 +0000,1,Scherian ,C,Possession,3,35,42,15, 186
+2018-12-19 23:48:36 +0000,1,Bassett,GS,Penaly - Contact,3,35,42,50, 174
+2018-12-19 23:48:36 +0000,0,Manu’a,GK,Possession,3,35,42,50, 174
+2018-12-19 23:48:48 +0000,0,Bulley ,GD,Possession,3,35,42,31, 123
+2018-12-19 23:48:52 +0000,0,Austin,GA,Possession,3,35,42,14, 98
+2018-12-19 23:48:54 +0000,0,Bulley ,GD,Possession,3,35,42,23, 112
+2018-12-19 23:48:57 +0000,0,Guthrie,C,Possession,3,35,42,68, 88
+2018-12-19 23:49:01 +0000,0,Green,WA,Possession,3,35,42,60, 62
+2018-12-19 23:49:06 +0000,1,Scherian ,C,Penaly - Contact,3,35,42,60, 62
+2018-12-19 23:49:06 +0000,0,Green,WA,Possession,3,35,42,60, 62
+2018-12-19 23:49:43 +0000,0,Austin,GA,Possession,3,35,42,54, 37
+2018-12-19 23:49:48 +0000,0,Guthrie,C,Possession,3,35,42,10, 1
+2018-12-19 23:49:58 +0000,0,Guthrie,C,Assist - Circle Entry,3,35,42,10, 1
+2018-12-19 23:49:58 +0000,1,Pretorius ,GD,Gain - Inter,3,35,42,49, 18
+2018-12-19 23:50:02 +0000,1,McAuliffe,WD,Possession,3,35,42,34, 71
+2018-12-19 23:50:06 +0000,1,Scherian ,C,Possession,3,35,42,53, 88
+2018-12-19 23:50:31 +0000,0,Bulley ,GD,Gain - Inter,3,35,42,38, 123
+2018-12-19 23:50:34 +0000,1,Browne,WA,Penaly - Contact,3,35,42,38, 123
+2018-12-19 23:50:34 +0000,0,Bulley ,GD,Possession,3,35,42,38, 123
+2018-12-19 23:50:37 +0000,0,Austin,GA,Possession,3,35,42,8, 61
+2018-12-19 23:50:43 +0000,0,Guthrie,C,Possession,3,35,42,26, 40
+2018-12-19 23:50:46 +0000,1,Pretorius ,GD,Deflect,3,35,42,27, 16
+2018-12-19 23:50:46 +0000,0,Guthrie,C,Possession,3,35,42,23, 23
+2018-12-19 23:50:53 +0000,0,Guthrie,C,Assist - Circle Entry,3,35,42,23, 23
+2018-12-19 23:50:54 +0000,0,Austin,GA,Possession,3,35,42,21, 4
+2018-12-19 23:50:56 +0000,0,Green,WA,Possession,3,35,42,80, 13
+2018-12-19 23:51:01 +0000,0,Green,WA,Assist - Circle Entry,3,35,42,80, 13
+2018-12-19 23:51:01 +0000,0,Austin,GA,Goal - Score,3,35,42,50, 17
+2018-12-19 23:51:21 +0000,0,Guthrie,C,Centre Pass,3,36,42,50, 100
+2018-12-19 23:51:21 +0000,1,McAuliffe,WD,Penaly - Obstruction,3,36,42,48, 62
+2018-12-19 23:51:21 +0000,0,Guthrie,C,Possession,3,36,42,48, 62
+2018-12-19 23:51:29 +0000,0,Austin,GA,Assist - 2nd Phase,3,36,42,52, 33
+2018-12-19 23:51:31 +0000,0,Guthrie,C,Possession,3,36,42,75, 25
+2018-12-19 23:51:34 +0000,1,Mentor,GK,Penaly - Contact,3,36,42,58, 15
+2018-12-19 23:51:34 +0000,0,Austin,GA,Goal - Score,3,36,42,58, 15
+2018-12-19 23:51:48 +0000,1,Scherian ,C,Centre Pass,3,37,42,50, 100
+2018-12-19 23:51:48 +0000,1,Wood,GA,Assist - Centre Pass Rec,3,37,42,34, 123
+2018-12-19 23:51:50 +0000,1,Scherian ,C,Assist - 2nd Phase,3,37,42,51, 126
+2018-12-19 23:51:52 +0000,1,Scherian ,C,Assist - Circle Entry,3,37,42,51, 126
+2018-12-19 23:51:53 +0000,1,Bassett,GS,Possession,3,37,42,22, 184
+2018-12-19 23:51:54 +0000,1,Browne,WA,Possession,3,37,42,76, 174
+2018-12-19 23:51:58 +0000,1,Browne,WA,Assist - Circle Entry,3,37,42,76, 174
+2018-12-19 23:51:58 +0000,1,Wood,GA,Possession,3,37,42,63, 182
+2018-12-19 23:51:59 +0000,0,Manu’a,GK,Penaly - Contact,3,37,42,63, 182
+2018-12-19 23:51:59 +0000,1,Wood,GA,Possession,3,37,42,63, 182
+2018-12-19 23:52:06 +0000,1,Bassett,GS,Goal - Score,3,37,42,46, 194
+2018-12-19 23:52:16 +0000,0,Guthrie,C,Centre Pass,3,37,43,50, 100
+2018-12-19 23:52:16 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,3,37,43,13, 97
+2018-12-19 23:52:18 +0000,0,Guthrie,C,Assist - 2nd Phase,3,37,43,7, 73
+2018-12-19 23:52:20 +0000,0,Austin,GA,Possession,3,37,43,25, 57
+2018-12-19 23:52:22 +0000,0,Guthrie,C,Possession,3,37,43,9, 47
+2018-12-19 23:52:24 +0000,0,Harten ,GS,Possession,3,37,43,13, 6
+2018-12-19 23:52:26 +0000,0,Guthrie,C,Possession,3,37,43,21, 20
+2018-12-19 23:52:32 +0000,1,Mentor,GK,Deflect,3,37,43,20, 13
+2018-12-19 23:52:32 +0000,0,Guthrie,C,Throw In,3,37,43,-3, 17
+2018-12-19 23:52:44 +0000,0,Austin,GA,Possession,3,37,43,28, 32
+2018-12-19 23:52:46 +0000,0,Green,WA,Possession,3,37,43,32, 30
+2018-12-19 23:52:48 +0000,1,McAuliffe,WD,Penaly - Contact,3,37,43,32, 30
+2018-12-19 23:52:48 +0000,0,Green,WA,Possession,3,37,43,32, 30
+2018-12-19 23:52:55 +0000,0,Austin,GA,Possession,3,37,43,14, 35
+2018-12-19 23:52:58 +0000,0,Green,WA,Possession,3,37,43,18, 18
+2018-12-19 23:53:00 +0000,0,Guthrie,C,Possession,3,37,43,62, 36
+2018-12-19 23:53:03 +0000,0,Guthrie,C,Assist - Circle Entry,3,37,43,62, 36
+2018-12-19 23:53:03 +0000,0,Austin,GA,Possession,3,37,43,31, 19
+2018-12-19 23:55:11 +0000,0,Harten ,GS,Deflect,3,37,43,62, 4
+2018-12-19 23:55:19 +0000,1,Mentor,GK,Possession,3,37,43,62, 3
+2018-12-19 23:55:29 +0000,1,Scherian ,C,Possession,3,37,43,50, 38
+2018-12-19 23:55:31 +0000,1,Browne,WA,Possession,3,37,43,89, 84
+2018-12-19 23:55:34 +0000,1,Browne,WA,Assist - Circle Entry,3,37,43,89, 84
+2018-12-19 23:55:34 +0000,1,Bassett,GS,Goal - Miss,3,37,43,38, 188
+2018-12-19 23:55:40 +0000,1,Bassett,GS,Assist - Attack Rebound,3,37,43,50, 197
+2018-12-19 23:56:06 +0000,1,Scherian ,C,Centre Pass,4,37,43,50, 100
+2018-12-19 23:56:06 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,37,43,78, 125
+2018-12-19 23:56:07 +0000,1,Scherian ,C,Assist - 2nd Phase,4,37,43,64, 124
+2018-12-19 23:56:11 +0000,1,Wood,GA,Possession,4,37,43,44, 131
+2018-12-19 23:56:15 +0000,1,Browne,WA,Possession,4,37,43,67, 138
+2018-12-19 23:56:18 +0000,1,Bassett,GS,Possession,4,37,43,50, 165
+2018-12-19 23:56:21 +0000,1,Bassett,GS,Assist - Circle Entry,4,37,43,50, 165
+2018-12-19 23:56:21 +0000,1,Wood,GA,Possession,4,37,43,63, 186
+2018-12-19 23:56:24 +0000,0,,UNKNOWN,Penaly - Obstruction,4,37,43,63, 186
+2018-12-19 23:56:24 +0000,1,Pretorius ,GD,Possession,4,37,43,63, 186
+2018-12-19 23:56:27 +0000,0,Manu’a,GK,Penaly - Obstruction,4,37,43,63, 186
+2018-12-19 23:56:28 +0000,1,Wood,GA,Goal - Score,4,37,43,63, 186
+2018-12-19 23:56:41 +0000,0,Guthrie,C,Centre Pass,4,37,44,50, 100
+2018-12-19 23:56:41 +0000,0,Green,WA,Assist - Centre Pass Rec,4,37,44,69, 88
+2018-12-19 23:56:42 +0000,0,Austin,GA,Assist - 2nd Phase,4,37,44,92, 63
+2018-12-19 23:56:45 +0000,0,Green,WA,Possession,4,37,44,83, 69
+2018-12-19 23:56:47 +0000,0,Austin,GA,Possession,4,37,44,72, 51
+2018-12-19 23:56:51 +0000,0,Guthrie,C,Possession,4,37,44,19, 23
+2018-12-19 23:56:54 +0000,0,Guthrie,C,Assist - Circle Entry,4,37,44,19, 23
+2018-12-19 23:56:54 +0000,0,Austin,GA,Goal - Score,4,37,44,55, 5
+2018-12-19 23:57:03 +0000,1,Scherian ,C,Centre Pass,4,38,44,50, 100
+2018-12-19 23:57:03 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,38,44,76, 113
+2018-12-19 23:57:05 +0000,1,Scherian ,C,Assist - 2nd Phase,4,38,44,61, 116
+2018-12-19 23:57:07 +0000,1,Wood,GA,Possession,4,38,44,66, 131
+2018-12-19 23:57:08 +0000,1,Scherian ,C,Possession,4,38,44,28, 141
+2018-12-19 23:57:11 +0000,1,McAuliffe,WD,Possession,4,38,44,44, 131
+2018-12-19 23:57:17 +0000,0,Guthrie,C,Penaly - Contact,4,38,44,43, 144
+2018-12-19 23:57:17 +0000,1,Browne,WA,Possession,4,38,44,43, 144
+2018-12-19 23:57:32 +0000,1,Browne,WA,Assist - Circle Entry,4,38,44,43, 144
+2018-12-19 23:57:32 +0000,1,Wood,GA,Possession,4,38,44,44, 172
+2018-12-19 23:57:34 +0000,0,Price,WD,Penaly - Contact,4,38,44,44, 172
+2018-12-19 23:57:34 +0000,1,Wood,GA,Possession,4,38,44,44, 172
+2018-12-19 23:57:40 +0000,1,Scherian ,C,Possession,4,38,44,26, 176
+2018-12-19 23:57:43 +0000,1,Scherian ,C,Assist - Circle Entry,4,38,44,26, 176
+2018-12-19 23:57:43 +0000,1,Wood,GA,Possession,4,38,44,39, 181
+2018-12-19 23:57:45 +0000,1,Scherian ,C,Possession,4,38,44,24, 176
+2018-12-19 23:57:47 +0000,1,Scherian ,C,Assist - Circle Entry,4,38,44,24, 176
+2018-12-19 23:57:48 +0000,1,Wood,GA,Goal - Score,4,38,44,43, 189
+2018-12-19 23:57:55 +0000,0,Guthrie,C,Centre Pass,4,38,45,50, 100
+2018-12-19 23:57:55 +0000,0,Austin,GA,Assist - Centre Pass Rec,4,38,45,72, 71
+2018-12-19 23:57:58 +0000,0,Guthrie,C,Assist - 2nd Phase,4,38,45,78, 36
+2018-12-19 23:58:00 +0000,0,Guthrie,C,Assist - Circle Entry,4,38,45,78, 36
+2018-12-19 23:58:00 +0000,0,Harten ,GS,Possession,4,38,45,77, 10
+2018-12-19 23:58:02 +0000,0,Guthrie,C,Possession,4,38,45,83, 12
+2018-12-19 23:58:06 +0000,0,Guthrie,C,Assist - Circle Entry,4,38,45,83, 12
+2018-12-19 23:58:06 +0000,0,Austin,GA,Goal - Miss,4,38,45,64, 9
+2018-12-19 23:58:15 +0000,0,Harten ,GS,Assist - Attack Rebound,4,38,45,50, 2
+2018-12-19 23:58:16 +0000,0,Green,WA,Possession,4,38,45,27, 26
+2018-12-19 23:58:20 +0000,0,Price,WD,Possession,4,38,45,25, 71
+2018-12-19 23:58:22 +0000,0,Austin,GA,Possession,4,38,45,47, 56
+2018-12-19 23:58:30 +0000,1,Scherian ,C,Penaly - Contact,4,38,45,33, 47
+2018-12-19 23:58:30 +0000,0,Green,WA,Possession,4,38,45,33, 47
+2018-12-19 23:58:43 +0000,0,Green,WA,Assist - Circle Entry,4,38,45,33, 47
+2018-12-19 23:58:43 +0000,0,Harten ,GS,Possession,4,38,45,58, 14
+2018-12-19 23:58:44 +0000,1,Mentor,GK,Penaly - Contact,4,38,45,58, 14
+2018-12-19 23:58:44 +0000,0,Harten ,GS,Goal - Score,4,38,45,58, 14
+2018-12-19 23:58:52 +0000,1,Scherian ,C,Centre Pass,4,39,45,50, 100
+2018-12-19 23:58:52 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,39,45,18, 119
+2018-12-19 23:58:54 +0000,1,Pretorius ,GD,Assist - 2nd Phase,4,39,45,31, 86
+2018-12-19 23:58:56 +0000,1,Scherian ,C,Possession,4,39,45,82, 113
+2018-12-19 23:58:58 +0000,1,McAuliffe,WD,Possession,4,39,45,68, 81
+2018-12-19 23:59:00 +0000,1,Pretorius ,GD,Possession,4,39,45,90, 100
+2018-12-19 23:59:02 +0000,1,Scherian ,C,Possession,4,39,45,85, 127
+2018-12-19 23:59:04 +0000,1,Pretorius ,GD,Possession,4,39,45,82, 92
+2018-12-19 23:59:06 +0000,1,McAuliffe,WD,Possession,4,39,45,75, 123
+2018-12-19 23:59:15 +0000,1,Scherian ,C,Possession,4,39,45,13, 171
+2018-12-19 23:59:19 +0000,1,Wood,GA,Possession,4,39,45,90, 165
+2018-12-19 23:59:22 +0000,0,Guthrie,C,Penaly - Obstruction,4,39,45,90, 165
+2018-12-19 23:59:22 +0000,1,Scherian ,C,Possession,4,39,45,90, 165
+2018-12-19 23:59:30 +0000,1,Scherian ,C,Assist - Circle Entry,4,39,45,90, 165
+2018-12-19 23:59:30 +0000,1,Bassett,GS,Possession,4,39,45,46, 192
+2018-12-19 23:59:32 +0000,0,Manu’a,GK,Penaly - Contact,4,39,45,46, 192
+2018-12-19 23:59:32 +0000,1,Bassett,GS,Goal - Score,4,39,45,46, 192
+2018-12-19 23:59:38 +0000,0,Guthrie,C,Centre Pass,4,39,46,50, 100
+2018-12-19 23:59:38 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,4,39,46,66, 88
+2018-12-19 23:59:52 +0000,1,McAuliffe,WD,Deflect,4,39,46,95, 49
+2018-12-19 23:59:52 +0000,0,Guthrie,C,Throw In,4,39,46,104, 44
+2018-12-20 00:00:05 +0000,0,Guthrie,C,Assist - Circle Entry,4,39,46,104, 44
+2018-12-20 00:00:05 +0000,0,Harten ,GS,Assist - 2nd Phase,4,39,46,46, 8
+2018-12-20 00:00:07 +0000,0,Harten ,GS,Goal - Score,4,39,46,46, 8
+2018-12-20 00:00:15 +0000,1,Scherian ,C,Centre Pass,4,40,46,50, 100
+2018-12-20 00:00:15 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,40,46,86, 128
+2018-12-20 00:00:17 +0000,1,Pretorius ,GD,Assist - 2nd Phase,4,40,46,73, 116
+2018-12-20 00:00:20 +0000,1,Browne,WA,Possession,4,40,46,65, 144
+2018-12-20 00:00:23 +0000,1,Wood,GA,Possession,4,40,46,30, 142
+2018-12-20 00:00:29 +0000,0,Price,WD,Penaly - Contact,4,40,46,38, 148
+2018-12-20 00:00:29 +0000,1,Browne,WA,Possession,4,40,46,38, 148
+2018-12-20 00:00:35 +0000,1,Browne,WA,Assist - Circle Entry,4,40,46,38, 148
+2018-12-20 00:00:35 +0000,1,Wood,GA,Possession,4,40,46,38, 175
+2018-12-20 00:00:37 +0000,1,Browne,WA,Possession,4,40,46,53, 165
+2018-12-20 00:00:40 +0000,1,Browne,WA,Assist - Circle Entry,4,40,46,53, 165
+2018-12-20 00:00:40 +0000,1,Wood,GA,Goal - Miss,4,40,46,41, 185
+2018-12-20 00:00:45 +0000,1,Bassett,GS,Assist - Attack Rebound,4,40,46,50, 197
+2018-12-20 00:00:46 +0000,0,Bulley ,GD,Penaly - Contact,4,40,46,50, 197
+2018-12-20 00:00:46 +0000,1,Bassett,GS,Possession,4,40,46,50, 197
+2018-12-20 00:00:50 +0000,0,Manu’a,GK,Penaly - Obstruction,4,40,46,50, 197
+2018-12-20 00:00:50 +0000,1,Bassett,GS,Goal - Score,4,40,46,50, 197
+2018-12-20 00:01:02 +0000,0,Guthrie,C,Centre Pass,4,40,47,50, 100
+2018-12-20 00:01:02 +0000,0,Green,WA,Assist - Centre Pass Rec,4,40,47,80, 74
+2018-12-20 00:01:08 +0000,1,McAuliffe,WD,Penaly - Contact,4,40,47,80, 62
+2018-12-20 00:01:08 +0000,0,Green,WA,Assist - 2nd Phase,4,40,47,80, 62
+2018-12-20 00:01:14 +0000,0,Austin,GA,Possession,4,40,47,62, 37
+2018-12-20 00:01:18 +0000,0,Austin,GA,Assist - Circle Entry,4,40,47,62, 37
+2018-12-20 00:01:18 +0000,0,Harten ,GS,Goal - Score,4,40,47,56, 5
+2018-12-20 00:01:26 +0000,1,Scherian ,C,Centre Pass,4,41,47,50, 100
+2018-12-20 00:01:26 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,41,47,34, 108
+2018-12-20 00:01:27 +0000,1,Wood,GA,Assist - 2nd Phase,4,41,47,57, 115
+2018-12-20 00:01:29 +0000,1,Browne,WA,Possession,4,41,47,19, 124
+2018-12-20 00:01:32 +0000,1,Pretorius ,GD,Possession,4,41,47,15, 95
+2018-12-20 00:01:39 +0000,1,Scherian ,C,Loss - Step,4,41,47,74, 96
+2018-12-20 00:02:15 +0000,0,Price,WD,Possession,4,41,47,74, 97
+2018-12-20 00:02:21 +0000,0,Green,WA,Possession,4,41,47,78, 73
+2018-12-20 00:02:23 +0000,0,Austin,GA,Possession,4,41,47,86, 42
+2018-12-20 00:02:27 +0000,1,McAuliffe,WD,Penaly - Contact,4,41,47,60, 57
+2018-12-20 00:02:27 +0000,0,Green,WA,Possession,4,41,47,60, 57
+2018-12-20 00:02:32 +0000,0,Green,WA,Assist - Circle Entry,4,41,47,60, 57
+2018-12-20 00:02:32 +0000,0,Austin,GA,Goal - Score,4,41,47,51, 24
+2018-12-20 00:02:46 +0000,0,Guthrie,C,Centre Pass,4,42,47,50, 100
+2018-12-20 00:02:46 +0000,0,Austin,GA,Assist - Centre Pass Rec,4,42,47,63, 72
+2018-12-20 00:02:48 +0000,0,Guthrie,C,Assist - 2nd Phase,4,42,47,43, 58
+2018-12-20 00:02:50 +0000,0,Harten ,GS,Possession,4,42,47,47, 35
+2018-12-20 00:02:54 +0000,0,Price,WD,Possession,4,42,47,56, 70
+2018-12-20 00:02:55 +0000,0,Guthrie,C,Possession,4,42,47,57, 51
+2018-12-20 00:03:01 +0000,0,Green,WA,Possession,4,42,47,36, 51
+2018-12-20 00:03:05 +0000,1,McAuliffe,WD,Penaly - Contact,4,42,47,47, 43
+2018-12-20 00:03:06 +0000,0,Green,WA,Possession,4,42,47,47, 43
+2018-12-20 00:03:12 +0000,0,Green,WA,Assist - Circle Entry,4,42,47,47, 43
+2018-12-20 00:03:12 +0000,0,Austin,GA,Goal - Miss,4,42,47,47, 16
+2018-12-20 00:03:16 +0000,0,Harten ,GS,Assist - Attack Rebound,4,42,47,50, 2
+2018-12-20 00:03:17 +0000,0,Harten ,GS,Goal - Score,4,42,47,47, 16
+2018-12-20 00:03:24 +0000,1,Scherian ,C,Centre Pass,4,43,47,50, 100
+2018-12-20 00:03:24 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,43,47,81, 119
+2018-12-20 00:03:26 +0000,1,Browne,WA,Assist - 2nd Phase,4,43,47,92, 141
+2018-12-20 00:03:28 +0000,1,Scherian ,C,Possession,4,43,47,73, 128
+2018-12-20 00:03:42 +0000,1,McAuliffe,WD,Loss - Stopped Lead,4,43,47,14, 129
+2018-12-20 00:03:45 +0000,0,Bulley ,GD,Throw In,4,43,47,-3, 129
+2018-12-20 00:04:04 +0000,1,Browne,WA,Penaly - Contact,4,43,47,20, 100
+2018-12-20 00:04:04 +0000,0,Price,WD,Possession,4,43,47,20, 100
+2018-12-20 00:04:13 +0000,0,Austin,GA,Possession,4,43,47,22, 63
+2018-12-20 00:04:16 +0000,0,Green,WA,Possession,4,43,47,38, 60
+2018-12-20 00:04:20 +0000,1,McAuliffe,WD,Penaly - Obstruction,4,43,47,38, 60
+2018-12-20 00:04:20 +0000,0,Green,WA,Possession,4,43,47,38, 60
+2018-12-20 00:04:26 +0000,0,Green,WA,Assist - Circle Entry,4,43,47,38, 60
+2018-12-20 00:04:26 +0000,0,Harten ,GS,Possession,4,43,47,45, 29
+2018-12-20 00:04:28 +0000,0,Green,WA,Possession,4,43,47,42, 34
+2018-12-20 00:04:30 +0000,1,McAuliffe,WD,Penaly - Contact,4,43,47,42, 34
+2018-12-20 00:04:30 +0000,0,Green,WA,Possession,4,43,47,42, 34
+2018-12-20 00:04:33 +0000,0,Green,WA,Assist - Circle Entry,4,43,47,42, 34
+2018-12-20 00:04:33 +0000,0,Harten ,GS,Possession,4,43,47,49, 19
+2018-12-20 00:04:35 +0000,1,Pretorius ,GD,Penaly - Contact,4,43,47,49, 19
+2018-12-20 00:04:35 +0000,0,Harten ,GS,Possession,4,43,47,49, 19
+2018-12-20 00:04:37 +0000,1,Mentor,GK,Penaly - Obstruction,4,43,47,49, 19
+2018-12-20 00:04:37 +0000,0,Harten ,GS,Goal - Score,4,43,47,49, 19
+2018-12-20 00:04:48 +0000,0,Guthrie,C,Centre Pass,4,44,47,50, 100
+2018-12-20 00:04:48 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,4,44,47,64, 86
+2018-12-20 00:04:50 +0000,0,Green,WA,Assist - 2nd Phase,4,44,47,38, 70
+2018-12-20 00:04:52 +0000,0,Guthrie,C,Possession,4,44,47,38, 44
+2018-12-20 00:04:54 +0000,0,Austin,GA,Possession,4,44,47,18, 19
+2018-12-20 00:04:57 +0000,1,McAuliffe,WD,Deflect,4,44,47,84, 8
+2018-12-20 00:04:57 +0000,0,Green,WA,Throw In,4,44,47,84, 0
+2018-12-20 00:05:04 +0000,0,Green,WA,Assist - Circle Entry,4,44,47,84, 0
+2018-12-20 00:05:04 +0000,0,Harten ,GS,Goal - Score,4,44,47,66, 6
+2018-12-20 00:05:16 +0000,1,,UNKNOWN,Timeout,4,45,47,-10, -22
+2018-12-20 00:06:07 +0000,1,Scherian ,C,Centre Pass,4,45,47,50, 100
+2018-12-20 00:06:07 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,4,45,47,22, 88
+2018-12-20 00:06:09 +0000,1,Scherian ,C,Assist - 2nd Phase,4,45,47,37, 83
+2018-12-20 00:06:11 +0000,1,Browne,WA,Possession,4,45,47,92, 105
+2018-12-20 00:06:15 +0000,1,Wood,GA,Possession,4,45,47,85, 145
+2018-12-20 00:06:16 +0000,0,Bulley ,GD,Penaly - Contact,4,45,47,85, 145
+2018-12-20 00:06:16 +0000,1,Browne,WA,Possession,4,45,47,85, 145
+2018-12-20 00:06:26 +0000,1,McAuliffe,WD,Possession,4,45,47,64, 128
+2018-12-20 00:06:28 +0000,1,Scherian ,C,Possession,4,45,47,15, 148
+2018-12-20 00:06:29 +0000,1,Wood,GA,Possession,4,45,47,57, 144
+2018-12-20 00:06:33 +0000,1,Wood,GA,Assist - Circle Entry,4,45,47,57, 144
+2018-12-20 00:06:33 +0000,1,Bassett,GS,Goal - Score,4,45,47,57, 193
+2018-12-20 00:06:40 +0000,0,Guthrie,C,Centre Pass,4,45,48,50, 100
+2018-12-20 00:06:40 +0000,0,Green,WA,Assist - Centre Pass Rec,4,45,48,75, 73
+2018-12-20 00:06:42 +0000,0,Austin,GA,Assist - 2nd Phase,4,45,48,89, 41
+2018-12-20 00:06:44 +0000,0,Green,WA,Possession,4,45,48,80, 51
+2018-12-20 00:06:45 +0000,1,Mentor,GK,Penaly - Contact,4,45,48,80, 51
+2018-12-20 00:06:45 +0000,0,Green,WA,Possession,4,45,48,80, 51
+2018-12-20 00:06:53 +0000,0,Green,WA,Assist - Circle Entry,4,45,48,80, 51
+2018-12-20 00:06:53 +0000,0,Harten ,GS,Possession,4,45,48,68, 19
+2018-12-20 00:06:55 +0000,0,Green,WA,Possession,4,45,48,72, 28
+2018-12-20 00:06:57 +0000,0,Green,WA,Assist - Circle Entry,4,45,48,72, 28
+2018-12-20 00:06:57 +0000,0,Harten ,GS,Goal - Score,4,45,48,61, 12
+2018-12-20 00:07:09 +0000,1,Scherian ,C,Centre Pass,4,46,48,50, 100
+2018-12-20 00:07:09 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,46,48,67, 110
+2018-12-20 00:07:11 +0000,1,Wood,GA,Assist - 2nd Phase,4,46,48,92, 129
+2018-12-20 00:07:14 +0000,1,Scherian ,C,Possession,4,46,48,86, 160
+2018-12-20 00:07:17 +0000,1,Scherian ,C,Assist - Circle Entry,4,46,48,86, 160
+2018-12-20 00:07:17 +0000,1,Bassett,GS,Possession,4,46,48,71, 184
+2018-12-20 00:07:19 +0000,1,Browne,WA,Possession,4,46,48,16, 189
+2018-12-20 00:07:22 +0000,1,Browne,WA,Assist - Circle Entry,4,46,48,16, 189
+2018-12-20 00:07:22 +0000,1,Wood,GA,Possession,4,46,48,33, 189
+2018-12-20 00:07:24 +0000,1,Browne,WA,Possession,4,46,48,18, 188
+2018-12-20 00:07:27 +0000,1,Browne,WA,Assist - Circle Entry,4,46,48,18, 188
+2018-12-20 00:07:27 +0000,1,Wood,GA,Goal - Score,4,46,48,40, 193
+2018-12-20 00:07:42 +0000,0,Guthrie,C,Centre Pass,4,46,49,50, 100
+2018-12-20 00:07:42 +0000,0,Price,WD,Assist - Centre Pass Rec,4,46,49,66, 93
+2018-12-20 00:07:44 +0000,0,Austin,GA,Assist - 2nd Phase,4,46,49,82, 89
+2018-12-20 00:07:51 +0000,1,Pretorius ,GD,Gain - Inter,4,46,49,54, 61
+2018-12-20 00:07:58 +0000,1,Wood,GA,Possession,4,46,49,93, 104
+2018-12-20 00:08:00 +0000,1,McAuliffe,WD,Possession,4,46,49,85, 128
+2018-12-20 00:08:03 +0000,1,Browne,WA,Possession,4,46,49,75, 141
+2018-12-20 00:08:05 +0000,1,Scherian ,C,Possession,4,46,49,22, 163
+2018-12-20 00:08:07 +0000,1,Pretorius ,GD,Possession,4,46,49,26, 130
+2018-12-20 00:08:09 +0000,1,Scherian ,C,Possession,4,46,49,21, 155
+2018-12-20 00:08:13 +0000,1,Wood,GA,Possession,4,46,49,8, 173
+2018-12-20 00:08:18 +0000,0,Manu’a,GK,Penaly - Contact,4,46,49,8, 173
+2018-12-20 00:08:18 +0000,1,Scherian ,C,Possession,4,46,49,8, 173
+2018-12-20 00:08:25 +0000,1,McAuliffe,WD,Possession,4,46,49,43, 131
+2018-12-20 00:08:30 +0000,1,Scherian ,C,Possession,4,46,49,34, 149
+2018-12-20 00:08:32 +0000,1,Browne,WA,Possession,4,46,49,78, 175
+2018-12-20 00:08:36 +0000,1,Wood,GA,Possession,4,46,49,87, 196
+2018-12-20 00:08:38 +0000,1,Browne,WA,Possession,4,46,49,81, 184
+2018-12-20 00:08:43 +0000,1,Browne,WA,Assist - Circle Entry,4,46,49,81, 184
+2018-12-20 00:08:44 +0000,1,Bassett,GS,Possession,4,46,49,49, 187
+2018-12-20 00:08:45 +0000,0,Manu’a,GK,Penaly - Contact,4,46,49,49, 187
+2018-12-20 00:08:45 +0000,1,Bassett,GS,Goal - Score,4,46,49,49, 187
+2018-12-20 00:08:54 +0000,1,Scherian ,C,Centre Pass,4,46,50,50, 100
+2018-12-20 00:08:54 +0000,1,McAuliffe,WD,Assist - Centre Pass Rec,4,46,50,66, 110
+2018-12-20 00:08:57 +0000,1,Wood,GA,Assist - 2nd Phase,4,46,50,13, 150
+2018-12-20 00:08:59 +0000,1,Scherian ,C,Possession,4,46,50,19, 178
+2018-12-20 00:09:03 +0000,1,Scherian ,C,Assist - Circle Entry,4,46,50,19, 178
+2018-12-20 00:09:03 +0000,1,Bassett,GS,Possession,4,46,50,46, 185
+2018-12-20 00:09:09 +0000,0,Bulley ,GD,Penaly - Contact,4,46,50,46, 185
+2018-12-20 00:09:09 +0000,1,Wood,GA,Goal - Score,4,46,50,46, 185
+2018-12-20 00:09:24 +0000,0,Guthrie,C,Centre Pass,4,46,51,50, 100
+2018-12-20 00:09:24 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,4,46,51,20, 80
+2018-12-20 00:09:26 +0000,0,Austin,GA,Assist - 2nd Phase,4,46,51,37, 70
+2018-12-20 00:09:28 +0000,0,Guthrie,C,Possession,4,46,51,32, 53
+2018-12-20 00:09:31 +0000,1,McAuliffe,WD,Penaly - Contact,4,46,51,32, 53
+2018-12-20 00:09:31 +0000,0,Guthrie,C,Possession,4,46,51,32, 53
+2018-12-20 00:09:36 +0000,0,Green,WA,Possession,4,46,51,33, 34
+2018-12-20 00:09:38 +0000,0,Green,WA,Assist - Circle Entry,4,46,51,33, 34
+2018-12-20 00:09:38 +0000,0,Austin,GA,Goal - Miss,4,46,51,50, 23
+2018-12-20 00:09:46 +0000,1,Mentor,GK,Deflect,4,46,51,50, 2
+2018-12-20 00:09:47 +0000,0,Green,WA,Possession,4,46,51,81, 17
+2018-12-20 00:10:03 +0000,1,Pretorius ,GD,Penaly - Contact,4,46,51,67, 14
+2018-12-20 00:10:03 +0000,0,Austin,GA,Possession,4,46,51,67, 14
+2018-12-20 00:10:14 +0000,1,Mentor,GK,Penaly - Contact,4,46,51,67, 14
+2018-12-20 00:10:14 +0000,0,Harten ,GS,Goal - Score,4,46,51,67, 14
+2018-12-20 00:10:28 +0000,1,Scherian ,C,Centre Pass,4,47,51,50, 100
+2018-12-20 00:10:28 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,47,51,82, 121
+2018-12-20 00:10:30 +0000,1,Scherian ,C,Assist - 2nd Phase,4,47,51,70, 123
+2018-12-20 00:10:35 +0000,0,Price,WD,Penaly - Contact,4,47,51,70, 123
+2018-12-20 00:10:35 +0000,1,McAuliffe,WD,Possession,4,47,51,70, 123
+2018-12-20 00:10:40 +0000,1,Browne,WA,Possession,4,47,51,66, 142
+2018-12-20 00:10:41 +0000,0,Guthrie,C,Penaly - Contact,4,47,51,66, 142
+2018-12-20 00:10:41 +0000,1,Browne,WA,Possession,4,47,51,66, 142
+2018-12-20 00:10:48 +0000,1,Pretorius ,GD,Possession,4,47,51,37, 128
+2018-12-20 00:10:50 +0000,1,Browne,WA,Possession,4,47,51,27, 142
+2018-12-20 00:10:54 +0000,1,Wood,GA,Possession,4,47,51,51, 151
+2018-12-20 00:10:57 +0000,1,Browne,WA,Possession,4,47,51,68, 160
+2018-12-20 00:11:00 +0000,0,Guthrie,C,Penaly - Contact,4,47,51,68, 160
+2018-12-20 00:11:00 +0000,1,Browne,WA,Possession,4,47,51,68, 160
+2018-12-20 00:11:10 +0000,1,Browne,WA,Assist - Circle Entry,4,47,51,68, 160
+2018-12-20 00:11:10 +0000,1,Wood,GA,Goal - Score,4,47,51,45, 192
+2018-12-20 00:11:18 +0000,0,Guthrie,C,Centre Pass,4,47,52,50, 100
+2018-12-20 00:11:18 +0000,0,Price,WD,Assist - Centre Pass Rec,4,47,52,38, 117
+2018-12-20 00:11:20 +0000,0,Bulley ,GD,Assist - 2nd Phase,4,47,52,28, 105
+2018-12-20 00:11:21 +0000,0,Austin,GA,Possession,4,47,52,28, 87
+2018-12-20 00:11:25 +0000,0,Green,WA,Possession,4,47,52,43, 69
+2018-12-20 00:11:37 +0000,0,Green,WA,Assist - Circle Entry,4,47,52,43, 69
+2018-12-20 00:11:37 +0000,0,Harten ,GS,Possession,4,47,52,60, 27
+2018-12-20 00:11:40 +0000,1,Pretorius ,GD,Gain - Inter,4,47,52,53, 24
+2018-12-20 00:11:46 +0000,1,Scherian ,C,Possession,4,47,52,17, 35
+2018-12-20 00:11:49 +0000,1,Pretorius ,GD,Possession,4,47,52,32, 30
+2018-12-20 00:11:54 +0000,0,Austin,GA,Gain - Inter,4,47,52,38, 45
+2018-12-20 00:12:00 +0000,0,Bulley ,GD,Possession,4,47,52,62, 70
+2018-12-20 00:12:03 +0000,0,Green,WA,Possession,4,47,52,59, 53
+2018-12-20 00:12:05 +0000,0,Price,WD,Possession,4,47,52,46, 70
+2018-12-20 00:12:09 +0000,0,Green,WA,Possession,4,47,52,44, 50
+2018-12-20 00:12:11 +0000,0,Austin,GA,Possession,4,47,52,62, 40
+2018-12-20 00:12:15 +0000,0,Guthrie,C,Possession,4,47,52,22, 22
+2018-12-20 00:12:18 +0000,0,Guthrie,C,Assist - Circle Entry,4,47,52,22, 22
+2018-12-20 00:12:18 +0000,0,Austin,GA,Goal - Score,4,47,52,40, 10
+2018-12-20 00:12:28 +0000,1,Scherian ,C,Centre Pass,4,48,52,50, 100
+2018-12-20 00:12:28 +0000,1,Pretorius ,GD,Assist - Centre Pass Rec,4,48,52,19, 80
+2018-12-20 00:12:30 +0000,1,Browne,WA,Assist - 2nd Phase,4,48,52,48, 83
+2018-12-20 00:12:32 +0000,1,Wood,GA,Possession,4,48,52,73, 96
+2018-12-20 00:12:34 +0000,1,McAuliffe,WD,Possession,4,48,52,93, 108
+2018-12-20 00:12:37 +0000,1,Wood,GA,Possession,4,48,52,91, 145
+2018-12-20 00:12:40 +0000,1,Browne,WA,Possession,4,48,52,84, 182
+2018-12-20 00:12:52 +0000,1,Browne,WA,Assist - Circle Entry,4,48,52,84, 182
+2018-12-20 00:12:52 +0000,1,Wood,GA,Possession,4,48,52,69, 192
+2018-12-20 00:12:53 +0000,0,Manu’a,GK,Penaly - Contact,4,48,52,69, 192
+2018-12-20 00:12:53 +0000,1,Wood,GA,Possession,4,48,52,69, 192
+2018-12-20 00:12:59 +0000,1,Bassett,GS,Goal - Score,4,48,52,46, 190
+2018-12-20 00:14:25 +0000,0,Guthrie,C,Centre Pass,4,48,53,50, 100
+2018-12-20 00:14:25 +0000,1,McAuliffe,WD,Loss - Break,4,48,53,51, 67
+2018-12-20 00:14:25 +0000,0,Price,WD,Possession,4,48,53,51, 67
+2018-12-20 00:14:36 +0000,0,Green,WA,Assist - 2nd Phase,4,48,53,42, 46
+2018-12-20 00:14:38 +0000,0,Austin,GA,Possession,4,48,53,43, 32
+2018-12-20 00:14:40 +0000,0,Guthrie,C,Possession,4,48,53,59, 36
+2018-12-20 00:14:44 +0000,0,Guthrie,C,Assist - Circle Entry,4,48,53,59, 36
+2018-12-20 00:14:44 +0000,1,Pretorius ,GD,Gain - Inter,4,48,53,52, 26
+2018-12-20 00:14:49 +0000,1,Scherian ,C,Possession,4,48,53,91, 76
+2018-12-20 00:14:51 +0000,1,Wood,GA,Possession,4,48,53,90, 126
+2018-12-20 00:14:54 +0000,1,Browne,WA,Possession,4,48,53,77, 162
+2018-12-20 00:14:57 +0000,1,Wood,GA,Possession,4,48,53,94, 158
+2018-12-20 00:14:59 +0000,1,Browne,WA,Possession,4,48,53,75, 148
+2018-12-20 00:15:01 +0000,1,McAuliffe,WD,Possession,4,48,53,77, 131
+2018-12-20 00:15:05 +0000,1,Wood,GA,Possession,4,48,53,90, 166
+2018-12-20 00:15:10 +0000,0,Guthrie,C,Deflect,4,48,53,24, 189
+2018-12-20 00:15:10 +0000,1,Browne,WA,Throw In,4,48,53,11, 204
+2018-12-20 00:15:20 +0000,1,Browne,WA,Assist - Circle Entry,4,48,53,11, 204
+2018-12-20 00:15:20 +0000,1,Bassett,GS,Goal - Miss,4,48,53,35, 195
+2018-12-20 00:15:25 +0000,0,Manu’a,GK,Gain - Def Reb,4,48,53,50, 197
+2018-12-20 00:15:27 +0000,0,Price,WD,Possession,4,48,53,77, 173
+2018-12-20 00:15:30 +0000,0,Austin,GA,Possession,4,48,53,83, 130
+2018-12-20 00:15:33 +0000,0,Bulley ,GD,Possession,4,48,53,74, 83
+2018-12-20 00:15:39 +0000,0,Harten ,GS,Possession,4,48,53,88, 37
+2018-12-20 00:15:42 +0000,0,Guthrie,C,Possession,4,48,53,80, 49
+2018-12-20 00:15:44 +0000,0,Green,WA,Possession,4,48,53,76, 27
+2018-12-20 00:15:46 +0000,0,Green,WA,Assist - Circle Entry,4,48,53,76, 27
+2018-12-20 00:15:46 +0000,0,Austin,GA,Loss - Bad Pass,4,48,53,64, 17
+2018-12-20 00:15:56 +0000,1,Mentor,GK,Throw In,4,48,53,-3, 10
+2018-12-20 00:16:33 +0000,0,Guthrie,C,Loss - Offside,4,48,53,38, 28
+2018-12-20 00:16:36 +0000,1,Mentor,GK,Possession,4,48,53,38, 28
+2018-12-20 00:16:46 +0000,1,McAuliffe,WD,Possession,4,48,53,49, 49
+2018-12-20 00:16:48 +0000,1,Mentor,GK,Possession,4,48,53,83, 49
+2018-12-20 00:16:51 +0000,1,Browne,WA,Possession,4,48,53,91, 84
+2018-12-20 00:16:53 +0000,1,Pretorius ,GD,Possession,4,48,53,67, 90
+2018-12-20 00:16:55 +0000,1,McAuliffe,WD,Possession,4,48,53,81, 77
+2018-12-20 00:16:57 +0000,1,Pretorius ,GD,Possession,4,48,53,54, 72
+2018-12-20 00:16:59 +0000,1,Scherian ,C,Possession,4,48,53,20, 94
+2018-12-20 00:17:02 +0000,1,Wood,GA,Possession,4,48,53,86, 141
+2018-12-20 00:17:06 +0000,0,Price,WD,Deflect,4,48,53,92, 169
+2018-12-20 00:17:06 +0000,1,Browne,WA,Throw In,4,48,53,101, 165
+2018-12-20 00:17:15 +0000,1,Scherian ,C,Possession,4,48,53,26, 166
+2018-12-20 00:17:18 +0000,1,Scherian ,C,Assist - Circle Entry,4,48,53,26, 166
+2018-12-20 00:17:18 +0000,1,Wood,GA,Possession,4,48,53,37, 180
+2018-12-20 00:17:20 +0000,1,Scherian ,C,Possession,4,48,53,28, 171
+2018-12-20 00:17:22 +0000,1,Scherian ,C,Assist - Circle Entry,4,48,53,28, 171
+2018-12-20 00:17:22 +0000,1,Wood,GA,Goal - Score,4,48,53,40, 186
+2018-12-20 00:17:32 +0000,1,Scherian ,C,Centre Pass,4,48,54,50, 100
+2018-12-20 00:17:32 +0000,1,Wood,GA,Assist - Centre Pass Rec,4,48,54,31, 128
+2018-12-20 00:17:34 +0000,1,Browne,WA,Assist - 2nd Phase,4,48,54,19, 143
+2018-12-20 00:17:37 +0000,1,McAuliffe,WD,Possession,4,48,54,21, 128
+2018-12-20 00:17:39 +0000,1,Wood,GA,Possession,4,48,54,84, 162
+2018-12-20 00:17:44 +0000,1,Wood,GA,Assist - Circle Entry,4,48,54,84, 162
+2018-12-20 00:17:44 +0000,1,Bassett,GS,Possession,4,48,54,61, 186
+2018-12-20 00:17:45 +0000,0,Bulley ,GD,Penaly - Contact,4,48,54,61, 186
+2018-12-20 00:17:45 +0000,1,Wood,GA,Possession,4,48,54,61, 186
+2018-12-20 00:17:51 +0000,1,Bassett,GS,Goal - Score,4,48,54,46, 191
+2018-12-20 00:18:05 +0000,0,Guthrie,C,Centre Pass,4,48,55,50, 100
+2018-12-20 00:18:06 +0000,0,Austin,GA,Assist - Centre Pass Rec,4,48,55,75, 83
+2018-12-20 00:18:07 +0000,0,Green,WA,Assist - 2nd Phase,4,48,55,55, 41
+2018-12-20 00:18:11 +0000,0,Green,WA,Assist - Circle Entry,4,48,55,55, 41
+2018-12-20 00:18:11 +0000,0,Harten ,GS,Possession,4,48,55,60, 8
+2018-12-20 00:18:13 +0000,0,Guthrie,C,Possession,4,48,55,77, 24
+2018-12-20 00:18:16 +0000,0,Guthrie,C,Assist - Circle Entry,4,48,55,77, 24
+2018-12-20 00:18:16 +0000,0,Harten ,GS,Goal - Miss,4,48,55,57, 7
+2018-12-20 00:18:21 +0000,1,Pretorius ,GD,Gain - Def Reb,4,48,55,50, 2
+2018-12-20 00:18:24 +0000,1,Scherian ,C,Possession,4,48,55,71, 38
+2018-12-20 00:18:31 +0000,1,McAuliffe,WD,Possession,4,48,55,59, 55
+2018-12-20 00:18:36 +0000,1,Pretorius ,GD,Possession,4,48,55,20, 90
+2018-12-20 00:18:38 +0000,1,Browne,WA,Possession,4,48,55,40, 116
+2018-12-20 00:18:42 +0000,1,Wood,GA,Possession,4,48,55,82, 150
+2018-12-20 00:18:44 +0000,1,Bassett,GS,Possession,4,48,55,87, 194
+2018-12-20 00:18:47 +0000,1,Scherian ,C,Possession,4,48,55,16, 190
+2018-12-20 00:18:49 +0000,1,Scherian ,C,Assist - Circle Entry,4,48,55,16, 190
+2018-12-20 00:18:49 +0000,1,Wood,GA,Goal - Score,4,48,55,36, 195
+2018-12-20 00:19:01 +0000,1,Scherian ,C,Centre Pass,4,48,56,50, 100
+2018-12-20 00:19:01 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,48,56,23, 124
+2018-12-20 00:19:03 +0000,1,Wood,GA,Assist - 2nd Phase,4,48,56,9, 183
+2018-12-20 00:19:05 +0000,1,Wood,GA,Assist - Circle Entry,4,48,56,9, 183
+2018-12-20 00:19:06 +0000,1,Bassett,GS,Goal - Score,4,48,56,44, 186
+2018-12-20 00:19:30 +0000,0,Harten ,UNKNOWN,Interchange - Pettitt ,4,48,57,
+2018-12-20 00:19:39 +0000,0,Guthrie,C,Centre Pass,4,48,57,50, 100
+2018-12-20 00:19:39 +0000,0,Green,WA,Assist - Centre Pass Rec,4,48,57,51, 76
+2018-12-20 00:19:41 +0000,0,Pettitt ,GS,Assist - 2nd Phase,4,48,57,84, 32
+2018-12-20 00:19:43 +0000,0,Guthrie,C,Possession,4,48,57,71, 31
+2018-12-20 00:19:45 +0000,0,Guthrie,C,Assist - Circle Entry,4,48,57,71, 31
+2018-12-20 00:19:46 +0000,0,Pettitt ,GS,Possession,4,48,57,58, 11
+2018-12-20 00:19:48 +0000,1,Mentor,GK,Penaly - Contact,4,48,57,58, 11
+2018-12-20 00:19:48 +0000,0,Pettitt ,GS,Goal - Score,4,48,57,58, 11
+2018-12-20 00:19:57 +0000,1,Scherian ,C,Centre Pass,4,49,57,50, 100
+2018-12-20 00:19:57 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,49,57,26, 124
+2018-12-20 00:19:59 +0000,1,Wood,GA,Assist - 2nd Phase,4,49,57,74, 144
+2018-12-20 00:20:03 +0000,1,Wood,GA,Assist - Circle Entry,4,49,57,74, 144
+2018-12-20 00:20:03 +0000,1,Bassett,GS,Goal - Score,4,49,57,57, 186
+2018-12-20 00:20:12 +0000,0,Guthrie,C,Centre Pass,4,49,58,50, 100
+2018-12-20 00:20:12 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,4,49,58,74, 100
+2018-12-20 00:20:16 +0000,0,Pettitt ,GS,Assist - 2nd Phase,4,49,58,91, 32
+2018-12-20 00:20:21 +0000,0,Pettitt ,GS,Assist - Circle Entry,4,49,58,91, 32
+2018-12-20 00:20:21 +0000,0,Austin,GA,Possession,4,49,58,55, 15
+2018-12-20 00:20:23 +0000,1,Mentor,GK,Penaly - Contact,4,49,58,55, 15
+2018-12-20 00:20:23 +0000,0,Austin,GA,Goal - Score,4,49,58,55, 15
+2018-12-20 00:20:32 +0000,1,Scherian ,C,Centre Pass,4,50,58,50, 100
+2018-12-20 00:20:32 +0000,1,Browne,WA,Assist - Centre Pass Rec,4,50,58,65, 109
+2018-12-20 00:20:34 +0000,1,Wood,GA,Assist - 2nd Phase,4,50,58,18, 127
+2018-12-20 00:20:37 +0000,1,Scherian ,C,Possession,4,50,58,19, 181
+2018-12-20 00:20:39 +0000,1,Scherian ,C,Assist - Circle Entry,4,50,58,19, 181
+2018-12-20 00:20:39 +0000,1,Wood,GA,Goal - Miss,4,50,58,66, 187
+2018-12-20 00:20:56 +0000,0,Bulley ,GD,Deflect,4,50,58,54, 193
+2018-12-20 00:20:56 +0000,1,Wood,GA,Goal - Score,4,50,58,58, 184
+2018-12-20 00:21:13 +0000,0,Guthrie,C,Centre Pass,4,50,59,50, 100
+2018-12-20 00:21:13 +0000,0,Austin,GA,Assist - Centre Pass Rec,4,50,59,30, 74

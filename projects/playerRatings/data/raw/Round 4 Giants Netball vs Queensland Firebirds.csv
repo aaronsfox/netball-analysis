@@ -1,0 +1,1591 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-11-03 06:46:00 +0000,0,Guthrie,C,Centre Pass,1,0,0,50, 100
+2018-11-03 06:46:00 +0000,0,Green,WA,Assist - Centre Pass Rec,1,0,0,82, 73
+2018-11-03 06:46:02 +0000,0,Pettitt ,GA,Assist - 2nd Phase,1,0,0,85, 26
+2018-11-03 06:46:05 +0000,0,Guthrie,C,Possession,1,0,0,65, 40
+2018-11-03 06:46:07 +0000,0,Guthrie,C,Assist - Circle Entry,1,0,0,65, 40
+2018-11-03 06:46:07 +0000,0,Harten ,GS,Possession,1,0,0,63, 16
+2018-11-03 06:46:09 +0000,0,Green,WA,Possession,1,0,0,17, 12
+2018-11-03 06:46:11 +0000,1,Simpson,WD,Penaly - Contact,1,0,0,17, 12
+2018-11-03 06:46:11 +0000,0,Green,WA,Possession,1,0,0,17, 12
+2018-11-03 06:46:16 +0000,0,Green,WA,Assist - Circle Entry,1,0,0,17, 12
+2018-11-03 06:46:16 +0000,0,Harten ,GS,Goal - Score,1,0,0,33, 8
+2018-11-03 06:46:24 +0000,1,Cassidy,C,Centre Pass,1,1,0,50, 100
+2018-11-03 06:46:24 +0000,1,Hinchliffe,GD,Assist - Centre Pass Rec,1,1,0,14, 112
+2018-11-03 06:46:26 +0000,1,Nevins,WA,Assist - 2nd Phase,1,1,0,12, 131
+2018-11-03 06:46:30 +0000,1,Hinchliffe,GD,Possession,1,1,0,18, 114
+2018-11-03 06:46:34 +0000,1,Simpson,WD,Possession,1,1,0,52, 80
+2018-11-03 06:46:36 +0000,1,Tippett,GA,Possession,1,1,0,89, 128
+2018-11-03 06:46:38 +0000,1,Simpson,WD,Possession,1,1,0,75, 128
+2018-11-03 06:46:43 +0000,1,Tippett,GA,Possession,1,1,0,82, 185
+2018-11-03 06:46:48 +0000,1,Tippett,GA,Assist - Circle Entry,1,1,0,82, 185
+2018-11-03 06:46:48 +0000,1,Aiken,GS,Possession,1,1,0,56, 183
+2018-11-03 06:46:50 +0000,1,Cassidy,C,Possession,1,1,0,29, 167
+2018-11-03 06:46:53 +0000,1,Cassidy,C,Assist - Circle Entry,1,1,0,29, 167
+2018-11-03 06:46:53 +0000,1,Aiken,GS,Goal - Score,1,1,0,49, 190
+2018-11-03 07:10:19 +0000,0,Guthrie,C,Centre Pass,1,1,1,50, 100
+2018-11-03 07:10:19 +0000,0,Green,WA,Assist - Centre Pass Rec,1,1,1,71, 77
+2018-11-03 07:10:21 +0000,0,Pettitt ,GA,Assist - 2nd Phase,1,1,1,85, 49
+2018-11-03 07:10:24 +0000,0,Guthrie,C,Possession,1,1,1,81, 16
+2018-11-03 07:10:38 +0000,0,Price,WD,Loss - Offside,1,1,1,21, 63
+2018-11-03 07:10:47 +0000,1,Geitz,GK,Possession,1,1,1,20, 63
+2018-11-03 07:10:53 +0000,1,Simpson,WD,Possession,1,1,1,28, 81
+2018-11-03 07:11:00 +0000,1,Simpson,WD,Possession,1,1,1,22, 118
+2018-11-03 07:11:03 +0000,1,Aiken,GS,Possession,1,1,1,28, 151
+2018-11-03 07:11:06 +0000,1,Aiken,GS,Assist - Circle Entry,1,1,1,28, 151
+2018-11-03 07:11:06 +0000,1,Tippett,GA,Goal - Score,1,1,1,46, 192
+2018-11-03 07:11:29 +0000,1,Cassidy,C,Centre Pass,1,1,2,50, 100
+2018-11-03 07:11:29 +0000,1,Tippett,GA,Loss - Other,1,1,2,14, 131
+2018-11-03 07:13:52 +0000,0,Bulley ,GD,Possession,1,1,2,13, 135
+2018-11-03 07:14:00 +0000,0,Guthrie,C,Possession,1,1,2,81, 82
+2018-11-03 07:14:02 +0000,0,Green,WA,Possession,1,1,2,83, 53
+2018-11-03 07:14:04 +0000,0,Guthrie,C,Possession,1,1,2,57, 50
+2018-11-03 07:14:06 +0000,0,Pettitt ,GA,Possession,1,1,2,21, 30
+2018-11-03 07:14:08 +0000,0,Bulley ,GD,Possession,1,1,2,50, 68
+2018-11-03 07:14:11 +0000,1,Tippett,GA,Penaly - Contact,1,1,2,50, 68
+2018-11-03 07:14:11 +0000,0,Bulley ,GD,Possession,1,1,2,50, 68
+2018-11-03 07:14:17 +0000,0,Guthrie,C,Possession,1,1,2,11, 13
+2018-11-03 07:14:19 +0000,0,Guthrie,C,Assist - Circle Entry,1,1,2,11, 13
+2018-11-03 07:14:19 +0000,0,Pettitt ,GA,Possession,1,1,2,24, 5
+2018-11-03 07:14:22 +0000,0,Green,WA,Possession,1,1,2,79, 15
+2018-11-03 07:14:29 +0000,0,Green,WA,Assist - Circle Entry,1,1,2,79, 15
+2018-11-03 07:14:29 +0000,1,Geitz,GK,Gain - Tip (Deflect),1,1,2,49, 29
+2018-11-03 07:14:38 +0000,1,Cassidy,C,Possession,1,1,2,55, 33
+2018-11-03 07:14:42 +0000,1,Geitz,GK,Possession,1,1,2,48, 51
+2018-11-03 07:14:54 +0000,1,Cassidy,C,Possession,1,1,2,59, 63
+2018-11-03 07:14:58 +0000,1,Hinchliffe,GD,Possession,1,1,2,90, 100
+2018-11-03 07:15:01 +0000,1,Cassidy,C,Possession,1,1,2,88, 135
+2018-11-03 07:15:03 +0000,1,Tippett,GA,Possession,1,1,2,55, 142
+2018-11-03 07:15:05 +0000,1,,UNKNOWN,Possession,1,1,2,83, 176
+2018-11-03 07:15:07 +0000,0,Poolman ,GK,Penaly - Contact,1,1,2,72, 192
+2018-11-03 07:15:07 +0000,1,Tippett,GA,Possession,1,1,2,72, 192
+2018-11-03 07:15:14 +0000,1,Aiken,GS,Possession,1,1,2,50, 186
+2018-11-03 07:15:16 +0000,0,Bulley ,GD,Penaly - Contact,1,1,2,50, 186
+2018-11-03 07:15:16 +0000,1,Aiken,GS,Goal - Score,1,1,2,50, 186
+2018-11-03 07:15:26 +0000,0,Guthrie,C,Centre Pass,1,1,3,50, 100
+2018-11-03 07:15:26 +0000,0,Pettitt ,GA,Assist - Centre Pass Rec,1,1,3,76, 73
+2018-11-03 07:15:30 +0000,0,Green,WA,Assist - 2nd Phase,1,1,3,55, 60
+2018-11-03 07:15:32 +0000,0,Guthrie,C,Possession,1,1,3,87, 6
+2018-11-03 07:15:34 +0000,0,Guthrie,C,Assist - Circle Entry,1,1,3,87, 6
+2018-11-03 07:15:35 +0000,0,Harten ,GS,Possession,1,1,3,76, 6
+2018-11-03 07:15:37 +0000,0,Green,WA,Possession,1,1,3,19, 18
+2018-11-03 07:15:40 +0000,0,Green,WA,Assist - Circle Entry,1,1,3,19, 18
+2018-11-03 07:15:40 +0000,0,Harten ,GS,Possession,1,1,3,56, 1
+2018-11-03 07:15:43 +0000,0,Pettitt ,GA,Goal - Score,1,1,3,53, 4
+2018-11-03 07:15:49 +0000,1,Cassidy,C,Centre Pass,1,2,3,50, 100
+2018-11-03 07:15:49 +0000,1,Nevins,WA,Assist - Centre Pass Rec,1,2,3,45, 127
+2018-11-03 07:16:27 +0000,1,Aiken,GS,Assist - 2nd Phase,1,2,3,55, 162
+2018-11-03 07:16:40 +0000,1,Nevins,WA,Possession,1,2,3,50, 162
+2018-11-03 07:16:42 +0000,0,Poolman ,GK,Penaly - Contact,1,2,3,50, 162
+2018-11-03 07:16:42 +0000,1,Nevins,WA,Possession,1,2,3,50, 162
+2018-11-03 07:16:52 +0000,1,Nevins,WA,Assist - Circle Entry,1,2,3,50, 162
+2018-11-03 07:16:52 +0000,1,Aiken,GS,Goal - Score,1,2,3,51, 187
+2018-11-03 07:17:01 +0000,0,Guthrie,C,Centre Pass,1,2,4,50, 100
+2018-11-03 07:17:01 +0000,0,Price,WD,Assist - Centre Pass Rec,1,2,4,18, 79
+2018-11-03 07:17:07 +0000,0,Pettitt ,GA,Assist - 2nd Phase,1,2,4,8, 51
+2018-11-03 07:17:09 +0000,0,Green,WA,Possession,1,2,4,4, 13
+2018-11-03 07:17:15 +0000,0,Green,WA,Assist - Circle Entry,1,2,4,4, 13
+2018-11-03 07:17:15 +0000,0,Pettitt ,GA,Goal - Score,1,2,4,33, 5
+2018-11-03 07:17:24 +0000,1,Cassidy,C,Centre Pass,1,3,4,50, 100
+2018-11-03 07:17:25 +0000,1,Hinchliffe,GD,Assist - Centre Pass Rec,1,3,4,9, 112
+2018-11-03 07:17:28 +0000,1,Nevins,WA,Assist - 2nd Phase,1,3,4,4, 139
+2018-11-03 07:17:30 +0000,1,Tippett,GA,Possession,1,3,4,7, 192
+2018-11-03 07:17:33 +0000,1,Cassidy,C,Possession,1,3,4,79, 178
+2018-11-03 07:17:36 +0000,1,Cassidy,C,Assist - Circle Entry,1,3,4,79, 178
+2018-11-03 07:17:37 +0000,1,Tippett,GA,Possession,1,3,4,43, 194
+2018-11-03 07:17:38 +0000,0,Bulley ,GD,Penaly - Contact,1,3,4,43, 194
+2018-11-03 07:17:38 +0000,1,Tippett,GA,Goal - Score,1,3,4,43, 194
+2018-11-03 07:17:46 +0000,0,Guthrie,C,Centre Pass,1,3,5,50, 100
+2018-11-03 07:17:46 +0000,0,Pettitt ,GA,Assist - Centre Pass Rec,1,3,5,40, 80
+2018-11-03 07:17:48 +0000,0,Green,WA,Assist - 2nd Phase,1,3,5,77, 71
+2018-11-03 07:17:50 +0000,0,Guthrie,C,Possession,1,3,5,18, 25
+2018-11-03 07:17:51 +0000,1,Cassidy,C,Penaly - Obstruction,1,3,5,18, 25
+2018-11-03 07:17:51 +0000,0,Guthrie,C,Possession,1,3,5,18, 25
+2018-11-03 07:17:58 +0000,0,Harten ,GS,Possession,1,3,5,58, 35
+2018-11-03 07:18:02 +0000,0,Guthrie,C,Possession,1,3,5,36, 31
+2018-11-03 07:18:06 +0000,0,Guthrie,C,Assist - Circle Entry,1,3,5,36, 31
+2018-11-03 07:18:06 +0000,0,Pettitt ,GA,Possession,1,3,5,38, 14
+2018-11-03 07:18:09 +0000,1,Hinchliffe,GD,Penaly - Contact,1,3,5,38, 14
+2018-11-03 07:18:09 +0000,0,Pettitt ,GA,Possession,1,3,5,38, 14
+2018-11-03 07:18:13 +0000,0,Green,WA,Possession,1,3,5,76, 20
+2018-11-03 07:18:17 +0000,0,Green,WA,Assist - Circle Entry,1,3,5,76, 20
+2018-11-03 07:18:17 +0000,0,Pettitt ,GA,Goal - Score,1,3,5,60, 10
+2018-11-03 07:18:51 +0000,1,Cassidy,C,Centre Pass,1,4,5,50, 100
+2018-11-03 07:18:51 +0000,1,Nevins,WA,Loss - Off Contact,1,4,5,53, 123
+2018-11-03 07:18:57 +0000,0,Price,WD,Possession,1,4,5,55, 123
+2018-11-03 07:19:03 +0000,0,Guthrie,C,Possession,1,4,5,51, 89
+2018-11-03 07:19:08 +0000,0,Bulley ,GD,Possession,1,4,5,84, 105
+2018-11-03 07:19:11 +0000,1,Nevins,WA,Penaly - Contact,1,4,5,48, 85
+2018-11-03 07:19:12 +0000,0,Price,WD,Possession,1,4,5,48, 85
+2018-11-03 07:19:18 +0000,0,Bulley ,GD,Possession,1,4,5,10, 69
+2018-11-03 07:19:20 +0000,0,Pettitt ,GA,Possession,1,4,5,14, 46
+2018-11-03 07:19:22 +0000,0,Harten ,GS,Possession,1,4,5,34, 30
+2018-11-03 07:19:25 +0000,0,Harten ,GS,Assist - Circle Entry,1,4,5,34, 30
+2018-11-03 07:19:25 +0000,0,Pettitt ,GA,Goal - Miss,1,4,5,32, 10
+2018-11-03 07:19:31 +0000,1,Hinchliffe,GD,Gain - Def Reb,1,4,5,50, 2
+2018-11-03 07:19:34 +0000,1,Simpson,WD,Possession,1,4,5,15, 27
+2018-11-03 07:19:36 +0000,1,Tippett,GA,Possession,1,4,5,8, 88
+2018-11-03 07:19:38 +0000,1,Simpson,WD,Possession,1,4,5,35, 73
+2018-11-03 07:19:41 +0000,1,Nevins,WA,Possession,1,4,5,77, 110
+2018-11-03 07:19:43 +0000,1,Simpson,WD,Possession,1,4,5,57, 91
+2018-11-03 07:19:48 +0000,1,Nevins,WA,Possession,1,4,5,82, 145
+2018-11-03 07:19:51 +0000,1,Cassidy,C,Possession,1,4,5,76, 161
+2018-11-03 07:19:52 +0000,0,Price,WD,Penaly - Contact,1,4,5,76, 161
+2018-11-03 07:19:52 +0000,1,Cassidy,C,Possession,1,4,5,76, 161
+2018-11-03 07:20:14 +0000,1,Cassidy,C,Assist - Circle Entry,1,4,5,76, 161
+2018-11-03 07:20:14 +0000,1,Aiken,GS,Goal - Score,1,4,5,51, 192
+2018-11-03 07:20:22 +0000,0,Guthrie,C,Centre Pass,1,4,6,50, 100
+2018-11-03 07:20:22 +0000,0,Pettitt ,GA,Assist - Centre Pass Rec,1,4,6,22, 81
+2018-11-03 07:20:24 +0000,0,Green,WA,Loss - Bad Pass,1,4,6,68, 35
+2018-11-03 07:20:27 +0000,1,Geitz,GK,Throw In,1,4,6,29, -5
+2018-11-03 07:20:34 +0000,1,Hinchliffe,GD,Possession,1,4,6,10, 26
+2018-11-03 07:20:37 +0000,1,Geitz,GK,Possession,1,4,6,34, 14
+2018-11-03 07:20:40 +0000,1,Simpson,WD,Possession,1,4,6,19, 35
+2018-11-03 07:20:44 +0000,1,Geitz,GK,Possession,1,4,6,72, 43
+2018-11-03 07:20:46 +0000,1,Cassidy,C,Possession,1,4,6,85, 61
+2018-11-03 07:20:48 +0000,1,Simpson,WD,Possession,1,4,6,24, 70
+2018-11-03 07:20:49 +0000,1,Hinchliffe,GD,Possession,1,4,6,81, 78
+2018-11-03 07:21:01 +0000,1,,UNKNOWN,Loss - Drop,1,4,6,68, 98
+2018-11-03 07:21:10 +0000,0,Guthrie,C,Gain - Pick-up,1,4,6,63, 114
+2018-11-03 07:21:25 +0000,0,Pettitt ,GA,Possession,1,4,6,20, 76
+2018-11-03 07:21:27 +0000,0,Green,WA,Possession,1,4,6,38, 46
+2018-11-03 07:21:30 +0000,0,Green,WA,Assist - Circle Entry,1,4,6,38, 46
+2018-11-03 07:21:30 +0000,0,Pettitt ,GA,Goal - Score,1,4,6,39, 5
+2018-11-03 07:21:39 +0000,1,Cassidy,C,Centre Pass,1,5,6,50, 100
+2018-11-03 07:21:39 +0000,1,Tippett,GA,Assist - Centre Pass Rec,1,5,6,19, 109
+2018-11-03 07:21:40 +0000,1,Simpson,WD,Assist - 2nd Phase,1,5,6,46, 119
+2018-11-03 07:21:42 +0000,1,Tippett,GA,Possession,1,5,6,17, 128
+2018-11-03 07:21:45 +0000,1,Aiken,GS,Possession,1,5,6,5, 171
+2018-11-03 07:21:49 +0000,1,Aiken,GS,Assist - Circle Entry,1,5,6,5, 171
+2018-11-03 07:21:49 +0000,1,Tippett,GA,Loss - Bad Pass,1,5,6,61, 193
+2018-11-03 07:21:54 +0000,0,Poolman ,GK,Throw In,1,5,6,68, 203
+2018-11-03 07:22:04 +0000,0,Price,WD,Possession,1,5,6,77, 170
+2018-11-03 07:22:06 +0000,0,Poolman ,GK,Possession,1,5,6,75, 146
+2018-11-03 07:22:08 +0000,0,Green,WA,Possession,1,5,6,68, 71
+2018-11-03 07:22:10 +0000,0,Guthrie,C,Possession,1,5,6,23, 23
+2018-11-03 07:22:13 +0000,0,Guthrie,C,Assist - Circle Entry,1,5,6,23, 23
+2018-11-03 07:22:13 +0000,0,Harten ,GS,Possession,1,5,6,27, 4
+2018-11-03 07:22:18 +0000,1,Simpson,WD,Loss - Offside,1,5,6,71, 20
+2018-11-03 07:22:33 +0000,0,Pettitt ,GA,Possession,1,5,6,69, 19
+2018-11-03 07:22:47 +0000,0,Green,WA,Possession,1,5,6,74, 25
+2018-11-03 07:22:52 +0000,0,Green,WA,Assist - Circle Entry,1,5,6,74, 25
+2018-11-03 07:22:52 +0000,0,Harten ,GS,Possession,1,5,6,60, 14
+2018-11-03 07:22:56 +0000,1,Geitz,GK,Penaly - Contact,1,5,6,60, 14
+2018-11-03 07:22:56 +0000,0,Harten ,GS,Possession,1,5,6,60, 14
+2018-11-03 07:22:59 +0000,1,Hinchliffe,GD,Penaly - Obstruction,1,5,6,60, 14
+2018-11-03 07:22:59 +0000,0,Harten ,GS,Goal - Score,1,5,6,60, 14
+2018-11-03 07:23:12 +0000,0,Guthrie,C,Centre Pass,1,6,6,50, 100
+2018-11-03 07:23:12 +0000,0,Green,WA,Assist - Centre Pass Rec,1,6,6,76, 75
+2018-11-03 07:23:13 +0000,0,Green,WA,Assist - 2nd Phase,1,6,6,84, 56
+2018-11-03 07:23:15 +0000,0,Bulley ,GD,Loss - Held Ball,1,6,6,4, 83
+2018-11-03 07:23:27 +0000,1,Simpson,WD,Possession,1,6,6,7, 78
+2018-11-03 07:23:32 +0000,1,Tippett,GA,Possession,1,6,6,6, 119
+2018-11-03 07:23:36 +0000,1,Simpson,WD,Possession,1,6,6,26, 122
+2018-11-03 07:23:40 +0000,0,Price,WD,Penaly - Contact,1,6,6,29, 136
+2018-11-03 07:23:40 +0000,1,Nevins,WA,Possession,1,6,6,29, 136
+2018-11-03 07:23:48 +0000,1,Nevins,WA,Assist - Circle Entry,1,6,6,29, 136
+2018-11-03 07:23:48 +0000,1,Aiken,GS,Possession,1,6,6,57, 175
+2018-11-03 07:23:50 +0000,1,Tippett,GA,Goal - Score,1,6,6,51, 190
+2018-11-03 07:23:58 +0000,1,Cassidy,C,Centre Pass,1,6,7,50, 100
+2018-11-03 07:23:58 +0000,1,Tippett,GA,Assist - Centre Pass Rec,1,6,7,6, 121
+2018-11-03 07:24:01 +0000,1,Simpson,WD,Assist - 2nd Phase,1,6,7,22, 128
+2018-11-03 07:24:03 +0000,1,Aiken,GS,Possession,1,6,7,28, 161
+2018-11-03 07:24:05 +0000,1,Cassidy,C,Possession,1,6,7,48, 162
+2018-11-03 07:24:07 +0000,0,Poolman ,GK,Penaly - Contact,1,6,7,49, 173
+2018-11-03 07:24:07 +0000,1,Tippett,GA,Possession,1,6,7,49, 173
+2018-11-03 07:24:12 +0000,1,Aiken,GS,Possession,1,6,7,49, 190
+2018-11-03 07:24:13 +0000,0,Bulley ,GD,Penaly - Contact,1,6,7,49, 190
+2018-11-03 07:24:13 +0000,1,Aiken,GS,Goal - Score,1,6,7,49, 190
+2018-11-03 07:24:29 +0000,0,Guthrie,C,Centre Pass,1,6,8,50, 100
+2018-11-03 07:24:29 +0000,0,Green,WA,Loss - Break,1,6,8,44, 69
+2018-11-03 07:24:34 +0000,1,Simpson,WD,Possession,1,6,8,44, 68
+2018-11-03 07:24:38 +0000,1,Cassidy,C,Possession,1,6,8,60, 102
+2018-11-03 07:24:40 +0000,1,Nevins,WA,Possession,1,6,8,29, 118
+2018-11-03 07:24:54 +0000,1,Aiken,GS,Deflect,1,6,8,12, 169
+2018-11-03 07:24:57 +0000,0,Poolman ,GK,Throw In,1,6,8,4, 202
+2018-11-03 07:25:10 +0000,1,Aiken,GS,Penaly - Obstruction,1,6,8,4, 202
+2018-11-03 07:25:10 +0000,0,Poolman ,GK,Possession,1,6,8,4, 202
+2018-11-03 07:25:23 +0000,0,Price,WD,Possession,1,6,8,7, 125
+2018-11-03 07:25:26 +0000,0,Pettitt ,GA,Possession,1,6,8,3, 78
+2018-11-03 07:25:30 +0000,0,Bulley ,GD,Possession,1,6,8,86, 74
+2018-11-03 07:25:32 +0000,0,Guthrie,C,Possession,1,6,8,79, 47
+2018-11-03 07:25:34 +0000,0,Guthrie,C,Assist - Circle Entry,1,6,8,79, 47
+2018-11-03 07:25:34 +0000,0,Harten ,GS,Possession,1,6,8,79, 3
+2018-11-03 07:25:36 +0000,0,Guthrie,C,Possession,1,6,8,84, 9
+2018-11-03 07:25:40 +0000,0,Guthrie,C,Assist - Circle Entry,1,6,8,84, 9
+2018-11-03 07:25:40 +0000,0,Harten ,GS,Goal - Miss,1,6,8,62, 7
+2018-11-03 07:25:59 +0000,1,Geitz,GK,Gain - Def Reb,1,6,8,50, 2
+2018-11-03 07:26:03 +0000,1,Hinchliffe,GD,Possession,1,6,8,82, 12
+2018-11-03 07:26:05 +0000,1,Simpson,WD,Possession,1,6,8,63, 41
+2018-11-03 07:26:08 +0000,1,Cassidy,C,Possession,1,6,8,89, 67
+2018-11-03 07:26:10 +0000,1,Simpson,WD,Possession,1,6,8,78, 60
+2018-11-03 07:26:12 +0000,1,Cassidy,C,Possession,1,6,8,90, 94
+2018-11-03 07:26:14 +0000,1,Simpson,WD,Possession,1,6,8,59, 117
+2018-11-03 07:26:17 +0000,1,Nevins,WA,Possession,1,6,8,31, 120
+2018-11-03 07:26:21 +0000,1,Tippett,GA,Possession,1,6,8,58, 165
+2018-11-03 07:26:27 +0000,1,Tippett,GA,Assist - Circle Entry,1,6,8,58, 165
+2018-11-03 07:26:27 +0000,1,Aiken,GS,Possession,1,6,8,29, 186
+2018-11-03 07:26:30 +0000,1,Cassidy,C,Possession,1,6,8,78, 177
+2018-11-03 07:26:32 +0000,1,Cassidy,C,Assist - Circle Entry,1,6,8,78, 177
+2018-11-03 07:26:32 +0000,1,Aiken,GS,Possession,1,6,8,49, 177
+2018-11-03 07:26:35 +0000,1,Nevins,WA,Possession,1,6,8,28, 169
+2018-11-03 07:26:40 +0000,1,Nevins,WA,Assist - Circle Entry,1,6,8,28, 169
+2018-11-03 07:26:40 +0000,1,,UNKNOWN,Possession,1,6,8,34, 181
+2018-11-03 07:26:41 +0000,0,Bulley ,GD,Penaly - Contact,1,6,8,34, 181
+2018-11-03 07:26:41 +0000,1,Tippett,GA,Possession,1,6,8,34, 181
+2018-11-03 07:26:47 +0000,1,Aiken,GS,Goal - Miss,1,6,8,49, 189
+2018-11-03 07:26:52 +0000,1,Aiken,GS,Assist - Attack Rebound,1,6,8,50, 197
+2018-11-03 07:26:53 +0000,1,Aiken,GS,Goal - Score,1,6,8,49, 189
+2018-11-03 07:27:01 +0000,1,Cassidy,C,Centre Pass,1,6,9,50, 100
+2018-11-03 07:27:01 +0000,1,Tippett,GA,Assist - Centre Pass Rec,1,6,9,13, 123
+2018-11-03 07:27:03 +0000,1,Cassidy,C,Assist - 2nd Phase,1,6,9,31, 136
+2018-11-03 07:27:05 +0000,1,Tippett,GA,Possession,1,6,9,3, 145
+2018-11-03 07:27:07 +0000,1,Cassidy,C,Possession,1,6,9,20, 175
+2018-11-03 07:27:10 +0000,1,Cassidy,C,Assist - Circle Entry,1,6,9,20, 175
+2018-11-03 07:27:11 +0000,1,Aiken,GS,Goal - Score,1,6,9,44, 191
+2018-11-03 07:27:18 +0000,0,Guthrie,C,Centre Pass,1,6,10,50, 100
+2018-11-03 07:27:18 +0000,0,Green,WA,Assist - Centre Pass Rec,1,6,10,84, 75
+2018-11-03 07:27:20 +0000,0,Guthrie,C,Assist - 2nd Phase,1,6,10,62, 59
+2018-11-03 07:27:22 +0000,0,Pettitt ,GA,Possession,1,6,10,86, 24
+2018-11-03 07:27:27 +0000,0,Pettitt ,GA,Assist - Circle Entry,1,6,10,86, 24
+2018-11-03 07:27:27 +0000,0,Harten ,GS,Possession,1,6,10,72, 15
+2018-11-03 07:27:29 +0000,1,Geitz,GK,Penaly - Contact,1,6,10,72, 15
+2018-11-03 07:27:29 +0000,0,Pettitt ,GA,Possession,1,6,10,72, 15
+2018-11-03 07:27:36 +0000,1,Hinchliffe,GD,Penaly - Obstruction,1,6,10,61, 13
+2018-11-03 07:27:37 +0000,0,Pettitt ,GA,Possession,1,6,10,61, 13
+2018-11-03 07:27:43 +0000,0,Harten ,GS,Goal - Score,1,6,10,48, 7
+2018-11-03 07:27:50 +0000,1,Cassidy,C,Centre Pass,1,7,10,50, 100
+2018-11-03 07:27:50 +0000,1,Nevins,WA,Loss - Held Ball,1,7,10,13, 128
+2018-11-03 07:27:57 +0000,0,Price,WD,Possession,1,7,10,16, 126
+2018-11-03 07:28:04 +0000,0,Bulley ,GD,Possession,1,7,10,13, 83
+2018-11-03 07:28:07 +0000,1,Simpson,WD,Penaly - Contact,1,7,10,13, 83
+2018-11-03 07:28:07 +0000,0,Bulley ,GD,Possession,1,7,10,13, 83
+2018-11-03 07:28:20 +0000,0,Guthrie,C,Possession,1,7,10,92, 61
+2018-11-03 07:28:22 +0000,0,Guthrie,C,Assist - Circle Entry,1,7,10,92, 61
+2018-11-03 07:28:23 +0000,0,Harten ,GS,Possession,1,7,10,77, 3
+2018-11-03 07:28:26 +0000,0,Guthrie,C,Possession,1,7,10,85, 4
+2018-11-03 07:28:29 +0000,0,Guthrie,C,Assist - Circle Entry,1,7,10,85, 4
+2018-11-03 07:28:29 +0000,0,Pettitt ,GA,Possession,1,7,10,68, 6
+2018-11-03 07:28:34 +0000,0,Guthrie,C,Possession,1,7,10,84, 6
+2018-11-03 07:28:36 +0000,0,Guthrie,C,Assist - Circle Entry,1,7,10,84, 6
+2018-11-03 07:28:36 +0000,0,Pettitt ,GA,Possession,1,7,10,63, 5
+2018-11-03 07:28:41 +0000,0,Guthrie,C,Possession,1,7,10,84, 8
+2018-11-03 07:28:44 +0000,0,Guthrie,C,Assist - Circle Entry,1,7,10,84, 8
+2018-11-03 07:28:44 +0000,0,Pettitt ,GA,Possession,1,7,10,59, 4
+2018-11-03 07:28:46 +0000,1,Geitz,GK,Penaly - Contact,1,7,10,59, 4
+2018-11-03 07:28:46 +0000,0,Pettitt ,GA,Goal - Score,1,7,10,59, 4
+2018-11-03 07:28:54 +0000,0,Guthrie,C,Centre Pass,1,8,10,50, 100
+2018-11-03 07:28:54 +0000,0,Pettitt ,GA,Assist - Centre Pass Rec,1,8,10,68, 75
+2018-11-03 07:28:56 +0000,0,Green,WA,Assist - 2nd Phase,1,8,10,15, 31
+2018-11-03 07:28:59 +0000,0,Green,WA,Assist - Circle Entry,1,8,10,15, 31
+2018-11-03 07:28:59 +0000,0,Harten ,GS,Possession,1,8,10,48, 9
+2018-11-03 07:29:01 +0000,1,Geitz,GK,Penaly - Obstruction,1,8,10,48, 9
+2018-11-03 07:29:01 +0000,0,Harten ,GS,Goal - Score,1,8,10,48, 9
+2018-11-03 07:29:10 +0000,1,Cassidy,C,Centre Pass,1,9,10,50, 100
+2018-11-03 07:29:10 +0000,1,Simpson,WD,Assist - Centre Pass Rec,1,9,10,51, 73
+2018-11-03 07:29:12 +0000,1,Cassidy,C,Assist - 2nd Phase,1,9,10,12, 78
+2018-11-03 07:29:16 +0000,1,Tippett,GA,Possession,1,9,10,7, 123
+2018-11-03 07:29:19 +0000,1,Nevins,WA,Possession,1,9,10,6, 143
+2018-11-03 07:29:22 +0000,0,Guthrie,C,Penaly - Contact,1,9,10,48, 161
+2018-11-03 07:29:23 +0000,1,Cassidy,C,Possession,1,9,10,48, 161
+2018-11-03 07:29:31 +0000,1,Cassidy,C,Assist - Circle Entry,1,9,10,48, 161
+2018-11-03 07:29:31 +0000,1,Aiken,GS,Goal - Miss,1,9,10,43, 192
+2018-11-03 07:29:37 +0000,0,Bulley ,GD,Gain - Def Reb,1,9,10,50, 197
+2018-11-03 07:29:40 +0000,0,Price,WD,Possession,1,9,10,53, 137
+2018-11-03 07:29:42 +0000,0,Poolman ,GK,Possession,1,9,10,23, 136
+2018-11-03 07:29:56 +0000,1,Hinchliffe,GD,Penaly - Obstruction,1,9,10,23, 136
+2018-11-03 07:29:56 +0000,0,Poolman ,GK,Possession,1,9,10,23, 136
+2018-11-03 07:30:02 +0000,0,Pettitt ,GA,Possession,1,9,10,4, 25
+2018-11-03 07:30:10 +0000,0,Green,WA,Possession,1,9,10,28, 28
+2018-11-03 07:30:12 +0000,0,Green,WA,Assist - Circle Entry,1,9,10,28, 28
+2018-11-03 07:30:12 +0000,0,Pettitt ,GA,Possession,1,9,10,40, 8
+2018-11-03 07:30:22 +0000,0,Green,WA,Possession,1,9,10,19, 16
+2018-11-03 07:30:25 +0000,1,Cassidy,C,Penaly - Contact,1,9,10,19, 16
+2018-11-03 07:30:25 +0000,0,Green,WA,Possession,1,9,10,19, 16
+2018-11-03 07:30:34 +0000,0,Green,WA,Assist - Circle Entry,1,9,10,19, 16
+2018-11-03 07:30:34 +0000,0,Pettitt ,GA,Possession,1,9,10,30, 5
+2018-11-03 07:30:39 +0000,1,Geitz,GK,Penaly - Contact,1,9,10,30, 5
+2018-11-03 07:30:39 +0000,0,Pettitt ,GA,Goal - Score,1,9,10,30, 5
+2018-11-03 07:30:51 +0000,0,Guthrie,C,Centre Pass,1,10,10,50, 100
+2018-11-03 07:30:51 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,1,10,10,5, 77
+2018-11-03 07:30:53 +0000,0,Pettitt ,GA,Assist - 2nd Phase,1,10,10,3, 28
+2018-11-03 07:30:55 +0000,0,Guthrie,C,Possession,1,10,10,24, 50
+2018-11-03 07:30:59 +0000,0,Guthrie,C,Assist - Circle Entry,1,10,10,24, 50
+2018-11-03 07:31:00 +0000,0,Harten ,GS,Possession,1,10,10,25, 18
+2018-11-03 07:31:02 +0000,0,Green,WA,Possession,1,10,10,50, 32
+2018-11-03 07:31:09 +0000,0,Green,WA,Assist - Circle Entry,1,10,10,50, 32
+2018-11-03 07:31:09 +0000,0,Harten ,GS,Possession,1,10,10,23, 4
+2018-11-03 07:31:11 +0000,0,Green,WA,Possession,1,10,10,51, 33
+2018-11-03 07:31:19 +0000,0,Green,WA,Assist - Circle Entry,1,10,10,51, 33
+2018-11-03 07:31:19 +0000,1,Geitz,GK,Gain - Inter,1,10,10,50, 6
+2018-11-03 07:31:25 +0000,1,Cassidy,C,Possession,1,10,10,48, 35
+2018-11-03 07:31:27 +0000,0,Green,WA,Penaly - Contact,1,10,10,48, 35
+2018-11-03 07:31:27 +0000,1,Geitz,GK,Possession,1,10,10,48, 35
+2018-11-03 07:31:33 +0000,1,Simpson,WD,Possession,1,10,10,27, 43
+2018-11-03 07:31:37 +0000,1,Geitz,GK,Possession,1,10,10,52, 43
+2018-11-03 07:31:39 +0000,1,Simpson,WD,Possession,1,10,10,54, 61
+2018-11-03 07:31:43 +0000,1,Nevins,WA,Possession,1,10,10,5, 120
+2018-11-03 07:31:45 +0000,1,Simpson,WD,Possession,1,10,10,28, 129
+2018-11-03 07:31:50 +0000,1,Tippett,GA,Possession,1,10,10,39, 150
+2018-11-03 07:31:55 +0000,1,Tippett,GA,Assist - Circle Entry,1,10,10,39, 150
+2018-11-03 07:31:55 +0000,1,Aiken,GS,Possession,1,10,10,49, 182
+2018-11-03 07:31:57 +0000,1,Nevins,WA,Possession,1,10,10,25, 172
+2018-11-03 07:31:59 +0000,1,Nevins,WA,Assist - Circle Entry,1,10,10,25, 172
+2018-11-03 07:31:59 +0000,1,Aiken,GS,Goal - Score,1,10,10,52, 192
+2018-11-03 07:32:10 +0000,1,Cassidy,C,Centre Pass,1,10,11,50, 100
+2018-11-03 07:32:10 +0000,1,Tippett,GA,Assist - Centre Pass Rec,1,10,11,79, 125
+2018-11-03 07:32:12 +0000,1,Cassidy,C,Assist - 2nd Phase,1,10,11,73, 129
+2018-11-03 07:32:14 +0000,1,Tippett,GA,Possession,1,10,11,86, 152
+2018-11-03 07:32:18 +0000,1,Tippett,GA,Assist - Circle Entry,1,10,11,86, 152
+2018-11-03 07:32:19 +0000,1,Aiken,GS,Goal - Score,1,10,11,45, 192
+2018-11-03 07:32:26 +0000,0,Guthrie,C,Centre Pass,1,10,12,50, 100
+2018-11-03 07:32:26 +0000,0,Pettitt ,GA,Assist - Centre Pass Rec,1,10,12,10, 70
+2018-11-03 07:32:28 +0000,0,Green,WA,Assist - 2nd Phase,1,10,12,36, 73
+2018-11-03 07:32:30 +0000,1,Tippett,GA,Penaly - Contact,1,10,12,36, 73
+2018-11-03 07:32:30 +0000,0,Bulley ,GD,Possession,1,10,12,36, 73
+2018-11-03 07:32:37 +0000,0,Price,WD,Possession,1,10,12,11, 69
+2018-11-03 07:32:39 +0000,0,Green,WA,Possession,1,10,12,18, 26
+2018-11-03 07:32:41 +0000,0,Green,WA,Assist - Circle Entry,1,10,12,18, 26
+2018-11-03 07:32:41 +0000,0,Harten ,GS,Possession,1,10,12,27, 18
+2018-11-03 07:32:44 +0000,0,Guthrie,C,Possession,1,10,12,63, 30
+2018-11-03 07:32:49 +0000,1,Hinchliffe,GD,Penaly - Contact,1,10,12,57, 8
+2018-11-03 07:32:49 +0000,0,Pettitt ,GA,Possession,1,10,12,57, 8
+2018-11-03 07:32:55 +0000,1,Geitz,GK,Penaly - Contact,1,10,12,57, 8
+2018-11-03 07:32:55 +0000,0,Pettitt ,GA,Goal - Score,1,10,12,57, 8
+2018-11-03 07:33:14 +0000,1,Cassidy,C,Centre Pass,1,11,12,50, 100
+2018-11-03 07:33:14 +0000,1,Simpson,WD,Assist - Centre Pass Rec,1,11,12,60, 88
+2018-11-03 07:33:16 +0000,1,Hinchliffe,GD,Assist - 2nd Phase,1,11,12,4, 118
+2018-11-03 07:33:18 +0000,1,Nevins,WA,Possession,1,11,12,8, 136
+2018-11-03 07:33:21 +0000,1,Aiken,GS,Possession,1,11,12,14, 166
+2018-11-03 07:33:27 +0000,0,Guthrie,C,Deflect,1,11,12,79, 175
+2018-11-03 07:33:28 +0000,1,Cassidy,C,Throw In,1,11,12,107, 184
+2018-11-03 07:33:38 +0000,1,Cassidy,C,Assist - Circle Entry,1,11,12,107, 184
+2018-11-03 07:33:38 +0000,1,Aiken,GS,Possession,1,11,12,53, 189
+2018-11-03 07:33:40 +0000,1,Tippett,GA,Possession,1,11,12,58, 171
+2018-11-03 07:33:41 +0000,1,Aiken,GS,Goal - Score,1,11,12,49, 190
+2018-11-03 07:33:50 +0000,0,Guthrie,C,Centre Pass,1,11,13,50, 100
+2018-11-03 07:33:50 +0000,0,Green,WA,Assist - Centre Pass Rec,1,11,13,81, 74
+2018-11-03 07:33:52 +0000,0,Pettitt ,GA,Assist - 2nd Phase,1,11,13,85, 39
+2018-11-03 07:33:55 +0000,0,Guthrie,C,Possession,1,11,13,35, 43
+2018-11-03 07:33:58 +0000,0,Harten ,GS,Possession,1,11,13,18, 23
+2018-11-03 07:34:00 +0000,0,Harten ,GS,Assist - Circle Entry,1,11,13,18, 23
+2018-11-03 07:34:00 +0000,0,Pettitt ,GA,Possession,1,11,13,33, 1
+2018-11-03 07:34:02 +0000,0,Guthrie,C,Possession,1,11,13,20, 19
+2018-11-03 07:34:06 +0000,0,Guthrie,C,Assist - Circle Entry,1,11,13,20, 19
+2018-11-03 07:34:06 +0000,0,Pettitt ,GA,Possession,1,11,13,23, 2
+2018-11-03 07:34:11 +0000,0,Green,WA,Possession,1,11,13,47, 34
+2018-11-03 07:34:14 +0000,0,Green,WA,Assist - Circle Entry,1,11,13,47, 34
+2018-11-03 07:34:14 +0000,0,Pettitt ,GA,Goal - Score,1,11,13,50, 21
+2018-11-03 07:34:22 +0000,1,Cassidy,C,Centre Pass,1,12,13,50, 100
+2018-11-03 07:34:22 +0000,1,Tippett,GA,Assist - Centre Pass Rec,1,12,13,15, 125
+2018-11-03 07:34:49 +0000,0,Guthrie,C,Deflect,1,12,13,71, 172
+2018-11-03 07:34:49 +0000,1,Tippett,GA,Throw In,1,12,13,61, 204
+2018-11-03 07:35:02 +0000,1,Cassidy,C,Possession,1,12,13,82, 183
+2018-11-03 07:35:04 +0000,1,Tippett,GA,Possession,1,12,13,75, 157
+2018-11-03 07:35:07 +0000,1,Nevins,WA,Possession,1,12,13,15, 186
+2018-11-03 07:35:09 +0000,1,Nevins,WA,Assist - Circle Entry,1,12,13,15, 186
+2018-11-03 07:35:09 +0000,1,Tippett,GA,Assist - 2nd Phase,1,12,13,46, 192
+2018-11-03 07:35:12 +0000,1,Tippett,GA,Goal - Score,1,12,13,46, 192
+2018-11-03 07:35:17 +0000,0,Guthrie,C,Centre Pass,1,12,14,50, 100
+2018-11-03 07:35:17 +0000,0,Green,WA,Assist - Centre Pass Rec,1,12,14,75, 74
+2018-11-03 07:35:20 +0000,0,Harten ,GS,Assist - 2nd Phase,1,12,14,83, 26
+2018-11-03 07:35:22 +0000,0,Guthrie,C,Possession,1,12,14,22, 25
+2018-11-03 07:35:26 +0000,0,Price,WD,Possession,1,12,14,26, 70
+2018-11-03 07:35:28 +0000,0,Guthrie,C,Possession,1,12,14,19, 60
+2018-11-03 07:35:30 +0000,0,Harten ,GS,Possession,1,12,14,46, 44
+2018-11-03 07:35:43 +0000,1,Hinchliffe,GD,Gain - Tip (Deflect),1,12,14,56, 33
+2018-11-03 07:35:47 +0000,1,Simpson,WD,Possession,1,12,14,90, 40
+2018-11-03 07:35:52 +0000,1,Nevins,WA,Possession,1,12,14,72, 123
+2018-11-03 07:35:54 +0000,1,Aiken,GS,Possession,1,12,14,83, 179
+2018-11-03 07:35:56 +0000,1,Cassidy,C,Possession,1,12,14,72, 157
+2018-11-03 07:35:58 +0000,0,Price,WD,Penaly - Contact,1,12,14,72, 157
+2018-11-03 07:35:58 +0000,1,Cassidy,C,Possession,1,12,14,72, 157
+2018-11-03 07:36:02 +0000,1,Cassidy,C,Assist - Circle Entry,1,12,14,72, 157
+2018-11-03 07:36:02 +0000,1,Tippett,GA,Possession,1,12,14,69, 181
+2018-11-03 07:36:04 +0000,0,Bulley ,GD,Penaly - Obstruction,1,12,14,69, 181
+2018-11-03 07:36:04 +0000,1,Tippett,GA,Goal - Score,1,12,14,69, 181
+2018-11-03 07:37:11 +0000,0,Harten ,UNKNOWN,Interchange - Brice,2,12,15,
+2018-11-03 07:37:11 +0000,0,Pettitt ,UNKNOWN,Interchange - Harten ,2,12,15,
+2018-11-03 07:37:22 +0000,1,Cassidy,C,Centre Pass,2,12,15,50, 100
+2018-11-03 07:37:22 +0000,1,Tippett,GA,Assist - Centre Pass Rec,2,12,15,22, 128
+2018-11-03 07:37:31 +0000,1,Hinchliffe,GD,Assist - 2nd Phase,2,12,15,45, 101
+2018-11-03 07:37:54 +0000,1,Nevins,WA,Possession,2,12,15,66, 97
+2018-11-03 07:37:56 +0000,1,Hinchliffe,GD,Possession,2,12,15,48, 107
+2018-11-03 07:38:02 +0000,1,Cassidy,C,Possession,2,12,15,52, 128
+2018-11-03 07:38:04 +0000,1,Tippett,GA,Possession,2,12,15,23, 157
+2018-11-03 07:38:06 +0000,1,Tippett,GA,Assist - Circle Entry,2,12,15,23, 157
+2018-11-03 07:38:06 +0000,1,Aiken,GS,Possession,2,12,15,34, 181
+2018-11-03 07:38:13 +0000,0,Poolman ,GK,Deflect,2,12,15,75, 199
+2018-11-03 07:38:13 +0000,1,Tippett,GA,Throw In,2,12,15,81, 206
+2018-11-03 07:38:24 +0000,1,Tippett,GA,Assist - Circle Entry,2,12,15,81, 206
+2018-11-03 07:38:24 +0000,1,Aiken,GS,Possession,2,12,15,59, 180
+2018-11-03 07:38:27 +0000,1,Cassidy,C,Possession,2,12,15,84, 194
+2018-11-03 07:38:32 +0000,1,Cassidy,C,Assist - Circle Entry,2,12,15,84, 194
+2018-11-03 07:38:32 +0000,1,Aiken,GS,Goal - Score,2,12,15,51, 189
+2018-11-03 07:38:41 +0000,0,Guthrie,C,Centre Pass,2,12,16,50, 100
+2018-11-03 07:38:41 +0000,0,Green,WA,Assist - Centre Pass Rec,2,12,16,72, 84
+2018-11-03 07:38:45 +0000,1,Simpson,WD,Penaly - Obstruction,2,12,16,72, 84
+2018-11-03 07:38:45 +0000,0,Bulley ,GD,Possession,2,12,16,72, 84
+2018-11-03 07:38:58 +0000,0,Green,WA,Possession,2,12,16,19, 44
+2018-11-03 07:39:01 +0000,0,Green,WA,Assist - Circle Entry,2,12,16,19, 44
+2018-11-03 07:39:01 +0000,0,Brice,GS,Assist - 2nd Phase,2,12,16,58, 10
+2018-11-03 07:39:03 +0000,0,Brice,GS,Goal - Score,2,12,16,58, 10
+2018-11-03 07:39:18 +0000,1,Cassidy,C,Centre Pass,2,13,16,50, 100
+2018-11-03 07:39:18 +0000,1,Simpson,WD,Loss - Off Contact,2,13,16,73, 101
+2018-11-03 07:39:24 +0000,0,Bulley ,GD,Possession,2,13,16,73, 100
+2018-11-03 07:39:30 +0000,0,Green,WA,Possession,2,13,16,92, 31
+2018-11-03 07:39:50 +0000,1,Geitz,GK,Deflect,2,13,16,34, 12
+2018-11-03 07:39:50 +0000,0,Guthrie,C,Possession,2,13,16,13, 9
+2018-11-03 07:40:08 +0000,1,Hinchliffe,GD,Deflect,2,13,16,44, 12
+2018-11-03 07:40:08 +0000,0,Brice,GS,Deflect,2,13,16,63, 5
+2018-11-03 07:40:18 +0000,1,Geitz,GK,Throw In,2,13,16,66, -3
+2018-11-03 07:40:24 +0000,1,Hinchliffe,GD,Possession,2,13,16,93, 51
+2018-11-03 07:40:27 +0000,1,Cassidy,C,Possession,2,13,16,97, 94
+2018-11-03 07:40:28 +0000,0,Harten ,GA,Penaly - Obstruction,2,13,16,97, 94
+2018-11-03 07:40:29 +0000,1,Hinchliffe,GD,Possession,2,13,16,97, 94
+2018-11-03 07:40:40 +0000,1,Simpson,WD,Possession,2,13,16,59, 79
+2018-11-03 07:40:42 +0000,1,Cassidy,C,Possession,2,13,16,30, 119
+2018-11-03 07:40:46 +0000,1,Hinchliffe,GD,Possession,2,13,16,49, 115
+2018-11-03 07:41:28 +0000,0,Poolman ,GK,Gain - Inter,2,13,16,49, 155
+2018-11-03 07:41:41 +0000,0,Price,WD,Possession,2,13,16,89, 118
+2018-11-03 07:41:46 +0000,0,Guthrie,C,Possession,2,13,16,94, 64
+2018-11-03 07:41:48 +0000,0,Harten ,GA,Possession,2,13,16,83, 48
+2018-11-03 07:41:53 +0000,1,Geitz,GK,Penaly - Contact,2,13,16,52, 14
+2018-11-03 07:41:53 +0000,0,Harten ,GA,Possession,2,13,16,52, 14
+2018-11-03 07:42:06 +0000,0,Brice,GS,Goal - Score,2,13,16,46, 7
+2018-11-03 07:42:16 +0000,0,Guthrie,C,Centre Pass,2,14,16,50, 100
+2018-11-03 07:42:16 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,14,16,55, 76
+2018-11-03 07:42:19 +0000,0,Green,WA,Assist - 2nd Phase,2,14,16,96, 56
+2018-11-03 07:42:21 +0000,0,Guthrie,C,Possession,2,14,16,64, 49
+2018-11-03 07:42:22 +0000,0,Green,WA,Possession,2,14,16,87, 59
+2018-11-03 07:42:24 +0000,0,Brice,GS,Possession,2,14,16,83, 31
+2018-11-03 07:42:30 +0000,1,Cassidy,C,Loss - Offside,2,14,16,19, 17
+2018-11-03 07:42:40 +0000,0,Harten ,GA,Possession,2,14,16,18, 18
+2018-11-03 07:43:18 +0000,0,Guthrie,C,Possession,2,14,16,18, 18
+2018-11-03 07:43:22 +0000,0,Guthrie,C,Assist - Circle Entry,2,14,16,18, 18
+2018-11-03 07:43:22 +0000,0,Harten ,GA,Loss - Other,2,14,16,27, 15
+2018-11-03 07:44:09 +0000,1,Geitz,GK,Possession,2,14,16,21, 16
+2018-11-03 07:44:15 +0000,1,Simpson,WD,Possession,2,14,16,60, 38
+2018-11-03 07:44:18 +0000,1,Tippett,GA,Possession,2,14,16,98, 88
+2018-11-03 07:44:20 +0000,1,Simpson,WD,Possession,2,14,16,84, 72
+2018-11-03 07:44:30 +0000,0,Bulley ,GD,Penaly - Contact,2,14,16,84, 72
+2018-11-03 07:44:30 +0000,1,Simpson,WD,Possession,2,14,16,84, 72
+2018-11-03 07:44:36 +0000,1,Tippett,GA,Possession,2,14,16,95, 143
+2018-11-03 07:44:39 +0000,1,Simpson,WD,Possession,2,14,16,65, 129
+2018-11-03 07:44:40 +0000,1,Cassidy,C,Possession,2,14,16,53, 144
+2018-11-03 07:44:43 +0000,1,Cassidy,C,Assist - Circle Entry,2,14,16,53, 144
+2018-11-03 07:44:43 +0000,1,Aiken,GS,Possession,2,14,16,51, 172
+2018-11-03 07:44:45 +0000,1,Nevins,WA,Possession,2,14,16,80, 184
+2018-11-03 07:44:53 +0000,0,Price,WD,Deflect,2,14,16,55, 167
+2018-11-03 07:44:53 +0000,1,Nevins,WA,Possession,2,14,16,73, 171
+2018-11-03 07:45:03 +0000,1,Nevins,WA,Assist - Circle Entry,2,14,16,73, 171
+2018-11-03 07:45:04 +0000,0,Poolman ,GK,Gain - Inter,2,14,16,54, 188
+2018-11-03 07:45:10 +0000,0,Bulley ,GD,Possession,2,14,16,19, 140
+2018-11-03 07:45:12 +0000,0,Price,WD,Possession,2,14,16,72, 105
+2018-11-03 07:45:14 +0000,0,Green,WA,Possession,2,14,16,63, 74
+2018-11-03 07:45:17 +0000,0,Harten ,GA,Possession,2,14,16,45, 52
+2018-11-03 07:45:22 +0000,0,Price,WD,Loss - Bad Pass,2,14,16,82, 73
+2018-11-03 07:45:25 +0000,1,Geitz,GK,Throw In,2,14,16,91, -3
+2018-11-03 07:45:32 +0000,1,Hinchliffe,GD,Possession,2,14,16,47, 31
+2018-11-03 07:45:33 +0000,1,Simpson,WD,Possession,2,14,16,49, 51
+2018-11-03 07:45:36 +0000,1,Cassidy,C,Possession,2,14,16,17, 55
+2018-11-03 07:45:38 +0000,1,Hinchliffe,GD,Possession,2,14,16,84, 71
+2018-11-03 07:45:40 +0000,1,Simpson,WD,Possession,2,14,16,47, 80
+2018-11-03 07:45:44 +0000,1,Nevins,WA,Possession,2,14,16,76, 123
+2018-11-03 07:45:47 +0000,1,Simpson,WD,Loss - Bad Pass,2,14,16,70, 128
+2018-11-03 07:45:57 +0000,0,Green,WA,Throw In,2,14,16,-5, 75
+2018-11-03 07:46:04 +0000,0,Price,WD,Possession,2,14,16,15, 78
+2018-11-03 07:46:07 +0000,0,Guthrie,C,Possession,2,14,16,50, 77
+2018-11-03 07:46:09 +0000,0,Green,WA,Possession,2,14,16,26, 34
+2018-11-03 07:46:12 +0000,0,Green,WA,Assist - Circle Entry,2,14,16,26, 34
+2018-11-03 07:46:12 +0000,0,Harten ,GA,Goal - Score,2,14,16,66, 18
+2018-11-03 07:46:22 +0000,1,Cassidy,C,Centre Pass,2,15,16,50, 100
+2018-11-03 07:46:22 +0000,1,Nevins,WA,Assist - Centre Pass Rec,2,15,16,13, 127
+2018-11-03 07:46:25 +0000,0,Harten ,GA,Penaly - Obstruction,2,15,16,13, 127
+2018-11-03 07:46:25 +0000,1,Hinchliffe,GD,Possession,2,15,16,13, 127
+2018-11-03 07:46:31 +0000,1,Nevins,WA,Possession,2,15,16,52, 150
+2018-11-03 07:46:33 +0000,1,Nevins,WA,Assist - Circle Entry,2,15,16,52, 150
+2018-11-03 07:46:33 +0000,1,Tippett,GA,Assist - 2nd Phase,2,15,16,56, 174
+2018-11-03 07:46:35 +0000,1,Cassidy,C,Possession,2,15,16,17, 191
+2018-11-03 07:46:38 +0000,0,Bulley ,GD,Penaly - Contact,2,15,16,35, 187
+2018-11-03 07:46:38 +0000,1,Tippett,GA,Goal - Score,2,15,16,35, 187
+2018-11-03 07:46:54 +0000,0,Guthrie,C,Centre Pass,2,15,17,50, 100
+2018-11-03 07:46:54 +0000,0,Green,WA,Assist - Centre Pass Rec,2,15,17,25, 81
+2018-11-03 07:47:00 +0000,0,Harten ,GA,Assist - 2nd Phase,2,15,17,55, 38
+2018-11-03 07:47:05 +0000,0,Guthrie,C,Possession,2,15,17,76, 26
+2018-11-03 07:47:08 +0000,0,Guthrie,C,Assist - Circle Entry,2,15,17,76, 26
+2018-11-03 07:47:08 +0000,0,Brice,GS,Possession,2,15,17,34, 8
+2018-11-03 07:47:11 +0000,0,Guthrie,C,Possession,2,15,17,45, 36
+2018-11-03 07:47:15 +0000,0,Guthrie,C,Assist - Circle Entry,2,15,17,45, 36
+2018-11-03 07:47:15 +0000,0,Harten ,GA,Possession,2,15,17,41, 17
+2018-11-03 07:47:16 +0000,1,Hinchliffe,GD,Penaly - Contact,2,15,17,41, 17
+2018-11-03 07:47:17 +0000,0,Harten ,GA,Possession,2,15,17,41, 17
+2018-11-03 07:47:23 +0000,0,Brice,GS,Goal - Score,2,15,17,50, 7
+2018-11-03 07:47:53 +0000,1,Cassidy,C,Centre Pass,2,16,17,50, 100
+2018-11-03 07:47:53 +0000,0,Green,WA,Gain - Tip (Deflect),2,16,17,92, 118
+2018-11-03 07:48:13 +0000,1,Simpson,WD,Deflect,2,16,17,96, 130
+2018-11-03 07:48:13 +0000,0,Poolman ,GK,Throw In,2,16,17,103, 139
+2018-11-03 07:48:18 +0000,0,Bulley ,GD,Possession,2,16,17,81, 148
+2018-11-03 07:48:22 +0000,0,Price,WD,Possession,2,16,17,21, 113
+2018-11-03 07:48:25 +0000,0,Green,WA,Possession,2,16,17,32, 88
+2018-11-03 07:48:27 +0000,0,Guthrie,C,Possession,2,16,17,90, 19
+2018-11-03 07:48:29 +0000,0,Harten ,GA,Possession,2,16,17,51, 36
+2018-11-03 07:48:31 +0000,0,Green,WA,Possession,2,16,17,34, 33
+2018-11-03 07:48:33 +0000,0,Green,WA,Assist - Circle Entry,2,16,17,34, 33
+2018-11-03 07:48:33 +0000,0,Brice,GS,Goal - Score,2,16,17,58, 9
+2018-11-03 07:48:40 +0000,1,,UNKNOWN,Timeout,2,17,17,-10, -22
+2018-11-03 07:49:10 +0000,0,Guthrie,C,Centre Pass,2,17,17,50, 100
+2018-11-03 07:49:10 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,17,17,77, 73
+2018-11-03 07:49:13 +0000,0,Guthrie,C,Assist - 2nd Phase,2,17,17,48, 74
+2018-11-03 07:49:49 +0000,0,Green,WA,Possession,2,17,17,23, 54
+2018-11-03 07:49:51 +0000,0,Harten ,GA,Possession,2,17,17,52, 55
+2018-11-03 07:50:11 +0000,0,Harten ,GA,Assist - Circle Entry,2,17,17,52, 55
+2018-11-03 07:50:11 +0000,0,Brice,GS,Possession,2,17,17,55, 23
+2018-11-03 07:50:14 +0000,0,Green,WA,Possession,2,17,17,54, 36
+2018-11-03 07:50:16 +0000,0,Guthrie,C,Possession,2,17,17,80, 17
+2018-11-03 07:50:21 +0000,1,Hinchliffe,GD,Penaly - Contact,2,17,17,49, 23
+2018-11-03 07:50:22 +0000,0,Harten ,GA,Possession,2,17,17,49, 23
+2018-11-03 07:50:30 +0000,0,Brice,GS,Possession,2,17,17,43, 8
+2018-11-03 07:50:37 +0000,1,,UNKNOWN,Penaly - Obstruction,2,17,17,43, 8
+2018-11-03 07:50:37 +0000,0,Brice,GS,Goal - Miss,2,17,17,43, 8
+2018-11-03 07:50:43 +0000,1,Geitz,GK,Gain - Def Reb,2,17,17,50, 2
+2018-11-03 07:50:47 +0000,1,Cassidy,C,Possession,2,17,17,59, 54
+2018-11-03 07:50:49 +0000,1,Tippett,GA,Possession,2,17,17,78, 97
+2018-11-03 07:50:52 +0000,1,Cassidy,C,Possession,2,17,17,51, 82
+2018-11-03 07:50:55 +0000,1,Nevins,WA,Possession,2,17,17,70, 127
+2018-11-03 07:50:58 +0000,0,Price,WD,Penaly - Contact,2,17,17,70, 127
+2018-11-03 07:50:58 +0000,1,Simpson,WD,Possession,2,17,17,70, 127
+2018-11-03 07:51:08 +0000,1,Nevins,WA,Possession,2,17,17,75, 161
+2018-11-03 07:51:11 +0000,1,Nevins,WA,Assist - Circle Entry,2,17,17,75, 161
+2018-11-03 07:51:11 +0000,1,Aiken,GS,Possession,2,17,17,55, 182
+2018-11-03 07:51:14 +0000,1,Nevins,WA,Possession,2,17,17,74, 175
+2018-11-03 07:51:16 +0000,1,Nevins,WA,Assist - Circle Entry,2,17,17,74, 175
+2018-11-03 07:51:17 +0000,1,Tippett,GA,Goal - Score,2,17,17,52, 187
+2018-11-03 07:51:25 +0000,1,Cassidy,C,Centre Pass,2,17,18,50, 100
+2018-11-03 07:51:25 +0000,1,Nevins,WA,Assist - Centre Pass Rec,2,17,18,36, 124
+2018-11-03 07:51:26 +0000,1,Cassidy,C,Assist - 2nd Phase,2,17,18,46, 125
+2018-11-03 07:51:28 +0000,1,Aiken,GS,Possession,2,17,18,50, 159
+2018-11-03 07:51:49 +0000,0,Guthrie,C,Loss - Offside,2,17,18,23, 178
+2018-11-03 07:51:55 +0000,1,Tippett,GA,Possession,2,17,18,23, 178
+2018-11-03 07:52:00 +0000,1,Nevins,WA,Possession,2,17,18,22, 179
+2018-11-03 07:52:10 +0000,1,Nevins,WA,Assist - Circle Entry,2,17,18,22, 179
+2018-11-03 07:52:10 +0000,1,Aiken,GS,Loss - Replay,2,17,18,36, 188
+2018-11-03 07:52:15 +0000,0,Poolman ,GK,Possession,2,17,18,35, 188
+2018-11-03 07:52:27 +0000,1,Aiken,GS,Penaly - Obstruction,2,17,18,35, 188
+2018-11-03 07:52:27 +0000,0,Poolman ,GK,Possession,2,17,18,35, 188
+2018-11-03 07:52:35 +0000,0,Guthrie,C,Possession,2,17,18,60, 129
+2018-11-03 07:52:37 +0000,0,Bulley ,GD,Possession,2,17,18,89, 120
+2018-11-03 07:52:41 +0000,1,Simpson,WD,Penaly - Contact,2,17,18,82, 94
+2018-11-03 07:52:41 +0000,0,Bulley ,GD,Possession,2,17,18,82, 94
+2018-11-03 07:52:48 +0000,0,Green,WA,Possession,2,17,18,91, 39
+2018-11-03 07:52:51 +0000,0,Green,WA,Assist - Circle Entry,2,17,18,91, 39
+2018-11-03 07:52:51 +0000,0,Harten ,GA,Goal - Score,2,17,18,37, 7
+2018-11-03 07:53:02 +0000,0,Guthrie,C,Centre Pass,2,18,18,50, 100
+2018-11-03 07:53:02 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,2,18,18,23, 101
+2018-11-03 07:53:08 +0000,1,Simpson,WD,Penaly - Contact,2,18,18,33, 58
+2018-11-03 07:53:08 +0000,0,Green,WA,Assist - 2nd Phase,2,18,18,33, 58
+2018-11-03 07:53:15 +0000,0,Green,WA,Assist - Circle Entry,2,18,18,33, 58
+2018-11-03 07:53:15 +0000,0,Harten ,GA,Possession,2,18,18,31, 12
+2018-11-03 07:53:17 +0000,0,Brice,GS,Goal - Score,2,18,18,54, 8
+2018-11-03 07:53:26 +0000,1,Cassidy,C,Centre Pass,2,19,18,50, 100
+2018-11-03 07:53:26 +0000,1,Simpson,WD,Assist - Centre Pass Rec,2,19,18,98, 113
+2018-11-03 07:53:29 +0000,1,Nevins,WA,Assist - 2nd Phase,2,19,18,16, 162
+2018-11-03 07:53:33 +0000,1,Nevins,WA,Assist - Circle Entry,2,19,18,16, 162
+2018-11-03 07:53:33 +0000,1,Aiken,GS,Possession,2,19,18,24, 190
+2018-11-03 07:53:35 +0000,1,Nevins,WA,Possession,2,19,18,20, 175
+2018-11-03 07:53:38 +0000,1,Nevins,WA,Assist - Circle Entry,2,19,18,20, 175
+2018-11-03 07:53:38 +0000,1,Aiken,GS,Goal - Score,2,19,18,38, 196
+2018-11-03 07:53:49 +0000,0,Guthrie,C,Centre Pass,2,19,19,50, 100
+2018-11-03 07:53:49 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,2,19,19,12, 84
+2018-11-03 07:53:52 +0000,0,Price,WD,Assist - 2nd Phase,2,19,19,84, 73
+2018-11-03 07:53:54 +0000,0,Guthrie,C,Possession,2,19,19,85, 58
+2018-11-03 07:53:56 +0000,0,Brice,GS,Possession,2,19,19,76, 36
+2018-11-03 07:53:59 +0000,0,Green,WA,Possession,2,19,19,52, 35
+2018-11-03 07:54:04 +0000,0,Green,WA,Assist - Circle Entry,2,19,19,52, 35
+2018-11-03 07:54:04 +0000,0,Brice,GS,Possession,2,19,19,68, 9
+2018-11-03 07:54:06 +0000,0,Green,WA,Possession,2,19,19,56, 35
+2018-11-03 07:54:09 +0000,0,Green,WA,Assist - Circle Entry,2,19,19,56, 35
+2018-11-03 07:54:09 +0000,0,Harten ,GA,Possession,2,19,19,63, 9
+2018-11-03 07:54:11 +0000,0,Brice,GS,Goal - Score,2,19,19,50, 12
+2018-11-03 07:54:19 +0000,1,Cassidy,C,Centre Pass,2,20,19,50, 100
+2018-11-03 07:54:19 +0000,1,Tippett,GA,Assist - Centre Pass Rec,2,20,19,87, 124
+2018-11-03 07:54:29 +0000,1,Hinchliffe,GD,Assist - 2nd Phase,2,20,19,5, 117
+2018-11-03 07:54:31 +0000,0,Poolman ,GK,Gain - Inter,2,20,19,39, 152
+2018-11-03 07:54:38 +0000,0,Green,WA,Possession,2,20,19,82, 102
+2018-11-03 07:54:42 +0000,0,Harten ,GA,Possession,2,20,19,18, 46
+2018-11-03 07:54:46 +0000,0,Harten ,GA,Assist - Circle Entry,2,20,19,18, 46
+2018-11-03 07:54:46 +0000,0,Brice,GS,Goal - Score,2,20,19,54, 10
+2018-11-03 07:54:59 +0000,0,Guthrie,C,Centre Pass,2,21,19,50, 100
+2018-11-03 07:54:59 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,2,21,19,13, 75
+2018-11-03 07:55:01 +0000,0,Harten ,GA,Assist - 2nd Phase,2,21,19,13, 54
+2018-11-03 07:55:05 +0000,0,Guthrie,C,Possession,2,21,19,79, 23
+2018-11-03 07:55:07 +0000,0,Guthrie,C,Assist - Circle Entry,2,21,19,79, 23
+2018-11-03 07:55:07 +0000,0,Harten ,GA,Possession,2,21,19,64, 10
+2018-11-03 07:55:08 +0000,1,Hinchliffe,GD,Penaly - Contact,2,21,19,64, 10
+2018-11-03 07:55:08 +0000,0,Harten ,GA,Goal - Score,2,21,19,64, 10
+2018-11-03 07:55:16 +0000,1,Cassidy,C,Centre Pass,2,22,19,50, 100
+2018-11-03 07:55:16 +0000,1,Tippett,GA,Assist - Centre Pass Rec,2,22,19,92, 123
+2018-11-03 07:55:19 +0000,1,Nevins,WA,Assist - 2nd Phase,2,22,19,56, 144
+2018-11-03 07:55:21 +0000,1,Nevins,WA,Assist - Circle Entry,2,22,19,56, 144
+2018-11-03 07:55:21 +0000,1,Aiken,GS,Possession,2,22,19,50, 180
+2018-11-03 07:55:23 +0000,1,Nevins,WA,Possession,2,22,19,16, 189
+2018-11-03 07:55:26 +0000,1,Nevins,WA,Assist - Circle Entry,2,22,19,16, 189
+2018-11-03 07:55:26 +0000,1,Aiken,GS,Possession,2,22,19,41, 196
+2018-11-03 07:55:29 +0000,0,Poolman ,GK,Penaly - Obstruction,2,22,19,41, 196
+2018-11-03 07:55:29 +0000,1,Aiken,GS,Goal - Score,2,22,19,41, 196
+2018-11-03 07:55:39 +0000,0,Guthrie,C,Centre Pass,2,22,20,50, 100
+2018-11-03 07:55:39 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,22,20,31, 75
+2018-11-03 07:55:41 +0000,0,Green,WA,Assist - 2nd Phase,2,22,20,20, 37
+2018-11-03 07:55:43 +0000,0,Harten ,GA,Possession,2,22,20,37, 41
+2018-11-03 07:55:45 +0000,0,Green,WA,Possession,2,22,20,17, 14
+2018-11-03 07:55:48 +0000,0,Guthrie,C,Possession,2,22,20,80, 20
+2018-11-03 07:56:21 +0000,0,Guthrie,C,Assist - Circle Entry,2,22,20,80, 20
+2018-11-03 07:56:21 +0000,1,Hinchliffe,GD,Gain - Tip (Deflect),2,22,20,76, 12
+2018-11-03 07:56:33 +0000,1,Cassidy,C,Possession,2,22,20,86, 6
+2018-11-03 07:56:37 +0000,1,Hinchliffe,GD,Possession,2,22,20,85, 49
+2018-11-03 07:56:49 +0000,0,Guthrie,C,Penaly - Obstruction,2,22,20,85, 49
+2018-11-03 07:56:49 +0000,1,Geitz,GK,Possession,2,22,20,85, 49
+2018-11-03 07:56:57 +0000,1,Cassidy,C,Possession,2,22,20,75, 111
+2018-11-03 07:57:01 +0000,1,Tippett,GA,Possession,2,22,20,40, 124
+2018-11-03 07:57:05 +0000,1,Simpson,WD,Possession,2,22,20,64, 83
+2018-11-03 07:57:07 +0000,1,Tippett,GA,Possession,2,22,20,69, 121
+2018-11-03 07:57:10 +0000,1,Cassidy,C,Possession,2,22,20,85, 131
+2018-11-03 07:57:12 +0000,1,Tippett,GA,Possession,2,22,20,67, 148
+2018-11-03 07:57:14 +0000,1,Nevins,WA,Possession,2,22,20,34, 163
+2018-11-03 07:57:16 +0000,1,Nevins,WA,Assist - Circle Entry,2,22,20,34, 163
+2018-11-03 07:57:17 +0000,1,Tippett,GA,Goal - Score,2,22,20,42, 185
+2018-11-03 07:57:24 +0000,0,,UNKNOWN,Timeout,2,22,21,-10, -22
+2018-11-03 07:57:30 +0000,1,Cassidy,C,Centre Pass,2,22,21,50, 100
+2018-11-03 07:57:30 +0000,1,Nevins,WA,Assist - Centre Pass Rec,2,22,21,13, 126
+2018-11-03 07:57:34 +0000,1,Aiken,GS,Assist - 2nd Phase,2,22,21,10, 178
+2018-11-03 07:57:36 +0000,1,Nevins,WA,Possession,2,22,21,11, 167
+2018-11-03 07:57:44 +0000,0,Harten ,GA,Deflect,2,22,21,11, 133
+2018-11-03 07:57:44 +0000,1,Nevins,WA,Possession,2,22,21,11, 147
+2018-11-03 07:57:51 +0000,1,Tippett,GA,Possession,2,22,21,44, 163
+2018-11-03 07:57:58 +0000,1,Cassidy,C,Possession,2,22,21,82, 189
+2018-11-03 07:58:03 +0000,1,Cassidy,C,Assist - Circle Entry,2,22,21,82, 189
+2018-11-03 07:58:03 +0000,1,Tippett,GA,Possession,2,22,21,68, 188
+2018-11-03 07:58:06 +0000,1,Cassidy,C,Possession,2,22,21,84, 190
+2018-11-03 07:58:09 +0000,1,Cassidy,C,Assist - Circle Entry,2,22,21,84, 190
+2018-11-03 07:58:09 +0000,1,Tippett,GA,Goal - Score,2,22,21,48, 173
+2018-11-03 07:58:20 +0000,0,Guthrie,C,Centre Pass,2,22,22,50, 100
+2018-11-03 07:58:20 +0000,0,Green,WA,Assist - Centre Pass Rec,2,22,22,68, 88
+2018-11-03 07:58:22 +0000,0,Guthrie,C,Assist - 2nd Phase,2,22,22,44, 71
+2018-11-03 07:58:49 +0000,0,Green,WA,Possession,2,22,22,55, 74
+2018-11-03 07:58:51 +0000,0,Harten ,GA,Possession,2,22,22,59, 46
+2018-11-03 07:58:54 +0000,1,Geitz,GK,Penaly - Contact,2,22,22,51, 23
+2018-11-03 07:58:54 +0000,0,Harten ,GA,Possession,2,22,22,51, 23
+2018-11-03 07:59:02 +0000,0,Brice,GS,Goal - Score,2,22,22,53, 8
+2018-11-03 07:59:10 +0000,1,Cassidy,C,Centre Pass,2,23,22,50, 100
+2018-11-03 07:59:11 +0000,1,Simpson,WD,Assist - Centre Pass Rec,2,23,22,30, 121
+2018-11-03 07:59:14 +0000,1,Nevins,WA,Assist - 2nd Phase,2,23,22,12, 165
+2018-11-03 07:59:17 +0000,1,Simpson,WD,Possession,2,23,22,18, 131
+2018-11-03 07:59:20 +0000,1,Cassidy,C,Possession,2,23,22,74, 172
+2018-11-03 07:59:23 +0000,1,Cassidy,C,Assist - Circle Entry,2,23,22,74, 172
+2018-11-03 07:59:23 +0000,1,Tippett,GA,Goal - Score,2,23,22,56, 190
+2018-11-03 07:59:40 +0000,0,Guthrie,C,Centre Pass,2,23,23,50, 100
+2018-11-03 07:59:40 +0000,1,Tippett,GA,Gain - Tip (Deflect),2,23,23,28, 72
+2018-11-03 07:59:46 +0000,1,Geitz,GK,Possession,2,23,23,41, 27
+2018-11-03 07:59:49 +0000,1,Hinchliffe,GD,Possession,2,23,23,72, 45
+2018-11-03 07:59:54 +0000,1,Simpson,WD,Possession,2,23,23,44, 62
+2018-11-03 07:59:56 +0000,1,Geitz,GK,Possession,2,23,23,15, 61
+2018-11-03 08:00:04 +0000,1,Cassidy,C,Possession,2,23,23,15, 97
+2018-11-03 08:00:06 +0000,1,Simpson,WD,Possession,2,23,23,8, 132
+2018-11-03 08:00:13 +0000,0,Harten ,GA,Gain - Inter,2,23,23,35, 102
+2018-11-03 08:00:20 +0000,0,Bulley ,GD,Possession,2,23,23,94, 107
+2018-11-03 08:00:22 +0000,0,Guthrie,C,Possession,2,23,23,93, 61
+2018-11-03 08:00:25 +0000,0,Bulley ,GD,Possession,2,23,23,84, 71
+2018-11-03 08:00:29 +0000,0,Guthrie,C,Possession,2,23,23,80, 58
+2018-11-03 08:00:33 +0000,1,Cassidy,C,Penaly - Contact,2,23,23,80, 58
+2018-11-03 08:00:33 +0000,0,Guthrie,C,Possession,2,23,23,80, 58
+2018-11-03 08:00:39 +0000,0,Harten ,GA,Possession,2,23,23,62, 33
+2018-11-03 08:00:48 +0000,1,Geitz,GK,Deflect,2,23,23,33, 7
+2018-11-03 08:00:49 +0000,0,Green,WA,Possession,2,23,23,20, 18
+2018-11-03 08:01:44 +0000,0,Green,WA,Assist - Circle Entry,2,23,23,20, 18
+2018-11-03 08:02:08 +0000,0,Brice,GS,Loss - Off Contact,2,23,23,32, 8
+2018-11-03 08:02:14 +0000,1,Geitz,GK,Possession,2,23,23,30, 8
+2018-11-03 08:02:32 +0000,0,Guthrie,C,Gain - Tip (Deflect),2,23,23,50, 86
+2018-11-03 08:02:41 +0000,0,Price,WD,Possession,2,23,23,49, 98
+2018-11-03 08:02:44 +0000,0,Guthrie,C,Possession,2,23,23,57, 71
+2018-11-03 08:02:50 +0000,0,Bulley ,GD,Possession,2,23,23,44, 73
+2018-11-03 08:02:52 +0000,0,Guthrie,C,Possession,2,23,23,40, 41
+2018-11-03 08:02:57 +0000,0,Guthrie,C,Assist - Circle Entry,2,23,23,40, 41
+2018-11-03 08:02:57 +0000,0,Brice,GS,Possession,2,23,23,57, 11
+2018-11-03 08:02:59 +0000,1,Geitz,GK,Penaly - Contact,2,23,23,57, 11
+2018-11-03 08:02:59 +0000,0,Brice,GS,Goal - Score,2,23,23,57, 11
+2018-11-03 08:03:08 +0000,1,Cassidy,C,Centre Pass,2,24,23,50, 100
+2018-11-03 08:03:08 +0000,1,Tippett,GA,Assist - Centre Pass Rec,2,24,23,88, 127
+2018-11-03 08:03:09 +0000,1,Cassidy,C,Assist - 2nd Phase,2,24,23,71, 116
+2018-11-03 08:03:11 +0000,1,Nevins,WA,Possession,2,24,23,86, 143
+2018-11-03 08:03:14 +0000,1,Nevins,WA,Assist - Circle Entry,2,24,23,86, 143
+2018-11-03 08:03:14 +0000,1,Aiken,GS,Possession,2,24,23,71, 185
+2018-11-03 08:03:25 +0000,1,Tippett,GA,Goal - Score,2,24,23,48, 194
+2018-11-03 08:03:32 +0000,0,Guthrie,C,Centre Pass,2,24,24,50, 100
+2018-11-03 08:03:32 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,24,24,78, 70
+2018-11-03 08:03:35 +0000,0,Harten ,GA,Assist - Circle Entry,2,24,24,78, 70
+2018-11-03 08:03:35 +0000,0,Brice,GS,Goal - Score,2,24,24,51, 7
+2018-11-03 08:03:44 +0000,1,Cassidy,C,Centre Pass,2,25,24,50, 100
+2018-11-03 08:03:44 +0000,1,Nevins,WA,Assist - Centre Pass Rec,2,25,24,20, 128
+2018-11-03 08:03:47 +0000,1,Aiken,GS,Assist - 2nd Phase,2,25,24,13, 175
+2018-11-03 08:03:49 +0000,1,Cassidy,C,Possession,2,25,24,29, 172
+2018-11-03 08:03:51 +0000,1,Cassidy,C,Assist - Circle Entry,2,25,24,29, 172
+2018-11-03 08:03:51 +0000,1,Aiken,GS,Possession,2,25,24,39, 196
+2018-11-03 08:03:55 +0000,1,Nevins,WA,Possession,2,25,24,79, 181
+2018-11-03 08:03:58 +0000,0,Guthrie,C,Penaly - Contact,2,25,24,79, 181
+2018-11-03 08:03:58 +0000,1,Nevins,WA,Possession,2,25,24,79, 181
+2018-11-03 08:04:06 +0000,1,Nevins,WA,Assist - Circle Entry,2,25,24,79, 181
+2018-11-03 08:04:06 +0000,1,Tippett,GA,Goal - Miss,2,25,24,64, 189
+2018-11-03 08:04:41 +0000,0,Bulley ,GD,Gain - Def Reb,2,25,24,50, 197
+2018-11-03 08:04:50 +0000,0,Guthrie,C,Possession,2,25,24,85, 131
+2018-11-03 08:04:54 +0000,1,Simpson,WD,Penaly - Contact,2,25,24,85, 131
+2018-11-03 08:04:54 +0000,0,Price,WD,Possession,2,25,24,85, 131
+2018-11-03 08:05:03 +0000,0,Bulley ,GD,Possession,2,25,24,22, 85
+2018-11-03 08:05:06 +0000,0,Guthrie,C,Possession,2,25,24,22, 63
+2018-11-03 08:05:10 +0000,1,Cassidy,C,Penaly - Contact,2,25,24,22, 63
+2018-11-03 08:05:11 +0000,0,Guthrie,C,Possession,2,25,24,22, 63
+2018-11-03 08:05:16 +0000,0,Guthrie,C,Assist - Circle Entry,2,25,24,22, 63
+2018-11-03 08:05:16 +0000,0,Harten ,GA,Possession,2,25,24,79, 9
+2018-11-03 08:05:18 +0000,0,Green,WA,Possession,2,25,24,81, 19
+2018-11-03 08:05:21 +0000,0,Green,WA,Assist - Circle Entry,2,25,24,81, 19
+2018-11-03 08:05:21 +0000,0,Harten ,GA,Goal - Score,2,25,24,71, 8
+2018-11-03 08:05:29 +0000,0,Guthrie,C,Centre Pass,2,26,24,50, 100
+2018-11-03 08:05:29 +0000,0,Green,WA,Assist - Centre Pass Rec,2,26,24,74, 82
+2018-11-03 08:05:32 +0000,0,Guthrie,C,Assist - 2nd Phase,2,26,24,91, 37
+2018-11-03 08:05:34 +0000,1,Cassidy,C,Penaly - Contact,2,26,24,91, 37
+2018-11-03 08:05:34 +0000,0,Guthrie,C,Possession,2,26,24,91, 37
+2018-11-03 08:05:45 +0000,0,Guthrie,C,Assist - Circle Entry,2,26,24,91, 37
+2018-11-03 08:05:45 +0000,0,Harten ,GA,Possession,2,26,24,74, 21
+2018-11-03 08:05:47 +0000,0,Green,WA,Possession,2,26,24,23, 22
+2018-11-03 08:05:50 +0000,0,Green,WA,Assist - Circle Entry,2,26,24,23, 22
+2018-11-03 08:05:50 +0000,0,Harten ,GA,Possession,2,26,24,32, 14
+2018-11-03 08:05:51 +0000,1,Hinchliffe,GD,Penaly - Contact,2,26,24,32, 14
+2018-11-03 08:05:52 +0000,0,Harten ,GA,Possession,2,26,24,32, 14
+2018-11-03 08:05:55 +0000,0,Brice,GS,Possession,2,26,24,54, 12
+2018-11-03 08:05:56 +0000,1,Geitz,GK,Penaly - Obstruction,2,26,24,54, 12
+2018-11-03 08:05:56 +0000,0,Brice,GS,Goal - Score,2,26,24,54, 12
+2018-11-03 08:06:05 +0000,1,Cassidy,C,Centre Pass,2,27,24,50, 100
+2018-11-03 08:06:05 +0000,1,Simpson,WD,Assist - Centre Pass Rec,2,27,24,94, 101
+2018-11-03 08:06:07 +0000,1,Nevins,WA,Assist - 2nd Phase,2,27,24,30, 159
+2018-11-03 08:06:09 +0000,1,Nevins,WA,Assist - Circle Entry,2,27,24,30, 159
+2018-11-03 08:06:10 +0000,1,Aiken,GS,Goal - Score,2,27,24,43, 192
+2018-11-03 08:06:22 +0000,0,Guthrie,C,Centre Pass,2,27,25,50, 100
+2018-11-03 08:06:29 +0000,0,Guthrie,C,Centre Pass,2,27,25,50, 100
+2018-11-03 08:06:29 +0000,0,Price,WD,Assist - Centre Pass Rec,2,27,25,14, 76
+2018-11-03 08:06:34 +0000,0,Green,WA,Assist - 2nd Phase,2,27,25,13, 53
+2018-11-03 08:06:36 +0000,0,Price,WD,Possession,2,27,25,21, 70
+2018-11-03 08:06:39 +0000,0,Green,WA,Possession,2,27,25,5, 60
+2018-11-03 08:06:41 +0000,0,Harten ,GA,Possession,2,27,25,9, 13
+2018-11-03 08:06:46 +0000,1,Hinchliffe,GD,Deflect,2,27,25,34, 3
+2018-11-03 08:06:46 +0000,0,Harten ,GA,Throw In,2,27,25,33, -5
+2018-11-03 08:06:52 +0000,1,Geitz,GK,Penaly - Obstruction,2,27,25,33, -5
+2018-11-03 08:06:52 +0000,0,Harten ,GA,Possession,2,27,25,33, -5
+2018-11-03 08:07:00 +0000,0,Harten ,GA,Assist - Circle Entry,2,27,25,33, -5
+2018-11-03 08:07:00 +0000,0,Brice,GS,Goal - Miss,2,27,25,50, 11
+2018-11-03 08:07:06 +0000,1,Geitz,GK,Gain - Def Reb,2,27,25,50, 2
+2018-11-03 08:07:08 +0000,1,Hinchliffe,GD,Possession,2,27,25,86, 13
+2018-11-03 08:07:12 +0000,1,Cassidy,C,Possession,2,27,25,91, 75
+2018-11-03 08:07:16 +0000,1,Geitz,GK,Possession,2,27,25,68, 64
+2018-11-03 08:07:18 +0000,1,Nevins,WA,Possession,2,27,25,56, 83
+2018-11-03 08:07:20 +0000,1,Hinchliffe,GD,Possession,2,27,25,85, 99
+2018-11-03 08:07:27 +0000,0,Harten ,GA,Penaly - Obstruction,2,27,25,85, 99
+2018-11-03 08:07:28 +0000,1,Simpson,WD,Possession,2,27,25,85, 99
+2018-11-03 08:07:35 +0000,1,Aiken,GS,Possession,2,27,25,39, 150
+2018-11-03 08:07:37 +0000,1,Aiken,GS,Assist - Circle Entry,2,27,25,39, 150
+2018-11-03 08:07:38 +0000,1,Tippett,GA,Goal - Score,2,27,25,54, 192
+2018-11-03 08:07:48 +0000,1,Cassidy,C,Centre Pass,2,27,26,50, 100
+2018-11-03 08:07:48 +0000,1,Simpson,WD,Assist - Centre Pass Rec,2,27,26,50, 88
+2018-11-03 08:07:50 +0000,1,Hinchliffe,GD,Assist - 2nd Phase,2,27,26,86, 101
+2018-11-03 08:07:52 +0000,1,Simpson,WD,Possession,2,27,26,66, 116
+2018-11-03 08:07:55 +0000,1,Aiken,GS,Loss - Bad Pass,2,27,26,29, 165
+2018-11-03 08:07:58 +0000,0,Poolman ,GK,Throw In,2,27,26,68, 205
+2018-11-03 08:08:02 +0000,0,Bulley ,GD,Possession,2,27,26,75, 170
+2018-11-03 08:08:04 +0000,0,Poolman ,GK,Possession,2,27,26,21, 159
+2018-11-03 08:08:05 +0000,0,Guthrie,C,Possession,2,27,26,11, 96
+2018-11-03 08:08:07 +0000,0,Green,WA,Possession,2,27,26,13, 40
+2018-11-03 08:08:13 +0000,1,Geitz,GK,Deflect,2,27,26,72, 6
+2018-11-03 08:08:13 +0000,0,Harten ,GA,Throw In,2,27,26,78, -4
+2018-11-03 08:08:21 +0000,0,Harten ,GA,Assist - Circle Entry,2,27,26,78, -4
+2018-11-03 08:08:21 +0000,0,Brice,GS,Possession,2,27,26,55, 13
+2018-11-03 08:08:25 +0000,1,Geitz,GK,Penaly - Obstruction,2,27,26,55, 13
+2018-11-03 08:08:25 +0000,0,Brice,GS,Possession,2,27,26,55, 13
+2018-11-03 08:08:33 +0000,1,Hinchliffe,GD,Penaly - Contact,2,27,26,55, 13
+2018-11-03 08:08:33 +0000,0,Brice,GS,Goal - Score,2,27,26,55, 13
+2018-11-03 08:22:34 +0000,0,Poolman ,UNKNOWN,Interchange - Manu’a,3,28,26,
+2018-11-03 08:22:34 +0000,0,Cassidy,UNKNOWN,Interchange - Mi Mi,3,28,26,
+2018-11-03 08:23:00 +0000,0,Guthrie,C,Centre Pass,3,28,26,50, 100
+2018-11-03 08:23:00 +0000,1,Simpson,WD,Deflect,3,28,26,7, 97
+2018-11-03 08:23:08 +0000,0,Bulley ,GD,Throw In,3,28,26,-4, 91
+2018-11-03 08:23:25 +0000,0,Manu’a,GK,Possession,3,28,26,13, 134
+2018-11-03 08:23:27 +0000,0,Bulley ,GD,Possession,3,28,26,13, 120
+2018-11-03 08:23:29 +0000,0,Price,WD,Possession,3,28,26,66, 86
+2018-11-03 08:23:32 +0000,0,Green,WA,Possession,3,28,26,94, 76
+2018-11-03 08:23:36 +0000,0,Guthrie,C,Possession,3,28,26,89, 35
+2018-11-03 08:23:38 +0000,0,Harten ,GA,Possession,3,28,26,82, 14
+2018-11-03 08:23:46 +0000,0,Harten ,GA,Assist - Circle Entry,3,28,26,82, 14
+2018-11-03 08:25:14 +0000,0,Brice,GS,Goal - Miss,3,28,26,50, 10
+2018-11-03 08:25:24 +0000,0,Harten ,GA,Deflect,3,28,26,50, 2
+2018-11-03 08:25:28 +0000,1,Simpson,WD,Loss - Offside,3,28,26,57, 29
+2018-11-03 08:25:39 +0000,0,Harten ,GA,Possession,3,28,26,56, 30
+2018-11-03 08:25:50 +0000,0,Brice,GS,Goal - Score,3,28,26,41, 6
+2018-11-03 08:25:58 +0000,1,Mi Mi,C,Centre Pass,3,29,26,50, 100
+2018-11-03 08:25:58 +0000,1,Tippett,GA,Assist - Centre Pass Rec,3,29,26,31, 120
+2018-11-03 08:26:01 +0000,1,Mi Mi,C,Assist - 2nd Phase,3,29,26,14, 169
+2018-11-03 08:26:06 +0000,1,Mi Mi,C,Assist - Circle Entry,3,29,26,14, 169
+2018-11-03 08:26:06 +0000,0,Manu’a,GK,Gain - Inter,3,29,26,65, 192
+2018-11-03 08:26:13 +0000,1,Aiken,GS,Penaly - Contact,3,29,26,65, 192
+2018-11-03 08:26:13 +0000,0,Manu’a,GK,Possession,3,29,26,65, 192
+2018-11-03 08:26:21 +0000,0,Bulley ,GD,Possession,3,29,26,88, 109
+2018-11-03 08:26:23 +0000,0,Green,WA,Possession,3,29,26,48, 115
+2018-11-03 08:26:28 +0000,0,Price,WD,Possession,3,29,26,89, 85
+2018-11-03 08:26:32 +0000,0,Harten ,GA,Possession,3,29,26,87, 66
+2018-11-03 08:26:37 +0000,0,Green,WA,Possession,3,29,26,15, 63
+2018-11-03 08:26:40 +0000,0,Bulley ,GD,Possession,3,29,26,24, 67
+2018-11-03 08:26:42 +0000,0,Green,WA,Possession,3,29,26,36, 42
+2018-11-03 08:26:45 +0000,0,Guthrie,C,Possession,3,29,26,78, 18
+2018-11-03 08:27:26 +0000,0,Guthrie,C,Assist - Circle Entry,3,29,26,78, 18
+2018-11-03 08:27:26 +0000,1,Geitz,GK,Gain - Tip (Deflect),3,29,26,42, 18
+2018-11-03 08:27:33 +0000,1,Simpson,WD,Deflect,3,29,26,41, 31
+2018-11-03 08:27:38 +0000,1,Geitz,GK,Possession,3,29,26,49, 25
+2018-11-03 08:27:43 +0000,1,Simpson,WD,Possession,3,29,26,42, 45
+2018-11-03 08:27:47 +0000,1,Tippett,GA,Possession,3,29,26,54, 125
+2018-11-03 08:27:50 +0000,1,Hinchliffe,GD,Possession,3,29,26,82, 128
+2018-11-03 08:27:52 +0000,1,Tippett,GA,Possession,3,29,26,76, 170
+2018-11-03 08:27:56 +0000,1,Tippett,GA,Assist - Circle Entry,3,29,26,76, 170
+2018-11-03 08:27:56 +0000,1,Aiken,GS,Possession,3,29,26,47, 173
+2018-11-03 08:27:58 +0000,1,Tippett,GA,Goal - Score,3,29,26,53, 193
+2018-11-03 08:28:14 +0000,0,Guthrie,C,Centre Pass,3,29,27,50, 100
+2018-11-03 08:28:14 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,3,29,27,23, 74
+2018-11-03 08:28:21 +0000,0,Green,WA,Assist - 2nd Phase,3,29,27,51, 68
+2018-11-03 08:28:24 +0000,0,Guthrie,C,Possession,3,29,27,90, 7
+2018-11-03 08:28:27 +0000,0,Price,WD,Possession,3,29,27,88, 69
+2018-11-03 08:28:28 +0000,0,Guthrie,C,Possession,3,29,27,87, 56
+2018-11-03 08:28:31 +0000,0,Green,WA,Possession,3,29,27,29, 56
+2018-11-03 08:28:33 +0000,0,Harten ,GA,Possession,3,29,27,56, 48
+2018-11-03 08:29:18 +0000,1,Geitz,GK,Deflect,3,29,27,64, 10
+2018-11-03 08:29:18 +0000,0,Green,WA,Possession,3,29,27,82, 9
+2018-11-03 08:29:26 +0000,0,Harten ,GA,Possession,3,29,27,51, 34
+2018-11-03 08:29:28 +0000,0,Green,WA,Possession,3,29,27,83, 9
+2018-11-03 08:29:31 +0000,0,Green,WA,Assist - Circle Entry,3,29,27,83, 9
+2018-11-03 08:29:31 +0000,0,Brice,GS,Goal - Miss,3,29,27,58, 12
+2018-11-03 08:29:41 +0000,0,Harten ,GA,Loss - Out of Court,3,29,27,50, 2
+2018-11-03 08:29:47 +0000,1,Geitz,GK,Possession,3,29,27,50, 1
+2018-11-03 08:29:50 +0000,1,Simpson,WD,Possession,3,29,27,80, 17
+2018-11-03 08:29:58 +0000,0,Green,WA,Gain - Inter,3,29,27,50, 44
+2018-11-03 08:30:04 +0000,1,Mi Mi,C,Penaly - Contact,3,29,27,50, 44
+2018-11-03 08:30:04 +0000,0,Green,WA,Possession,3,29,27,50, 44
+2018-11-03 08:30:12 +0000,0,Green,WA,Assist - Circle Entry,3,29,27,50, 44
+2018-11-03 08:30:12 +0000,0,Brice,GS,Possession,3,29,27,59, 10
+2018-11-03 08:30:15 +0000,1,Geitz,GK,Penaly - Contact,3,29,27,59, 10
+2018-11-03 08:30:15 +0000,0,Brice,GS,Goal - Score,3,29,27,59, 10
+2018-11-03 08:31:26 +0000,0,Nevins,UNKNOWN,Interchange - Mi Mi,3,30,27,
+2018-11-03 08:31:26 +0000,0,Mi Mi,UNKNOWN,Interchange - Cassidy,3,30,27,
+2018-11-03 08:31:43 +0000,1,Cassidy,C,Centre Pass,3,30,27,50, 100
+2018-11-03 08:31:43 +0000,1,Mi Mi,WA,Assist - Centre Pass Rec,3,30,27,14, 101
+2018-11-03 08:31:48 +0000,1,Simpson,WD,Assist - 2nd Phase,3,30,27,74, 80
+2018-11-03 08:31:50 +0000,1,Tippett,GA,Possession,3,30,27,90, 120
+2018-11-03 08:31:51 +0000,1,Simpson,WD,Possession,3,30,27,63, 127
+2018-11-03 08:31:54 +0000,1,Mi Mi,WA,Possession,3,30,27,35, 161
+2018-11-03 08:31:56 +0000,1,Mi Mi,WA,Assist - Circle Entry,3,30,27,35, 161
+2018-11-03 08:31:56 +0000,1,Aiken,GS,Possession,3,30,27,32, 189
+2018-11-03 08:31:59 +0000,1,Tippett,GA,Possession,3,30,27,49, 189
+2018-11-03 08:32:01 +0000,0,Bulley ,GD,Penaly - Contact,3,30,27,49, 189
+2018-11-03 08:32:01 +0000,1,Aiken,GS,Goal - Miss,3,30,27,49, 189
+2018-11-03 08:32:12 +0000,0,Manu’a,GK,Throw In,3,30,27,50, 192
+2018-11-03 08:32:20 +0000,1,Aiken,GS,Penaly - Obstruction,3,30,27,50, 192
+2018-11-03 08:32:20 +0000,0,Manu’a,GK,Possession,3,30,27,50, 192
+2018-11-03 08:32:28 +0000,1,Mi Mi,WA,Penaly - Contact,3,30,27,18, 153
+2018-11-03 08:32:28 +0000,0,Manu’a,GK,Possession,3,30,27,18, 153
+2018-11-03 08:32:37 +0000,0,Price,WD,Possession,3,30,27,76, 139
+2018-11-03 08:32:44 +0000,0,Bulley ,GD,Possession,3,30,27,5, 74
+2018-11-03 08:32:48 +0000,0,Guthrie,C,Possession,3,30,27,7, 14
+2018-11-03 08:32:52 +0000,0,Guthrie,C,Assist - Circle Entry,3,30,27,7, 14
+2018-11-03 08:32:52 +0000,0,Harten ,GA,Goal - Score,3,30,27,30, 3
+2018-11-03 08:33:01 +0000,0,Guthrie,C,Centre Pass,3,31,27,50, 100
+2018-11-03 08:33:01 +0000,0,Green,WA,Assist - Centre Pass Rec,3,31,27,67, 86
+2018-11-03 08:33:03 +0000,0,Guthrie,C,Assist - 2nd Phase,3,31,27,79, 45
+2018-11-03 08:33:05 +0000,1,Cassidy,C,Penaly - Obstruction,3,31,27,79, 45
+2018-11-03 08:33:05 +0000,0,Guthrie,C,Possession,3,31,27,79, 45
+2018-11-03 08:33:10 +0000,0,Green,WA,Possession,3,31,27,73, 24
+2018-11-03 08:33:17 +0000,0,Green,WA,Assist - Circle Entry,3,31,27,73, 24
+2018-11-03 08:33:17 +0000,0,Brice,GS,Loss - Off Contact,3,31,27,62, 14
+2018-11-03 08:33:23 +0000,1,Geitz,GK,Possession,3,31,27,63, 13
+2018-11-03 08:34:22 +0000,1,Cassidy,C,Possession,3,31,27,44, 50
+2018-11-03 08:34:24 +0000,0,Guthrie,C,Penaly - Contact,3,31,27,44, 50
+2018-11-03 08:34:24 +0000,1,Simpson,WD,Possession,3,31,27,44, 50
+2018-11-03 08:34:33 +0000,1,Hinchliffe,GD,Possession,3,31,27,7, 99
+2018-11-03 08:35:04 +0000,1,Mi Mi,WA,Possession,3,31,27,10, 118
+2018-11-03 08:35:07 +0000,1,Simpson,WD,Possession,3,31,27,19, 113
+2018-11-03 08:35:10 +0000,0,Harten ,GA,Penaly - Contact,3,31,27,19, 113
+2018-11-03 08:35:10 +0000,1,Simpson,WD,Possession,3,31,27,19, 113
+2018-11-03 08:35:26 +0000,1,Hinchliffe,GD,Possession,3,31,27,59, 125
+2018-11-03 08:35:29 +0000,1,Mi Mi,WA,Possession,3,31,27,66, 153
+2018-11-03 08:35:33 +0000,1,Mi Mi,WA,Assist - Circle Entry,3,31,27,66, 153
+2018-11-03 08:35:33 +0000,1,Tippett,GA,Possession,3,31,27,66, 191
+2018-11-03 08:35:36 +0000,1,Mi Mi,WA,Possession,3,31,27,81, 181
+2018-11-03 08:35:39 +0000,1,Mi Mi,WA,Assist - Circle Entry,3,31,27,81, 181
+2018-11-03 08:35:40 +0000,1,Tippett,GA,Possession,3,31,27,67, 195
+2018-11-03 08:35:44 +0000,0,Manu’a,GK,Penaly - Contact,3,31,27,49, 186
+2018-11-03 08:35:44 +0000,1,Tippett,GA,Goal - Score,3,31,27,49, 186
+2018-11-03 08:36:01 +0000,1,Cassidy,C,Centre Pass,3,31,28,50, 100
+2018-11-03 08:36:01 +0000,1,Tippett,GA,Assist - Centre Pass Rec,3,31,28,8, 124
+2018-11-03 08:36:03 +0000,1,Mi Mi,WA,Assist - 2nd Phase,3,31,28,10, 149
+2018-11-03 08:36:08 +0000,1,Simpson,WD,Possession,3,31,28,73, 124
+2018-11-03 08:36:10 +0000,1,Tippett,GA,Possession,3,31,28,84, 158
+2018-11-03 08:36:13 +0000,1,Mi Mi,WA,Possession,3,31,28,75, 151
+2018-11-03 08:36:16 +0000,1,Mi Mi,WA,Assist - Circle Entry,3,31,28,75, 151
+2018-11-03 08:36:16 +0000,1,Aiken,GS,Possession,3,31,28,62, 172
+2018-11-03 08:36:20 +0000,1,Tippett,GA,Possession,3,31,28,75, 187
+2018-11-03 08:36:21 +0000,1,Aiken,GS,Goal - Miss,3,31,28,49, 189
+2018-11-03 08:36:27 +0000,0,Manu’a,GK,Gain - Def Reb,3,31,28,50, 197
+2018-11-03 08:36:30 +0000,1,Aiken,GS,Penaly - Contact,3,31,28,50, 197
+2018-11-03 08:36:30 +0000,0,Manu’a,GK,Possession,3,31,28,50, 197
+2018-11-03 08:36:37 +0000,0,Bulley ,GD,Possession,3,31,28,71, 121
+2018-11-03 08:36:43 +0000,1,Mi Mi,WA,Penaly - Contact,3,31,28,47, 120
+2018-11-03 08:36:43 +0000,0,Bulley ,GD,Possession,3,31,28,47, 120
+2018-11-03 08:36:50 +0000,0,Price,WD,Possession,3,31,28,5, 77
+2018-11-03 08:36:52 +0000,0,Green,WA,Possession,3,31,28,4, 57
+2018-11-03 08:36:55 +0000,0,Price,WD,Possession,3,31,28,16, 72
+2018-11-03 08:36:58 +0000,0,Price,WD,Assist - Circle Entry,3,31,28,16, 72
+2018-11-03 08:37:30 +0000,0,Harten ,GA,Loss - Bad Pass,3,31,28,79, 16
+2018-11-03 08:37:40 +0000,1,Simpson,WD,Possession,3,31,28,85, 15
+2018-11-03 08:37:46 +0000,1,Geitz,GK,Possession,3,31,28,67, 60
+2018-11-03 08:37:48 +0000,1,Cassidy,C,Possession,3,31,28,78, 79
+2018-11-03 08:37:50 +0000,1,Simpson,WD,Possession,3,31,28,32, 61
+2018-11-03 08:37:54 +0000,1,Tippett,GA,Possession,3,31,28,10, 119
+2018-11-03 08:38:00 +0000,1,Hinchliffe,GD,Possession,3,31,28,66, 96
+2018-11-03 08:38:02 +0000,1,Cassidy,C,Possession,3,31,28,83, 127
+2018-11-03 08:38:05 +0000,0,Price,WD,Penaly - Contact,3,31,28,75, 155
+2018-11-03 08:38:05 +0000,1,Mi Mi,WA,Possession,3,31,28,75, 155
+2018-11-03 08:38:16 +0000,0,Manu’a,GK,Deflect,3,31,28,52, 189
+2018-11-03 08:38:16 +0000,1,Aiken,GS,Goal - Score,3,31,28,52, 188
+2018-11-03 08:38:33 +0000,0,Guthrie,C,Centre Pass,3,31,29,50, 100
+2018-11-03 08:38:33 +0000,0,Green,WA,Assist - Centre Pass Rec,3,31,29,77, 72
+2018-11-03 08:38:35 +0000,0,Bulley ,GD,Assist - 2nd Phase,3,31,29,53, 68
+2018-11-03 08:38:37 +0000,0,Harten ,GA,Loss - Bad Pass,3,31,29,49, 38
+2018-11-03 08:38:41 +0000,1,Geitz,GK,Throw In,3,31,29,53, -5
+2018-11-03 08:38:48 +0000,1,Hinchliffe,GD,Possession,3,31,29,79, 25
+2018-11-03 08:38:51 +0000,1,Cassidy,C,Possession,3,31,29,57, 70
+2018-11-03 08:38:56 +0000,1,Mi Mi,WA,Possession,3,31,29,81, 133
+2018-11-03 08:38:59 +0000,1,Aiken,GS,Possession,3,31,29,86, 184
+2018-11-03 08:39:03 +0000,1,Aiken,GS,Assist - Circle Entry,3,31,29,86, 184
+2018-11-03 08:39:03 +0000,1,Tippett,GA,Goal - Score,3,31,29,42, 192
+2018-11-03 08:39:12 +0000,0,,UNKNOWN,Timeout,3,31,30,110, 222
+2018-11-03 08:39:26 +0000,1,Cassidy,C,Centre Pass,3,31,30,50, 100
+2018-11-03 08:39:26 +0000,0,Harten ,GA,Deflect,3,31,30,12, 105
+2018-11-03 08:39:31 +0000,1,Hinchliffe,GD,Throw In,3,31,30,-3, 113
+2018-11-03 08:39:46 +0000,1,Geitz,GK,Possession,3,31,30,13, 62
+2018-11-03 08:39:50 +0000,0,Brice,GS,Penaly - Contact,3,31,30,13, 62
+2018-11-03 08:39:50 +0000,1,Geitz,GK,Possession,3,31,30,13, 62
+2018-11-03 08:39:54 +0000,1,Hinchliffe,GD,Possession,3,31,30,9, 87
+2018-11-03 08:39:56 +0000,1,Cassidy,C,Possession,3,31,30,26, 94
+2018-11-03 08:39:58 +0000,1,Tippett,GA,Possession,3,31,30,51, 117
+2018-11-03 08:40:01 +0000,0,Price,WD,Deflect,3,31,30,91, 125
+2018-11-03 08:40:01 +0000,1,Simpson,WD,Throw In,3,31,30,108, 130
+2018-11-03 08:40:11 +0000,1,Mi Mi,WA,Possession,3,31,30,90, 189
+2018-11-03 08:40:14 +0000,1,Mi Mi,WA,Assist - Circle Entry,3,31,30,90, 189
+2018-11-03 08:40:14 +0000,1,Aiken,GS,Possession,3,31,30,48, 175
+2018-11-03 08:40:16 +0000,1,Mi Mi,WA,Possession,3,31,30,79, 177
+2018-11-03 08:40:19 +0000,1,Mi Mi,WA,Assist - Circle Entry,3,31,30,79, 177
+2018-11-03 08:40:19 +0000,1,Tippett,GA,Possession,3,31,30,50, 192
+2018-11-03 08:40:21 +0000,0,Bulley ,GD,Penaly - Contact,3,31,30,50, 192
+2018-11-03 08:40:21 +0000,1,Tippett,GA,Possession,3,31,30,50, 192
+2018-11-03 08:40:24 +0000,0,Manu’a,GK,Penaly - Obstruction,3,31,30,50, 192
+2018-11-03 08:40:24 +0000,1,Tippett,GA,Goal - Score,3,31,30,50, 192
+2018-11-03 08:40:34 +0000,0,Guthrie,C,Centre Pass,3,31,31,50, 100
+2018-11-03 08:40:34 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,3,31,31,66, 77
+2018-11-03 08:40:36 +0000,0,Green,WA,Assist - 2nd Phase,3,31,31,90, 69
+2018-11-03 08:40:38 +0000,0,Guthrie,C,Possession,3,31,31,60, 58
+2018-11-03 08:40:41 +0000,0,Harten ,GA,Possession,3,31,31,70, 28
+2018-11-03 08:40:44 +0000,0,Harten ,GA,Assist - Circle Entry,3,31,31,70, 28
+2018-11-03 08:40:44 +0000,0,Brice,GS,Goal - Score,3,31,31,57, 4
+2018-11-03 08:40:52 +0000,1,Cassidy,C,Centre Pass,3,32,31,50, 100
+2018-11-03 08:40:52 +0000,1,Hinchliffe,GD,Assist - Centre Pass Rec,3,32,31,64, 84
+2018-11-03 08:41:55 +0000,1,Cassidy,C,Assist - 2nd Phase,3,32,31,79, 124
+2018-11-03 08:41:57 +0000,1,Mi Mi,WA,Possession,3,32,31,85, 141
+2018-11-03 08:41:58 +0000,1,Tippett,GA,Possession,3,32,31,26, 146
+2018-11-03 08:42:01 +0000,1,Mi Mi,WA,Possession,3,32,31,19, 179
+2018-11-03 08:42:03 +0000,1,Mi Mi,WA,Assist - Circle Entry,3,32,31,19, 179
+2018-11-03 08:42:03 +0000,1,Aiken,GS,Possession,3,32,31,33, 188
+2018-11-03 08:42:05 +0000,0,Manu’a,GK,Penaly - Contact,3,32,31,33, 188
+2018-11-03 08:42:05 +0000,1,Aiken,GS,Goal - Score,3,32,31,33, 188
+2018-11-03 08:42:14 +0000,0,Guthrie,C,Centre Pass,3,32,32,50, 100
+2018-11-03 08:42:14 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,3,32,32,24, 84
+2018-11-03 08:42:16 +0000,0,Harten ,GA,Assist - 2nd Phase,3,32,32,25, 68
+2018-11-03 08:42:18 +0000,1,Mi Mi,WA,Penaly - Obstruction,3,32,32,25, 68
+2018-11-03 08:42:18 +0000,0,Bulley ,GD,Possession,3,32,32,25, 68
+2018-11-03 08:42:26 +0000,0,Green,WA,Possession,3,32,32,16, 19
+2018-11-03 08:42:28 +0000,0,Green,WA,Assist - Circle Entry,3,32,32,16, 19
+2018-11-03 08:42:28 +0000,0,Brice,GS,Goal - Score,3,32,32,58, 3
+2018-11-03 08:42:37 +0000,1,Cassidy,C,Centre Pass,3,33,32,50, 100
+2018-11-03 08:42:37 +0000,1,Tippett,GA,Assist - Centre Pass Rec,3,33,32,65, 125
+2018-11-03 08:42:39 +0000,1,Mi Mi,WA,Assist - 2nd Phase,3,33,32,40, 126
+2018-11-03 08:42:41 +0000,1,Aiken,GS,Possession,3,33,32,19, 161
+2018-11-03 08:42:47 +0000,0,Bulley ,GD,Penaly - Contact,3,33,32,32, 179
+2018-11-03 08:42:47 +0000,1,Tippett,GA,Possession,3,33,32,32, 179
+2018-11-03 08:43:46 +0000,1,Aiken,GS,Possession,3,33,32,46, 175
+2018-11-03 08:43:50 +0000,0,Manu’a,GK,Penaly - Contact,3,33,32,46, 175
+2018-11-03 08:43:50 +0000,1,Tippett,GA,Goal - Score,3,33,32,46, 175
+2018-11-03 08:44:09 +0000,0,Guthrie,C,Centre Pass,3,33,33,50, 100
+2018-11-03 08:44:09 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,3,33,33,10, 106
+2018-11-03 08:44:11 +0000,0,Price,WD,Assist - 2nd Phase,3,33,33,62, 71
+2018-11-03 08:44:15 +0000,1,Tippett,GA,Penaly - Obstruction,3,33,33,62, 71
+2018-11-03 08:44:15 +0000,0,Price,WD,Possession,3,33,33,62, 71
+2018-11-03 08:44:20 +0000,0,Green,WA,Possession,3,33,33,58, 47
+2018-11-03 08:44:22 +0000,0,Guthrie,C,Possession,3,33,33,82, 6
+2018-11-03 08:44:26 +0000,0,Guthrie,C,Assist - Circle Entry,3,33,33,82, 6
+2018-11-03 08:44:26 +0000,0,Harten ,GA,Possession,3,33,33,57, 17
+2018-11-03 08:44:27 +0000,1,Hinchliffe,GD,Penaly - Contact,3,33,33,57, 17
+2018-11-03 08:44:27 +0000,0,Harten ,GA,Possession,3,33,33,57, 17
+2018-11-03 08:44:33 +0000,0,Brice,GS,Possession,3,33,33,51, 10
+2018-11-03 08:44:35 +0000,1,Geitz,GK,Penaly - Contact,3,33,33,51, 10
+2018-11-03 08:44:35 +0000,0,Harten ,GA,Goal - Score,3,33,33,51, 10
+2018-11-03 08:44:50 +0000,1,Cassidy,C,Centre Pass,3,34,33,50, 100
+2018-11-03 08:44:50 +0000,1,Mi Mi,WA,Assist - Centre Pass Rec,3,34,33,28, 105
+2018-11-03 08:44:53 +0000,1,Hinchliffe,GD,Assist - 2nd Phase,3,34,33,17, 91
+2018-11-03 08:44:57 +0000,1,Tippett,GA,Possession,3,34,33,48, 126
+2018-11-03 08:45:01 +0000,1,Cassidy,C,Possession,3,34,33,43, 162
+2018-11-03 08:45:36 +0000,1,Cassidy,C,Assist - Circle Entry,3,34,33,43, 162
+2018-11-03 08:45:36 +0000,1,Aiken,GS,Possession,3,34,33,34, 188
+2018-11-03 08:45:38 +0000,0,Manu’a,GK,Penaly - Contact,3,34,33,34, 188
+2018-11-03 08:45:38 +0000,1,Tippett,GA,Possession,3,34,33,34, 188
+2018-11-03 08:45:44 +0000,1,Aiken,GS,Possession,3,34,33,48, 191
+2018-11-03 08:45:48 +0000,0,Manu’a,GK,Penaly - Contact,3,34,33,48, 191
+2018-11-03 08:45:48 +0000,1,Aiken,GS,Goal - Score,3,34,33,48, 191
+2018-11-03 08:45:57 +0000,0,Guthrie,C,Centre Pass,3,34,34,50, 100
+2018-11-03 08:45:57 +0000,0,Green,WA,Assist - Centre Pass Rec,3,34,34,70, 84
+2018-11-03 08:45:59 +0000,1,Simpson,WD,Penaly - Contact,3,34,34,70, 84
+2018-11-03 08:45:59 +0000,0,Bulley ,GD,Possession,3,34,34,70, 84
+2018-11-03 08:46:10 +0000,0,Green,WA,Possession,3,34,34,79, 22
+2018-11-03 08:46:15 +0000,0,Green,WA,Assist - Circle Entry,3,34,34,79, 22
+2018-11-03 08:46:15 +0000,0,Brice,GS,Assist - 2nd Phase,3,34,34,43, 4
+2018-11-03 08:46:17 +0000,0,Brice,GS,Goal - Score,3,34,34,43, 4
+2018-11-03 08:46:23 +0000,1,Cassidy,C,Centre Pass,3,35,34,50, 100
+2018-11-03 08:46:23 +0000,1,Tippett,GA,Assist - Centre Pass Rec,3,35,34,83, 123
+2018-11-03 08:46:25 +0000,1,Mi Mi,WA,Assist - 2nd Phase,3,35,34,25, 148
+2018-11-03 08:46:28 +0000,1,Cassidy,C,Possession,3,35,34,51, 162
+2018-11-03 08:46:33 +0000,1,Mi Mi,WA,Possession,3,35,34,16, 184
+2018-11-03 08:46:41 +0000,0,Bulley ,GD,Penaly - Contact,3,35,34,37, 176
+2018-11-03 08:46:41 +0000,1,Tippett,GA,Goal - Score,3,35,34,37, 176
+2018-11-03 08:46:56 +0000,0,Guthrie,C,Centre Pass,3,35,35,50, 100
+2018-11-03 08:46:56 +0000,0,Harten ,GA,Assist - Centre Pass Rec,3,35,35,83, 70
+2018-11-03 08:46:58 +0000,0,Green,WA,Assist - 2nd Phase,3,35,35,32, 33
+2018-11-03 08:47:06 +0000,1,Cassidy,C,Penaly - Obstruction,3,35,35,32, 33
+2018-11-03 08:47:06 +0000,0,Green,WA,Possession,3,35,35,32, 33
+2018-11-03 08:47:11 +0000,0,Green,WA,Assist - Circle Entry,3,35,35,32, 33
+2018-11-03 08:47:11 +0000,0,Harten ,GA,Goal - Score,3,35,35,32, 12
+2018-11-03 08:47:23 +0000,1,Cassidy,C,Centre Pass,3,36,35,50, 100
+2018-11-03 08:47:23 +0000,1,Hinchliffe,GD,Assist - Centre Pass Rec,3,36,35,87, 106
+2018-11-03 08:47:29 +0000,1,Cassidy,C,Assist - 2nd Phase,3,36,35,57, 114
+2018-11-03 08:47:33 +0000,1,Tippett,GA,Possession,3,36,35,77, 146
+2018-11-03 08:47:36 +0000,1,Tippett,GA,Assist - Circle Entry,3,36,35,77, 146
+2018-11-03 08:47:36 +0000,1,Aiken,GS,Goal - Score,3,36,35,47, 190
+2018-11-03 08:47:45 +0000,0,Guthrie,C,Centre Pass,3,36,36,50, 100
+2018-11-03 08:47:46 +0000,0,Green,WA,Assist - Centre Pass Rec,3,36,36,52, 74
+2018-11-03 08:47:55 +0000,0,Harten ,GA,Assist - 2nd Phase,3,36,36,46, 46
+2018-11-03 08:47:58 +0000,1,Hinchliffe,GD,Penaly - Contact,3,36,36,46, 46
+2018-11-03 08:47:59 +0000,0,Green,WA,Possession,3,36,36,46, 46
+2018-11-03 08:48:08 +0000,0,Green,WA,Assist - Circle Entry,3,36,36,46, 46
+2018-11-03 08:48:08 +0000,0,Harten ,GA,Possession,3,36,36,59, 5
+2018-11-03 08:48:11 +0000,0,Guthrie,C,Possession,3,36,36,20, 16
+2018-11-03 08:48:13 +0000,1,Cassidy,C,Penaly - Contact,3,36,36,20, 16
+2018-11-03 08:48:13 +0000,0,Guthrie,C,Possession,3,36,36,20, 16
+2018-11-03 08:49:01 +0000,0,Guthrie,C,Assist - Circle Entry,3,36,36,20, 16
+2018-11-03 08:49:01 +0000,0,Harten ,GA,Possession,3,36,36,28, 9
+2018-11-03 08:49:03 +0000,1,Hinchliffe,GD,Penaly - Obstruction,3,36,36,28, 9
+2018-11-03 08:49:03 +0000,0,Harten ,GA,Goal - Miss,3,36,36,28, 9
+2018-11-03 08:49:15 +0000,1,Geitz,GK,Deflect,3,36,36,50, 2
+2018-11-03 08:49:18 +0000,0,Harten ,GA,Throw In,3,36,36,34, -5
+2018-11-03 08:49:40 +0000,0,Green,WA,Possession,3,36,36,50, 35
+2018-11-03 08:49:45 +0000,0,Green,WA,Assist - Circle Entry,3,36,36,50, 35
+2018-11-03 08:49:45 +0000,0,Brice,GS,Goal - Score,3,36,36,53, 4
+2018-11-03 08:49:59 +0000,1,Cassidy,C,Centre Pass,3,37,36,50, 100
+2018-11-03 08:49:59 +0000,1,Cassidy,C,Loss - Held Ball,3,37,36,50, 99
+2018-11-03 08:49:59 +0000,0,Price,WD,Possession,3,37,36,50, 99
+2018-11-03 08:50:20 +0000,0,Guthrie,C,Possession,3,37,36,69, 72
+2018-11-03 08:50:22 +0000,0,Harten ,GA,Possession,3,37,36,65, 45
+2018-11-03 08:50:24 +0000,0,Green,WA,Possession,3,37,36,46, 47
+2018-11-03 08:50:26 +0000,0,Green,WA,Assist - Circle Entry,3,37,36,46, 47
+2018-11-03 08:50:26 +0000,0,Brice,GS,Possession,3,37,36,39, 13
+2018-11-03 08:50:28 +0000,0,Guthrie,C,Possession,3,37,36,82, 8
+2018-11-03 08:50:34 +0000,1,Simpson,WD,Deflect,3,37,36,26, 19
+2018-11-03 08:50:34 +0000,0,Harten ,GA,Throw In,3,37,36,31, -5
+2018-11-03 08:50:47 +0000,0,Harten ,GA,Assist - Circle Entry,3,37,36,31, -5
+2018-11-03 08:50:47 +0000,0,Brice,GS,Possession,3,37,36,56, 9
+2018-11-03 08:50:50 +0000,1,Geitz,GK,Penaly - Obstruction,3,37,36,56, 9
+2018-11-03 08:50:51 +0000,0,Brice,GS,Goal - Score,3,37,36,56, 9
+2018-11-03 08:50:57 +0000,0,Guthrie,C,Centre Pass,3,38,36,50, 100
+2018-11-03 08:50:57 +0000,0,Price,WD,Assist - Centre Pass Rec,3,38,36,7, 76
+2018-11-03 08:51:01 +0000,0,Guthrie,C,Assist - 2nd Phase,3,38,36,23, 52
+2018-11-03 08:51:06 +0000,0,Harten ,GA,Possession,3,38,36,17, 7
+2018-11-03 08:51:09 +0000,0,Harten ,GA,Assist - Circle Entry,3,38,36,17, 7
+2018-11-03 08:51:09 +0000,0,Brice,GS,Goal - Score,3,38,36,53, 3
+2018-11-03 08:51:15 +0000,1,Cassidy,C,Centre Pass,3,39,36,50, 100
+2018-11-03 08:51:15 +0000,1,Tippett,GA,Assist - Centre Pass Rec,3,39,36,14, 125
+2018-11-03 08:51:17 +0000,1,Cassidy,C,Assist - 2nd Phase,3,39,36,44, 126
+2018-11-03 08:51:22 +0000,1,Aiken,GS,Possession,3,39,36,20, 179
+2018-11-03 08:51:52 +0000,0,Manu’a,GK,Penaly - Contact,3,39,36,20, 179
+2018-11-03 08:51:52 +0000,1,Cassidy,C,Possession,3,39,36,20, 179
+2018-11-03 08:51:58 +0000,1,Cassidy,C,Assist - Circle Entry,3,39,36,20, 179
+2018-11-03 08:51:58 +0000,1,Aiken,GS,Goal - Score,3,39,36,51, 192
+2018-11-03 08:52:08 +0000,0,Guthrie,C,Centre Pass,3,39,37,50, 100
+2018-11-03 08:52:08 +0000,0,Green,WA,Assist - Centre Pass Rec,3,39,37,51, 73
+2018-11-03 08:52:10 +0000,0,Harten ,GA,Assist - 2nd Phase,3,39,37,7, 55
+2018-11-03 08:52:11 +0000,0,Green,WA,Possession,3,39,37,24, 60
+2018-11-03 08:52:18 +0000,0,Green,WA,Assist - Circle Entry,3,39,37,24, 60
+2018-11-03 08:52:18 +0000,0,Harten ,GA,Possession,3,39,37,21, 3
+2018-11-03 08:52:20 +0000,1,Hinchliffe,GD,Penaly - Contact,3,39,37,21, 3
+2018-11-03 08:52:20 +0000,0,Harten ,GA,Goal - Score,3,39,37,21, 3
+2018-11-03 08:52:33 +0000,1,Cassidy,C,Centre Pass,3,40,37,50, 100
+2018-11-03 08:52:33 +0000,1,Mi Mi,WA,Assist - Centre Pass Rec,3,40,37,30, 122
+2018-11-03 08:52:35 +0000,1,Tippett,GA,Assist - 2nd Phase,3,40,37,6, 122
+2018-11-03 08:52:41 +0000,1,Tippett,GA,Assist - Circle Entry,3,40,37,6, 122
+2018-11-03 08:52:41 +0000,1,Aiken,GS,Loss - Drop,3,40,37,47, 177
+2018-11-03 08:52:49 +0000,0,Manu’a,GK,Gain - Pick-up,3,40,37,49, 178
+2018-11-03 08:53:11 +0000,0,Guthrie,C,Possession,3,40,37,89, 120
+2018-11-03 08:53:13 +0000,0,Price,WD,Possession,3,40,37,63, 121
+2018-11-03 08:53:14 +0000,0,Green,WA,Possession,3,40,37,89, 118
+2018-11-03 08:53:16 +0000,0,Bulley ,GD,Possession,3,40,37,18, 110
+2018-11-03 08:53:18 +0000,0,Harten ,GA,Possession,3,40,37,10, 73
+2018-11-03 08:53:21 +0000,0,Bulley ,GD,Possession,3,40,37,73, 97
+2018-11-03 08:53:23 +0000,0,Price,WD,Possession,3,40,37,26, 79
+2018-11-03 08:53:28 +0000,0,Harten ,GA,Possession,3,40,37,52, 42
+2018-11-03 08:53:38 +0000,1,Geitz,GK,Deflect,3,40,37,39, 15
+2018-11-03 08:53:38 +0000,0,Brice,GS,Possession,3,40,37,11, 7
+2018-11-03 08:53:45 +0000,1,Hinchliffe,GD,Gain - Inter,3,40,37,29, 26
+2018-11-03 08:53:52 +0000,1,Cassidy,C,Possession,3,40,37,59, 46
+2018-11-03 08:53:55 +0000,1,Hinchliffe,GD,Possession,3,40,37,22, 57
+2018-11-03 08:54:01 +0000,0,Brice,GS,Penaly - Obstruction,3,40,37,22, 57
+2018-11-03 08:54:01 +0000,1,Hinchliffe,GD,Possession,3,40,37,22, 57
+2018-11-03 08:54:19 +0000,1,Cassidy,C,Possession,3,40,37,31, 82
+2018-11-03 08:54:22 +0000,1,Hinchliffe,GD,Possession,3,40,37,83, 101
+2018-11-03 08:54:24 +0000,0,Bulley ,GD,Penaly - Contact,3,40,37,83, 101
+2018-11-03 08:54:24 +0000,1,Hinchliffe,GD,Possession,3,40,37,83, 101
+2018-11-03 08:54:32 +0000,1,Cassidy,C,Possession,3,40,37,71, 127
+2018-11-03 08:54:35 +0000,1,Cassidy,C,Assist - Circle Entry,3,40,37,71, 127
+2018-11-03 08:54:35 +0000,1,Tippett,GA,Possession,3,40,37,80, 192
+2018-11-03 08:54:39 +0000,1,Cassidy,C,Possession,3,40,37,80, 181
+2018-11-03 08:54:41 +0000,0,Guthrie,C,Penaly - Contact,3,40,37,80, 181
+2018-11-03 08:54:41 +0000,1,Cassidy,C,Possession,3,40,37,80, 181
+2018-11-03 08:54:50 +0000,0,Manu’a,GK,Penaly - Contact,3,40,37,48, 188
+2018-11-03 08:54:50 +0000,1,Aiken,GS,Goal - Score,3,40,37,48, 188
+2018-11-03 08:55:08 +0000,0,Guthrie,C,Centre Pass,3,40,38,50, 100
+2018-11-03 08:55:08 +0000,1,Cassidy,C,Penaly - Obstruction,3,40,38,50, 94
+2018-11-03 08:55:08 +0000,0,Price,WD,Possession,3,40,38,50, 94
+2018-11-03 08:55:17 +0000,0,Guthrie,C,Assist - 2nd Phase,3,40,38,85, 50
+2018-11-03 08:55:25 +0000,0,Harten ,GA,Possession,3,40,38,67, 28
+2018-11-03 08:55:28 +0000,0,,UNKNOWN,Possession,3,40,38,72, 24
+2018-11-03 08:55:34 +0000,0,,UNKNOWN,Assist - Circle Entry,3,40,38,72, 24
+2018-11-03 08:55:34 +0000,1,Geitz,GK,Gain - Inter,3,40,38,26, 10
+2018-11-03 08:55:39 +0000,0,Brice,GS,Penaly - Contact,3,40,38,26, 10
+2018-11-03 08:55:39 +0000,1,Geitz,GK,Possession,3,40,38,26, 10
+2018-11-03 08:55:47 +0000,1,Simpson,WD,Possession,3,40,38,3, 49
+2018-11-03 08:55:49 +0000,1,Geitz,GK,Possession,3,40,38,17, 45
+2018-11-03 08:55:52 +0000,1,Simpson,WD,Possession,3,40,38,10, 60
+2018-11-03 08:55:55 +0000,1,Tippett,GA,Possession,3,40,38,51, 122
+2018-11-03 08:55:57 +0000,1,Mi Mi,WA,Possession,3,40,38,27, 150
+2018-11-03 08:55:59 +0000,0,Price,WD,Penaly - Contact,3,40,38,27, 150
+2018-11-03 08:55:59 +0000,1,Mi Mi,WA,Possession,3,40,38,27, 150
+2018-11-03 08:57:42 +0000,0,Price,WD,Penaly - Other,3,40,38,49, 169
+2018-11-03 08:57:43 +0000,1,Tippett,GA,Possession,3,40,38,49, 169
+2018-11-03 08:57:59 +0000,1,Mi Mi,WA,Possession,3,40,38,24, 174
+2018-11-03 08:58:02 +0000,0,Bulley ,GD,Penaly - Contact,3,40,38,48, 190
+2018-11-03 08:58:02 +0000,1,Aiken,GS,Goal - Score,3,40,38,48, 190
+2018-11-03 08:58:22 +0000,1,Cassidy,C,Centre Pass,3,40,39,50, 100
+2018-11-03 08:58:22 +0000,1,Mi Mi,WA,Assist - Centre Pass Rec,3,40,39,80, 119
+2018-11-03 08:58:24 +0000,1,Hinchliffe,GD,Assist - 2nd Phase,3,40,39,69, 96
+2018-11-03 08:58:31 +0000,0,Harten ,GA,Gain - Tip (Deflect),3,40,39,60, 103
+2018-11-03 08:58:37 +0000,0,Harten ,GA,Possession,3,40,39,15, 70
+2018-11-03 08:58:41 +0000,0,Green,WA,Possession,3,40,39,41, 68
+2018-11-03 08:58:48 +0000,1,Geitz,GK,Deflect,3,40,39,32, 8
+2018-11-03 08:58:48 +0000,0,Harten ,GA,Throw In,3,40,39,28, -8
+2018-11-03 08:58:55 +0000,0,Green,WA,Possession,3,40,39,39, 33
+2018-11-03 08:58:59 +0000,0,Green,WA,Assist - Circle Entry,3,40,39,39, 33
+2018-11-03 08:58:59 +0000,0,Harten ,GA,Goal - Score,3,40,39,43, 12
+2018-11-03 08:59:23 +0000,0,Guthrie,C,Centre Pass,4,41,39,50, 100
+2018-11-03 08:59:23 +0000,0,Green,WA,Loss - Held Ball,4,41,39,16, 79
+2018-11-03 08:59:31 +0000,1,Simpson,WD,Possession,4,41,39,14, 80
+2018-11-03 08:59:38 +0000,1,Cassidy,C,Possession,4,41,39,16, 111
+2018-11-03 08:59:40 +0000,1,Mi Mi,WA,Possession,4,41,39,12, 137
+2018-11-03 08:59:41 +0000,1,Hinchliffe,GD,Possession,4,41,39,21, 125
+2018-11-03 08:59:43 +0000,0,Harten ,GA,Penaly - Contact,4,41,39,21, 125
+2018-11-03 08:59:43 +0000,1,Hinchliffe,GD,Possession,4,41,39,21, 125
+2018-11-03 08:59:51 +0000,1,Mi Mi,WA,Possession,4,41,39,21, 146
+2018-11-03 08:59:52 +0000,1,Tippett,GA,Possession,4,41,39,43, 161
+2018-11-03 08:59:54 +0000,1,Tippett,GA,Assist - Circle Entry,4,41,39,43, 161
+2018-11-03 08:59:54 +0000,1,Aiken,GS,Possession,4,41,39,47, 177
+2018-11-03 08:59:57 +0000,1,Cassidy,C,Possession,4,41,39,81, 183
+2018-11-03 09:00:04 +0000,1,Cassidy,C,Assist - Circle Entry,4,41,39,81, 183
+2018-11-03 09:00:04 +0000,1,Aiken,GS,Goal - Miss,4,41,39,49, 186
+2018-11-03 09:00:13 +0000,1,Aiken,GS,Assist - Attack Rebound,4,41,39,50, 197
+2018-11-03 09:00:20 +0000,0,Bulley ,GD,Penaly - Contact,4,41,39,50, 197
+2018-11-03 09:00:20 +0000,1,Aiken,GS,Goal - Score,4,41,39,50, 197
+2018-11-03 09:00:32 +0000,1,Cassidy,C,Centre Pass,4,41,40,50, 100
+2018-11-03 09:00:32 +0000,1,Mi Mi,WA,Assist - Centre Pass Rec,4,41,40,20, 126
+2018-11-03 09:00:35 +0000,1,Aiken,GS,Assist - 2nd Phase,4,41,40,19, 183
+2018-11-03 09:00:37 +0000,1,Mi Mi,WA,Possession,4,41,40,69, 169
+2018-11-03 09:00:42 +0000,1,Mi Mi,WA,Assist - Circle Entry,4,41,40,69, 169
+2018-11-03 09:00:42 +0000,0,Bulley ,GD,Gain - Tip (Deflect),4,41,40,54, 193
+2018-11-03 09:00:47 +0000,0,Bulley ,GD,Possession,4,41,40,81, 193
+2018-11-03 09:00:53 +0000,0,Price,WD,Possession,4,41,40,91, 146
+2018-11-03 09:00:57 +0000,0,Guthrie,C,Possession,4,41,40,91, 94
+2018-11-03 09:01:03 +0000,0,Harten ,GA,Possession,4,41,40,94, 69
+2018-11-03 09:01:06 +0000,0,Bulley ,GD,Possession,4,41,40,72, 69
+2018-11-03 09:01:15 +0000,1,Tippett,GA,Penaly - Contact,4,41,40,72, 69
+2018-11-03 09:01:15 +0000,0,Bulley ,GD,Possession,4,41,40,72, 69
+2018-11-03 09:01:23 +0000,0,Green,WA,Possession,4,41,40,28, 33
+2018-11-03 09:01:26 +0000,0,Green,WA,Assist - Circle Entry,4,41,40,28, 33
+2018-11-03 09:01:26 +0000,0,Harten ,GA,Possession,4,41,40,35, 15
+2018-11-03 09:01:30 +0000,1,Geitz,GK,Deflect,4,41,40,62, 4
+2018-11-03 09:01:30 +0000,0,Harten ,GA,Throw In,4,41,40,63, -7
+2018-11-03 09:01:37 +0000,0,Harten ,GA,Assist - Circle Entry,4,41,40,63, -7
+2018-11-03 09:01:37 +0000,0,Brice,GS,Goal - Score,4,41,40,44, 9
+2018-11-03 09:01:47 +0000,0,Guthrie,C,Centre Pass,4,42,40,50, 100
+2018-11-03 09:01:47 +0000,0,Green,WA,Assist - Centre Pass Rec,4,42,40,52, 73
+2018-11-03 09:01:50 +0000,0,Guthrie,C,Assist - 2nd Phase,4,42,40,16, 13
+2018-11-03 09:02:18 +0000,0,Guthrie,C,Assist - Circle Entry,4,42,40,16, 13
+2018-11-03 09:02:18 +0000,0,Harten ,GA,Possession,4,42,40,38, 9
+2018-11-03 09:02:20 +0000,0,Guthrie,C,Possession,4,42,40,14, 12
+2018-11-03 09:02:22 +0000,0,Guthrie,C,Assist - Circle Entry,4,42,40,14, 12
+2018-11-03 09:02:22 +0000,0,Harten ,GA,Goal - Score,4,42,40,42, 7
+2018-11-03 09:02:33 +0000,1,Cassidy,C,Centre Pass,4,43,40,50, 100
+2018-11-03 09:02:33 +0000,1,Tippett,GA,Assist - Centre Pass Rec,4,43,40,56, 122
+2018-11-03 09:02:35 +0000,1,Cassidy,C,Assist - 2nd Phase,4,43,40,82, 162
+2018-11-03 09:02:38 +0000,1,Cassidy,C,Assist - Circle Entry,4,43,40,82, 162
+2018-11-03 09:02:38 +0000,1,Aiken,GS,Possession,4,43,40,46, 193
+2018-11-03 09:02:42 +0000,0,Manu’a,GK,Penaly - Contact,4,43,40,46, 193
+2018-11-03 09:02:42 +0000,1,Aiken,GS,Goal - Score,4,43,40,46, 193
+2018-11-03 09:02:58 +0000,0,Guthrie,C,Centre Pass,4,43,41,50, 100
+2018-11-03 09:02:58 +0000,0,Green,WA,Assist - Centre Pass Rec,4,43,41,16, 77
+2018-11-03 09:03:00 +0000,0,Harten ,GA,Assist - 2nd Phase,4,43,41,24, 39
+2018-11-03 09:03:03 +0000,0,Harten ,GA,Assist - Circle Entry,4,43,41,24, 39
+2018-11-03 09:03:03 +0000,0,Brice,GS,Goal - Score,4,43,41,38, 11
+2018-11-03 09:03:12 +0000,1,Cassidy,C,Centre Pass,4,44,41,50, 100
+2018-11-03 09:03:12 +0000,1,Mi Mi,WA,Assist - Centre Pass Rec,4,44,41,93, 116
+2018-11-03 09:03:15 +0000,1,Hinchliffe,GD,Assist - 2nd Phase,4,44,41,85, 88
+2018-11-03 09:03:16 +0000,1,Mi Mi,WA,Possession,4,44,41,94, 113
+2018-11-03 09:03:18 +0000,1,Hinchliffe,GD,Possession,4,44,41,82, 96
+2018-11-03 09:03:20 +0000,1,Cassidy,C,Possession,4,44,41,89, 119
+2018-11-03 09:03:23 +0000,1,Cassidy,C,Assist - Circle Entry,4,44,41,89, 119
+2018-11-03 09:03:23 +0000,1,Aiken,GS,Goal - Score,4,44,41,49, 190
+2018-11-03 09:03:33 +0000,0,Guthrie,C,Centre Pass,4,44,42,50, 100
+2018-11-03 09:03:33 +0000,0,Harten ,GA,Assist - Centre Pass Rec,4,44,42,86, 72
+2018-11-03 09:04:05 +0000,1,Hinchliffe,GD,Penaly - Obstruction,4,44,42,86, 72
+2018-11-03 09:04:05 +0000,0,Guthrie,C,Possession,4,44,42,86, 72
+2018-11-03 09:04:24 +0000,0,Harten ,GA,Possession,4,44,42,95, 17
+2018-11-03 09:04:26 +0000,0,Guthrie,C,Possession,4,44,42,75, 28
+2018-11-03 09:04:33 +0000,1,Hinchliffe,GD,Deflect,4,44,42,87, 17
+2018-11-03 09:04:33 +0000,0,Guthrie,C,Throw In,4,44,42,104, 21
+2018-11-03 09:04:42 +0000,0,Harten ,GA,Possession,4,44,42,72, 43
+2018-11-03 09:04:44 +0000,1,Simpson,WD,Penaly - Contact,4,44,42,72, 43
+2018-11-03 09:04:44 +0000,0,Guthrie,C,Possession,4,44,42,72, 43
+2018-11-03 09:04:55 +0000,0,Guthrie,C,Assist - Circle Entry,4,44,42,72, 43
+2018-11-03 09:04:55 +0000,0,Harten ,GA,Assist - 2nd Phase,4,44,42,61, 16
+2018-11-03 09:05:04 +0000,0,Harten ,GA,Goal - Miss,4,44,42,61, 16
+2018-11-03 09:05:07 +0000,1,Hinchliffe,GD,Gain - Def Reb,4,44,42,38, 20
+2018-11-03 09:05:39 +0000,1,Cassidy,C,Possession,4,44,42,40, 65
+2018-11-03 09:06:24 +0000,1,Simpson,WD,Possession,4,44,42,86, 76
+2018-11-03 09:06:28 +0000,0,Bulley ,GD,Deflect,4,44,42,90, 119
+2018-11-03 09:06:28 +0000,1,Simpson,WD,Possession,4,44,42,93, 102
+2018-11-03 09:06:39 +0000,1,Mi Mi,WA,Possession,4,44,42,44, 121
+2018-11-03 09:06:42 +0000,1,Cassidy,C,Possession,4,44,42,18, 130
+2018-11-03 09:06:47 +0000,0,Manu’a,GK,Gain - Tip (Deflect),4,44,42,20, 179
+2018-11-03 09:06:52 +0000,0,Manu’a,GK,Possession,4,44,42,12, 163
+2018-11-03 09:06:57 +0000,0,Guthrie,C,Possession,4,44,42,73, 116
+2018-11-03 09:07:03 +0000,0,Harten ,GA,Possession,4,44,42,17, 50
+2018-11-03 09:07:09 +0000,0,Bulley ,GD,Possession,4,44,42,45, 71
+2018-11-03 09:07:11 +0000,1,Tippett,GA,Penaly - Contact,4,44,42,45, 71
+2018-11-03 09:07:11 +0000,0,Bulley ,GD,Possession,4,44,42,45, 71
+2018-11-03 09:07:19 +0000,0,Harten ,GA,Possession,4,44,42,43, 43
+2018-11-03 09:07:24 +0000,0,Harten ,GA,Assist - Circle Entry,4,44,42,43, 43
+2018-11-03 09:07:24 +0000,1,Geitz,GK,Gain - Inter,4,44,42,49, 6
+2018-11-03 09:07:32 +0000,1,Cassidy,C,Possession,4,44,42,52, 49
+2018-11-03 09:07:35 +0000,0,Guthrie,C,Penaly - Contact,4,44,42,52, 49
+2018-11-03 09:07:36 +0000,1,Geitz,GK,Possession,4,44,42,52, 49
+2018-11-03 09:07:44 +0000,1,Cassidy,C,Possession,4,44,42,92, 92
+2018-11-03 09:07:47 +0000,1,Tippett,GA,Possession,4,44,42,91, 170
+2018-11-03 09:08:00 +0000,0,Bulley ,GD,Penaly - Contact,4,44,42,75, 184
+2018-11-03 09:08:00 +0000,1,Tippett,GA,Possession,4,44,42,75, 184
+2018-11-03 09:08:07 +0000,1,Aiken,GS,Goal - Score,4,44,42,49, 194
+2018-11-03 09:08:20 +0000,1,Cassidy,C,Centre Pass,4,44,43,50, 100
+2018-11-03 09:08:20 +0000,1,Tippett,GA,Assist - Centre Pass Rec,4,44,43,16, 121
+2018-11-03 09:08:22 +0000,1,Cassidy,C,Assist - 2nd Phase,4,44,43,31, 125
+2018-11-03 09:08:25 +0000,1,Tippett,GA,Possession,4,44,43,13, 150
+2018-11-03 09:08:31 +0000,1,Tippett,GA,Assist - Circle Entry,4,44,43,13, 150
+2018-11-03 09:08:31 +0000,1,Aiken,GS,Possession,4,44,43,40, 191
+2018-11-03 09:08:32 +0000,0,Manu’a,GK,Penaly - Contact,4,44,43,40, 191
+2018-11-03 09:08:32 +0000,1,Tippett,GA,Possession,4,44,43,40, 191
+2018-11-03 09:08:40 +0000,1,Aiken,GS,Goal - Miss,4,44,43,49, 193
+2018-11-03 09:08:52 +0000,1,Aiken,GS,Assist - Attack Rebound,4,44,43,50, 197
+2018-11-03 09:08:55 +0000,0,Manu’a,GK,Penaly - Contact,4,44,43,50, 197
+2018-11-03 09:08:55 +0000,1,Aiken,GS,Goal - Score,4,44,43,50, 197
+2018-11-03 09:09:11 +0000,0,,UNKNOWN,Timeout,4,44,44,-10, -22
+2018-11-03 09:09:19 +0000,0,Manu’a,UNKNOWN,Interchange - Poolman ,4,44,44,
+2018-11-03 09:09:41 +0000,0,Guthrie,C,Centre Pass,4,44,44,50, 100
+2018-11-03 09:09:41 +0000,0,Green,WA,Assist - Centre Pass Rec,4,44,44,17, 79
+2018-11-03 09:09:45 +0000,0,Harten ,GA,Assist - 2nd Phase,4,44,44,22, 40
+2018-11-03 09:09:47 +0000,0,Bulley ,GD,Possession,4,44,44,19, 71
+2018-11-03 09:09:53 +0000,1,Simpson,WD,Penaly - Contact,4,44,44,14, 59
+2018-11-03 09:09:53 +0000,0,Green,WA,Possession,4,44,44,14, 59
+2018-11-03 09:10:01 +0000,0,Harten ,GA,Possession,4,44,44,30, 40
+2018-11-03 09:10:06 +0000,1,Hinchliffe,GD,Penaly - Contact,4,44,44,30, 40
+2018-11-03 09:10:06 +0000,0,Green,WA,Possession,4,44,44,30, 40
+2018-11-03 09:10:13 +0000,0,Green,WA,Assist - Circle Entry,4,44,44,30, 40
+2018-11-03 09:10:13 +0000,0,Harten ,GA,Goal - Score,4,44,44,40, 23
+2018-11-03 09:10:24 +0000,1,Cassidy,C,Centre Pass,4,45,44,50, 100
+2018-11-03 09:10:24 +0000,1,Tippett,GA,Assist - Centre Pass Rec,4,45,44,23, 124
+2018-11-03 09:10:27 +0000,1,Simpson,WD,Assist - 2nd Phase,4,45,44,36, 124
+2018-11-03 09:10:29 +0000,0,Green,WA,Penaly - Contact,4,45,44,36, 124
+2018-11-03 09:10:29 +0000,1,Simpson,WD,Possession,4,45,44,36, 124
+2018-11-03 09:10:44 +0000,1,Mi Mi,WA,Possession,4,45,44,15, 153
+2018-11-03 09:10:47 +0000,1,Simpson,WD,Possession,4,45,44,16, 131
+2018-11-03 09:10:49 +0000,1,Mi Mi,WA,Possession,4,45,44,36, 150
+2018-11-03 09:10:54 +0000,0,Price,WD,Penaly - Contact,4,45,44,36, 150
+2018-11-03 09:10:54 +0000,1,Mi Mi,WA,Possession,4,45,44,36, 150
+2018-11-03 09:11:03 +0000,1,Mi Mi,WA,Assist - Circle Entry,4,45,44,36, 150
+2018-11-03 09:11:03 +0000,1,Aiken,GS,Goal - Score,4,45,44,40, 196
+2018-11-03 09:11:10 +0000,0,Guthrie,C,Centre Pass,4,45,45,50, 100
+2018-11-03 09:11:10 +0000,0,Green,WA,Assist - Centre Pass Rec,4,45,45,75, 79
+2018-11-03 09:11:14 +0000,0,Harten ,GA,Assist - 2nd Phase,4,45,45,86, 31
+2018-11-03 09:11:16 +0000,0,Guthrie,C,Possession,4,45,45,61, 35
+2018-11-03 09:11:21 +0000,1,Hinchliffe,GD,Penaly - Obstruction,4,45,45,58, 24
+2018-11-03 09:11:21 +0000,0,Harten ,GA,Goal - Score,4,45,45,58, 24
+2018-11-03 09:11:33 +0000,1,Cassidy,C,Centre Pass,4,46,45,50, 100
+2018-11-03 09:11:33 +0000,1,Tippett,GA,Assist - Centre Pass Rec,4,46,45,94, 124
+2018-11-03 09:11:36 +0000,1,Cassidy,C,Assist - 2nd Phase,4,46,45,78, 115
+2018-11-03 09:11:46 +0000,1,Simpson,WD,Possession,4,46,45,19, 90
+2018-11-03 09:12:34 +0000,0,Price,WD,Deflect,4,46,45,16, 107
+2018-11-03 09:12:34 +0000,1,Simpson,WD,Throw In,4,46,45,-7, 98
+2018-11-03 09:12:44 +0000,1,Hinchliffe,GD,Possession,4,46,45,32, 90
+2018-11-03 09:12:46 +0000,1,Simpson,WD,Possession,4,46,45,13, 84
+2018-11-03 09:12:50 +0000,0,Price,WD,Penaly - Contact,4,46,45,27, 138
+2018-11-03 09:12:50 +0000,1,Mi Mi,WA,Possession,4,46,45,27, 138
+2018-11-03 09:12:56 +0000,1,Cassidy,C,Possession,4,46,45,39, 151
+2018-11-03 09:12:59 +0000,1,Cassidy,C,Assist - Circle Entry,4,46,45,39, 151
+2018-11-03 09:12:59 +0000,1,Aiken,GS,Goal - Score,4,46,45,45, 194
+2018-11-03 09:13:21 +0000,0,Guthrie,C,Centre Pass,4,46,46,50, 100
+2018-11-03 09:13:21 +0000,0,Guthrie,C,Loss - Bad Pass,4,46,46,50, 100
+2018-11-03 09:13:21 +0000,1,Simpson,WD,Throw In,4,46,46,-7, 69
+2018-11-03 09:13:31 +0000,0,Harten ,GA,Penaly - Contact,4,46,46,12, 100
+2018-11-03 09:13:31 +0000,1,Hinchliffe,GD,Possession,4,46,46,12, 100
+2018-11-03 09:13:38 +0000,1,Cassidy,C,Possession,4,46,46,35, 128
+2018-11-03 09:13:40 +0000,1,Mi Mi,WA,Possession,4,46,46,61, 140
+2018-11-03 09:13:44 +0000,1,Mi Mi,WA,Assist - Circle Entry,4,46,46,61, 140
+2018-11-03 09:13:44 +0000,1,Aiken,GS,Possession,4,46,46,78, 190
+2018-11-03 09:13:48 +0000,1,Tippett,GA,Goal - Score,4,46,46,46, 197
+2018-11-03 09:14:00 +0000,1,Cassidy,C,Centre Pass,4,46,47,50, 100
+2018-11-03 09:14:00 +0000,1,Tippett,GA,Assist - Centre Pass Rec,4,46,47,27, 126
+2018-11-03 09:14:01 +0000,1,Cassidy,C,Assist - 2nd Phase,4,46,47,17, 153
+2018-11-03 09:14:11 +0000,1,Cassidy,C,Assist - Circle Entry,4,46,47,17, 153
+2018-11-03 09:14:11 +0000,1,Aiken,GS,Penaly - Obstruction,4,46,47,36, 187
+2018-11-03 09:14:24 +0000,0,Poolman ,GK,Possession,4,46,47,35, 186
+2018-11-03 09:14:26 +0000,0,Price,WD,Possession,4,46,47,47, 139
+2018-11-03 09:14:59 +0000,0,Green,WA,Possession,4,46,47,67, 81
+2018-11-03 09:15:04 +0000,1,Mi Mi,WA,Penaly - Contact,4,46,47,57, 83
+2018-11-03 09:15:04 +0000,0,Price,WD,Possession,4,46,47,57, 83
+2018-11-03 09:15:09 +0000,0,Green,WA,Possession,4,46,47,61, 64
+2018-11-03 09:15:11 +0000,0,Guthrie,C,Possession,4,46,47,84, 15
+2018-11-03 09:15:14 +0000,0,Guthrie,C,Assist - Circle Entry,4,46,47,84, 15
+2018-11-03 09:15:14 +0000,0,Brice,GS,Possession,4,46,47,23, 8
+2018-11-03 09:15:16 +0000,0,Green,WA,Possession,4,46,47,17, 13
+2018-11-03 09:15:19 +0000,0,Green,WA,Assist - Circle Entry,4,46,47,17, 13
+2018-11-03 09:15:19 +0000,0,Brice,GS,Goal - Score,4,46,47,36, 5
+2018-11-03 09:15:29 +0000,0,Guthrie,C,Centre Pass,4,47,47,50, 100
+2018-11-03 09:15:29 +0000,0,Harten ,GA,Assist - Centre Pass Rec,4,47,47,24, 74
+2018-11-03 09:15:31 +0000,0,Green,WA,Assist - 2nd Phase,4,47,47,14, 53
+2018-11-03 09:15:33 +0000,0,Guthrie,C,Possession,4,47,47,43, 55
+2018-11-03 09:15:36 +0000,0,Harten ,GA,Possession,4,47,47,21, 25
+2018-11-03 09:15:42 +0000,1,Simpson,WD,Gain - Inter,4,47,47,82, 18
+2018-11-03 09:15:46 +0000,0,Green,WA,Penaly - Contact,4,47,47,82, 18
+2018-11-03 09:15:46 +0000,1,,UNKNOWN,Possession,4,47,47,82, 18
+2018-11-03 09:15:59 +0000,1,Hinchliffe,GD,Possession,4,47,47,38, 44
+2018-11-03 09:16:03 +0000,1,Cassidy,C,Possession,4,47,47,37, 71
+2018-11-03 09:16:07 +0000,0,Guthrie,C,Penaly - Contact,4,47,47,37, 71
+2018-11-03 09:16:07 +0000,1,Cassidy,C,Possession,4,47,47,37, 71
+2018-11-03 09:16:20 +0000,1,Tippett,GA,Possession,4,47,47,17, 129
+2018-11-03 09:16:23 +0000,1,Hinchliffe,GD,Possession,4,47,47,34, 104
+2018-11-03 09:16:25 +0000,1,Mi Mi,WA,Possession,4,47,47,87, 137
+2018-11-03 09:16:27 +0000,1,Simpson,WD,Possession,4,47,47,77, 131
+2018-11-03 09:16:35 +0000,0,Guthrie,C,Deflect,4,47,47,92, 177
+2018-11-03 09:16:35 +0000,1,Mi Mi,WA,Throw In,4,47,47,108, 174
+2018-11-03 09:16:50 +0000,1,Mi Mi,WA,Assist - Circle Entry,4,47,47,108, 174
+2018-11-03 09:16:50 +0000,1,Aiken,GS,Goal - Score,4,47,47,43, 193
+2018-11-03 09:17:03 +0000,1,Cassidy,C,Centre Pass,4,47,48,50, 100
+2018-11-03 09:17:03 +0000,1,Hinchliffe,GD,Assist - Centre Pass Rec,4,47,48,94, 116
+2018-11-03 09:17:05 +0000,1,Mi Mi,WA,Assist - 2nd Phase,4,47,48,71, 142
+2018-11-03 09:17:07 +0000,1,Cassidy,C,Possession,4,47,48,91, 163
+2018-11-03 09:17:32 +0000,1,Tippett,GA,Loss - Out of Court,4,47,48,91, 198
+2018-11-03 09:17:38 +0000,0,Poolman ,GK,Throw In,4,47,48,90, 196
+2018-11-03 09:17:47 +0000,0,Bulley ,GD,Possession,4,47,48,50, 193
+2018-11-03 09:17:51 +0000,0,Poolman ,GK,Possession,4,47,48,91, 152
+2018-11-03 09:17:53 +0000,0,Guthrie,C,Possession,4,47,48,96, 83
+2018-11-03 09:17:55 +0000,0,Harten ,GA,Possession,4,47,48,96, 61
+2018-11-03 09:18:04 +0000,0,Green,WA,Deflect,4,47,48,69, 62
+2018-11-03 09:18:15 +0000,1,Tippett,GA,Deflect,4,47,48,62, 70
+2018-11-03 09:18:15 +0000,1,Simpson,WD,Gain - Pick-up,4,47,48,8, 52
+2018-11-03 09:18:58 +0000,1,Tippett,GA,Deflect,4,47,48,48, 85
+2018-11-03 09:19:05 +0000,1,Mi Mi,WA,Possession,4,47,48,52, 122
+2018-11-03 09:19:07 +0000,1,Tippett,GA,Possession,4,47,48,31, 145
+2018-11-03 09:19:10 +0000,1,Mi Mi,WA,Possession,4,47,48,65, 169
+2018-11-03 09:19:12 +0000,1,Mi Mi,WA,Assist - Circle Entry,4,47,48,65, 169
+2018-11-03 09:19:12 +0000,1,Aiken,GS,Possession,4,47,48,55, 193
+2018-11-03 09:19:14 +0000,0,Bulley ,GD,Penaly - Contact,4,47,48,55, 193
+2018-11-03 09:19:14 +0000,1,Aiken,GS,Goal - Score,4,47,48,55, 193
+2018-11-03 09:19:22 +0000,0,Guthrie,C,Centre Pass,4,47,49,50, 100
+2018-11-03 09:19:22 +0000,0,Green,WA,Assist - Centre Pass Rec,4,47,49,77, 82
+2018-11-03 09:19:24 +0000,0,Green,WA,Assist - 2nd Phase,4,47,49,55, 58
+2018-11-03 09:19:27 +0000,0,Harten ,GA,Possession,4,47,49,82, 17
+2018-11-03 09:19:29 +0000,0,Green,WA,Possession,4,47,49,71, 28
+2018-11-03 09:19:34 +0000,0,Green,WA,Assist - Circle Entry,4,47,49,71, 28
+2018-11-03 09:19:35 +0000,0,Harten ,GA,Possession,4,47,49,68, 23
+2018-11-03 09:19:37 +0000,1,Hinchliffe,GD,Penaly - Contact,4,47,49,68, 23
+2018-11-03 09:19:37 +0000,0,Harten ,GA,Possession,4,47,49,68, 23
+2018-11-03 09:19:41 +0000,0,Guthrie,C,Possession,4,47,49,20, 17
+2018-11-03 09:19:42 +0000,1,Cassidy,C,Penaly - Obstruction,4,47,49,20, 17
+2018-11-03 09:19:43 +0000,0,Guthrie,C,Possession,4,47,49,20, 17
+2018-11-03 09:19:46 +0000,0,Guthrie,C,Assist - Circle Entry,4,47,49,20, 17
+2018-11-03 09:19:46 +0000,0,Harten ,GA,Goal - Score,4,47,49,48, 14
+2018-11-03 09:19:55 +0000,1,Cassidy,C,Centre Pass,4,48,49,50, 100
+2018-11-03 09:19:55 +0000,1,Tippett,GA,Assist - Centre Pass Rec,4,48,49,77, 128
+2018-11-03 09:19:57 +0000,1,Cassidy,C,Assist - 2nd Phase,4,48,49,82, 139
+2018-11-03 09:20:00 +0000,0,Guthrie,C,Penaly - Contact,4,48,49,82, 139
+2018-11-03 09:20:00 +0000,1,Cassidy,C,Possession,4,48,49,82, 139
+2018-11-03 09:20:04 +0000,1,Tippett,GA,Possession,4,48,49,68, 169
+2018-11-03 09:20:06 +0000,1,Tippett,GA,Assist - Circle Entry,4,48,49,68, 169
+2018-11-03 09:20:06 +0000,1,Aiken,GS,Possession,4,48,49,51, 175
+2018-11-03 09:20:07 +0000,1,Mi Mi,WA,Possession,4,48,49,21, 179
+2018-11-03 09:20:09 +0000,1,Mi Mi,WA,Assist - Circle Entry,4,48,49,21, 179
+2018-11-03 09:20:09 +0000,1,Tippett,GA,Possession,4,48,49,35, 197
+2018-11-03 09:20:12 +0000,1,Cassidy,C,Possession,4,48,49,80, 183
+2018-11-03 09:20:14 +0000,1,Cassidy,C,Assist - Circle Entry,4,48,49,80, 183
+2018-11-03 09:20:14 +0000,1,Aiken,GS,Goal - Score,4,48,49,67, 188
+2018-11-03 09:20:22 +0000,0,Guthrie,C,Centre Pass,4,48,50,50, 100
+2018-11-03 09:20:22 +0000,0,Green,WA,Assist - Centre Pass Rec,4,48,50,29, 85
+2018-11-03 09:20:23 +0000,0,Harten ,GA,Assist - 2nd Phase,4,48,50,15, 62
+2018-11-03 09:20:26 +0000,0,Harten ,GA,Assist - Circle Entry,4,48,50,15, 62
+2018-11-03 09:20:26 +0000,0,Brice,GS,Goal - Score,4,48,50,47, 12
+2018-11-03 09:20:38 +0000,1,Cassidy,C,Centre Pass,4,49,50,50, 100
+2018-11-03 09:20:38 +0000,1,Mi Mi,WA,Assist - Centre Pass Rec,4,49,50,53, 123
+2018-11-03 09:20:39 +0000,1,Tippett,GA,Assist - 2nd Phase,4,49,50,80, 143
+2018-11-03 09:20:42 +0000,1,Mi Mi,WA,Possession,4,49,50,83, 187
+2018-11-03 09:20:47 +0000,1,Mi Mi,WA,Assist - Circle Entry,4,49,50,83, 187
+2018-11-03 09:20:47 +0000,1,Aiken,GS,Goal - Miss,4,49,50,45, 196
+2018-11-03 09:20:52 +0000,1,Aiken,GS,Assist - Attack Rebound,4,49,50,50, 197
+2018-11-03 09:20:53 +0000,0,Poolman ,GK,Penaly - Contact,4,49,50,50, 197
+2018-11-03 09:20:53 +0000,1,Aiken,GS,Possession,4,49,50,50, 197
+2018-11-03 09:21:00 +0000,0,Bulley ,GD,Penaly - Obstruction,4,49,50,50, 197
+2018-11-03 09:21:00 +0000,1,Aiken,GS,Goal - Miss,4,49,50,50, 197
+2018-11-03 09:21:52 +0000,0,Poolman ,GK,Deflect,4,49,50,48, 197
+2018-11-03 09:22:00 +0000,1,Tippett,GA,Throw In,4,49,50,49, 204
+2018-11-03 09:22:16 +0000,1,Cassidy,C,Possession,4,49,50,40, 166
+2018-11-03 09:22:18 +0000,1,Cassidy,C,Assist - Circle Entry,4,49,50,40, 166
+2018-11-03 09:22:18 +0000,1,Tippett,GA,Possession,4,49,50,41, 177
+2018-11-03 09:22:20 +0000,1,Cassidy,C,Possession,4,49,50,39, 168
+2018-11-03 09:22:23 +0000,1,Cassidy,C,Assist - Circle Entry,4,49,50,39, 168
+2018-11-03 09:22:23 +0000,1,Aiken,GS,Possession,4,49,50,39, 188
+2018-11-03 09:22:25 +0000,0,Poolman ,GK,Penaly - Contact,4,49,50,39, 188
+2018-11-03 09:22:25 +0000,1,Tippett,GA,Possession,4,49,50,39, 188
+2018-11-03 09:22:33 +0000,0,Bulley ,GD,Penaly - Obstruction,4,49,50,39, 188
+2018-11-03 09:22:33 +0000,1,Tippett,GA,Goal - Score,4,49,50,39, 188
+2018-11-03 09:22:51 +0000,0,Guthrie,C,Centre Pass,4,49,51,50, 100
+2018-11-03 09:22:51 +0000,0,Green,WA,Assist - Centre Pass Rec,4,49,51,79, 93
+2018-11-03 09:22:52 +0000,0,Harten ,GA,Assist - 2nd Phase,4,49,51,53, 73
+2018-11-03 09:22:55 +0000,0,Guthrie,C,Possession,4,49,51,48, 49
+2018-11-03 09:22:56 +0000,0,Harten ,GA,Possession,4,49,51,22, 22
+2018-11-03 09:23:01 +0000,1,Cassidy,C,Penaly - Contact,4,49,51,22, 22
+2018-11-03 09:23:01 +0000,0,Guthrie,C,Possession,4,49,51,22, 22
+2018-11-03 09:23:09 +0000,0,Guthrie,C,Assist - Circle Entry,4,49,51,22, 22
+2018-11-03 09:23:09 +0000,0,Harten ,GA,Goal - Score,4,49,51,52, 11
+2018-11-03 09:23:16 +0000,1,Cassidy,C,Centre Pass,4,50,51,50, 100
+2018-11-03 09:23:16 +0000,1,Tippett,GA,Assist - Centre Pass Rec,4,50,51,70, 124
+2018-11-03 09:23:18 +0000,1,Cassidy,C,Assist - 2nd Phase,4,50,51,84, 122
+2018-11-03 09:23:29 +0000,1,Mi Mi,WA,Loss - Bad Pass,4,50,51,93, 176
+2018-11-03 09:23:32 +0000,0,Poolman ,GK,Throw In,4,50,51,104, 193
+2018-11-03 09:23:41 +0000,0,Bulley ,GD,Possession,4,50,51,71, 185
+2018-11-03 09:23:42 +0000,0,Guthrie,C,Possession,4,50,51,20, 160
+2018-11-03 09:23:45 +0000,0,Poolman ,GK,Possession,4,50,51,51, 167
+2018-11-03 09:23:47 +0000,0,Price,WD,Possession,4,50,51,25, 140
+2018-11-03 09:24:01 +0000,0,Bulley ,GD,Possession,4,50,51,65, 133
+2018-11-03 09:24:03 +0000,1,Tippett,GA,Penaly - Contact,4,50,51,65, 133
+2018-11-03 09:24:03 +0000,0,Poolman ,GK,Possession,4,50,51,65, 133
+2018-11-03 09:24:16 +0000,0,Bulley ,GD,Possession,4,50,51,20, 128
+2018-11-03 09:24:19 +0000,0,Price,WD,Possession,4,50,51,23, 104
+2018-11-03 09:24:21 +0000,0,Harten ,GA,Possession,4,50,51,28, 74
+2018-11-03 09:24:24 +0000,0,Price,WD,Possession,4,50,51,20, 70
+2018-11-03 09:24:25 +0000,1,Hinchliffe,GD,Penaly - Contact,4,50,51,20, 70
+2018-11-03 09:24:26 +0000,0,Price,WD,Possession,4,50,51,20, 70
+2018-11-03 09:24:31 +0000,0,Guthrie,C,Possession,4,50,51,13, 46
+2018-11-03 09:24:34 +0000,0,Green,WA,Possession,4,50,51,50, 56
+2018-11-03 09:24:36 +0000,0,Guthrie,C,Possession,4,50,51,40, 35
+2018-11-03 09:24:38 +0000,0,Guthrie,C,Assist - Circle Entry,4,50,51,40, 35
+2018-11-03 09:24:38 +0000,0,Harten ,GA,Possession,4,50,51,33, 9
+2018-11-03 09:24:41 +0000,0,Green,WA,Possession,4,50,51,18, 15
+2018-11-03 09:24:43 +0000,0,Green,WA,Assist - Circle Entry,4,50,51,18, 15
+2018-11-03 09:24:43 +0000,0,Harten ,GA,Possession,4,50,51,36, 7
+2018-11-03 09:24:45 +0000,0,Green,WA,Possession,4,50,51,17, 16
+2018-11-03 09:24:47 +0000,0,Green,WA,Assist - Circle Entry,4,50,51,17, 16
+2018-11-03 09:24:48 +0000,0,Harten ,GA,Goal - Score,4,50,51,38, 6
+2018-11-03 09:25:01 +0000,0,Guthrie,C,Centre Pass,4,51,51,50, 100
+2018-11-03 09:25:01 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,4,51,51,21, 93
+2018-11-03 09:25:03 +0000,1,Tippett,GA,Penaly - Contact,4,51,51,21, 93
+2018-11-03 09:25:03 +0000,0,Bulley ,GD,Possession,4,51,51,21, 93
+2018-11-03 09:25:08 +0000,0,Guthrie,C,Possession,4,51,51,27, 75
+2018-11-03 09:25:10 +0000,0,Harten ,GA,Possession,4,51,51,20, 46
+2018-11-03 09:25:13 +0000,0,Guthrie,C,Possession,4,51,51,12, 60
+2018-11-03 09:25:15 +0000,0,Bulley ,GD,Possession,4,51,51,18, 70
+2018-11-03 09:25:20 +0000,1,Tippett,GA,Penaly - Contact,4,51,51,18, 70
+2018-11-03 09:25:20 +0000,0,Bulley ,GD,Possession,4,51,51,18, 70
+2018-11-03 09:25:28 +0000,0,Harten ,GA,Possession,4,51,51,41, 40
+2018-11-03 09:25:30 +0000,0,Price,WD,Possession,4,51,51,50, 70
+2018-11-03 09:25:33 +0000,0,Guthrie,C,Possession,4,51,51,47, 61
+2018-11-03 09:25:34 +0000,0,Green,WA,Possession,4,51,51,92, 55
+2018-11-03 09:25:37 +0000,0,Harten ,GA,Possession,4,51,51,86, 10
+2018-11-03 09:25:42 +0000,0,Bulley ,GD,Possession,4,51,51,57, 71
+2018-11-03 09:25:44 +0000,0,Harten ,GA,Possession,4,51,51,52, 55
+2018-11-03 09:25:47 +0000,0,Green,WA,Possession,4,51,51,45, 38
+2018-11-03 09:25:48 +0000,1,Cassidy,C,Penaly - Contact,4,51,51,45, 38
+2018-11-03 09:25:48 +0000,0,Green,WA,Possession,4,51,51,45, 38
+2018-11-03 09:25:54 +0000,0,Green,WA,Assist - Circle Entry,4,51,51,45, 38
+2018-11-03 09:25:54 +0000,0,Brice,GS,Assist - 2nd Phase,4,51,51,55, 7
+2018-11-03 09:26:00 +0000,0,Brice,GS,Goal - Score,4,51,51,55, 7
+2018-11-03 09:26:05 +0000,1,Cassidy,C,Centre Pass,4,52,51,50, 100
+2018-11-03 09:26:05 +0000,1,Mi Mi,WA,Assist - Centre Pass Rec,4,52,51,18, 129
+2018-11-03 09:26:08 +0000,1,Hinchliffe,GD,Assist - 2nd Phase,4,52,51,17, 109
+2018-11-03 09:26:12 +0000,1,Cassidy,C,Possession,4,52,51,15, 142
+2018-11-03 09:26:18 +0000,1,Cassidy,C,Assist - Circle Entry,4,52,51,15, 142
+2018-11-03 09:26:18 +0000,0,Poolman ,GK,Gain - Tip (Deflect),4,52,51,51, 184
+2018-11-03 09:26:27 +0000,0,Poolman ,GK,Possession,4,52,51,51, 165
+2018-11-03 09:26:30 +0000,0,Guthrie,C,Possession,4,52,51,76, 158
+2018-11-03 09:26:36 +0000,1,Aiken,GS,Penaly - Obstruction,4,52,51,76, 158
+2018-11-03 09:26:36 +0000,0,Poolman ,GK,Possession,4,52,51,76, 158
+2018-11-03 09:26:45 +0000,0,Price,WD,Possession,4,52,51,74, 114
+2018-11-03 09:26:48 +0000,1,Mi Mi,WA,Penaly - Obstruction,4,52,51,74, 114
+2018-11-03 09:26:48 +0000,0,Price,WD,Possession,4,52,51,74, 114
+2018-11-03 09:26:59 +0000,0,Green,WA,Possession,4,52,51,91, 76
+2018-11-03 09:27:03 +0000,0,Price,WD,Possession,4,52,51,79, 72
+2018-11-03 09:27:06 +0000,0,Harten ,GA,Possession,4,52,51,74, 46
+2018-11-03 09:27:11 +0000,0,Price,WD,Possession,4,52,51,82, 72
+2018-11-03 09:27:15 +0000,0,Green,WA,Possession,4,52,51,83, 56
+2018-11-03 09:27:27 +0000,1,Simpson,WD,Penaly - Obstruction,4,52,51,83, 56
+2018-11-03 09:27:27 +0000,0,Green,WA,Possession,4,52,51,83, 56
+2018-11-03 09:27:34 +0000,0,Bulley ,GD,Possession,4,52,51,67, 70
+2018-11-03 09:27:49 +0000,1,Tippett,GA,Loss - Offside,4,52,51,68, 72
+2018-11-03 09:27:59 +0000,0,Green,WA,Possession,4,52,51,70, 71
+2018-11-03 09:28:06 +0000,0,Harten ,GA,Possession,4,52,51,69, 41
+2018-11-03 09:28:08 +0000,1,Hinchliffe,GD,Penaly - Contact,4,52,51,69, 41
+2018-11-03 09:28:08 +0000,0,Green,WA,Possession,4,52,51,69, 41
+2018-11-03 09:28:15 +0000,0,Green,WA,Assist - Circle Entry,4,52,51,69, 41
+2018-11-03 09:28:15 +0000,0,Harten ,GA,Goal - Score,4,52,51,69, 7
+2018-11-03 09:28:39 +0000,1,,UNKNOWN,Timeout,4,53,51,-10, -22
+2018-11-03 09:28:58 +0000,0,Guthrie,C,Centre Pass,4,53,51,50, 100
+2018-11-03 09:28:58 +0000,0,Green,WA,Assist - Centre Pass Rec,4,53,51,18, 80
+2018-11-03 09:29:01 +0000,0,Harten ,GA,Assist - 2nd Phase,4,53,51,59, 71
+2018-11-03 09:29:04 +0000,0,Green,WA,Possession,4,53,51,35, 65
+2018-11-03 09:29:05 +0000,0,Harten ,GA,Possession,4,53,51,94, 47
+2018-11-03 09:29:13 +0000,0,Guthrie,C,Deflect,4,53,51,17, 17
+2018-11-03 09:29:17 +0000,1,Geitz,GK,Throw In,4,53,51,3, -4
+2018-11-03 09:29:25 +0000,1,Cassidy,C,Possession,4,53,51,79, 33
+2018-11-03 09:29:28 +0000,0,Green,WA,Penaly - Contact,4,53,51,79, 33
+2018-11-03 09:29:29 +0000,1,Cassidy,C,Possession,4,53,51,79, 33
+2018-11-03 09:29:32 +0000,1,Geitz,GK,Possession,4,53,51,19, 57
+2018-11-03 09:29:35 +0000,1,Mi Mi,WA,Possession,4,53,51,53, 90
+2018-11-03 09:29:39 +0000,0,Bulley ,GD,Gain - Inter,4,53,51,77, 149

@@ -1,0 +1,1609 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-11-29 07:39:55 +0000,1,Proud,C,Centre Pass,1,0,0,50, 100
+2018-11-29 07:39:55 +0000,1,Housby ,GA,Assist - Centre Pass Rec,1,0,0,83, 125
+2018-11-29 07:40:00 +0000,1,Hadley,WA,Assist - 2nd Phase,1,0,0,59, 130
+2018-11-29 07:40:03 +0000,1,Housby ,GA,Possession,1,0,0,80, 164
+2018-11-29 07:40:05 +0000,1,Proud,C,Possession,1,0,0,67, 153
+2018-11-29 07:40:06 +0000,1,Proud,C,Assist - Circle Entry,1,0,0,67, 153
+2018-11-29 07:40:06 +0000,1,Wallace,GS,Possession,1,0,0,50, 168
+2018-11-29 07:40:09 +0000,1,Housby ,GA,Possession,1,0,0,61, 180
+2018-11-29 07:40:16 +0000,0,Shimmin,GK,Deflect,1,0,0,44, 193
+2018-11-29 07:40:16 +0000,1,Housby ,GA,Throw In,1,0,0,36, 203
+2018-11-29 07:40:24 +0000,1,Hadley,WA,Possession,1,0,0,21, 177
+2018-11-29 07:40:28 +0000,1,Hadley,WA,Assist - Circle Entry,1,0,0,21, 177
+2018-11-29 07:40:28 +0000,1,Housby ,GA,Goal - Score,1,0,0,33, 187
+2018-11-29 07:40:39 +0000,0,Bryce,C,Centre Pass,1,0,1,50, 100
+2018-11-29 07:40:39 +0000,0,Msomi,WA,Assist - Centre Pass Rec,1,0,1,79, 76
+2018-11-29 07:40:41 +0000,0,Bryce,C,Assist - 2nd Phase,1,0,1,64, 81
+2018-11-29 07:40:42 +0000,0,Msomi,WA,Possession,1,0,1,84, 59
+2018-11-29 07:40:44 +0000,0,de Bruin,GD,Possession,1,0,1,87, 71
+2018-11-29 07:40:47 +0000,1,Housby ,GA,Penaly - Contact,1,0,1,87, 71
+2018-11-29 07:40:47 +0000,0,de Bruin,GD,Possession,1,0,1,87, 71
+2018-11-29 07:41:02 +0000,0,Msomi,WA,Possession,1,0,1,77, 51
+2018-11-29 07:41:04 +0000,1,Proud,C,Penaly - Contact,1,0,1,77, 51
+2018-11-29 07:41:04 +0000,0,Msomi,WA,Possession,1,0,1,77, 51
+2018-11-29 07:41:14 +0000,0,Pitman,GA,Possession,1,0,1,57, 45
+2018-11-29 07:41:16 +0000,0,Msomi,WA,Possession,1,0,1,60, 35
+2018-11-29 07:41:23 +0000,0,Msomi,WA,Assist - Circle Entry,1,0,1,60, 35
+2018-11-29 07:41:23 +0000,0,Nelson,GS,Loss - Out of Court,1,0,1,36, 0
+2018-11-29 07:41:29 +0000,1,Klau ,GK,Throw In,1,0,1,35, 0
+2018-11-29 07:41:42 +0000,1,Turner,GD,Possession,1,0,1,20, 26
+2018-11-29 07:41:44 +0000,1,Klau ,GK,Possession,1,0,1,33, 12
+2018-11-29 07:41:46 +0000,1,Turner,GD,Possession,1,0,1,12, 36
+2018-11-29 07:41:50 +0000,1,Klau ,GK,Possession,1,0,1,86, 32
+2018-11-29 07:41:54 +0000,0,Fowler,WD,Gain - Inter,1,0,1,83, 99
+2018-11-29 07:42:02 +0000,0,Msomi,WA,Possession,1,0,1,78, 60
+2018-11-29 07:42:04 +0000,0,Bryce,C,Possession,1,0,1,44, 55
+2018-11-29 07:42:06 +0000,0,Msomi,WA,Possession,1,0,1,53, 36
+2018-11-29 07:42:08 +0000,0,Bryce,C,Possession,1,0,1,35, 33
+2018-11-29 07:42:13 +0000,0,Bryce,C,Assist - Circle Entry,1,0,1,35, 33
+2018-11-29 07:42:13 +0000,0,Pitman,GA,Possession,1,0,1,45, 25
+2018-11-29 07:42:16 +0000,0,Bryce,C,Possession,1,0,1,27, 27
+2018-11-29 07:42:18 +0000,0,Bryce,C,Assist - Circle Entry,1,0,1,27, 27
+2018-11-29 07:42:18 +0000,0,Pitman,GA,Possession,1,0,1,40, 20
+2018-11-29 07:42:21 +0000,1,Turner,GD,Penaly - Contact,1,0,1,40, 20
+2018-11-29 07:42:21 +0000,0,Pitman,GA,Possession,1,0,1,40, 20
+2018-11-29 07:43:05 +0000,1,Klau ,GK,Deflect,1,0,1,63, 11
+2018-11-29 07:43:05 +0000,0,Nelson,GS,Possession,1,0,1,95, 20
+2018-11-29 07:43:11 +0000,0,Msomi,WA,Possession,1,0,1,70, 33
+2018-11-29 07:43:13 +0000,0,Bryce,C,Possession,1,0,1,4, 17
+2018-11-29 07:43:16 +0000,0,de Bruin,GD,Possession,1,0,1,19, 68
+2018-11-29 07:43:18 +0000,0,Msomi,WA,Possession,1,0,1,21, 51
+2018-11-29 07:43:20 +0000,0,de Bruin,GD,Possession,1,0,1,13, 71
+2018-11-29 07:43:23 +0000,0,Msomi,WA,Possession,1,0,1,6, 49
+2018-11-29 07:43:27 +0000,0,de Bruin,GD,Possession,1,0,1,16, 68
+2018-11-29 07:43:29 +0000,0,Pitman,GA,Possession,1,0,1,65, 37
+2018-11-29 07:43:31 +0000,0,Bryce,C,Loss - Bad Pass,1,0,1,52, 35
+2018-11-29 07:43:36 +0000,1,Klau ,GK,Throw In,1,0,1,8, -5
+2018-11-29 07:43:42 +0000,1,McCulloch,WD,Possession,1,0,1,76, 30
+2018-11-29 07:43:46 +0000,1,Proud,C,Possession,1,0,1,67, 30
+2018-11-29 07:43:49 +0000,1,Turner,GD,Possession,1,0,1,11, 61
+2018-11-29 07:43:55 +0000,1,McCulloch,WD,Possession,1,0,1,80, 123
+2018-11-29 07:44:01 +0000,1,Housby ,GA,Possession,1,0,1,89, 189
+2018-11-29 07:44:06 +0000,1,Housby ,GA,Assist - Circle Entry,1,0,1,89, 189
+2018-11-29 07:44:06 +0000,1,Wallace,GS,Goal - Miss,1,0,1,37, 192
+2018-11-29 07:44:11 +0000,1,Wallace,GS,Assist - Attack Rebound,1,0,1,50, 197
+2018-11-29 07:44:15 +0000,1,Wallace,GS,Goal - Score,1,0,1,37, 192
+2018-11-29 07:44:32 +0000,1,Proud,C,Centre Pass,1,0,2,50, 100
+2018-11-29 07:44:32 +0000,1,Housby ,GA,Assist - Centre Pass Rec,1,0,2,28, 128
+2018-11-29 07:44:35 +0000,1,Hadley,WA,Assist - 2nd Phase,1,0,2,18, 183
+2018-11-29 07:44:38 +0000,1,Hadley,WA,Assist - Circle Entry,1,0,2,18, 183
+2018-11-29 07:44:38 +0000,1,Housby ,GA,Goal - Score,1,0,2,38, 194
+2018-11-29 07:44:48 +0000,0,Bryce,C,Centre Pass,1,0,3,50, 100
+2018-11-29 07:44:48 +0000,0,Msomi,WA,Assist - Centre Pass Rec,1,0,3,14, 81
+2018-11-29 07:44:51 +0000,1,Turner,GD,Gain - Inter,1,0,3,4, 29
+2018-11-29 07:44:55 +0000,1,Proud,C,Possession,1,0,3,33, 48
+2018-11-29 07:44:58 +0000,1,McCulloch,WD,Possession,1,0,3,16, 65
+2018-11-29 07:45:01 +0000,0,de Bruin,GD,Gain - Inter,1,0,3,62, 118
+2018-11-29 07:45:06 +0000,0,Msomi,WA,Possession,1,0,3,78, 74
+2018-11-29 07:45:09 +0000,0,Msomi,WA,Assist - Circle Entry,1,0,3,78, 74
+2018-11-29 07:45:10 +0000,0,Pitman,GA,Possession,1,0,3,77, 16
+2018-11-29 07:45:12 +0000,0,Msomi,WA,Possession,1,0,3,76, 23
+2018-11-29 07:45:14 +0000,1,Turner,GD,Penaly - Contact,1,0,3,76, 23
+2018-11-29 07:45:14 +0000,0,Msomi,WA,Possession,1,0,3,76, 23
+2018-11-29 07:45:26 +0000,0,Msomi,WA,Assist - Circle Entry,1,0,3,76, 23
+2018-11-29 07:45:26 +0000,0,Pitman,GA,Possession,1,0,3,65, 6
+2018-11-29 07:45:28 +0000,0,Msomi,WA,Possession,1,0,3,71, 28
+2018-11-29 07:45:31 +0000,0,Msomi,WA,Assist - Circle Entry,1,0,3,71, 28
+2018-11-29 07:45:31 +0000,0,Pitman,GA,Possession,1,0,3,56, 14
+2018-11-29 07:45:43 +0000,1,Klau ,GK,Deflect,1,0,3,44, 13
+2018-11-29 07:45:43 +0000,0,Bryce,C,Throw In,1,0,3,1, -4
+2018-11-29 07:45:52 +0000,0,Pitman,GA,Possession,1,0,3,9, 47
+2018-11-29 07:45:55 +0000,0,de Bruin,GD,Possession,1,0,3,21, 71
+2018-11-29 07:45:57 +0000,0,Msomi,WA,Possession,1,0,3,26, 53
+2018-11-29 07:45:59 +0000,0,Fowler,WD,Possession,1,0,3,29, 99
+2018-11-29 07:46:01 +0000,0,Pitman,GA,Possession,1,0,3,80, 62
+2018-11-29 07:46:03 +0000,0,Bryce,C,Possession,1,0,3,46, 36
+2018-11-29 07:46:05 +0000,0,Bryce,C,Assist - Circle Entry,1,0,3,46, 36
+2018-11-29 07:46:05 +0000,0,Nelson,GS,Possession,1,0,3,37, 8
+2018-11-29 07:46:07 +0000,1,Klau ,GK,Penaly - Contact,1,0,3,37, 8
+2018-11-29 07:46:07 +0000,0,Nelson,GS,Goal - Score,1,0,3,37, 8
+2018-11-29 07:46:13 +0000,1,Proud,C,Centre Pass,1,1,3,50, 100
+2018-11-29 07:46:13 +0000,1,Housby ,GA,Assist - Centre Pass Rec,1,1,3,59, 123
+2018-11-29 07:46:15 +0000,1,Hadley,WA,Assist - 2nd Phase,1,1,3,83, 155
+2018-11-29 07:46:17 +0000,1,Housby ,GA,Possession,1,1,3,52, 157
+2018-11-29 07:46:20 +0000,1,Housby ,GA,Assist - Circle Entry,1,1,3,52, 157
+2018-11-29 07:46:20 +0000,1,Wallace,GS,Goal - Miss,1,1,3,43, 191
+2018-11-29 07:46:26 +0000,0,Shimmin,GK,Gain - Def Reb,1,1,3,50, 197
+2018-11-29 07:46:37 +0000,0,de Bruin,GD,Possession,1,1,3,59, 130
+2018-11-29 07:46:39 +0000,1,Proud,C,Penaly - Contact,1,1,3,59, 130
+2018-11-29 07:46:39 +0000,0,de Bruin,GD,Possession,1,1,3,59, 130
+2018-11-29 07:46:48 +0000,0,Fowler,WD,Possession,1,1,3,13, 124
+2018-11-29 07:46:51 +0000,0,Bryce,C,Possession,1,1,3,14, 72
+2018-11-29 07:46:54 +0000,0,Pitman,GA,Possession,1,1,3,12, 53
+2018-11-29 07:46:56 +0000,0,Msomi,WA,Possession,1,1,3,34, 59
+2018-11-29 07:47:00 +0000,0,de Bruin,GD,Possession,1,1,3,80, 72
+2018-11-29 07:47:01 +0000,0,Pitman,GA,Possession,1,1,3,81, 47
+2018-11-29 07:47:04 +0000,0,Bryce,C,Possession,1,1,3,75, 24
+2018-11-29 07:47:07 +0000,0,Bryce,C,Assist - Circle Entry,1,1,3,75, 24
+2018-11-29 07:47:07 +0000,0,Pitman,GA,Goal - Miss,1,1,3,53, 4
+2018-11-29 07:47:16 +0000,1,Klau ,GK,Gain - Def Reb,1,1,3,50, 2
+2018-11-29 07:47:16 +0000,0,Nelson,GS,Penaly - Contact,1,1,3,50, 2
+2018-11-29 07:47:16 +0000,1,Klau ,GK,Possession,1,1,3,50, 2
+2018-11-29 07:47:25 +0000,1,Turner,GD,Possession,1,1,3,90, 105
+2018-11-29 07:47:27 +0000,1,Hadley,WA,Possession,1,1,3,81, 127
+2018-11-29 07:47:34 +0000,1,Proud,C,Possession,1,1,3,88, 182
+2018-11-29 07:47:36 +0000,1,Proud,C,Assist - Circle Entry,1,1,3,88, 182
+2018-11-29 07:47:36 +0000,1,Wallace,GS,Goal - Score,1,1,3,44, 193
+2018-11-29 07:48:23 +0000,0,Bryce,C,Centre Pass,1,1,4,50, 100
+2018-11-29 07:48:23 +0000,0,Pitman,GA,Assist - Centre Pass Rec,1,1,4,66, 86
+2018-11-29 07:48:25 +0000,0,Bryce,C,Assist - 2nd Phase,1,1,4,54, 61
+2018-11-29 07:48:28 +0000,0,Bryce,C,Assist - Circle Entry,1,1,4,54, 61
+2018-11-29 07:48:28 +0000,0,Nelson,GS,Goal - Miss,1,1,4,54, 8
+2018-11-29 07:48:37 +0000,1,Klau ,GK,Deflect,1,1,4,50, 2
+2018-11-29 07:48:39 +0000,0,Pitman,GA,Throw In,1,1,4,52, -4
+2018-11-29 07:49:14 +0000,1,Proud,C,Loss - Offside,1,1,4,20, 10
+2018-11-29 07:49:14 +0000,0,Pitman,GA,Possession,1,1,4,20, 10
+2018-11-29 07:49:29 +0000,0,Msomi,WA,Possession,1,1,4,79, 17
+2018-11-29 07:49:37 +0000,0,Msomi,WA,Assist - Circle Entry,1,1,4,79, 17
+2018-11-29 07:49:37 +0000,0,Pitman,GA,Goal - Miss,1,1,4,60, 11
+2018-11-29 07:49:39 +0000,1,Klau ,GK,Throw In,1,1,4,50, 7
+2018-11-29 07:49:49 +0000,1,McCulloch,WD,Possession,1,1,4,73, 28
+2018-11-29 07:54:10 +0000,1,Klau ,GK,Possession,1,1,4,53, 19
+2018-11-29 07:54:18 +0000,1,Turner,GD,Possession,1,1,4,14, 93
+2018-11-29 07:54:21 +0000,0,Pitman,GA,Deflect,1,1,4,17, 121
+2018-11-29 07:54:21 +0000,1,Turner,GD,Throw In,1,1,4,-4, 128
+2018-11-29 07:54:29 +0000,1,Hadley,WA,Possession,1,1,4,21, 118
+2018-11-29 07:54:32 +0000,1,Proud,C,Possession,1,1,4,42, 142
+2018-11-29 07:54:36 +0000,1,Proud,C,Assist - Circle Entry,1,1,4,42, 142
+2018-11-29 07:54:36 +0000,1,Wallace,GS,Possession,1,1,4,58, 192
+2018-11-29 07:54:38 +0000,1,Hadley,WA,Possession,1,1,4,80, 182
+2018-11-29 07:54:40 +0000,1,Hadley,WA,Assist - Circle Entry,1,1,4,80, 182
+2018-11-29 07:54:40 +0000,1,Wallace,GS,Goal - Score,1,1,4,50, 193
+2018-11-29 07:54:46 +0000,0,,UNKNOWN,Timeout,1,1,5,110, 222
+2018-11-29 07:55:32 +0000,0,Pitman,UNKNOWN,Interchange - Latu-Meafou,1,1,5,
+2018-11-29 07:55:56 +0000,1,Proud,C,Centre Pass,1,1,5,50, 100
+2018-11-29 07:55:56 +0000,1,Housby ,GA,Assist - Centre Pass Rec,1,1,5,76, 127
+2018-11-29 07:55:58 +0000,1,Proud,C,Assist - 2nd Phase,1,1,5,51, 141
+2018-11-29 07:56:00 +0000,1,Proud,C,Assist - Circle Entry,1,1,5,51, 141
+2018-11-29 07:56:00 +0000,1,Wallace,GS,Possession,1,1,5,53, 174
+2018-11-29 07:56:03 +0000,1,Proud,C,Possession,1,1,5,3, 144
+2018-11-29 07:56:05 +0000,1,Housby ,GA,Possession,1,1,5,44, 150
+2018-11-29 07:56:12 +0000,1,Housby ,GA,Assist - Circle Entry,1,1,5,44, 150
+2018-11-29 07:56:12 +0000,1,Wallace,GS,Goal - Score,1,1,5,34, 194
+2018-11-29 07:56:17 +0000,0,Bryce,C,Centre Pass,1,1,6,50, 100
+2018-11-29 07:56:17 +0000,0,Msomi,WA,Assist - Centre Pass Rec,1,1,6,25, 80
+2018-11-29 07:56:20 +0000,0,Latu-Meafou,GA,Loss - Drop,1,1,6,2, 58
+2018-11-29 07:56:23 +0000,1,Klau ,GK,Throw In,1,1,6,-3, 56
+2018-11-29 08:04:22 +0000,1,Turner,GD,Possession,1,1,6,23, 51
+2018-11-29 08:04:24 +0000,1,McCulloch,WD,Possession,1,1,6,48, 60
+2018-11-29 08:04:26 +0000,1,Turner,GD,Possession,1,1,6,29, 69
+2018-11-29 08:04:31 +0000,0,Latu-Meafou,GA,Penaly - Contact,1,1,6,29, 69
+2018-11-29 08:04:31 +0000,1,Turner,GD,Possession,1,1,6,29, 69
+2018-11-29 08:04:36 +0000,1,Proud,C,Possession,1,1,6,47, 88
+2018-11-29 08:04:38 +0000,1,Hadley,WA,Possession,1,1,6,65, 104
+2018-11-29 08:04:43 +0000,1,Housby ,GA,Possession,1,1,6,72, 166
+2018-11-29 08:04:47 +0000,0,Shimmin,GK,Deflect,1,1,6,45, 178
+2018-11-29 08:04:47 +0000,1,Housby ,GA,Possession,1,1,6,41, 166
+2018-11-29 08:04:55 +0000,1,Hadley,WA,Possession,1,1,6,72, 174
+2018-11-29 08:04:57 +0000,1,Hadley,WA,Assist - Circle Entry,1,1,6,72, 174
+2018-11-29 08:04:58 +0000,1,Wallace,GS,Possession,1,1,6,40, 193
+2018-11-29 08:05:00 +0000,0,Shimmin,GK,Penaly - Contact,1,1,6,40, 193
+2018-11-29 08:05:00 +0000,1,Wallace,GS,Goal - Score,1,1,6,40, 193
+2018-11-29 08:05:11 +0000,1,Proud,C,Centre Pass,1,1,7,50, 100
+2018-11-29 08:05:11 +0000,1,Hadley,WA,Assist - Centre Pass Rec,1,1,7,10, 115
+2018-11-29 08:05:14 +0000,1,Housby ,GA,Assist - 2nd Phase,1,1,7,10, 149
+2018-11-29 08:05:20 +0000,1,Proud,C,Possession,1,1,7,12, 186
+2018-11-29 08:05:23 +0000,1,Proud,C,Assist - Circle Entry,1,1,7,12, 186
+2018-11-29 08:05:23 +0000,1,Wallace,GS,Goal - Score,1,1,7,55, 196
+2018-11-29 08:05:30 +0000,0,Bryce,C,Centre Pass,1,1,8,50, 100
+2018-11-29 08:05:30 +0000,0,Msomi,WA,Assist - Centre Pass Rec,1,1,8,70, 82
+2018-11-29 08:05:32 +0000,0,de Bruin,GD,Assist - 2nd Phase,1,1,8,37, 94
+2018-11-29 08:05:34 +0000,0,Msomi,WA,Possession,1,1,8,49, 76
+2018-11-29 08:05:36 +0000,0,Bryce,C,Possession,1,1,8,80, 68
+2018-11-29 08:05:41 +0000,1,Klau ,GK,Deflect,1,1,8,53, 13
+2018-11-29 08:05:41 +0000,0,Nelson,GS,Goal - Miss,1,1,8,71, 9
+2018-11-29 08:05:54 +0000,1,Turner,GD,Gain - Def Reb,1,1,8,50, 2
+2018-11-29 08:05:57 +0000,1,Proud,C,Possession,1,1,8,46, 47
+2018-11-29 08:06:00 +0000,1,McCulloch,WD,Possession,1,1,8,63, 58
+2018-11-29 08:06:02 +0000,1,Hadley,WA,Possession,1,1,8,53, 80
+2018-11-29 08:06:05 +0000,1,Klau ,GK,Possession,1,1,8,7, 60
+2018-11-29 08:06:07 +0000,1,Turner,GD,Possession,1,1,8,23, 85
+2018-11-29 08:06:11 +0000,1,Hadley,WA,Possession,1,1,8,31, 111
+2018-11-29 08:06:16 +0000,1,Housby ,GA,Possession,1,1,8,46, 125
+2018-11-29 08:06:19 +0000,1,Proud,C,Possession,1,1,8,34, 145
+2018-11-29 08:06:25 +0000,0,Shimmin,GK,Deflect,1,1,8,30, 189
+2018-11-29 08:06:25 +0000,1,Hadley,WA,Throw In,1,1,8,12, 201
+2018-11-29 08:06:32 +0000,0,Shimmin,GK,Deflect,1,1,8,24, 196
+2018-11-29 08:06:32 +0000,1,Housby ,GA,Throw In,1,1,8,34, 203
+2018-11-29 08:06:42 +0000,1,Proud,C,Possession,1,1,8,68, 170
+2018-11-29 08:06:44 +0000,0,Bryce,C,Penaly - Contact,1,1,8,68, 170
+2018-11-29 08:06:44 +0000,1,Proud,C,Possession,1,1,8,68, 170
+2018-11-29 08:06:53 +0000,1,Proud,C,Assist - Circle Entry,1,1,8,68, 170
+2018-11-29 08:06:53 +0000,1,Wallace,GS,Goal - Score,1,1,8,37, 191
+2018-11-29 08:07:01 +0000,1,Proud,C,Centre Pass,1,1,9,50, 100
+2018-11-29 08:07:01 +0000,1,Housby ,GA,Assist - Centre Pass Rec,1,1,9,28, 117
+2018-11-29 08:07:03 +0000,1,Hadley,WA,Assist - 2nd Phase,1,1,9,11, 150
+2018-11-29 08:07:06 +0000,1,Housby ,GA,Possession,1,1,9,12, 193
+2018-11-29 08:07:11 +0000,0,Latu-Meafou,GA,Gain - Inter,1,1,9,52, 129
+2018-11-29 08:07:16 +0000,0,de Bruin,GD,Possession,1,1,9,41, 128
+2018-11-29 08:07:18 +0000,0,Bryce,C,Possession,1,1,9,80, 68
+2018-11-29 08:07:20 +0000,0,Msomi,WA,Possession,1,1,9,73, 40
+2018-11-29 08:07:28 +0000,1,McCulloch,WD,Penaly - Obstruction,1,1,9,65, 34
+2018-11-29 08:07:28 +0000,0,Msomi,WA,Possession,1,1,9,65, 34
+2018-11-29 08:07:36 +0000,0,Msomi,WA,Assist - Circle Entry,1,1,9,65, 34
+2018-11-29 08:07:36 +0000,0,Latu-Meafou,GA,Goal - Score,1,1,9,53, 10
+2018-11-29 08:07:47 +0000,0,Bryce,C,Centre Pass,1,2,9,50, 100
+2018-11-29 08:07:47 +0000,0,Msomi,WA,Assist - Centre Pass Rec,1,2,9,11, 86
+2018-11-29 08:07:50 +0000,0,Bryce,C,Assist - 2nd Phase,1,2,9,28, 62
+2018-11-29 08:07:52 +0000,0,Msomi,WA,Loss - Bad Pass,1,2,9,14, 55
+2018-11-29 08:09:29 +0000,1,Proud,C,Gain - Tip (Deflect),1,2,9,26, 45
+2018-11-29 08:09:34 +0000,1,McCulloch,WD,Possession,1,2,9,24, 27
+2018-11-29 08:09:40 +0000,1,Klau ,GK,Possession,1,2,9,35, 13
+2018-11-29 08:09:47 +0000,1,Turner,GD,Possession,1,2,9,72, 32
+2018-11-29 08:09:52 +0000,1,Proud,C,Possession,1,2,9,78, 92
+2018-11-29 08:09:54 +0000,1,Turner,GD,Possession,1,2,9,59, 88
+2018-11-29 08:09:56 +0000,1,McCulloch,WD,Possession,1,2,9,18, 108
+2018-11-29 08:10:00 +0000,1,Hadley,WA,Possession,1,2,9,19, 161
+2018-11-29 08:10:03 +0000,1,Hadley,WA,Assist - Circle Entry,1,2,9,19, 161
+2018-11-29 08:10:03 +0000,1,Housby ,GA,Possession,1,2,9,29, 180
+2018-11-29 08:10:05 +0000,1,Hadley,WA,Possession,1,2,9,30, 168
+2018-11-29 08:10:08 +0000,1,Hadley,WA,Assist - Circle Entry,1,2,9,30, 168
+2018-11-29 08:10:08 +0000,1,Housby ,GA,Goal - Score,1,2,9,37, 187
+2018-11-29 08:10:18 +0000,1,Proud,C,Centre Pass,1,2,10,50, 100
+2018-11-29 08:10:18 +0000,1,Hadley,WA,Assist - Centre Pass Rec,1,2,10,67, 114
+2018-11-29 08:10:20 +0000,1,Housby ,GA,Assist - 2nd Phase,1,2,10,76, 150
+2018-11-29 08:10:22 +0000,1,Proud,C,Possession,1,2,10,58, 152
+2018-11-29 08:10:42 +0000,0,Shimmin,GK,Deflect,1,2,10,76, 187
+2018-11-29 08:10:42 +0000,1,Hadley,WA,Throw In,1,2,10,106, 184
+2018-11-29 08:10:49 +0000,1,McCulloch,WD,Possession,1,2,10,13, 126
+2018-11-29 08:10:52 +0000,1,Proud,C,Possession,1,2,10,10, 142
+2018-11-29 08:10:55 +0000,1,Hadley,WA,Possession,1,2,10,35, 142
+2018-11-29 08:10:59 +0000,1,Wallace,GS,Possession,1,2,10,58, 164
+2018-11-29 08:11:01 +0000,1,Proud,C,Possession,1,2,10,49, 164
+2018-11-29 08:11:10 +0000,1,Proud,C,Assist - Circle Entry,1,2,10,49, 164
+2018-11-29 08:11:10 +0000,1,Wallace,GS,Goal - Score,1,2,10,39, 196
+2018-11-29 08:11:18 +0000,0,Bryce,C,Centre Pass,1,2,11,50, 100
+2018-11-29 08:11:18 +0000,0,Msomi,WA,Assist - Centre Pass Rec,1,2,11,61, 81
+2018-11-29 08:11:20 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,1,2,11,11, 56
+2018-11-29 08:11:22 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,1,2,11,11, 56
+2018-11-29 08:11:22 +0000,0,Nelson,GS,Goal - Score,1,2,11,52, 12
+2018-11-29 08:11:32 +0000,1,Proud,C,Centre Pass,1,3,11,50, 100
+2018-11-29 08:11:32 +0000,1,Hadley,WA,Assist - Centre Pass Rec,1,3,11,60, 116
+2018-11-29 08:11:48 +0000,1,Hadley,WA,Assist - Circle Entry,1,3,11,60, 116
+2018-11-29 08:11:48 +0000,1,Wallace,GS,Assist - 2nd Phase,1,3,11,53, 195
+2018-11-29 08:11:50 +0000,1,Wallace,GS,Goal - Score,1,3,11,53, 195
+2018-11-29 08:12:08 +0000,0,Bryce,C,Centre Pass,1,3,12,50, 100
+2018-11-29 08:12:09 +0000,0,de Bruin,GD,Loss - Break,1,3,12,69, 132
+2018-11-29 08:12:15 +0000,1,McCulloch,WD,Possession,1,3,12,69, 133
+2018-11-29 08:12:18 +0000,1,Housby ,GA,Possession,1,3,12,77, 163
+2018-11-29 08:12:20 +0000,1,Housby ,GA,Assist - Circle Entry,1,3,12,77, 163
+2018-11-29 08:12:20 +0000,1,Wallace,GS,Goal - Score,1,3,12,55, 192
+2018-11-29 08:12:34 +0000,1,,UNKNOWN,Timeout,1,3,13,110, 222
+2018-11-29 08:13:06 +0000,0,Nelson,UNKNOWN,Interchange - Tuivaiti,1,3,13,
+2018-11-29 08:13:06 +0000,0,Msomi,UNKNOWN,Interchange - Bryce,1,3,13,
+2018-11-29 08:13:06 +0000,0,Bryce,UNKNOWN,Interchange - Petty,1,3,13,
+2018-11-29 08:13:30 +0000,1,Proud,C,Centre Pass,1,3,13,50, 100
+2018-11-29 08:13:30 +0000,1,Housby ,GA,Assist - Centre Pass Rec,1,3,13,79, 125
+2018-11-29 08:13:32 +0000,1,Hadley,WA,Assist - 2nd Phase,1,3,13,92, 192
+2018-11-29 08:13:34 +0000,1,Housby ,GA,Possession,1,3,13,75, 175
+2018-11-29 08:13:39 +0000,0,Petty,C,Gain - Inter,1,3,13,84, 167
+2018-11-29 08:15:23 +0000,0,Bryce,WA,Possession,1,3,13,88, 82
+2018-11-29 08:15:25 +0000,0,Tuivaiti,GS,Possession,1,3,13,84, 47
+2018-11-29 08:16:24 +0000,1,Proud,C,Gain - Inter,1,3,13,8, 79
+2018-11-29 08:16:43 +0000,1,Hadley,WA,Possession,1,3,13,15, 113
+2018-11-29 08:16:47 +0000,1,Proud,C,Possession,1,3,13,3, 139
+2018-11-29 08:16:49 +0000,1,Hadley,WA,Possession,1,3,13,22, 175
+2018-11-29 08:16:54 +0000,0,de Bruin,GD,Deflect,1,3,13,59, 195
+2018-11-29 08:16:54 +0000,1,Housby ,GA,Throw In,1,3,13,59, 204
+2018-11-29 08:17:43 +0000,1,Hadley,WA,Possession,1,3,13,20, 178
+2018-11-29 08:17:46 +0000,1,Hadley,WA,Assist - Circle Entry,1,3,13,20, 178
+2018-11-29 08:17:47 +0000,1,Wallace,GS,Loss - Out of Court,1,3,13,43, 198
+2018-11-29 08:17:54 +0000,0,Shimmin,GK,Possession,1,3,13,43, 198
+2018-11-29 08:17:57 +0000,0,de Bruin,GD,Possession,1,3,13,54, 175
+2018-11-29 08:18:00 +0000,0,Petty,C,Possession,1,3,13,14, 137
+2018-11-29 08:18:01 +0000,0,Bryce,WA,Possession,1,3,13,35, 98
+2018-11-29 08:18:04 +0000,0,Latu-Meafou,GA,Possession,1,3,13,64, 72
+2018-11-29 08:18:06 +0000,0,de Bruin,GD,Possession,1,3,13,49, 79
+2018-11-29 08:18:09 +0000,0,Tuivaiti,GS,Possession,1,3,13,84, 7
+2018-11-29 08:18:13 +0000,0,Tuivaiti,GS,Assist - Circle Entry,1,3,13,84, 7
+2018-11-29 08:18:13 +0000,0,Latu-Meafou,GA,Goal - Score,1,3,13,42, 5
+2018-11-29 08:18:25 +0000,0,Petty,C,Centre Pass,1,4,13,50, 100
+2018-11-29 08:18:25 +0000,0,Latu-Meafou,GA,Assist - Centre Pass Rec,1,4,13,79, 69
+2018-11-29 08:18:27 +0000,0,Tuivaiti,GS,Assist - 2nd Phase,1,4,13,50, 37
+2018-11-29 08:18:30 +0000,0,Latu-Meafou,GA,Possession,1,4,13,86, 11
+2018-11-29 08:18:33 +0000,0,Petty,C,Possession,1,4,13,37, 34
+2018-11-29 08:18:35 +0000,0,Petty,C,Assist - Circle Entry,1,4,13,37, 34
+2018-11-29 08:18:35 +0000,0,Tuivaiti,GS,Possession,1,4,13,58, 3
+2018-11-29 08:18:38 +0000,0,Latu-Meafou,GA,Possession,1,4,13,35, 5
+2018-11-29 08:18:39 +0000,0,Petty,C,Possession,1,4,13,49, 36
+2018-11-29 08:18:41 +0000,0,Petty,C,Assist - Circle Entry,1,4,13,49, 36
+2018-11-29 08:18:41 +0000,0,Latu-Meafou,GA,Goal - Score,1,4,13,49, 17
+2018-11-29 08:32:14 +0000,1,Proud,C,Centre Pass,1,5,13,50, 100
+2018-11-29 08:32:14 +0000,1,Housby ,GA,Assist - Centre Pass Rec,1,5,13,21, 129
+2018-11-29 08:32:16 +0000,1,Hadley,WA,Assist - 2nd Phase,1,5,13,17, 152
+2018-11-29 08:32:18 +0000,1,Proud,C,Possession,1,5,13,17, 183
+2018-11-29 08:32:38 +0000,1,Proud,C,Assist - Circle Entry,1,5,13,17, 183
+2018-11-29 08:32:38 +0000,1,Housby ,GA,Possession,1,5,13,37, 195
+2018-11-29 08:32:41 +0000,0,Shimmin,GK,Penaly - Obstruction,1,5,13,37, 195
+2018-11-29 08:32:41 +0000,1,Housby ,GA,Goal - Score,1,5,13,37, 195
+2018-11-29 08:44:44 +0000,0,Petty,C,Centre Pass,1,5,14,50, 100
+2018-11-29 08:44:44 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,1,5,14,63, 76
+2018-11-29 08:44:45 +0000,0,,UNKNOWN,Assist - Circle Entry,1,5,14,63, 76
+2018-11-29 08:44:45 +0000,0,Tuivaiti,GS,Assist - 2nd Phase,1,5,14,58, 12
+2018-11-29 08:44:47 +0000,0,Latu-Meafou,GA,Possession,1,5,14,79, 19
+2018-11-29 08:44:54 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,1,5,14,79, 19
+2018-11-29 08:44:54 +0000,0,Tuivaiti,GS,Goal - Score,1,5,14,54, 6
+2018-11-29 08:45:02 +0000,1,Proud,C,Centre Pass,1,6,14,50, 100
+2018-11-29 08:45:02 +0000,1,Housby ,GA,Assist - Centre Pass Rec,1,6,14,59, 120
+2018-11-29 08:48:05 +0000,1,Hadley,WA,Loss - Drop,1,6,14,53, 131
+2018-11-29 08:48:12 +0000,0,Bryce,WA,Gain - Inter,1,6,14,53, 112
+2018-11-29 08:48:20 +0000,0,de Bruin,GD,Possession,1,6,14,78, 113
+2018-11-29 08:48:21 +0000,0,Bryce,WA,Possession,1,6,14,50, 77
+2018-11-29 08:48:23 +0000,0,Tuivaiti,GS,Possession,1,6,14,85, 6
+2018-11-29 08:48:27 +0000,1,Proud,C,Gain - Inter,1,6,14,20, 19
+2018-11-29 08:48:47 +0000,1,Klau ,GK,Possession,1,6,14,24, 8
+2018-11-29 08:48:49 +0000,0,Tuivaiti,GS,Penaly - Contact,1,6,14,24, 8
+2018-11-29 08:48:49 +0000,1,Klau ,GK,Possession,1,6,14,24, 8
+2018-11-29 08:48:55 +0000,1,Turner,GD,Possession,1,6,14,20, 44
+2018-11-29 08:48:59 +0000,1,McCulloch,WD,Possession,1,6,14,7, 78
+2018-11-29 08:49:05 +0000,0,Bryce,WA,Penaly - Contact,1,6,14,7, 78
+2018-11-29 08:49:05 +0000,1,McCulloch,WD,Possession,1,6,14,7, 78
+2018-11-29 08:49:10 +0000,1,Proud,C,Possession,1,6,14,17, 105
+2018-11-29 08:49:12 +0000,1,Hadley,WA,Possession,1,6,14,8, 127
+2018-11-29 08:49:17 +0000,1,Turner,GD,Possession,1,6,14,89, 118
+2018-11-29 08:49:18 +0000,0,Latu-Meafou,GA,Penaly - Contact,1,6,14,89, 118
+2018-11-29 08:49:18 +0000,1,Turner,GD,Possession,1,6,14,89, 118
+2018-11-29 08:49:27 +0000,1,Proud,C,Possession,1,6,14,77, 145
+2018-11-29 08:49:29 +0000,1,Hadley,WA,Possession,1,6,14,44, 136
+2018-11-29 08:49:31 +0000,1,McCulloch,WD,Possession,1,6,14,6, 124
+2018-11-29 08:49:33 +0000,1,Hadley,WA,Possession,1,6,14,12, 147
+2018-11-29 08:49:35 +0000,1,Proud,C,Possession,1,6,14,11, 181
+2018-11-29 08:49:45 +0000,1,Proud,C,Assist - Circle Entry,1,6,14,11, 181
+2018-11-29 08:49:45 +0000,1,Wallace,GS,Goal - Score,1,6,14,38, 193
+2018-11-29 08:50:47 +0000,0,Petty,C,Centre Pass,1,6,15,50, 100
+2018-11-29 08:50:47 +0000,0,Bryce,WA,Assist - Centre Pass Rec,1,6,15,57, 79
+2018-11-29 08:50:50 +0000,1,Proud,C,Penaly - Contact,1,6,15,57, 79
+2018-11-29 08:50:50 +0000,0,Fowler,WD,Possession,1,6,15,57, 79
+2018-11-29 08:50:56 +0000,0,Bryce,WA,Possession,1,6,15,76, 40
+2018-11-29 08:50:59 +0000,0,Bryce,WA,Assist - Circle Entry,1,6,15,76, 40
+2018-11-29 08:50:59 +0000,0,Tuivaiti,GS,Assist - 2nd Phase,1,6,15,59, 18
+2018-11-29 08:51:03 +0000,0,Bryce,WA,Possession,1,6,15,64, 31
+2018-11-29 08:51:16 +0000,0,Latu-Meafou,GA,Possession,1,6,15,47, 36
+2018-11-29 08:51:18 +0000,0,Bryce,WA,Possession,1,6,15,52, 35
+2018-11-29 08:51:22 +0000,0,Bryce,WA,Assist - Circle Entry,1,6,15,52, 35
+2018-11-29 08:51:22 +0000,0,Latu-Meafou,GA,Goal - Miss,1,6,15,51, 25
+2018-11-29 08:51:30 +0000,1,Klau ,GK,Throw In,1,6,15,50, 7
+2018-11-29 08:51:38 +0000,1,Turner,GD,Possession,1,6,15,76, 24
+2018-11-29 08:51:43 +0000,0,Petty,C,Gain - Inter,1,6,15,82, 60
+2018-11-29 08:51:47 +0000,0,Tuivaiti,GS,Possession,1,6,15,76, 31
+2018-11-29 08:51:50 +0000,0,Fowler,WD,Possession,1,6,15,74, 69
+2018-11-29 08:51:52 +0000,0,Bryce,WA,Possession,1,6,15,55, 54
+2018-11-29 08:51:54 +0000,0,Fowler,WD,Possession,1,6,15,71, 68
+2018-11-29 08:53:00 +0000,0,Bryce,WA,Possession,1,6,15,79, 43
+2018-11-29 08:53:03 +0000,1,Klau ,GK,Deflect,1,6,15,74, 4
+2018-11-29 08:53:03 +0000,0,Tuivaiti,GS,Throw In,1,6,15,85, -5
+2018-11-29 08:53:17 +0000,0,Petty,C,Possession,1,6,15,21, 23
+2018-11-29 08:53:21 +0000,0,de Bruin,GD,Possession,1,6,15,22, 72
+2018-11-29 08:53:23 +0000,0,Petty,C,Possession,1,6,15,23, 54
+2018-11-29 08:53:25 +0000,0,Petty,C,Assist - Circle Entry,1,6,15,23, 54
+2018-11-29 08:53:25 +0000,0,Tuivaiti,GS,Goal - Score,1,6,15,42, 3
+2018-11-29 08:53:33 +0000,1,Proud,C,Centre Pass,1,7,15,50, 100
+2018-11-29 08:53:33 +0000,1,Hadley,WA,Assist - Centre Pass Rec,1,7,15,18, 128
+2018-11-29 08:53:36 +0000,1,Proud,C,Assist - 2nd Phase,1,7,15,25, 154
+2018-11-29 08:53:38 +0000,1,Proud,C,Assist - Circle Entry,1,7,15,25, 154
+2018-11-29 08:53:38 +0000,0,de Bruin,GD,Gain - Inter,1,7,15,38, 185
+2018-11-29 08:53:42 +0000,0,Petty,C,Possession,1,7,15,39, 151
+2018-11-29 08:53:51 +0000,1,Housby ,GA,Gain - Tip (Deflect),1,7,15,44, 139
+2018-11-29 08:53:56 +0000,1,Housby ,GA,Possession,1,7,15,36, 130
+2018-11-29 08:54:00 +0000,1,Hadley,WA,Possession,1,7,15,58, 142
+2018-11-29 08:54:02 +0000,1,McCulloch,WD,Possession,1,7,15,45, 128
+2018-11-29 08:54:05 +0000,1,Hadley,WA,Possession,1,7,15,37, 146
+2018-11-29 08:54:07 +0000,1,Housby ,GA,Possession,1,7,15,18, 161
+2018-11-29 08:54:12 +0000,1,Proud,C,Possession,1,7,15,81, 184
+2018-11-29 08:54:17 +0000,1,Proud,C,Assist - Circle Entry,1,7,15,81, 184
+2018-11-29 08:54:17 +0000,0,Shimmin,GK,Gain - Inter,1,7,15,56, 195
+2018-11-29 08:54:22 +0000,0,Petty,C,Possession,1,7,15,59, 147
+2018-11-29 08:54:26 +0000,0,Bryce,WA,Possession,1,7,15,50, 114
+2018-11-29 08:56:14 +0000,0,Latu-Meafou,GA,Possession,1,7,15,16, 77
+2018-11-29 08:56:17 +0000,1,Proud,C,Gain - Inter,1,7,15,66, 55
+2018-11-29 08:56:22 +0000,1,Hadley,WA,Possession,1,7,15,68, 79
+2018-11-29 08:56:25 +0000,1,McCulloch,WD,Possession,1,7,15,34, 76
+2018-11-29 08:56:28 +0000,1,Hadley,WA,Possession,1,7,15,70, 94
+2018-11-29 08:56:30 +0000,1,Turner,GD,Possession,1,7,15,74, 123
+2018-11-29 08:56:33 +0000,1,McCulloch,WD,Possession,1,7,15,56, 112
+2018-11-29 08:56:36 +0000,1,Proud,C,Possession,1,7,15,65, 154
+2018-11-29 08:56:41 +0000,0,Shimmin,GK,Deflect,1,7,15,30, 177
+2018-11-29 08:56:41 +0000,1,Hadley,WA,Throw In,1,7,15,-5, 156
+2018-11-29 08:57:13 +0000,0,Petty,C,Centre Pass,2,7,15,50, 100
+2018-11-29 08:57:13 +0000,0,Bryce,WA,Assist - Centre Pass Rec,2,7,15,29, 75
+2018-11-29 08:57:15 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,2,7,15,25, 46
+2018-11-29 08:57:16 +0000,0,Tuivaiti,GS,Possession,2,7,15,14, 6
+2018-11-29 08:57:25 +0000,0,Tuivaiti,GS,Assist - Circle Entry,2,7,15,14, 6
+2018-11-29 08:57:25 +0000,0,Petty,C,Loss - Offside,2,7,15,75, 19
+2018-11-29 08:57:31 +0000,1,Klau ,GK,Possession,2,7,15,74, 19
+2018-11-29 08:57:43 +0000,1,McCulloch,WD,Possession,2,7,15,78, 36
+2018-11-29 08:57:54 +0000,1,Turner,GD,Possession,2,7,15,58, 30
+2018-11-29 08:57:57 +0000,1,Proud,C,Possession,2,7,15,45, 56
+2018-11-29 08:58:01 +0000,1,Klau ,GK,Possession,2,7,15,16, 55
+2018-11-29 08:58:02 +0000,1,Turner,GD,Possession,2,7,15,12, 83
+2018-11-29 08:58:10 +0000,1,McCulloch,WD,Possession,2,7,15,30, 91
+2018-11-29 08:58:12 +0000,1,Proud,C,Possession,2,7,15,34, 114
+2018-11-29 08:58:15 +0000,1,Hadley,WA,Possession,2,7,15,66, 123
+2018-11-29 08:58:17 +0000,1,Housby ,GA,Possession,2,7,15,89, 146
+2018-11-29 08:58:19 +0000,1,Turner,GD,Possession,2,7,15,78, 128
+2018-11-29 08:58:21 +0000,1,Hadley,WA,Possession,2,7,15,81, 151
+2018-11-29 08:58:27 +0000,1,Housby ,GA,Possession,2,7,15,90, 180
+2018-11-29 08:58:29 +0000,1,Housby ,GA,Assist - Circle Entry,2,7,15,90, 180
+2018-11-29 08:58:30 +0000,1,Wallace,GS,Goal - Score,2,7,15,56, 194
+2018-11-29 08:59:15 +0000,1,Proud,C,Centre Pass,2,7,16,50, 100
+2018-11-29 08:59:15 +0000,1,Housby ,GA,Assist - Centre Pass Rec,2,7,16,75, 122
+2018-11-29 08:59:20 +0000,0,Petty,C,Gain - Inter,2,7,16,28, 164
+2018-11-29 09:00:52 +0000,0,de Bruin,GD,Possession,2,7,16,60, 158
+2018-11-29 09:00:54 +0000,0,Bryce,WA,Possession,2,7,16,82, 105
+2018-11-29 09:00:59 +0000,0,de Bruin,GD,Possession,2,7,16,69, 106
+2018-11-29 09:01:05 +0000,0,Petty,C,Loss - Drop,2,7,16,30, 38
+2018-11-29 09:02:08 +0000,1,Turner,GD,Gain - Pick-up,2,7,16,26, 39
+2018-11-29 09:02:28 +0000,1,Proud,C,Possession,2,7,16,30, 60
+2018-11-29 09:02:32 +0000,1,McCulloch,WD,Possession,2,7,16,9, 86
+2018-11-29 09:02:35 +0000,1,Hadley,WA,Possession,2,7,16,30, 103
+2018-11-29 09:02:38 +0000,1,Proud,C,Possession,2,7,16,70, 102
+2018-11-29 09:02:40 +0000,1,Housby ,GA,Possession,2,7,16,94, 142
+2018-11-29 09:02:42 +0000,1,Turner,GD,Possession,2,7,16,83, 128
+2018-11-29 09:02:45 +0000,1,Hadley,WA,Possession,2,7,16,74, 143
+2018-11-29 09:02:52 +0000,1,Hadley,WA,Assist - Circle Entry,2,7,16,74, 143
+2018-11-29 09:02:52 +0000,1,Wallace,GS,Possession,2,7,16,52, 171
+2018-11-29 09:02:55 +0000,1,Proud,C,Possession,2,7,16,44, 166
+2018-11-29 09:02:58 +0000,1,Proud,C,Assist - Circle Entry,2,7,16,44, 166
+2018-11-29 09:02:58 +0000,1,Housby ,GA,Possession,2,7,16,62, 175
+2018-11-29 09:03:00 +0000,1,Proud,C,Possession,2,7,16,47, 165
+2018-11-29 09:03:04 +0000,1,Proud,C,Assist - Circle Entry,2,7,16,47, 165
+2018-11-29 09:03:04 +0000,1,Housby ,GA,Goal - Score,2,7,16,45, 185
+2018-11-29 09:03:13 +0000,0,Petty,C,Centre Pass,2,7,17,50, 100
+2018-11-29 09:03:13 +0000,0,Bryce,WA,Assist - Centre Pass Rec,2,7,17,27, 79
+2018-11-29 09:03:16 +0000,0,Petty,C,Assist - 2nd Phase,2,7,17,44, 57
+2018-11-29 09:03:18 +0000,0,Tuivaiti,GS,Possession,2,7,17,60, 37
+2018-11-29 09:03:21 +0000,0,Petty,C,Possession,2,7,17,47, 43
+2018-11-29 09:03:23 +0000,0,Tuivaiti,GS,Possession,2,7,17,67, 36
+2018-11-29 09:03:56 +0000,1,Turner,GD,Deflect,2,7,17,32, 7
+2018-11-29 09:03:56 +0000,0,Latu-Meafou,GA,Deflect,2,7,17,27, 6
+2018-11-29 09:04:04 +0000,1,Klau ,GK,Throw In,2,7,17,12, -1
+2018-11-29 09:04:15 +0000,1,Turner,GD,Possession,2,7,17,14, 23
+2018-11-29 09:04:18 +0000,0,Tuivaiti,GS,Penaly - Obstruction,2,7,17,14, 23
+2018-11-29 09:04:18 +0000,1,Turner,GD,Possession,2,7,17,14, 23
+2018-11-29 09:04:27 +0000,0,Petty,C,Deflect,2,7,17,20, 69
+2018-11-29 09:04:28 +0000,1,Klau ,GK,Possession,2,7,17,20, 41
+2018-11-29 09:04:38 +0000,1,Turner,GD,Possession,2,7,17,15, 78
+2018-11-29 09:04:40 +0000,1,McCulloch,WD,Possession,2,7,17,32, 81
+2018-11-29 09:04:45 +0000,1,Turner,GD,Possession,2,7,17,65, 81
+2018-11-29 09:04:51 +0000,1,McCulloch,WD,Loss - Drop,2,7,17,15, 112
+2018-11-29 09:04:57 +0000,0,Fowler,WD,Throw In,2,7,17,-4, 121
+2018-11-29 09:05:21 +0000,0,de Bruin,GD,Possession,2,7,17,25, 108
+2018-11-29 09:05:23 +0000,1,Housby ,GA,Gain - Inter,2,7,17,57, 122
+2018-11-29 09:05:33 +0000,1,Housby ,GA,Assist - Circle Entry,2,7,17,57, 122
+2018-11-29 09:05:34 +0000,1,Wallace,GS,Possession,2,7,17,51, 177
+2018-11-29 09:05:35 +0000,1,Hadley,WA,Possession,2,7,17,47, 166
+2018-11-29 09:05:41 +0000,0,Shimmin,GK,Penaly - Contact,2,7,17,67, 182
+2018-11-29 09:05:42 +0000,1,Housby ,GA,Goal - Score,2,7,17,67, 182
+2018-11-29 09:05:53 +0000,1,Proud,C,Centre Pass,2,7,18,50, 100
+2018-11-29 09:05:53 +0000,1,Hadley,WA,Assist - Centre Pass Rec,2,7,18,77, 120
+2018-11-29 09:05:55 +0000,1,Wallace,GS,Assist - 2nd Phase,2,7,18,23, 176
+2018-11-29 09:05:57 +0000,1,Hadley,WA,Possession,2,7,18,18, 143
+2018-11-29 09:05:59 +0000,1,Housby ,GA,Possession,2,7,18,69, 151
+2018-11-29 09:06:01 +0000,1,Housby ,GA,Assist - Circle Entry,2,7,18,69, 151
+2018-11-29 09:06:01 +0000,1,Wallace,GS,Possession,2,7,18,70, 192
+2018-11-29 09:06:02 +0000,1,Hadley,WA,Possession,2,7,18,82, 184
+2018-11-29 09:06:04 +0000,1,Hadley,WA,Assist - Circle Entry,2,7,18,82, 184
+2018-11-29 09:06:04 +0000,1,Wallace,GS,Goal - Score,2,7,18,60, 192
+2018-11-29 09:06:11 +0000,0,Petty,C,Centre Pass,2,7,19,50, 100
+2018-11-29 09:06:11 +0000,0,Fowler,WD,Assist - Centre Pass Rec,2,7,19,37, 80
+2018-11-29 09:06:13 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,2,7,19,26, 51
+2018-11-29 09:06:15 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,2,7,19,26, 51
+2018-11-29 09:06:15 +0000,0,Tuivaiti,GS,Possession,2,7,19,43, 12
+2018-11-29 09:06:22 +0000,1,Klau ,GK,Penaly - Contact,2,7,19,43, 12
+2018-11-29 09:06:22 +0000,0,Tuivaiti,GS,Goal - Score,2,7,19,43, 12
+2018-11-29 09:06:32 +0000,1,Proud,C,Centre Pass,2,8,19,50, 100
+2018-11-29 09:06:32 +0000,1,Housby ,GA,Assist - Centre Pass Rec,2,8,19,91, 123
+2018-11-29 09:06:34 +0000,1,Hadley,WA,Assist - 2nd Phase,2,8,19,72, 127
+2018-11-29 09:06:36 +0000,1,Wallace,GS,Possession,2,8,19,95, 172
+2018-11-29 09:06:38 +0000,1,Proud,C,Possession,2,8,19,20, 182
+2018-11-29 09:06:41 +0000,1,Proud,C,Assist - Circle Entry,2,8,19,20, 182
+2018-11-29 09:06:41 +0000,1,Housby ,GA,Goal - Score,2,8,19,45, 195
+2018-11-29 09:06:49 +0000,0,Petty,C,Centre Pass,2,8,20,50, 100
+2018-11-29 09:06:49 +0000,0,Bryce,WA,Assist - Centre Pass Rec,2,8,20,21, 71
+2018-11-29 09:06:51 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,2,8,20,18, 40
+2018-11-29 09:06:54 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,2,8,20,18, 40
+2018-11-29 09:06:54 +0000,0,Tuivaiti,GS,Possession,2,8,20,60, 7
+2018-11-29 09:06:55 +0000,0,Petty,C,Possession,2,8,20,27, 28
+2018-11-29 09:07:00 +0000,1,Turner,GD,Deflect,2,8,20,45, 20
+2018-11-29 09:07:03 +0000,0,Bryce,WA,Possession,2,8,20,51, 36
+2018-11-29 09:07:16 +0000,0,Bryce,WA,Assist - Circle Entry,2,8,20,51, 36
+2018-11-29 09:07:16 +0000,0,Tuivaiti,GS,Possession,2,8,20,47, 13
+2018-11-29 09:07:18 +0000,1,Klau ,GK,Penaly - Contact,2,8,20,47, 13
+2018-11-29 09:07:18 +0000,0,Latu-Meafou,GA,Goal - Miss,2,8,20,47, 13
+2018-11-29 09:07:59 +0000,0,Latu-Meafou,GA,Deflect,2,8,20,50, 2
+2018-11-29 09:08:00 +0000,0,Bryce,WA,Possession,2,8,20,83, 12
+2018-11-29 09:08:09 +0000,0,Bryce,WA,Assist - Circle Entry,2,8,20,83, 12
+2018-11-29 09:08:09 +0000,0,Latu-Meafou,GA,Goal - Miss,2,8,20,34, 5
+2018-11-29 09:08:17 +0000,1,Turner,GD,Gain - Def Reb,2,8,20,50, 2
+2018-11-29 09:08:17 +0000,0,Tuivaiti,GS,Penaly - Contact,2,8,20,50, 2
+2018-11-29 09:08:17 +0000,1,Klau ,GK,Possession,2,8,20,50, 2
+2018-11-29 09:08:27 +0000,1,McCulloch,WD,Possession,2,8,20,77, 42
+2018-11-29 09:08:29 +0000,1,Turner,GD,Possession,2,8,20,48, 51
+2018-11-29 09:08:32 +0000,1,Proud,C,Possession,2,8,20,16, 81
+2018-11-29 09:08:34 +0000,1,Hadley,WA,Possession,2,8,20,23, 107
+2018-11-29 09:08:36 +0000,1,Housby ,GA,Possession,2,8,20,38, 122
+2018-11-29 09:08:37 +0000,1,Hadley,WA,Possession,2,8,20,16, 128
+2018-11-29 09:08:40 +0000,1,Turner,GD,Possession,2,8,20,35, 126
+2018-11-29 09:08:42 +0000,1,Hadley,WA,Possession,2,8,20,44, 142
+2018-11-29 09:08:46 +0000,1,Wallace,GS,Possession,2,8,20,77, 161
+2018-11-29 09:08:48 +0000,1,Proud,C,Possession,2,8,20,16, 188
+2018-11-29 09:08:55 +0000,0,Petty,C,Deflect,2,8,20,20, 186
+2018-11-29 09:09:02 +0000,1,Housby ,GA,Throw In,2,8,20,23, 203
+2018-11-29 09:09:26 +0000,0,Petty,C,Loss - Bad Pass,2,8,20,22, 188
+2018-11-29 09:09:26 +0000,1,Housby ,GA,Possession,2,8,20,22, 188
+2018-11-29 09:09:59 +0000,1,Proud,C,Possession,2,8,20,19, 182
+2018-11-29 09:10:03 +0000,1,Proud,C,Assist - Circle Entry,2,8,20,19, 182
+2018-11-29 09:10:03 +0000,1,Housby ,GA,Goal - Score,2,8,20,41, 186
+2018-11-29 09:10:12 +0000,1,Proud,C,Centre Pass,2,8,21,50, 100
+2018-11-29 09:10:12 +0000,1,Housby ,GA,Assist - Centre Pass Rec,2,8,21,32, 122
+2018-11-29 09:10:15 +0000,0,Fowler,WD,Deflect,2,8,21,17, 179
+2018-11-29 09:10:15 +0000,1,Hadley,WA,Throw In,2,8,21,4, 204
+2018-11-29 09:10:21 +0000,1,McCulloch,WD,Possession,2,8,21,15, 126
+2018-11-29 09:10:23 +0000,1,Hadley,WA,Possession,2,8,21,34, 147
+2018-11-29 09:10:26 +0000,1,Housby ,GA,Possession,2,8,21,55, 163
+2018-11-29 09:10:32 +0000,1,Proud,C,Possession,2,8,21,81, 181
+2018-11-29 09:10:36 +0000,1,Proud,C,Assist - Circle Entry,2,8,21,81, 181
+2018-11-29 09:10:36 +0000,1,Wallace,GS,Assist - 2nd Phase,2,8,21,56, 191
+2018-11-29 09:10:38 +0000,1,Wallace,GS,Goal - Score,2,8,21,56, 191
+2018-11-29 09:11:22 +0000,0,Petty,C,Centre Pass,2,8,22,50, 100
+2018-11-29 09:11:22 +0000,1,McCulloch,WD,Gain - Tip (Deflect),2,8,22,35, 86
+2018-11-29 09:12:13 +0000,1,Hadley,WA,Possession,2,8,22,49, 93
+2018-11-29 09:12:15 +0000,1,Proud,C,Possession,2,8,22,67, 85
+2018-11-29 09:12:17 +0000,1,McCulloch,WD,Possession,2,8,22,60, 120
+2018-11-29 09:12:22 +0000,1,Wallace,GS,Possession,2,8,22,47, 162
+2018-11-29 09:12:25 +0000,1,Proud,C,Possession,2,8,22,58, 151
+2018-11-29 09:12:28 +0000,1,Housby ,GA,Possession,2,8,22,24, 167
+2018-11-29 09:12:31 +0000,1,Proud,C,Possession,2,8,22,66, 166
+2018-11-29 09:12:34 +0000,1,Proud,C,Assist - Circle Entry,2,8,22,66, 166
+2018-11-29 09:12:34 +0000,1,Wallace,GS,Goal - Miss,2,8,22,60, 195
+2018-11-29 09:12:40 +0000,0,Shimmin,GK,Gain - Def Reb,2,8,22,50, 197
+2018-11-29 09:12:44 +0000,0,de Bruin,GD,Possession,2,8,22,40, 189
+2018-11-29 09:12:47 +0000,0,Shimmin,GK,Possession,2,8,22,89, 153
+2018-11-29 09:12:52 +0000,0,Petty,C,Possession,2,8,22,14, 83
+2018-11-29 09:12:55 +0000,0,Fowler,WD,Possession,2,8,22,23, 101
+2018-11-29 09:13:15 +0000,0,Petty,C,Possession,2,8,22,21, 71
+2018-11-29 09:13:17 +0000,0,Fowler,WD,Possession,2,8,22,31, 83
+2018-11-29 09:13:19 +0000,0,Bryce,WA,Possession,2,8,22,42, 79
+2018-11-29 09:13:21 +0000,0,Latu-Meafou,GA,Possession,2,8,22,17, 23
+2018-11-29 09:13:24 +0000,0,Bryce,WA,Possession,2,8,22,36, 57
+2018-11-29 09:13:26 +0000,0,Latu-Meafou,GA,Possession,2,8,22,63, 55
+2018-11-29 09:13:29 +0000,0,Bryce,WA,Possession,2,8,22,47, 38
+2018-11-29 09:13:31 +0000,1,Proud,C,Penaly - Contact,2,8,22,47, 38
+2018-11-29 09:13:31 +0000,0,Bryce,WA,Possession,2,8,22,47, 38
+2018-11-29 09:13:43 +0000,0,Bryce,WA,Assist - Circle Entry,2,8,22,47, 38
+2018-11-29 09:13:43 +0000,0,Latu-Meafou,GA,Possession,2,8,22,41, 5
+2018-11-29 09:13:46 +0000,1,Klau ,GK,Penaly - Contact,2,8,22,48, 8
+2018-11-29 09:13:46 +0000,0,Latu-Meafou,GA,Goal - Score,2,8,22,48, 8
+2018-11-29 09:13:56 +0000,1,Proud,C,Centre Pass,2,9,22,50, 100
+2018-11-29 09:13:56 +0000,1,Housby ,GA,Assist - Centre Pass Rec,2,9,22,25, 120
+2018-11-29 09:13:58 +0000,1,Hadley,WA,Assist - 2nd Phase,2,9,22,37, 125
+2018-11-29 09:14:01 +0000,1,Proud,C,Possession,2,9,22,18, 183
+2018-11-29 09:14:03 +0000,1,Proud,C,Assist - Circle Entry,2,9,22,18, 183
+2018-11-29 09:14:03 +0000,1,Wallace,GS,Goal - Miss,2,9,22,43, 194
+2018-11-29 09:14:09 +0000,1,Wallace,GS,Assist - Attack Rebound,2,9,22,50, 197
+2018-11-29 09:14:12 +0000,1,Wallace,GS,Loss - Step,2,9,22,51, 191
+2018-11-29 09:14:18 +0000,0,Shimmin,GK,Possession,2,9,22,50, 191
+2018-11-29 09:14:22 +0000,0,Fowler,WD,Possession,2,9,22,82, 165
+2018-11-29 09:14:26 +0000,0,Petty,C,Possession,2,9,22,93, 103
+2018-11-29 09:14:30 +0000,0,Fowler,WD,Possession,2,9,22,78, 95
+2018-11-29 09:14:33 +0000,0,Bryce,WA,Possession,2,9,22,70, 75
+2018-11-29 09:14:35 +0000,0,de Bruin,GD,Possession,2,9,22,28, 73
+2018-11-29 09:14:50 +0000,0,Bryce,WA,Possession,2,9,22,17, 23
+2018-11-29 09:14:53 +0000,0,Petty,C,Possession,2,9,22,50, 43
+2018-11-29 09:14:55 +0000,0,Latu-Meafou,GA,Loss - Bad Pass,2,9,22,78, 25
+2018-11-29 09:14:59 +0000,1,Klau ,GK,Throw In,2,9,22,-5, 31
+2018-11-29 09:15:05 +0000,1,McCulloch,WD,Possession,2,9,22,17, 22
+2018-11-29 09:15:08 +0000,1,Proud,C,Possession,2,9,22,29, 62
+2018-11-29 09:15:11 +0000,1,Hadley,WA,Possession,2,9,22,48, 83
+2018-11-29 09:15:13 +0000,1,Turner,GD,Possession,2,9,22,97, 117
+2018-11-29 09:15:16 +0000,1,Hadley,WA,Possession,2,9,22,75, 108
+2018-11-29 09:15:19 +0000,1,McCulloch,WD,Possession,2,9,22,34, 113
+2018-11-29 09:15:22 +0000,1,Housby ,GA,Possession,2,9,22,23, 147
+2018-11-29 09:15:25 +0000,1,Hadley,WA,Possession,2,9,22,46, 141
+2018-11-29 09:15:29 +0000,1,Proud,C,Possession,2,9,22,12, 150
+2018-11-29 09:15:31 +0000,1,Hadley,WA,Possession,2,9,22,54, 142
+2018-11-29 09:15:34 +0000,1,Proud,C,Possession,2,9,22,30, 158
+2018-11-29 09:15:36 +0000,1,Hadley,WA,Possession,2,9,22,41, 165
+2018-11-29 09:15:39 +0000,1,Hadley,WA,Assist - Circle Entry,2,9,22,41, 165
+2018-11-29 09:15:39 +0000,1,Housby ,GA,Goal - Score,2,9,22,60, 193
+2018-11-29 09:15:49 +0000,0,,UNKNOWN,Timeout,2,9,23,-10, -22
+2018-11-29 09:16:05 +0000,0,Petty,C,Centre Pass,2,9,23,50, 100
+2018-11-29 09:16:06 +0000,0,Bryce,WA,Assist - Centre Pass Rec,2,9,23,28, 91
+2018-11-29 09:16:07 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,2,9,23,17, 61
+2018-11-29 09:16:10 +0000,0,Fowler,WD,Possession,2,9,23,35, 83
+2018-11-29 09:16:15 +0000,1,McCulloch,WD,Gain - Inter,2,9,23,23, 71
+2018-11-29 09:16:18 +0000,1,Hadley,WA,Possession,2,9,23,42, 73
+2018-11-29 09:16:22 +0000,1,Proud,C,Possession,2,9,23,51, 105
+2018-11-29 09:16:25 +0000,1,Housby ,GA,Possession,2,9,23,82, 142
+2018-11-29 09:16:28 +0000,1,McCulloch,WD,Possession,2,9,23,36, 129
+2018-11-29 09:16:32 +0000,0,Fowler,WD,Gain - Inter,2,9,23,27, 143
+2018-11-29 09:16:37 +0000,0,Bryce,WA,Possession,2,9,23,15, 76
+2018-11-29 09:16:40 +0000,0,Tuivaiti,GS,Possession,2,9,23,78, 21
+2018-11-29 09:16:42 +0000,0,Bryce,WA,Possession,2,9,23,44, 33
+2018-11-29 09:16:45 +0000,0,Bryce,WA,Assist - Circle Entry,2,9,23,44, 33
+2018-11-29 09:16:45 +0000,0,Latu-Meafou,GA,Possession,2,9,23,75, 6
+2018-11-29 09:16:48 +0000,0,Bryce,WA,Possession,2,9,23,66, 31
+2018-11-29 09:16:52 +0000,0,Bryce,WA,Assist - Circle Entry,2,9,23,66, 31
+2018-11-29 09:16:52 +0000,0,Latu-Meafou,GA,Possession,2,9,23,61, 9
+2018-11-29 09:16:55 +0000,1,Turner,GD,Penaly - Obstruction,2,9,23,61, 9
+2018-11-29 09:16:55 +0000,0,Latu-Meafou,GA,Goal - Score,2,9,23,61, 9
+2018-11-29 09:17:08 +0000,1,Proud,C,Centre Pass,2,10,23,50, 100
+2018-11-29 09:17:08 +0000,1,Hadley,WA,Assist - Centre Pass Rec,2,10,23,63, 121
+2018-11-29 09:17:11 +0000,1,Wallace,GS,Assist - 2nd Phase,2,10,23,89, 175
+2018-11-29 09:17:14 +0000,1,Proud,C,Possession,2,10,23,60, 161
+2018-11-29 09:17:19 +0000,1,Proud,C,Assist - Circle Entry,2,10,23,60, 161
+2018-11-29 09:17:19 +0000,1,Wallace,GS,Goal - Score,2,10,23,51, 181
+2018-11-29 09:17:29 +0000,0,Petty,C,Centre Pass,2,10,24,50, 100
+2018-11-29 09:17:29 +0000,0,Bryce,WA,Assist - Centre Pass Rec,2,10,24,88, 71
+2018-11-29 09:17:33 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,2,10,24,89, 28
+2018-11-29 09:17:37 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,2,10,24,89, 28
+2018-11-29 09:17:37 +0000,0,Tuivaiti,GS,Possession,2,10,24,62, 30
+2018-11-29 09:17:40 +0000,0,Latu-Meafou,GA,Goal - Score,2,10,24,59, 3
+2018-11-29 09:18:22 +0000,1,Proud,C,Centre Pass,2,11,24,50, 100
+2018-11-29 09:18:22 +0000,1,Housby ,GA,Assist - Centre Pass Rec,2,11,24,50, 127
+2018-11-29 09:18:24 +0000,1,Hadley,WA,Assist - 2nd Phase,2,11,24,13, 184
+2018-11-29 09:18:30 +0000,1,Hadley,WA,Assist - Circle Entry,2,11,24,13, 184
+2018-11-29 09:18:30 +0000,1,Wallace,GS,Goal - Score,2,11,24,55, 192
+2018-11-29 09:18:38 +0000,0,Petty,C,Centre Pass,2,11,25,50, 100
+2018-11-29 09:18:38 +0000,0,de Bruin,GD,Assist - Centre Pass Rec,2,11,25,84, 86
+2018-11-29 09:18:40 +0000,0,Bryce,WA,Assist - 2nd Phase,2,11,25,86, 39
+2018-11-29 09:18:47 +0000,0,de Bruin,GD,Possession,2,11,25,85, 69
+2018-11-29 09:18:49 +0000,0,Bryce,WA,Possession,2,11,25,83, 53
+2018-11-29 09:18:51 +0000,0,Tuivaiti,GS,Possession,2,11,25,63, 43
+2018-11-29 09:18:54 +0000,0,Tuivaiti,GS,Assist - Circle Entry,2,11,25,63, 43
+2018-11-29 09:18:54 +0000,0,Latu-Meafou,GA,Possession,2,11,25,72, 3
+2018-11-29 09:18:59 +0000,0,Bryce,WA,Possession,2,11,25,55, 36
+2018-11-29 09:19:02 +0000,1,Klau ,GK,Deflect,2,11,25,34, 3
+2018-11-29 09:19:02 +0000,0,Tuivaiti,GS,Throw In,2,11,25,26, -3
+2018-11-29 09:19:13 +0000,0,Bryce,WA,Possession,2,11,25,74, 28
+2018-11-29 09:19:28 +0000,1,McCulloch,WD,Penaly - Contact,2,11,25,74, 28
+2018-11-29 09:19:28 +0000,0,Bryce,WA,Possession,2,11,25,74, 28
+2018-11-29 09:19:37 +0000,0,Bryce,WA,Assist - Circle Entry,2,11,25,74, 28
+2018-11-29 09:19:37 +0000,0,Latu-Meafou,GA,Goal - Score,2,11,25,57, 7
+2018-11-29 09:19:45 +0000,1,Proud,C,Centre Pass,2,12,25,50, 100
+2018-11-29 09:19:45 +0000,1,Housby ,GA,Assist - Centre Pass Rec,2,12,25,47, 119
+2018-11-29 09:19:48 +0000,1,Housby ,GA,Assist - Circle Entry,2,12,25,47, 119
+2018-11-29 09:19:48 +0000,1,Wallace,GS,Possession,2,12,25,68, 183
+2018-11-29 09:19:49 +0000,1,Housby ,GA,Possession,2,12,25,77, 178
+2018-11-29 09:19:53 +0000,1,Hadley,WA,Possession,2,12,25,19, 181
+2018-11-29 09:19:55 +0000,1,Housby ,GA,Possession,2,12,25,50, 164
+2018-11-29 09:19:57 +0000,1,Hadley,WA,Possession,2,12,25,37, 166
+2018-11-29 09:20:01 +0000,1,Hadley,WA,Assist - Circle Entry,2,12,25,37, 166
+2018-11-29 09:20:01 +0000,1,Wallace,GS,Possession,2,12,25,51, 189
+2018-11-29 09:20:03 +0000,0,Shimmin,GK,Penaly - Contact,2,12,25,51, 189
+2018-11-29 09:20:03 +0000,1,Wallace,GS,Goal - Score,2,12,25,51, 189
+2018-11-29 09:20:13 +0000,0,Petty,C,Centre Pass,2,12,26,50, 100
+2018-11-29 09:20:13 +0000,0,Fowler,WD,Assist - Centre Pass Rec,2,12,26,65, 111
+2018-11-29 09:20:15 +0000,0,Petty,C,Assist - 2nd Phase,2,12,26,31, 99
+2018-11-29 09:20:17 +0000,0,de Bruin,GD,Possession,2,12,26,69, 97
+2018-11-29 09:20:19 +0000,0,Tuivaiti,GS,Possession,2,12,26,85, 18
+2018-11-29 09:20:21 +0000,0,Bryce,WA,Possession,2,12,26,17, 12
+2018-11-29 09:20:24 +0000,0,Bryce,WA,Assist - Circle Entry,2,12,26,17, 12
+2018-11-29 09:20:24 +0000,0,Latu-Meafou,GA,Goal - Score,2,12,26,37, 9
+2018-11-29 09:20:32 +0000,1,Proud,C,Centre Pass,2,13,26,50, 100
+2018-11-29 09:20:32 +0000,1,Hadley,WA,Assist - Centre Pass Rec,2,13,26,25, 126
+2018-11-29 09:20:34 +0000,1,Housby ,GA,Assist - 2nd Phase,2,13,26,17, 158
+2018-11-29 09:20:37 +0000,1,Housby ,GA,Assist - Circle Entry,2,13,26,17, 158
+2018-11-29 09:20:37 +0000,1,Wallace,GS,Possession,2,13,26,44, 186
+2018-11-29 09:22:36 +0000,0,Shimmin,GK,Deflect,2,13,26,49, 182
+2018-11-29 09:22:48 +0000,1,Proud,C,Gain - Pick-up,2,13,26,36, 147
+2018-11-29 09:23:01 +0000,0,Fowler,WD,Penaly - Contact,2,13,26,36, 147
+2018-11-29 09:23:01 +0000,1,Proud,C,Possession,2,13,26,36, 147
+2018-11-29 09:23:06 +0000,1,Housby ,GA,Possession,2,13,26,58, 159
+2018-11-29 09:23:09 +0000,1,Proud,C,Possession,2,13,26,77, 173
+2018-11-29 09:23:12 +0000,1,Proud,C,Assist - Circle Entry,2,13,26,77, 173
+2018-11-29 09:23:12 +0000,1,Wallace,GS,Goal - Miss,2,13,26,47, 191
+2018-11-29 09:23:15 +0000,1,Wallace,GS,Assist - Attack Rebound,2,13,26,50, 197
+2018-11-29 09:23:16 +0000,1,Wallace,GS,Goal - Score,2,13,26,47, 191
+2018-11-29 09:23:24 +0000,0,Petty,C,Centre Pass,2,13,27,50, 100
+2018-11-29 09:23:24 +0000,0,Bryce,WA,Assist - Centre Pass Rec,2,13,27,64, 72
+2018-11-29 09:23:27 +0000,0,Tuivaiti,GS,Assist - 2nd Phase,2,13,27,21, 34
+2018-11-29 09:23:29 +0000,0,Bryce,WA,Possession,2,13,27,52, 48
+2018-11-29 09:23:31 +0000,0,Latu-Meafou,GA,Possession,2,13,27,75, 27
+2018-11-29 09:23:34 +0000,0,Bryce,WA,Possession,2,13,27,50, 38
+2018-11-29 09:23:36 +0000,0,Bryce,WA,Assist - Circle Entry,2,13,27,50, 38
+2018-11-29 09:23:36 +0000,0,Latu-Meafou,GA,Possession,2,13,27,48, 16
+2018-11-29 09:23:42 +0000,0,Tuivaiti,GS,Penaly - Contact,2,13,27,44, 10
+2018-11-29 09:23:42 +0000,1,Klau ,GK,Possession,2,13,27,44, 10
+2018-11-29 09:24:47 +0000,1,,UNKNOWN,Possession,2,13,27,60, 51
+2018-11-29 09:24:48 +0000,1,Hadley,WA,Possession,2,13,27,66, 109
+2018-11-29 09:24:52 +0000,1,Housby ,GA,Possession,2,13,27,89, 145
+2018-11-29 09:24:57 +0000,1,Hadley,WA,Possession,2,13,27,76, 142
+2018-11-29 09:24:59 +0000,1,Wallace,GS,Possession,2,13,27,70, 167
+2018-11-29 09:25:01 +0000,1,Hadley,WA,Possession,2,13,27,39, 166
+2018-11-29 09:25:04 +0000,1,Hadley,WA,Assist - Circle Entry,2,13,27,39, 166
+2018-11-29 09:25:04 +0000,1,Housby ,GA,Goal - Score,2,13,27,44, 181
+2018-11-29 09:25:11 +0000,1,Proud,C,Centre Pass,2,13,28,50, 100
+2018-11-29 09:25:11 +0000,1,Hadley,WA,Assist - Centre Pass Rec,2,13,28,35, 124
+2018-11-29 09:25:13 +0000,1,Housby ,GA,Assist - 2nd Phase,2,13,28,55, 141
+2018-11-29 09:25:15 +0000,1,Housby ,GA,Assist - Circle Entry,2,13,28,55, 141
+2018-11-29 09:25:15 +0000,1,Wallace,GS,Goal - Score,2,13,28,56, 181
+2018-11-29 09:25:23 +0000,0,Petty,C,Centre Pass,2,13,29,50, 100
+2018-11-29 09:25:23 +0000,0,Bryce,WA,Loss - Bad Pass,2,13,29,71, 84
+2018-11-29 09:25:32 +0000,0,Tuivaiti,GS,Deflect,2,13,29,54, 6
+2018-11-29 09:25:32 +0000,1,Klau ,GK,Throw In,2,13,29,54, -3
+2018-11-29 09:25:39 +0000,1,Turner,GD,Possession,2,13,29,24, 24
+2018-11-29 09:25:41 +0000,1,Proud,C,Possession,2,13,29,52, 57
+2018-11-29 09:25:43 +0000,1,McCulloch,WD,Possession,2,13,29,11, 118
+2018-11-29 09:25:46 +0000,1,Hadley,WA,Possession,2,13,29,18, 162
+2018-11-29 09:25:49 +0000,1,Hadley,WA,Assist - Circle Entry,2,13,29,18, 162
+2018-11-29 09:25:49 +0000,1,Housby ,GA,Goal - Score,2,13,29,57, 193
+2018-11-29 09:25:57 +0000,1,Proud,C,Centre Pass,2,13,30,50, 100
+2018-11-29 09:25:57 +0000,1,Housby ,GA,Assist - Centre Pass Rec,2,13,30,45, 121
+2018-11-29 09:26:00 +0000,1,Hadley,WA,Assist - 2nd Phase,2,13,30,88, 173
+2018-11-29 09:26:02 +0000,1,Hadley,WA,Assist - Circle Entry,2,13,30,88, 173
+2018-11-29 09:26:02 +0000,1,Housby ,GA,Possession,2,13,30,62, 193
+2018-11-29 09:26:04 +0000,0,Shimmin,GK,Penaly - Obstruction,2,13,30,62, 193
+2018-11-29 09:26:04 +0000,1,Housby ,GA,Goal - Score,2,13,30,62, 193
+2018-11-29 09:26:21 +0000,0,Petty,C,Centre Pass,2,13,31,50, 100
+2018-11-29 09:26:21 +0000,0,Bryce,WA,Assist - Centre Pass Rec,2,13,31,45, 76
+2018-11-29 09:26:26 +0000,0,de Bruin,GD,Assist - 2nd Phase,2,13,31,34, 105
+2018-11-29 09:26:28 +0000,0,Fowler,WD,Possession,2,13,31,87, 98
+2018-11-29 09:26:29 +0000,0,Petty,C,Possession,2,13,31,92, 57
+2018-11-29 09:26:33 +0000,0,de Bruin,GD,Possession,2,13,31,35, 76
+2018-11-29 09:26:35 +0000,0,Bryce,WA,Possession,2,13,31,65, 63
+2018-11-29 09:26:37 +0000,0,de Bruin,GD,Possession,2,13,31,42, 71
+2018-11-29 09:26:40 +0000,0,Petty,C,Possession,2,13,31,44, 52
+2018-11-29 09:26:41 +0000,1,Proud,C,Penaly - Contact,2,13,31,44, 52
+2018-11-29 09:26:41 +0000,0,Petty,C,Possession,2,13,31,44, 52
+2018-11-29 09:26:45 +0000,0,Petty,C,Assist - Circle Entry,2,13,31,44, 52
+2018-11-29 09:26:45 +0000,0,Latu-Meafou,GA,Possession,2,13,31,58, 28
+2018-11-29 09:26:49 +0000,0,Petty,C,Possession,2,13,31,51, 36
+2018-11-29 09:26:55 +0000,0,Petty,C,Assist - Circle Entry,2,13,31,51, 36
+2018-11-29 09:26:55 +0000,1,Klau ,GK,Gain - Inter,2,13,31,45, 10
+2018-11-29 09:26:58 +0000,0,Tuivaiti,GS,Penaly - Contact,2,13,31,45, 10
+2018-11-29 09:26:58 +0000,1,Klau ,GK,Possession,2,13,31,45, 10
+2018-11-29 09:27:02 +0000,1,Proud,C,Possession,2,13,31,33, 36
+2018-11-29 09:27:04 +0000,1,McCulloch,WD,Possession,2,13,31,30, 57
+2018-11-29 09:27:09 +0000,1,Hadley,WA,Possession,2,13,31,12, 99
+2018-11-29 09:27:12 +0000,1,Proud,C,Possession,2,13,31,12, 164
+2018-11-29 09:27:14 +0000,1,Proud,C,Assist - Circle Entry,2,13,31,12, 164
+2018-11-29 09:27:14 +0000,1,Wallace,GS,Goal - Score,2,13,31,55, 192
+2018-11-29 09:28:31 +0000,1,Proud,C,Centre Pass,2,13,32,50, 100
+2018-11-29 09:28:31 +0000,1,Hadley,WA,Penaly - Contact,2,13,32,47, 130
+2018-11-29 09:28:36 +0000,0,Fowler,WD,Possession,2,13,32,45, 129
+2018-11-29 09:28:50 +0000,0,de Bruin,GD,Possession,2,13,32,38, 105
+2018-11-29 09:28:56 +0000,1,Housby ,GA,Penaly - Contact,2,13,32,38, 105
+2018-11-29 09:28:56 +0000,0,de Bruin,GD,Possession,2,13,32,38, 105
+2018-11-29 09:29:01 +0000,0,Fowler,WD,Possession,2,13,32,76, 95
+2018-11-29 09:29:03 +0000,0,Bryce,WA,Possession,2,13,32,61, 50
+2018-11-29 09:29:04 +0000,0,de Bruin,GD,Possession,2,13,32,37, 72
+2018-11-29 09:29:07 +0000,0,Bryce,WA,Possession,2,13,32,22, 28
+2018-11-29 09:29:11 +0000,0,Bryce,WA,Assist - Circle Entry,2,13,32,22, 28
+2018-11-29 09:29:12 +0000,0,Tuivaiti,GS,Possession,2,13,32,62, 7
+2018-11-29 09:29:13 +0000,1,Turner,GD,Penaly - Contact,2,13,32,62, 7
+2018-11-29 09:29:13 +0000,0,Tuivaiti,GS,Goal - Score,2,13,32,62, 7
+2018-11-29 09:29:29 +0000,0,Petty,C,Centre Pass,2,14,32,50, 100
+2018-11-29 09:29:30 +0000,0,Fowler,WD,Assist - Centre Pass Rec,2,14,32,31, 113
+2018-11-29 09:29:32 +0000,0,de Bruin,GD,Loss - Bad Pass,2,14,32,77, 76
+2018-11-29 09:29:37 +0000,1,Klau ,GK,Throw In,2,14,32,95, -4
+2018-11-29 09:29:43 +0000,1,Proud,C,Possession,2,14,32,92, 55
+2018-11-29 09:29:44 +0000,1,Hadley,WA,Possession,2,14,32,72, 76
+2018-11-29 09:29:47 +0000,1,McCulloch,WD,Possession,2,14,32,43, 111
+2018-11-29 09:29:51 +0000,1,Hadley,WA,Possession,2,14,32,64, 129
+2018-11-29 09:29:55 +0000,1,Hadley,WA,Assist - Circle Entry,2,14,32,64, 129
+2018-11-29 09:29:55 +0000,0,Shimmin,GK,Gain - Inter,2,14,32,57, 186
+2018-11-29 09:29:58 +0000,0,Petty,C,Possession,2,14,32,75, 148
+2018-11-29 09:30:06 +0000,0,Bryce,WA,Possession,2,14,32,91, 107
+2018-11-29 09:30:08 +0000,0,Tuivaiti,GS,Possession,2,14,32,82, 27
+2018-11-29 09:30:13 +0000,0,de Bruin,GD,Possession,2,14,32,71, 70
+2018-11-29 09:30:15 +0000,0,Tuivaiti,GS,Possession,2,14,32,64, 40
+2018-11-29 09:30:17 +0000,0,Bryce,WA,Possession,2,14,32,16, 6
+2018-11-29 09:30:22 +0000,0,Bryce,WA,Assist - Circle Entry,2,14,32,16, 6
+2018-11-29 09:30:23 +0000,0,Tuivaiti,GS,Possession,2,14,32,43, 4
+2018-11-29 09:30:25 +0000,0,Latu-Meafou,GA,Goal - Score,2,14,32,50, 12
+2018-11-29 09:30:37 +0000,1,Proud,C,Centre Pass,2,15,32,50, 100
+2018-11-29 09:30:37 +0000,1,McCulloch,WD,Assist - Centre Pass Rec,2,15,32,38, 79
+2018-11-29 09:30:39 +0000,1,Proud,C,Assist - 2nd Phase,2,15,32,53, 91
+2018-11-29 09:30:42 +0000,1,Hadley,WA,Possession,2,15,32,21, 123
+2018-11-29 09:30:45 +0000,1,Turner,GD,Possession,2,15,32,52, 127
+2018-11-29 09:30:47 +0000,1,Hadley,WA,Possession,2,15,32,50, 147
+2018-11-29 09:30:49 +0000,1,Proud,C,Possession,2,15,32,18, 187
+2018-11-29 09:30:51 +0000,1,Proud,C,Assist - Circle Entry,2,15,32,18, 187
+2018-11-29 09:30:51 +0000,1,Wallace,GS,Goal - Score,2,15,32,58, 196
+2018-11-29 09:30:58 +0000,0,Petty,C,Centre Pass,2,15,33,50, 100
+2018-11-29 09:30:58 +0000,0,Latu-Meafou,GA,Assist - Centre Pass Rec,2,15,33,50, 75
+2018-11-29 09:31:02 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,2,15,33,50, 75
+2018-11-29 09:31:02 +0000,1,Klau ,GK,Gain - Inter,2,15,33,46, 18
+2018-11-29 09:31:07 +0000,1,Turner,GD,Possession,2,15,33,62, 22
+2018-11-29 09:31:09 +0000,1,Hadley,WA,Possession,2,15,33,92, 92
+2018-11-29 09:31:11 +0000,1,Turner,GD,Possession,2,15,33,66, 82
+2018-11-29 09:31:13 +0000,1,Housby ,GA,Possession,2,15,33,50, 137
+2018-11-29 09:31:17 +0000,1,Wallace,GS,Possession,2,15,33,54, 161
+2018-11-29 09:31:19 +0000,1,Proud,C,Possession,2,15,33,16, 193
+2018-11-29 09:31:23 +0000,1,Proud,C,Assist - Circle Entry,2,15,33,16, 193
+2018-11-29 09:31:23 +0000,1,Wallace,GS,Goal - Score,2,15,33,57, 195
+2018-11-29 09:31:30 +0000,1,Proud,C,Centre Pass,2,15,34,50, 100
+2018-11-29 09:31:30 +0000,1,Housby ,GA,Assist - Centre Pass Rec,2,15,34,78, 124
+2018-11-29 09:31:33 +0000,1,Hadley,WA,Assist - 2nd Phase,2,15,34,77, 155
+2018-11-29 09:31:38 +0000,0,de Bruin,GD,Deflect,2,15,34,64, 187
+2018-11-29 09:31:38 +0000,1,Hadley,WA,Possession,2,15,34,91, 195
+2018-11-29 09:31:45 +0000,0,Fowler,WD,Penaly - Obstruction,2,15,34,91, 195
+2018-11-29 09:31:45 +0000,1,Hadley,WA,Possession,2,15,34,91, 195
+2018-11-29 09:31:53 +0000,1,Housby ,GA,Possession,2,15,34,71, 168
+2018-11-29 09:31:56 +0000,1,Housby ,GA,Assist - Circle Entry,2,15,34,71, 168
+2018-11-29 09:31:56 +0000,1,Wallace,GS,Goal - Score,2,15,34,57, 195
+2018-11-29 09:34:27 +0000,0,Tuivaiti,UNKNOWN,Interchange - Nelson,3,15,35,
+2018-11-29 09:34:44 +0000,0,Petty,C,Centre Pass,3,15,35,50, 100
+2018-11-29 09:34:44 +0000,0,Petty,C,Loss - Bad Pass,3,15,35,86, 67
+2018-11-29 09:54:36 +0000,1,Klau ,GK,Possession,3,15,35,85, 66
+2018-11-29 09:54:42 +0000,1,Turner,GD,Possession,3,15,35,58, 52
+2018-11-29 09:54:43 +0000,1,Proud,C,Possession,3,15,35,76, 83
+2018-11-29 09:54:45 +0000,1,Hadley,WA,Possession,3,15,35,57, 95
+2018-11-29 09:54:47 +0000,1,Turner,GD,Possession,3,15,35,76, 91
+2018-11-29 09:54:49 +0000,1,Hadley,WA,Possession,3,15,35,59, 109
+2018-11-29 09:54:51 +0000,1,McCulloch,WD,Possession,3,15,35,10, 124
+2018-11-29 09:54:53 +0000,1,Hadley,WA,Possession,3,15,35,33, 140
+2018-11-29 09:54:54 +0000,1,Wallace,GS,Possession,3,15,35,25, 168
+2018-11-29 09:54:56 +0000,1,Hadley,WA,Possession,3,15,35,42, 164
+2018-11-29 09:55:03 +0000,1,Hadley,WA,Assist - Circle Entry,3,15,35,42, 164
+2018-11-29 09:55:03 +0000,1,Wallace,GS,Goal - Score,3,15,35,41, 183
+2018-11-29 09:55:07 +0000,1,Proud,C,Centre Pass,3,15,36,50, 100
+2018-11-29 09:55:07 +0000,1,Housby ,GA,Assist - Centre Pass Rec,3,15,36,55, 119
+2018-11-29 09:55:10 +0000,1,Hadley,WA,Assist - 2nd Phase,3,15,36,22, 176
+2018-11-29 09:55:13 +0000,1,Hadley,WA,Assist - Circle Entry,3,15,36,22, 176
+2018-11-29 09:55:13 +0000,1,Housby ,GA,Goal - Score,3,15,36,40, 193
+2018-11-29 09:55:20 +0000,0,Petty,C,Centre Pass,3,15,37,50, 100
+2018-11-29 09:55:21 +0000,0,Latu-Meafou,GA,Assist - Centre Pass Rec,3,15,37,9, 80
+2018-11-29 09:55:25 +0000,0,,UNKNOWN,Assist - 2nd Phase,3,15,37,32, 73
+2018-11-29 09:55:29 +0000,0,Latu-Meafou,GA,Possession,3,15,37,12, 7
+2018-11-29 09:55:33 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,3,15,37,12, 7
+2018-11-29 09:55:34 +0000,0,Nelson,GS,Goal - Score,3,15,37,54, 5
+2018-11-29 09:56:03 +0000,1,Proud,C,Centre Pass,3,16,37,50, 100
+2018-11-29 09:56:03 +0000,1,Housby ,GA,Assist - Centre Pass Rec,3,16,37,61, 125
+2018-11-29 09:56:09 +0000,0,de Bruin,GD,Deflect,3,16,37,61, 128
+2018-11-29 09:56:09 +0000,1,Housby ,GA,Possession,3,16,37,61, 124
+2018-11-29 09:56:18 +0000,1,McCulloch,WD,Possession,3,16,37,23, 102
+2018-11-29 09:56:20 +0000,1,Hadley,WA,Possession,3,16,37,42, 128
+2018-11-29 09:56:22 +0000,1,Wallace,GS,Possession,3,16,37,44, 159
+2018-11-29 09:56:24 +0000,1,Hadley,WA,Possession,3,16,37,50, 163
+2018-11-29 09:56:26 +0000,1,Housby ,GA,Possession,3,16,37,73, 172
+2018-11-29 09:56:28 +0000,1,Housby ,GA,Assist - Circle Entry,3,16,37,73, 172
+2018-11-29 09:56:28 +0000,1,Wallace,GS,Goal - Miss,3,16,37,48, 184
+2018-11-29 09:56:52 +0000,0,Fowler,WD,Loss - Offside,3,16,37,70, 178
+2018-11-29 09:57:00 +0000,1,Housby ,GA,Possession,3,16,37,70, 178
+2018-11-29 09:59:08 +0000,1,Hadley,WA,Possession,3,16,37,79, 181
+2018-11-29 09:59:10 +0000,1,Hadley,WA,Assist - Circle Entry,3,16,37,79, 181
+2018-11-29 09:59:10 +0000,1,Wallace,GS,Goal - Score,3,16,37,55, 193
+2018-11-29 09:59:18 +0000,0,Petty,C,Centre Pass,3,16,38,50, 100
+2018-11-29 09:59:18 +0000,0,Bryce,WA,Assist - Centre Pass Rec,3,16,38,72, 82
+2018-11-29 09:59:21 +0000,0,Petty,C,Assist - 2nd Phase,3,16,38,42, 64
+2018-11-29 09:59:23 +0000,0,Petty,C,Assist - Circle Entry,3,16,38,42, 64
+2018-11-29 09:59:23 +0000,0,Nelson,GS,Possession,3,16,38,47, 17
+2018-11-29 09:59:28 +0000,1,Turner,GD,Penaly - Contact,3,16,38,47, 17
+2018-11-29 09:59:28 +0000,0,Nelson,GS,Possession,3,16,38,47, 17
+2018-11-29 09:59:33 +0000,1,Klau ,GK,Penaly - Obstruction,3,16,38,47, 17
+2018-11-29 09:59:34 +0000,0,Nelson,GS,Goal - Score,3,16,38,47, 17
+2018-11-29 09:59:46 +0000,1,Proud,C,Centre Pass,3,17,38,50, 100
+2018-11-29 09:59:46 +0000,1,Housby ,GA,Assist - Centre Pass Rec,3,17,38,77, 128
+2018-11-29 09:59:47 +0000,1,Hadley,WA,Assist - 2nd Phase,3,17,38,78, 156
+2018-11-29 09:59:49 +0000,1,Hadley,WA,Assist - Circle Entry,3,17,38,78, 156
+2018-11-29 09:59:49 +0000,1,Wallace,GS,Possession,3,17,38,61, 193
+2018-11-29 09:59:51 +0000,1,Housby ,GA,Possession,3,17,38,72, 172
+2018-11-29 09:59:53 +0000,1,Proud,C,Possession,3,17,38,16, 183
+2018-11-29 09:59:55 +0000,1,Proud,C,Assist - Circle Entry,3,17,38,16, 183
+2018-11-29 09:59:55 +0000,1,Housby ,GA,Goal - Score,3,17,38,40, 193
+2018-11-29 10:05:53 +0000,0,Petty,C,Centre Pass,3,17,39,50, 100
+2018-11-29 10:05:54 +0000,0,Latu-Meafou,GA,Assist - Centre Pass Rec,3,17,39,23, 80
+2018-11-29 10:05:55 +0000,0,Petty,C,Assist - 2nd Phase,3,17,39,40, 71
+2018-11-29 10:05:58 +0000,0,Bryce,WA,Possession,3,17,39,28, 29
+2018-11-29 10:06:00 +0000,0,Bryce,WA,Assist - Circle Entry,3,17,39,28, 29
+2018-11-29 10:06:00 +0000,0,Nelson,GS,Goal - Score,3,17,39,44, 13
+2018-11-29 10:06:27 +0000,1,Proud,C,Centre Pass,3,18,39,50, 100
+2018-11-29 10:06:27 +0000,0,Petty,C,Penaly - Contact on CP,3,18,39,48, 129
+2018-11-29 10:06:27 +0000,1,McCulloch,WD,Possession,3,18,39,48, 129
+2018-11-29 10:06:34 +0000,1,Proud,C,Assist - 2nd Phase,3,18,39,47, 163
+2018-11-29 10:06:36 +0000,1,Proud,C,Assist - Circle Entry,3,18,39,47, 163
+2018-11-29 10:06:36 +0000,1,Wallace,GS,Goal - Score,3,18,39,41, 195
+2018-11-29 10:06:47 +0000,0,Petty,C,Centre Pass,3,18,40,50, 100
+2018-11-29 10:06:47 +0000,0,de Bruin,GD,Assist - Centre Pass Rec,3,18,40,75, 111
+2018-11-29 10:06:48 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,3,18,40,89, 79
+2018-11-29 10:06:50 +0000,0,Bryce,WA,Possession,3,18,40,88, 25
+2018-11-29 10:06:52 +0000,0,Bryce,WA,Assist - Circle Entry,3,18,40,88, 25
+2018-11-29 10:06:52 +0000,0,Nelson,GS,Goal - Miss,3,18,40,59, 9
+2018-11-29 10:06:59 +0000,1,Turner,GD,Gain - Def Reb,3,18,40,50, 2
+2018-11-29 10:07:03 +0000,1,Klau ,GK,Loss - Bad Pass,3,18,40,62, 6
+2018-11-29 10:07:14 +0000,0,Latu-Meafou,GA,Gain - Pick-up,3,18,40,17, 25
+2018-11-29 10:07:21 +0000,0,Petty,C,Possession,3,18,40,33, 45
+2018-11-29 10:07:29 +0000,1,Klau ,GK,Penaly - Contact,3,18,40,39, 12
+2018-11-29 10:07:30 +0000,0,Nelson,GS,Goal - Miss,3,18,40,39, 12
+2018-11-29 10:07:36 +0000,0,Latu-Meafou,GA,Assist - Attack Rebound,3,18,40,50, 2
+2018-11-29 10:07:39 +0000,0,Latu-Meafou,GA,Goal - Score,3,18,40,39, 12
+2018-11-29 10:07:48 +0000,1,Proud,C,Centre Pass,3,19,40,50, 100
+2018-11-29 10:07:48 +0000,1,Hadley,WA,Assist - Centre Pass Rec,3,19,40,29, 120
+2018-11-29 10:07:50 +0000,1,Housby ,GA,Assist - 2nd Phase,3,19,40,74, 143
+2018-11-29 10:07:52 +0000,1,Hadley,WA,Possession,3,19,40,84, 189
+2018-11-29 10:07:56 +0000,1,Hadley,WA,Assist - Circle Entry,3,19,40,84, 189
+2018-11-29 10:07:56 +0000,1,Housby ,GA,Goal - Score,3,19,40,39, 192
+2018-11-29 10:08:05 +0000,0,Petty,C,Centre Pass,3,19,41,50, 100
+2018-11-29 10:08:05 +0000,0,Fowler,WD,Assist - Centre Pass Rec,3,19,41,8, 78
+2018-11-29 10:08:07 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,3,19,41,11, 50
+2018-11-29 10:08:09 +0000,0,Petty,C,Possession,3,19,41,74, 26
+2018-11-29 10:08:13 +0000,0,Nelson,GS,Penaly - Contact,3,19,41,56, 16
+2018-11-29 10:08:13 +0000,1,Klau ,GK,Possession,3,19,41,56, 16
+2018-11-29 10:08:26 +0000,1,McCulloch,WD,Possession,3,19,41,25, 45
+2018-11-29 10:08:31 +0000,1,Hadley,WA,Loss - Drop,3,19,41,1, 99
+2018-11-29 10:08:34 +0000,0,Fowler,WD,Throw In,3,19,41,-5, 101
+2018-11-29 10:08:43 +0000,0,de Bruin,GD,Possession,3,19,41,14, 94
+2018-11-29 10:08:45 +0000,0,Fowler,WD,Possession,3,19,41,11, 113
+2018-11-29 10:08:47 +0000,0,de Bruin,GD,Possession,3,19,41,2, 84
+2018-11-29 10:08:51 +0000,0,Bryce,WA,Possession,3,19,41,5, 10
+2018-11-29 10:09:00 +0000,0,Bryce,WA,Assist - Circle Entry,3,19,41,5, 10
+2018-11-29 10:09:00 +0000,0,Latu-Meafou,GA,Goal - Miss,3,19,41,29, 9
+2018-11-29 10:09:05 +0000,1,Klau ,GK,Gain - Def Reb,3,19,41,50, 2
+2018-11-29 10:09:09 +0000,1,Proud,C,Possession,3,19,41,45, 42
+2018-11-29 10:09:11 +0000,1,Hadley,WA,Possession,3,19,41,79, 80
+2018-11-29 10:09:13 +0000,1,McCulloch,WD,Possession,3,19,41,69, 125
+2018-11-29 10:09:15 +0000,1,Wallace,GS,Possession,3,19,41,84, 178
+2018-11-29 10:09:21 +0000,1,Proud,C,Possession,3,19,41,21, 177
+2018-11-29 10:09:25 +0000,1,Proud,C,Assist - Circle Entry,3,19,41,21, 177
+2018-11-29 10:09:25 +0000,0,Shimmin,GK,Gain - Tip (Deflect),3,19,41,48, 177
+2018-11-29 10:09:29 +0000,0,Petty,C,Possession,3,19,41,45, 162
+2018-11-29 10:09:32 +0000,0,Petty,C,Possession,3,19,41,16, 139
+2018-11-29 10:09:36 +0000,0,Latu-Meafou,GA,Possession,3,19,41,37, 84
+2018-11-29 10:09:43 +0000,0,Petty,C,Possession,3,19,41,26, 40
+2018-11-29 10:09:46 +0000,0,de Bruin,GD,Possession,3,19,41,29, 70
+2018-11-29 10:09:48 +0000,0,Bryce,WA,Possession,3,19,41,34, 48
+2018-11-29 10:09:59 +0000,1,Klau ,GK,Deflect,3,19,41,27, 15
+2018-11-29 10:09:59 +0000,1,Klau ,GK,Possession,3,19,41,1, 22
+2018-11-29 10:10:12 +0000,0,de Bruin,GD,Gain - Inter,3,19,41,7, 76
+2018-11-29 10:10:30 +0000,0,Bryce,WA,Possession,3,19,41,15, 56
+2018-11-29 10:10:32 +0000,0,Petty,C,Possession,3,19,41,84, 11
+2018-11-29 10:10:35 +0000,0,Bryce,WA,Possession,3,19,41,64, 31
+2018-11-29 10:10:43 +0000,0,Bryce,WA,Assist - Circle Entry,3,19,41,64, 31
+2018-11-29 10:10:44 +0000,0,Latu-Meafou,GA,Possession,3,19,41,55, 12
+2018-11-29 10:10:45 +0000,1,Turner,GD,Penaly - Contact,3,19,41,55, 12
+2018-11-29 10:10:45 +0000,0,Latu-Meafou,GA,Goal - Score,3,19,41,55, 12
+2018-11-29 10:11:13 +0000,1,Proud,C,Centre Pass,3,20,41,50, 100
+2018-11-29 10:11:13 +0000,1,Hadley,WA,Assist - Centre Pass Rec,3,20,41,18, 128
+2018-11-29 10:11:14 +0000,1,Proud,C,Assist - 2nd Phase,3,20,41,35, 129
+2018-11-29 10:11:17 +0000,1,Hadley,WA,Possession,3,20,41,26, 145
+2018-11-29 10:11:19 +0000,1,Housby ,GA,Possession,3,20,41,19, 172
+2018-11-29 10:11:21 +0000,1,Housby ,GA,Assist - Circle Entry,3,20,41,19, 172
+2018-11-29 10:11:21 +0000,1,Wallace,GS,Possession,3,20,41,42, 185
+2018-11-29 10:11:31 +0000,0,de Bruin,GD,Penaly - Contact,3,20,41,42, 185
+2018-11-29 10:11:31 +0000,1,Wallace,GS,Possession,3,20,41,42, 185
+2018-11-29 10:11:35 +0000,1,Housby ,GA,Possession,3,20,41,53, 193
+2018-11-29 10:11:39 +0000,0,Shimmin,GK,Penaly - Obstruction,3,20,41,53, 193
+2018-11-29 10:11:39 +0000,1,Housby ,GA,Goal - Score,3,20,41,53, 193
+2018-11-29 10:11:44 +0000,0,Petty,C,Centre Pass,3,20,42,50, 100
+2018-11-29 10:11:44 +0000,0,Bryce,WA,Assist - Centre Pass Rec,3,20,42,25, 93
+2018-11-29 10:12:30 +0000,0,Petty,C,Assist - 2nd Phase,3,20,42,35, 72
+2018-11-29 10:12:34 +0000,0,Petty,C,Assist - Circle Entry,3,20,42,35, 72
+2018-11-29 10:12:34 +0000,0,Nelson,GS,Loss - Drop,3,20,42,65, 2
+2018-11-29 10:12:37 +0000,1,Klau ,GK,Throw In,3,20,42,67, -5
+2018-11-29 10:12:47 +0000,1,Turner,GD,Possession,3,20,42,83, 34
+2018-11-29 10:12:51 +0000,1,Klau ,GK,Possession,3,20,42,54, 19
+2018-11-29 10:12:52 +0000,1,Proud,C,Possession,3,20,42,34, 45
+2018-11-29 10:13:01 +0000,0,Nelson,GS,Deflect,3,20,42,72, 38
+2018-11-29 10:13:01 +0000,1,Klau ,GK,Throw In,3,20,42,76, -2
+2018-11-29 10:13:10 +0000,1,Turner,GD,Possession,3,20,42,79, 40
+2018-11-29 10:13:13 +0000,1,Proud,C,Possession,3,20,42,38, 56
+2018-11-29 10:13:16 +0000,1,Hadley,WA,Possession,3,20,42,13, 80
+2018-11-29 10:13:19 +0000,1,Turner,GD,Possession,3,20,42,54, 124
+2018-11-29 10:13:24 +0000,1,Housby ,GA,Possession,3,20,42,75, 148
+2018-11-29 10:13:27 +0000,1,Housby ,GA,Possession,3,20,42,75, 148
+2018-11-29 10:13:27 +0000,1,Wallace,GS,Loss - Out of Court,3,20,42,59, 198
+2018-11-29 10:13:57 +0000,0,Shimmin,GK,Throw In,3,20,42,59, 203
+2018-11-29 10:14:15 +0000,0,de Bruin,GD,Possession,3,20,42,65, 182
+2018-11-29 10:14:21 +0000,0,Petty,C,Possession,3,20,42,22, 112
+2018-11-29 10:14:24 +0000,0,Bryce,WA,Possession,3,20,42,59, 75
+2018-11-29 10:14:26 +0000,0,Latu-Meafou,GA,Possession,3,20,42,70, 60
+2018-11-29 10:14:29 +0000,0,de Bruin,GD,Possession,3,20,42,74, 71
+2018-11-29 10:14:33 +0000,1,Housby ,GA,Penaly - Obstruction,3,20,42,74, 71
+2018-11-29 10:14:33 +0000,0,de Bruin,GD,Possession,3,20,42,74, 71
+2018-11-29 10:14:39 +0000,0,Petty,C,Possession,3,20,42,64, 54
+2018-11-29 10:14:41 +0000,0,Petty,C,Assist - Circle Entry,3,20,42,64, 54
+2018-11-29 10:14:41 +0000,0,Latu-Meafou,GA,Possession,3,20,42,54, 27
+2018-11-29 10:14:45 +0000,0,Bryce,WA,Possession,3,20,42,41, 33
+2018-11-29 10:14:47 +0000,1,McCulloch,WD,Penaly - Contact,3,20,42,41, 33
+2018-11-29 10:14:47 +0000,0,Bryce,WA,Possession,3,20,42,41, 33
+2018-11-29 10:15:23 +0000,1,Klau ,GK,Deflect,3,20,42,52, 10
+2018-11-29 10:15:23 +0000,0,Latu-Meafou,GA,Possession,3,20,42,42, 17
+2018-11-29 10:15:30 +0000,1,Turner,GD,Penaly - Contact,3,20,42,42, 17
+2018-11-29 10:15:30 +0000,0,Latu-Meafou,GA,Goal - Score,3,20,42,42, 17
+2018-11-29 10:15:45 +0000,1,Proud,C,Centre Pass,3,21,42,50, 100
+2018-11-29 10:15:45 +0000,1,Housby ,GA,Assist - Centre Pass Rec,3,21,42,22, 127
+2018-11-29 10:15:49 +0000,1,Hadley,WA,Assist - 2nd Phase,3,21,42,9, 154
+2018-11-29 10:15:53 +0000,1,Wallace,GS,Possession,3,21,42,29, 169
+2018-11-29 10:15:56 +0000,1,Proud,C,Possession,3,21,42,38, 162
+2018-11-29 10:15:57 +0000,0,Petty,C,Penaly - Contact,3,21,42,38, 162
+2018-11-29 10:15:57 +0000,1,Proud,C,Possession,3,21,42,38, 162
+2018-11-29 10:17:51 +0000,1,Proud,C,Assist - Circle Entry,3,21,42,38, 162
+2018-11-29 10:17:51 +0000,1,Housby ,GA,Goal - Miss,3,21,42,48, 181
+2018-11-29 10:18:01 +0000,0,Shimmin,GK,Loss - Out of Court,3,21,42,50, 197
+2018-11-29 10:18:02 +0000,1,Housby ,GA,Throw In,3,21,42,49, 202
+2018-11-29 10:18:15 +0000,1,Proud,C,Possession,3,21,42,25, 174
+2018-11-29 10:18:18 +0000,1,Proud,C,Assist - Circle Entry,3,21,42,25, 174
+2018-11-29 10:18:18 +0000,1,Housby ,GA,Goal - Miss,3,21,42,39, 186
+2018-11-29 10:18:27 +0000,1,Wallace,GS,Assist - Attack Rebound,3,21,42,50, 197
+2018-11-29 10:18:30 +0000,1,Wallace,GS,Goal - Score,3,21,42,39, 186
+2018-11-29 10:18:35 +0000,0,Petty,C,Centre Pass,3,21,43,50, 100
+2018-11-29 10:18:35 +0000,0,Latu-Meafou,GA,Assist - Centre Pass Rec,3,21,43,60, 80
+2018-11-29 10:18:37 +0000,0,Petty,C,Assist - 2nd Phase,3,21,43,35, 72
+2018-11-29 10:18:39 +0000,0,de Bruin,GD,Possession,3,21,43,84, 68
+2018-11-29 10:18:42 +0000,0,Bryce,WA,Possession,3,21,43,29, 47
+2018-11-29 10:18:44 +0000,0,Latu-Meafou,GA,Possession,3,21,43,79, 16
+2018-11-29 10:18:46 +0000,0,Petty,C,Possession,3,21,43,66, 30
+2018-11-29 10:18:48 +0000,0,Petty,C,Assist - Circle Entry,3,21,43,66, 30
+2018-11-29 10:18:48 +0000,0,Nelson,GS,Goal - Score,3,21,43,46, 4
+2018-11-29 10:18:59 +0000,1,Proud,C,Centre Pass,3,22,43,50, 100
+2018-11-29 10:18:59 +0000,0,Petty,C,Penaly - Obstruction,3,22,43,47, 108
+2018-11-29 10:18:59 +0000,1,McCulloch,WD,Possession,3,22,43,47, 108
+2018-11-29 10:19:09 +0000,1,Hadley,WA,Assist - 2nd Phase,3,22,43,7, 139
+2018-11-29 10:19:12 +0000,1,Proud,C,Possession,3,22,43,18, 154
+2018-11-29 10:19:13 +0000,1,Housby ,GA,Possession,3,22,43,30, 164
+2018-11-29 10:19:16 +0000,1,Housby ,GA,Assist - Circle Entry,3,22,43,30, 164
+2018-11-29 10:19:16 +0000,1,Wallace,GS,Possession,3,22,43,52, 184
+2018-11-29 10:19:17 +0000,0,de Bruin,GD,Penaly - Contact,3,22,43,52, 184
+2018-11-29 10:19:17 +0000,1,Wallace,GS,Goal - Score,3,22,43,52, 184
+2018-11-29 10:21:02 +0000,0,Petty,C,Centre Pass,3,22,44,50, 100
+2018-11-29 10:21:03 +0000,0,Bryce,WA,Assist - Centre Pass Rec,3,22,44,75, 71
+2018-11-29 10:21:04 +0000,0,de Bruin,GD,Assist - 2nd Phase,3,22,44,64, 71
+2018-11-29 10:21:06 +0000,0,Bryce,WA,Possession,3,22,44,78, 49
+2018-11-29 10:21:08 +0000,0,Bryce,WA,Assist - Circle Entry,3,22,44,78, 49
+2018-11-29 10:21:08 +0000,0,Nelson,GS,Goal - Score,3,22,44,54, 11
+2018-11-29 10:54:27 +0000,1,Proud,C,Centre Pass,3,23,44,50, 100
+2018-11-29 10:54:27 +0000,1,,UNKNOWN,Loss - Bad Pass,3,23,44,67, 122
+2018-11-29 10:54:28 +0000,0,Shimmin,GK,Throw In,3,23,44,91, 204
+2018-11-29 10:54:33 +0000,0,de Bruin,GD,Possession,3,23,44,74, 170
+2018-11-29 10:54:37 +0000,1,Turner,GD,Gain - Inter,3,23,44,89, 91
+2018-11-29 10:54:41 +0000,1,McCulloch,WD,Possession,3,23,44,51, 108
+2018-11-29 10:54:45 +0000,1,Hadley,WA,Possession,3,23,44,22, 122
+2018-11-29 10:54:46 +0000,1,Turner,GD,Possession,3,23,44,58, 113
+2018-11-29 10:54:48 +0000,1,McCulloch,WD,Possession,3,23,44,34, 113
+2018-11-29 10:54:55 +0000,1,Hadley,WA,Possession,3,23,44,54, 127
+2018-11-29 10:54:56 +0000,1,Turner,GD,Possession,3,23,44,68, 124
+2018-11-29 10:54:59 +0000,1,Hadley,WA,Possession,3,23,44,70, 159
+2018-11-29 10:56:13 +0000,0,Fowler,WD,Loss - Offside,3,23,44,61, 172
+2018-11-29 10:56:13 +0000,1,Housby ,GA,Possession,3,23,44,61, 172
+2018-11-29 10:56:26 +0000,1,Proud,C,Possession,3,23,44,53, 166
+2018-11-29 10:56:28 +0000,1,Proud,C,Assist - Circle Entry,3,23,44,53, 166
+2018-11-29 10:56:28 +0000,1,Housby ,GA,Goal - Score,3,23,44,51, 185
+2018-11-29 10:56:37 +0000,1,,UNKNOWN,Timeout,3,23,45,110, 222
+2018-11-29 10:57:29 +0000,0,Housby ,UNKNOWN,Interchange - Garbin,3,23,45,
+2018-11-29 10:57:29 +0000,0,Turner,UNKNOWN,Interchange - Eddy,3,23,45,
+2018-11-29 10:58:07 +0000,0,Petty,C,Centre Pass,3,23,45,50, 100
+2018-11-29 10:58:07 +0000,0,Latu-Meafou,GA,Loss - Held Ball,3,23,45,16, 78
+2018-11-29 10:58:12 +0000,1,Eddy,GD,Possession,3,23,45,16, 78
+2018-11-29 10:58:23 +0000,1,Proud,C,Possession,3,23,45,52, 87
+2018-11-29 10:58:26 +0000,1,McCulloch,WD,Possession,3,23,45,84, 101
+2018-11-29 10:58:28 +0000,1,Garbin,GA,Possession,3,23,45,51, 124
+2018-11-29 10:58:30 +0000,1,Hadley,WA,Possession,3,23,45,80, 143
+2018-11-29 10:58:35 +0000,1,Eddy,GD,Possession,3,23,45,51, 128
+2018-11-29 10:58:37 +0000,1,Hadley,WA,Possession,3,23,45,53, 139
+2018-11-29 10:58:42 +0000,1,Hadley,WA,Assist - Circle Entry,3,23,45,53, 139
+2018-11-29 10:58:42 +0000,1,Wallace,GS,Possession,3,23,45,66, 196
+2018-11-29 10:58:44 +0000,0,Fowler,WD,Gain - Inter,3,23,45,79, 175
+2018-11-29 10:58:49 +0000,0,de Bruin,GD,Possession,3,23,45,62, 162
+2018-11-29 10:58:52 +0000,0,Shimmin,GK,Possession,3,23,45,84, 144
+2018-11-29 10:58:54 +0000,0,Petty,C,Possession,3,23,45,87, 117
+2018-11-29 10:58:57 +0000,0,Bryce,WA,Possession,3,23,45,80, 20
+2018-11-29 10:59:06 +0000,0,Bryce,WA,Assist - Circle Entry,3,23,45,80, 20
+2018-11-29 10:59:06 +0000,0,Nelson,GS,Loss - Drop,3,23,45,43, 12
+2018-11-29 10:59:11 +0000,1,Eddy,GD,Gain - Pick-up,3,23,45,13, 5
+2018-11-29 10:59:28 +0000,0,Fowler,WD,Loss - Offside,3,23,45,11, 65
+2018-11-29 10:59:28 +0000,1,Klau ,GK,Possession,3,23,45,11, 62
+2018-11-29 10:59:44 +0000,0,Petty,C,Deflect,3,23,45,11, 121
+2018-11-29 10:59:55 +0000,1,McCulloch,WD,Throw In,3,23,45,-5, 120
+2018-11-29 11:00:08 +0000,1,Proud,C,Possession,3,23,45,3, 147
+2018-11-29 11:00:10 +0000,1,Garbin,GA,Possession,3,23,45,13, 188
+2018-11-29 11:00:11 +0000,1,Hadley,WA,Possession,3,23,45,14, 153
+2018-11-29 11:00:14 +0000,1,Garbin,GA,Possession,3,23,45,18, 185
+2018-11-29 11:00:16 +0000,1,Hadley,WA,Possession,3,23,45,23, 175
+2018-11-29 11:00:28 +0000,0,Shimmin,GK,Deflect,3,23,45,32, 196
+2018-11-29 11:00:28 +0000,1,Garbin,GA,Throw In,3,23,45,32, 201
+2018-11-29 11:00:39 +0000,1,Garbin,GA,Assist - Circle Entry,3,23,45,32, 201
+2018-11-29 11:00:39 +0000,1,Wallace,GS,Possession,3,23,45,53, 186
+2018-11-29 11:00:42 +0000,1,Garbin,GA,Goal - Score,3,23,45,54, 194
+2018-11-29 11:00:55 +0000,1,Proud,C,Centre Pass,3,23,46,50, 100
+2018-11-29 11:00:55 +0000,1,Hadley,WA,Assist - Centre Pass Rec,3,23,46,24, 115
+2018-11-29 11:00:57 +0000,1,Proud,C,Assist - 2nd Phase,3,23,46,13, 141
+2018-11-29 11:01:00 +0000,1,Garbin,GA,Possession,3,23,46,10, 167
+2018-11-29 11:01:04 +0000,1,Garbin,GA,Assist - Circle Entry,3,23,46,10, 167
+2018-11-29 11:01:04 +0000,1,Wallace,GS,Possession,3,23,46,34, 180
+2018-11-29 11:01:06 +0000,1,Hadley,WA,Possession,3,23,46,29, 171
+2018-11-29 11:01:09 +0000,1,Hadley,WA,Assist - Circle Entry,3,23,46,29, 171
+2018-11-29 11:01:09 +0000,1,Garbin,GA,Possession,3,23,46,35, 194
+2018-11-29 11:01:10 +0000,1,Wallace,GS,Goal - Score,3,23,46,51, 191
+2018-11-29 11:01:18 +0000,0,Petty,C,Centre Pass,3,23,47,50, 100
+2018-11-29 11:01:18 +0000,0,Bryce,WA,Assist - Centre Pass Rec,3,23,47,76, 73
+2018-11-29 11:01:20 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,3,23,47,80, 31
+2018-11-29 11:01:23 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,3,23,47,80, 31
+2018-11-29 11:01:23 +0000,0,Nelson,GS,Possession,3,23,47,61, 12
+2018-11-29 11:01:24 +0000,1,Klau ,GK,Penaly - Obstruction,3,23,47,61, 12
+2018-11-29 11:01:24 +0000,0,Latu-Meafou,GA,Goal - Score,3,23,47,61, 12
+2018-11-29 11:03:11 +0000,1,Proud,C,Centre Pass,3,24,47,50, 100
+2018-11-29 11:03:12 +0000,1,Hadley,WA,Assist - Centre Pass Rec,3,24,47,48, 118
+2018-11-29 11:03:14 +0000,1,Proud,C,Assist - 2nd Phase,3,24,47,24, 145
+2018-11-29 11:03:15 +0000,0,Petty,C,Penaly - Contact,3,24,47,24, 145
+2018-11-29 11:03:15 +0000,1,Proud,C,Possession,3,24,47,24, 145
+2018-11-29 11:03:21 +0000,1,Garbin,GA,Possession,3,24,47,52, 162
+2018-11-29 11:03:23 +0000,0,de Bruin,GD,Deflect,3,24,47,45, 190
+2018-11-29 11:03:23 +0000,1,Garbin,GA,Throw In,3,24,47,47, 200
+2018-11-29 11:03:30 +0000,1,Proud,C,Possession,3,24,47,82, 186
+2018-11-29 11:03:32 +0000,0,Fowler,WD,Penaly - Obstruction,3,24,47,82, 186
+2018-11-29 11:03:32 +0000,1,Proud,C,Possession,3,24,47,82, 186
+2018-11-29 11:03:37 +0000,1,Proud,C,Assist - Circle Entry,3,24,47,82, 186
+2018-11-29 11:03:37 +0000,1,Garbin,GA,Goal - Score,3,24,47,37, 194
+2018-11-29 11:05:03 +0000,0,Petty,C,Centre Pass,3,24,48,50, 100
+2018-11-29 11:05:03 +0000,0,Latu-Meafou,GA,Assist - Centre Pass Rec,3,24,48,22, 82
+2018-11-29 11:05:06 +0000,0,Bryce,WA,Assist - 2nd Phase,3,24,48,17, 27
+2018-11-29 11:05:08 +0000,0,Bryce,WA,Assist - Circle Entry,3,24,48,17, 27
+2018-11-29 11:05:08 +0000,0,Nelson,GS,Goal - Score,3,24,48,53, 8
+2018-11-29 11:05:18 +0000,1,Proud,C,Centre Pass,3,25,48,50, 100
+2018-11-29 11:05:18 +0000,1,Hadley,WA,Assist - Centre Pass Rec,3,25,48,23, 128
+2018-11-29 11:05:21 +0000,1,Garbin,GA,Assist - 2nd Phase,3,25,48,17, 160
+2018-11-29 11:05:24 +0000,0,de Bruin,GD,Penaly - Contact,3,25,48,17, 160
+2018-11-29 11:05:24 +0000,1,Hadley,WA,Possession,3,25,48,17, 160
+2018-11-29 11:05:28 +0000,1,Hadley,WA,Assist - Circle Entry,3,25,48,17, 160
+2018-11-29 11:05:28 +0000,1,Wallace,GS,Goal - Score,3,25,48,39, 191
+2018-11-29 11:05:38 +0000,0,Petty,C,Centre Pass,3,25,49,50, 100
+2018-11-29 11:05:38 +0000,0,de Bruin,GD,Assist - Centre Pass Rec,3,25,49,63, 115
+2018-11-29 11:05:40 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,3,25,49,15, 76
+2018-11-29 11:05:43 +0000,0,Bryce,WA,Possession,3,25,49,15, 22
+2018-11-29 11:05:45 +0000,0,Bryce,WA,Assist - Circle Entry,3,25,49,15, 22
+2018-11-29 11:05:45 +0000,0,Nelson,GS,Goal - Score,3,25,49,35, 5
+2018-11-29 11:05:53 +0000,1,Proud,C,Centre Pass,3,26,49,50, 100
+2018-11-29 11:05:53 +0000,1,Garbin,GA,Assist - Centre Pass Rec,3,26,49,59, 121
+2018-11-29 11:05:55 +0000,1,Hadley,WA,Assist - 2nd Phase,3,26,49,38, 135
+2018-11-29 11:05:56 +0000,1,Hadley,WA,Assist - Circle Entry,3,26,49,38, 135
+2018-11-29 11:05:57 +0000,1,Wallace,GS,Possession,3,26,49,57, 188
+2018-11-29 11:06:00 +0000,1,Hadley,WA,Possession,3,26,49,65, 166
+2018-11-29 11:06:02 +0000,1,Hadley,WA,Assist - Circle Entry,3,26,49,65, 166
+2018-11-29 11:06:02 +0000,1,Wallace,GS,Goal - Score,3,26,49,52, 187
+2018-11-29 11:06:13 +0000,0,Petty,C,Centre Pass,3,26,50,50, 100
+2018-11-29 11:06:13 +0000,0,Latu-Meafou,GA,Assist - Centre Pass Rec,3,26,50,69, 79
+2018-11-29 11:06:16 +0000,1,McCulloch,WD,Penaly - Contact,3,26,50,35, 56
+2018-11-29 11:06:17 +0000,0,Bryce,WA,Assist - 2nd Phase,3,26,50,35, 56
+2018-11-29 11:06:23 +0000,0,Petty,C,Possession,3,26,50,21, 26
+2018-11-29 11:06:25 +0000,0,Petty,C,Assist - Circle Entry,3,26,50,21, 26
+2018-11-29 11:06:25 +0000,0,Latu-Meafou,GA,Possession,3,26,50,30, 15
+2018-11-29 11:06:36 +0000,0,Petty,C,Possession,3,26,50,21, 24
+2018-11-29 11:06:38 +0000,0,Petty,C,Assist - Circle Entry,3,26,50,21, 24
+2018-11-29 11:06:38 +0000,0,Nelson,GS,Goal - Score,3,26,50,56, 10
+2018-11-29 11:06:50 +0000,1,Proud,C,Centre Pass,3,27,50,50, 100
+2018-11-29 11:06:51 +0000,1,Hadley,WA,Loss - Break,3,27,50,36, 133
+2018-11-29 11:06:55 +0000,0,Fowler,WD,Possession,3,27,50,37, 134
+2018-11-29 11:06:58 +0000,0,Bryce,WA,Possession,3,27,50,77, 82
+2018-11-29 11:07:02 +0000,0,Latu-Meafou,GA,Possession,3,27,50,29, 40
+2018-11-29 11:07:04 +0000,1,Eddy,GD,Penaly - Contact,3,27,50,29, 40
+2018-11-29 11:07:04 +0000,0,Latu-Meafou,GA,Possession,3,27,50,29, 40
+2018-11-29 11:07:09 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,3,27,50,29, 40
+2018-11-29 11:07:09 +0000,0,Nelson,GS,Goal - Score,3,27,50,45, 5
+2018-11-29 11:07:21 +0000,0,Petty,C,Centre Pass,3,28,50,50, 100
+2018-11-29 11:07:21 +0000,0,Bryce,WA,Assist - Centre Pass Rec,3,28,50,66, 86
+2018-11-29 11:07:22 +0000,0,Petty,C,Assist - 2nd Phase,3,28,50,52, 84
+2018-11-29 11:07:24 +0000,1,Proud,C,Penaly - Contact,3,28,50,52, 84
+2018-11-29 11:07:24 +0000,0,de Bruin,GD,Possession,3,28,50,52, 84
+2018-11-29 11:07:30 +0000,0,Petty,C,Possession,3,28,50,39, 52
+2018-11-29 11:07:32 +0000,0,Bryce,WA,Possession,3,28,50,82, 7
+2018-11-29 11:07:42 +0000,0,Bryce,WA,Assist - Circle Entry,3,28,50,82, 7
+2018-11-29 11:07:42 +0000,0,Nelson,GS,Possession,3,28,50,55, 10
+2018-11-29 11:07:44 +0000,1,Eddy,GD,Penaly - Contact,3,28,50,55, 10
+2018-11-29 11:07:44 +0000,0,Latu-Meafou,GA,Goal - Score,3,28,50,55, 10
+2018-11-29 11:07:59 +0000,1,Proud,C,Centre Pass,3,29,50,50, 100
+2018-11-29 11:07:59 +0000,1,Garbin,GA,Assist - Centre Pass Rec,3,29,50,20, 128
+2018-11-29 11:08:01 +0000,1,Hadley,WA,Assist - 2nd Phase,3,29,50,40, 136
+2018-11-29 11:08:03 +0000,1,Wallace,GS,Possession,3,29,50,62, 167
+2018-11-29 11:08:05 +0000,1,Hadley,WA,Possession,3,29,50,18, 183
+2018-11-29 11:08:07 +0000,1,Hadley,WA,Assist - Circle Entry,3,29,50,18, 183
+2018-11-29 11:08:07 +0000,1,Garbin,GA,Goal - Score,3,29,50,37, 194
+2018-11-29 11:08:15 +0000,0,Petty,C,Centre Pass,3,29,51,50, 100
+2018-11-29 11:08:15 +0000,0,Latu-Meafou,GA,Assist - Centre Pass Rec,3,29,51,64, 75
+2018-11-29 11:08:20 +0000,1,Proud,C,Gain - Inter,3,29,51,41, 69
+2018-11-29 11:08:25 +0000,1,Garbin,GA,Possession,3,29,51,32, 107
+2018-11-29 11:08:28 +0000,1,Hadley,WA,Possession,3,29,51,6, 105
+2018-11-29 11:08:32 +0000,1,Proud,C,Loss - Step,3,29,51,32, 157
+2018-11-29 11:08:37 +0000,0,Shimmin,GK,Possession,3,29,51,31, 156
+2018-11-29 11:08:44 +0000,0,Petty,C,Possession,3,29,51,68, 119
+2018-11-29 11:08:46 +0000,0,Fowler,WD,Possession,3,29,51,50, 111
+2018-11-29 11:08:48 +0000,0,Latu-Meafou,GA,Possession,3,29,51,17, 69
+2018-11-29 11:08:52 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,3,29,51,17, 69
+2018-11-29 11:08:52 +0000,0,Nelson,GS,Possession,3,29,51,48, 17
+2018-11-29 11:08:55 +0000,1,Klau ,GK,Penaly - Contact,3,29,51,48, 17
+2018-11-29 11:08:55 +0000,0,Nelson,GS,Goal - Score,3,29,51,48, 17
+2018-11-29 11:09:07 +0000,1,Proud,C,Centre Pass,3,30,51,50, 100
+2018-11-29 11:09:07 +0000,1,Hadley,WA,Assist - Centre Pass Rec,3,30,51,26, 126
+2018-11-29 11:09:10 +0000,1,Proud,C,Assist - 2nd Phase,3,30,51,69, 163
+2018-11-29 11:09:15 +0000,1,Proud,C,Assist - Circle Entry,3,30,51,69, 163
+2018-11-29 11:09:15 +0000,0,de Bruin,GD,Gain - Inter,3,30,51,42, 187
+2018-11-29 11:09:20 +0000,1,Wallace,GS,Penaly - Contact,3,30,51,42, 187
+2018-11-29 11:09:20 +0000,0,Shimmin,GK,Possession,3,30,51,42, 187
+2018-11-29 11:09:28 +0000,0,de Bruin,GD,Possession,3,30,51,77, 172
+2018-11-29 11:09:30 +0000,0,Shimmin,GK,Possession,3,30,51,51, 176
+2018-11-29 11:09:31 +0000,0,Petty,C,Possession,3,30,51,5, 146
+2018-11-29 11:09:33 +0000,0,Fowler,WD,Possession,3,30,51,79, 94
+2018-11-29 11:09:35 +0000,0,Bryce,WA,Possession,3,30,51,47, 46
+2018-11-29 11:09:38 +0000,0,Bryce,WA,Assist - Circle Entry,3,30,51,47, 46
+2018-11-29 11:09:38 +0000,0,Nelson,GS,Possession,3,30,51,51, 12
+2018-11-29 11:09:40 +0000,1,Klau ,GK,Penaly - Contact,3,30,51,51, 12
+2018-11-29 11:09:40 +0000,0,Nelson,GS,Goal - Score,3,30,51,51, 12
+2018-11-29 11:10:23 +0000,0,Hadley,UNKNOWN,Interchange - Haythornthwaite,4,31,51,
+2018-11-29 11:16:37 +0000,0,Petty,C,Centre Pass,4,31,51,50, 100
+2018-11-29 11:16:37 +0000,0,Bryce,WA,Assist - Centre Pass Rec,4,31,51,76, 75
+2018-11-29 11:16:39 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,4,31,51,96, 46
+2018-11-29 11:16:42 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,4,31,51,96, 46
+2018-11-29 11:16:42 +0000,0,Nelson,GS,Possession,4,31,51,47, 12
+2018-11-29 11:16:43 +0000,1,Klau ,GK,Penaly - Contact,4,31,51,47, 12
+2018-11-29 11:16:43 +0000,0,Latu-Meafou,GA,Goal - Miss,4,31,51,47, 12
+2018-11-29 11:16:56 +0000,1,Eddy,GD,Deflect,4,31,51,50, 2
+2018-11-29 11:16:57 +0000,0,Latu-Meafou,GA,Throw In,4,31,51,58, -3
+2018-11-29 11:17:08 +0000,0,Petty,C,Possession,4,31,51,39, 34
+2018-11-29 11:17:11 +0000,1,McCulloch,WD,Penaly - Contact,4,31,51,39, 34
+2018-11-29 11:17:11 +0000,0,Petty,C,Possession,4,31,51,39, 34
+2018-11-29 11:17:20 +0000,0,Petty,C,Assist - Circle Entry,4,31,51,39, 34
+2018-11-29 11:17:20 +0000,0,Nelson,GS,Possession,4,31,51,60, 4
+2018-11-29 11:17:22 +0000,1,Klau ,GK,Penaly - Contact,4,31,51,60, 4
+2018-11-29 11:17:22 +0000,0,Nelson,GS,Goal - Score,4,31,51,60, 4
+2018-11-29 11:17:30 +0000,1,Proud,C,Centre Pass,4,32,51,50, 100
+2018-11-29 11:17:30 +0000,1,Haythornthwaite,WA,Assist - Centre Pass Rec,4,32,51,81, 119
+2018-11-29 11:17:33 +0000,1,McCulloch,WD,Assist - 2nd Phase,4,32,51,23, 90
+2018-11-29 11:17:38 +0000,1,Proud,C,Possession,4,32,51,10, 138
+2018-11-29 11:17:41 +0000,1,Garbin,GA,Possession,4,32,51,15, 189
+2018-11-29 11:17:44 +0000,1,Proud,C,Possession,4,32,51,30, 149
+2018-11-29 11:17:45 +0000,1,Garbin,GA,Possession,4,32,51,25, 164
+2018-11-29 11:17:47 +0000,1,Proud,C,Possession,4,32,51,51, 150
+2018-11-29 11:17:50 +0000,1,Wallace,GS,Possession,4,32,51,62, 159
+2018-11-29 11:17:52 +0000,1,Proud,C,Possession,4,32,51,25, 175
+2018-11-29 11:17:57 +0000,1,Proud,C,Assist - Circle Entry,4,32,51,25, 175
+2018-11-29 11:17:57 +0000,1,Garbin,GA,Possession,4,32,51,58, 193
+2018-11-29 11:17:59 +0000,0,Shimmin,GK,Penaly - Contact,4,32,51,58, 193
+2018-11-29 11:17:59 +0000,1,Garbin,GA,Goal - Score,4,32,51,58, 193
+2018-11-29 11:18:10 +0000,0,Petty,C,Centre Pass,4,32,52,50, 100
+2018-11-29 11:18:10 +0000,0,Latu-Meafou,GA,Assist - Centre Pass Rec,4,32,52,24, 78
+2018-11-29 11:22:09 +0000,1,Proud,C,Gain - Tip (Deflect),4,32,52,28, 59
+2018-11-29 11:22:13 +0000,1,Eddy,GD,Possession,4,32,52,45, 47
+2018-11-29 11:22:51 +0000,1,McCulloch,WD,Possession,4,32,52,62, 47
+2018-11-29 11:22:53 +0000,1,Haythornthwaite,WA,Possession,4,32,52,54, 77
+2018-11-29 11:22:55 +0000,1,Garbin,GA,Possession,4,32,52,93, 138
+2018-11-29 11:22:57 +0000,1,Garbin,GA,Assist - Circle Entry,4,32,52,93, 138
+2018-11-29 11:22:57 +0000,1,Wallace,GS,Possession,4,32,52,77, 194
+2018-11-29 11:23:00 +0000,0,Fowler,WD,Penaly - Contact,4,32,52,71, 170
+2018-11-29 11:23:00 +0000,1,Proud,C,Possession,4,32,52,71, 170
+2018-11-29 11:23:05 +0000,1,Proud,C,Assist - Circle Entry,4,32,52,71, 170
+2018-11-29 11:23:05 +0000,1,Garbin,GA,Possession,4,32,52,49, 171
+2018-11-29 11:23:07 +0000,1,Proud,C,Possession,4,32,52,61, 165
+2018-11-29 11:23:10 +0000,0,Fowler,WD,Penaly - Obstruction,4,32,52,61, 165
+2018-11-29 11:23:10 +0000,1,Proud,C,Possession,4,32,52,61, 165
+2018-11-29 11:23:16 +0000,1,Proud,C,Assist - Circle Entry,4,32,52,61, 165
+2018-11-29 11:23:16 +0000,1,Garbin,GA,Possession,4,32,52,50, 181
+2018-11-29 11:23:18 +0000,0,Shimmin,GK,Penaly - Obstruction,4,32,52,50, 181
+2018-11-29 11:23:18 +0000,1,Garbin,GA,Goal - Score,4,32,52,50, 181
+2018-11-29 11:23:27 +0000,1,Proud,C,Centre Pass,4,32,53,50, 100
+2018-11-29 11:23:27 +0000,1,Garbin,GA,Assist - Centre Pass Rec,4,32,53,35, 122
+2018-11-29 11:23:29 +0000,1,Haythornthwaite,WA,Assist - 2nd Phase,4,32,53,21, 175
+2018-11-29 11:23:32 +0000,1,Haythornthwaite,WA,Assist - Circle Entry,4,32,53,21, 175
+2018-11-29 11:23:32 +0000,1,Garbin,GA,Possession,4,32,53,37, 184
+2018-11-29 11:23:35 +0000,1,Proud,C,Possession,4,32,53,47, 163
+2018-11-29 11:23:37 +0000,1,Proud,C,Assist - Circle Entry,4,32,53,47, 163
+2018-11-29 11:23:37 +0000,1,Wallace,GS,Goal - Score,4,32,53,55, 188
+2018-11-29 11:23:44 +0000,0,Petty,C,Centre Pass,4,32,54,50, 100
+2018-11-29 11:23:44 +0000,0,Bryce,WA,Assist - Centre Pass Rec,4,32,54,64, 81
+2018-11-29 11:23:45 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,4,32,54,80, 40
+2018-11-29 11:23:48 +0000,0,Bryce,WA,Possession,4,32,54,82, 57
+2018-11-29 11:23:51 +0000,0,Fowler,WD,Possession,4,32,54,50, 83
+2018-11-29 11:23:54 +0000,0,Petty,C,Possession,4,32,54,14, 41
+2018-11-29 11:23:55 +0000,0,Latu-Meafou,GA,Possession,4,32,54,44, 41
+2018-11-29 11:23:58 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,4,32,54,44, 41
+2018-11-29 11:23:59 +0000,0,Nelson,GS,Possession,4,32,54,69, 15
+2018-11-29 11:24:03 +0000,1,Klau ,GK,Penaly - Contact,4,32,54,69, 15
+2018-11-29 11:24:03 +0000,0,Latu-Meafou,GA,Goal - Score,4,32,54,69, 15
+2018-11-29 11:24:21 +0000,1,Proud,C,Centre Pass,4,33,54,50, 100
+2018-11-29 11:24:22 +0000,1,Haythornthwaite,WA,Assist - Centre Pass Rec,4,33,54,53, 120
+2018-11-29 11:24:23 +0000,1,Garbin,GA,Assist - 2nd Phase,4,33,54,24, 145
+2018-11-29 11:24:26 +0000,1,Garbin,GA,Assist - Circle Entry,4,33,54,24, 145
+2018-11-29 11:24:26 +0000,1,Wallace,GS,Possession,4,33,54,46, 172
+2018-11-29 11:24:28 +0000,1,Haythornthwaite,WA,Possession,4,33,54,82, 183
+2018-11-29 11:24:34 +0000,1,Haythornthwaite,WA,Assist - Circle Entry,4,33,54,82, 183
+2018-11-29 11:24:34 +0000,0,Shimmin,GK,Gain - Inter,4,33,54,58, 194
+2018-11-29 11:24:36 +0000,1,Wallace,GS,Penaly - Contact,4,33,54,58, 194
+2018-11-29 11:24:36 +0000,0,Shimmin,GK,Possession,4,33,54,58, 194
+2018-11-29 11:24:41 +0000,0,Fowler,WD,Possession,4,33,54,66, 131
+2018-11-29 11:24:43 +0000,0,Bryce,WA,Possession,4,33,54,40, 85
+2018-11-29 11:24:45 +0000,0,Petty,C,Possession,4,33,54,21, 20
+2018-11-29 11:24:53 +0000,1,Proud,C,Penaly - Obstruction,4,33,54,21, 20
+2018-11-29 11:24:53 +0000,0,Petty,C,Possession,4,33,54,21, 20
+2018-11-29 11:25:02 +0000,1,Eddy,GD,Penaly - Contact,4,33,54,36, 7
+2018-11-29 11:25:02 +0000,0,Latu-Meafou,GA,Goal - Score,4,33,54,36, 7
+2018-11-29 11:25:25 +0000,0,Petty,C,Centre Pass,4,34,54,50, 100
+2018-11-29 11:25:25 +0000,0,Latu-Meafou,GA,Assist - Centre Pass Rec,4,34,54,27, 76
+2018-11-29 11:25:27 +0000,0,Bryce,WA,Assist - 2nd Phase,4,34,54,14, 9
+2018-11-29 11:25:30 +0000,0,Bryce,WA,Assist - Circle Entry,4,34,54,14, 9
+2018-11-29 11:25:30 +0000,0,Nelson,GS,Goal - Miss,4,34,54,56, 13
+2018-11-29 11:25:37 +0000,1,Eddy,GD,Gain - Def Reb,4,34,54,50, 2
+2018-11-29 11:25:39 +0000,1,McCulloch,WD,Possession,4,34,54,24, 26
+2018-11-29 11:25:44 +0000,1,Eddy,GD,Possession,4,34,54,21, 75
+2018-11-29 11:25:49 +0000,1,Proud,C,Possession,4,34,54,48, 143
+2018-11-29 11:25:53 +0000,1,Proud,C,Assist - Circle Entry,4,34,54,48, 143
+2018-11-29 11:25:53 +0000,1,Wallace,GS,Possession,4,34,54,73, 182
+2018-11-29 11:25:55 +0000,1,Proud,C,Possession,4,34,54,88, 192
+2018-11-29 11:26:07 +0000,1,Proud,C,Assist - Circle Entry,4,34,54,88, 192
+2018-11-29 11:26:07 +0000,1,Wallace,GS,Goal - Score,4,34,54,57, 186
+2018-11-29 11:27:39 +0000,1,Proud,C,Centre Pass,4,34,55,50, 100
+2018-11-29 11:27:39 +0000,1,Haythornthwaite,WA,Assist - Centre Pass Rec,4,34,55,79, 96
+2018-11-29 11:27:41 +0000,1,McCulloch,WD,Assist - 2nd Phase,4,34,55,41, 78
+2018-11-29 11:27:42 +0000,1,Eddy,GD,Possession,4,34,55,17, 128
+2018-11-29 11:27:44 +0000,1,Haythornthwaite,WA,Possession,4,34,55,18, 157
+2018-11-29 11:27:48 +0000,1,Garbin,GA,Possession,4,34,55,15, 192
+2018-11-29 11:27:54 +0000,1,Garbin,GA,Assist - Circle Entry,4,34,55,15, 192
+2018-11-29 11:27:54 +0000,1,Wallace,GS,Goal - Miss,4,34,55,38, 193
+2018-11-29 11:28:02 +0000,0,Shimmin,GK,Loss - Out of Court,4,34,55,50, 197
+2018-11-29 11:28:45 +0000,1,Garbin,GA,Possession,4,34,55,50, 197
+2018-11-29 11:28:55 +0000,0,Petty,C,Loss - Offside,4,34,55,22, 190
+2018-11-29 11:29:16 +0000,1,Garbin,GA,Possession,4,34,55,21, 189
+2018-11-29 11:29:18 +0000,1,Proud,C,Possession,4,34,55,56, 165
+2018-11-29 11:29:22 +0000,0,,UNKNOWN,Penaly - Contact,4,34,55,56, 165
+2018-11-29 11:29:22 +0000,1,Proud,C,Possession,4,34,55,56, 165
+2018-11-29 11:29:28 +0000,1,Proud,C,Assist - Circle Entry,4,34,55,56, 165
+2018-11-29 11:29:28 +0000,1,Garbin,GA,Goal - Score,4,34,55,52, 180
+2018-11-29 11:29:36 +0000,0,Petty,C,Centre Pass,4,34,56,50, 100
+2018-11-29 11:29:36 +0000,0,Bryce,WA,Assist - Centre Pass Rec,4,34,56,15, 93
+2018-11-29 11:29:38 +0000,0,Petty,C,Assist - 2nd Phase,4,34,56,63, 34
+2018-11-29 11:29:43 +0000,0,Petty,C,Assist - Circle Entry,4,34,56,63, 34
+2018-11-29 11:29:43 +0000,0,Nelson,GS,Possession,4,34,56,46, 8
+2018-11-29 11:29:45 +0000,1,Eddy,GD,Penaly - Contact,4,34,56,46, 8
+2018-11-29 11:29:45 +0000,0,Nelson,GS,Goal - Score,4,34,56,46, 8
+2018-11-29 11:30:06 +0000,1,Proud,C,Centre Pass,4,35,56,50, 100
+2018-11-29 11:30:06 +0000,1,Haythornthwaite,WA,Assist - Centre Pass Rec,4,35,56,21, 125
+2018-11-29 11:30:08 +0000,1,Garbin,GA,Assist - 2nd Phase,4,35,56,23, 165
+2018-11-29 11:30:19 +0000,0,Shimmin,GK,Penaly - Contact,4,35,56,45, 180
+2018-11-29 11:30:19 +0000,1,Garbin,GA,Goal - Score,4,35,56,45, 180
+2018-11-29 11:32:48 +0000,0,Petty,C,Centre Pass,4,35,57,50, 100
+2018-11-29 11:32:48 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,4,35,57,70, 80
+2018-11-29 11:32:49 +0000,0,Bryce,WA,Assist - 2nd Phase,4,35,57,86, 63
+2018-11-29 11:32:55 +0000,0,Petty,C,Possession,4,35,57,56, 69
+2018-11-29 11:33:00 +0000,0,Petty,C,Assist - Circle Entry,4,35,57,56, 69
+2018-11-29 11:33:00 +0000,0,Nelson,GS,Loss - Drop,4,35,57,44, 9
+2018-11-29 11:33:04 +0000,1,Klau ,GK,Throw In,4,35,57,40, -4
+2018-11-29 11:36:30 +0000,1,Eddy,GD,Possession,4,35,57,16, 19
+2018-11-29 11:36:33 +0000,1,McCulloch,WD,Possession,4,35,57,38, 48
+2018-11-29 11:36:36 +0000,1,Eddy,GD,Possession,4,35,57,15, 113
+2018-11-29 11:36:38 +0000,0,Fowler,WD,Penaly - Contact,4,35,57,15, 113
+2018-11-29 11:36:38 +0000,1,Eddy,GD,Possession,4,35,57,15, 113
+2018-11-29 11:36:46 +0000,1,Haythornthwaite,WA,Possession,4,35,57,14, 151
+2018-11-29 11:36:48 +0000,1,Haythornthwaite,WA,Assist - Circle Entry,4,35,57,14, 151
+2018-11-29 11:36:48 +0000,1,Garbin,GA,Possession,4,35,57,22, 196
+2018-11-29 11:36:51 +0000,1,Wallace,GS,Goal - Score,4,35,57,44, 183
+2018-11-29 11:37:21 +0000,1,Proud,C,Centre Pass,4,35,58,50, 100
+2018-11-29 11:37:21 +0000,1,Haythornthwaite,WA,Assist - Centre Pass Rec,4,35,58,32, 120
+2018-11-29 11:37:23 +0000,1,Proud,C,Assist - 2nd Phase,4,35,58,45, 139
+2018-11-29 11:37:25 +0000,1,Wallace,GS,Possession,4,35,58,82, 162
+2018-11-29 11:37:27 +0000,1,Haythornthwaite,WA,Possession,4,35,58,17, 189
+2018-11-29 11:37:30 +0000,1,Haythornthwaite,WA,Assist - Circle Entry,4,35,58,17, 189
+2018-11-29 11:37:30 +0000,1,Garbin,GA,Goal - Score,4,35,58,47, 186
+2018-11-29 11:37:37 +0000,0,Petty,C,Centre Pass,4,35,59,50, 100
+2018-11-29 11:37:37 +0000,0,Bryce,WA,Assist - Centre Pass Rec,4,35,59,79, 72
+2018-11-29 11:37:39 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,4,35,59,84, 32
+2018-11-29 11:37:41 +0000,0,Bryce,WA,Possession,4,35,59,85, 52
+2018-11-29 11:37:48 +0000,1,Eddy,GD,Deflect,4,35,59,82, 8
+2018-11-29 11:37:48 +0000,0,Bryce,WA,Throw In,4,35,59,90, -1
+2018-11-29 11:38:08 +0000,0,Latu-Meafou,GA,Possession,4,35,59,82, 38
+2018-11-29 11:38:10 +0000,0,Petty,C,Possession,4,35,59,21, 20
+2018-11-29 11:38:26 +0000,0,Petty,C,Assist - Circle Entry,4,35,59,21, 20
+2018-11-29 11:38:26 +0000,0,Nelson,GS,Deflect,4,35,59,53, 3
+2018-11-29 11:38:30 +0000,1,Klau ,GK,Throw In,4,35,59,48, -3
+2018-11-29 11:38:40 +0000,1,Eddy,GD,Possession,4,35,59,18, 23
+2018-11-29 11:38:42 +0000,1,McCulloch,WD,Possession,4,35,59,49, 37
+2018-11-29 11:38:45 +0000,1,Eddy,GD,Possession,4,35,59,11, 87
+2018-11-29 11:38:49 +0000,1,Haythornthwaite,WA,Possession,4,35,59,22, 152
+2018-11-29 11:41:32 +0000,1,Haythornthwaite,WA,Assist - Circle Entry,4,35,59,22, 152
+2018-11-29 11:41:32 +0000,1,Wallace,GS,Possession,4,35,59,48, 170
+2018-11-29 11:41:42 +0000,1,Haythornthwaite,WA,Possession,4,35,59,16, 186
+2018-11-29 11:41:46 +0000,1,Proud,C,Possession,4,35,59,83, 184
+2018-11-29 11:41:49 +0000,1,Proud,C,Assist - Circle Entry,4,35,59,83, 184
+2018-11-29 11:41:49 +0000,1,Garbin,GA,Possession,4,35,59,69, 184
+2018-11-29 11:41:51 +0000,1,Proud,C,Possession,4,35,59,89, 167
+2018-11-29 11:41:57 +0000,0,Petty,C,Penaly - Obstruction,4,35,59,83, 171
+2018-11-29 11:41:57 +0000,1,Proud,C,Possession,4,35,59,83, 171
+2018-11-29 11:42:04 +0000,1,Proud,C,Assist - Circle Entry,4,35,59,83, 171
+2018-11-29 11:42:04 +0000,1,Wallace,GS,Goal - Score,4,35,59,49, 188
+2018-11-29 11:42:23 +0000,1,Proud,C,Centre Pass,4,35,60,50, 100
+2018-11-29 11:42:23 +0000,1,McCulloch,WD,Assist - Centre Pass Rec,4,35,60,71, 118
+2018-11-29 11:42:27 +0000,1,Proud,C,Assist - 2nd Phase,4,35,60,75, 142
+2018-11-29 11:42:30 +0000,1,Proud,C,Assist - Circle Entry,4,35,60,75, 142
+2018-11-29 11:42:30 +0000,1,Wallace,GS,Goal - Score,4,35,60,61, 193
+2018-11-29 11:42:45 +0000,0,Petty,C,Centre Pass,4,35,61,50, 100
+2018-11-29 11:42:45 +0000,0,Bryce,WA,Assist - Centre Pass Rec,4,35,61,17, 75
+2018-11-29 11:42:50 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,4,35,61,18, 26
+2018-11-29 11:42:53 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,4,35,61,18, 26
+2018-11-29 11:42:53 +0000,0,Nelson,GS,Goal - Miss,4,35,61,53, 7
+2018-11-29 11:43:07 +0000,0,Nelson,GS,Assist - Attack Rebound,4,35,61,50, 2
+2018-11-29 11:43:09 +0000,1,Klau ,GK,Penaly - Obstruction,4,35,61,50, 2
+2018-11-29 11:43:09 +0000,0,Nelson,GS,Goal - Score,4,35,61,50, 2
+2018-11-29 11:43:19 +0000,1,Proud,C,Centre Pass,4,36,61,50, 100
+2018-11-29 11:43:19 +0000,1,Haythornthwaite,WA,Assist - Centre Pass Rec,4,36,61,36, 114
+2018-11-29 11:44:36 +0000,1,Proud,C,Assist - 2nd Phase,4,36,61,65, 130
+2018-11-29 11:44:38 +0000,1,Proud,C,Assist - Circle Entry,4,36,61,65, 130
+2018-11-29 11:44:38 +0000,1,Wallace,GS,Goal - Score,4,36,61,69, 194
+2018-11-29 11:44:44 +0000,0,Petty,C,Centre Pass,4,36,62,50, 100
+2018-11-29 11:44:44 +0000,0,Latu-Meafou,GA,Assist - Centre Pass Rec,4,36,62,77, 71
+2018-11-29 11:44:47 +0000,0,Petty,C,Assist - 2nd Phase,4,36,62,65, 58
+2018-11-29 11:44:53 +0000,0,Latu-Meafou,GA,Possession,4,36,62,86, 5
+2018-11-29 11:45:09 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,4,36,62,86, 5
+2018-11-29 11:45:09 +0000,0,Nelson,GS,Possession,4,36,62,68, 6
+2018-11-29 11:45:15 +0000,1,Klau ,GK,Penaly - Contact,4,36,62,68, 6
+2018-11-29 11:45:15 +0000,0,Latu-Meafou,GA,Possession,4,36,62,68, 6
+2018-11-29 11:45:24 +0000,1,Eddy,GD,Penaly - Contact,4,36,62,48, 5
+2018-11-29 11:45:24 +0000,0,Nelson,GS,Goal - Score,4,36,62,48, 5
+2018-11-29 11:46:16 +0000,1,Proud,C,Centre Pass,4,37,62,50, 100
+2018-11-29 11:46:16 +0000,1,Haythornthwaite,WA,Assist - Centre Pass Rec,4,37,62,71, 123
+2018-11-29 11:46:19 +0000,1,Haythornthwaite,WA,Assist - Circle Entry,4,37,62,71, 123
+2018-11-29 11:46:19 +0000,1,Wallace,GS,Assist - 2nd Phase,4,37,62,46, 193
+2018-11-29 11:46:20 +0000,1,Wallace,GS,Goal - Score,4,37,62,46, 193
+2018-11-29 11:46:25 +0000,0,Petty,C,Centre Pass,4,37,63,50, 100
+2018-11-29 11:46:26 +0000,0,Bryce,WA,Assist - Centre Pass Rec,4,37,63,85, 71
+2018-11-29 11:46:28 +0000,0,Petty,C,Assist - 2nd Phase,4,37,63,77, 31
+2018-11-29 11:46:33 +0000,1,Eddy,GD,Penaly - Contact,4,37,63,61, 9
+2018-11-29 11:46:33 +0000,0,Latu-Meafou,GA,Goal - Score,4,37,63,61, 9
+2018-11-29 11:46:47 +0000,1,Proud,C,Centre Pass,4,38,63,50, 100
+2018-11-29 11:46:47 +0000,1,Haythornthwaite,WA,Assist - Centre Pass Rec,4,38,63,41, 127
+2018-11-29 11:46:50 +0000,1,Garbin,GA,Assist - 2nd Phase,4,38,63,80, 153
+2018-11-29 11:46:59 +0000,0,Fowler,WD,Penaly - Contact,4,38,63,22, 178
+2018-11-29 11:47:00 +0000,1,Proud,C,Possession,4,38,63,22, 178
+2018-11-29 11:47:09 +0000,1,Proud,C,Assist - Circle Entry,4,38,63,22, 178
+2018-11-29 11:47:09 +0000,1,Garbin,GA,Possession,4,38,63,40, 193
+2018-11-29 11:47:17 +0000,0,Shimmin,GK,Penaly - Obstruction,4,38,63,40, 193
+2018-11-29 11:47:17 +0000,1,Garbin,GA,Goal - Score,4,38,63,40, 193
+2018-11-29 11:48:27 +0000,0,Petty,C,Centre Pass,4,38,64,50, 100
+2018-11-29 11:48:27 +0000,0,Bryce,WA,Assist - Centre Pass Rec,4,38,64,65, 71
+2018-11-29 11:48:29 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,4,38,64,85, 46
+2018-11-29 11:48:30 +0000,0,Petty,C,Possession,4,38,64,66, 46
+2018-11-29 11:48:32 +0000,0,Bryce,WA,Possession,4,38,64,21, 21
+2018-11-29 11:48:37 +0000,0,Bryce,WA,Assist - Circle Entry,4,38,64,21, 21
+2018-11-29 11:48:37 +0000,1,Klau ,GK,Gain - Tip (Deflect),4,38,64,53, 12
+2018-11-29 11:48:42 +0000,1,Eddy,GD,Possession,4,38,64,63, 19
+2018-11-29 11:48:45 +0000,1,Proud,C,Possession,4,38,64,45, 47
+2018-11-29 11:48:49 +0000,1,Haythornthwaite,WA,Possession,4,38,64,54, 74
+2018-11-29 11:48:51 +0000,1,Eddy,GD,Possession,4,38,64,67, 120
+2018-11-29 11:49:01 +0000,1,Haythornthwaite,WA,Possession,4,38,64,52, 141
+2018-11-29 11:49:03 +0000,1,Proud,C,Possession,4,38,64,14, 195
+2018-11-29 11:49:07 +0000,1,Wallace,GS,Possession,4,38,64,47, 160
+2018-11-29 11:49:09 +0000,1,Haythornthwaite,WA,Possession,4,38,64,82, 187
+2018-11-29 11:49:21 +0000,0,Fowler,WD,Penaly - Contact,4,38,64,41, 164
+2018-11-29 11:49:21 +0000,1,Proud,C,Possession,4,38,64,41, 164
+2018-11-29 11:49:26 +0000,1,Proud,C,Assist - Circle Entry,4,38,64,41, 164
+2018-11-29 11:49:27 +0000,1,Garbin,GA,Loss - Step,4,38,64,45, 183
+2018-11-29 11:49:31 +0000,0,Shimmin,GK,Possession,4,38,64,44, 182
+2018-11-29 11:49:53 +0000,0,Fowler,WD,Possession,4,38,64,17, 155
+2018-11-29 11:49:56 +0000,0,Shimmin,GK,Possession,4,38,64,27, 146
+2018-11-29 11:49:58 +0000,0,Fowler,WD,Possession,4,38,64,13, 109
+2018-11-29 11:50:03 +0000,0,Bryce,WA,Possession,4,38,64,9, 74
+2018-11-29 11:50:06 +0000,0,de Bruin,GD,Possession,4,38,64,31, 81
+2018-11-29 11:50:09 +0000,0,Fowler,WD,Possession,4,38,64,67, 79
+2018-11-29 11:50:12 +0000,0,Latu-Meafou,GA,Possession,4,38,64,90, 50
+2018-11-29 11:50:16 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,4,38,64,90, 50
+2018-11-29 11:50:16 +0000,0,Nelson,GS,Possession,4,38,64,60, 6
+2018-11-29 11:50:18 +0000,1,Klau ,GK,Penaly - Contact,4,38,64,60, 6
+2018-11-29 11:50:18 +0000,0,Nelson,GS,Goal - Score,4,38,64,60, 6
+2018-11-29 12:03:41 +0000,1,Proud,C,Centre Pass,4,39,64,50, 100
+2018-11-29 12:03:41 +0000,1,Haythornthwaite,WA,Assist - Centre Pass Rec,4,39,64,38, 119
+2018-11-29 12:03:44 +0000,1,Proud,C,Assist - 2nd Phase,4,39,64,50, 137
+2018-11-29 12:03:46 +0000,1,Haythornthwaite,WA,Possession,4,39,64,35, 153
+2018-11-29 12:03:49 +0000,1,Haythornthwaite,WA,Assist - Circle Entry,4,39,64,35, 153
+2018-11-29 12:03:49 +0000,1,Wallace,GS,Possession,4,39,64,75, 193
+2018-11-29 12:03:57 +0000,0,Fowler,WD,Loss - Offside,4,39,64,24, 185
+2018-11-29 12:03:57 +0000,1,Garbin,GA,Possession,4,39,64,24, 185
+2018-11-29 12:04:09 +0000,0,Shimmin,GK,Deflect,4,39,64,72, 191
+2018-11-29 12:04:09 +0000,1,Proud,C,Throw In,4,39,64,105, 188
+2018-11-29 12:04:18 +0000,1,Wallace,GS,Possession,4,39,64,85, 167
+2018-11-29 12:04:26 +0000,0,Shimmin,GK,Penaly - Contact,4,39,64,85, 167
+2018-11-29 12:04:26 +0000,1,Proud,C,Possession,4,39,64,85, 167
+2018-11-29 12:04:34 +0000,1,Proud,C,Assist - Circle Entry,4,39,64,85, 167
+2018-11-29 12:04:34 +0000,1,Garbin,GA,Possession,4,39,64,72, 185
+2018-11-29 12:04:37 +0000,1,Wallace,GS,Goal - Score,4,39,64,46, 195
+2018-11-29 12:04:44 +0000,0,Petty,C,Centre Pass,4,39,65,50, 100
+2018-11-29 12:04:44 +0000,0,Latu-Meafou,GA,Assist - Centre Pass Rec,4,39,65,34, 79
+2018-11-29 12:04:49 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,4,39,65,34, 79
+2018-11-29 12:04:49 +0000,1,Klau ,GK,Gain - Inter,4,39,65,52, 19
+2018-11-29 12:04:58 +0000,1,Proud,C,Possession,4,39,65,54, 53
+2018-11-29 12:05:01 +0000,1,McCulloch,WD,Possession,4,39,65,91, 81
+2018-11-29 12:05:05 +0000,1,Haythornthwaite,WA,Possession,4,39,65,90, 108
+2018-11-29 12:05:07 +0000,1,Eddy,GD,Possession,4,39,65,18, 121
+2018-11-29 12:05:09 +0000,1,Proud,C,Possession,4,39,65,13, 158
+2018-11-29 12:05:11 +0000,1,Garbin,GA,Possession,4,39,65,37, 150
+2018-11-29 12:05:18 +0000,1,Garbin,GA,Assist - Circle Entry,4,39,65,37, 150
+2018-11-29 12:05:18 +0000,1,Wallace,GS,Possession,4,39,65,66, 194
+2018-11-29 12:05:20 +0000,1,Garbin,GA,Goal - Score,4,39,65,53, 189
+2018-11-29 12:05:30 +0000,1,Proud,C,Centre Pass,4,39,66,50, 100
+2018-11-29 12:05:30 +0000,1,Haythornthwaite,WA,Assist - Centre Pass Rec,4,39,66,47, 116
+2018-11-29 12:05:33 +0000,1,Haythornthwaite,WA,Assist - Circle Entry,4,39,66,47, 116
+2018-11-29 12:05:33 +0000,1,Wallace,GS,Assist - 2nd Phase,4,39,66,30, 188
+2018-11-29 12:05:36 +0000,1,Haythornthwaite,WA,Possession,4,39,66,84, 189
+2018-11-29 12:05:38 +0000,1,Proud,C,Possession,4,39,66,49, 163
+2018-11-29 12:05:40 +0000,1,Proud,C,Assist - Circle Entry,4,39,66,49, 163
+2018-11-29 12:05:40 +0000,1,Garbin,GA,Goal - Miss,4,39,66,44, 192
+2018-11-29 12:05:54 +0000,0,Shimmin,GK,Gain - Tip (Deflect),4,39,66,49, 191
+2018-11-29 12:05:59 +0000,0,Shimmin,GK,Possession,4,39,66,5, 194
+2018-11-29 12:06:18 +0000,1,Klau ,GK,Penaly - Contact,4,39,66,15, 187
+2018-11-29 12:06:18 +0000,0,,UNKNOWN,Possession,4,39,66,15, 187
+2018-11-29 12:06:24 +0000,0,de Bruin,GD,Possession,4,39,66,36, 125
+2018-11-29 12:06:27 +0000,0,Bryce,WA,Possession,4,39,66,18, 86
+2018-11-29 12:06:30 +0000,0,Latu-Meafou,GA,Possession,4,39,66,49, 73
+2018-11-29 12:06:32 +0000,0,de Bruin,GD,Possession,4,39,66,33, 72
+2018-11-29 12:06:34 +0000,0,Bryce,WA,Possession,4,39,66,37, 48
+2018-11-29 12:06:36 +0000,0,Petty,C,Possession,4,39,66,77, 22
+2018-11-29 12:06:40 +0000,0,Petty,C,Assist - Circle Entry,4,39,66,77, 22
+2018-11-29 12:06:40 +0000,0,Nelson,GS,Possession,4,39,66,55, 6
+2018-11-29 12:06:41 +0000,1,Klau ,GK,Penaly - Obstruction,4,39,66,55, 6
+2018-11-29 12:06:41 +0000,0,Nelson,GS,Goal - Score,4,39,66,55, 6
+2018-11-29 12:06:52 +0000,0,Petty,C,Centre Pass,4,40,66,50, 100
+2018-11-29 12:06:52 +0000,0,Bryce,WA,Assist - Centre Pass Rec,4,40,66,84, 74
+2018-11-29 12:06:54 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,4,40,66,47, 61
+2018-11-29 12:06:56 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,4,40,66,47, 61
+2018-11-29 12:06:57 +0000,0,Nelson,GS,Possession,4,40,66,43, 13
+2018-11-29 12:07:03 +0000,1,McCulloch,WD,Loss - Offside,4,40,66,75, 16
+2018-11-29 12:07:17 +0000,0,Latu-Meafou,GA,Possession,4,40,66,77, 16
+2018-11-29 12:07:29 +0000,0,Petty,C,Loss - Drop,4,40,66,80, 21
+2018-11-29 12:07:34 +0000,1,McCulloch,WD,Gain - Pick-up,4,40,66,82, 19
+2018-11-29 12:07:43 +0000,1,Eddy,GD,Possession,4,40,66,88, 56
+2018-11-29 12:07:46 +0000,1,Klau ,GK,Possession,4,40,66,85, 38
+2018-11-29 12:07:50 +0000,1,Eddy,GD,Possession,4,40,66,53, 58
+2018-11-29 12:07:53 +0000,1,Proud,C,Possession,4,40,66,17, 82
+2018-11-29 12:07:56 +0000,1,Haythornthwaite,WA,Possession,4,40,66,22, 136
+2018-11-29 12:07:58 +0000,1,Garbin,GA,Possession,4,40,66,18, 170
+2018-11-29 12:08:03 +0000,1,Garbin,GA,Assist - Circle Entry,4,40,66,18, 170
+2018-11-29 12:08:03 +0000,1,Wallace,GS,Goal - Score,4,40,66,51, 194
+2018-11-29 12:08:11 +0000,1,Proud,C,Centre Pass,4,40,67,50, 100
+2018-11-29 12:08:11 +0000,1,Garbin,GA,Assist - Centre Pass Rec,4,40,67,30, 122
+2018-11-29 12:08:13 +0000,1,Garbin,GA,Loss - Bad Pass,4,40,67,20, 171
+2018-11-29 12:08:16 +0000,0,Shimmin,GK,Throw In,4,40,67,39, 203
+2018-11-29 12:08:22 +0000,0,Petty,C,Possession,4,40,67,58, 151
+2018-11-29 12:08:28 +0000,1,Eddy,GD,Gain - Tip (Deflect),4,40,67,68, 101
+2018-11-29 12:08:33 +0000,1,McCulloch,WD,Possession,4,40,67,37, 87
+2018-11-29 12:08:35 +0000,1,Eddy,GD,Possession,4,40,67,24, 114
+2018-11-29 12:08:37 +0000,1,Garbin,GA,Possession,4,40,67,24, 145
+2018-11-29 12:08:50 +0000,0,Fowler,WD,Penaly - Contact,4,40,67,15, 176
+2018-11-29 12:08:50 +0000,1,Haythornthwaite,WA,Possession,4,40,67,15, 176
+2018-11-29 12:09:00 +0000,1,Haythornthwaite,WA,Assist - Circle Entry,4,40,67,15, 176
+2018-11-29 12:09:00 +0000,1,Garbin,GA,Goal - Miss,4,40,67,38, 191
+2018-11-29 12:09:08 +0000,0,Shimmin,GK,Gain - Def Reb,4,40,67,50, 197
+2018-11-29 12:09:14 +0000,0,Petty,C,Possession,4,40,67,41, 114
+2018-11-29 12:09:19 +0000,0,Latu-Meafou,GA,Possession,4,40,67,17, 82
+2018-11-29 12:09:23 +0000,0,Fowler,WD,Possession,4,40,67,74, 96
+2018-11-29 12:09:25 +0000,0,Bryce,WA,Possession,4,40,67,88, 53
+2018-11-29 12:09:27 +0000,0,Fowler,WD,Possession,4,40,67,88, 85
+2018-11-29 12:09:29 +0000,0,Bryce,WA,Possession,4,40,67,74, 65
+2018-11-29 12:09:32 +0000,0,Petty,C,Possession,4,40,67,18, 15
+2018-11-29 12:09:36 +0000,0,Petty,C,Assist - Circle Entry,4,40,67,18, 15
+2018-11-29 12:09:36 +0000,0,Latu-Meafou,GA,Goal - Miss,4,40,67,39, 14
+2018-11-29 12:09:42 +0000,1,Eddy,GD,Gain - Def Reb,4,40,67,50, 2
+2018-11-29 12:09:45 +0000,1,Proud,C,Possession,4,40,67,28, 30
+2018-11-29 12:09:48 +0000,1,Eddy,GD,Possession,4,40,67,86, 74
+2018-11-29 12:09:51 +0000,1,Haythornthwaite,WA,Possession,4,40,67,93, 139
+2018-11-29 12:09:57 +0000,0,Shimmin,GK,Gain - Tip (Deflect),4,40,67,54, 161
+2018-11-29 12:10:02 +0000,0,Bryce,WA,Possession,4,40,67,62, 113
+2018-11-29 12:10:05 +0000,0,Latu-Meafou,GA,Possession,4,40,67,81, 114
+2018-11-29 12:10:08 +0000,0,Fowler,WD,Possession,4,40,67,75, 124
+2018-11-29 12:10:12 +0000,0,de Bruin,GD,Possession,4,40,67,70, 108
+2018-11-29 12:10:15 +0000,0,Fowler,WD,Possession,4,40,67,85, 112
+2018-11-29 12:10:19 +0000,0,de Bruin,GD,Possession,4,40,67,40, 98
+2018-11-29 12:10:22 +0000,0,Petty,C,Possession,4,40,67,22, 79
+2018-11-29 12:10:27 +0000,1,Haythornthwaite,WA,Gain - Tip (Deflect),4,40,67,46, 71
+2018-11-29 12:10:46 +0000,1,McCulloch,WD,Possession,4,40,67,53, 45
+2018-11-29 12:10:49 +0000,1,Klau ,GK,Possession,4,40,67,34, 34
+2018-11-29 12:10:51 +0000,1,Proud,C,Possession,4,40,67,17, 60
+2018-11-29 12:10:53 +0000,1,Eddy,GD,Possession,4,40,67,91, 90
+2018-11-29 12:10:56 +0000,1,Garbin,GA,Possession,4,40,67,90, 143
+2018-11-29 12:11:01 +0000,1,Haythornthwaite,WA,Possession,4,40,67,80, 175
+2018-11-29 12:11:04 +0000,0,Shimmin,GK,Penaly - Contact,4,40,67,80, 175
+2018-11-29 12:11:04 +0000,1,Haythornthwaite,WA,Possession,4,40,67,80, 175
+2018-11-29 12:11:12 +0000,1,Proud,C,Possession,4,40,67,50, 165
+2018-11-29 12:11:21 +0000,1,Proud,C,Assist - Circle Entry,4,40,67,50, 165
+2018-11-29 12:11:21 +0000,1,Wallace,GS,Goal - Score,4,40,67,30, 192
+2018-11-29 12:11:29 +0000,0,Petty,C,Centre Pass,4,40,68,50, 100
+2018-11-29 12:11:29 +0000,0,Bryce,WA,Assist - Centre Pass Rec,4,40,68,33, 73
+2018-11-29 12:11:33 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,4,40,68,65, 54
+2018-11-29 12:11:35 +0000,1,Eddy,GD,Penaly - Contact,4,40,68,65, 54
+2018-11-29 12:11:35 +0000,0,Bryce,WA,Possession,4,40,68,65, 54
+2018-11-29 12:11:45 +0000,0,Bryce,WA,Assist - Circle Entry,4,40,68,65, 54
+2018-11-29 12:11:45 +0000,0,Latu-Meafou,GA,Possession,4,40,68,70, 20
+2018-11-29 12:11:49 +0000,0,Nelson,GS,Goal - Score,4,40,68,47, 11
+2018-11-29 12:11:58 +0000,1,Proud,C,Centre Pass,4,41,68,50, 100
+2018-11-29 12:11:58 +0000,1,Garbin,GA,Assist - Centre Pass Rec,4,41,68,92, 121
+2018-11-29 12:12:01 +0000,1,Proud,C,Assist - 2nd Phase,4,41,68,18, 180
+2018-11-29 12:12:03 +0000,1,Proud,C,Assist - Circle Entry,4,41,68,18, 180
+2018-11-29 12:12:03 +0000,1,Wallace,GS,Goal - Score,4,41,68,46, 192
+2018-11-29 12:12:11 +0000,0,Petty,C,Centre Pass,4,41,69,50, 100
+2018-11-29 12:12:11 +0000,0,Latu-Meafou,GA,Assist - Centre Pass Rec,4,41,69,81, 69

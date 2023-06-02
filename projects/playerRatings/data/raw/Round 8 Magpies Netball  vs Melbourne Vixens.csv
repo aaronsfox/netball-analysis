@@ -1,0 +1,1530 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-11-17 11:30:43 +0000,0,Ravaillion,C,Centre Pass,1,0,0,50, 100
+2018-11-17 11:30:43 +0000,0,Garrett,GD,Assist - Centre Pass Rec,1,0,0,32, 117
+2018-11-17 11:30:44 +0000,0,Robinson,WA,Assist - 2nd Phase,1,0,0,8, 101
+2018-11-17 11:30:46 +0000,0,Garrett,GD,Possession,1,0,0,37, 121
+2018-11-17 11:30:48 +0000,0,Brazill,WD,Possession,1,0,0,81, 94
+2018-11-17 11:30:51 +0000,0,Bell,GA,Possession,1,0,0,46, 72
+2018-11-17 11:30:54 +0000,0,Brazill,WD,Possession,1,0,0,80, 88
+2018-11-17 11:30:56 +0000,0,Robinson,WA,Possession,1,0,0,81, 49
+2018-11-17 11:30:59 +0000,1,Mannix,GK,Deflect,1,0,0,33, 17
+2018-11-17 11:30:59 +0000,0,Ravaillion,C,Throw In,1,0,0,-7, 22
+2018-11-17 11:31:08 +0000,0,Ravaillion,C,Assist - Circle Entry,1,0,0,-7, 22
+2018-11-17 11:31:08 +0000,0,Thwaites,GS,Goal - Score,1,0,0,53, 4
+2018-11-17 11:31:18 +0000,1,Moloney,C,Centre Pass,1,1,0,50, 100
+2018-11-17 11:31:19 +0000,1,Watson,WA,Assist - Centre Pass Rec,1,1,0,65, 115
+2018-11-17 11:31:20 +0000,1,Phillip,GA,Assist - 2nd Phase,1,1,0,84, 129
+2018-11-17 11:31:22 +0000,1,Moloney,C,Possession,1,1,0,83, 177
+2018-11-17 11:31:25 +0000,0,Brazill,WD,Penaly - Contact,1,1,0,52, 163
+2018-11-17 11:31:25 +0000,1,Watson,WA,Possession,1,1,0,52, 163
+2018-11-17 11:31:29 +0000,1,Watson,WA,Assist - Circle Entry,1,1,0,52, 163
+2018-11-17 11:31:29 +0000,1,Kumwenda,GS,Goal - Score,1,1,0,41, 192
+2018-11-17 11:31:37 +0000,0,Ravaillion,C,Centre Pass,1,1,1,50, 100
+2018-11-17 11:31:37 +0000,0,Bell,GA,Assist - Centre Pass Rec,1,1,1,79, 73
+2018-11-17 11:31:40 +0000,0,Robinson,WA,Assist - 2nd Phase,1,1,1,63, 56
+2018-11-17 11:31:42 +0000,0,Brazill,WD,Possession,1,1,1,33, 67
+2018-11-17 11:31:44 +0000,0,Robinson,WA,Possession,1,1,1,23, 42
+2018-11-17 11:31:46 +0000,0,Thwaites,GS,Possession,1,1,1,15, 14
+2018-11-17 11:31:54 +0000,1,Weston,GD,Penaly - Contact,1,1,1,42, 19
+2018-11-17 11:31:54 +0000,0,Bell,GA,Goal - Score,1,1,1,42, 19
+2018-11-17 11:32:08 +0000,1,Moloney,C,Centre Pass,1,2,1,50, 100
+2018-11-17 11:32:08 +0000,1,Watson,WA,Assist - Centre Pass Rec,1,2,1,56, 122
+2018-11-17 11:32:10 +0000,1,Kumwenda,GS,Assist - 2nd Phase,1,2,1,51, 161
+2018-11-17 11:32:13 +0000,1,Kumwenda,GS,Assist - Circle Entry,1,2,1,51, 161
+2018-11-17 11:32:13 +0000,1,Phillip,GA,Possession,1,2,1,32, 193
+2018-11-17 11:32:16 +0000,0,Garrett,GD,Deflect,1,2,1,30, 196
+2018-11-17 11:32:16 +0000,1,Phillip,GA,Throw In,1,2,1,27, 202
+2018-11-17 11:32:21 +0000,1,Watson,WA,Possession,1,2,1,16, 187
+2018-11-17 11:32:24 +0000,1,Watson,WA,Assist - Circle Entry,1,2,1,16, 187
+2018-11-17 11:32:24 +0000,1,Phillip,GA,Goal - Score,1,2,1,33, 193
+2018-11-17 11:32:31 +0000,0,Ravaillion,C,Centre Pass,1,2,2,50, 100
+2018-11-17 11:32:31 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,2,2,78, 76
+2018-11-17 11:32:33 +0000,0,Brazill,WD,Assist - 2nd Phase,1,2,2,56, 95
+2018-11-17 11:32:36 +0000,0,Ravaillion,C,Possession,1,2,2,22, 70
+2018-11-17 11:32:38 +0000,0,Bell,GA,Possession,1,2,2,14, 43
+2018-11-17 11:32:42 +0000,1,Weston,GD,Penaly - Contact,1,2,2,14, 43
+2018-11-17 11:32:42 +0000,0,Ravaillion,C,Possession,1,2,2,14, 43
+2018-11-17 11:32:47 +0000,0,Ravaillion,C,Assist - Circle Entry,1,2,2,14, 43
+2018-11-17 11:32:47 +0000,0,Bell,GA,Possession,1,2,2,20, 6
+2018-11-17 11:32:50 +0000,0,Robinson,WA,Possession,1,2,2,81, 18
+2018-11-17 11:32:52 +0000,0,Robinson,WA,Assist - Circle Entry,1,2,2,81, 18
+2018-11-17 11:32:52 +0000,0,Bell,GA,Goal - Miss,1,2,2,63, 12
+2018-11-17 11:33:01 +0000,0,Thwaites,GS,Deflect,1,2,2,50, 2
+2018-11-17 11:33:09 +0000,1,Weston,GD,Gain - Def Reb,1,2,2,61, 9
+2018-11-17 11:33:18 +0000,1,Mannix,GK,Possession,1,2,2,13, 12
+2018-11-17 11:33:20 +0000,1,Moloney,C,Possession,1,2,2,11, 72
+2018-11-17 11:33:23 +0000,1,Watson,WA,Possession,1,2,2,14, 86
+2018-11-17 11:33:25 +0000,1,Ingles,WD,Loss - Bad Pass,1,2,2,55, 91
+2018-11-17 11:33:30 +0000,0,Ravaillion,C,Gain - Inter,1,2,2,42, 91
+2018-11-17 11:33:36 +0000,0,Ravaillion,C,Possession,1,2,2,42, 91
+2018-11-17 11:33:40 +0000,0,Ravaillion,C,Assist - Circle Entry,1,2,2,42, 91
+2018-11-17 11:33:40 +0000,0,Thwaites,GS,Goal - Score,1,2,2,51, 6
+2018-11-17 11:33:50 +0000,1,Moloney,C,Centre Pass,1,3,2,50, 100
+2018-11-17 11:33:50 +0000,1,Watson,WA,Assist - Centre Pass Rec,1,3,2,27, 118
+2018-11-17 11:33:51 +0000,1,Phillip,GA,Assist - 2nd Phase,1,3,2,14, 143
+2018-11-17 11:33:53 +0000,1,Moloney,C,Possession,1,3,2,12, 176
+2018-11-17 11:33:55 +0000,1,Watson,WA,Possession,1,3,2,20, 155
+2018-11-17 11:33:57 +0000,1,Phillip,GA,Possession,1,3,2,50, 157
+2018-11-17 11:33:59 +0000,1,Phillip,GA,Assist - Circle Entry,1,3,2,50, 157
+2018-11-17 11:33:59 +0000,1,Kumwenda,GS,Possession,1,3,2,50, 186
+2018-11-17 11:34:01 +0000,0,Brandley,GK,Penaly - Contact,1,3,2,50, 186
+2018-11-17 11:34:01 +0000,1,Phillip,GA,Possession,1,3,2,50, 186
+2018-11-17 11:34:08 +0000,0,Garrett,GD,Penaly - Obstruction,1,3,2,50, 186
+2018-11-17 11:34:08 +0000,1,Phillip,GA,Goal - Score,1,3,2,50, 186
+2018-11-17 11:34:18 +0000,0,Ravaillion,C,Centre Pass,1,3,3,50, 100
+2018-11-17 11:34:18 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,3,3,77, 73
+2018-11-17 11:34:21 +0000,0,Garrett,GD,Assist - 2nd Phase,1,3,3,7, 72
+2018-11-17 11:34:26 +0000,1,Phillip,GA,Penaly - Contact,1,3,3,38, 69
+2018-11-17 11:34:26 +0000,0,Brazill,WD,Possession,1,3,3,38, 69
+2018-11-17 11:34:34 +0000,0,Robinson,WA,Possession,1,3,3,14, 19
+2018-11-17 11:34:38 +0000,0,Robinson,WA,Assist - Circle Entry,1,3,3,14, 19
+2018-11-17 11:34:38 +0000,0,Thwaites,GS,Goal - Score,1,3,3,59, 6
+2018-11-17 11:34:45 +0000,1,Moloney,C,Centre Pass,1,4,3,50, 100
+2018-11-17 11:34:45 +0000,1,Phillip,GA,Assist - Centre Pass Rec,1,4,3,70, 126
+2018-11-17 11:34:48 +0000,1,Watson,WA,Assist - 2nd Phase,1,4,3,51, 163
+2018-11-17 11:34:51 +0000,1,Watson,WA,Assist - Circle Entry,1,4,3,51, 163
+2018-11-17 11:34:51 +0000,1,Kumwenda,GS,Goal - Score,1,4,3,46, 186
+2018-11-17 11:34:59 +0000,0,Ravaillion,C,Centre Pass,1,4,4,50, 100
+2018-11-17 11:34:59 +0000,0,Brazill,WD,Assist - Centre Pass Rec,1,4,4,21, 79
+2018-11-17 11:35:04 +0000,0,Garrett,GD,Assist - 2nd Phase,1,4,4,25, 106
+2018-11-17 11:35:05 +0000,0,Brazill,WD,Possession,1,4,4,17, 91
+2018-11-17 11:35:07 +0000,0,Robinson,WA,Possession,1,4,4,44, 82
+2018-11-17 11:35:11 +0000,0,Bell,GA,Possession,1,4,4,66, 62
+2018-11-17 11:35:12 +0000,1,Weston,GD,Penaly - Contact,1,4,4,66, 62
+2018-11-17 11:35:12 +0000,0,Robinson,WA,Possession,1,4,4,66, 62
+2018-11-17 11:35:17 +0000,0,Bell,GA,Possession,1,4,4,15, 15
+2018-11-17 11:35:23 +0000,0,Bell,GA,Assist - Circle Entry,1,4,4,15, 15
+2018-11-17 11:35:23 +0000,0,Thwaites,GS,Possession,1,4,4,36, 8
+2018-11-17 11:35:24 +0000,1,Mannix,GK,Penaly - Obstruction,1,4,4,36, 8
+2018-11-17 11:35:24 +0000,0,Bell,GA,Goal - Score,1,4,4,36, 8
+2018-11-17 11:35:34 +0000,1,Moloney,C,Centre Pass,1,5,4,50, 100
+2018-11-17 11:35:34 +0000,1,Phillip,GA,Assist - Centre Pass Rec,1,5,4,13, 123
+2018-11-17 11:35:36 +0000,0,Garrett,GD,Penaly - Contact,1,5,4,13, 123
+2018-11-17 11:35:36 +0000,1,Ingles,WD,Possession,1,5,4,13, 123
+2018-11-17 11:35:49 +0000,1,Watson,WA,Possession,1,5,4,31, 151
+2018-11-17 11:35:51 +0000,1,Phillip,GA,Possession,1,5,4,15, 172
+2018-11-17 11:35:55 +0000,0,Brandley,GK,Penaly - Obstruction,1,5,4,27, 190
+2018-11-17 11:35:55 +0000,1,Phillip,GA,Goal - Score,1,5,4,27, 190
+2018-11-17 11:36:07 +0000,0,Ravaillion,C,Centre Pass,1,5,5,50, 100
+2018-11-17 11:36:07 +0000,0,Garrett,GD,Assist - Centre Pass Rec,1,5,5,15, 110
+2018-11-17 11:36:08 +0000,0,Robinson,WA,Assist - 2nd Phase,1,5,5,13, 84
+2018-11-17 11:36:10 +0000,0,Brazill,WD,Possession,1,5,5,81, 76
+2018-11-17 11:36:14 +0000,0,Robinson,WA,Possession,1,5,5,14, 94
+2018-11-17 11:36:16 +0000,0,Thwaites,GS,Possession,1,5,5,9, 55
+2018-11-17 11:36:19 +0000,0,Ravaillion,C,Possession,1,5,5,12, 30
+2018-11-17 11:36:21 +0000,1,Ingles,WD,Penaly - Contact,1,5,5,12, 30
+2018-11-17 11:36:21 +0000,0,Ravaillion,C,Possession,1,5,5,12, 30
+2018-11-17 11:36:24 +0000,0,Robinson,WA,Possession,1,5,5,29, 27
+2018-11-17 11:36:36 +0000,1,Ingles,WD,Loss - Offside,1,5,5,30, 27
+2018-11-17 11:36:43 +0000,0,Bell,GA,Possession,1,5,5,29, 26
+2018-11-17 11:36:51 +0000,0,Bell,GA,Assist - Circle Entry,1,5,5,29, 26
+2018-11-17 11:36:51 +0000,0,Thwaites,GS,Goal - Score,1,5,5,41, 2
+2018-11-17 11:37:00 +0000,1,Moloney,C,Centre Pass,1,6,5,50, 100
+2018-11-17 11:37:00 +0000,1,Ingles,WD,Assist - Centre Pass Rec,1,6,5,53, 79
+2018-11-17 11:37:02 +0000,1,Weston,GD,Assist - 2nd Phase,1,6,5,78, 75
+2018-11-17 11:37:04 +0000,1,Moloney,C,Possession,1,6,5,52, 114
+2018-11-17 11:37:10 +0000,1,Watson,WA,Possession,1,6,5,60, 125
+2018-11-17 11:37:15 +0000,1,Kumwenda,GS,Possession,1,6,5,55, 145
+2018-11-17 11:37:18 +0000,0,Garrett,GD,Penaly - Contact,1,6,5,55, 145
+2018-11-17 11:37:18 +0000,1,Watson,WA,Possession,1,6,5,55, 145
+2018-11-17 11:37:21 +0000,1,Phillip,GA,Possession,1,6,5,28, 166
+2018-11-17 11:37:26 +0000,1,Watson,WA,Possession,1,6,5,34, 155
+2018-11-17 11:37:30 +0000,1,Phillip,GA,Possession,1,6,5,28, 170
+2018-11-17 11:37:36 +0000,1,Watson,WA,Possession,1,6,5,32, 166
+2018-11-17 11:37:39 +0000,1,Watson,WA,Assist - Circle Entry,1,6,5,32, 166
+2018-11-17 11:37:39 +0000,1,Phillip,GA,Goal - Score,1,6,5,37, 184
+2018-11-17 11:37:47 +0000,0,Ravaillion,C,Centre Pass,1,6,6,50, 100
+2018-11-17 11:37:47 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,6,6,12, 85
+2018-11-17 11:37:50 +0000,0,Brazill,WD,Assist - 2nd Phase,1,6,6,9, 69
+2018-11-17 11:37:52 +0000,0,Ravaillion,C,Possession,1,6,6,9, 15
+2018-11-17 11:37:56 +0000,1,Moloney,C,Penaly - Obstruction,1,6,6,15, 14
+2018-11-17 11:37:56 +0000,0,Ravaillion,C,Possession,1,6,6,15, 14
+2018-11-17 11:38:00 +0000,0,Ravaillion,C,Assist - Circle Entry,1,6,6,15, 14
+2018-11-17 11:38:01 +0000,0,Thwaites,GS,Goal - Score,1,6,6,53, 7
+2018-11-17 11:38:09 +0000,1,Moloney,C,Centre Pass,1,7,6,50, 100
+2018-11-17 11:38:09 +0000,1,Ingles,WD,Assist - Centre Pass Rec,1,7,6,7, 105
+2018-11-17 11:38:10 +0000,1,Moloney,C,Assist - 2nd Phase,1,7,6,19, 79
+2018-11-17 11:38:12 +0000,1,Ingles,WD,Possession,1,7,6,22, 108
+2018-11-17 11:38:14 +0000,1,Watson,WA,Possession,1,7,6,39, 139
+2018-11-17 11:38:16 +0000,1,Moloney,C,Possession,1,7,6,15, 181
+2018-11-17 11:38:18 +0000,1,Moloney,C,Assist - Circle Entry,1,7,6,15, 181
+2018-11-17 11:38:18 +0000,1,Kumwenda,GS,Goal - Score,1,7,6,36, 192
+2018-11-17 11:38:30 +0000,0,Ravaillion,C,Centre Pass,1,7,7,50, 100
+2018-11-17 11:38:31 +0000,0,Bell,GA,Assist - Centre Pass Rec,1,7,7,63, 74
+2018-11-17 11:38:32 +0000,0,Robinson,WA,Assist - 2nd Phase,1,7,7,49, 59
+2018-11-17 11:38:34 +0000,0,Bell,GA,Possession,1,7,7,12, 19
+2018-11-17 11:38:36 +0000,0,Robinson,WA,Possession,1,7,7,21, 20
+2018-11-17 11:38:37 +0000,1,Ingles,WD,Penaly - Contact,1,7,7,21, 20
+2018-11-17 11:38:37 +0000,0,Robinson,WA,Possession,1,7,7,21, 20
+2018-11-17 11:38:43 +0000,0,Robinson,WA,Assist - Circle Entry,1,7,7,21, 20
+2018-11-17 11:38:43 +0000,0,Thwaites,GS,Loss - Off Contact,1,7,7,58, 13
+2018-11-17 11:38:51 +0000,1,Mannix,GK,Possession,1,7,7,57, 11
+2018-11-17 11:38:55 +0000,1,Ingles,WD,Possession,1,7,7,34, 33
+2018-11-17 11:38:57 +0000,1,Moloney,C,Possession,1,7,7,31, 70
+2018-11-17 11:39:00 +0000,1,Weston,GD,Possession,1,7,7,32, 57
+2018-11-17 11:39:01 +0000,1,Phillip,GA,Possession,1,7,7,11, 79
+2018-11-17 11:39:13 +0000,0,Bell,GA,Penaly - Obstruction,1,7,7,11, 79
+2018-11-17 11:39:13 +0000,1,Weston,GD,Possession,1,7,7,11, 79
+2018-11-17 11:39:18 +0000,1,Watson,WA,Possession,1,7,7,24, 128
+2018-11-17 11:39:21 +0000,1,Phillip,GA,Possession,1,7,7,14, 141
+2018-11-17 11:39:23 +0000,1,Watson,WA,Possession,1,7,7,32, 162
+2018-11-17 11:39:25 +0000,1,Watson,WA,Assist - Circle Entry,1,7,7,32, 162
+2018-11-17 11:39:25 +0000,1,Kumwenda,GS,Loss - Drop,1,7,7,40, 172
+2018-11-17 11:39:31 +0000,0,Brandley,GK,Gain - Pick-up,1,7,7,41, 173
+2018-11-17 11:39:37 +0000,1,Kumwenda,GS,Penaly - Contact,1,7,7,41, 173
+2018-11-17 11:39:37 +0000,0,Brandley,GK,Possession,1,7,7,41, 173
+2018-11-17 11:39:44 +0000,0,Brazill,WD,Possession,1,7,7,19, 158
+2018-11-17 11:39:50 +0000,1,Moloney,C,Penaly - Contact,1,7,7,32, 120
+2018-11-17 11:39:50 +0000,0,Brazill,WD,Possession,1,7,7,32, 120
+2018-11-17 11:39:54 +0000,0,Ravaillion,C,Possession,1,7,7,70, 82
+2018-11-17 11:39:57 +0000,0,Robinson,WA,Possession,1,7,7,77, 21
+2018-11-17 11:39:59 +0000,0,Robinson,WA,Assist - Circle Entry,1,7,7,77, 21
+2018-11-17 11:39:59 +0000,0,Thwaites,GS,Goal - Score,1,7,7,44, 14
+2018-11-17 11:40:11 +0000,1,Moloney,C,Centre Pass,1,8,7,50, 100
+2018-11-17 11:40:11 +0000,1,Watson,WA,Assist - Centre Pass Rec,1,8,7,51, 115
+2018-11-17 11:40:14 +0000,1,Kumwenda,GS,Assist - 2nd Phase,1,8,7,44, 152
+2018-11-17 11:40:16 +0000,1,Watson,WA,Possession,1,8,7,54, 162
+2018-11-17 11:40:21 +0000,0,Brandley,GK,Gain - Tip (Deflect),1,8,7,60, 165
+2018-11-17 11:40:40 +0000,0,Brandley,GK,Possession,1,8,7,69, 153
+2018-11-17 11:40:44 +0000,0,Brazill,WD,Possession,1,8,7,67, 140
+2018-11-17 11:40:45 +0000,1,Watson,WA,Penaly - Contact,1,8,7,67, 140
+2018-11-17 11:40:46 +0000,0,Brandley,GK,Possession,1,8,7,67, 140
+2018-11-17 11:40:49 +0000,0,Brazill,WD,Possession,1,8,7,86, 98
+2018-11-17 11:40:52 +0000,0,Bell,GA,Possession,1,8,7,84, 56
+2018-11-17 11:40:54 +0000,0,Brazill,WD,Possession,1,8,7,85, 78
+2018-11-17 11:40:56 +0000,0,Garrett,GD,Possession,1,8,7,67, 71
+2018-11-17 11:40:58 +0000,0,Robinson,WA,Possession,1,8,7,69, 47
+2018-11-17 11:40:59 +0000,0,Thwaites,GS,Loss - Held Ball,1,8,7,23, 25
+2018-11-17 11:41:04 +0000,1,Mannix,GK,Possession,1,8,7,25, 26
+2018-11-17 11:41:06 +0000,1,Ingles,WD,Possession,1,8,7,27, 60
+2018-11-17 11:41:08 +0000,1,Phillip,GA,Possession,1,8,7,9, 96
+2018-11-17 11:41:20 +0000,0,Bell,GA,Penaly - Contact,1,8,7,9, 96
+2018-11-17 11:41:21 +0000,1,Weston,GD,Possession,1,8,7,9, 96
+2018-11-17 11:41:29 +0000,1,Watson,WA,Possession,1,8,7,46, 127
+2018-11-17 11:41:31 +0000,1,Kumwenda,GS,Possession,1,8,7,77, 167
+2018-11-17 11:41:34 +0000,1,Kumwenda,GS,Assist - Circle Entry,1,8,7,77, 167
+2018-11-17 11:41:34 +0000,1,Phillip,GA,Goal - Score,1,8,7,49, 192
+2018-11-17 11:41:48 +0000,0,Ravaillion,C,Centre Pass,1,8,8,50, 100
+2018-11-17 11:41:48 +0000,0,Brazill,WD,Assist - Centre Pass Rec,1,8,8,83, 78
+2018-11-17 11:41:50 +0000,0,Robinson,WA,Assist - 2nd Phase,1,8,8,85, 39
+2018-11-17 11:41:52 +0000,0,Robinson,WA,Assist - Circle Entry,1,8,8,85, 39
+2018-11-17 11:41:52 +0000,0,Thwaites,GS,Possession,1,8,8,69, 2
+2018-11-17 11:41:54 +0000,0,Ravaillion,C,Possession,1,8,8,24, 25
+2018-11-17 11:41:55 +0000,1,Ingles,WD,Penaly - Contact,1,8,8,24, 25
+2018-11-17 11:41:55 +0000,0,Ravaillion,C,Possession,1,8,8,24, 25
+2018-11-17 11:41:58 +0000,0,Ravaillion,C,Assist - Circle Entry,1,8,8,24, 25
+2018-11-17 11:41:58 +0000,0,Bell,GA,Goal - Miss,1,8,8,55, 4
+2018-11-17 11:42:04 +0000,1,Weston,GD,Deflect,1,8,8,50, 2
+2018-11-17 11:42:05 +0000,0,Bell,GA,Throw In,1,8,8,38, -6
+2018-11-17 11:42:10 +0000,0,Robinson,WA,Possession,1,8,8,16, 14
+2018-11-17 11:42:12 +0000,0,Robinson,WA,Assist - Circle Entry,1,8,8,16, 14
+2018-11-17 11:42:12 +0000,0,Thwaites,GS,Goal - Score,1,8,8,55, 4
+2018-11-17 11:42:19 +0000,1,Moloney,C,Centre Pass,1,9,8,50, 100
+2018-11-17 11:42:19 +0000,1,Watson,WA,Assist - Centre Pass Rec,1,9,8,82, 115
+2018-11-17 11:42:21 +0000,1,Moloney,C,Assist - 2nd Phase,1,9,8,76, 146
+2018-11-17 11:42:23 +0000,1,Watson,WA,Possession,1,9,8,59, 142
+2018-11-17 11:42:25 +0000,1,Phillip,GA,Possession,1,9,8,35, 163
+2018-11-17 11:42:30 +0000,0,Brandley,GK,Deflect,1,9,8,24, 193
+2018-11-17 11:42:30 +0000,1,Watson,WA,Throw In,1,9,8,-8, 182
+2018-11-17 11:42:36 +0000,1,Watson,WA,Assist - Circle Entry,1,9,8,-8, 182
+2018-11-17 11:42:36 +0000,1,Kumwenda,GS,Possession,1,9,8,24, 186
+2018-11-17 11:42:38 +0000,0,Garrett,GD,Penaly - Contact,1,9,8,24, 186
+2018-11-17 11:42:38 +0000,1,Phillip,GA,Goal - Score,1,9,8,24, 186
+2018-11-17 11:42:53 +0000,0,Ravaillion,C,Centre Pass,1,9,9,50, 100
+2018-11-17 11:42:53 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,9,9,17, 85
+2018-11-17 11:42:54 +0000,0,Ravaillion,C,Assist - 2nd Phase,1,9,9,27, 69
+2018-11-17 11:42:56 +0000,0,Thwaites,GS,Possession,1,9,9,14, 35
+2018-11-17 11:43:05 +0000,0,Ravaillion,C,Possession,1,9,9,14, 7
+2018-11-17 11:43:07 +0000,0,Ravaillion,C,Assist - Circle Entry,1,9,9,14, 7
+2018-11-17 11:43:07 +0000,0,Thwaites,GS,Possession,1,9,9,57, 3
+2018-11-17 11:43:08 +0000,1,Mannix,GK,Penaly - Contact,1,9,9,57, 3
+2018-11-17 11:43:08 +0000,0,Thwaites,GS,Goal - Score,1,9,9,57, 3
+2018-11-17 11:43:18 +0000,1,Moloney,C,Centre Pass,1,10,9,50, 100
+2018-11-17 11:43:18 +0000,1,Phillip,GA,Assist - Centre Pass Rec,1,10,9,24, 124
+2018-11-17 11:43:22 +0000,1,Moloney,C,Assist - 2nd Phase,1,10,9,35, 127
+2018-11-17 11:43:28 +0000,1,Watson,WA,Possession,1,10,9,45, 139
+2018-11-17 11:43:33 +0000,1,Phillip,GA,Possession,1,10,9,13, 167
+2018-11-17 11:43:35 +0000,1,Watson,WA,Loss - Step,1,10,9,24, 169
+2018-11-17 11:43:40 +0000,0,Brandley,GK,Possession,1,10,9,24, 171
+2018-11-17 11:43:47 +0000,0,Brazill,WD,Possession,1,10,9,74, 137
+2018-11-17 11:43:49 +0000,0,Brandley,GK,Possession,1,10,9,48, 143
+2018-11-17 11:43:52 +0000,0,Brazill,WD,Possession,1,10,9,84, 108
+2018-11-17 11:43:54 +0000,0,Garrett,GD,Possession,1,10,9,76, 78
+2018-11-17 11:43:56 +0000,0,Bell,GA,Possession,1,10,9,58, 59
+2018-11-17 11:43:57 +0000,0,Ravaillion,C,Possession,1,10,9,16, 60
+2018-11-17 11:43:59 +0000,0,Robinson,WA,Possession,1,10,9,52, 47
+2018-11-17 11:44:02 +0000,0,Robinson,WA,Assist - Circle Entry,1,10,9,52, 47
+2018-11-17 11:44:02 +0000,0,Bell,GA,Possession,1,10,9,61, 13
+2018-11-17 11:44:04 +0000,0,Ravaillion,C,Possession,1,10,9,38, 33
+2018-11-17 11:44:06 +0000,0,Ravaillion,C,Assist - Circle Entry,1,10,9,38, 33
+2018-11-17 11:44:06 +0000,0,,GS,Goal - Score,1,10,9,60, 9
+2018-11-17 11:44:47 +0000,0,Ravaillion,C,Centre Pass,1,11,9,50, 100
+2018-11-17 11:44:47 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,11,9,51, 76
+2018-11-17 11:44:49 +0000,0,Bell,GA,Assist - 2nd Phase,1,11,9,80, 27
+2018-11-17 11:44:51 +0000,0,Bell,GA,Assist - Circle Entry,1,11,9,80, 27
+2018-11-17 11:44:51 +0000,0,Thwaites,GS,Possession,1,11,9,62, 4
+2018-11-17 11:44:53 +0000,0,Robinson,WA,Possession,1,11,9,13, 7
+2018-11-17 11:44:55 +0000,0,Ravaillion,C,Possession,1,11,9,50, 34
+2018-11-17 11:44:57 +0000,0,Ravaillion,C,Assist - Circle Entry,1,11,9,50, 34
+2018-11-17 11:44:57 +0000,0,Thwaites,GS,Goal - Score,1,11,9,55, 4
+2018-11-17 11:45:05 +0000,1,Moloney,C,Centre Pass,1,12,9,50, 100
+2018-11-17 11:45:05 +0000,1,Ingles,WD,Assist - Centre Pass Rec,1,12,9,30, 94
+2018-11-17 11:45:07 +0000,1,Phillip,GA,Assist - 2nd Phase,1,12,9,27, 127
+2018-11-17 11:45:09 +0000,1,Watson,WA,Possession,1,12,9,31, 158
+2018-11-17 11:45:11 +0000,1,Watson,WA,Assist - Circle Entry,1,12,9,31, 158
+2018-11-17 11:45:11 +0000,1,Kumwenda,GS,Possession,1,12,9,56, 193
+2018-11-17 11:45:12 +0000,0,Garrett,GD,Penaly - Obstruction,1,12,9,56, 193
+2018-11-17 11:45:12 +0000,1,Kumwenda,GS,Goal - Score,1,12,9,56, 193
+2018-11-17 11:45:23 +0000,0,Ravaillion,C,Centre Pass,1,12,10,50, 100
+2018-11-17 11:45:23 +0000,0,Brazill,WD,Assist - Centre Pass Rec,1,12,10,38, 81
+2018-11-17 11:45:26 +0000,0,Bell,GA,Assist - 2nd Phase,1,12,10,78, 28
+2018-11-17 11:45:28 +0000,0,Bell,GA,Assist - Circle Entry,1,12,10,78, 28
+2018-11-17 11:45:29 +0000,0,Thwaites,GS,Possession,1,12,10,58, 3
+2018-11-17 11:45:30 +0000,0,,UNKNOWN,Possession,1,12,10,15, 9
+2018-11-17 11:45:33 +0000,0,Bell,GA,Possession,1,12,10,45, 36
+2018-11-17 11:45:37 +0000,0,Bell,GA,Assist - Circle Entry,1,12,10,45, 36
+2018-11-17 11:45:37 +0000,0,Thwaites,GS,Possession,1,12,10,37, 10
+2018-11-17 11:45:38 +0000,1,Mannix,GK,Penaly - Contact,1,12,10,37, 10
+2018-11-17 11:45:38 +0000,0,Thwaites,GS,Goal - Score,1,12,10,37, 10
+2018-11-17 11:45:55 +0000,1,Moloney,C,Centre Pass,1,13,10,50, 100
+2018-11-17 11:45:55 +0000,1,Watson,WA,Assist - Centre Pass Rec,1,13,10,65, 115
+2018-11-17 11:45:58 +0000,1,Watson,WA,Assist - Circle Entry,1,13,10,65, 115
+2018-11-17 11:45:58 +0000,1,Kumwenda,GS,Assist - 2nd Phase,1,13,10,44, 169
+2018-11-17 11:46:00 +0000,1,Watson,WA,Possession,1,13,10,50, 161
+2018-11-17 11:46:02 +0000,1,Watson,WA,Assist - Circle Entry,1,13,10,50, 161
+2018-11-17 11:46:02 +0000,1,Kumwenda,GS,Goal - Score,1,13,10,47, 189
+2018-11-17 11:46:10 +0000,0,Ravaillion,C,Centre Pass,1,13,11,50, 100
+2018-11-17 11:46:10 +0000,0,Brazill,WD,Assist - Centre Pass Rec,1,13,11,60, 111
+2018-11-17 11:46:11 +0000,0,Ravaillion,C,Assist - 2nd Phase,1,13,11,72, 100
+2018-11-17 11:46:19 +0000,0,Brazill,WD,Possession,1,13,11,86, 82
+2018-11-17 11:46:21 +0000,0,Garrett,GD,Possession,1,13,11,69, 67
+2018-11-17 11:46:24 +0000,0,Bell,GA,Possession,1,13,11,83, 34
+2018-11-17 11:46:27 +0000,0,Brazill,WD,Possession,1,13,11,49, 68
+2018-11-17 11:46:30 +0000,0,Ravaillion,C,Possession,1,13,11,83, 36
+2018-11-17 11:46:32 +0000,0,Thwaites,GS,Possession,1,13,11,76, 25
+2018-11-17 11:46:35 +0000,0,Brazill,WD,Possession,1,13,11,70, 70
+2018-11-17 11:46:38 +0000,0,Robinson,WA,Possession,1,13,11,53, 34
+2018-11-17 11:46:40 +0000,0,Robinson,WA,Assist - Circle Entry,1,13,11,53, 34
+2018-11-17 11:46:40 +0000,0,Thwaites,GS,Goal - Score,1,13,11,43, 9
+2018-11-17 11:47:01 +0000,1,Moloney,C,Centre Pass,1,14,11,50, 100
+2018-11-17 11:47:01 +0000,1,Phillip,GA,Assist - Centre Pass Rec,1,14,11,14, 126
+2018-11-17 11:47:03 +0000,1,Moloney,C,Assist - 2nd Phase,1,14,11,33, 127
+2018-11-17 11:47:06 +0000,1,Kumwenda,GS,Possession,1,14,11,20, 171
+2018-11-17 11:47:08 +0000,1,Phillip,GA,Possession,1,14,11,33, 159
+2018-11-17 11:47:10 +0000,1,Moloney,C,Possession,1,14,11,16, 185
+2018-11-17 11:47:12 +0000,1,Moloney,C,Assist - Circle Entry,1,14,11,16, 185
+2018-11-17 11:47:12 +0000,1,Kumwenda,GS,Goal - Score,1,14,11,55, 191
+2018-11-17 11:47:24 +0000,0,Ravaillion,C,Centre Pass,1,14,12,50, 100
+2018-11-17 11:47:24 +0000,0,Brazill,WD,Assist - Centre Pass Rec,1,14,12,84, 90
+2018-11-17 11:47:28 +0000,0,Brazill,WD,Assist - Circle Entry,1,14,12,84, 90
+2018-11-17 11:47:28 +0000,0,Thwaites,GS,Assist - 2nd Phase,1,14,12,41, 5
+2018-11-17 11:47:30 +0000,0,Thwaites,GS,Goal - Score,1,14,12,41, 5
+2018-11-17 11:47:35 +0000,1,Moloney,C,Centre Pass,1,15,12,50, 100
+2018-11-17 11:47:35 +0000,1,Phillip,GA,Assist - Centre Pass Rec,1,15,12,27, 108
+2018-11-17 11:47:38 +0000,0,Ravaillion,C,Penaly - Contact,1,15,12,32, 127
+2018-11-17 11:47:38 +0000,1,Moloney,C,Assist - 2nd Phase,1,15,12,32, 127
+2018-11-17 11:47:41 +0000,1,Phillip,GA,Possession,1,15,12,27, 148
+2018-11-17 11:47:43 +0000,0,Garrett,GD,Penaly - Obstruction,1,15,12,27, 148
+2018-11-17 11:47:43 +0000,1,Moloney,C,Possession,1,15,12,27, 148
+2018-11-17 11:47:56 +0000,1,Moloney,C,Assist - Circle Entry,1,15,12,27, 148
+2018-11-17 11:47:56 +0000,1,Kumwenda,GS,Possession,1,15,12,46, 175
+2018-11-17 11:47:59 +0000,0,Brandley,GK,Penaly - Contact,1,15,12,46, 175
+2018-11-17 11:47:59 +0000,1,Phillip,GA,Possession,1,15,12,46, 175
+2018-11-17 11:48:11 +0000,0,Garrett,GD,Penaly - Obstruction,1,15,12,50, 181
+2018-11-17 11:48:11 +0000,1,Phillip,GA,Goal - Score,1,15,12,50, 181
+2018-11-17 11:48:22 +0000,0,Ravaillion,C,Centre Pass,1,15,13,50, 100
+2018-11-17 11:48:22 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,15,13,48, 76
+2018-11-17 11:48:24 +0000,0,Thwaites,GS,Assist - 2nd Phase,1,15,13,5, 30
+2018-11-17 11:48:26 +0000,0,Ravaillion,C,Possession,1,15,13,16, 53
+2018-11-17 11:48:28 +0000,0,Robinson,WA,Possession,1,15,13,39, 39
+2018-11-17 11:48:30 +0000,1,Ingles,WD,Penaly - Obstruction,1,15,13,39, 39
+2018-11-17 11:48:30 +0000,0,Robinson,WA,Possession,1,15,13,39, 39
+2018-11-17 11:48:33 +0000,0,Robinson,WA,Assist - Circle Entry,1,15,13,39, 39
+2018-11-17 11:48:34 +0000,0,Thwaites,GS,Goal - Score,1,15,13,53, 7
+2018-11-17 11:48:40 +0000,1,Moloney,C,Centre Pass,1,16,13,50, 100
+2018-11-17 11:48:40 +0000,1,Weston,GD,Assist - Centre Pass Rec,1,16,13,35, 76
+2018-11-17 11:48:42 +0000,1,Watson,WA,Assist - 2nd Phase,1,16,13,60, 88
+2018-11-17 11:48:43 +0000,1,Moloney,C,Possession,1,16,13,71, 107
+2018-11-17 11:48:46 +0000,1,Watson,WA,Possession,1,16,13,51, 135
+2018-11-17 11:48:50 +0000,1,Watson,WA,Assist - Circle Entry,1,16,13,51, 135
+2018-11-17 11:48:50 +0000,1,Kumwenda,GS,Goal - Score,1,16,13,55, 189
+2018-11-17 11:48:57 +0000,0,Ravaillion,C,Centre Pass,1,16,14,50, 100
+2018-11-17 11:48:57 +0000,0,Robinson,WA,Assist - Centre Pass Rec,1,16,14,73, 74
+2018-11-17 11:48:59 +0000,0,Thwaites,GS,Assist - 2nd Phase,1,16,14,81, 39
+2018-11-17 11:49:02 +0000,0,Garrett,GD,Possession,1,16,14,77, 70
+2018-11-17 11:49:03 +0000,1,Watson,WA,Penaly - Contact,1,16,14,77, 70
+2018-11-17 11:49:03 +0000,0,Garrett,GD,Possession,1,16,14,77, 70
+2018-11-17 11:49:06 +0000,0,Robinson,WA,Possession,1,16,14,69, 52
+2018-11-17 11:49:08 +0000,0,Bell,GA,Possession,1,16,14,48, 45
+2018-11-17 11:49:10 +0000,0,Bell,GA,Assist - Circle Entry,1,16,14,48, 45
+2018-11-17 11:49:10 +0000,0,Thwaites,GS,Goal - Score,1,16,14,61, 6
+2018-11-17 11:49:18 +0000,1,Moloney,C,Centre Pass,1,17,14,50, 100
+2018-11-17 11:49:18 +0000,1,Phillip,GA,Assist - Centre Pass Rec,1,17,14,9, 111
+2018-11-17 11:49:22 +0000,0,Garrett,GD,Penaly - Contact,1,17,14,9, 111
+2018-11-17 11:49:23 +0000,1,Weston,GD,Possession,1,17,14,9, 111
+2018-11-17 11:49:29 +0000,1,Moloney,C,Possession,1,17,14,8, 136
+2018-11-17 11:49:36 +0000,1,Watson,WA,Possession,1,17,14,25, 170
+2018-11-17 11:49:40 +0000,1,Watson,WA,Assist - Circle Entry,1,17,14,25, 170
+2018-11-17 11:49:40 +0000,1,Kumwenda,GS,Assist - 2nd Phase,1,17,14,58, 181
+2018-11-17 11:49:48 +0000,1,Kumwenda,GS,Goal - Miss,1,17,14,58, 181
+2018-11-17 11:49:48 +0000,0,Brandley,GK,Deflect,1,17,14,50, 197
+2018-11-17 11:49:49 +0000,1,Phillip,GA,Throw In,1,17,14,56, 202
+2018-11-17 11:49:53 +0000,1,Watson,WA,Possession,1,17,14,80, 180
+2018-11-17 11:49:56 +0000,1,Watson,WA,Assist - Circle Entry,1,17,14,80, 180
+2018-11-17 11:49:56 +0000,1,Kumwenda,GS,Goal - Score,1,17,14,43, 191
+2018-11-17 11:50:36 +0000,0,Ravaillion,C,Centre Pass,2,17,15,50, 100
+2018-11-17 11:50:36 +0000,0,Brazill,WD,Assist - Centre Pass Rec,2,17,15,71, 86
+2018-11-17 11:50:39 +0000,0,Robinson,WA,Assist - 2nd Phase,2,17,15,17, 17
+2018-11-17 11:50:41 +0000,0,Robinson,WA,Assist - Circle Entry,2,17,15,17, 17
+2018-11-17 11:50:41 +0000,0,Bell,GA,Goal - Score,2,17,15,39, 9
+2018-11-17 11:50:49 +0000,1,Moloney,C,Centre Pass,2,18,15,50, 100
+2018-11-17 11:50:50 +0000,1,Phillip,GA,Assist - Centre Pass Rec,2,18,15,83, 118
+2018-11-17 11:50:52 +0000,1,Watson,WA,Assist - 2nd Phase,2,18,15,89, 148
+2018-11-17 11:50:54 +0000,1,Moloney,C,Possession,2,18,15,60, 147
+2018-11-17 11:50:56 +0000,1,Phillip,GA,Possession,2,18,15,84, 181
+2018-11-17 11:51:04 +0000,1,Phillip,GA,Assist - Circle Entry,2,18,15,84, 181
+2018-11-17 11:51:04 +0000,0,Brandley,GK,Gain - Inter,2,18,15,50, 188
+2018-11-17 11:51:08 +0000,1,Kumwenda,GS,Penaly - Contact,2,18,15,50, 188
+2018-11-17 11:51:08 +0000,0,Brandley,GK,Possession,2,18,15,50, 188
+2018-11-17 11:51:12 +0000,0,Garrett,GD,Possession,2,18,15,68, 181
+2018-11-17 11:51:14 +0000,0,Brandley,GK,Possession,2,18,15,40, 156
+2018-11-17 11:51:17 +0000,0,Garrett,GD,Possession,2,18,15,21, 139
+2018-11-17 11:51:18 +0000,0,Bell,GA,Possession,2,18,15,41, 92
+2018-11-17 11:51:20 +0000,0,Robinson,WA,Possession,2,18,15,30, 74
+2018-11-17 11:51:22 +0000,0,Brazill,WD,Possession,2,18,15,89, 75
+2018-11-17 11:51:24 +0000,0,Bell,GA,Possession,2,18,15,81, 43
+2018-11-17 11:51:27 +0000,0,Bell,GA,Assist - Circle Entry,2,18,15,81, 43
+2018-11-17 11:51:27 +0000,0,Thwaites,GS,Goal - Score,2,18,15,52, 19
+2018-11-17 11:51:39 +0000,0,Ravaillion,C,Centre Pass,2,19,15,50, 100
+2018-11-17 11:51:39 +0000,0,Bell,GA,Assist - Centre Pass Rec,2,19,15,58, 80
+2018-11-17 11:51:40 +0000,0,Robinson,WA,Assist - 2nd Phase,2,19,15,27, 62
+2018-11-17 11:51:43 +0000,0,Brazill,WD,Possession,2,19,15,34, 72
+2018-11-17 11:51:44 +0000,1,Watson,WA,Penaly - Contact,2,19,15,34, 72
+2018-11-17 11:51:44 +0000,0,Brazill,WD,Possession,2,19,15,34, 72
+2018-11-17 11:51:50 +0000,0,Robinson,WA,Possession,2,19,15,37, 52
+2018-11-17 11:51:52 +0000,0,Robinson,WA,Assist - Circle Entry,2,19,15,37, 52
+2018-11-17 11:51:52 +0000,0,Thwaites,GS,Possession,2,19,15,40, 10
+2018-11-17 11:51:55 +0000,0,Robinson,WA,Possession,2,19,15,49, 36
+2018-11-17 11:51:57 +0000,0,Robinson,WA,Assist - Circle Entry,2,19,15,49, 36
+2018-11-17 11:51:57 +0000,0,Bell,GA,Possession,2,19,15,48, 21
+2018-11-17 11:51:58 +0000,1,Weston,GD,Penaly - Contact,2,19,15,48, 21
+2018-11-17 11:51:58 +0000,0,Bell,GA,Possession,2,19,15,48, 21
+2018-11-17 11:52:01 +0000,0,Thwaites,GS,Possession,2,19,15,56, 8
+2018-11-17 11:52:03 +0000,1,Weston,GD,Penaly - Obstruction,2,19,15,56, 8
+2018-11-17 11:52:03 +0000,0,Thwaites,GS,Goal - Score,2,19,15,56, 8
+2018-11-17 11:52:11 +0000,1,Moloney,C,Centre Pass,2,20,15,50, 100
+2018-11-17 11:52:11 +0000,1,Phillip,GA,Loss - Drop,2,20,15,34, 125
+2018-11-17 11:52:17 +0000,0,Garrett,GD,Gain - Pick-up,2,20,15,34, 124
+2018-11-17 11:52:27 +0000,0,Robinson,WA,Possession,2,20,15,63, 100
+2018-11-17 11:52:33 +0000,0,Brazill,WD,Possession,2,20,15,34, 87
+2018-11-17 11:52:36 +0000,0,Brandley,GK,Possession,2,20,15,14, 136
+2018-11-17 11:52:38 +0000,0,Brazill,WD,Possession,2,20,15,13, 126
+2018-11-17 11:52:41 +0000,1,Watson,WA,Penaly - Contact,2,20,15,13, 126
+2018-11-17 11:52:41 +0000,0,Brazill,WD,Possession,2,20,15,13, 126
+2018-11-17 11:52:45 +0000,0,Robinson,WA,Possession,2,20,15,8, 99
+2018-11-17 11:52:47 +0000,0,Garrett,GD,Possession,2,20,15,32, 93
+2018-11-17 11:52:49 +0000,0,Robinson,WA,Possession,2,20,15,16, 76
+2018-11-17 11:52:51 +0000,0,Ravaillion,C,Possession,2,20,15,18, 18
+2018-11-17 11:52:54 +0000,0,Ravaillion,C,Assist - Circle Entry,2,20,15,18, 18
+2018-11-17 11:52:54 +0000,1,Mannix,GK,Gain - Inter,2,20,15,44, 7
+2018-11-17 11:52:59 +0000,1,Moloney,C,Possession,2,20,15,14, 6
+2018-11-17 11:53:03 +0000,1,Mannix,GK,Possession,2,20,15,29, 10
+2018-11-17 11:53:06 +0000,1,Weston,GD,Possession,2,20,15,26, 32
+2018-11-17 11:53:08 +0000,1,Moloney,C,Possession,2,20,15,15, 73
+2018-11-17 11:53:10 +0000,1,Watson,WA,Possession,2,20,15,7, 108
+2018-11-17 11:53:12 +0000,1,Kumwenda,GS,Possession,2,20,15,10, 178
+2018-11-17 11:53:29 +0000,1,Moloney,C,Possession,2,20,15,85, 184
+2018-11-17 11:53:37 +0000,1,Moloney,C,Assist - Circle Entry,2,20,15,85, 184
+2018-11-17 11:53:37 +0000,1,Phillip,GA,Loss - Drop,2,20,15,67, 188
+2018-11-17 11:53:46 +0000,0,Garrett,GD,Deflect,2,20,15,62, 189
+2018-11-17 11:53:57 +0000,0,Brandley,GK,Possession,2,20,15,42, 188
+2018-11-17 11:54:03 +0000,0,Brazill,WD,Possession,2,20,15,44, 164
+2018-11-17 11:54:05 +0000,0,Brandley,GK,Possession,2,20,15,20, 145
+2018-11-17 11:54:08 +0000,0,Robinson,WA,Possession,2,20,15,52, 85
+2018-11-17 11:54:10 +0000,0,Bell,GA,Possession,2,20,15,66, 48
+2018-11-17 11:54:12 +0000,0,Bell,GA,Assist - Circle Entry,2,20,15,66, 48
+2018-11-17 11:54:12 +0000,0,Thwaites,GS,Goal - Score,2,20,15,45, 13
+2018-11-17 11:54:20 +0000,1,,UNKNOWN,Timeout,2,21,15,-10, -22
+2018-11-17 11:54:48 +0000,0,Ravaillion,C,Centre Pass,2,21,15,50, 100
+2018-11-17 11:54:48 +0000,0,Robinson,WA,Assist - Centre Pass Rec,2,21,15,40, 73
+2018-11-17 11:54:52 +0000,0,Brazill,WD,Assist - 2nd Phase,2,21,15,18, 81
+2018-11-17 11:54:54 +0000,0,Ravaillion,C,Possession,2,21,15,21, 57
+2018-11-17 11:54:56 +0000,0,Bell,GA,Possession,2,21,15,14, 15
+2018-11-17 11:54:58 +0000,0,Bell,GA,Assist - Circle Entry,2,21,15,14, 15
+2018-11-17 11:54:58 +0000,0,Thwaites,GS,Loss - Held Ball,2,21,15,49, 29
+2018-11-17 11:55:04 +0000,1,Mannix,GK,Possession,2,21,15,44, 30
+2018-11-17 11:55:09 +0000,1,Ingles,WD,Possession,2,21,15,60, 50
+2018-11-17 11:55:13 +0000,1,Weston,GD,Possession,2,21,15,14, 82
+2018-11-17 11:55:15 +0000,1,Watson,WA,Possession,2,21,15,52, 110
+2018-11-17 11:55:16 +0000,1,Weston,GD,Possession,2,21,15,69, 96
+2018-11-17 11:55:18 +0000,1,Phillip,GA,Possession,2,21,15,93, 112
+2018-11-17 11:55:20 +0000,1,Weston,GD,Possession,2,21,15,74, 113
+2018-11-17 11:55:21 +0000,1,Ingles,WD,Possession,2,21,15,26, 110
+2018-11-17 11:55:23 +0000,1,Moloney,C,Possession,2,21,15,17, 130
+2018-11-17 11:55:25 +0000,1,Weston,GD,Possession,2,21,15,32, 129
+2018-11-17 11:55:27 +0000,1,Phillip,GA,Possession,2,21,15,38, 147
+2018-11-17 11:55:29 +0000,1,Phillip,GA,Assist - Circle Entry,2,21,15,38, 147
+2018-11-17 11:55:29 +0000,1,Kumwenda,GS,Possession,2,21,15,32, 196
+2018-11-17 11:55:30 +0000,1,Moloney,C,Possession,2,21,15,18, 185
+2018-11-17 11:55:34 +0000,1,Watson,WA,Possession,2,21,15,80, 181
+2018-11-17 11:55:36 +0000,0,Brazill,WD,Penaly - Contact,2,21,15,80, 181
+2018-11-17 11:55:36 +0000,1,Watson,WA,Possession,2,21,15,80, 181
+2018-11-17 11:55:43 +0000,1,Watson,WA,Assist - Circle Entry,2,21,15,80, 181
+2018-11-17 11:55:43 +0000,1,Phillip,GA,Goal - Score,2,21,15,65, 192
+2018-11-17 11:55:53 +0000,1,Moloney,C,Centre Pass,2,21,16,50, 100
+2018-11-17 11:55:53 +0000,1,Watson,WA,Assist - Centre Pass Rec,2,21,16,40, 121
+2018-11-17 11:55:56 +0000,1,Kumwenda,GS,Assist - 2nd Phase,2,21,16,53, 163
+2018-11-17 11:55:58 +0000,1,Moloney,C,Possession,2,21,16,83, 183
+2018-11-17 11:56:00 +0000,1,Moloney,C,Assist - Circle Entry,2,21,16,83, 183
+2018-11-17 11:56:00 +0000,1,Kumwenda,GS,Goal - Score,2,21,16,47, 189
+2018-11-17 11:56:09 +0000,0,Ravaillion,C,Centre Pass,2,21,17,50, 100
+2018-11-17 11:56:10 +0000,0,Robinson,WA,Assist - Centre Pass Rec,2,21,17,27, 91
+2018-11-17 11:56:12 +0000,0,Bell,GA,Assist - 2nd Phase,2,21,17,14, 36
+2018-11-17 11:56:14 +0000,0,Bell,GA,Assist - Circle Entry,2,21,17,14, 36
+2018-11-17 11:56:14 +0000,0,Thwaites,GS,Possession,2,21,17,23, 6
+2018-11-17 11:56:15 +0000,0,Ravaillion,C,Possession,2,21,17,85, 15
+2018-11-17 11:56:19 +0000,1,Phillip,GA,Loss - Offside,2,21,17,69, 70
+2018-11-17 11:56:29 +0000,0,Robinson,WA,Possession,2,21,17,70, 64
+2018-11-17 11:56:36 +0000,0,Ravaillion,C,Possession,2,21,17,15, 34
+2018-11-17 11:56:38 +0000,0,Thwaites,GS,Possession,2,21,17,20, 21
+2018-11-17 11:56:41 +0000,0,Robinson,WA,Possession,2,21,17,41, 35
+2018-11-17 11:56:43 +0000,0,Robinson,WA,Assist - Circle Entry,2,21,17,41, 35
+2018-11-17 11:56:43 +0000,0,Bell,GA,Goal - Miss,2,21,17,43, 20
+2018-11-17 11:56:54 +0000,1,Weston,GD,Gain - Def Reb,2,21,17,47, 21
+2018-11-17 11:57:02 +0000,1,Moloney,C,Possession,2,21,17,64, 34
+2018-11-17 11:57:04 +0000,0,Ravaillion,C,Penaly - Contact,2,21,17,64, 34
+2018-11-17 11:57:04 +0000,1,Mannix,GK,Possession,2,21,17,64, 34
+2018-11-17 11:57:12 +0000,1,Ingles,WD,Possession,2,21,17,37, 55
+2018-11-17 11:57:13 +0000,1,Moloney,C,Possession,2,21,17,12, 90
+2018-11-17 11:57:15 +0000,1,Watson,WA,Possession,2,21,17,14, 111
+2018-11-17 11:57:19 +0000,1,Weston,GD,Possession,2,21,17,47, 92
+2018-11-17 11:57:21 +0000,1,Watson,WA,Possession,2,21,17,52, 122
+2018-11-17 11:57:23 +0000,1,Phillip,GA,Possession,2,21,17,24, 125
+2018-11-17 11:57:26 +0000,1,Weston,GD,Possession,2,21,17,30, 131
+2018-11-17 11:57:54 +0000,1,Kumwenda,GS,Possession,2,21,17,43, 161
+2018-11-17 11:57:57 +0000,1,Moloney,C,Possession,2,21,17,86, 191
+2018-11-17 11:57:59 +0000,1,Moloney,C,Assist - Circle Entry,2,21,17,86, 191
+2018-11-17 11:57:59 +0000,1,Kumwenda,GS,Goal - Score,2,21,17,44, 191
+2018-11-17 11:58:09 +0000,0,,UNKNOWN,Timeout,2,21,18,-10, -22
+2018-11-17 11:58:59 +0000,1,Moloney,C,Centre Pass,2,21,18,50, 100
+2018-11-17 11:58:59 +0000,1,Phillip,GA,Assist - Centre Pass Rec,2,21,18,81, 121
+2018-11-17 11:59:01 +0000,0,Brazill,WD,Penaly - Contact,2,21,18,81, 121
+2018-11-17 11:59:01 +0000,1,Ingles,WD,Possession,2,21,18,81, 121
+2018-11-17 11:59:04 +0000,1,Moloney,C,Possession,2,21,18,92, 144
+2018-11-17 11:59:13 +0000,1,Ingles,WD,Possession,2,21,18,77, 106
+2018-11-17 11:59:19 +0000,1,Watson,WA,Loss - Bad Pass,2,21,18,99, 126
+2018-11-17 11:59:26 +0000,0,Garrett,GD,Throw In,2,21,18,100, 126
+2018-11-17 11:59:36 +0000,0,Robinson,WA,Possession,2,21,18,21, 90
+2018-11-17 11:59:40 +0000,0,Garrett,GD,Possession,2,21,18,16, 75
+2018-11-17 11:59:42 +0000,0,Ravaillion,C,Possession,2,21,18,18, 51
+2018-11-17 11:59:50 +0000,0,Robinson,WA,Possession,2,21,18,36, 57
+2018-11-17 11:59:52 +0000,0,Thwaites,GS,Possession,2,21,18,82, 38
+2018-11-17 11:59:54 +0000,0,Thwaites,GS,Assist - Circle Entry,2,21,18,82, 38
+2018-11-17 11:59:54 +0000,0,Bell,GA,Possession,2,21,18,75, 16
+2018-11-17 11:59:57 +0000,0,Robinson,WA,Possession,2,21,18,20, 21
+2018-11-17 11:59:59 +0000,0,Robinson,WA,Assist - Circle Entry,2,21,18,20, 21
+2018-11-17 11:59:59 +0000,0,Thwaites,GS,Possession,2,21,18,42, 15
+2018-11-17 12:00:01 +0000,1,Mannix,GK,Penaly - Obstruction,2,21,18,42, 15
+2018-11-17 12:00:01 +0000,0,Thwaites,GS,Goal - Score,2,21,18,42, 15
+2018-11-17 12:00:17 +0000,0,Ravaillion,C,Centre Pass,2,22,18,50, 100
+2018-11-17 12:00:17 +0000,0,Brazill,WD,Assist - Centre Pass Rec,2,22,18,89, 91
+2018-11-17 12:00:19 +0000,0,Bell,GA,Assist - 2nd Phase,2,22,18,88, 23
+2018-11-17 12:00:20 +0000,1,Mannix,GK,Penaly - Contact,2,22,18,88, 23
+2018-11-17 12:00:20 +0000,0,Ravaillion,C,Possession,2,22,18,88, 23
+2018-11-17 12:00:28 +0000,1,Ingles,WD,Penaly - Contact,2,22,18,88, 23
+2018-11-17 12:00:28 +0000,0,Ravaillion,C,Possession,2,22,18,88, 23
+2018-11-17 12:00:32 +0000,0,Ravaillion,C,Assist - Circle Entry,2,22,18,88, 23
+2018-11-17 12:00:32 +0000,0,Bell,GA,Possession,2,22,18,62, 10
+2018-11-17 12:00:33 +0000,1,Weston,GD,Penaly - Obstruction,2,22,18,62, 10
+2018-11-17 12:00:33 +0000,0,Bell,GA,Possession,2,22,18,62, 10
+2018-11-17 12:00:41 +0000,1,Mannix,GK,Deflect,2,22,18,60, 4
+2018-11-17 12:00:41 +0000,0,Bell,GA,Throw In,2,22,18,62, -1
+2018-11-17 12:00:48 +0000,0,Robinson,WA,Possession,2,22,18,49, 36
+2018-11-17 12:00:55 +0000,0,Robinson,WA,Assist - Circle Entry,2,22,18,49, 36
+2018-11-17 12:00:55 +0000,0,Bell,GA,Goal - Score,2,22,18,51, 22
+2018-11-17 12:01:05 +0000,1,Moloney,C,Centre Pass,2,23,18,50, 100
+2018-11-17 12:01:05 +0000,1,Ingles,WD,Assist - Centre Pass Rec,2,23,18,75, 115
+2018-11-17 12:01:07 +0000,1,Watson,WA,Assist - 2nd Phase,2,23,18,96, 147
+2018-11-17 12:01:11 +0000,1,Watson,WA,Assist - Circle Entry,2,23,18,96, 147
+2018-11-17 12:01:11 +0000,0,Brandley,GK,Gain - Inter,2,23,18,57, 189
+2018-11-17 12:01:16 +0000,0,Brazill,WD,Possession,2,23,18,83, 183
+2018-11-17 12:01:19 +0000,0,Brandley,GK,Possession,2,23,18,16, 172
+2018-11-17 12:01:25 +0000,1,Watson,WA,Gain - Inter,2,23,18,25, 166
+2018-11-17 12:01:33 +0000,1,Watson,WA,Assist - Circle Entry,2,23,18,25, 166
+2018-11-17 12:01:33 +0000,1,Kumwenda,GS,Goal - Score,2,23,18,54, 191
+2018-11-17 12:01:44 +0000,0,Ravaillion,C,Centre Pass,2,23,19,50, 100
+2018-11-17 12:01:44 +0000,0,Bell,GA,Assist - Centre Pass Rec,2,23,19,71, 74
+2018-11-17 12:01:46 +0000,0,Robinson,WA,Assist - 2nd Phase,2,23,19,58, 72
+2018-11-17 12:01:48 +0000,0,Bell,GA,Possession,2,23,19,78, 47
+2018-11-17 12:01:50 +0000,0,Robinson,WA,Possession,2,23,19,92, 13
+2018-11-17 12:01:52 +0000,0,Robinson,WA,Assist - Circle Entry,2,23,19,92, 13
+2018-11-17 12:01:53 +0000,0,Thwaites,GS,Goal - Score,2,23,19,68, 8
+2018-11-17 12:02:02 +0000,1,Moloney,C,Centre Pass,2,24,19,50, 100
+2018-11-17 12:02:02 +0000,1,Phillip,GA,Assist - Centre Pass Rec,2,24,19,40, 119
+2018-11-17 12:02:04 +0000,1,Moloney,C,Assist - 2nd Phase,2,24,19,17, 123
+2018-11-17 12:02:06 +0000,1,Kumwenda,GS,Possession,2,24,19,17, 175
+2018-11-17 12:02:07 +0000,1,Watson,WA,Possession,2,24,19,25, 175
+2018-11-17 12:02:10 +0000,1,Watson,WA,Assist - Circle Entry,2,24,19,25, 175
+2018-11-17 12:02:10 +0000,1,Kumwenda,GS,Goal - Score,2,24,19,62, 193
+2018-11-17 12:02:19 +0000,0,Ravaillion,C,Centre Pass,2,24,20,50, 100
+2018-11-17 12:02:19 +0000,0,Robinson,WA,Assist - Centre Pass Rec,2,24,20,52, 82
+2018-11-17 12:02:21 +0000,0,Bell,GA,Assist - 2nd Phase,2,24,20,84, 38
+2018-11-17 12:02:24 +0000,1,Ingles,WD,Penaly - Contact,2,24,20,74, 30
+2018-11-17 12:02:24 +0000,0,Bell,GA,Possession,2,24,20,74, 30
+2018-11-17 12:02:29 +0000,0,Ravaillion,C,Possession,2,24,20,39, 34
+2018-11-17 12:02:31 +0000,0,Ravaillion,C,Assist - Circle Entry,2,24,20,39, 34
+2018-11-17 12:02:31 +0000,0,Thwaites,GS,Goal - Score,2,24,20,54, 8
+2018-11-17 12:02:36 +0000,1,Moloney,C,Centre Pass,2,25,20,50, 100
+2018-11-17 12:02:36 +0000,1,Weston,GD,Assist - Centre Pass Rec,2,25,20,14, 117
+2018-11-17 12:02:38 +0000,1,Kumwenda,GS,Assist - 2nd Phase,2,25,20,14, 185
+2018-11-17 12:02:40 +0000,1,Kumwenda,GS,Assist - Circle Entry,2,25,20,14, 185
+2018-11-17 12:02:40 +0000,1,Phillip,GA,Possession,2,25,20,27, 191
+2018-11-17 12:02:42 +0000,1,Moloney,C,Possession,2,25,20,87, 189
+2018-11-17 12:02:44 +0000,1,Moloney,C,Assist - Circle Entry,2,25,20,87, 189
+2018-11-17 12:02:44 +0000,1,Kumwenda,GS,Goal - Score,2,25,20,42, 192
+2018-11-17 12:02:53 +0000,0,Ravaillion,C,Centre Pass,2,25,21,50, 100
+2018-11-17 12:02:53 +0000,0,Bell,GA,Assist - Centre Pass Rec,2,25,21,82, 76
+2018-11-17 12:02:56 +0000,0,Ravaillion,C,Assist - 2nd Phase,2,25,21,86, 53
+2018-11-17 12:02:59 +0000,0,Brazill,WD,Possession,2,25,21,72, 72
+2018-11-17 12:03:04 +0000,0,Robinson,WA,Possession,2,25,21,89, 41
+2018-11-17 12:03:10 +0000,0,Ravaillion,C,Possession,2,25,21,84, 18
+2018-11-17 12:03:12 +0000,1,Ingles,WD,Penaly - Obstruction,2,25,21,84, 18
+2018-11-17 12:03:12 +0000,0,Ravaillion,C,Possession,2,25,21,84, 18
+2018-11-17 12:03:21 +0000,0,Ravaillion,C,Assist - Circle Entry,2,25,21,84, 18
+2018-11-17 12:03:21 +0000,0,Bell,GA,Possession,2,25,21,61, 9
+2018-11-17 12:03:23 +0000,1,Weston,GD,Penaly - Obstruction,2,25,21,61, 9
+2018-11-17 12:03:24 +0000,0,Bell,GA,Goal - Miss,2,25,21,61, 9
+2018-11-17 12:03:30 +0000,0,Bell,GA,Assist - Attack Rebound,2,25,21,50, 2
+2018-11-17 12:03:32 +0000,0,Bell,GA,Goal - Score,2,25,21,61, 9
+2018-11-17 12:03:41 +0000,1,Moloney,C,Centre Pass,2,26,21,50, 100
+2018-11-17 12:03:41 +0000,1,Weston,GD,Assist - Centre Pass Rec,2,26,21,13, 107
+2018-11-17 12:03:43 +0000,1,Watson,WA,Assist - 2nd Phase,2,26,21,47, 122
+2018-11-17 12:03:45 +0000,1,Moloney,C,Possession,2,26,21,18, 141
+2018-11-17 12:03:47 +0000,1,Moloney,C,Assist - Circle Entry,2,26,21,18, 141
+2018-11-17 12:03:48 +0000,1,Kumwenda,GS,Possession,2,26,21,21, 188
+2018-11-17 12:03:49 +0000,1,Moloney,C,Possession,2,26,21,28, 174
+2018-11-17 12:03:52 +0000,0,Brandley,GK,Deflect,2,26,21,34, 195
+2018-11-17 12:03:52 +0000,1,Phillip,GA,Throw In,2,26,21,33, 205
+2018-11-17 12:04:35 +0000,1,Moloney,C,Possession,2,26,21,18, 189
+2018-11-17 12:04:38 +0000,0,Brazill,WD,Penaly - Contact,2,26,21,18, 189
+2018-11-17 12:04:38 +0000,1,Moloney,C,Possession,2,26,21,18, 189
+2018-11-17 12:04:44 +0000,1,Moloney,C,Assist - Circle Entry,2,26,21,18, 189
+2018-11-17 12:04:44 +0000,1,Phillip,GA,Possession,2,26,21,33, 189
+2018-11-17 12:04:46 +0000,0,Brandley,GK,Penaly - Contact,2,26,21,33, 189
+2018-11-17 12:04:46 +0000,1,Phillip,GA,Goal - Score,2,26,21,33, 189
+2018-11-17 12:05:03 +0000,0,Ravaillion,C,Centre Pass,2,26,22,50, 100
+2018-11-17 12:05:03 +0000,0,Brazill,WD,Assist - Centre Pass Rec,2,26,22,82, 99
+2018-11-17 12:05:08 +0000,1,Watson,WA,Gain - Inter,2,26,22,79, 93
+2018-11-17 12:05:13 +0000,1,Moloney,C,Possession,2,26,22,64, 99
+2018-11-17 12:05:15 +0000,1,Watson,WA,Possession,2,26,22,67, 119
+2018-11-17 12:05:17 +0000,0,Robinson,WA,Penaly - Contact,2,26,22,67, 119
+2018-11-17 12:05:17 +0000,1,Ingles,WD,Possession,2,26,22,67, 119
+2018-11-17 12:05:34 +0000,1,Watson,WA,Possession,2,26,22,82, 131
+2018-11-17 12:05:40 +0000,1,Moloney,C,Possession,2,26,22,69, 159
+2018-11-17 12:05:44 +0000,1,Moloney,C,Assist - Circle Entry,2,26,22,69, 159
+2018-11-17 12:05:44 +0000,1,Kumwenda,GS,Goal - Score,2,26,22,66, 191
+2018-11-17 12:05:54 +0000,1,Moloney,C,Centre Pass,2,26,23,50, 100
+2018-11-17 12:05:55 +0000,1,Watson,WA,Assist - Centre Pass Rec,2,26,23,50, 124
+2018-11-17 12:05:56 +0000,1,Phillip,GA,Assist - 2nd Phase,2,26,23,75, 151
+2018-11-17 12:06:11 +0000,0,Brazill,WD,Loss - Offside,2,26,23,27, 174
+2018-11-17 12:06:17 +0000,1,Phillip,GA,Possession,2,26,23,28, 175
+2018-11-17 12:06:21 +0000,0,Brazill,WD,Gain - Inter,2,26,23,19, 181
+2018-11-17 12:06:32 +0000,0,Brandley,GK,Possession,2,26,23,45, 184
+2018-11-17 12:06:34 +0000,0,Garrett,GD,Possession,2,26,23,28, 128
+2018-11-17 12:06:37 +0000,0,Robinson,WA,Possession,2,26,23,21, 109
+2018-11-17 12:06:40 +0000,0,Brazill,WD,Possession,2,26,23,12, 77
+2018-11-17 12:06:43 +0000,1,Watson,WA,Penaly - Obstruction,2,26,23,12, 77
+2018-11-17 12:06:43 +0000,0,Brazill,WD,Possession,2,26,23,12, 77
+2018-11-17 12:06:50 +0000,0,Robinson,WA,Possession,2,26,23,23, 48
+2018-11-17 12:06:52 +0000,0,Ravaillion,C,Possession,2,26,23,84, 16
+2018-11-17 12:07:01 +0000,1,Weston,GD,Penaly - Contact,2,26,23,48, 26
+2018-11-17 12:07:01 +0000,0,Bell,GA,Goal - Miss,2,26,23,48, 26
+2018-11-17 12:07:22 +0000,1,Moloney,C,Loss - Offside,2,26,23,75, 24
+2018-11-17 12:07:48 +0000,0,Bell,GA,Possession,2,26,23,74, 24
+2018-11-17 12:07:58 +0000,0,Bell,GA,Assist - Circle Entry,2,26,23,74, 24
+2018-11-17 12:07:58 +0000,0,Thwaites,GS,Possession,2,26,23,46, 12
+2018-11-17 12:08:00 +0000,1,Mannix,GK,Penaly - Contact,2,26,23,46, 12
+2018-11-17 12:08:00 +0000,0,Thwaites,GS,Possession,2,26,23,46, 12
+2018-11-17 12:08:03 +0000,1,Weston,GD,Penaly - Obstruction,2,26,23,46, 12
+2018-11-17 12:08:03 +0000,0,Thwaites,GS,Goal - Score,2,26,23,46, 12
+2018-11-17 12:08:19 +0000,0,Ravaillion,C,Centre Pass,2,27,23,50, 100
+2018-11-17 12:08:19 +0000,0,Robinson,WA,Assist - Centre Pass Rec,2,27,23,62, 72
+2018-11-17 12:08:21 +0000,0,Bell,GA,Assist - 2nd Phase,2,27,23,81, 20
+2018-11-17 12:08:25 +0000,0,Bell,GA,Assist - Circle Entry,2,27,23,81, 20
+2018-11-17 12:08:25 +0000,0,Thwaites,GS,Possession,2,27,23,45, 7
+2018-11-17 12:08:25 +0000,1,Weston,GD,Penaly - Contact,2,27,23,45, 7
+2018-11-17 12:08:26 +0000,0,Thwaites,GS,Goal - Score,2,27,23,45, 7
+2018-11-17 12:08:34 +0000,1,Moloney,C,Centre Pass,2,28,23,50, 100
+2018-11-17 12:08:34 +0000,1,Phillip,GA,Assist - Centre Pass Rec,2,28,23,25, 122
+2018-11-17 12:08:36 +0000,1,Moloney,C,Assist - 2nd Phase,2,28,23,46, 128
+2018-11-17 12:08:38 +0000,1,Watson,WA,Possession,2,28,23,51, 140
+2018-11-17 12:08:39 +0000,1,Phillip,GA,Possession,2,28,23,24, 170
+2018-11-17 12:08:42 +0000,1,Watson,WA,Possession,2,28,23,19, 183
+2018-11-17 12:08:44 +0000,1,Watson,WA,Assist - Circle Entry,2,28,23,19, 183
+2018-11-17 12:08:44 +0000,1,Kumwenda,GS,Goal - Score,2,28,23,56, 195
+2018-11-17 12:08:53 +0000,0,Ravaillion,C,Centre Pass,2,28,24,50, 100
+2018-11-17 12:08:53 +0000,0,Robinson,WA,Assist - Centre Pass Rec,2,28,24,67, 83
+2018-11-17 12:08:55 +0000,0,Bell,GA,Assist - 2nd Phase,2,28,24,83, 53
+2018-11-17 12:08:58 +0000,0,Bell,GA,Assist - Circle Entry,2,28,24,83, 53
+2018-11-17 12:08:58 +0000,0,Thwaites,GS,Possession,2,28,24,49, 27
+2018-11-17 12:08:59 +0000,0,Robinson,WA,Possession,2,28,24,35, 34
+2018-11-17 12:09:02 +0000,0,Robinson,WA,Assist - Circle Entry,2,28,24,35, 34
+2018-11-17 12:09:02 +0000,0,Bell,GA,Possession,2,28,24,53, 26
+2018-11-17 12:09:04 +0000,0,Thwaites,GS,Goal - Score,2,28,24,47, 9
+2018-11-17 12:09:11 +0000,1,Moloney,C,Centre Pass,2,29,24,50, 100
+2018-11-17 12:09:11 +0000,1,Phillip,GA,Assist - Centre Pass Rec,2,29,24,82, 127
+2018-11-17 12:09:13 +0000,1,Moloney,C,Assist - 2nd Phase,2,29,24,71, 132
+2018-11-17 12:09:14 +0000,1,Watson,WA,Possession,2,29,24,59, 139
+2018-11-17 12:09:17 +0000,1,Moloney,C,Possession,2,29,24,76, 151
+2018-11-17 12:09:18 +0000,1,Watson,WA,Possession,2,29,24,59, 157
+2018-11-17 12:09:20 +0000,0,Ravaillion,C,Penaly - Contact,2,29,24,59, 157
+2018-11-17 12:09:20 +0000,1,Watson,WA,Possession,2,29,24,59, 157
+2018-11-17 12:09:26 +0000,1,Watson,WA,Assist - Circle Entry,2,29,24,59, 157
+2018-11-17 12:09:26 +0000,1,Kumwenda,GS,Goal - Score,2,29,24,49, 193
+2018-11-17 12:09:38 +0000,0,Ravaillion,C,Centre Pass,2,29,25,50, 100
+2018-11-17 12:09:38 +0000,0,Robinson,WA,Assist - Centre Pass Rec,2,29,25,27, 84
+2018-11-17 12:09:40 +0000,0,Brazill,WD,Assist - 2nd Phase,2,29,25,37, 102
+2018-11-17 12:09:42 +0000,0,Robinson,WA,Possession,2,29,25,14, 81
+2018-11-17 12:09:44 +0000,0,Ravaillion,C,Possession,2,29,25,38, 75
+2018-11-17 12:09:46 +0000,0,Robinson,WA,Possession,2,29,25,30, 52
+2018-11-17 12:09:48 +0000,0,Bell,GA,Possession,2,29,25,72, 53
+2018-11-17 12:09:50 +0000,0,Robinson,WA,Possession,2,29,25,52, 44
+2018-11-17 12:09:52 +0000,0,Robinson,WA,Assist - Circle Entry,2,29,25,52, 44
+2018-11-17 12:09:52 +0000,0,Thwaites,GS,Goal - Score,2,29,25,44, 6
+2018-11-17 12:10:10 +0000,1,Moloney,C,Centre Pass,2,30,25,50, 100
+2018-11-17 12:10:10 +0000,1,Ingles,WD,Assist - Centre Pass Rec,2,30,25,38, 113
+2018-11-17 12:10:14 +0000,0,Robinson,WA,Penaly - Obstruction,2,30,25,38, 113
+2018-11-17 12:10:14 +0000,1,Ingles,WD,Possession,2,30,25,38, 113
+2018-11-17 12:10:19 +0000,1,Watson,WA,Possession,2,30,25,77, 122
+2018-11-17 12:10:21 +0000,1,Phillip,GA,Possession,2,30,25,63, 139
+2018-11-17 12:10:25 +0000,1,Watson,WA,Loss - Drop,2,30,25,76, 154
+2018-11-17 12:10:59 +0000,0,Brazill,WD,Possession,2,30,25,80, 155
+2018-11-17 12:11:01 +0000,1,Watson,WA,Penaly - Contact,2,30,25,80, 155
+2018-11-17 12:11:01 +0000,0,Brazill,WD,Possession,2,30,25,80, 155
+2018-11-17 12:11:13 +0000,0,Brandley,GK,Possession,2,30,25,71, 139
+2018-11-17 12:11:15 +0000,0,Brazill,WD,Possession,2,30,25,58, 128
+2018-11-17 12:11:19 +0000,0,Ravaillion,C,Possession,2,30,25,13, 54
+2018-11-17 12:11:21 +0000,0,Brazill,WD,Possession,2,30,25,42, 72
+2018-11-17 12:11:23 +0000,0,Bell,GA,Possession,2,30,25,63, 62
+2018-11-17 12:11:26 +0000,0,Robinson,WA,Possession,2,30,25,83, 16
+2018-11-17 12:11:29 +0000,0,Robinson,WA,Assist - Circle Entry,2,30,25,83, 16
+2018-11-17 12:11:29 +0000,0,Thwaites,GS,Goal - Score,2,30,25,60, 14
+2018-11-17 12:11:38 +0000,0,Ravaillion,C,Centre Pass,2,31,25,50, 100
+2018-11-17 12:11:38 +0000,0,Bell,GA,Assist - Centre Pass Rec,2,31,25,44, 82
+2018-11-17 12:11:41 +0000,0,Bell,GA,Assist - Circle Entry,2,31,25,44, 82
+2018-11-17 12:11:41 +0000,0,Thwaites,GS,Possession,2,31,25,71, 21
+2018-11-17 12:11:44 +0000,0,Garrett,GD,Possession,2,31,25,88, 72
+2018-11-17 12:11:46 +0000,1,Phillip,GA,Penaly - Contact,2,31,25,88, 72
+2018-11-17 12:11:46 +0000,0,Garrett,GD,Possession,2,31,25,88, 72
+2018-11-17 12:11:49 +0000,0,Ravaillion,C,Possession,2,31,25,62, 39
+2018-11-17 12:11:53 +0000,0,Ravaillion,C,Assist - Circle Entry,2,31,25,62, 39
+2018-11-17 12:11:54 +0000,0,Bell,GA,Possession,2,31,25,56, 28
+2018-11-17 12:11:56 +0000,1,Weston,GD,Penaly - Contact,2,31,25,56, 28
+2018-11-17 12:11:56 +0000,0,Bell,GA,Possession,2,31,25,56, 28
+2018-11-17 12:11:59 +0000,0,Thwaites,GS,Goal - Score,2,31,25,55, 7
+2018-11-17 12:12:06 +0000,1,Moloney,C,Centre Pass,2,32,25,50, 100
+2018-11-17 12:12:06 +0000,1,Weston,GD,Assist - Centre Pass Rec,2,32,25,16, 93
+2018-11-17 12:12:08 +0000,1,Moloney,C,Assist - 2nd Phase,2,32,25,9, 108
+2018-11-17 12:12:49 +0000,0,Brazill,WD,Deflect,2,32,25,14, 118
+2018-11-17 12:12:49 +0000,1,Weston,GD,Possession,2,32,25,14, 88
+2018-11-17 12:12:55 +0000,1,Watson,WA,Possession,2,32,25,9, 106
+2018-11-17 12:12:58 +0000,1,Phillip,GA,Possession,2,32,25,16, 128
+2018-11-17 12:13:00 +0000,1,Ingles,WD,Possession,2,32,25,31, 129
+2018-11-17 12:13:02 +0000,1,Watson,WA,Possession,2,32,25,25, 140
+2018-11-17 12:13:06 +0000,1,Phillip,GA,Possession,2,32,25,23, 175
+2018-11-17 12:13:08 +0000,1,Watson,WA,Possession,2,32,25,28, 172
+2018-11-17 12:13:10 +0000,1,Watson,WA,Assist - Circle Entry,2,32,25,28, 172
+2018-11-17 12:13:10 +0000,1,Kumwenda,GS,Goal - Score,2,32,25,56, 192
+2018-11-17 12:13:17 +0000,0,Ravaillion,C,Centre Pass,2,32,26,50, 100
+2018-11-17 12:13:17 +0000,0,Brazill,WD,Loss - Bad Pass,2,32,26,87, 83
+2018-11-17 12:13:22 +0000,1,Mannix,GK,Throw In,2,32,26,97, -3
+2018-11-17 12:13:28 +0000,1,Weston,GD,Possession,2,32,26,55, 27
+2018-11-17 12:13:29 +0000,1,Moloney,C,Possession,2,32,26,20, 59
+2018-11-17 12:13:31 +0000,1,Weston,GD,Possession,2,32,26,46, 62
+2018-11-17 12:13:33 +0000,0,Bell,GA,Penaly - Contact,2,32,26,46, 62
+2018-11-17 12:13:33 +0000,1,Weston,GD,Possession,2,32,26,46, 62
+2018-11-17 12:13:38 +0000,1,Watson,WA,Possession,2,32,26,20, 84
+2018-11-17 12:13:42 +0000,1,Ingles,WD,Possession,2,32,26,72, 103
+2018-11-17 12:13:45 +0000,1,Watson,WA,Possession,2,32,26,67, 124
+2018-11-17 12:13:48 +0000,1,Phillip,GA,Possession,2,32,26,47, 148
+2018-11-17 12:13:50 +0000,1,Watson,WA,Possession,2,32,26,43, 160
+2018-11-17 12:13:53 +0000,1,Watson,WA,Assist - Circle Entry,2,32,26,43, 160
+2018-11-17 12:13:53 +0000,1,Kumwenda,GS,Possession,2,32,26,67, 194
+2018-11-17 12:13:55 +0000,0,Garrett,GD,Penaly - Contact,2,32,26,67, 194
+2018-11-17 12:13:55 +0000,1,Kumwenda,GS,Goal - Score,2,32,26,67, 194
+2018-11-17 12:14:06 +0000,1,Moloney,C,Centre Pass,2,32,27,50, 100
+2018-11-17 12:14:06 +0000,1,Phillip,GA,Assist - Centre Pass Rec,2,32,27,90, 119
+2018-11-17 12:14:08 +0000,1,Moloney,C,Assist - 2nd Phase,2,32,27,74, 138
+2018-11-17 12:14:12 +0000,0,Brandley,GK,Penaly - Contact,2,32,27,51, 162
+2018-11-17 12:14:12 +0000,1,Moloney,C,Possession,2,32,27,51, 162
+2018-11-17 12:14:19 +0000,1,Moloney,C,Assist - Circle Entry,2,32,27,51, 162
+2018-11-17 12:14:19 +0000,1,Phillip,GA,Possession,2,32,27,52, 185
+2018-11-17 12:14:22 +0000,0,Garrett,GD,Penaly - Obstruction,2,32,27,52, 185
+2018-11-17 12:14:22 +0000,1,Phillip,GA,Goal - Score,2,32,27,52, 185
+2018-11-17 12:14:31 +0000,0,Ravaillion,C,Centre Pass,2,32,28,50, 100
+2018-11-17 12:14:31 +0000,0,Robinson,WA,Assist - Centre Pass Rec,2,32,28,80, 76
+2018-11-17 12:14:35 +0000,1,Phillip,GA,Deflect,2,32,28,59, 84
+2018-11-17 12:14:35 +0000,0,Robinson,WA,Possession,2,32,28,85, 101
+2018-11-17 12:14:40 +0000,0,Ravaillion,C,Possession,2,32,28,60, 88
+2018-11-17 12:14:42 +0000,0,Bell,GA,Possession,2,32,28,38, 54
+2018-11-17 12:14:44 +0000,0,Bell,GA,Assist - Circle Entry,2,32,28,38, 54
+2018-11-17 12:14:44 +0000,0,Thwaites,GS,Goal - Score,2,32,28,45, 9
+2018-11-17 12:15:26 +0000,1,Moloney,C,Centre Pass,3,33,28,50, 100
+2018-11-17 12:15:26 +0000,0,Brazill,WD,Penaly - Contact on CP,3,33,28,53, 115
+2018-11-17 12:15:26 +0000,1,Ingles,WD,Possession,3,33,28,53, 115
+2018-11-17 12:15:32 +0000,1,Moloney,C,Assist - 2nd Phase,3,33,28,8, 129
+2018-11-17 12:15:35 +0000,1,Phillip,GA,Possession,3,33,28,25, 154
+2018-11-17 12:15:41 +0000,1,Moloney,C,Possession,3,33,28,13, 172
+2018-11-17 12:15:43 +0000,1,Moloney,C,Assist - Circle Entry,3,33,28,13, 172
+2018-11-17 12:15:43 +0000,1,Phillip,GA,Possession,3,33,28,26, 193
+2018-11-17 12:15:46 +0000,1,Moloney,C,Possession,3,33,28,17, 181
+2018-11-17 12:15:51 +0000,1,Moloney,C,Assist - Circle Entry,3,33,28,17, 181
+2018-11-17 12:15:51 +0000,1,Kumwenda,GS,Possession,3,33,28,57, 182
+2018-11-17 12:15:52 +0000,0,Brandley,GK,Penaly - Contact,3,33,28,57, 182
+2018-11-17 12:15:52 +0000,1,Phillip,GA,Goal - Score,3,33,28,57, 182
+2018-11-17 12:16:09 +0000,0,Ravaillion,C,Centre Pass,3,33,29,50, 100
+2018-11-17 12:16:09 +0000,0,Bell,GA,Assist - Centre Pass Rec,3,33,29,7, 77
+2018-11-17 12:16:10 +0000,0,Robinson,WA,Assist - 2nd Phase,3,33,29,84, 41
+2018-11-17 12:16:13 +0000,0,Robinson,WA,Assist - Circle Entry,3,33,29,84, 41
+2018-11-17 12:16:13 +0000,0,Thwaites,GS,Possession,3,33,29,23, 9
+2018-11-17 12:16:15 +0000,1,Mannix,GK,Penaly - Contact,3,33,29,23, 9
+2018-11-17 12:16:15 +0000,0,Thwaites,GS,Goal - Miss,3,33,29,23, 9
+2018-11-17 12:16:22 +0000,0,Thwaites,GS,Assist - Attack Rebound,3,33,29,50, 2
+2018-11-17 12:16:23 +0000,0,Thwaites,GS,Goal - Score,3,33,29,23, 9
+2018-11-17 12:16:28 +0000,1,Moloney,C,Centre Pass,3,34,29,50, 100
+2018-11-17 12:16:28 +0000,1,Phillip,GA,Assist - Centre Pass Rec,3,34,29,42, 122
+2018-11-17 12:16:30 +0000,1,Watson,WA,Assist - 2nd Phase,3,34,29,59, 124
+2018-11-17 12:16:32 +0000,1,Kumwenda,GS,Possession,3,34,29,77, 167
+2018-11-17 12:16:34 +0000,1,Watson,WA,Possession,3,34,29,67, 167
+2018-11-17 12:16:36 +0000,1,Watson,WA,Assist - Circle Entry,3,34,29,67, 167
+2018-11-17 12:16:36 +0000,1,Phillip,GA,Possession,3,34,29,61, 177
+2018-11-17 12:16:38 +0000,1,Kumwenda,GS,Goal - Score,3,34,29,47, 191
+2018-11-17 12:16:49 +0000,0,Ravaillion,C,Centre Pass,3,34,30,50, 100
+2018-11-17 12:16:49 +0000,0,Brazill,WD,Assist - Centre Pass Rec,3,34,30,15, 81
+2018-11-17 12:16:51 +0000,0,Ravaillion,C,Assist - 2nd Phase,3,34,30,44, 75
+2018-11-17 12:16:54 +0000,0,Bell,GA,Possession,3,34,30,56, 68
+2018-11-17 12:16:56 +0000,0,Robinson,WA,Possession,3,34,30,75, 51
+2018-11-17 12:16:58 +0000,0,Robinson,WA,Assist - Circle Entry,3,34,30,75, 51
+2018-11-17 12:16:58 +0000,0,Thwaites,GS,Possession,3,34,30,73, 21
+2018-11-17 12:17:00 +0000,0,Robinson,WA,Possession,3,34,30,65, 31
+2018-11-17 12:17:02 +0000,0,Ravaillion,C,Possession,3,34,30,19, 19
+2018-11-17 12:17:03 +0000,0,Ravaillion,C,Assist - Circle Entry,3,34,30,19, 19
+2018-11-17 12:17:04 +0000,0,Thwaites,GS,Possession,3,34,30,28, 3
+2018-11-17 12:17:06 +0000,0,Ravaillion,C,Possession,3,34,30,19, 19
+2018-11-17 12:17:08 +0000,0,Ravaillion,C,Assist - Circle Entry,3,34,30,19, 19
+2018-11-17 12:17:08 +0000,0,Thwaites,GS,Goal - Score,3,34,30,53, 10
+2018-11-17 12:17:13 +0000,1,Moloney,C,Centre Pass,3,35,30,50, 100
+2018-11-17 12:17:13 +0000,1,Phillip,GA,Assist - Centre Pass Rec,3,35,30,70, 124
+2018-11-17 12:17:15 +0000,1,Watson,WA,Assist - 2nd Phase,3,35,30,80, 167
+2018-11-17 12:17:17 +0000,1,Watson,WA,Assist - Circle Entry,3,35,30,80, 167
+2018-11-17 12:17:17 +0000,1,Kumwenda,GS,Goal - Score,3,35,30,56, 189
+2018-11-17 12:17:30 +0000,0,Ravaillion,C,Centre Pass,3,35,31,50, 100
+2018-11-17 12:17:30 +0000,0,Bell,GA,Assist - Centre Pass Rec,3,35,31,78, 77
+2018-11-17 12:17:32 +0000,1,Weston,GD,Deflect,3,35,31,71, 82
+2018-11-17 12:17:32 +0000,0,Garrett,GD,Possession,3,35,31,76, 106
+2018-11-17 12:17:43 +0000,1,Weston,GD,Penaly - Contact,3,35,31,76, 106
+2018-11-17 12:17:44 +0000,0,Garrett,GD,Possession,3,35,31,76, 106
+2018-11-17 12:17:49 +0000,0,Robinson,WA,Possession,3,35,31,45, 77
+2018-11-17 12:17:51 +0000,0,Robinson,WA,Assist - Circle Entry,3,35,31,45, 77
+2018-11-17 12:17:51 +0000,0,Thwaites,GS,Assist - 2nd Phase,3,35,31,36, 6
+2018-11-17 12:18:07 +0000,0,Bell,GA,Loss - Other,3,35,31,48, 3
+2018-11-17 12:20:19 +0000,1,Mannix,GK,Possession,3,35,31,48, 2
+2018-11-17 12:20:26 +0000,1,Weston,GD,Possession,3,35,31,18, 20
+2018-11-17 12:20:28 +0000,1,Ingles,WD,Possession,3,35,31,10, 56
+2018-11-17 12:20:30 +0000,1,Moloney,C,Possession,3,35,31,14, 91
+2018-11-17 12:20:32 +0000,1,Phillip,GA,Possession,3,35,31,13, 127
+2018-11-17 12:20:34 +0000,1,Weston,GD,Possession,3,35,31,21, 111
+2018-11-17 12:20:36 +0000,1,Kumwenda,GS,Possession,3,35,31,15, 140
+2018-11-17 12:20:45 +0000,0,Garrett,GD,Deflect,3,35,31,80, 167
+2018-11-17 12:20:45 +0000,1,Moloney,C,Throw In,3,35,31,104, 150
+2018-11-17 12:20:57 +0000,1,Ingles,WD,Possession,3,35,31,84, 128
+2018-11-17 12:20:59 +0000,0,Ravaillion,C,Penaly - Contact,3,35,31,65, 152
+2018-11-17 12:21:00 +0000,1,Moloney,C,Possession,3,35,31,65, 152
+2018-11-17 12:21:03 +0000,1,Moloney,C,Assist - Circle Entry,3,35,31,65, 152
+2018-11-17 12:21:03 +0000,1,Kumwenda,GS,Possession,3,35,31,56, 178
+2018-11-17 12:21:07 +0000,0,Garrett,GD,Penaly - Contact,3,35,31,56, 178
+2018-11-17 12:21:07 +0000,1,Kumwenda,GS,Goal - Score,3,35,31,56, 178
+2018-11-17 12:21:46 +0000,1,Moloney,C,Centre Pass,3,35,32,50, 100
+2018-11-17 12:21:46 +0000,1,Phillip,GA,Assist - Centre Pass Rec,3,35,32,68, 108
+2018-11-17 12:21:48 +0000,1,Moloney,C,Assist - 2nd Phase,3,35,32,74, 149
+2018-11-17 12:21:50 +0000,1,Kumwenda,GS,Possession,3,35,32,46, 155
+2018-11-17 12:21:52 +0000,1,Moloney,C,Possession,3,35,32,54, 161
+2018-11-17 12:21:54 +0000,1,Moloney,C,Assist - Circle Entry,3,35,32,54, 161
+2018-11-17 12:21:54 +0000,1,Kumwenda,GS,Goal - Score,3,35,32,50, 176
+2018-11-17 12:22:01 +0000,0,Ravaillion,C,Centre Pass,3,35,33,50, 100
+2018-11-17 12:22:01 +0000,0,Robinson,WA,Loss - Held Ball,3,35,33,68, 80
+2018-11-17 12:22:10 +0000,1,Watson,WA,Possession,3,35,33,72, 79
+2018-11-17 12:22:12 +0000,1,Phillip,GA,Possession,3,35,33,71, 160
+2018-11-17 12:22:14 +0000,1,Moloney,C,Possession,3,35,33,69, 168
+2018-11-17 12:22:17 +0000,1,Moloney,C,Assist - Circle Entry,3,35,33,69, 168
+2018-11-17 12:22:17 +0000,1,Phillip,GA,Goal - Score,3,35,33,56, 188
+2018-11-17 12:22:25 +0000,0,,UNKNOWN,Timeout,3,35,34,110, 222
+2018-11-17 12:27:37 +0000,1,Moloney,C,Centre Pass,3,35,34,50, 100
+2018-11-17 12:27:37 +0000,1,Phillip,GA,Assist - Centre Pass Rec,3,35,34,21, 115
+2018-11-17 12:27:43 +0000,1,Moloney,C,Assist - 2nd Phase,3,35,34,30, 126
+2018-11-17 12:27:45 +0000,1,Phillip,GA,Possession,3,35,34,14, 167
+2018-11-17 12:27:48 +0000,1,Moloney,C,Possession,3,35,34,30, 163
+2018-11-17 12:27:50 +0000,0,Ravaillion,C,Penaly - Contact,3,35,34,30, 163
+2018-11-17 12:27:50 +0000,1,Moloney,C,Possession,3,35,34,30, 163
+2018-11-17 12:27:54 +0000,1,Moloney,C,Assist - Circle Entry,3,35,34,30, 163
+2018-11-17 12:27:54 +0000,1,Phillip,GA,Goal - Score,3,35,34,42, 183
+2018-11-17 12:28:00 +0000,0,Ravaillion,C,Centre Pass,3,35,35,50, 100
+2018-11-17 12:28:00 +0000,1,,UNKNOWN,Penaly - Contact on CP,3,35,35,45, 73
+2018-11-17 12:28:00 +0000,0,Garrett,GD,Possession,3,35,35,45, 73
+2018-11-17 12:28:05 +0000,0,Robinson,WA,Assist - 2nd Phase,3,35,35,81, 27
+2018-11-17 12:28:07 +0000,0,Robinson,WA,Assist - Circle Entry,3,35,35,81, 27
+2018-11-17 12:28:07 +0000,0,Thwaites,GS,Goal - Score,3,35,35,59, 3
+2018-11-17 12:28:17 +0000,1,Moloney,C,Centre Pass,3,36,35,50, 100
+2018-11-17 12:28:17 +0000,1,Watson,WA,Assist - Centre Pass Rec,3,36,35,68, 114
+2018-11-17 12:28:18 +0000,1,Moloney,C,Assist - 2nd Phase,3,36,35,60, 127
+2018-11-17 12:28:21 +0000,1,Kumwenda,GS,Possession,3,36,35,59, 154
+2018-11-17 12:28:24 +0000,0,Ravaillion,C,Penaly - Contact,3,36,35,46, 162
+2018-11-17 12:28:24 +0000,1,Watson,WA,Possession,3,36,35,46, 162
+2018-11-17 12:28:31 +0000,1,Watson,WA,Assist - Circle Entry,3,36,35,46, 162
+2018-11-17 12:28:31 +0000,1,Phillip,GA,Goal - Score,3,36,35,37, 190
+2018-11-17 12:28:39 +0000,0,Ravaillion,C,Centre Pass,3,36,36,50, 100
+2018-11-17 12:28:39 +0000,0,Robinson,WA,Assist - Centre Pass Rec,3,36,36,16, 81
+2018-11-17 12:28:41 +0000,0,Bell,GA,Assist - 2nd Phase,3,36,36,17, 47
+2018-11-17 12:28:44 +0000,0,Bell,GA,Assist - Circle Entry,3,36,36,17, 47
+2018-11-17 12:28:44 +0000,0,Thwaites,GS,Goal - Score,3,36,36,38, 7
+2018-11-17 12:28:54 +0000,1,Moloney,C,Centre Pass,3,37,36,50, 100
+2018-11-17 12:28:54 +0000,0,Brazill,WD,Penaly - Contact on CP,3,37,36,17, 125
+2018-11-17 12:28:54 +0000,1,Ingles,WD,Possession,3,37,36,17, 125
+2018-11-17 12:29:02 +0000,1,Moloney,C,Assist - 2nd Phase,3,37,36,64, 140
+2018-11-17 12:29:04 +0000,1,Phillip,GA,Possession,3,37,36,58, 165
+2018-11-17 12:29:06 +0000,1,Moloney,C,Possession,3,37,36,65, 160
+2018-11-17 12:29:14 +0000,1,Moloney,C,Assist - Circle Entry,3,37,36,65, 160
+2018-11-17 12:29:14 +0000,1,Phillip,GA,Goal - Score,3,37,36,53, 179
+2018-11-17 12:29:27 +0000,0,Ravaillion,C,Centre Pass,3,37,37,50, 100
+2018-11-17 12:29:27 +0000,0,Bell,GA,Assist - Centre Pass Rec,3,37,37,81, 82
+2018-11-17 12:29:29 +0000,0,Ravaillion,C,Assist - 2nd Phase,3,37,37,45, 70
+2018-11-17 12:29:31 +0000,0,Robinson,WA,Possession,3,37,37,26, 34
+2018-11-17 12:29:33 +0000,0,Robinson,WA,Assist - Circle Entry,3,37,37,26, 34
+2018-11-17 12:29:34 +0000,0,Bell,GA,Possession,3,37,37,70, 11
+2018-11-17 12:29:38 +0000,1,Ingles,WD,Gain - Inter,3,37,37,51, 37
+2018-11-17 12:29:51 +0000,0,Robinson,WA,Penaly - Contact,3,37,37,51, 37
+2018-11-17 12:30:11 +0000,1,Mannix,GK,Possession,3,37,37,52, 37
+2018-11-17 12:30:15 +0000,1,Weston,GD,Possession,3,37,37,90, 67
+2018-11-17 12:30:17 +0000,0,Bell,GA,Penaly - Contact,3,37,37,90, 67
+2018-11-17 12:30:17 +0000,1,Weston,GD,Possession,3,37,37,90, 67
+2018-11-17 12:30:22 +0000,1,Moloney,C,Possession,3,37,37,89, 97
+2018-11-17 12:30:24 +0000,1,Weston,GD,Possession,3,37,37,66, 108
+2018-11-17 12:30:26 +0000,1,Phillip,GA,Possession,3,37,37,67, 120
+2018-11-17 12:30:29 +0000,1,Kumwenda,GS,Loss - Drop,3,37,37,16, 148
+2018-11-17 12:30:31 +0000,0,Brandley,GK,Throw In,3,37,37,-6, 144
+2018-11-17 12:31:02 +0000,0,Garrett,GD,Possession,3,37,37,24, 150
+2018-11-17 12:31:04 +0000,0,Brazill,WD,Possession,3,37,37,3, 111
+2018-11-17 12:31:07 +0000,0,Ravaillion,C,Possession,3,37,37,27, 122
+2018-11-17 12:31:09 +0000,0,Robinson,WA,Possession,3,37,37,74, 104
+2018-11-17 12:31:11 +0000,0,Bell,GA,Possession,3,37,37,85, 80
+2018-11-17 12:31:14 +0000,0,Garrett,GD,Possession,3,37,37,63, 99
+2018-11-17 12:31:16 +0000,1,Phillip,GA,Penaly - Contact,3,37,37,63, 99
+2018-11-17 12:31:16 +0000,0,Garrett,GD,Possession,3,37,37,63, 99
+2018-11-17 12:31:19 +0000,0,Ravaillion,C,Possession,3,37,37,35, 76
+2018-11-17 12:31:21 +0000,0,Robinson,WA,Possession,3,37,37,27, 51
+2018-11-17 12:31:23 +0000,0,Bell,GA,Possession,3,37,37,16, 17
+2018-11-17 12:31:26 +0000,0,Bell,GA,Assist - Circle Entry,3,37,37,16, 17
+2018-11-17 12:31:26 +0000,0,Thwaites,GS,Goal - Score,3,37,37,56, 4
+2018-11-17 12:31:36 +0000,1,Moloney,C,Centre Pass,3,38,37,50, 100
+2018-11-17 12:31:36 +0000,1,Watson,WA,Assist - Centre Pass Rec,3,38,37,34, 110
+2018-11-17 12:31:38 +0000,1,Kumwenda,GS,Assist - 2nd Phase,3,38,37,47, 147
+2018-11-17 12:31:40 +0000,1,Moloney,C,Possession,3,38,37,79, 176
+2018-11-17 12:31:44 +0000,1,Moloney,C,Assist - Circle Entry,3,38,37,79, 176
+2018-11-17 12:31:44 +0000,1,Kumwenda,GS,Goal - Score,3,38,37,42, 185
+2018-11-17 12:31:53 +0000,0,Ravaillion,C,Centre Pass,3,38,38,50, 100
+2018-11-17 12:31:53 +0000,0,Brazill,WD,Assist - Centre Pass Rec,3,38,38,73, 88
+2018-11-17 12:31:56 +0000,0,Garrett,GD,Assist - 2nd Phase,3,38,38,56, 94
+2018-11-17 12:31:57 +0000,0,Robinson,WA,Possession,3,38,38,11, 94
+2018-11-17 12:31:59 +0000,0,Brazill,WD,Possession,3,38,38,76, 71
+2018-11-17 12:32:03 +0000,0,Ravaillion,C,Possession,3,38,38,81, 33
+2018-11-17 12:32:05 +0000,0,Thwaites,GS,Possession,3,38,38,83, 11
+2018-11-17 12:32:07 +0000,0,Robinson,WA,Possession,3,38,38,16, 12
+2018-11-17 12:32:13 +0000,1,Ingles,WD,Penaly - Contact,3,38,38,16, 12
+2018-11-17 12:32:13 +0000,0,Robinson,WA,Possession,3,38,38,16, 12
+2018-11-17 12:32:20 +0000,0,Robinson,WA,Assist - Circle Entry,3,38,38,16, 12
+2018-11-17 12:32:20 +0000,0,Bell,GA,Goal - Miss,3,38,38,35, 6
+2018-11-17 12:32:26 +0000,1,Mannix,GK,Gain - Def Reb,3,38,38,50, 2
+2018-11-17 12:32:27 +0000,1,Weston,GD,Possession,3,38,38,15, 11
+2018-11-17 12:32:30 +0000,1,Mannix,GK,Possession,3,38,38,26, 25
+2018-11-17 12:32:32 +0000,1,Weston,GD,Possession,3,38,38,80, 28
+2018-11-17 12:32:34 +0000,1,Mannix,GK,Possession,3,38,38,25, 39
+2018-11-17 12:32:36 +0000,1,Ingles,WD,Possession,3,38,38,10, 73
+2018-11-17 12:32:38 +0000,1,Weston,GD,Possession,3,38,38,34, 83
+2018-11-17 12:32:41 +0000,1,Watson,WA,Possession,3,38,38,15, 93
+2018-11-17 12:33:17 +0000,0,Brandley,GK,Gain - Tip (Deflect),3,38,38,16, 140
+2018-11-17 12:33:21 +0000,0,Brazill,WD,Possession,3,38,38,10, 120
+2018-11-17 12:33:25 +0000,0,Robinson,WA,Possession,3,38,38,1, 44
+2018-11-17 12:33:28 +0000,0,Robinson,WA,Assist - Circle Entry,3,38,38,1, 44
+2018-11-17 12:33:28 +0000,0,Bell,GA,Possession,3,38,38,47, 24
+2018-11-17 12:33:31 +0000,0,Thwaites,GS,Goal - Score,3,38,38,53, 7
+2018-11-17 12:33:41 +0000,1,Moloney,C,Centre Pass,3,39,38,50, 100
+2018-11-17 12:33:41 +0000,1,Ingles,WD,Assist - Centre Pass Rec,3,39,38,74, 85
+2018-11-17 12:33:44 +0000,1,Moloney,C,Assist - 2nd Phase,3,39,38,51, 79
+2018-11-17 12:33:46 +0000,1,Weston,GD,Possession,3,39,38,12, 88
+2018-11-17 12:33:48 +0000,1,Watson,WA,Possession,3,39,38,34, 92
+2018-11-17 12:33:50 +0000,1,Phillip,GA,Possession,3,39,38,57, 120
+2018-11-17 12:33:52 +0000,1,Watson,WA,Possession,3,39,38,36, 132
+2018-11-17 12:33:54 +0000,1,Kumwenda,GS,Possession,3,39,38,55, 162
+2018-11-17 12:33:56 +0000,1,Watson,WA,Possession,3,39,38,67, 167
+2018-11-17 12:33:57 +0000,1,Watson,WA,Assist - Circle Entry,3,39,38,67, 167
+2018-11-17 12:33:57 +0000,1,Kumwenda,GS,Goal - Score,3,39,38,45, 190
+2018-11-17 12:34:06 +0000,0,Ravaillion,C,Centre Pass,3,39,39,50, 100
+2018-11-17 12:34:07 +0000,0,Robinson,WA,Assist - Centre Pass Rec,3,39,39,22, 87
+2018-11-17 12:34:09 +0000,0,Ravaillion,C,Assist - 2nd Phase,3,39,39,44, 76
+2018-11-17 12:34:10 +0000,0,Bell,GA,Possession,3,39,39,78, 42
+2018-11-17 12:34:13 +0000,0,Ravaillion,C,Possession,3,39,39,81, 18
+2018-11-17 12:34:15 +0000,1,Mannix,GK,Penaly - Contact,3,39,39,57, 16
+2018-11-17 12:34:16 +0000,0,Thwaites,GS,Goal - Score,3,39,39,57, 16
+2018-11-17 12:34:29 +0000,1,Moloney,C,Centre Pass,3,40,39,50, 100
+2018-11-17 12:34:29 +0000,1,Phillip,GA,Assist - Centre Pass Rec,3,40,39,73, 115
+2018-11-17 12:34:30 +0000,1,Moloney,C,Assist - 2nd Phase,3,40,39,61, 120
+2018-11-17 12:34:32 +0000,1,Phillip,GA,Possession,3,40,39,76, 149
+2018-11-17 12:34:35 +0000,1,Phillip,GA,Possession,3,40,39,69, 168
+2018-11-17 12:34:37 +0000,1,Phillip,GA,Assist - Circle Entry,3,40,39,69, 168
+2018-11-17 12:34:37 +0000,1,Kumwenda,GS,Goal - Score,3,40,39,41, 193
+2018-11-17 12:34:43 +0000,0,Ravaillion,C,Centre Pass,3,40,40,50, 100
+2018-11-17 12:34:43 +0000,0,Bell,GA,Assist - Centre Pass Rec,3,40,40,66, 76
+2018-11-17 12:34:45 +0000,0,Robinson,WA,Assist - 2nd Phase,3,40,40,83, 29
+2018-11-17 12:34:47 +0000,0,Robinson,WA,Assist - Circle Entry,3,40,40,83, 29
+2018-11-17 12:34:47 +0000,0,Thwaites,GS,Goal - Miss,3,40,40,36, 5
+2018-11-17 12:34:55 +0000,1,Weston,GD,Deflect,3,40,40,50, 2
+2018-11-17 12:34:56 +0000,0,Bell,GA,Throw In,3,40,40,40, -5
+2018-11-17 12:35:01 +0000,0,Robinson,WA,Possession,3,40,40,42, 33
+2018-11-17 12:35:03 +0000,1,Weston,GD,Penaly - Contact,3,40,40,35, 22
+2018-11-17 12:35:03 +0000,0,Bell,GA,Goal - Score,3,40,40,35, 22
+2018-11-17 12:35:15 +0000,1,Moloney,C,Centre Pass,3,41,40,50, 100
+2018-11-17 12:35:15 +0000,1,Phillip,GA,Assist - Centre Pass Rec,3,41,40,27, 109
+2018-11-17 12:35:17 +0000,1,Ingles,WD,Assist - 2nd Phase,3,41,40,18, 91
+2018-11-17 12:35:19 +0000,1,Watson,WA,Possession,3,41,40,40, 107
+2018-11-17 12:35:22 +0000,1,Phillip,GA,Possession,3,41,40,16, 150
+2018-11-17 12:35:23 +0000,1,Watson,WA,Possession,3,41,40,32, 164
+2018-11-17 12:35:25 +0000,1,Watson,WA,Assist - Circle Entry,3,41,40,32, 164
+2018-11-17 12:35:25 +0000,1,Phillip,GA,Possession,3,41,40,27, 183
+2018-11-17 12:35:33 +0000,1,Kumwenda,GS,Loss - Drop,3,41,40,77, 191
+2018-11-17 12:35:40 +0000,0,Brandley,GK,Throw In,3,41,40,83, 202
+2018-11-17 12:35:55 +0000,1,Watson,WA,Loss - Offside,3,41,40,23, 174
+2018-11-17 12:36:07 +0000,0,Brandley,GK,Possession,3,41,40,25, 174
+2018-11-17 12:36:10 +0000,0,Garrett,GD,Possession,3,41,40,51, 140
+2018-11-17 12:36:13 +0000,0,Brazill,WD,Loss - Bad Pass,3,41,40,6, 106
+2018-11-17 12:36:17 +0000,1,Weston,GD,Gain - Inter,3,41,40,16, 49
+2018-11-17 12:36:26 +0000,1,Moloney,C,Possession,3,41,40,20, 78
+2018-11-17 12:36:29 +0000,1,Watson,WA,Possession,3,41,40,11, 90
+2018-11-17 12:36:32 +0000,1,Mannix,GK,Possession,3,41,40,19, 60
+2018-11-17 12:36:34 +0000,1,Weston,GD,Possession,3,41,40,7, 78
+2018-11-17 12:36:36 +0000,1,Watson,WA,Loss - Held Ball,3,41,40,9, 121
+2018-11-17 12:36:40 +0000,0,Brazill,WD,Possession,3,41,40,10, 121
+2018-11-17 12:36:47 +0000,0,Brandley,GK,Possession,3,41,40,23, 136
+2018-11-17 12:36:49 +0000,0,Garrett,GD,Possession,3,41,40,47, 115
+2018-11-17 12:36:51 +0000,0,Robinson,WA,Possession,3,41,40,33, 96
+2018-11-17 12:36:52 +0000,1,Watson,WA,Penaly - Contact,3,41,40,33, 96
+2018-11-17 12:36:52 +0000,0,Garrett,GD,Possession,3,41,40,33, 96
+2018-11-17 12:36:56 +0000,0,Brazill,WD,Possession,3,41,40,7, 72
+2018-11-17 12:37:00 +0000,1,Mannix,GK,Gain - Inter,3,41,40,15, 41
+2018-11-17 12:37:42 +0000,1,Ingles,WD,Possession,3,41,40,21, 54
+2018-11-17 12:38:00 +0000,1,Moloney,C,Possession,3,41,40,5, 76
+2018-11-17 12:38:02 +0000,1,Ingles,WD,Possession,3,41,40,26, 90
+2018-11-17 12:38:05 +0000,1,Watson,WA,Possession,3,41,40,37, 105
+2018-11-17 12:38:07 +0000,1,Kumwenda,GS,Possession,3,41,40,21, 141
+2018-11-17 12:38:09 +0000,1,Ingles,WD,Possession,3,41,40,68, 128
+2018-11-17 12:38:11 +0000,1,Moloney,C,Possession,3,41,40,84, 158
+2018-11-17 12:38:13 +0000,1,Weston,GD,Possession,3,41,40,80, 127
+2018-11-17 12:38:16 +0000,1,Watson,WA,Possession,3,41,40,84, 166
+2018-11-17 12:38:20 +0000,1,Watson,WA,Assist - Circle Entry,3,41,40,84, 166
+2018-11-17 12:38:20 +0000,1,Kumwenda,GS,Goal - Score,3,41,40,42, 191
+2018-11-17 12:40:05 +0000,0,Mannix,UNKNOWN,Interchange - Dehaney,3,41,41,
+2018-11-17 12:40:38 +0000,0,Ravaillion,C,Centre Pass,3,41,41,50, 100
+2018-11-17 12:40:38 +0000,0,Bell,GA,Assist - Centre Pass Rec,3,41,41,40, 81
+2018-11-17 12:40:40 +0000,0,Robinson,WA,Assist - 2nd Phase,3,41,41,7, 29
+2018-11-17 12:40:43 +0000,0,Robinson,WA,Assist - Circle Entry,3,41,41,7, 29
+2018-11-17 12:40:43 +0000,0,Thwaites,GS,Possession,3,41,41,55, 7
+2018-11-17 12:40:46 +0000,1,Dehaney,GK,Penaly - Contact,3,41,41,55, 7
+2018-11-17 12:40:46 +0000,0,Thwaites,GS,Goal - Score,3,41,41,55, 7
+2018-11-17 12:41:02 +0000,1,Moloney,C,Centre Pass,3,42,41,50, 100
+2018-11-17 12:41:02 +0000,1,Ingles,WD,Assist - Centre Pass Rec,3,42,41,30, 112
+2018-11-17 12:41:04 +0000,1,Moloney,C,Assist - 2nd Phase,3,42,41,26, 143
+2018-11-17 12:41:07 +0000,1,Phillip,GA,Possession,3,42,41,47, 147
+2018-11-17 12:41:09 +0000,1,Watson,WA,Possession,3,42,41,50, 161
+2018-11-17 12:41:13 +0000,0,Brandley,GK,Gain - Inter,3,42,41,34, 164
+2018-11-17 12:41:24 +0000,0,Robinson,WA,Possession,3,42,41,15, 127
+2018-11-17 12:41:28 +0000,0,Brandley,GK,Possession,3,42,41,6, 136
+2018-11-17 12:41:35 +0000,1,Watson,WA,Penaly - Obstruction,3,42,41,6, 136
+2018-11-17 12:41:35 +0000,0,Brandley,GK,Possession,3,42,41,6, 136
+2018-11-17 12:41:39 +0000,0,Brazill,WD,Possession,3,42,41,6, 105
+2018-11-17 12:41:42 +0000,0,Robinson,WA,Possession,3,42,41,6, 80
+2018-11-17 12:41:44 +0000,0,Bell,GA,Possession,3,42,41,24, 58
+2018-11-17 12:42:13 +0000,0,Robinson,WA,Possession,3,42,41,25, 41
+2018-11-17 12:42:14 +0000,1,Ingles,WD,Penaly - Contact,3,42,41,25, 41
+2018-11-17 12:42:14 +0000,0,Robinson,WA,Possession,3,42,41,25, 41
+2018-11-17 12:42:19 +0000,0,Ravaillion,C,Possession,3,42,41,77, 27
+2018-11-17 12:42:21 +0000,1,Dehaney,GK,Penaly - Contact,3,42,41,49, 13
+2018-11-17 12:42:21 +0000,0,Thwaites,GS,Possession,3,42,41,49, 13
+2018-11-17 12:42:27 +0000,1,Weston,GD,Penaly - Obstruction,3,42,41,49, 13
+2018-11-17 12:42:27 +0000,0,Thwaites,GS,Goal - Score,3,42,41,49, 13
+2018-11-17 12:42:40 +0000,0,Ravaillion,C,Centre Pass,3,43,41,50, 100
+2018-11-17 12:42:40 +0000,0,Bell,GA,Assist - Centre Pass Rec,3,43,41,43, 74
+2018-11-17 12:42:42 +0000,0,Robinson,WA,Assist - 2nd Phase,3,43,41,76, 51
+2018-11-17 12:42:44 +0000,0,Bell,GA,Possession,3,43,41,82, 7
+2018-11-17 12:42:46 +0000,0,Robinson,WA,Possession,3,43,41,50, 34
+2018-11-17 12:42:48 +0000,0,Robinson,WA,Assist - Circle Entry,3,43,41,50, 34
+2018-11-17 12:42:49 +0000,0,Thwaites,GS,Goal - Score,3,43,41,42, 7
+2018-11-17 12:43:00 +0000,1,Moloney,C,Centre Pass,3,44,41,50, 100
+2018-11-17 12:43:00 +0000,1,Watson,WA,Assist - Centre Pass Rec,3,44,41,86, 124
+2018-11-17 12:43:02 +0000,1,Ingles,WD,Assist - 2nd Phase,3,44,41,67, 125
+2018-11-17 12:43:04 +0000,1,Watson,WA,Possession,3,44,41,77, 156
+2018-11-17 12:43:06 +0000,1,Moloney,C,Possession,3,44,41,23, 171
+2018-11-17 12:43:12 +0000,1,Moloney,C,Assist - Circle Entry,3,44,41,23, 171
+2018-11-17 12:43:12 +0000,1,Kumwenda,GS,Goal - Score,3,44,41,55, 184
+2018-11-17 12:43:20 +0000,0,Ravaillion,C,Centre Pass,3,44,42,50, 100
+2018-11-17 12:43:20 +0000,0,Robinson,WA,Assist - Centre Pass Rec,3,44,42,73, 78
+2018-11-17 12:43:22 +0000,0,Bell,GA,Assist - 2nd Phase,3,44,42,26, 41
+2018-11-17 12:44:01 +0000,1,Moloney,C,Gain - Inter,3,44,42,30, 50
+2018-11-17 12:44:06 +0000,1,Ingles,WD,Possession,3,44,42,50, 53
+2018-11-17 12:44:08 +0000,1,Watson,WA,Possession,3,44,42,41, 77
+2018-11-17 12:44:09 +0000,1,Ingles,WD,Possession,3,44,42,63, 91
+2018-11-17 12:44:12 +0000,1,Moloney,C,Possession,3,44,42,82, 148
+2018-11-17 12:44:13 +0000,1,Weston,GD,Possession,3,44,42,79, 127
+2018-11-17 12:44:15 +0000,1,Watson,WA,Possession,3,44,42,76, 144
+2018-11-17 12:44:17 +0000,1,Ingles,WD,Possession,3,44,42,25, 126
+2018-11-17 12:44:19 +0000,1,Moloney,C,Possession,3,44,42,11, 150
+2018-11-17 12:44:21 +0000,1,Ingles,WD,Possession,3,44,42,24, 128
+2018-11-17 12:44:23 +0000,1,Moloney,C,Possession,3,44,42,27, 145
+2018-11-17 12:44:26 +0000,1,Watson,WA,Possession,3,44,42,14, 145
+2018-11-17 12:44:28 +0000,1,Phillip,GA,Possession,3,44,42,13, 184
+2018-11-17 12:44:32 +0000,1,Watson,WA,Possession,3,44,42,20, 171
+2018-11-17 12:44:34 +0000,1,Watson,WA,Assist - Circle Entry,3,44,42,20, 171
+2018-11-17 12:44:34 +0000,1,Kumwenda,GS,Goal - Score,3,44,42,55, 187
+2018-11-17 12:44:42 +0000,1,Moloney,C,Centre Pass,3,44,43,50, 100
+2018-11-17 12:44:42 +0000,1,Watson,WA,Assist - Centre Pass Rec,3,44,43,55, 114
+2018-11-17 12:44:44 +0000,1,Phillip,GA,Assist - 2nd Phase,3,44,43,58, 145
+2018-11-17 12:44:46 +0000,1,Moloney,C,Possession,3,44,43,82, 180
+2018-11-17 12:44:48 +0000,1,Moloney,C,Assist - Circle Entry,3,44,43,82, 180
+2018-11-17 12:44:48 +0000,1,Kumwenda,GS,Goal - Score,3,44,43,60, 191
+2018-11-17 12:45:00 +0000,0,Ravaillion,C,Centre Pass,3,44,44,50, 100
+2018-11-17 12:45:00 +0000,0,Robinson,WA,Assist - Centre Pass Rec,3,44,44,30, 83
+2018-11-17 12:45:01 +0000,0,Bell,GA,Assist - 2nd Phase,3,44,44,33, 59
+2018-11-17 12:45:03 +0000,0,Ravaillion,C,Possession,3,44,44,68, 52
+2018-11-17 12:45:05 +0000,0,Thwaites,GS,Possession,3,44,44,81, 14
+2018-11-17 12:45:07 +0000,0,Garrett,GD,Loss - Offside,3,44,44,49, 68
+2018-11-17 12:45:19 +0000,1,Dehaney,GK,Possession,3,44,44,50, 62
+2018-11-17 12:45:22 +0000,1,Weston,GD,Possession,3,44,44,67, 76
+2018-11-17 12:45:24 +0000,1,Moloney,C,Possession,3,44,44,88, 90
+2018-11-17 12:45:25 +0000,1,Weston,GD,Possession,3,44,44,69, 76
+2018-11-17 12:45:27 +0000,1,Watson,WA,Possession,3,44,44,33, 92
+2018-11-17 12:45:29 +0000,1,Phillip,GA,Possession,3,44,44,43, 114
+2018-11-17 12:45:31 +0000,1,Moloney,C,Possession,3,44,44,63, 123
+2018-11-17 12:46:19 +0000,1,Weston,GD,Deflect,3,44,44,50, 127
+2018-11-17 12:46:26 +0000,1,Watson,WA,Possession,3,44,44,75, 155
+2018-11-17 12:46:28 +0000,0,Garrett,GD,Penaly - Contact,3,44,44,75, 155
+2018-11-17 12:46:28 +0000,1,Watson,WA,Possession,3,44,44,75, 155
+2018-11-17 12:46:37 +0000,1,Watson,WA,Assist - Circle Entry,3,44,44,75, 155
+2018-11-17 12:46:37 +0000,1,Phillip,GA,Goal - Score,3,44,44,59, 189
+2018-11-17 12:46:52 +0000,1,Moloney,C,Centre Pass,3,44,45,50, 100
+2018-11-17 12:46:52 +0000,1,Phillip,GA,Assist - Centre Pass Rec,3,44,45,81, 114
+2018-11-17 12:46:54 +0000,1,,UNKNOWN,Assist - 2nd Phase,3,44,45,80, 140
+2018-11-17 12:46:56 +0000,1,Ingles,WD,Possession,3,44,45,70, 128
+2018-11-17 12:46:58 +0000,0,Robinson,WA,Penaly - Contact,3,44,45,70, 128
+2018-11-17 12:46:58 +0000,1,Ingles,WD,Possession,3,44,45,70, 128
+2018-11-17 12:47:07 +0000,1,Phillip,GA,Possession,3,44,45,48, 148
+2018-11-17 12:47:20 +0000,0,Ravaillion,C,Penaly - Contact,3,44,45,52, 162
+2018-11-17 12:47:20 +0000,1,Watson,WA,Possession,3,44,45,52, 162
+2018-11-17 12:47:28 +0000,1,Watson,WA,Assist - Circle Entry,3,44,45,52, 162
+2018-11-17 12:47:28 +0000,1,Kumwenda,GS,Goal - Score,3,44,45,53, 189
+2018-11-17 12:47:38 +0000,0,Ravaillion,C,Centre Pass,3,44,46,50, 100
+2018-11-17 12:47:38 +0000,0,Bell,GA,Assist - Centre Pass Rec,3,44,46,15, 79
+2018-11-17 12:47:40 +0000,0,Robinson,WA,Assist - 2nd Phase,3,44,46,81, 22
+2018-11-17 12:47:42 +0000,0,Robinson,WA,Assist - Circle Entry,3,44,46,81, 22
+2018-11-17 12:47:42 +0000,0,Thwaites,GS,Goal - Score,3,44,46,57, 4
+2018-11-17 12:47:51 +0000,1,Moloney,C,Centre Pass,3,45,46,50, 100
+2018-11-17 12:47:51 +0000,1,Watson,WA,Assist - Centre Pass Rec,3,45,46,73, 115
+2018-11-17 12:47:53 +0000,1,Phillip,GA,Assist - 2nd Phase,3,45,46,80, 149
+2018-11-17 12:47:54 +0000,1,Moloney,C,Possession,3,45,46,60, 152
+2018-11-17 12:47:56 +0000,1,Watson,WA,Possession,3,45,46,64, 163
+2018-11-17 12:48:02 +0000,0,Brandley,GK,Deflect,3,45,46,48, 182
+2018-11-17 12:48:03 +0000,1,Moloney,C,Possession,3,45,46,33, 165
+2018-11-17 12:48:10 +0000,1,Moloney,C,Assist - Circle Entry,3,45,46,33, 165
+2018-11-17 12:48:10 +0000,1,Phillip,GA,Possession,3,45,46,46, 182
+2018-11-17 12:48:12 +0000,0,Garrett,GD,Penaly - Contact,3,45,46,46, 182
+2018-11-17 12:48:12 +0000,1,Phillip,GA,Goal - Score,3,45,46,46, 182
+2018-11-17 12:49:12 +0000,0,Ravaillion,UNKNOWN,Interchange - Brown,4,45,47,
+2018-11-17 12:49:12 +0000,0,Garrett,UNKNOWN,Interchange - Brandley,4,45,47,
+2018-11-17 12:49:12 +0000,0,Brandley,UNKNOWN,Interchange - Layton,4,45,47,
+2018-11-17 12:49:24 +0000,0,Brown,C,Centre Pass,4,45,47,50, 100
+2018-11-17 12:49:24 +0000,0,Robinson,WA,Assist - Centre Pass Rec,4,45,47,95, 95
+2018-11-17 12:49:32 +0000,0,Bell,GA,Assist - 2nd Phase,4,45,47,91, 56
+2018-11-17 12:49:37 +0000,1,Moloney,C,Gain - Inter,4,45,47,91, 33
+2018-11-17 12:49:42 +0000,1,Dehaney,GK,Possession,4,45,47,84, 16
+2018-11-17 12:49:47 +0000,1,Ingles,WD,Possession,4,45,47,28, 28
+2018-11-17 12:49:49 +0000,1,Moloney,C,Possession,4,45,47,53, 57
+2018-11-17 12:49:51 +0000,1,Ingles,WD,Possession,4,45,47,23, 37
+2018-11-17 12:49:53 +0000,1,Moloney,C,Possession,4,45,47,24, 60
+2018-11-17 12:49:55 +0000,1,Dehaney,GK,Possession,4,45,47,70, 39
+2018-11-17 12:49:57 +0000,1,Ingles,WD,Possession,4,45,47,85, 72
+2018-11-17 12:49:59 +0000,1,Weston,GD,Possession,4,45,47,92, 117
+2018-11-17 12:50:02 +0000,1,Phillip,GA,Possession,4,45,47,29, 169
+2018-11-17 12:50:04 +0000,0,Layton,GK,Penaly - Obstruction,4,45,47,42, 181
+2018-11-17 12:50:05 +0000,1,Phillip,GA,Possession,4,45,47,42, 181
+2018-11-17 12:50:10 +0000,1,Kumwenda,GS,Possession,4,45,47,55, 192
+2018-11-17 12:50:11 +0000,0,Brandley,GD,Penaly - Contact,4,45,47,55, 192
+2018-11-17 12:50:11 +0000,1,Kumwenda,GS,Goal - Score,4,45,47,55, 192
+2018-11-17 12:50:17 +0000,1,Moloney,C,Centre Pass,4,45,48,50, 100
+2018-11-17 12:50:18 +0000,1,Ingles,WD,Assist - Centre Pass Rec,4,45,48,28, 89
+2018-11-17 12:50:19 +0000,1,Phillip,GA,Assist - 2nd Phase,4,45,48,29, 128
+2018-11-17 12:50:23 +0000,1,Ingles,WD,Possession,4,45,48,46, 87
+2018-11-17 12:50:25 +0000,1,Moloney,C,Possession,4,45,48,17, 120
+2018-11-17 12:50:26 +0000,1,Watson,WA,Possession,4,45,48,38, 123
+2018-11-17 12:50:28 +0000,1,Phillip,GA,Possession,4,45,48,62, 141
+2018-11-17 12:50:30 +0000,1,Watson,WA,Possession,4,45,48,41, 152
+2018-11-17 12:50:36 +0000,0,Bell,GA,Deflect,4,45,48,43, 128
+2018-11-17 12:50:36 +0000,1,Weston,GD,Possession,4,45,48,38, 105
+2018-11-17 12:50:41 +0000,1,Dehaney,GK,Possession,4,45,48,37, 64
+2018-11-17 12:50:43 +0000,1,Ingles,WD,Possession,4,45,48,67, 85
+2018-11-17 12:50:45 +0000,1,Weston,GD,Possession,4,45,48,28, 88
+2018-11-17 12:50:48 +0000,1,Moloney,C,Possession,4,45,48,26, 111
+2018-11-17 12:50:50 +0000,1,Watson,WA,Loss - Held Ball,4,45,48,59, 116
+2018-11-17 12:50:56 +0000,0,Brazill,WD,Possession,4,45,48,56, 117
+2018-11-17 12:51:03 +0000,0,Bell,GA,Possession,4,45,48,75, 111
+2018-11-17 12:51:05 +0000,0,Brown,C,Possession,4,45,48,91, 85
+2018-11-17 12:51:07 +0000,0,Brandley,GD,Possession,4,45,48,63, 111
+2018-11-17 12:51:12 +0000,0,Brazill,WD,Possession,4,45,48,89, 74
+2018-11-17 12:51:17 +0000,0,Thwaites,GS,Possession,4,45,48,91, 40
+2018-11-17 12:51:22 +0000,1,Ingles,WD,Loss - Offside,4,45,48,23, 21
+2018-11-17 12:51:33 +0000,1,Dehaney,GK,Penaly - Contact,4,45,48,63, 24
+2018-11-17 12:51:33 +0000,0,Bell,GA,Possession,4,45,48,63, 24
+2018-11-17 12:51:43 +0000,0,Thwaites,GS,Possession,4,45,48,43, 8
+2018-11-17 12:51:45 +0000,1,Weston,GD,Penaly - Contact,4,45,48,43, 8
+2018-11-17 12:51:45 +0000,0,Thwaites,GS,Goal - Score,4,45,48,43, 8
+2018-11-17 12:51:58 +0000,0,Brown,C,Centre Pass,4,46,48,50, 100
+2018-11-17 12:51:58 +0000,0,Bell,GA,Assist - Centre Pass Rec,4,46,48,35, 73
+2018-11-17 12:52:00 +0000,0,Robinson,WA,Assist - 2nd Phase,4,46,48,84, 26
+2018-11-17 12:52:02 +0000,0,Robinson,WA,Assist - Circle Entry,4,46,48,84, 26
+2018-11-17 12:52:02 +0000,0,Thwaites,GS,Goal - Score,4,46,48,45, 6
+2018-11-17 12:52:10 +0000,1,Moloney,C,Centre Pass,4,47,48,50, 100
+2018-11-17 12:52:10 +0000,1,Phillip,GA,Assist - Centre Pass Rec,4,47,48,21, 124
+2018-11-17 12:52:12 +0000,1,Watson,WA,Assist - 2nd Phase,4,47,48,29, 130
+2018-11-17 12:52:14 +0000,1,Kumwenda,GS,Possession,4,47,48,22, 177
+2018-11-17 12:52:16 +0000,1,Moloney,C,Possession,4,47,48,86, 189
+2018-11-17 12:52:18 +0000,1,Moloney,C,Assist - Circle Entry,4,47,48,86, 189
+2018-11-17 12:52:18 +0000,1,Kumwenda,GS,Goal - Score,4,47,48,56, 191
+2018-11-17 12:52:24 +0000,0,Brown,C,Centre Pass,4,47,49,50, 100
+2018-11-17 12:52:24 +0000,0,Bell,GA,Assist - Centre Pass Rec,4,47,49,14, 71
+2018-11-17 12:52:27 +0000,0,,UNKNOWN,Assist - 2nd Phase,4,47,49,18, 18
+2018-11-17 12:52:30 +0000,0,,UNKNOWN,Assist - Circle Entry,4,47,49,18, 18
+2018-11-17 12:52:30 +0000,1,Dehaney,GK,Gain - Inter,4,47,49,42, 7
+2018-11-17 12:52:34 +0000,1,Weston,GD,Possession,4,47,49,66, 20
+2018-11-17 12:52:37 +0000,1,Ingles,WD,Possession,4,47,49,83, 44
+2018-11-17 12:52:39 +0000,1,Moloney,C,Possession,4,47,49,66, 50
+2018-11-17 12:52:48 +0000,1,Watson,WA,Possession,4,47,49,92, 115
+2018-11-17 12:52:50 +0000,1,Weston,GD,Possession,4,47,49,79, 117
+2018-11-17 12:52:54 +0000,1,Moloney,C,Possession,4,47,49,44, 127
+2018-11-17 12:52:56 +0000,1,Phillip,GA,Possession,4,47,49,28, 153
+2018-11-17 12:52:59 +0000,1,Weston,GD,Possession,4,47,49,41, 130
+2018-11-17 12:53:00 +0000,0,Bell,GA,Penaly - Contact,4,47,49,41, 130
+2018-11-17 12:53:01 +0000,1,Weston,GD,Possession,4,47,49,41, 130
+2018-11-17 12:53:04 +0000,1,Moloney,C,Possession,4,47,49,47, 154
+2018-11-17 12:53:07 +0000,1,Phillip,GA,Possession,4,47,49,17, 169
+2018-11-17 12:53:09 +0000,0,Brandley,GD,Penaly - Contact,4,47,49,17, 169
+2018-11-17 12:53:09 +0000,1,Moloney,C,Possession,4,47,49,17, 169
+2018-11-17 12:53:15 +0000,1,Moloney,C,Assist - Circle Entry,4,47,49,17, 169
+2018-11-17 12:53:15 +0000,1,Phillip,GA,Possession,4,47,49,26, 192
+2018-11-17 12:53:17 +0000,1,Moloney,C,Possession,4,47,49,19, 180
+2018-11-17 12:53:19 +0000,1,Moloney,C,Assist - Circle Entry,4,47,49,19, 180
+2018-11-17 12:53:19 +0000,1,Phillip,GA,Possession,4,47,49,38, 189
+2018-11-17 12:53:21 +0000,0,Brandley,GD,Penaly - Obstruction,4,47,49,38, 189
+2018-11-17 12:53:21 +0000,1,Phillip,GA,Possession,4,47,49,38, 189
+2018-11-17 12:53:30 +0000,1,Watson,WA,Possession,4,47,49,84, 190
+2018-11-17 12:53:34 +0000,1,Phillip,GA,Possession,4,47,49,75, 166
+2018-11-17 12:53:43 +0000,1,Watson,WA,Possession,4,47,49,80, 179
+2018-11-17 12:53:45 +0000,1,Watson,WA,Assist - Circle Entry,4,47,49,80, 179
+2018-11-17 12:53:45 +0000,1,Kumwenda,GS,Goal - Score,4,47,49,47, 192
+2018-11-17 12:53:56 +0000,1,Moloney,C,Centre Pass,4,47,50,50, 100
+2018-11-17 12:53:56 +0000,1,Weston,GD,Assist - Centre Pass Rec,4,47,50,28, 98
+2018-11-17 12:53:57 +0000,1,Moloney,C,Assist - 2nd Phase,4,47,50,50, 127
+2018-11-17 12:53:59 +0000,1,Watson,WA,Possession,4,47,50,67, 129
+2018-11-17 12:54:01 +0000,1,Weston,GD,Possession,4,47,50,52, 128
+2018-11-17 12:54:06 +0000,0,Bell,GA,Penaly - Obstruction,4,47,50,52, 128
+2018-11-17 12:54:06 +0000,1,Weston,GD,Possession,4,47,50,52, 128
+2018-11-17 12:54:09 +0000,1,Watson,WA,Possession,4,47,50,40, 155
+2018-11-17 12:54:12 +0000,1,Watson,WA,Assist - Circle Entry,4,47,50,40, 155
+2018-11-17 12:54:12 +0000,1,Phillip,GA,Possession,4,47,50,31, 184
+2018-11-17 12:54:17 +0000,0,Layton,GK,Penaly - Contact,4,47,50,66, 183
+2018-11-17 12:54:17 +0000,1,Phillip,GA,Possession,4,47,50,66, 183
+2018-11-17 12:54:23 +0000,1,Kumwenda,GS,Goal - Score,4,47,50,59, 196
+2018-11-17 12:55:06 +0000,0,Brown,C,Centre Pass,4,47,51,50, 100
+2018-11-17 12:55:06 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,4,47,51,54, 83
+2018-11-17 12:55:07 +0000,0,Thwaites,GS,Assist - 2nd Phase,4,47,51,88, 9
+2018-11-17 12:55:11 +0000,0,Thwaites,GS,Assist - Circle Entry,4,47,51,88, 9
+2018-11-17 12:55:11 +0000,0,Bell,GA,Possession,4,47,51,59, 7
+2018-11-17 12:55:12 +0000,1,Weston,GD,Penaly - Contact,4,47,51,59, 7
+2018-11-17 12:55:12 +0000,0,Bell,GA,Goal - Score,4,47,51,59, 7
+2018-11-17 12:55:30 +0000,1,Moloney,C,Centre Pass,4,48,51,50, 100
+2018-11-17 12:55:30 +0000,1,Phillip,GA,Assist - Centre Pass Rec,4,48,51,24, 115
+2018-11-17 12:55:32 +0000,1,Kumwenda,GS,Assist - 2nd Phase,4,48,51,20, 168
+2018-11-17 12:55:34 +0000,1,Kumwenda,GS,Assist - Circle Entry,4,48,51,20, 168
+2018-11-17 12:55:34 +0000,1,Phillip,GA,Goal - Score,4,48,51,54, 193
+2018-11-17 12:55:44 +0000,0,Brown,C,Centre Pass,4,48,52,50, 100
+2018-11-17 12:55:44 +0000,0,Robinson,WA,Assist - Centre Pass Rec,4,48,52,12, 96
+2018-11-17 12:55:46 +0000,0,Brazill,WD,Assist - 2nd Phase,4,48,52,34, 81
+2018-11-17 12:56:14 +0000,0,Brown,C,Possession,4,48,52,40, 49
+2018-11-17 12:56:16 +0000,0,Brown,C,Assist - Circle Entry,4,48,52,40, 49
+2018-11-17 12:56:16 +0000,0,Thwaites,GS,Possession,4,48,52,27, 10
+2018-11-17 12:56:18 +0000,0,Brown,C,Possession,4,48,52,21, 21
+2018-11-17 12:56:19 +0000,0,Bell,GA,Possession,4,48,52,37, 36
+2018-11-17 12:56:22 +0000,0,Robinson,WA,Possession,4,48,52,80, 20
+2018-11-17 12:56:24 +0000,0,Robinson,WA,Assist - Circle Entry,4,48,52,80, 20
+2018-11-17 12:56:24 +0000,0,Thwaites,GS,Goal - Score,4,48,52,58, 8
+2018-11-17 12:56:35 +0000,1,Moloney,C,Centre Pass,4,49,52,50, 100
+2018-11-17 12:56:35 +0000,1,,UNKNOWN,Assist - Centre Pass Rec,4,49,52,50, 120
+2018-11-17 12:57:11 +0000,1,Moloney,C,Assist - 2nd Phase,4,49,52,50, 131
+2018-11-17 12:57:14 +0000,1,Kumwenda,GS,Possession,4,49,52,26, 162
+2018-11-17 12:57:17 +0000,1,Phillip,GA,Possession,4,49,52,6, 193
+2018-11-17 12:57:27 +0000,0,Brown,C,Loss - Offside,4,49,52,51, 166
+2018-11-17 12:57:42 +0000,1,Phillip,GA,Possession,4,49,52,51, 166
+2018-11-17 12:57:45 +0000,1,Moloney,C,Possession,4,49,52,23, 177
+2018-11-17 12:57:47 +0000,1,Moloney,C,Assist - Circle Entry,4,49,52,23, 177
+2018-11-17 12:57:47 +0000,1,Phillip,GA,Possession,4,49,52,45, 186
+2018-11-17 12:57:50 +0000,0,Brandley,GD,Penaly - Contact,4,49,52,45, 186
+2018-11-17 12:57:50 +0000,1,Phillip,GA,Goal - Score,4,49,52,45, 186
+2018-11-17 12:58:11 +0000,0,Brown,C,Centre Pass,4,49,53,50, 100
+2018-11-17 12:58:12 +0000,0,Bell,GA,Assist - Centre Pass Rec,4,49,53,71, 92
+2018-11-17 12:58:13 +0000,0,Robinson,WA,Assist - 2nd Phase,4,49,53,61, 72
+2018-11-17 12:58:15 +0000,0,Bell,GA,Possession,4,49,53,20, 18
+2018-11-17 12:58:17 +0000,0,Brown,C,Possession,4,49,53,28, 29
+2018-11-17 12:58:19 +0000,0,Bell,GA,Possession,4,49,53,11, 12
+2018-11-17 12:58:20 +0000,0,Robinson,WA,Possession,4,49,53,80, 19
+2018-11-17 12:58:28 +0000,1,Weston,GD,Penaly - Contact,4,49,53,59, 20
+2018-11-17 12:58:28 +0000,0,Bell,GA,Possession,4,49,53,59, 20
+2018-11-17 12:58:33 +0000,1,Dehaney,GK,Penaly - Contact,4,49,53,46, 21
+2018-11-17 12:58:33 +0000,0,Bell,GA,Possession,4,49,53,46, 21
+2018-11-17 12:58:37 +0000,0,Thwaites,GS,Goal - Score,4,49,53,53, 9
+2018-11-17 12:58:40 +0000,1,Moloney,C,Centre Pass,4,50,53,50, 100
+2018-11-17 12:58:40 +0000,1,Watson,WA,Assist - Centre Pass Rec,4,50,53,24, 122
+2018-11-17 12:58:42 +0000,1,Kumwenda,GS,Assist - 2nd Phase,4,50,53,20, 173
+2018-11-17 12:58:44 +0000,1,Watson,WA,Possession,4,50,53,21, 157
+2018-11-17 12:58:46 +0000,1,Watson,WA,Assist - Circle Entry,4,50,53,21, 157
+2018-11-17 12:58:46 +0000,1,Phillip,GA,Possession,4,50,53,33, 191
+2018-11-17 12:58:48 +0000,1,Watson,WA,Possession,4,50,53,22, 176
+2018-11-17 12:58:50 +0000,1,Watson,WA,Assist - Circle Entry,4,50,53,22, 176
+2018-11-17 12:58:50 +0000,1,Kumwenda,GS,Goal - Score,4,50,53,60, 191
+2018-11-17 12:59:02 +0000,0,Brown,C,Centre Pass,4,50,54,50, 100
+2018-11-17 12:59:02 +0000,0,Brazill,WD,Assist - Centre Pass Rec,4,50,54,50, 78
+2018-11-17 12:59:04 +0000,0,Robinson,WA,Assist - 2nd Phase,4,50,54,94, 15
+2018-11-17 12:59:49 +0000,0,Robinson,WA,Assist - Circle Entry,4,50,54,94, 15
+2018-11-17 12:59:49 +0000,0,Thwaites,GS,Goal - Score,4,50,54,43, 8
+2018-11-17 12:59:59 +0000,1,Moloney,C,Centre Pass,4,51,54,50, 100
+2018-11-17 12:59:59 +0000,1,Phillip,GA,Assist - Centre Pass Rec,4,51,54,20, 122
+2018-11-17 13:00:02 +0000,1,Moloney,C,Assist - 2nd Phase,4,51,54,36, 123
+2018-11-17 13:00:04 +0000,1,Ingles,WD,Possession,4,51,54,7, 129
+2018-11-17 13:00:08 +0000,1,Watson,WA,Possession,4,51,54,17, 143
+2018-11-17 13:00:11 +0000,1,Kumwenda,GS,Possession,4,51,54,18, 177
+2018-11-17 13:00:13 +0000,1,Watson,WA,Possession,4,51,54,23, 175
+2018-11-17 13:00:15 +0000,1,Watson,WA,Assist - Circle Entry,4,51,54,23, 175
+2018-11-17 13:00:15 +0000,1,Kumwenda,GS,Possession,4,51,54,59, 196
+2018-11-17 13:00:18 +0000,0,Layton,GK,Penaly - Contact,4,51,54,59, 196
+2018-11-17 13:00:18 +0000,1,Kumwenda,GS,Goal - Score,4,51,54,59, 196
+2018-11-17 13:00:32 +0000,0,Brown,C,Centre Pass,4,51,55,50, 100
+2018-11-17 13:00:32 +0000,0,Robinson,WA,Assist - Centre Pass Rec,4,51,55,25, 91
+2018-11-17 13:00:34 +0000,0,Brown,C,Assist - 2nd Phase,4,51,55,43, 75
+2018-11-17 13:00:36 +0000,1,Ingles,WD,Penaly - Contact,4,51,55,43, 75
+2018-11-17 13:00:36 +0000,0,Brandley,GD,Possession,4,51,55,43, 75
+2018-11-17 13:00:40 +0000,0,Robinson,WA,Possession,4,51,55,43, 50
+2018-11-17 13:00:43 +0000,1,Moloney,C,Penaly - Contact,4,51,55,45, 37
+2018-11-17 13:00:43 +0000,0,Robinson,WA,Possession,4,51,55,45, 37
+2018-11-17 13:00:49 +0000,0,Robinson,WA,Assist - Circle Entry,4,51,55,45, 37
+2018-11-17 13:00:49 +0000,0,Thwaites,GS,Goal - Score,4,51,55,64, 8
+2018-11-17 13:00:59 +0000,1,Moloney,C,Centre Pass,4,52,55,50, 100
+2018-11-17 13:00:59 +0000,1,Watson,WA,Assist - Centre Pass Rec,4,52,55,47, 117
+2018-11-17 13:01:01 +0000,1,Kumwenda,GS,Assist - 2nd Phase,4,52,55,50, 157
+2018-11-17 13:01:03 +0000,1,Moloney,C,Possession,4,52,55,75, 172
+2018-11-17 13:01:05 +0000,1,Moloney,C,Assist - Circle Entry,4,52,55,75, 172
+2018-11-17 13:01:05 +0000,1,Kumwenda,GS,Goal - Score,4,52,55,45, 193
+2018-11-17 13:01:16 +0000,0,Brown,C,Centre Pass,4,52,56,50, 100
+2018-11-17 13:01:16 +0000,1,Watson,WA,Gain - Inter,4,52,56,70, 92
+2018-11-17 13:01:23 +0000,1,Moloney,C,Possession,4,52,56,65, 111
+2018-11-17 13:01:27 +0000,1,Ingles,WD,Possession,4,52,56,95, 123
+2018-11-17 13:01:29 +0000,1,Watson,WA,Possession,4,52,56,89, 141
+2018-11-17 13:01:30 +0000,0,Brown,C,Penaly - Contact,4,52,56,89, 141
+2018-11-17 13:01:30 +0000,1,Watson,WA,Possession,4,52,56,89, 141
+2018-11-17 13:01:33 +0000,1,Weston,GD,Possession,4,52,56,69, 129
+2018-11-17 13:01:35 +0000,1,Phillip,GA,Possession,4,52,56,49, 156
+2018-11-17 13:01:41 +0000,1,Phillip,GA,Assist - Circle Entry,4,52,56,49, 156
+2018-11-17 13:01:41 +0000,1,Kumwenda,GS,Possession,4,52,56,48, 186
+2018-11-17 13:01:43 +0000,0,Layton,GK,Penaly - Contact,4,52,56,48, 186
+2018-11-17 13:01:43 +0000,1,Kumwenda,GS,Goal - Score,4,52,56,48, 186
+2018-11-17 13:01:55 +0000,0,,UNKNOWN,Timeout,4,52,57,-10, -22
+2018-11-17 13:02:10 +0000,0,Brown,UNKNOWN,Interchange - Ravaillion,4,52,57,
+2018-11-17 13:02:48 +0000,1,Moloney,C,Centre Pass,4,52,57,50, 100
+2018-11-17 13:02:49 +0000,1,Phillip,GA,Assist - Centre Pass Rec,4,52,57,73, 117
+2018-11-17 13:02:51 +0000,1,Watson,WA,Assist - 2nd Phase,4,52,57,98, 149
+2018-11-17 13:02:53 +0000,0,Brazill,WD,Penaly - Contact,4,52,57,98, 149
+2018-11-17 13:02:53 +0000,1,Watson,WA,Possession,4,52,57,98, 149
+2018-11-17 13:02:57 +0000,1,Watson,WA,Assist - Circle Entry,4,52,57,98, 149
+2018-11-17 13:02:57 +0000,1,Kumwenda,GS,Possession,4,52,57,62, 181
+2018-11-17 13:02:59 +0000,1,Watson,WA,Possession,4,52,57,68, 171
+2018-11-17 13:04:02 +0000,0,Layton,GK,Gain - Inter,4,52,57,82, 190
+2018-11-17 13:04:06 +0000,1,Phillip,GA,Penaly - Contact,4,52,57,92, 188
+2018-11-17 13:04:06 +0000,0,Layton,GK,Possession,4,52,57,92, 188
+2018-11-17 13:04:17 +0000,0,Brandley,GD,Possession,4,52,57,83, 160
+2018-11-17 13:04:20 +0000,0,Brazill,WD,Possession,4,52,57,84, 109
+2018-11-17 13:04:22 +0000,0,Bell,GA,Possession,4,52,57,66, 88
+2018-11-17 13:04:24 +0000,0,Robinson,WA,Possession,4,52,57,52, 74
+2018-11-17 13:04:26 +0000,0,Brazill,WD,Possession,4,52,57,92, 74
+2018-11-17 13:04:40 +0000,1,Ingles,WD,Penaly - Contact,4,52,57,86, 47
+2018-11-17 13:04:40 +0000,0,Robinson,WA,Possession,4,52,57,86, 47
+2018-11-17 13:04:43 +0000,0,Brazill,WD,Possession,4,52,57,86, 71
+2018-11-17 13:04:45 +0000,0,Robinson,WA,Possession,4,52,57,66, 36
+2018-11-17 13:04:47 +0000,0,Robinson,WA,Assist - Circle Entry,4,52,57,66, 36
+2018-11-17 13:04:48 +0000,0,Thwaites,GS,Possession,4,52,57,37, 7
+2018-11-17 13:04:49 +0000,1,Dehaney,GK,Penaly - Obstruction,4,52,57,37, 7
+2018-11-17 13:04:49 +0000,0,Thwaites,GS,Goal - Score,4,52,57,37, 7
+2018-11-17 13:05:02 +0000,0,Ravaillion,C,Centre Pass,4,53,57,50, 100
+2018-11-17 13:05:02 +0000,0,Bell,GA,Assist - Centre Pass Rec,4,53,57,24, 77
+2018-11-17 13:05:04 +0000,0,Robinson,WA,Assist - 2nd Phase,4,53,57,15, 28
+2018-11-17 13:05:06 +0000,0,Bell,GA,Possession,4,53,57,43, 55
+2018-11-17 13:05:07 +0000,0,Robinson,WA,Possession,4,53,57,17, 49
+2018-11-17 13:05:09 +0000,0,Ravaillion,C,Possession,4,53,57,40, 41
+2018-11-17 13:05:11 +0000,0,Robinson,WA,Possession,4,53,57,55, 58
+2018-11-17 13:05:13 +0000,0,Ravaillion,C,Possession,4,53,57,32, 47
+2018-11-17 13:05:15 +0000,0,Robinson,WA,Possession,4,53,57,48, 38
+2018-11-17 13:05:19 +0000,1,Moloney,C,Penaly - Obstruction,4,53,57,48, 38
+2018-11-17 13:05:19 +0000,0,Robinson,WA,Possession,4,53,57,48, 38
+2018-11-17 13:05:23 +0000,0,Robinson,WA,Assist - Circle Entry,4,53,57,48, 38
+2018-11-17 13:05:23 +0000,0,Thwaites,GS,Goal - Score,4,53,57,59, 8
+2018-11-17 13:05:34 +0000,1,Moloney,C,Centre Pass,4,54,57,50, 100
+2018-11-17 13:05:34 +0000,1,Phillip,GA,Assist - Centre Pass Rec,4,54,57,90, 122
+2018-11-17 13:05:35 +0000,1,Moloney,C,Assist - 2nd Phase,4,54,57,77, 130
+2018-11-17 13:05:37 +0000,1,Watson,WA,Possession,4,54,57,90, 140
+2018-11-17 13:05:39 +0000,0,Brazill,WD,Penaly - Contact,4,54,57,90, 140
+2018-11-17 13:05:39 +0000,1,Watson,WA,Possession,4,54,57,90, 140
+2018-11-17 13:05:42 +0000,1,Moloney,C,Possession,4,54,57,51, 163
+2018-11-17 13:05:43 +0000,1,Watson,WA,Possession,4,54,57,64, 166
+2018-11-17 13:05:46 +0000,1,Moloney,C,Possession,4,54,57,38, 166
+2018-11-17 13:05:48 +0000,1,Moloney,C,Assist - Circle Entry,4,54,57,38, 166
+2018-11-17 13:05:48 +0000,1,Phillip,GA,Possession,4,54,57,47, 183
+2018-11-17 13:05:52 +0000,0,Brandley,GD,Penaly - Obstruction,4,54,57,47, 183
+2018-11-17 13:05:52 +0000,1,Phillip,GA,Goal - Score,4,54,57,47, 183
+2018-11-17 13:06:07 +0000,0,Ravaillion,C,Centre Pass,4,54,58,50, 100
+2018-11-17 13:06:07 +0000,0,Brazill,WD,Assist - Centre Pass Rec,4,54,58,78, 90
+2018-11-17 13:06:09 +0000,0,Brandley,GD,Assist - 2nd Phase,4,54,58,66, 104
+2018-11-17 13:06:11 +0000,0,Robinson,WA,Possession,4,54,58,27, 102
+2018-11-17 13:06:13 +0000,0,Ravaillion,C,Possession,4,54,58,16, 62
+2018-11-17 13:06:15 +0000,0,Brandley,GD,Possession,4,54,58,22, 72
+2018-11-17 13:06:16 +0000,0,Bell,GA,Possession,4,54,58,63, 47
+2018-11-17 13:06:19 +0000,0,Bell,GA,Assist - Circle Entry,4,54,58,63, 47
+2018-11-17 13:06:19 +0000,0,Thwaites,GS,Possession,4,54,58,50, 20
+2018-11-17 13:06:20 +0000,1,Dehaney,GK,Penaly - Contact,4,54,58,50, 20
+2018-11-17 13:06:20 +0000,0,Thwaites,GS,Goal - Score,4,54,58,50, 20
+2018-11-17 13:06:34 +0000,1,Moloney,C,Centre Pass,4,55,58,50, 100
+2018-11-17 13:06:34 +0000,1,Phillip,GA,Assist - Centre Pass Rec,4,55,58,76, 128
+2018-11-17 13:06:36 +0000,1,Moloney,C,Assist - 2nd Phase,4,55,58,74, 172
+2018-11-17 13:06:39 +0000,1,Moloney,C,Assist - Circle Entry,4,55,58,74, 172
+2018-11-17 13:06:39 +0000,1,Kumwenda,GS,Possession,4,55,58,65, 190
+2018-11-17 13:06:41 +0000,1,Watson,WA,Possession,4,55,58,78, 178
+2018-11-17 13:06:43 +0000,1,Watson,WA,Assist - Circle Entry,4,55,58,78, 178
+2018-11-17 13:06:43 +0000,1,Kumwenda,GS,Goal - Score,4,55,58,56, 193
+2018-11-17 13:06:51 +0000,0,Ravaillion,C,Centre Pass,4,55,59,50, 100
+2018-11-17 13:06:51 +0000,0,Bell,GA,Assist - Centre Pass Rec,4,55,59,46, 77
+2018-11-17 13:06:53 +0000,0,Robinson,WA,Assist - 2nd Phase,4,55,59,89, 74
+2018-11-17 13:06:55 +0000,0,Ravaillion,C,Possession,4,55,59,63, 60
+2018-11-17 13:07:00 +0000,1,Moloney,C,Penaly - Obstruction,4,55,59,63, 60
+2018-11-17 13:07:00 +0000,0,Robinson,WA,Possession,4,55,59,63, 60
+2018-11-17 13:07:08 +0000,0,Ravaillion,C,Possession,4,55,59,23, 31
+2018-11-17 13:07:13 +0000,0,Ravaillion,C,Assist - Circle Entry,4,55,59,23, 31
+2018-11-17 13:07:13 +0000,0,,UNKNOWN,Possession,4,55,59,39, 28
+2018-11-17 13:07:16 +0000,0,Robinson,WA,Possession,4,55,59,81, 20
+2018-11-17 13:07:19 +0000,0,Robinson,WA,Assist - Circle Entry,4,55,59,81, 20
+2018-11-17 13:07:19 +0000,0,Thwaites,GS,Possession,4,55,59,42, 10
+2018-11-17 13:07:22 +0000,1,Weston,GD,Penaly - Contact,4,55,59,68, 9
+2018-11-17 13:07:22 +0000,0,Bell,GA,Goal - Miss,4,55,59,68, 9
+2018-11-17 13:07:29 +0000,1,Dehaney,GK,Gain - Def Reb,4,55,59,50, 2
+2018-11-17 13:07:33 +0000,0,Robinson,WA,Penaly - Contact,4,55,59,65, 34
+2018-11-17 13:07:33 +0000,1,Dehaney,GK,Possession,4,55,59,65, 34
+2018-11-17 13:07:39 +0000,1,Watson,WA,Possession,4,55,59,86, 111
+2018-11-17 13:07:42 +0000,1,Weston,GD,Possession,4,55,59,53, 71
+2018-11-17 13:07:44 +0000,1,Watson,WA,Possession,4,55,59,74, 112
+2018-11-17 13:07:46 +0000,1,Phillip,GA,Possession,4,55,59,28, 154
+2018-11-17 13:07:48 +0000,1,Moloney,C,Possession,4,55,59,74, 174
+2018-11-17 13:07:50 +0000,1,Moloney,C,Assist - Circle Entry,4,55,59,74, 174
+2018-11-17 13:07:51 +0000,1,Kumwenda,GS,Goal - Score,4,55,59,56, 192
+2018-11-17 13:08:00 +0000,1,Moloney,C,Centre Pass,4,55,60,50, 100
+2018-11-17 13:08:00 +0000,1,Phillip,GA,Assist - Centre Pass Rec,4,55,60,90, 121
+2018-11-17 13:08:02 +0000,1,Moloney,C,Assist - 2nd Phase,4,55,60,81, 140
+2018-11-17 13:08:06 +0000,1,Watson,WA,Possession,4,55,60,91, 149
+2018-11-17 13:08:07 +0000,1,Weston,GD,Possession,4,55,60,84, 128
+2018-11-17 13:08:10 +0000,1,Watson,WA,Possession,4,55,60,75, 172
+2018-11-17 13:08:13 +0000,1,Watson,WA,Assist - Circle Entry,4,55,60,75, 172
+2018-11-17 13:08:13 +0000,1,Kumwenda,GS,Possession,4,55,60,57, 192
+2018-11-17 13:08:15 +0000,0,Layton,GK,Penaly - Contact,4,55,60,57, 192
+2018-11-17 13:08:15 +0000,1,Kumwenda,GS,Goal - Score,4,55,60,57, 192
+2018-11-17 13:08:24 +0000,0,Ravaillion,C,Centre Pass,4,55,61,50, 100
+2018-11-17 13:08:24 +0000,0,Brandley,GD,Assist - Centre Pass Rec,4,55,61,53, 119
+2018-11-17 13:08:25 +0000,0,Robinson,WA,Assist - 2nd Phase,4,55,61,52, 87
+2018-11-17 13:08:28 +0000,1,Weston,GD,Penaly - Contact,4,55,61,60, 27
+2018-11-17 13:08:28 +0000,0,Bell,GA,Goal - Score,4,55,61,60, 27
+2018-11-17 13:08:44 +0000,1,Moloney,C,Centre Pass,4,56,61,50, 100
+2018-11-17 13:08:45 +0000,1,Watson,WA,Assist - Centre Pass Rec,4,56,61,29, 120
+2018-11-17 13:08:46 +0000,1,Ingles,WD,Assist - 2nd Phase,4,56,61,73, 122
+2018-11-17 13:08:48 +0000,1,Moloney,C,Possession,4,56,61,87, 158
+2018-11-17 13:08:50 +0000,1,Watson,WA,Possession,4,56,61,88, 187
+2018-11-17 13:08:52 +0000,1,Watson,WA,Assist - Circle Entry,4,56,61,88, 187
+2018-11-17 13:08:52 +0000,1,Phillip,GA,Possession,4,56,61,73, 194
+2018-11-17 13:08:57 +0000,0,Layton,GD,Penaly - Contact,4,56,61,73, 194
+2018-11-17 13:08:57 +0000,1,Phillip,GA,Goal - Score,4,56,61,73, 194
+2018-11-17 13:09:07 +0000,0,Ravaillion,C,Centre Pass,4,56,62,50, 100
+2018-11-17 13:09:08 +0000,0,Robinson,WA,Assist - Centre Pass Rec,4,56,62,22, 81
+2018-11-17 13:09:09 +0000,0,Brazill,WD,Assist - 2nd Phase,4,56,62,52, 114
+2018-11-17 13:09:11 +0000,0,Ravaillion,C,Possession,4,56,62,42, 78
+2018-11-17 13:09:13 +0000,0,Brazill,WD,Possession,4,56,62,83, 72
+2018-11-17 13:09:16 +0000,0,Ravaillion,C,Possession,4,56,62,67, 55
+2018-11-17 13:09:20 +0000,1,Dehaney,GK,Penaly - Contact,4,56,62,67, 55
+2018-11-17 13:09:20 +0000,0,Ravaillion,C,Possession,4,56,62,67, 55
+2018-11-17 13:09:30 +0000,1,Dehaney,GK,Deflect,4,56,62,43, 18
+2018-11-17 13:09:30 +0000,0,Bell,GA,Throw In,4,56,62,32, -2
+2018-11-17 13:09:34 +0000,0,Robinson,WA,Possession,4,56,62,48, 36
+2018-11-17 13:09:37 +0000,1,Dehaney,GK,Penaly - Contact,4,56,62,48, 22
+2018-11-17 13:09:37 +0000,0,Thwaites,GS,Possession,4,56,62,48, 22
+2018-11-17 13:09:43 +0000,1,Weston,GD,Penaly - Obstruction,4,56,62,48, 22
+2018-11-17 13:09:44 +0000,0,Thwaites,GS,Goal - Score,4,56,62,48, 22
+2018-11-17 13:09:55 +0000,1,Moloney,C,Centre Pass,4,57,62,50, 100
+2018-11-17 13:09:56 +0000,1,Weston,GD,Assist - Centre Pass Rec,4,57,62,19, 110
+2018-11-17 13:09:58 +0000,1,Moloney,C,Assist - 2nd Phase,4,57,62,45, 127
+2018-11-17 13:10:00 +0000,1,Watson,WA,Possession,4,57,62,58, 131
+2018-11-17 13:10:04 +0000,0,Brazill,WD,Penaly - Contact,4,57,62,58, 131
+2018-11-17 13:10:04 +0000,1,Watson,WA,Possession,4,57,62,58, 131
+2018-11-17 13:10:28 +0000,0,Ravaillion,C,Deflect,4,57,62,42, 168
+2018-11-17 13:10:28 +0000,1,Phillip,GA,Possession,4,57,62,19, 181
+2018-11-17 13:10:37 +0000,1,Watson,WA,Possession,4,57,62,26, 173
+2018-11-17 13:10:42 +0000,1,Watson,WA,Assist - Circle Entry,4,57,62,26, 173
+2018-11-17 13:10:42 +0000,1,Kumwenda,GS,Goal - Score,4,57,62,53, 193
+2018-11-17 13:10:53 +0000,0,Ravaillion,C,Centre Pass,4,57,63,50, 100
+2018-11-17 13:10:54 +0000,0,Bell,GA,Assist - Centre Pass Rec,4,57,63,35, 84
+2018-11-17 13:10:56 +0000,0,Robinson,WA,Assist - 2nd Phase,4,57,63,89, 31
+2018-11-17 13:10:58 +0000,0,Robinson,WA,Assist - Circle Entry,4,57,63,89, 31
+2018-11-17 13:10:58 +0000,0,Thwaites,GS,Loss - Held Ball,4,57,63,62, 8
+2018-11-17 13:11:04 +0000,1,Dehaney,GK,Possession,4,57,63,63, 9
+2018-11-17 13:11:06 +0000,1,Weston,GD,Possession,4,57,63,18, 46
+2018-11-17 13:11:09 +0000,1,Ingles,WD,Possession,4,57,63,88, 63
+2018-11-17 13:11:11 +0000,1,Watson,WA,Possession,4,57,63,96, 116
+2018-11-17 13:11:14 +0000,1,Weston,GD,Possession,4,57,63,88, 94
+2018-11-17 13:11:15 +0000,1,Moloney,C,Possession,4,57,63,64, 107
+2018-11-17 13:11:17 +0000,1,Watson,WA,Possession,4,57,63,81, 123
+2018-11-17 13:11:19 +0000,1,Kumwenda,GS,Possession,4,57,63,88, 146
+2018-11-17 13:11:21 +0000,1,Moloney,C,Possession,4,57,63,60, 145
+2018-11-17 13:11:25 +0000,1,Moloney,C,Possession,4,57,63,42, 160
+2018-11-17 13:11:27 +0000,0,Brandley,GD,Penaly - Contact,4,57,63,42, 160
+2018-11-17 13:11:27 +0000,1,Moloney,C,Possession,4,57,63,42, 160
+2018-11-17 13:11:33 +0000,1,Moloney,C,Assist - Circle Entry,4,57,63,42, 160
+2018-11-17 13:11:33 +0000,1,Phillip,GA,Goal - Score,4,57,63,40, 193
+2018-11-17 13:11:45 +0000,1,Moloney,C,Centre Pass,4,57,64,50, 100
+2018-11-17 13:11:45 +0000,1,Ingles,WD,Assist - Centre Pass Rec,4,57,64,26, 118
+2018-11-17 13:11:47 +0000,1,Phillip,GA,Assist - 2nd Phase,4,57,64,17, 148
+2018-11-17 13:11:49 +0000,1,Watson,WA,Possession,4,57,64,25, 172
+2018-11-17 13:11:51 +0000,1,Watson,WA,Assist - Circle Entry,4,57,64,25, 172
+2018-11-17 13:11:51 +0000,1,Phillip,GA,Goal - Miss,4,57,64,41, 196
+2018-11-17 13:11:56 +0000,1,Kumwenda,GS,Assist - Attack Rebound,4,57,64,50, 197
+2018-11-17 13:11:58 +0000,1,Kumwenda,GS,Goal - Score,4,57,64,41, 196
+2018-11-17 13:12:06 +0000,0,Ravaillion,C,Centre Pass,4,57,65,50, 100
+2018-11-17 13:12:06 +0000,0,Brandley,GD,Assist - Centre Pass Rec,4,57,65,36, 119
+2018-11-17 13:12:08 +0000,0,Robinson,WA,Assist - 2nd Phase,4,57,65,21, 89
+2018-11-17 13:12:10 +0000,0,Robinson,WA,Assist - Circle Entry,4,57,65,21, 89
+2018-11-17 13:12:10 +0000,1,Weston,GD,Gain - Inter,4,57,65,51, 16
+2018-11-17 13:12:15 +0000,1,Dehaney,GK,Possession,4,57,65,37, 20

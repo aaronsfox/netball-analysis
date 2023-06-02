@@ -1,0 +1,1553 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-11-19 07:39:21 +0000,1,Petty,C,Centre Pass,1,0,0,50, 100
+2018-11-19 07:39:21 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,0,0,88, 72
+2018-11-19 07:40:00 +0000,1,de Bruin,GD,Assist - 2nd Phase,1,0,0,17, 116
+2018-11-19 07:40:02 +0000,1,Petty,C,Possession,1,0,0,30, 143
+2018-11-19 07:40:04 +0000,1,Pitman,WA,Possession,1,0,0,36, 163
+2018-11-19 07:40:50 +0000,1,Pitman,WA,Assist - Circle Entry,1,0,0,36, 163
+2018-11-19 07:40:50 +0000,1,Nelson,GS,Goal - Miss,1,0,0,47, 188
+2018-11-19 07:40:56 +0000,1,Nelson,GS,Assist - Attack Rebound,1,0,0,50, 197
+2018-11-19 07:40:59 +0000,1,Nelson,GS,Goal - Score,1,0,0,47, 188
+2018-11-19 07:44:02 +0000,0,Guthrie,C,Centre Pass,1,0,1,50, 100
+2018-11-19 07:44:02 +0000,0,Austin,WA,Loss - Break,1,0,1,50, 67
+2018-11-19 07:44:07 +0000,1,Petty,C,Possession,1,0,1,51, 67
+2018-11-19 08:06:35 +0000,1,Pitman,WA,Possession,1,0,1,5, 113
+2018-11-19 08:06:37 +0000,1,Hodges,GA,Possession,1,0,1,8, 148
+2018-11-19 08:06:40 +0000,1,Hodges,GA,Assist - Circle Entry,1,0,1,8, 148
+2018-11-19 08:06:40 +0000,1,Nelson,GS,Possession,1,0,1,50, 180
+2018-11-19 08:06:43 +0000,0,Poolman ,GK,Penaly - Contact,1,0,1,50, 180
+2018-11-19 08:06:43 +0000,1,Hodges,GA,Possession,1,0,1,50, 180
+2018-11-19 08:06:48 +0000,1,Nelson,GS,Goal - Miss,1,0,1,51, 190
+2018-11-19 08:06:49 +0000,0,Poolman ,GK,Gain - Def Reb,1,0,1,50, 197
+2018-11-19 08:06:51 +0000,1,Shimmin,GK,Penaly - Contact,1,0,1,50, 197
+2018-11-19 08:06:51 +0000,0,Poolman ,GK,Possession,1,0,1,50, 197
+2018-11-19 08:06:55 +0000,0,Bulley ,GD,Possession,1,0,1,86, 148
+2018-11-19 08:06:57 +0000,0,Guthrie,C,Possession,1,0,1,86, 104
+2018-11-19 08:06:59 +0000,0,Bulley ,GD,Possession,1,0,1,50, 127
+2018-11-19 08:07:01 +0000,0,Austin,WA,Possession,1,0,1,11, 75
+2018-11-19 08:07:03 +0000,0,Pettitt ,GS,Possession,1,0,1,8, 20
+2018-11-19 08:07:06 +0000,0,Pettitt ,GS,Assist - Circle Entry,1,0,1,8, 20
+2018-11-19 08:07:06 +0000,0,Harten ,GA,Goal - Score,1,0,1,34, 12
+2018-11-19 08:07:14 +0000,1,Petty,C,Centre Pass,1,1,1,50, 100
+2018-11-19 08:07:14 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,1,1,85, 124
+2018-11-19 08:07:18 +0000,1,Pitman,WA,Assist - Circle Entry,1,1,1,85, 124
+2018-11-19 08:07:18 +0000,1,Nelson,GS,Loss - Step,1,1,1,43, 191
+2018-11-19 08:07:22 +0000,0,Poolman ,GK,Possession,1,1,1,44, 190
+2018-11-19 08:07:27 +0000,0,Price,WD,Possession,1,1,1,13, 183
+2018-11-19 08:07:30 +0000,0,Austin,WA,Possession,1,1,1,3, 83
+2018-11-19 08:07:32 +0000,0,Guthrie,C,Possession,1,1,1,84, 44
+2018-11-19 08:07:35 +0000,0,Pettitt ,GS,Possession,1,1,1,79, 16
+2018-11-19 08:07:37 +0000,0,Guthrie,C,Possession,1,1,1,77, 23
+2018-11-19 08:07:42 +0000,0,Guthrie,C,Assist - Circle Entry,1,1,1,77, 23
+2018-11-19 08:07:42 +0000,0,Harten ,GA,Possession,1,1,1,62, 18
+2018-11-19 08:07:44 +0000,1,Shimmin,GK,Penaly - Obstruction,1,1,1,62, 18
+2018-11-19 08:07:44 +0000,0,Harten ,GA,Goal - Score,1,1,1,62, 18
+2018-11-19 08:07:58 +0000,0,Guthrie,C,Centre Pass,1,2,1,50, 100
+2018-11-19 08:07:58 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,1,2,1,20, 107
+2018-11-19 08:08:00 +0000,0,Harten ,GA,Assist - 2nd Phase,1,2,1,58, 79
+2018-11-19 08:08:04 +0000,0,Harten ,GA,Assist - Circle Entry,1,2,1,58, 79
+2018-11-19 08:08:04 +0000,0,Pettitt ,GS,Possession,1,2,1,21, 9
+2018-11-19 08:08:07 +0000,0,Harten ,GA,Goal - Score,1,2,1,51, 6
+2018-11-19 08:08:32 +0000,1,Petty,C,Centre Pass,1,3,1,50, 100
+2018-11-19 08:08:32 +0000,1,Hodges,GA,Assist - Centre Pass Rec,1,3,1,91, 120
+2018-11-19 08:08:34 +0000,1,de Bruin,GD,Assist - 2nd Phase,1,3,1,79, 101
+2018-11-19 08:08:37 +0000,1,Petty,C,Possession,1,3,1,41, 126
+2018-11-19 08:08:41 +0000,1,Pitman,WA,Possession,1,3,1,56, 145
+2018-11-19 08:08:45 +0000,1,Petty,C,Possession,1,3,1,15, 189
+2018-11-19 08:08:47 +0000,0,Guthrie,C,Penaly - Contact,1,3,1,15, 189
+2018-11-19 08:08:47 +0000,1,Petty,C,Possession,1,3,1,15, 189
+2018-11-19 08:08:56 +0000,0,Bulley ,GD,Penaly - Contact,1,3,1,37, 182
+2018-11-19 08:08:56 +0000,1,Hodges,GA,Goal - Miss,1,3,1,37, 182
+2018-11-19 08:09:03 +0000,1,Nelson,GS,Assist - Attack Rebound,1,3,1,50, 197
+2018-11-19 08:09:05 +0000,1,Nelson,GS,Goal - Score,1,3,1,37, 182
+2018-11-19 08:09:15 +0000,0,Guthrie,C,Centre Pass,1,3,2,50, 100
+2018-11-19 08:09:15 +0000,0,Harten ,GA,Assist - Centre Pass Rec,1,3,2,52, 72
+2018-11-19 08:09:18 +0000,0,Pettitt ,GS,Assist - 2nd Phase,1,3,2,83, 15
+2018-11-19 08:09:21 +0000,0,Austin,WA,Possession,1,3,2,74, 25
+2018-11-19 08:09:48 +0000,0,Austin,WA,Assist - Circle Entry,1,3,2,74, 25
+2018-11-19 08:09:48 +0000,0,Pettitt ,GS,Possession,1,3,2,67, 5
+2018-11-19 08:09:51 +0000,0,Guthrie,C,Possession,1,3,2,59, 31
+2018-11-19 08:09:52 +0000,1,Petty,C,Penaly - Contact,1,3,2,59, 31
+2018-11-19 08:09:52 +0000,0,Guthrie,C,Possession,1,3,2,59, 31
+2018-11-19 08:09:59 +0000,0,Guthrie,C,Assist - Circle Entry,1,3,2,59, 31
+2018-11-19 08:09:59 +0000,0,Pettitt ,GS,Goal - Miss,1,3,2,62, 5
+2018-11-19 08:10:07 +0000,1,de Bruin,GD,Gain - Def Reb,1,3,2,50, 2
+2018-11-19 08:10:10 +0000,1,Petty,C,Possession,1,3,2,35, 33
+2018-11-19 08:10:12 +0000,1,Fowler,WD,Possession,1,3,2,47, 54
+2018-11-19 08:10:20 +0000,1,Shimmin,GK,Possession,1,3,2,11, 61
+2018-11-19 08:10:23 +0000,1,Fowler,WD,Possession,1,3,2,10, 91
+2018-11-19 08:10:28 +0000,1,Shimmin,GK,Loss - Drop,1,3,2,27, 153
+2018-11-19 08:10:30 +0000,0,Poolman ,GK,Throw In,1,3,2,-5, 164
+2018-11-19 08:10:39 +0000,0,Bulley ,GD,Possession,1,3,2,44, 176
+2018-11-19 08:10:40 +0000,0,Price,WD,Possession,1,3,2,18, 135
+2018-11-19 08:10:56 +0000,0,Poolman ,GK,Possession,1,3,2,48, 150
+2018-11-19 08:10:58 +0000,0,Guthrie,C,Possession,1,3,2,77, 106
+2018-11-19 08:11:03 +0000,0,Austin,WA,Possession,1,3,2,56, 90
+2018-11-19 08:11:07 +0000,0,Guthrie,C,Possession,1,3,2,82, 42
+2018-11-19 08:11:10 +0000,0,Harten ,GA,Possession,1,3,2,56, 33
+2018-11-19 08:11:12 +0000,0,Harten ,GA,Assist - Circle Entry,1,3,2,56, 33
+2018-11-19 08:11:12 +0000,0,Pettitt ,GS,Possession,1,3,2,21, 6
+2018-11-19 08:11:14 +0000,0,Harten ,GA,Goal - Miss,1,3,2,48, 11
+2018-11-19 08:11:27 +0000,0,Harten ,GA,Assist - Attack Rebound,1,3,2,68, 22
+2018-11-19 08:11:38 +0000,0,Austin,WA,Possession,1,3,2,43, 33
+2018-11-19 08:11:39 +0000,1,Fowler,WD,Penaly - Contact,1,3,2,43, 33
+2018-11-19 08:11:39 +0000,0,Austin,WA,Possession,1,3,2,43, 33
+2018-11-19 08:11:43 +0000,0,Austin,WA,Assist - Circle Entry,1,3,2,43, 33
+2018-11-19 08:11:43 +0000,0,Pettitt ,GS,Goal - Score,1,3,2,51, 15
+2018-11-19 08:11:54 +0000,1,Petty,C,Centre Pass,1,4,2,50, 100
+2018-11-19 08:11:54 +0000,1,Hodges,GA,Assist - Centre Pass Rec,1,4,2,22, 130
+2018-11-19 08:11:57 +0000,0,Guthrie,C,Penaly - Contact,1,4,2,36, 142
+2018-11-19 08:11:57 +0000,1,Petty,C,Assist - 2nd Phase,1,4,2,36, 142
+2018-11-19 08:12:04 +0000,1,Pitman,WA,Possession,1,4,2,19, 180
+2018-11-19 08:12:13 +0000,1,Pitman,WA,Assist - Circle Entry,1,4,2,19, 180
+2018-11-19 08:12:13 +0000,1,Nelson,GS,Loss - Drop,1,4,2,50, 188
+2018-11-19 08:12:52 +0000,0,Poolman ,GK,Gain - Inter,1,4,2,49, 187
+2018-11-19 08:13:04 +0000,0,Bulley ,GD,Possession,1,4,2,65, 163
+2018-11-19 08:13:07 +0000,0,Price,WD,Possession,1,4,2,55, 76
+2018-11-19 08:13:09 +0000,0,Bulley ,GD,Possession,1,4,2,83, 71
+2018-11-19 08:13:12 +0000,0,Austin,WA,Possession,1,4,2,56, 55
+2018-11-19 08:13:14 +0000,0,Guthrie,C,Possession,1,4,2,66, 38
+2018-11-19 08:13:19 +0000,0,Austin,WA,Possession,1,4,2,17, 8
+2018-11-19 08:13:26 +0000,0,Austin,WA,Assist - Circle Entry,1,4,2,17, 8
+2018-11-19 08:13:26 +0000,0,Pettitt ,GS,Possession,1,4,2,54, 3
+2018-11-19 08:13:28 +0000,1,Shimmin,GK,Penaly - Obstruction,1,4,2,54, 3
+2018-11-19 08:13:28 +0000,0,Pettitt ,GS,Goal - Score,1,4,2,54, 3
+2018-11-19 08:13:36 +0000,0,Guthrie,C,Centre Pass,1,5,2,50, 100
+2018-11-19 08:13:36 +0000,0,Austin,WA,Assist - Centre Pass Rec,1,5,2,11, 73
+2018-11-19 08:13:52 +0000,0,Bulley ,GD,Assist - 2nd Phase,1,5,2,47, 86
+2018-11-19 08:13:54 +0000,0,Guthrie,C,Possession,1,5,2,17, 59
+2018-11-19 08:13:56 +0000,0,Harten ,GA,Possession,1,5,2,50, 40
+2018-11-19 08:14:23 +0000,1,Fowler,WD,Loss - Offside,1,5,2,64, 27
+2018-11-19 08:14:23 +0000,0,Pettitt ,GS,Possession,1,5,2,64, 27
+2018-11-19 08:14:36 +0000,0,Harten ,GA,Possession,1,5,2,52, 4
+2018-11-19 08:14:40 +0000,1,de Bruin,GD,Penaly - Obstruction,1,5,2,52, 4
+2018-11-19 08:14:40 +0000,0,Harten ,GA,Goal - Score,1,5,2,52, 4
+2018-11-19 08:14:47 +0000,1,Petty,C,Centre Pass,1,6,2,50, 100
+2018-11-19 08:14:47 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,6,2,77, 125
+2018-11-19 08:14:49 +0000,1,Hodges,GA,Assist - 2nd Phase,1,6,2,75, 173
+2018-11-19 08:14:58 +0000,1,Hodges,GA,Assist - Circle Entry,1,6,2,75, 173
+2018-11-19 08:14:58 +0000,1,Nelson,GS,Loss - Drop,1,6,2,27, 195
+2018-11-19 08:15:00 +0000,0,Poolman ,GK,Throw In,1,6,2,29, 203
+2018-11-19 08:15:06 +0000,0,Price,WD,Possession,1,6,2,27, 153
+2018-11-19 08:15:10 +0000,1,Pitman,WA,Penaly - Contact,1,6,2,27, 153
+2018-11-19 08:15:10 +0000,0,Poolman ,GK,Possession,1,6,2,27, 153
+2018-11-19 08:15:17 +0000,0,Price,WD,Possession,1,6,2,4, 117
+2018-11-19 08:15:19 +0000,0,Austin,WA,Possession,1,6,2,6, 75
+2018-11-19 08:15:28 +0000,0,Bulley ,GD,Possession,1,6,2,26, 75
+2018-11-19 08:15:33 +0000,1,Pitman,WA,Penaly - Contact,1,6,2,26, 75
+2018-11-19 08:15:33 +0000,0,Bulley ,GD,Possession,1,6,2,26, 75
+2018-11-19 08:15:41 +0000,0,Austin,WA,Possession,1,6,2,30, 43
+2018-11-19 08:15:42 +0000,1,Petty,C,Penaly - Contact,1,6,2,30, 43
+2018-11-19 08:15:42 +0000,0,Austin,WA,Possession,1,6,2,30, 43
+2018-11-19 08:15:48 +0000,1,de Bruin,GD,Penaly - Contact,1,6,2,38, 21
+2018-11-19 08:15:48 +0000,0,Harten ,GA,Goal - Miss,1,6,2,38, 21
+2018-11-19 08:15:55 +0000,1,Shimmin,GK,Gain - Def Reb,1,6,2,50, 2
+2018-11-19 08:15:57 +0000,1,Fowler,WD,Possession,1,6,2,69, 30
+2018-11-19 08:16:01 +0000,1,Shimmin,GK,Possession,1,6,2,57, 44
+2018-11-19 08:16:05 +0000,1,Petty,C,Possession,1,6,2,87, 97
+2018-11-19 08:16:09 +0000,1,Pitman,WA,Possession,1,6,2,76, 172
+2018-11-19 08:16:13 +0000,1,Pitman,WA,Assist - Circle Entry,1,6,2,76, 172
+2018-11-19 08:16:13 +0000,1,Hodges,GA,Possession,1,6,2,47, 167
+2018-11-19 08:16:15 +0000,1,Pitman,WA,Possession,1,6,2,75, 175
+2018-11-19 08:16:20 +0000,1,Petty,C,Possession,1,6,2,22, 176
+2018-11-19 08:16:23 +0000,1,Petty,C,Assist - Circle Entry,1,6,2,22, 176
+2018-11-19 08:16:33 +0000,1,Nelson,GS,Possession,1,6,2,62, 184
+2018-11-19 08:16:35 +0000,0,Poolman ,GK,Penaly - Contact,1,6,2,62, 184
+2018-11-19 08:16:35 +0000,1,Hodges,GA,Possession,1,6,2,62, 184
+2018-11-19 08:16:41 +0000,1,Nelson,GS,Possession,1,6,2,45, 194
+2018-11-19 08:16:42 +0000,0,Bulley ,GD,Penaly - Contact,1,6,2,45, 194
+2018-11-19 08:16:42 +0000,1,Nelson,GS,Goal - Score,1,6,2,45, 194
+2018-11-19 08:16:49 +0000,1,,UNKNOWN,Timeout,1,6,3,110, 222
+2018-11-19 08:17:41 +0000,0,Guthrie,C,Centre Pass,1,6,3,50, 100
+2018-11-19 08:17:41 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,1,6,3,81, 115
+2018-11-19 08:17:43 +0000,0,Guthrie,C,Assist - 2nd Phase,1,6,3,63, 94
+2018-11-19 08:17:46 +0000,0,Bulley ,GD,Possession,1,6,3,83, 79
+2018-11-19 08:17:48 +0000,0,Harten ,GA,Possession,1,6,3,85, 55
+2018-11-19 08:17:51 +0000,0,Guthrie,C,Possession,1,6,3,62, 51
+2018-11-19 08:17:55 +0000,1,de Bruin,GD,Gain - Inter,1,6,3,11, 35
+2018-11-19 08:17:58 +0000,1,Petty,C,Possession,1,6,3,29, 54
+2018-11-19 08:18:03 +0000,1,Pitman,WA,Possession,1,6,3,31, 118
+2018-11-19 08:18:06 +0000,1,Hodges,GA,Possession,1,6,3,73, 167
+2018-11-19 08:18:19 +0000,1,Nelson,GS,Penaly - Contact,1,6,3,52, 174
+2018-11-19 08:18:19 +0000,0,Poolman ,GK,Possession,1,6,3,52, 174
+2018-11-19 08:18:31 +0000,0,Bulley ,GD,Possession,1,6,3,55, 151
+2018-11-19 08:18:34 +0000,0,Price,WD,Possession,1,6,3,84, 125
+2018-11-19 08:18:36 +0000,0,Bulley ,GD,Possession,1,6,3,11, 114
+2018-11-19 08:18:38 +0000,0,Harten ,GA,Possession,1,6,3,6, 81
+2018-11-19 08:18:41 +0000,0,Austin,WA,Possession,1,6,3,29, 68
+2018-11-19 08:18:51 +0000,0,Harten ,GA,Possession,1,6,3,37, 37
+2018-11-19 08:19:20 +0000,0,Harten ,GA,Assist - Circle Entry,1,6,3,37, 37
+2018-11-19 08:19:20 +0000,0,Pettitt ,GS,Possession,1,6,3,45, 3
+2018-11-19 08:19:21 +0000,1,Shimmin,GK,Penaly - Obstruction,1,6,3,45, 3
+2018-11-19 08:19:21 +0000,0,Pettitt ,GS,Goal - Score,1,6,3,45, 3
+2018-11-19 08:19:26 +0000,1,Petty,C,Centre Pass,1,7,3,50, 100
+2018-11-19 08:19:26 +0000,1,Hodges,GA,Assist - Centre Pass Rec,1,7,3,68, 125
+2018-11-19 08:19:29 +0000,1,Pitman,WA,Assist - 2nd Phase,1,7,3,84, 156
+2018-11-19 08:19:32 +0000,1,Hodges,GA,Possession,1,7,3,60, 156
+2018-11-19 08:19:34 +0000,1,Hodges,GA,Assist - Circle Entry,1,7,3,60, 156
+2018-11-19 08:19:34 +0000,1,Nelson,GS,Possession,1,7,3,41, 185
+2018-11-19 08:19:37 +0000,1,Petty,C,Possession,1,7,3,81, 183
+2018-11-19 08:19:39 +0000,1,Pitman,WA,Possession,1,7,3,20, 176
+2018-11-19 08:19:45 +0000,1,Petty,C,Possession,1,7,3,44, 164
+2018-11-19 08:19:47 +0000,1,Pitman,WA,Possession,1,7,3,19, 182
+2018-11-19 08:19:51 +0000,1,Pitman,WA,Assist - Circle Entry,1,7,3,19, 182
+2018-11-19 08:19:51 +0000,1,Nelson,GS,Goal - Score,1,7,3,53, 190
+2018-11-19 08:20:02 +0000,0,Guthrie,C,Centre Pass,1,7,4,50, 100
+2018-11-19 08:20:02 +0000,0,Austin,WA,Assist - Centre Pass Rec,1,7,4,56, 80
+2018-11-19 08:20:04 +0000,0,Harten ,GA,Assist - 2nd Phase,1,7,4,81, 17
+2018-11-19 08:20:08 +0000,0,Austin,WA,Possession,1,7,4,85, 30
+2018-11-19 08:20:22 +0000,0,Austin,WA,Assist - Circle Entry,1,7,4,85, 30
+2018-11-19 08:20:22 +0000,0,Pettitt ,GS,Possession,1,7,4,51, 20
+2018-11-19 08:20:24 +0000,1,de Bruin,GD,Penaly - Contact,1,7,4,51, 20
+2018-11-19 08:20:24 +0000,0,Pettitt ,GS,Goal - Miss,1,7,4,51, 20
+2018-11-19 08:20:35 +0000,1,Shimmin,GK,Gain - Def Reb,1,7,4,50, 2
+2018-11-19 08:20:38 +0000,1,Petty,C,Possession,1,7,4,15, 18
+2018-11-19 08:20:40 +0000,1,de Bruin,GD,Possession,1,7,4,10, 55
+2018-11-19 08:20:43 +0000,1,Fowler,WD,Possession,1,7,4,13, 70
+2018-11-19 08:20:46 +0000,1,de Bruin,GD,Possession,1,7,4,12, 85
+2018-11-19 08:20:49 +0000,1,Pitman,WA,Possession,1,7,4,10, 146
+2018-11-19 08:20:52 +0000,1,Pitman,WA,Assist - Circle Entry,1,7,4,10, 146
+2018-11-19 08:20:52 +0000,1,Nelson,GS,Goal - Score,1,7,4,52, 189
+2018-11-19 08:21:04 +0000,1,Petty,C,Centre Pass,1,7,5,50, 100
+2018-11-19 08:21:04 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,7,5,10, 124
+2018-11-19 08:21:07 +0000,1,Petty,C,Assist - 2nd Phase,1,7,5,19, 177
+2018-11-19 08:21:15 +0000,0,Poolman ,GK,Penaly - Contact,1,7,5,38, 191
+2018-11-19 08:21:15 +0000,1,Hodges,GA,Goal - Score,1,7,5,38, 191
+2018-11-19 08:21:23 +0000,0,,UNKNOWN,Timeout,1,7,6,110, 222
+2018-11-19 08:24:40 +0000,0,Guthrie,C,Centre Pass,1,7,6,50, 100
+2018-11-19 08:24:40 +0000,0,Harten ,GA,Assist - Centre Pass Rec,1,7,6,42, 81
+2018-11-19 08:24:43 +0000,0,Harten ,GA,Assist - Circle Entry,1,7,6,42, 81
+2018-11-19 08:24:43 +0000,0,Pettitt ,GS,Possession,1,7,6,32, 3
+2018-11-19 08:24:45 +0000,0,Guthrie,C,Possession,1,7,6,84, 12
+2018-11-19 08:24:50 +0000,0,Guthrie,C,Assist - Circle Entry,1,7,6,84, 12
+2018-11-19 08:24:50 +0000,0,Harten ,GA,Possession,1,7,6,68, 8
+2018-11-19 08:24:52 +0000,0,Guthrie,C,Possession,1,7,6,83, 10
+2018-11-19 08:24:55 +0000,0,Guthrie,C,Assist - Circle Entry,1,7,6,83, 10
+2018-11-19 08:24:55 +0000,0,Harten ,GA,Goal - Score,1,7,6,59, 4
+2018-11-19 08:25:05 +0000,1,Petty,C,Centre Pass,1,8,6,50, 100
+2018-11-19 08:25:05 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,8,6,30, 124
+2018-11-19 08:25:07 +0000,1,Hodges,GA,Assist - 2nd Phase,1,8,6,49, 149
+2018-11-19 08:25:09 +0000,1,Hodges,GA,Assist - Circle Entry,1,8,6,49, 149
+2018-11-19 08:25:09 +0000,1,Nelson,GS,Possession,1,8,6,54, 175
+2018-11-19 08:25:10 +0000,1,Fowler,WD,Possession,1,8,6,56, 127
+2018-11-19 08:25:12 +0000,1,Pitman,WA,Possession,1,8,6,51, 145
+2018-11-19 08:25:15 +0000,0,Bulley ,GD,Deflect,1,8,6,51, 180
+2018-11-19 08:25:16 +0000,1,Hodges,GA,Possession,1,8,6,53, 173
+2018-11-19 08:25:27 +0000,1,Nelson,GS,Loss - Off Contact,1,8,6,53, 193
+2018-11-19 08:25:37 +0000,0,Poolman ,GK,Possession,1,8,6,53, 192
+2018-11-19 08:25:40 +0000,0,Bulley ,GD,Possession,1,8,6,51, 159
+2018-11-19 08:25:44 +0000,0,Guthrie,C,Possession,1,8,6,23, 96
+2018-11-19 08:25:46 +0000,0,Guthrie,C,Possession,1,8,6,65, 72
+2018-11-19 08:25:48 +0000,0,Price,WD,Possession,1,8,6,81, 68
+2018-11-19 08:25:50 +0000,0,Harten ,GA,Possession,1,8,6,78, 45
+2018-11-19 08:25:52 +0000,0,Bulley ,GD,Possession,1,8,6,65, 69
+2018-11-19 08:25:58 +0000,0,Guthrie,C,Loss - Bad Pass,1,8,6,66, 47
+2018-11-19 08:26:01 +0000,1,Shimmin,GK,Throw In,1,8,6,-6, 16
+2018-11-19 08:26:28 +0000,0,Poolman ,GK,Interchange - Manu’a,1,8,6,
+2018-11-19 08:26:44 +0000,1,de Bruin,GD,Possession,1,8,6,12, 54
+2018-11-19 08:26:48 +0000,1,Fowler,WD,Possession,1,8,6,39, 52
+2018-11-19 08:26:51 +0000,1,de Bruin,GD,Possession,1,8,6,23, 71
+2018-11-19 08:26:53 +0000,1,Fowler,WD,Possession,1,8,6,50, 72
+2018-11-19 08:26:55 +0000,1,Shimmin,GK,Possession,1,8,6,17, 60
+2018-11-19 08:26:57 +0000,0,Austin,WA,Penaly - Contact,1,8,6,8, 80
+2018-11-19 08:26:57 +0000,1,Fowler,WD,Possession,1,8,6,8, 80
+2018-11-19 08:27:04 +0000,1,Petty,C,Possession,1,8,6,50, 115
+2018-11-19 08:27:06 +0000,1,de Bruin,GD,Possession,1,8,6,19, 127
+2018-11-19 08:27:09 +0000,1,Hodges,GA,Possession,1,8,6,16, 193
+2018-11-19 08:27:11 +0000,1,Hodges,GA,Assist - Circle Entry,1,8,6,16, 193
+2018-11-19 08:27:11 +0000,1,Nelson,GS,Goal - Miss,1,8,6,51, 188
+2018-11-19 08:27:18 +0000,0,Manu’a,GK,Deflect,1,8,6,50, 197
+2018-11-19 08:27:19 +0000,1,Hodges,GA,Throw In,1,8,6,60, 201
+2018-11-19 08:27:29 +0000,0,Price,WD,Penaly - Contact,1,8,6,72, 172
+2018-11-19 08:27:29 +0000,1,Petty,C,Possession,1,8,6,72, 172
+2018-11-19 08:27:37 +0000,1,Pitman,WA,Possession,1,8,6,52, 163
+2018-11-19 08:27:39 +0000,1,Hodges,GA,Possession,1,8,6,24, 173
+2018-11-19 08:27:41 +0000,1,Pitman,WA,Loss - Bad Pass,1,8,6,32, 168
+2018-11-19 08:27:47 +0000,0,Manu’a,GK,Throw In,1,8,6,61, 202
+2018-11-19 08:27:54 +0000,0,Price,WD,Possession,1,8,6,23, 174
+2018-11-19 08:27:57 +0000,1,Pitman,WA,Penaly - Contact,1,8,6,23, 174
+2018-11-19 08:27:57 +0000,0,Price,WD,Possession,1,8,6,23, 174
+2018-11-19 08:28:02 +0000,0,Manu’a,GK,Possession,1,8,6,42, 176
+2018-11-19 08:28:10 +0000,0,Bulley ,GD,Possession,1,8,6,77, 142
+2018-11-19 08:28:13 +0000,0,Price,WD,Possession,1,8,6,33, 124
+2018-11-19 08:28:15 +0000,0,Guthrie,C,Possession,1,8,6,19, 97
+2018-11-19 08:28:17 +0000,0,Bulley ,GD,Possession,1,8,6,37, 83
+2018-11-19 08:28:19 +0000,0,Austin,WA,Possession,1,8,6,72, 38
+2018-11-19 08:28:23 +0000,0,Pettitt ,GS,Possession,1,8,6,83, 8
+2018-11-19 08:28:28 +0000,0,Pettitt ,GS,Assist - Circle Entry,1,8,6,83, 8
+2018-11-19 08:28:28 +0000,0,Harten ,GA,Goal - Score,1,8,6,60, 4
+2018-11-19 08:28:38 +0000,0,Guthrie,C,Centre Pass,1,9,6,50, 100
+2018-11-19 08:28:38 +0000,0,Harten ,GA,Assist - Centre Pass Rec,1,9,6,63, 70
+2018-11-19 08:28:43 +0000,0,Austin,WA,Loss - Step,1,9,6,73, 39
+2018-11-19 08:28:50 +0000,1,Shimmin,GK,Possession,1,9,6,75, 38
+2018-11-19 08:28:53 +0000,1,Fowler,WD,Possession,1,9,6,80, 71
+2018-11-19 08:28:56 +0000,1,Pitman,WA,Possession,1,9,6,85, 101
+2018-11-19 08:29:04 +0000,1,Fowler,WD,Possession,1,9,6,74, 85
+2018-11-19 08:29:06 +0000,1,de Bruin,GD,Possession,1,9,6,68, 122
+2018-11-19 08:29:08 +0000,1,Fowler,WD,Possession,1,9,6,37, 108
+2018-11-19 08:29:12 +0000,1,Pitman,WA,Possession,1,9,6,13, 120
+2018-11-19 08:29:14 +0000,0,Price,WD,Penaly - Contact,1,9,6,18, 150
+2018-11-19 08:29:14 +0000,1,Petty,C,Possession,1,9,6,18, 150
+2018-11-19 08:29:21 +0000,1,Pitman,WA,Possession,1,9,6,47, 157
+2018-11-19 08:29:26 +0000,0,Manu’a,GK,Deflect,1,9,6,51, 170
+2018-11-19 08:29:26 +0000,1,Pitman,WA,Possession,1,9,6,50, 163
+2018-11-19 08:29:32 +0000,0,Guthrie,C,Penaly - Obstruction,1,9,6,50, 163
+2018-11-19 08:29:32 +0000,1,Pitman,WA,Possession,1,9,6,50, 163
+2018-11-19 08:29:42 +0000,0,Bulley ,GD,Deflect,1,9,6,55, 173
+2018-11-19 08:29:42 +0000,1,Pitman,WA,Possession,1,9,6,53, 166
+2018-11-19 08:29:48 +0000,1,Pitman,WA,Assist - Circle Entry,1,9,6,53, 166
+2018-11-19 08:29:48 +0000,1,Hodges,GA,Possession,1,9,6,54, 177
+2018-11-19 08:29:50 +0000,0,Bulley ,GD,Penaly - Contact,1,9,6,54, 177
+2018-11-19 08:29:50 +0000,1,Hodges,GA,Goal - Score,1,9,6,54, 177
+2018-11-19 08:30:01 +0000,1,Petty,C,Centre Pass,1,9,7,50, 100
+2018-11-19 08:30:01 +0000,1,Hodges,GA,Loss - Drop,1,9,7,39, 119
+2018-11-19 08:30:08 +0000,0,Guthrie,C,Gain - Pick-up,1,9,7,44, 121
+2018-11-19 08:30:15 +0000,0,Price,WD,Possession,1,9,7,70, 121
+2018-11-19 08:30:17 +0000,0,Harten ,GA,Possession,1,9,7,82, 69
+2018-11-19 08:30:18 +0000,0,Price,WD,Possession,1,9,7,69, 76
+2018-11-19 08:30:22 +0000,1,Fowler,WD,Penaly - Contact,1,9,7,59, 33
+2018-11-19 08:30:22 +0000,0,Austin,WA,Possession,1,9,7,59, 33
+2018-11-19 08:30:28 +0000,0,Austin,WA,Assist - Circle Entry,1,9,7,59, 33
+2018-11-19 08:30:28 +0000,0,Harten ,GA,Possession,1,9,7,61, 3
+2018-11-19 08:30:30 +0000,0,Austin,WA,Possession,1,9,7,80, 16
+2018-11-19 08:30:34 +0000,0,Austin,WA,Assist - Circle Entry,1,9,7,80, 16
+2018-11-19 08:30:34 +0000,0,Harten ,GA,Possession,1,9,7,51, 12
+2018-11-19 08:30:36 +0000,1,de Bruin,GD,Penaly - Contact,1,9,7,51, 12
+2018-11-19 08:30:36 +0000,0,Harten ,GA,Possession,1,9,7,51, 12
+2018-11-19 08:30:51 +0000,1,de Bruin,GD,Penaly - Contact,1,9,7,44, 4
+2018-11-19 08:30:51 +0000,0,Pettitt ,GS,Goal - Score,1,9,7,44, 4
+2018-11-19 08:31:05 +0000,0,Guthrie,C,Centre Pass,1,10,7,50, 100
+2018-11-19 08:31:05 +0000,0,Harten ,GA,Assist - Centre Pass Rec,1,10,7,72, 72
+2018-11-19 08:31:07 +0000,0,Guthrie,C,Assist - 2nd Phase,1,10,7,46, 70
+2018-11-19 08:31:09 +0000,0,Pettitt ,GS,Possession,1,10,7,6, 29
+2018-11-19 08:31:12 +0000,0,Harten ,GA,Possession,1,10,7,73, 35
+2018-11-19 08:31:14 +0000,0,Austin,WA,Assist - Circle Entry,1,10,7,73, 35
+2018-11-19 08:31:15 +0000,0,Harten ,GA,Possession,1,10,7,62, 10
+2018-11-19 08:31:23 +0000,1,Shimmin,GK,Penaly - Contact,1,10,7,62, 10
+2018-11-19 08:31:23 +0000,0,Harten ,GA,Goal - Score,1,10,7,62, 10
+2018-11-19 08:31:32 +0000,1,Petty,C,Centre Pass,1,11,7,50, 100
+2018-11-19 08:31:32 +0000,1,Fowler,WD,Assist - Centre Pass Rec,1,11,7,22, 109
+2018-11-19 08:31:34 +0000,1,Hodges,GA,Assist - 2nd Phase,1,11,7,26, 139
+2018-11-19 08:31:37 +0000,0,Bulley ,GD,Penaly - Contact,1,11,7,26, 139
+2018-11-19 08:31:37 +0000,1,Pitman,WA,Possession,1,11,7,26, 139
+2018-11-19 08:31:42 +0000,1,Petty,C,Possession,1,11,7,71, 170
+2018-11-19 08:31:44 +0000,1,Petty,C,Assist - Circle Entry,1,11,7,71, 170
+2018-11-19 08:31:44 +0000,1,Hodges,GA,Possession,1,11,7,57, 186
+2018-11-19 08:31:46 +0000,0,Manu’a,GK,Penaly - Obstruction,1,11,7,57, 186
+2018-11-19 08:31:46 +0000,1,Hodges,GA,Goal - Score,1,11,7,57, 186
+2018-11-19 08:31:56 +0000,0,Guthrie,C,Centre Pass,1,11,8,50, 100
+2018-11-19 08:31:56 +0000,0,Harten ,GA,Assist - Centre Pass Rec,1,11,8,77, 72
+2018-11-19 08:31:58 +0000,0,Guthrie,C,Assist - 2nd Phase,1,11,8,53, 69
+2018-11-19 08:32:00 +0000,0,Harten ,GA,Possession,1,11,8,65, 36
+2018-11-19 08:32:15 +0000,1,Petty,C,Penaly - Contact,1,11,8,20, 18
+2018-11-19 08:32:15 +0000,0,Guthrie,C,Possession,1,11,8,20, 18
+2018-11-19 08:32:21 +0000,0,Guthrie,C,Assist - Circle Entry,1,11,8,20, 18
+2018-11-19 08:32:21 +0000,0,Harten ,GA,Possession,1,11,8,31, 10
+2018-11-19 08:32:23 +0000,1,de Bruin,GD,Penaly - Obstruction,1,11,8,31, 10
+2018-11-19 08:32:24 +0000,0,Harten ,GA,Goal - Score,1,11,8,31, 10
+2018-11-19 08:32:34 +0000,1,Petty,C,Centre Pass,1,12,8,50, 100
+2018-11-19 08:32:34 +0000,1,Hodges,GA,Assist - Centre Pass Rec,1,12,8,65, 127
+2018-11-19 08:32:36 +0000,1,Pitman,WA,Assist - 2nd Phase,1,12,8,83, 128
+2018-11-19 08:32:38 +0000,1,Fowler,WD,Possession,1,12,8,53, 81
+2018-11-19 08:32:39 +0000,1,de Bruin,GD,Possession,1,12,8,80, 87
+2018-11-19 08:32:41 +0000,1,Fowler,WD,Possession,1,12,8,83, 104
+2018-11-19 08:32:44 +0000,1,de Bruin,GD,Possession,1,12,8,41, 110
+2018-11-19 08:32:47 +0000,1,Fowler,WD,Possession,1,12,8,46, 95
+2018-11-19 08:32:49 +0000,1,de Bruin,GD,Possession,1,12,8,14, 126
+2018-11-19 08:32:51 +0000,1,Petty,C,Possession,1,12,8,13, 183
+2018-11-19 08:32:56 +0000,1,Petty,C,Assist - Circle Entry,1,12,8,13, 183
+2018-11-19 08:32:56 +0000,1,Hodges,GA,Possession,1,12,8,52, 172
+2018-11-19 08:32:58 +0000,1,Pitman,WA,Possession,1,12,8,51, 161
+2018-11-19 08:33:00 +0000,1,Pitman,WA,Assist - Circle Entry,1,12,8,51, 161
+2018-11-19 08:33:00 +0000,1,Hodges,GA,Possession,1,12,8,48, 178
+2018-11-19 08:33:02 +0000,0,Manu’a,GK,Penaly - Obstruction,1,12,8,48, 178
+2018-11-19 08:33:02 +0000,1,Hodges,GA,Goal - Score,1,12,8,48, 178
+2018-11-19 08:33:14 +0000,0,Guthrie,C,Centre Pass,1,12,9,50, 100
+2018-11-19 08:33:14 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,1,12,9,81, 72
+2018-11-19 08:33:17 +0000,0,Harten ,GA,Assist - 2nd Phase,1,12,9,62, 46
+2018-11-19 08:33:19 +0000,0,Guthrie,C,Possession,1,12,9,43, 54
+2018-11-19 08:33:21 +0000,0,Pettitt ,GS,Possession,1,12,9,13, 34
+2018-11-19 08:33:27 +0000,0,Pettitt ,GS,Assist - Circle Entry,1,12,9,13, 34
+2018-11-19 08:33:27 +0000,0,Harten ,GA,Possession,1,12,9,26, 11
+2018-11-19 08:33:32 +0000,1,Shimmin,GK,Gain - Inter,1,12,9,58, 13
+2018-11-19 08:33:38 +0000,1,de Bruin,GD,Possession,1,12,9,64, 54
+2018-11-19 08:33:40 +0000,1,Hodges,GA,Possession,1,12,9,87, 97
+2018-11-19 08:33:43 +0000,1,de Bruin,GD,Possession,1,12,9,67, 119
+2018-11-19 08:33:46 +0000,1,Fowler,WD,Possession,1,12,9,56, 92
+2018-11-19 08:33:49 +0000,1,de Bruin,GD,Possession,1,12,9,75, 112
+2018-11-19 08:33:51 +0000,1,Fowler,WD,Possession,1,12,9,63, 127
+2018-11-19 08:33:55 +0000,0,Price,WD,Penaly - Contact,1,12,9,60, 139
+2018-11-19 08:33:55 +0000,1,Pitman,WA,Possession,1,12,9,60, 139
+2018-11-19 08:34:01 +0000,1,Petty,C,Possession,1,12,9,49, 154
+2018-11-19 08:34:04 +0000,1,Petty,C,Assist - Circle Entry,1,12,9,49, 154
+2018-11-19 08:34:04 +0000,1,Nelson,GS,Possession,1,12,9,55, 189
+2018-11-19 08:34:05 +0000,0,Manu’a,GK,Penaly - Contact,1,12,9,55, 189
+2018-11-19 08:34:05 +0000,1,Nelson,GS,Possession,1,12,9,55, 189
+2018-11-19 08:34:10 +0000,0,Bulley ,GD,Penaly - Contact,1,12,9,55, 189
+2018-11-19 08:34:10 +0000,1,Nelson,GS,Goal - Score,1,12,9,55, 189
+2018-11-19 08:35:20 +0000,1,Petty,C,Centre Pass,1,12,10,50, 100
+2018-11-19 08:35:20 +0000,1,Pitman,WA,Assist - Centre Pass Rec,1,12,10,26, 109
+2018-11-19 08:35:24 +0000,1,Hodges,GA,Assist - 2nd Phase,1,12,10,16, 193
+2018-11-19 08:35:30 +0000,1,Hodges,GA,Assist - Circle Entry,1,12,10,16, 193
+2018-11-19 08:35:30 +0000,1,Nelson,GS,Possession,1,12,10,50, 186
+2018-11-19 08:35:31 +0000,0,Manu’a,GK,Penaly - Contact,1,12,10,50, 186
+2018-11-19 08:35:31 +0000,1,Hodges,GA,Goal - Score,1,12,10,50, 186
+2018-11-19 08:35:44 +0000,0,Guthrie,C,Centre Pass,1,12,11,50, 100
+2018-11-19 08:35:44 +0000,0,Harten ,GA,Assist - Centre Pass Rec,1,12,11,19, 75
+2018-11-19 08:35:46 +0000,0,Austin,WA,Assist - 2nd Phase,1,12,11,34, 68
+2018-11-19 08:35:48 +0000,0,Guthrie,C,Possession,1,12,11,26, 51
+2018-11-19 08:35:50 +0000,0,Pettitt ,GS,Possession,1,12,11,60, 49
+2018-11-19 08:36:00 +0000,0,Pettitt ,GS,Assist - Circle Entry,1,12,11,60, 49
+2018-11-19 08:36:00 +0000,0,Harten ,GA,Goal - Score,1,12,11,51, 24
+2018-11-19 08:36:11 +0000,1,Petty,C,Centre Pass,1,13,11,50, 100
+2018-11-19 08:36:11 +0000,1,Hodges,GA,Assist - Centre Pass Rec,1,13,11,84, 127
+2018-11-19 08:36:16 +0000,1,Hodges,GA,Assist - Circle Entry,1,13,11,84, 127
+2018-11-19 08:36:16 +0000,1,Nelson,GS,Loss - Drop,1,13,11,56, 187
+2018-11-19 08:36:19 +0000,0,Manu’a,GK,Possession,1,13,11,53, 189
+2018-11-19 08:36:24 +0000,0,Harten ,GA,Possession,1,13,11,18, 115
+2018-11-19 08:36:34 +0000,0,Harten ,GA,Assist - Circle Entry,1,13,11,18, 115
+2018-11-19 08:36:34 +0000,1,Shimmin,GK,Gain - Inter,1,13,11,47, 16
+2018-11-19 08:36:40 +0000,1,de Bruin,GD,Possession,1,13,11,43, 73
+2018-11-19 08:43:58 +0000,0,Guthrie,C,Centre Pass,2,13,11,50, 100
+2018-11-19 08:43:58 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,2,13,11,80, 121
+2018-11-19 08:44:00 +0000,0,Austin,WA,Assist - 2nd Phase,2,13,11,59, 89
+2018-11-19 08:44:02 +0000,0,Harten ,GA,Possession,2,13,11,77, 54
+2018-11-19 08:44:04 +0000,0,Guthrie,C,Possession,2,13,11,90, 9
+2018-11-19 08:44:10 +0000,0,Guthrie,C,Assist - Circle Entry,2,13,11,90, 9
+2018-11-19 08:44:10 +0000,0,Pettitt ,GS,Possession,2,13,11,77, 6
+2018-11-19 08:44:11 +0000,1,Shimmin,GK,Penaly - Contact,2,13,11,77, 6
+2018-11-19 08:44:11 +0000,0,Pettitt ,GS,Goal - Miss,2,13,11,77, 6
+2018-11-19 08:44:21 +0000,0,Harten ,GA,Assist - Attack Rebound,2,13,11,50, 2
+2018-11-19 08:44:22 +0000,0,Harten ,GA,Goal - Score,2,13,11,77, 6
+2018-11-19 08:44:29 +0000,1,Petty,C,Centre Pass,2,14,11,50, 100
+2018-11-19 08:44:29 +0000,1,Pitman,WA,Assist - Centre Pass Rec,2,14,11,26, 129
+2018-11-19 08:44:37 +0000,1,Petty,C,Assist - 2nd Phase,2,14,11,13, 196
+2018-11-19 08:44:41 +0000,0,Manu’a,GK,Deflect,2,14,11,50, 194
+2018-11-19 08:44:41 +0000,1,Hodges,GA,Throw In,2,14,11,59, 209
+2018-11-19 08:44:50 +0000,1,Petty,C,Loss - Offside,2,14,11,47, 166
+2018-11-19 08:44:56 +0000,0,Manu’a,GK,Possession,2,14,11,48, 168
+2018-11-19 08:45:02 +0000,0,Price,WD,Possession,2,14,11,22, 161
+2018-11-19 08:45:04 +0000,0,Guthrie,C,Possession,2,14,11,84, 114
+2018-11-19 08:45:56 +0000,0,Price,WD,Loss - Drop,2,14,11,69, 107
+2018-11-19 08:46:26 +0000,1,Hodges,GA,Penaly - Contact,2,14,11,29, 107
+2018-11-19 08:46:26 +0000,0,Bulley ,GD,Possession,2,14,11,29, 107
+2018-11-19 08:46:52 +0000,0,Austin,WA,Possession,2,14,11,9, 88
+2018-11-19 08:46:55 +0000,0,Price,WD,Possession,2,14,11,92, 82
+2018-11-19 08:46:58 +0000,0,Harten ,GA,Possession,2,14,11,90, 49
+2018-11-19 08:47:16 +0000,0,Pettitt ,GS,Possession,2,14,11,90, 9
+2018-11-19 08:47:26 +0000,0,Guthrie,C,Possession,2,14,11,81, 57
+2018-11-19 08:47:28 +0000,0,Guthrie,C,Assist - Circle Entry,2,14,11,81, 57
+2018-11-19 08:47:28 +0000,0,Harten ,GA,Possession,2,14,11,60, 29
+2018-11-19 08:47:33 +0000,1,Petty,C,Loss - Offside,2,14,11,21, 18
+2018-11-19 08:47:42 +0000,0,Pettitt ,GS,Possession,2,14,11,22, 19
+2018-11-19 08:47:54 +0000,1,de Bruin,GD,Penaly - Obstruction,2,14,11,35, 10
+2018-11-19 08:47:54 +0000,0,Pettitt ,GS,Goal - Miss,2,14,11,35, 10
+2018-11-19 08:48:13 +0000,0,Harten ,GA,Assist - Attack Rebound,2,14,11,50, 2
+2018-11-19 08:48:19 +0000,1,Shimmin,GK,Penaly - Contact,2,14,11,50, 2
+2018-11-19 08:48:19 +0000,0,Harten ,GA,Goal - Score,2,14,11,50, 2
+2018-11-19 08:49:22 +0000,0,Guthrie,C,Centre Pass,2,15,11,50, 100
+2018-11-19 08:49:22 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,2,15,11,65, 82
+2018-11-19 08:49:23 +0000,0,Pettitt ,GS,Assist - 2nd Phase,2,15,11,88, 13
+2018-11-19 08:49:28 +0000,0,Price,WD,Possession,2,15,11,55, 73
+2018-11-19 08:49:31 +0000,0,Guthrie,C,Possession,2,15,11,49, 51
+2018-11-19 08:49:34 +0000,0,Harten ,GA,Possession,2,15,11,74, 39
+2018-11-19 08:49:37 +0000,0,Harten ,GA,Assist - Circle Entry,2,15,11,74, 39
+2018-11-19 08:49:37 +0000,0,Pettitt ,GS,Possession,2,15,11,50, 17
+2018-11-19 08:49:42 +0000,0,Austin,WA,Possession,2,15,11,45, 36
+2018-11-19 08:49:45 +0000,1,Petty,C,Penaly - Contact,2,15,11,45, 36
+2018-11-19 08:49:45 +0000,0,Austin,WA,Possession,2,15,11,45, 36
+2018-11-19 08:49:59 +0000,1,Shimmin,GK,Penaly - Contact,2,15,11,49, 24
+2018-11-19 08:49:59 +0000,0,Pettitt ,GS,Goal - Score,2,15,11,49, 24
+2018-11-19 08:50:19 +0000,1,Petty,C,Centre Pass,2,16,11,50, 100
+2018-11-19 08:50:20 +0000,1,Pitman,WA,Assist - Centre Pass Rec,2,16,11,85, 115
+2018-11-19 08:50:23 +0000,1,Petty,C,Assist - 2nd Phase,2,16,11,37, 160
+2018-11-19 08:50:26 +0000,1,Petty,C,Assist - Circle Entry,2,16,11,37, 160
+2018-11-19 08:50:26 +0000,1,Nelson,GS,Goal - Score,2,16,11,51, 186
+2018-11-19 08:50:36 +0000,0,Guthrie,C,Centre Pass,2,16,12,50, 100
+2018-11-19 08:50:36 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,16,12,50, 76
+2018-11-19 08:50:38 +0000,0,Austin,WA,Assist - 2nd Phase,2,16,12,19, 26
+2018-11-19 08:50:42 +0000,0,Austin,WA,Assist - Circle Entry,2,16,12,19, 26
+2018-11-19 08:50:42 +0000,0,Pettitt ,GS,Possession,2,16,12,23, 6
+2018-11-19 08:50:43 +0000,0,Guthrie,C,Possession,2,16,12,44, 39
+2018-11-19 08:50:50 +0000,1,Shimmin,GK,Gain - Tip (Deflect),2,16,12,27, 8
+2018-11-19 08:50:50 +0000,1,Fowler,WD,Possession,2,16,12,17, 19
+2018-11-19 08:51:06 +0000,1,de Bruin,GD,Possession,2,16,12,52, 48
+2018-11-19 08:51:09 +0000,1,Pitman,WA,Possession,2,16,12,93, 127
+2018-11-19 08:51:11 +0000,1,Pitman,WA,Assist - Circle Entry,2,16,12,93, 127
+2018-11-19 08:51:11 +0000,1,Hodges,GA,Possession,2,16,12,48, 181
+2018-11-19 08:51:13 +0000,1,Nelson,GS,Goal - Score,2,16,12,54, 192
+2018-11-19 08:51:24 +0000,0,,UNKNOWN,Timeout,2,16,13,-10, -22
+2018-11-19 08:53:12 +0000,0,Guthrie,UNKNOWN,Interchange - Price,2,16,13,
+2018-11-19 08:53:13 +0000,0,Price,UNKNOWN,Interchange - Manu’a,2,16,13,
+2018-11-19 08:53:13 +0000,0,Manu’a,UNKNOWN,Interchange - Poolman ,2,16,13,
+2018-11-19 08:53:29 +0000,1,Petty,C,Centre Pass,2,16,13,50, 100
+2018-11-19 08:53:29 +0000,1,Hodges,GA,Assist - Centre Pass Rec,2,16,13,31, 125
+2018-11-19 08:53:32 +0000,1,Pitman,WA,Assist - 2nd Phase,2,16,13,96, 158
+2018-11-19 08:53:43 +0000,0,Poolman ,GK,Gain - Inter,2,16,13,81, 184
+2018-11-19 08:53:54 +0000,0,Manu’a,WD,Possession,2,16,13,89, 168
+2018-11-19 08:53:58 +0000,0,Bulley ,GD,Possession,2,16,13,81, 115
+2018-11-19 08:54:06 +0000,0,Austin,WA,Possession,2,16,13,90, 22
+2018-11-19 08:54:09 +0000,0,Poolman ,GK,Loss - Bad Pass,2,16,13,82, 52
+2018-11-19 08:54:12 +0000,1,Shimmin,GK,Throw In,2,16,13,65, -5
+2018-11-19 08:54:15 +0000,1,Fowler,WD,Possession,2,16,13,83, 19
+2018-11-19 08:54:26 +0000,1,Petty,C,Possession,2,16,13,94, 58
+2018-11-19 08:54:30 +0000,1,Fowler,WD,Possession,2,16,13,31, 115
+2018-11-19 08:54:35 +0000,1,Pitman,WA,Possession,2,16,13,22, 158
+2018-11-19 08:54:40 +0000,1,Pitman,WA,Assist - Circle Entry,2,16,13,22, 158
+2018-11-19 08:54:40 +0000,1,Nelson,GS,Goal - Score,2,16,13,48, 190
+2018-11-19 08:54:48 +0000,0,Price,C,Centre Pass,2,16,14,50, 100
+2018-11-19 08:54:48 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,16,14,61, 78
+2018-11-19 08:54:50 +0000,0,Harten ,GA,Assist - Circle Entry,2,16,14,61, 78
+2018-11-19 08:54:50 +0000,0,Pettitt ,GS,Possession,2,16,14,32, 17
+2018-11-19 08:54:52 +0000,0,Austin,WA,Possession,2,16,14,21, 20
+2018-11-19 08:54:55 +0000,0,Austin,WA,Assist - Circle Entry,2,16,14,21, 20
+2018-11-19 08:54:55 +0000,0,Pettitt ,GS,Goal - Score,2,16,14,41, 7
+2018-11-19 08:56:37 +0000,1,Petty,C,Centre Pass,2,17,14,50, 100
+2018-11-19 08:56:37 +0000,1,Pitman,WA,Assist - Centre Pass Rec,2,17,14,27, 105
+2018-11-19 08:56:49 +0000,1,Hodges,GA,Assist - 2nd Phase,2,17,14,71, 128
+2018-11-19 08:57:01 +0000,1,Pitman,WA,Loss - Out of Court,2,17,14,98, 190
+2018-11-19 08:57:10 +0000,0,Poolman ,GK,Possession,2,17,14,99, 188
+2018-11-19 08:57:29 +0000,0,Price,C,Possession,2,17,14,41, 164
+2018-11-19 08:57:31 +0000,0,Manu’a,WD,Possession,2,17,14,16, 130
+2018-11-19 08:57:33 +0000,0,Price,C,Possession,2,17,14,83, 72
+2018-11-19 08:57:35 +0000,0,Austin,WA,Possession,2,17,14,90, 59
+2018-11-19 08:57:37 +0000,0,,UNKNOWN,Possession,2,17,14,94, 46
+2018-11-19 08:57:39 +0000,0,Manu’a,WD,Possession,2,17,14,11, 70
+2018-11-19 08:57:48 +0000,0,Austin,WA,Possession,2,17,14,17, 23
+2018-11-19 08:58:39 +0000,1,Petty,C,Penaly - Obstruction,2,17,14,17, 23
+2018-11-19 08:58:39 +0000,0,Austin,WA,Possession,2,17,14,17, 23
+2018-11-19 08:58:46 +0000,0,Austin,WA,Assist - Circle Entry,2,17,14,17, 23
+2018-11-19 08:58:46 +0000,0,Harten ,GA,Goal - Score,2,17,14,37, 16
+2018-11-19 08:58:57 +0000,1,,UNKNOWN,Timeout,2,18,14,-10, -22
+2018-11-19 09:00:36 +0000,0,Price,C,Centre Pass,2,18,14,50, 100
+2018-11-19 09:00:36 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,18,14,50, 68
+2018-11-19 09:00:41 +0000,0,Pettitt ,GS,Assist - 2nd Phase,2,18,14,16, 11
+2018-11-19 09:00:47 +0000,0,Austin,WA,Possession,2,18,14,84, 12
+2018-11-19 09:00:50 +0000,0,Austin,WA,Assist - Circle Entry,2,18,14,84, 12
+2018-11-19 09:00:50 +0000,0,Harten ,GA,Possession,2,18,14,65, 7
+2018-11-19 09:00:52 +0000,0,Austin,WA,Possession,2,18,14,84, 12
+2018-11-19 09:00:54 +0000,0,Austin,WA,Assist - Circle Entry,2,18,14,84, 12
+2018-11-19 09:00:54 +0000,0,Harten ,GA,Goal - Score,2,18,14,61, 5
+2018-11-19 09:01:01 +0000,1,Petty,C,Centre Pass,2,19,14,50, 100
+2018-11-19 09:01:01 +0000,1,Fowler,WD,Assist - Centre Pass Rec,2,19,14,22, 122
+2018-11-19 09:01:03 +0000,1,Pitman,WA,Assist - 2nd Phase,2,19,14,17, 185
+2018-11-19 09:01:05 +0000,1,Pitman,WA,Assist - Circle Entry,2,19,14,17, 185
+2018-11-19 09:01:05 +0000,1,Hodges,GA,Possession,2,19,14,76, 192
+2018-11-19 09:01:11 +0000,1,Nelson,GS,Possession,2,19,14,39, 190
+2018-11-19 09:01:13 +0000,1,Hodges,GA,Goal - Miss,2,19,14,48, 185
+2018-11-19 09:01:19 +0000,0,Poolman ,GK,Gain - Tip (Deflect),2,19,14,50, 197
+2018-11-19 09:01:29 +0000,0,Bulley ,GD,Possession,2,19,14,23, 194
+2018-11-19 09:01:30 +0000,0,Price,C,Possession,2,19,14,9, 144
+2018-11-19 09:01:33 +0000,0,Austin,WA,Possession,2,19,14,10, 102
+2018-11-19 09:01:37 +0000,0,Bulley ,GD,Possession,2,19,14,50, 121
+2018-11-19 09:01:40 +0000,0,Harten ,GA,Possession,2,19,14,81, 78
+2018-11-19 09:02:17 +0000,1,Hodges,GA,Gain - Tip (Deflect),2,19,14,13, 77
+2018-11-19 09:02:24 +0000,1,Pitman,WA,Possession,2,19,14,25, 86
+2018-11-19 09:02:33 +0000,1,de Bruin,GD,Possession,2,19,14,68, 88
+2018-11-19 09:02:35 +0000,1,Petty,C,Possession,2,19,14,92, 154
+2018-11-19 09:02:37 +0000,1,Pitman,WA,Possession,2,19,14,67, 146
+2018-11-19 09:02:44 +0000,1,Pitman,WA,Assist - Circle Entry,2,19,14,67, 146
+2018-11-19 09:02:44 +0000,1,Nelson,GS,Goal - Score,2,19,14,48, 192
+2018-11-19 09:02:58 +0000,0,Price,C,Centre Pass,2,19,15,50, 100
+2018-11-19 09:02:58 +0000,0,Austin,WA,Assist - Centre Pass Rec,2,19,15,88, 73
+2018-11-19 09:03:02 +0000,1,Fowler,WD,Penaly - Contact,2,19,15,88, 73
+2018-11-19 09:03:02 +0000,0,Manu’a,WD,Possession,2,19,15,88, 73
+2018-11-19 09:03:12 +0000,0,Austin,WA,Possession,2,19,15,62, 50
+2018-11-19 09:03:21 +0000,1,Shimmin,GK,Deflect,2,19,15,60, 1
+2018-11-19 09:03:21 +0000,0,Pettitt ,GS,Throw In,2,19,15,59, -6
+2018-11-19 09:03:31 +0000,0,Pettitt ,GS,Assist - Circle Entry,2,19,15,59, -6
+2018-11-19 09:03:31 +0000,0,Harten ,GA,Goal - Score,2,19,15,60, 14
+2018-11-19 09:03:40 +0000,1,Petty,C,Centre Pass,2,20,15,50, 100
+2018-11-19 09:03:40 +0000,1,Hodges,GA,Assist - Centre Pass Rec,2,20,15,25, 125
+2018-11-19 09:03:46 +0000,1,Hodges,GA,Assist - Circle Entry,2,20,15,25, 125
+2018-11-19 09:03:46 +0000,1,Nelson,GS,Loss - Drop,2,20,15,54, 193
+2018-11-19 09:03:48 +0000,0,Poolman ,GK,Throw In,2,20,15,107, 194
+2018-11-19 09:03:55 +0000,0,Bulley ,GD,Possession,2,20,15,92, 156
+2018-11-19 09:03:57 +0000,0,Poolman ,GK,Possession,2,20,15,65, 165
+2018-11-19 09:04:04 +0000,1,Fowler,WD,Penaly - Contact,2,20,15,45, 79
+2018-11-19 09:04:04 +0000,0,Bulley ,GD,Possession,2,20,15,45, 79
+2018-11-19 09:04:09 +0000,0,Price,C,Possession,2,20,15,28, 45
+2018-11-19 09:04:13 +0000,0,Pettitt ,GS,Possession,2,20,15,15, 10
+2018-11-19 09:04:16 +0000,0,Price,C,Possession,2,20,15,24, 22
+2018-11-19 09:04:19 +0000,0,Price,C,Assist - Circle Entry,2,20,15,24, 22
+2018-11-19 09:04:19 +0000,0,Harten ,GA,Goal - Score,2,20,15,36, 12
+2018-11-19 09:04:24 +0000,0,Price,C,Centre Pass,2,21,15,50, 100
+2018-11-19 09:04:24 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,21,15,65, 83
+2018-11-19 09:04:27 +0000,0,Price,C,Assist - 2nd Phase,2,21,15,34, 44
+2018-11-19 09:04:29 +0000,0,Pettitt ,GS,Possession,2,21,15,15, 7
+2018-11-19 09:04:32 +0000,0,Price,C,Possession,2,21,15,24, 22
+2018-11-19 09:04:33 +0000,0,Price,C,Assist - Circle Entry,2,21,15,24, 22
+2018-11-19 09:04:34 +0000,0,Harten ,GA,Possession,2,21,15,33, 18
+2018-11-19 09:04:37 +0000,0,Austin,WA,Possession,2,21,15,77, 21
+2018-11-19 09:04:39 +0000,0,Austin,WA,Assist - Circle Entry,2,21,15,77, 21
+2018-11-19 09:04:39 +0000,0,Pettitt ,GS,Goal - Score,2,21,15,57, 5
+2018-11-19 09:04:45 +0000,1,Petty,C,Centre Pass,2,22,15,50, 100
+2018-11-19 09:04:45 +0000,1,Pitman,WA,Assist - Centre Pass Rec,2,22,15,66, 111
+2018-11-19 09:04:48 +0000,1,Fowler,WD,Assist - 2nd Phase,2,22,15,45, 89
+2018-11-19 09:04:53 +0000,0,Poolman ,GK,Gain - Inter,2,22,15,92, 144
+2018-11-19 09:04:56 +0000,0,Austin,WA,Possession,2,22,15,93, 118
+2018-11-19 09:05:00 +0000,0,Manu’a,WD,Possession,2,22,15,37, 119
+2018-11-19 09:05:02 +0000,0,Bulley ,GD,Possession,2,22,15,32, 74
+2018-11-19 09:05:04 +0000,0,Pettitt ,GS,Possession,2,22,15,21, 27
+2018-11-19 09:05:06 +0000,1,de Bruin,GD,Deflect,2,22,15,29, 8
+2018-11-19 09:05:12 +0000,0,Price,C,Throw In,2,22,15,-5, 7
+2018-11-19 09:05:50 +0000,1,Shimmin,GK,Gain - Tip (Deflect),2,22,15,44, 20
+2018-11-19 09:06:12 +0000,1,Petty,C,Possession,2,22,15,32, 51
+2018-11-19 09:06:14 +0000,1,Pitman,WA,Possession,2,22,15,41, 73
+2018-11-19 09:06:18 +0000,1,Hodges,GA,Possession,2,22,15,11, 123
+2018-11-19 09:06:21 +0000,1,Petty,C,Possession,2,22,15,13, 168
+2018-11-19 09:06:23 +0000,0,Manu’a,WD,Penaly - Contact,2,22,15,13, 168
+2018-11-19 09:06:23 +0000,1,Petty,C,Possession,2,22,15,13, 168
+2018-11-19 09:06:29 +0000,1,Pitman,WA,Possession,2,22,15,22, 179
+2018-11-19 09:06:34 +0000,0,Bulley ,GD,Penaly - Contact,2,22,15,40, 176
+2018-11-19 09:06:35 +0000,1,Hodges,GA,Goal - Miss,2,22,15,40, 176
+2018-11-19 09:06:40 +0000,0,Poolman ,GK,Throw In,2,22,15,50, 202
+2018-11-19 09:06:45 +0000,0,Manu’a,WD,Possession,2,22,15,17, 189
+2018-11-19 09:06:49 +0000,0,Bulley ,GD,Possession,2,22,15,32, 160
+2018-11-19 09:06:53 +0000,0,Price,C,Possession,2,22,15,83, 122
+2018-11-19 09:06:55 +0000,0,Manu’a,WD,Possession,2,22,15,61, 106
+2018-11-19 09:06:57 +0000,0,Price,C,Possession,2,22,15,57, 48
+2018-11-19 09:07:06 +0000,0,Pettitt ,GS,Possession,2,22,15,17, 18
+2018-11-19 09:07:15 +0000,0,Price,C,Possession,2,22,15,30, 29
+2018-11-19 09:07:20 +0000,0,Price,C,Assist - Circle Entry,2,22,15,30, 29
+2018-11-19 09:07:20 +0000,0,Harten ,GA,Possession,2,22,15,40, 19
+2018-11-19 09:07:22 +0000,1,de Bruin,GD,Penaly - Contact,2,22,15,40, 19
+2018-11-19 09:07:22 +0000,0,Harten ,GA,Goal - Score,2,22,15,40, 19
+2018-11-19 09:07:39 +0000,0,Price,C,Centre Pass,2,23,15,50, 100
+2018-11-19 09:07:39 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,23,15,93, 71
+2018-11-19 09:07:42 +0000,0,Price,C,Assist - 2nd Phase,2,23,15,70, 41
+2018-11-19 09:07:58 +0000,0,Price,C,Assist - Circle Entry,2,23,15,70, 41
+2018-11-19 09:07:58 +0000,0,Pettitt ,GS,Possession,2,23,15,55, 28
+2018-11-19 09:08:01 +0000,1,Fowler,WD,Penaly - Contact,2,23,15,33, 30
+2018-11-19 09:08:01 +0000,0,Austin,WA,Possession,2,23,15,33, 30
+2018-11-19 09:08:07 +0000,0,Austin,WA,Assist - Circle Entry,2,23,15,33, 30
+2018-11-19 09:08:07 +0000,0,Harten ,GA,Goal - Score,2,23,15,52, 18
+2018-11-19 09:08:17 +0000,1,Petty,C,Centre Pass,2,24,15,50, 100
+2018-11-19 09:08:17 +0000,1,de Bruin,GD,Assist - Centre Pass Rec,2,24,15,25, 85
+2018-11-19 09:08:19 +0000,1,Fowler,WD,Assist - 2nd Phase,2,24,15,93, 122
+2018-11-19 09:08:22 +0000,1,Pitman,WA,Possession,2,24,15,57, 118
+2018-11-19 09:08:24 +0000,1,Fowler,WD,Possession,2,24,15,86, 125
+2018-11-19 09:08:27 +0000,1,Pitman,WA,Possession,2,24,15,74, 159
+2018-11-19 09:08:33 +0000,1,Pitman,WA,Assist - Circle Entry,2,24,15,74, 159
+2018-11-19 09:08:33 +0000,1,Nelson,GS,Goal - Score,2,24,15,71, 188
+2018-11-19 09:08:45 +0000,0,Price,C,Centre Pass,2,24,16,50, 100
+2018-11-19 09:08:45 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,2,24,16,17, 95
+2018-11-19 09:08:47 +0000,0,Pettitt ,GS,Assist - 2nd Phase,2,24,16,14, 58
+2018-11-19 09:08:49 +0000,0,Austin,WA,Possession,2,24,16,38, 56
+2018-11-19 09:08:55 +0000,0,Pettitt ,GS,Possession,2,24,16,23, 27
+2018-11-19 09:09:01 +0000,1,Petty,C,Deflect,2,24,16,73, 24
+2018-11-19 09:09:01 +0000,0,Pettitt ,GS,Throw In,2,24,16,65, -5
+2018-11-19 09:09:10 +0000,0,Austin,WA,Possession,2,24,16,23, 22
+2018-11-19 09:09:12 +0000,1,Fowler,WD,Penaly - Contact,2,24,16,23, 22
+2018-11-19 09:09:12 +0000,0,Austin,WA,Possession,2,24,16,23, 22
+2018-11-19 09:09:16 +0000,0,Austin,WA,Assist - Circle Entry,2,24,16,23, 22
+2018-11-19 09:09:16 +0000,0,Harten ,GA,Possession,2,24,16,53, 15
+2018-11-19 09:09:19 +0000,1,de Bruin,GD,Penaly - Obstruction,2,24,16,53, 15
+2018-11-19 09:09:19 +0000,0,Harten ,GA,Goal - Score,2,24,16,53, 15
+2018-11-19 09:09:27 +0000,1,Petty,C,Centre Pass,2,25,16,50, 100
+2018-11-19 09:09:27 +0000,1,Fowler,WD,Assist - Centre Pass Rec,2,25,16,36, 92
+2018-11-19 09:09:29 +0000,1,Pitman,WA,Assist - 2nd Phase,2,25,16,17, 181
+2018-11-19 09:09:35 +0000,1,Pitman,WA,Assist - Circle Entry,2,25,16,17, 181
+2018-11-19 09:09:35 +0000,1,Nelson,GS,Loss - Drop,2,25,16,47, 191
+2018-11-19 09:09:39 +0000,0,Poolman ,GK,Throw In,2,25,16,43, 204
+2018-11-19 09:09:44 +0000,0,Manu’a,WD,Possession,2,25,16,18, 180
+2018-11-19 09:09:49 +0000,0,Bulley ,GD,Possession,2,25,16,53, 163
+2018-11-19 09:09:51 +0000,0,Price,C,Possession,2,25,16,10, 140
+2018-11-19 09:09:53 +0000,0,Manu’a,WD,Possession,2,25,16,87, 140
+2018-11-19 09:09:55 +0000,0,Austin,WA,Possession,2,25,16,41, 114
+2018-11-19 09:09:59 +0000,0,Price,C,Possession,2,25,16,52, 74
+2018-11-19 09:10:01 +0000,1,Petty,C,Penaly - Contact,2,25,16,52, 74
+2018-11-19 09:10:01 +0000,0,Bulley ,GD,Possession,2,25,16,52, 74
+2018-11-19 09:10:09 +0000,0,Harten ,GA,Possession,2,25,16,91, 14
+2018-11-19 09:10:16 +0000,1,Shimmin,GK,Penaly - Contact,2,25,16,39, 16
+2018-11-19 09:10:17 +0000,0,Pettitt ,GS,Goal - Score,2,25,16,39, 16
+2018-11-19 09:10:56 +0000,0,Price,C,Centre Pass,2,26,16,50, 100
+2018-11-19 09:10:56 +0000,0,Austin,WA,Assist - Centre Pass Rec,2,26,16,83, 73
+2018-11-19 09:11:01 +0000,0,Pettitt ,GS,Assist - 2nd Phase,2,26,16,67, 33
+2018-11-19 09:11:15 +0000,1,Shimmin,GK,Penaly - Contact,2,26,16,57, 23
+2018-11-19 09:11:15 +0000,0,Pettitt ,GS,Possession,2,26,16,57, 23
+2018-11-19 09:11:37 +0000,0,Harten ,GA,Possession,2,26,16,58, 3
+2018-11-19 09:12:19 +0000,1,Shimmin,GK,Gain - Tip (Deflect),2,26,16,51, 22
+2018-11-19 09:12:24 +0000,1,Fowler,WD,Possession,2,26,16,38, 32
+2018-11-19 09:12:34 +0000,0,Austin,WA,Deflect,2,26,16,41, 33
+2018-11-19 09:12:34 +0000,1,Shimmin,GK,Possession,2,26,16,24, 4
+2018-11-19 09:12:45 +0000,0,Austin,WA,Penaly - Contact,2,26,16,23, 29
+2018-11-19 09:12:45 +0000,1,Shimmin,GK,Possession,2,26,16,23, 29
+2018-11-19 09:12:49 +0000,1,de Bruin,GD,Possession,2,26,16,17, 60
+2018-11-19 09:12:56 +0000,1,Pitman,WA,Possession,2,26,16,40, 105
+2018-11-19 09:13:00 +0000,1,Glasgow,GA,Possession,2,26,16,19, 148
+2018-11-19 09:13:03 +0000,1,de Bruin,GD,Possession,2,26,16,20, 129
+2018-11-19 09:13:05 +0000,1,Pitman,WA,Possession,2,26,16,17, 162
+2018-11-19 09:13:24 +0000,0,Hodges,UNKNOWN,Interchange - Glasgow,2,26,16,
+2018-11-19 09:14:25 +0000,1,Pitman,WA,Assist - Circle Entry,2,26,16,17, 162
+2018-11-19 09:14:25 +0000,1,Nelson,GS,Possession,2,26,16,48, 172
+2018-11-19 09:14:28 +0000,0,,UNKNOWN,Penaly - Contact,2,26,16,48, 172
+2018-11-19 09:14:28 +0000,1,Glasgow,GA,Goal - Score,2,26,16,48, 172
+2018-11-19 09:14:49 +0000,1,Petty,C,Centre Pass,2,26,17,50, 100
+2018-11-19 09:14:49 +0000,1,Pitman,WA,Assist - Centre Pass Rec,2,26,17,94, 115
+2018-11-19 09:14:59 +0000,1,Pitman,WA,Loss - Bad Pass,2,26,17,94, 115
+2018-11-19 09:14:59 +0000,1,Nelson,GS,Deflect,2,26,17,50, 185
+2018-11-19 09:15:09 +0000,0,Poolman ,GK,Throw In,2,26,17,50, 207
+2018-11-19 09:15:15 +0000,0,Manu’a,WD,Possession,2,26,17,14, 169
+2018-11-19 09:15:17 +0000,0,Bulley ,GD,Possession,2,26,17,16, 114
+2018-11-19 09:15:21 +0000,1,Fowler,WD,Penaly - Contact,2,26,17,31, 92
+2018-11-19 09:15:21 +0000,0,Bulley ,GD,Possession,2,26,17,31, 92
+2018-11-19 09:15:28 +0000,0,Price,C,Possession,2,26,17,16, 36
+2018-11-19 09:15:31 +0000,0,Pettitt ,GS,Possession,2,26,17,15, 6
+2018-11-19 09:15:33 +0000,0,Austin,WA,Possession,2,26,17,76, 25
+2018-11-19 09:15:37 +0000,0,Austin,WA,Assist - Circle Entry,2,26,17,76, 25
+2018-11-19 09:15:37 +0000,0,Harten ,GA,Goal - Score,2,26,17,43, 4
+2018-11-19 09:15:59 +0000,0,Price,C,Centre Pass,2,27,17,50, 100
+2018-11-19 09:15:59 +0000,0,Manu’a,WD,Assist - Centre Pass Rec,2,27,17,76, 117
+2018-11-19 09:16:01 +0000,0,Austin,WA,Assist - 2nd Phase,2,27,17,84, 82
+2018-11-19 09:16:05 +0000,1,Petty,C,Deflect,2,27,17,44, 87
+2018-11-19 09:16:05 +0000,0,Manu’a,WD,Possession,2,27,17,71, 124
+2018-11-19 09:16:13 +0000,0,Bulley ,GD,Possession,2,27,17,68, 79
+2018-11-19 09:16:15 +0000,0,Harten ,GA,Possession,2,27,17,73, 61
+2018-11-19 09:16:18 +0000,0,Price,C,Possession,2,27,17,20, 22
+2018-11-19 09:16:20 +0000,0,Price,C,Assist - Circle Entry,2,27,17,20, 22
+2018-11-19 09:16:20 +0000,0,Harten ,GA,Possession,2,27,17,38, 14
+2018-11-19 09:16:22 +0000,0,Price,C,Possession,2,27,17,20, 20
+2018-11-19 09:16:25 +0000,1,Petty,C,Penaly - Contact,2,27,17,20, 20
+2018-11-19 09:16:26 +0000,0,Price,C,Possession,2,27,17,20, 20
+2018-11-19 09:16:29 +0000,0,Price,C,Assist - Circle Entry,2,27,17,20, 20
+2018-11-19 09:16:29 +0000,0,Pettitt ,GS,Possession,2,27,17,49, 18
+2018-11-19 09:16:34 +0000,1,de Bruin,GD,Penaly - Obstruction,2,27,17,49, 18
+2018-11-19 09:16:34 +0000,0,Pettitt ,GS,Goal - Score,2,27,17,49, 18
+2018-11-19 09:16:55 +0000,1,Petty,C,Centre Pass,2,28,17,50, 100
+2018-11-19 09:16:55 +0000,1,Petty,C,CP Infringe - ,2,28,17,49, 100
+2018-11-19 09:16:55 +0000,0,Manu’a,WD,Possession,2,28,17,49, 100
+2018-11-19 09:21:37 +0000,0,Austin,WA,Possession,2,28,17,49, 70
+2018-11-19 09:21:40 +0000,1,Petty,C,Penaly - Contact,2,28,17,32, 30
+2018-11-19 09:21:40 +0000,0,Price,C,Possession,2,28,17,32, 30
+2018-11-19 09:26:23 +0000,0,Price,C,Assist - Circle Entry,2,28,17,32, 30
+2018-11-19 09:26:23 +0000,0,Harten ,GA,Goal - Score,2,28,17,49, 17
+2018-11-19 09:26:30 +0000,0,Price,C,Centre Pass,2,29,17,50, 100
+2018-11-19 09:26:30 +0000,0,Harten ,GA,Loss - Bad Pass,2,29,17,91, 73
+2018-11-19 09:27:13 +0000,0,Pettitt ,GS,Deflect,2,29,17,60, 5
+2018-11-19 09:27:13 +0000,1,Shimmin,GK,Throw In,2,29,17,63, -2
+2018-11-19 09:27:23 +0000,1,de Bruin,GD,Possession,2,29,17,51, 25
+2018-11-19 09:27:26 +0000,0,Harten ,GA,Penaly - Contact,2,29,17,51, 25
+2018-11-19 09:27:26 +0000,1,Shimmin,GK,Possession,2,29,17,51, 25
+2018-11-19 09:27:35 +0000,1,de Bruin,GD,Possession,2,29,17,19, 59
+2018-11-19 09:27:38 +0000,1,Petty,C,Possession,2,29,17,15, 93
+2018-11-19 09:27:40 +0000,1,de Bruin,GD,Possession,2,29,17,11, 111
+2018-11-19 09:27:42 +0000,1,Pitman,WA,Possession,2,29,17,28, 158
+2018-11-19 09:27:46 +0000,1,Pitman,WA,Assist - Circle Entry,2,29,17,28, 158
+2018-11-19 09:27:47 +0000,1,Nelson,GS,Goal - Score,2,29,17,50, 186
+2018-11-19 09:28:01 +0000,1,Petty,C,Centre Pass,2,29,18,50, 100
+2018-11-19 09:28:01 +0000,1,de Bruin,GD,Assist - Centre Pass Rec,2,29,18,9, 111
+2018-11-19 09:28:03 +0000,1,Pitman,WA,Assist - 2nd Phase,2,29,18,25, 126
+2018-11-19 09:28:05 +0000,0,Harten ,GA,Penaly - Contact,2,29,18,25, 126
+2018-11-19 09:28:05 +0000,1,de Bruin,GD,Possession,2,29,18,25, 126
+2018-11-19 09:28:15 +0000,0,Manu’a,WD,Penaly - Contact,2,29,18,31, 155
+2018-11-19 09:28:15 +0000,1,Pitman,WA,Possession,2,29,18,31, 155
+2018-11-19 09:28:23 +0000,1,Pitman,WA,Assist - Circle Entry,2,29,18,31, 155
+2018-11-19 09:28:23 +0000,1,Nelson,GS,Goal - Score,2,29,18,52, 185
+2018-11-19 09:28:32 +0000,0,Price,C,Centre Pass,2,29,19,50, 100
+2018-11-19 09:28:32 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,2,29,19,18, 95
+2018-11-19 09:28:34 +0000,0,Austin,WA,Assist - 2nd Phase,2,29,19,12, 17
+2018-11-19 09:28:36 +0000,0,Austin,WA,Assist - Circle Entry,2,29,19,12, 17
+2018-11-19 09:28:37 +0000,0,Pettitt ,GS,Possession,2,29,19,22, 4
+2018-11-19 09:28:39 +0000,0,Harten ,GA,Goal - Score,2,29,19,43, 5
+2018-11-19 09:28:45 +0000,1,Petty,C,Centre Pass,2,30,19,50, 100
+2018-11-19 09:28:45 +0000,1,Pitman,WA,Assist - Centre Pass Rec,2,30,19,85, 101
+2018-11-19 09:28:47 +0000,1,Petty,C,Assist - 2nd Phase,2,30,19,41, 155
+2018-11-19 09:28:49 +0000,0,,UNKNOWN,Penaly - Contact,2,30,19,46, 174
+2018-11-19 09:28:49 +0000,1,Glasgow,GA,Possession,2,30,19,46, 174
+2018-11-19 09:28:51 +0000,0,Bulley ,GD,Penaly - Obstruction,2,30,19,46, 174
+2018-11-19 09:28:51 +0000,1,Glasgow,GA,Goal - Score,2,30,19,46, 174
+2018-11-19 09:29:03 +0000,0,Price,C,Centre Pass,2,30,20,50, 100
+2018-11-19 09:29:03 +0000,0,Harten ,GA,Assist - Centre Pass Rec,2,30,20,82, 70
+2018-11-19 09:31:14 +0000,1,Petty,C,Gain - Tip (Deflect),2,30,20,75, 61
+2018-11-19 09:31:18 +0000,1,Fowler,WD,Gain - Pick-up,2,30,20,31, 37
+2018-11-19 09:31:26 +0000,1,Pitman,WA,Possession,2,30,20,26, 75
+2018-11-19 09:31:29 +0000,1,de Bruin,GD,Possession,2,30,20,48, 85
+2018-11-19 09:31:34 +0000,1,Fowler,WD,Loss - Stopped Lead,2,30,20,81, 118
+2018-11-19 09:31:39 +0000,0,Manu’a,WD,Gain - Inter,2,30,20,85, 133
+2018-11-19 09:31:45 +0000,0,Harten ,GA,Possession,2,30,20,79, 90
+2018-11-19 09:31:47 +0000,0,Pettitt ,GS,Possession,2,30,20,82, 15
+2018-11-19 09:31:49 +0000,0,Austin,WA,Possession,2,30,20,76, 25
+2018-11-19 09:32:03 +0000,0,Austin,WA,Assist - Circle Entry,2,30,20,76, 25
+2018-11-19 09:32:03 +0000,0,Pettitt ,GS,Goal - Score,2,30,20,59, 6
+2018-11-19 09:32:12 +0000,1,Petty,C,Centre Pass,2,31,20,50, 100
+2018-11-19 09:32:12 +0000,1,Glasgow,GA,Assist - Centre Pass Rec,2,31,20,41, 122
+2018-11-19 09:32:15 +0000,0,Bulley ,GD,Penaly - Contact,2,31,20,41, 122
+2018-11-19 09:32:15 +0000,1,de Bruin,GD,Possession,2,31,20,41, 122
+2018-11-19 09:32:22 +0000,1,Pitman,WA,Possession,2,31,20,11, 154
+2018-11-19 09:32:25 +0000,0,Poolman ,GK,Deflect,2,31,20,45, 192
+2018-11-19 09:33:06 +0000,0,Fowler,UNKNOWN,Interchange - Bryce,3,31,20,
+2018-11-19 09:33:14 +0000,0,Price,C,Centre Pass,3,31,20,50, 100
+2018-11-19 09:33:14 +0000,0,Harten ,GA,Assist - Centre Pass Rec,3,31,20,72, 73
+2018-11-19 09:33:16 +0000,0,Manu’a,WD,Assist - 2nd Phase,3,31,20,4, 83
+2018-11-19 09:33:18 +0000,0,Austin,WA,Possession,3,31,20,9, 48
+2018-11-19 09:33:22 +0000,0,Pettitt ,GS,Possession,3,31,20,9, 6
+2018-11-19 09:33:26 +0000,0,Price,C,Possession,3,31,20,78, 21
+2018-11-19 09:33:28 +0000,0,Price,C,Assist - Circle Entry,3,31,20,78, 21
+2018-11-19 09:33:28 +0000,0,Harten ,GA,Goal - Score,3,31,20,28, 7
+2018-11-19 09:33:38 +0000,1,Petty,C,Centre Pass,3,32,20,50, 100
+2018-11-19 09:33:38 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,32,20,6, 121
+2018-11-19 09:33:40 +0000,1,Bryce,WD,Assist - 2nd Phase,3,32,20,28, 128
+2018-11-19 09:33:44 +0000,1,Glasgow,GA,Possession,3,32,20,34, 148
+2018-11-19 09:33:48 +0000,1,Glasgow,GA,Assist - Circle Entry,3,32,20,34, 148
+2018-11-19 09:33:48 +0000,1,Nelson,GS,Goal - Score,3,32,20,55, 193
+2018-11-19 09:34:00 +0000,0,Price,C,Centre Pass,3,32,21,50, 100
+2018-11-19 09:34:00 +0000,0,Austin,WA,Assist - Centre Pass Rec,3,32,21,7, 88
+2018-11-19 09:34:04 +0000,0,Bulley ,GD,Assist - 2nd Phase,3,32,21,42, 109
+2018-11-19 09:34:08 +0000,0,Harten ,GA,Possession,3,32,21,88, 54
+2018-11-19 09:34:18 +0000,1,Pitman,WA,Deflect,3,32,21,63, 87
+2018-11-19 09:34:18 +0000,0,Manu’a,WD,Throw In,3,32,21,106, 110
+2018-11-19 09:34:28 +0000,1,Glasgow,GA,Penaly - Contact,3,32,21,96, 107
+2018-11-19 09:34:28 +0000,0,Manu’a,WD,Possession,3,32,21,96, 107
+2018-11-19 09:34:33 +0000,0,Austin,WA,Possession,3,32,21,72, 75
+2018-11-19 09:34:37 +0000,0,Harten ,GA,Possession,3,32,21,80, 44
+2018-11-19 09:35:36 +0000,0,Pettitt ,GS,Loss - Bad Pass,3,32,21,50, 44
+2018-11-19 09:35:41 +0000,1,Glasgow,GA,Gain - Pick-up,3,32,21,65, 68
+2018-11-19 09:35:51 +0000,1,Pitman,WA,Possession,3,32,21,22, 111
+2018-11-19 09:35:55 +0000,1,Bryce,WD,Possession,3,32,21,40, 126
+2018-11-19 09:36:00 +0000,1,Pitman,WA,Possession,3,32,21,36, 148
+2018-11-19 09:36:17 +0000,1,Bryce,WD,Possession,3,32,21,29, 130
+2018-11-19 09:37:03 +0000,1,Pitman,WA,Possession,3,32,21,23, 148
+2018-11-19 09:37:08 +0000,1,Petty,C,Possession,3,32,21,11, 193
+2018-11-19 09:37:16 +0000,0,Bulley ,GD,Penaly - Contact,3,32,21,29, 193
+2018-11-19 09:37:16 +0000,1,Glasgow,GA,Goal - Miss,3,32,21,29, 193
+2018-11-19 09:37:26 +0000,1,Nelson,GS,Assist - Attack Rebound,3,32,21,50, 197
+2018-11-19 09:37:28 +0000,1,Nelson,GS,Goal - Score,3,32,21,29, 193
+2018-11-19 09:37:34 +0000,1,Petty,C,Centre Pass,3,32,22,50, 100
+2018-11-19 09:37:34 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,32,22,10, 124
+2018-11-19 09:37:37 +0000,1,Bryce,WD,Assist - 2nd Phase,3,32,22,36, 120
+2018-11-19 09:37:39 +0000,1,Petty,C,Possession,3,32,22,49, 155
+2018-11-19 09:37:42 +0000,1,Petty,C,Assist - Circle Entry,3,32,22,49, 155
+2018-11-19 09:37:42 +0000,1,Nelson,GS,Goal - Score,3,32,22,53, 192
+2018-11-19 09:37:51 +0000,0,Price,C,Centre Pass,3,32,23,50, 100
+2018-11-19 09:37:51 +0000,0,Manu’a,WD,Assist - Centre Pass Rec,3,32,23,60, 117
+2018-11-19 09:37:54 +0000,0,Price,C,Assist - 2nd Phase,3,32,23,72, 87
+2018-11-19 09:37:56 +0000,0,Austin,WA,Possession,3,32,23,85, 70
+2018-11-19 09:38:04 +0000,1,de Bruin,GD,Penaly - Contact,3,32,23,81, 46
+2018-11-19 09:38:04 +0000,0,Austin,WA,Possession,3,32,23,81, 46
+2018-11-19 09:38:09 +0000,0,Austin,WA,Assist - Circle Entry,3,32,23,81, 46
+2018-11-19 09:38:09 +0000,0,Harten ,GA,Goal - Score,3,32,23,65, 7
+2018-11-19 09:38:19 +0000,1,Petty,C,Centre Pass,3,33,23,50, 100
+2018-11-19 09:38:19 +0000,1,Glasgow,GA,Assist - Centre Pass Rec,3,33,23,28, 125
+2018-11-19 09:38:23 +0000,1,Pitman,WA,Assist - 2nd Phase,3,33,23,19, 160
+2018-11-19 09:38:26 +0000,0,Poolman ,GK,Penaly - Contact,3,33,23,29, 180
+2018-11-19 09:38:26 +0000,1,Glasgow,GA,Possession,3,33,23,29, 180
+2018-11-19 09:38:30 +0000,1,Nelson,GS,Goal - Score,3,33,23,50, 190
+2018-11-19 09:38:41 +0000,0,Price,C,Centre Pass,3,33,24,50, 100
+2018-11-19 09:38:41 +0000,0,Austin,WA,Assist - Centre Pass Rec,3,33,24,8, 88
+2018-11-19 09:38:46 +0000,0,Price,C,Assist - 2nd Phase,3,33,24,30, 88
+2018-11-19 09:38:48 +0000,0,Manu’a,WD,Possession,3,33,24,11, 76
+2018-11-19 09:38:52 +0000,0,Harten ,GA,Possession,3,33,24,12, 13
+2018-11-19 09:39:05 +0000,1,Pitman,WA,Loss - Offside,3,33,24,11, 67
+2018-11-19 09:39:14 +0000,0,Austin,WA,Possession,3,33,24,11, 63
+2018-11-19 09:39:28 +0000,0,Pettitt ,GS,Possession,3,33,24,35, 45
+2018-11-19 09:39:32 +0000,0,Pettitt ,GS,Assist - Circle Entry,3,33,24,35, 45
+2018-11-19 09:39:32 +0000,0,Harten ,GA,Goal - Score,3,33,24,44, 24
+2018-11-19 09:39:40 +0000,1,Petty,C,Centre Pass,3,34,24,50, 100
+2018-11-19 09:39:40 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,34,24,18, 124
+2018-11-19 09:39:43 +0000,1,Glasgow,GA,Assist - 2nd Phase,3,34,24,42, 138
+2018-11-19 09:39:47 +0000,1,Glasgow,GA,Assist - Circle Entry,3,34,24,42, 138
+2018-11-19 09:39:47 +0000,1,Nelson,GS,Loss - Drop,3,34,24,39, 196
+2018-11-19 09:39:51 +0000,0,Poolman ,GK,Throw In,3,34,24,35, 203
+2018-11-19 09:40:06 +0000,0,Manu’a,WD,Possession,3,34,24,9, 183
+2018-11-19 09:40:09 +0000,0,Poolman ,GK,Possession,3,34,24,77, 167
+2018-11-19 09:40:11 +0000,0,Price,C,Possession,3,34,24,86, 127
+2018-11-19 09:40:15 +0000,1,Bryce,WD,Penaly - Contact,3,34,24,53, 120
+2018-11-19 09:40:15 +0000,0,Bulley ,GD,Possession,3,34,24,53, 120
+2018-11-19 09:49:10 +0000,0,Austin,WA,Possession,3,34,24,23, 77
+2018-11-19 09:49:27 +0000,0,Harten ,GA,Possession,3,34,24,18, 50
+2018-11-19 09:49:32 +0000,0,Harten ,GA,Possession,3,34,24,6, 15
+2018-11-19 09:49:34 +0000,0,Austin,WA,Possession,3,34,24,20, 36
+2018-11-19 09:49:37 +0000,1,Bryce,WD,Penaly - Contact,3,34,24,20, 36
+2018-11-19 09:49:37 +0000,0,Austin,WA,Possession,3,34,24,20, 36
+2018-11-19 09:49:46 +0000,0,Austin,WA,Assist - Circle Entry,3,34,24,20, 36
+2018-11-19 09:49:47 +0000,0,Harten ,GA,Goal - Score,3,34,24,39, 18
+2018-11-19 09:49:55 +0000,0,Price,C,Centre Pass,3,35,24,50, 100
+2018-11-19 09:49:55 +0000,0,Austin,WA,Assist - Centre Pass Rec,3,35,24,9, 78
+2018-11-19 09:49:58 +0000,0,Price,C,Assist - 2nd Phase,3,35,24,21, 27
+2018-11-19 09:50:01 +0000,0,Price,C,Assist - Circle Entry,3,35,24,21, 27
+2018-11-19 09:50:01 +0000,0,Pettitt ,GS,Goal - Miss,3,35,24,35, 4
+2018-11-19 09:50:07 +0000,1,Shimmin,GK,Gain - Def Reb,3,35,24,50, 2
+2018-11-19 09:50:08 +0000,0,Harten ,GA,Penaly - Contact,3,35,24,50, 2
+2018-11-19 09:50:08 +0000,1,Shimmin,GK,Possession,3,35,24,50, 2
+2018-11-19 09:50:12 +0000,1,de Bruin,GD,Possession,3,35,24,32, 42
+2018-11-19 09:50:15 +0000,1,Petty,C,Possession,3,35,24,7, 110
+2018-11-19 09:50:18 +0000,1,,UNKNOWN,Possession,3,35,24,61, 124
+2018-11-19 09:50:22 +0000,1,Glasgow,GA,Possession,3,35,24,22, 157
+2018-11-19 09:50:25 +0000,1,Pitman,WA,Possession,3,35,24,14, 189
+2018-11-19 09:50:31 +0000,1,Pitman,WA,Assist - Circle Entry,3,35,24,14, 189
+2018-11-19 09:50:31 +0000,0,Poolman ,GK,Gain - Inter,3,35,24,51, 181
+2018-11-19 09:50:37 +0000,1,Nelson,GS,Deflect,3,35,24,58, 171
+2018-11-19 09:50:37 +0000,0,Manu’a,WD,Possession,3,35,24,91, 135
+2018-11-19 09:50:41 +0000,0,Harten ,GA,Possession,3,35,24,88, 100
+2018-11-19 09:50:44 +0000,0,Manu’a,WD,Possession,3,35,24,76, 117
+2018-11-19 09:50:50 +0000,0,Austin,WA,Possession,3,35,24,5, 86
+2018-11-19 09:50:59 +0000,0,Harten ,GA,Possession,3,35,24,18, 50
+2018-11-19 09:51:02 +0000,1,Petty,C,Penaly - Contact,3,35,24,18, 50
+2018-11-19 09:51:02 +0000,0,Austin,WA,Possession,3,35,24,18, 50
+2018-11-19 09:51:43 +0000,0,Harten ,GA,Possession,3,35,24,39, 33
+2018-11-19 09:51:45 +0000,0,Price,C,Possession,3,35,24,81, 9
+2018-11-19 09:51:48 +0000,0,Price,C,Assist - Circle Entry,3,35,24,81, 9
+2018-11-19 09:51:48 +0000,0,Pettitt ,GS,Goal - Score,3,35,24,55, 5
+2018-11-19 09:51:54 +0000,1,Petty,C,Centre Pass,3,36,24,50, 100
+2018-11-19 09:51:54 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,36,24,9, 128
+2018-11-19 09:51:56 +0000,1,Glasgow,GA,Assist - 2nd Phase,3,36,24,7, 170
+2018-11-19 09:52:00 +0000,1,Petty,C,Possession,3,36,24,33, 167
+2018-11-19 09:52:01 +0000,0,Manu’a,WD,Penaly - Contact,3,36,24,33, 167
+2018-11-19 09:52:01 +0000,1,Petty,C,Possession,3,36,24,33, 167
+2018-11-19 09:52:05 +0000,1,Petty,C,Assist - Circle Entry,3,36,24,33, 167
+2018-11-19 09:52:05 +0000,1,Glasgow,GA,Goal - Score,3,36,24,40, 183
+2018-11-19 09:52:13 +0000,0,Price,C,Centre Pass,3,36,25,50, 100
+2018-11-19 09:52:13 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,3,36,25,10, 127
+2018-11-19 09:52:16 +0000,0,Manu’a,WD,Assist - 2nd Phase,3,36,25,51, 116
+2018-11-19 09:52:20 +0000,0,Harten ,GA,Possession,3,36,25,75, 23
+2018-11-19 09:52:24 +0000,1,de Bruin,GD,Deflect,3,36,25,63, 8
+2018-11-19 09:52:24 +0000,0,Pettitt ,GS,Throw In,3,36,25,62, -6
+2018-11-19 09:52:34 +0000,0,Pettitt ,GS,Assist - Circle Entry,3,36,25,62, -6
+2018-11-19 09:53:08 +0000,1,de Bruin,GD,Gain - Tip (Deflect),3,36,25,61, 3
+2018-11-19 09:53:20 +0000,1,Shimmin,GK,Possession,3,36,25,42, 27
+2018-11-19 09:53:24 +0000,1,Bryce,WD,Possession,3,36,25,60, 60
+2018-11-19 09:53:46 +0000,1,Pitman,WA,Possession,3,36,25,15, 121
+2018-11-19 09:53:51 +0000,1,de Bruin,GD,Possession,3,36,25,20, 105
+2018-11-19 09:53:53 +0000,1,Bryce,WD,Possession,3,36,25,76, 105
+2018-11-19 09:53:55 +0000,1,Petty,C,Possession,3,36,25,47, 129
+2018-11-19 09:54:03 +0000,0,Poolman ,GK,Gain - Tip (Deflect),3,36,25,29, 165
+2018-11-19 09:54:07 +0000,0,Manu’a,WD,Possession,3,36,25,26, 150
+2018-11-19 09:54:10 +0000,0,Poolman ,GK,Possession,3,36,25,48, 142
+2018-11-19 09:54:12 +0000,0,Manu’a,WD,Possession,3,36,25,9, 120
+2018-11-19 09:54:14 +0000,0,Austin,WA,Possession,3,36,25,4, 73
+2018-11-19 09:54:17 +0000,0,Manu’a,WD,Possession,3,36,25,21, 118
+2018-11-19 09:55:13 +0000,0,Harten ,GA,Possession,3,36,25,30, 32
+2018-11-19 09:55:16 +0000,0,Austin,WA,Possession,3,36,25,10, 13
+2018-11-19 09:55:20 +0000,0,Austin,WA,Assist - Circle Entry,3,36,25,10, 13
+2018-11-19 09:55:20 +0000,0,Pettitt ,GS,Goal - Miss,3,36,25,44, 6
+2018-11-19 09:55:23 +0000,1,Shimmin,GK,Gain - Def Reb,3,36,25,50, 2
+2018-11-19 09:55:26 +0000,1,Bryce,WD,Possession,3,36,25,40, 58
+2018-11-19 09:55:29 +0000,1,Petty,C,Possession,3,36,25,86, 108
+2018-11-19 09:55:32 +0000,1,Pitman,WA,Possession,3,36,25,85, 165
+2018-11-19 09:55:35 +0000,1,Petty,C,Possession,3,36,25,68, 157
+2018-11-19 09:55:36 +0000,0,Price,C,Penaly - Contact,3,36,25,68, 157
+2018-11-19 09:55:36 +0000,1,Pitman,WA,Possession,3,36,25,68, 157
+2018-11-19 09:55:48 +0000,1,Petty,C,Possession,3,36,25,79, 180
+2018-11-19 09:55:51 +0000,1,Petty,C,Assist - Circle Entry,3,36,25,79, 180
+2018-11-19 09:55:52 +0000,1,Nelson,GS,Possession,3,36,25,58, 187
+2018-11-19 09:55:53 +0000,0,Poolman ,GK,Penaly - Contact,3,36,25,58, 187
+2018-11-19 09:55:53 +0000,1,Nelson,GS,Goal - Score,3,36,25,58, 187
+2018-11-19 09:56:00 +0000,1,Petty,C,Centre Pass,3,36,26,50, 100
+2018-11-19 09:56:00 +0000,1,Glasgow,GA,Assist - Centre Pass Rec,3,36,26,57, 125
+2018-11-19 09:56:06 +0000,1,Glasgow,GA,Loss - Bad Pass,3,36,26,57, 125
+2018-11-19 09:56:06 +0000,1,Nelson,GS,Deflect,3,36,26,57, 189
+2018-11-19 09:56:11 +0000,0,Poolman ,GK,Throw In,3,36,26,61, 205
+2018-11-19 09:56:16 +0000,0,Bulley ,GD,Possession,3,36,26,82, 164
+2018-11-19 09:56:18 +0000,0,Manu’a,WD,Possession,3,36,26,7, 109
+2018-11-19 09:56:24 +0000,0,Price,C,Possession,3,36,26,34, 71
+2018-11-19 09:56:27 +0000,0,Manu’a,WD,Possession,3,36,26,9, 71
+2018-11-19 09:56:29 +0000,0,Pettitt ,GS,Possession,3,36,26,6, 48
+2018-11-19 09:56:35 +0000,0,Bulley ,GD,Possession,3,36,26,31, 69
+2018-11-19 09:56:41 +0000,0,Austin,WA,Possession,3,36,26,21, 48
+2018-11-19 09:56:43 +0000,1,Petty,C,Penaly - Contact,3,36,26,21, 48
+2018-11-19 09:56:43 +0000,0,Austin,WA,Possession,3,36,26,21, 48
+2018-11-19 09:56:49 +0000,0,Harten ,GA,Possession,3,36,26,36, 31
+2018-11-19 09:56:59 +0000,1,Shimmin,GK,Deflect,3,36,26,19, 17
+2018-11-19 09:56:59 +0000,0,Austin,WA,Throw In,3,36,26,-6, 16
+2018-11-19 09:57:06 +0000,0,Austin,WA,Assist - Circle Entry,3,36,26,-6, 16
+2018-11-19 09:57:07 +0000,0,Pettitt ,GS,Possession,3,36,26,19, 5
+2018-11-19 09:57:09 +0000,0,Harten ,GA,Possession,3,36,26,30, 38
+2018-11-19 09:57:15 +0000,0,Price,C,Possession,3,36,26,77, 20
+2018-11-19 09:57:18 +0000,1,Bryce,WD,Penaly - Contact,3,36,26,77, 20
+2018-11-19 09:57:19 +0000,0,Price,C,Possession,3,36,26,77, 20
+2018-11-19 09:57:25 +0000,0,Price,C,Assist - Circle Entry,3,36,26,77, 20
+2018-11-19 09:57:25 +0000,0,Harten ,GA,Possession,3,36,26,61, 10
+2018-11-19 09:57:27 +0000,1,Shimmin,GK,Penaly - Contact,3,36,26,52, 16
+2018-11-19 09:57:27 +0000,0,Pettitt ,GS,Goal - Score,3,36,26,52, 16
+2018-11-19 09:57:40 +0000,0,Price,C,Centre Pass,3,37,26,50, 100
+2018-11-19 09:57:40 +0000,0,Harten ,GA,Assist - Centre Pass Rec,3,37,26,79, 72
+2018-11-19 09:57:42 +0000,0,Price,C,Assist - 2nd Phase,3,37,26,71, 45
+2018-11-19 09:57:44 +0000,0,Price,C,Assist - Circle Entry,3,37,26,71, 45
+2018-11-19 09:57:44 +0000,0,Pettitt ,GS,Goal - Score,3,37,26,59, 4
+2018-11-19 09:57:51 +0000,1,Petty,C,Centre Pass,3,38,26,50, 100
+2018-11-19 09:57:52 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,38,26,15, 127
+2018-11-19 09:57:57 +0000,0,Price,C,Gain - Inter,3,38,26,8, 166
+2018-11-19 09:58:03 +0000,0,Poolman ,GK,Possession,3,38,26,22, 156
+2018-11-19 09:58:05 +0000,0,Manu’a,WD,Possession,3,38,26,44, 154
+2018-11-19 09:58:10 +0000,0,Bulley ,GD,Possession,3,38,26,83, 119
+2018-11-19 09:58:22 +0000,0,Austin,WA,Possession,3,38,26,58, 90
+2018-11-19 09:58:25 +0000,0,Manu’a,WD,Possession,3,38,26,85, 83
+2018-11-19 09:58:27 +0000,0,Pettitt ,GS,Possession,3,38,26,80, 20
+2018-11-19 10:02:42 +0000,1,Shimmin,GK,Deflect,3,38,26,83, 11
+2018-11-19 10:02:42 +0000,0,Price,C,Throw In,3,38,26,107, 7
+2018-11-19 10:02:56 +0000,0,Price,C,Assist - Circle Entry,3,38,26,107, 7
+2018-11-19 10:02:56 +0000,0,Harten ,GA,Possession,3,38,26,74, 7
+2018-11-19 10:02:58 +0000,0,Price,C,Possession,3,38,26,87, 7
+2018-11-19 10:03:02 +0000,0,Price,C,Assist - Circle Entry,3,38,26,87, 7
+2018-11-19 10:03:02 +0000,0,Harten ,GA,Goal - Score,3,38,26,58, 5
+2018-11-19 10:03:11 +0000,0,Price,C,Centre Pass,3,39,26,50, 100
+2018-11-19 10:03:11 +0000,0,Austin,WA,Assist - Centre Pass Rec,3,39,26,80, 73
+2018-11-19 10:03:19 +0000,0,Austin,WA,Assist - Circle Entry,3,39,26,80, 73
+2018-11-19 10:03:19 +0000,0,Pettitt ,GS,Assist - 2nd Phase,3,39,26,44, 4
+2018-11-19 10:03:21 +0000,0,Pettitt ,GS,Goal - Score,3,39,26,44, 4
+2018-11-19 10:06:07 +0000,1,Petty,C,Centre Pass,3,40,26,50, 100
+2018-11-19 10:06:07 +0000,1,,UNKNOWN,Assist - Centre Pass Rec,3,40,26,63, 75
+2018-11-19 10:06:08 +0000,1,Glasgow,GA,Deflect,3,40,26,72, 157
+2018-11-19 10:06:16 +0000,1,Glasgow,GA,Assist - Circle Entry,3,40,26,72, 157
+2018-11-19 10:06:16 +0000,1,Nelson,GS,Possession,3,40,26,61, 181
+2018-11-19 10:06:21 +0000,1,Pitman,WA,Possession,3,40,26,66, 168
+2018-11-19 10:06:24 +0000,1,Pitman,WA,Assist - Circle Entry,3,40,26,66, 168
+2018-11-19 10:06:24 +0000,1,Glasgow,GA,Goal - Score,3,40,26,48, 179
+2018-11-19 10:06:33 +0000,1,,UNKNOWN,Timeout,3,40,27,110, 222
+2018-11-19 10:07:29 +0000,0,Price,C,Centre Pass,3,40,27,50, 100
+2018-11-19 10:07:29 +0000,0,Harten ,GA,Assist - Centre Pass Rec,3,40,27,37, 78
+2018-11-19 10:07:32 +0000,0,Bulley ,GD,Assist - 2nd Phase,3,40,27,77, 75
+2018-11-19 10:07:34 +0000,0,Price,C,Possession,3,40,27,77, 49
+2018-11-19 10:07:36 +0000,0,Manu’a,WD,Possession,3,40,27,53, 69
+2018-11-19 10:07:37 +0000,0,Price,C,Possession,3,40,27,57, 45
+2018-11-19 10:07:39 +0000,0,Price,C,Assist - Circle Entry,3,40,27,57, 45
+2018-11-19 10:07:39 +0000,0,Harten ,GA,Possession,3,40,27,53, 16
+2018-11-19 10:07:41 +0000,1,Shimmin,GK,Penaly - Obstruction,3,40,27,53, 16
+2018-11-19 10:07:41 +0000,0,Harten ,GA,Goal - Score,3,40,27,53, 16
+2018-11-19 10:07:53 +0000,1,Petty,C,Centre Pass,3,41,27,50, 100
+2018-11-19 10:07:53 +0000,1,Pitman,WA,Assist - Centre Pass Rec,3,41,27,25, 126
+2018-11-19 10:07:56 +0000,1,de Bruin,GD,Assist - 2nd Phase,3,41,27,13, 125
+2018-11-19 10:07:59 +0000,1,Pitman,WA,Possession,3,41,27,16, 153
+2018-11-19 10:08:11 +0000,1,Pitman,WA,Assist - Circle Entry,3,41,27,16, 153
+2018-11-19 10:08:11 +0000,1,Nelson,GS,Possession,3,41,27,53, 184
+2018-11-19 10:08:12 +0000,0,Poolman ,GK,Penaly - Contact,3,41,27,53, 184
+2018-11-19 10:08:12 +0000,1,Glasgow,GA,Goal - Score,3,41,27,53, 184
+2018-11-19 10:08:26 +0000,0,Price,C,Centre Pass,3,41,28,50, 100
+2018-11-19 10:08:26 +0000,0,Manu’a,WD,Assist - Centre Pass Rec,3,41,28,53, 125
+2018-11-19 10:08:46 +0000,1,Petty,C,Penaly - Contact,3,41,28,47, 68
+2018-11-19 10:08:46 +0000,0,Manu’a,WD,Assist - 2nd Phase,3,41,28,47, 68
+2018-11-19 10:09:02 +0000,0,Austin,WA,Possession,3,41,28,53, 43
+2018-11-19 10:09:05 +0000,0,Austin,WA,Assist - Circle Entry,3,41,28,53, 43
+2018-11-19 10:09:05 +0000,0,Pettitt ,GS,Goal - Score,3,41,28,56, 9
+2018-11-19 10:09:23 +0000,1,Petty,C,Centre Pass,3,42,28,50, 100
+2018-11-19 10:09:23 +0000,0,Price,C,Loss - Out of Court,3,42,28,96, 119
+2018-11-19 10:09:31 +0000,1,de Bruin,GD,Throw In,3,42,28,98, 120
+2018-11-19 10:09:37 +0000,1,Pitman,WA,Possession,3,42,28,56, 129
+2018-11-19 10:09:39 +0000,1,Bryce,WD,Possession,3,42,28,65, 99
+2018-11-19 10:09:42 +0000,1,de Bruin,GD,Possession,3,42,28,90, 119
+2018-11-19 10:09:45 +0000,1,de Bruin,GD,Possession,3,42,28,53, 99
+2018-11-19 10:09:47 +0000,1,Petty,C,Possession,3,42,28,7, 138
+2018-11-19 10:10:02 +0000,0,Bulley ,GD,Penaly - Contact,3,42,28,47, 173
+2018-11-19 10:10:02 +0000,1,Glasgow,GA,Goal - Miss,3,42,28,47, 173
+2018-11-19 10:10:12 +0000,0,Poolman ,GK,Deflect,3,42,28,50, 197
+2018-11-19 10:10:13 +0000,1,Glasgow,GA,Throw In,3,42,28,57, 203
+2018-11-19 10:10:22 +0000,1,Pitman,WA,Possession,3,42,28,72, 173
+2018-11-19 10:10:25 +0000,1,Pitman,WA,Assist - Circle Entry,3,42,28,72, 173
+2018-11-19 10:10:25 +0000,1,Glasgow,GA,Goal - Score,3,42,28,53, 188
+2018-11-19 10:10:33 +0000,0,Price,C,Centre Pass,3,42,29,50, 100
+2018-11-19 10:10:33 +0000,0,Harten ,GA,Assist - Centre Pass Rec,3,42,29,47, 83
+2018-11-19 10:10:36 +0000,0,Harten ,GA,Assist - 2nd Phase,3,42,29,80, 17
+2018-11-19 10:10:38 +0000,0,Austin,WA,Possession,3,42,29,27, 28
+2018-11-19 10:10:41 +0000,0,Price,C,Possession,3,42,29,65, 32
+2018-11-19 10:10:44 +0000,0,Price,C,Assist - Circle Entry,3,42,29,65, 32
+2018-11-19 10:10:44 +0000,0,Pettitt ,GS,Possession,3,42,29,56, 12
+2018-11-19 10:10:46 +0000,1,de Bruin,GD,Penaly - Obstruction,3,42,29,56, 12
+2018-11-19 10:10:46 +0000,0,Pettitt ,GS,Goal - Score,3,42,29,56, 12
+2018-11-19 10:11:06 +0000,1,Petty,C,Centre Pass,3,43,29,50, 100
+2018-11-19 10:11:06 +0000,0,Manu’a,WD,Penaly - Contact on CP,3,43,29,50, 129
+2018-11-19 10:11:06 +0000,1,de Bruin,GD,Possession,3,43,29,50, 129
+2018-11-19 10:11:10 +0000,1,Pitman,WA,Assist - 2nd Phase,3,43,29,34, 160
+2018-11-19 10:11:13 +0000,1,de Bruin,GD,Possession,3,43,29,45, 130
+2018-11-19 10:11:14 +0000,0,,UNKNOWN,Penaly - Contact,3,43,29,48, 115
+2018-11-19 10:11:14 +0000,1,,UNKNOWN,Possession,3,43,29,48, 115
+2018-11-19 10:11:15 +0000,0,Manu’a,WD,Penaly - Contact,3,43,29,67, 170
+2018-11-19 10:11:16 +0000,1,Petty,C,Possession,3,43,29,67, 170
+2018-11-19 10:11:29 +0000,1,Pitman,WA,Possession,3,43,29,15, 188
+2018-11-19 10:11:32 +0000,1,Pitman,WA,Assist - Circle Entry,3,43,29,15, 188
+2018-11-19 10:11:32 +0000,1,Nelson,GS,Goal - Score,3,43,29,50, 189
+2018-11-19 10:11:44 +0000,0,Price,C,Centre Pass,3,43,30,50, 100
+2018-11-19 10:11:44 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,3,43,30,61, 116
+2018-11-19 10:11:49 +0000,1,Glasgow,GA,Penaly - Obstruction,3,43,30,61, 116
+2018-11-19 10:11:49 +0000,0,Bulley ,GD,Possession,3,43,30,61, 116
+2018-11-19 10:11:52 +0000,0,Price,C,Possession,3,43,30,47, 74
+2018-11-19 10:11:56 +0000,0,Harten ,GA,Possession,3,43,30,72, 52
+2018-11-19 10:11:58 +0000,0,Bulley ,GD,Possession,3,43,30,54, 69
+2018-11-19 10:12:00 +0000,0,Price,C,Possession,3,43,30,33, 36
+2018-11-19 10:12:50 +0000,1,Shimmin,GK,Deflect,3,43,30,43, 25
+2018-11-19 10:12:50 +0000,0,Harten ,GA,Possession,3,43,30,55, 34
+2018-11-19 10:12:57 +0000,0,Harten ,GA,Assist - Circle Entry,3,43,30,55, 34
+2018-11-19 10:12:57 +0000,0,Pettitt ,GS,Goal - Score,3,43,30,54, 4
+2018-11-19 10:13:07 +0000,1,Petty,C,Centre Pass,3,44,30,50, 100
+2018-11-19 10:13:07 +0000,1,Glasgow,GA,Assist - Centre Pass Rec,3,44,30,79, 113
+2018-11-19 10:13:09 +0000,1,Pitman,WA,Assist - 2nd Phase,3,44,30,80, 159
+2018-11-19 10:13:26 +0000,0,Poolman ,GK,Penaly - Contact,3,44,30,51, 179
+2018-11-19 10:13:26 +0000,1,Glasgow,GA,Possession,3,44,30,51, 179
+2018-11-19 10:13:30 +0000,1,Nelson,GS,Possession,3,44,30,36, 195
+2018-11-19 10:13:33 +0000,0,Poolman ,GK,Deflect,3,44,30,50, 183
+2018-11-19 10:13:33 +0000,1,Petty,C,Possession,3,44,30,41, 164
+2018-11-19 10:13:39 +0000,1,Petty,C,Assist - Circle Entry,3,44,30,41, 164
+2018-11-19 10:13:39 +0000,1,Glasgow,GA,Goal - Score,3,44,30,48, 177
+2018-11-19 10:13:46 +0000,0,Price,C,Centre Pass,3,44,31,50, 100
+2018-11-19 10:13:47 +0000,0,Manu’a,WD,Assist - Centre Pass Rec,3,44,31,86, 81
+2018-11-19 10:13:50 +0000,0,Harten ,GA,Assist - 2nd Phase,3,44,31,83, 12
+2018-11-19 10:13:57 +0000,0,Austin,WA,Possession,3,44,31,83, 45
+2018-11-19 10:14:05 +0000,0,Price,C,Possession,3,44,31,59, 34
+2018-11-19 10:14:11 +0000,1,de Bruin,GD,Penaly - Obstruction,3,44,31,57, 26
+2018-11-19 10:14:11 +0000,0,Harten ,GA,Possession,3,44,31,57, 26
+2018-11-19 10:14:24 +0000,1,Shimmin,GK,Penaly - Contact,3,44,31,57, 13
+2018-11-19 10:14:24 +0000,0,Pettitt ,GS,Goal - Score,3,44,31,57, 13
+2018-11-19 10:15:20 +0000,1,Petty,C,Centre Pass,3,45,31,50, 100
+2018-11-19 10:15:20 +0000,1,,UNKNOWN,Assist - Centre Pass Rec,3,45,31,70, 117
+2018-11-19 10:15:21 +0000,1,Petty,C,Assist - 2nd Phase,3,45,31,77, 162
+2018-11-19 10:15:25 +0000,1,Glasgow,GA,Possession,3,45,31,47, 160
+2018-11-19 10:15:28 +0000,1,Glasgow,GA,Assist - Circle Entry,3,45,31,47, 160
+2018-11-19 10:15:28 +0000,1,Nelson,GS,Goal - Score,3,45,31,41, 188
+2018-11-19 10:15:37 +0000,0,Price,C,Centre Pass,3,45,32,50, 100
+2018-11-19 10:15:37 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,3,45,32,84, 104
+2018-11-19 10:15:42 +0000,0,Austin,WA,Assist - 2nd Phase,3,45,32,35, 79
+2018-11-19 10:15:44 +0000,1,Bryce,WD,Penaly - Contact,3,45,32,35, 79
+2018-11-19 10:15:44 +0000,0,Bulley ,GD,Possession,3,45,32,35, 79
+2018-11-19 10:15:51 +0000,0,Price,C,Possession,3,45,32,77, 42
+2018-11-19 10:15:53 +0000,0,Price,C,Assist - Circle Entry,3,45,32,77, 42
+2018-11-19 10:15:53 +0000,0,Pettitt ,GS,Possession,3,45,32,72, 7
+2018-11-19 10:15:56 +0000,0,Austin,WA,Possession,3,45,32,14, 12
+2018-11-19 10:15:58 +0000,0,Austin,WA,Assist - Circle Entry,3,45,32,14, 12
+2018-11-19 10:15:58 +0000,0,Harten ,GA,Goal - Score,3,45,32,35, 15
+2018-11-19 10:16:07 +0000,1,Petty,C,Centre Pass,3,46,32,50, 100
+2018-11-19 10:16:07 +0000,1,Bryce,WD,Assist - Centre Pass Rec,3,46,32,52, 80
+2018-11-19 10:16:10 +0000,1,de Bruin,GD,Assist - 2nd Phase,3,46,32,46, 94
+2018-11-19 10:16:11 +0000,1,Glasgow,GA,Possession,3,46,32,48, 129
+2018-11-19 10:16:16 +0000,0,Price,C,Gain - Inter,3,46,32,77, 171
+2018-11-19 10:16:21 +0000,1,Petty,C,Penaly - Contact,3,46,32,77, 171
+2018-11-19 10:16:22 +0000,0,Poolman ,GK,Possession,3,46,32,77, 171
+2018-11-19 10:16:26 +0000,0,Manu’a,WD,Possession,3,46,32,43, 162
+2018-11-19 10:16:28 +0000,0,Price,C,Possession,3,46,32,91, 88
+2018-11-19 10:16:30 +0000,0,Austin,WA,Possession,3,46,32,58, 35
+2018-11-19 10:16:33 +0000,0,Austin,WA,Assist - Circle Entry,3,46,32,58, 35
+2018-11-19 10:16:33 +0000,0,Harten ,GA,Possession,3,46,32,61, 4
+2018-11-19 10:16:35 +0000,0,Price,C,Possession,3,46,32,34, 30
+2018-11-19 10:16:39 +0000,1,Shimmin,GK,Deflect,3,46,32,37, 9
+2018-11-19 10:16:39 +0000,0,Pettitt ,GS,Throw In,3,46,32,36, -5
+2018-11-19 10:16:44 +0000,0,Austin,WA,Possession,3,46,32,79, 16
+2018-11-19 10:16:48 +0000,1,de Bruin,GD,Penaly - Contact,3,46,32,60, 7
+2018-11-19 10:16:48 +0000,0,Pettitt ,GS,Goal - Score,3,46,32,60, 7
+2018-11-19 10:17:00 +0000,0,Price,C,Centre Pass,3,47,32,50, 100
+2018-11-19 10:17:00 +0000,0,Harten ,GA,Assist - Centre Pass Rec,3,47,32,83, 71
+2018-11-19 10:17:02 +0000,0,Austin,WA,Assist - 2nd Phase,3,47,32,53, 72
+2018-11-19 10:17:05 +0000,0,Price,C,Possession,3,47,32,32, 33
+2018-11-19 10:17:13 +0000,1,de Bruin,GD,Penaly - Contact,3,47,32,48, 26
+2018-11-19 10:17:13 +0000,0,Harten ,GA,Possession,3,47,32,48, 26
+2018-11-19 10:17:24 +0000,1,Shimmin,GK,Penaly - Obstruction,3,47,32,41, 11
+2018-11-19 10:17:24 +0000,0,Pettitt ,GS,Goal - Score,3,47,32,41, 11
+2018-11-19 10:17:33 +0000,1,Petty,C,Centre Pass,3,48,32,50, 100
+2018-11-19 10:17:33 +0000,1,de Bruin,GD,Assist - Centre Pass Rec,3,48,32,30, 112
+2018-11-19 10:17:40 +0000,1,Petty,C,Assist - 2nd Phase,3,48,32,38, 151
+2018-11-19 10:17:42 +0000,1,Glasgow,GA,Possession,3,48,32,30, 170
+2018-11-19 10:17:45 +0000,1,Pitman,WA,Possession,3,48,32,23, 143
+2018-11-19 10:17:49 +0000,1,Pitman,WA,Possession,3,48,32,82, 191
+2018-11-19 10:17:58 +0000,1,Pitman,WA,Assist - Circle Entry,3,48,32,82, 191
+2018-11-19 10:17:58 +0000,1,Nelson,GS,Goal - Score,3,48,32,38, 187
+2018-11-19 10:18:08 +0000,0,Price,C,Centre Pass,3,48,33,50, 100
+2018-11-19 10:18:08 +0000,0,Austin,WA,Assist - Centre Pass Rec,3,48,33,79, 73
+2018-11-19 10:18:10 +0000,0,Harten ,GA,Assist - 2nd Phase,3,48,33,86, 55
+2018-11-19 10:18:14 +0000,1,de Bruin,GD,Gain - Inter,3,48,33,86, 46
+2018-11-19 10:18:18 +0000,0,,UNKNOWN,Penaly - Contact,3,48,33,85, 96
+2018-11-19 10:18:18 +0000,1,Glasgow,GA,Possession,3,48,33,85, 96
+2018-11-19 10:18:21 +0000,1,Pitman,WA,Possession,3,48,33,23, 129
+2018-11-19 10:18:23 +0000,1,Pitman,WA,Assist - Circle Entry,3,48,33,23, 129
+2018-11-19 10:18:23 +0000,1,Nelson,GS,Goal - Score,3,48,33,49, 192
+2018-11-19 10:21:22 +0000,1,Petty,C,Centre Pass,4,48,34,50, 100
+2018-11-19 10:21:22 +0000,1,Fowler,GD,Assist - Centre Pass Rec,4,48,34,12, 124
+2018-11-19 10:21:25 +0000,1,Bryce,WD,Assist - 2nd Phase,4,48,34,28, 94
+2018-11-19 10:21:27 +0000,1,Fowler,GD,Possession,4,48,34,15, 110
+2018-11-19 10:21:29 +0000,1,Pitman,WA,Possession,4,48,34,39, 91
+2018-11-19 10:21:53 +0000,1,Shimmin,GK,Possession,4,48,34,37, 63
+2018-11-19 10:21:55 +0000,1,Fowler,GD,Possession,4,48,34,43, 87
+2018-11-19 10:22:13 +0000,1,Hodges,GA,Possession,4,48,34,86, 161
+2018-11-19 10:22:28 +0000,1,Pitman,WA,Possession,4,48,34,16, 189
+2018-11-19 10:22:34 +0000,1,Glasgow,GS,Penaly - Contact,4,48,34,43, 176
+2018-11-19 10:22:34 +0000,0,Poolman ,GK,Possession,4,48,34,43, 176
+2018-11-19 10:22:44 +0000,0,Bulley ,GD,Possession,4,48,34,57, 155
+2018-11-19 10:22:47 +0000,0,Price,C,Possession,4,48,34,88, 139
+2018-11-19 10:22:49 +0000,0,Bulley ,GD,Possession,4,48,34,72, 127
+2018-11-19 10:22:51 +0000,0,Austin,WA,Possession,4,48,34,49, 113
+2018-11-19 10:22:53 +0000,0,Price,C,Possession,4,48,34,83, 72
+2018-11-19 10:22:56 +0000,0,Harten ,GA,Possession,4,48,34,91, 49
+2018-11-19 10:22:59 +0000,0,Price,C,Possession,4,48,34,26, 26
+2018-11-19 10:23:10 +0000,0,Price,C,Assist - Circle Entry,4,48,34,26, 26
+2018-11-19 10:23:10 +0000,0,Pettitt ,GS,Goal - Score,4,48,34,40, 7
+2018-11-19 10:23:18 +0000,0,Price,C,Centre Pass,4,49,34,50, 100
+2018-11-19 10:23:18 +0000,0,Austin,WA,Assist - Centre Pass Rec,4,49,34,83, 70
+2018-11-19 10:23:21 +0000,0,Pettitt ,GS,Assist - 2nd Phase,4,49,34,22, 29
+2018-11-19 10:23:23 +0000,0,Price,C,Possession,4,49,34,38, 31
+2018-11-19 10:23:25 +0000,0,Pettitt ,GS,Possession,4,49,34,16, 7
+2018-11-19 10:23:27 +0000,0,Price,C,Possession,4,49,34,22, 21
+2018-11-19 10:23:29 +0000,0,Price,C,Assist - Circle Entry,4,49,34,22, 21
+2018-11-19 10:23:29 +0000,0,Pettitt ,GS,Goal - Miss,4,49,34,34, 3
+2018-11-19 10:23:33 +0000,1,Fowler,GD,Gain - Def Reb,4,49,34,50, 2
+2018-11-19 10:23:35 +0000,1,Shimmin,GK,Possession,4,49,34,41, 3
+2018-11-19 10:23:38 +0000,0,Pettitt ,GS,Penaly - Obstruction,4,49,34,41, 3
+2018-11-19 10:23:38 +0000,1,Shimmin,GK,Possession,4,49,34,41, 3
+2018-11-19 10:23:44 +0000,1,Bryce,WD,Possession,4,49,34,46, 101
+2018-11-19 10:23:56 +0000,1,Pitman,WA,Possession,4,49,34,21, 178
+2018-11-19 10:24:03 +0000,1,Pitman,WA,Assist - Circle Entry,4,49,34,21, 178
+2018-11-19 10:24:03 +0000,1,Glasgow,GS,Possession,4,49,34,28, 184
+2018-11-19 10:25:07 +0000,0,Poolman ,GK,Penaly - Contact,4,49,34,28, 184
+2018-11-19 10:25:07 +0000,1,Glasgow,GS,Goal - Miss,4,49,34,28, 184
+2018-11-19 10:25:14 +0000,0,Poolman ,GK,Gain - Def Reb,4,49,34,50, 197
+2018-11-19 10:25:17 +0000,0,Price,C,Possession,4,49,34,58, 143
+2018-11-19 10:25:20 +0000,0,Austin,WA,Possession,4,49,34,92, 93
+2018-11-19 10:25:29 +0000,0,Harten ,GA,Possession,4,49,34,94, 61
+2018-11-19 10:25:32 +0000,0,Pettitt ,GS,Possession,4,49,34,87, 5
+2018-11-19 10:25:40 +0000,0,Pettitt ,GS,Assist - Circle Entry,4,49,34,87, 5
+2018-11-19 10:25:40 +0000,0,Harten ,GA,Possession,4,49,34,45, 3
+2018-11-19 10:25:43 +0000,1,Fowler,GD,Penaly - Contact,4,49,34,45, 3
+2018-11-19 10:25:43 +0000,0,Harten ,GA,Possession,4,49,34,45, 3
+2018-11-19 10:25:52 +0000,1,Shimmin,GK,Penaly - Obstruction,4,49,34,45, 3
+2018-11-19 10:25:52 +0000,0,Harten ,GA,Goal - Score,4,49,34,45, 3
+2018-11-19 10:26:01 +0000,1,Petty,C,Centre Pass,4,50,34,50, 100
+2018-11-19 10:26:01 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,50,34,47, 122
+2018-11-19 10:26:16 +0000,1,Fowler,GD,Assist - 2nd Phase,4,50,34,76, 113
+2018-11-19 10:26:24 +0000,0,Austin,WA,Penaly - Contact,4,50,34,76, 113
+2018-11-19 10:26:24 +0000,1,Fowler,GD,Possession,4,50,34,76, 113
+2018-11-19 10:26:35 +0000,1,Bryce,WD,Possession,4,50,34,39, 125
+2018-11-19 10:26:40 +0000,1,Pitman,WA,Possession,4,50,34,36, 150
+2018-11-19 10:26:50 +0000,1,Pitman,WA,Assist - Circle Entry,4,50,34,36, 150
+2018-11-19 10:26:51 +0000,1,Hodges,GA,Possession,4,50,34,43, 177
+2018-11-19 10:26:57 +0000,1,Glasgow,GS,Goal - Miss,4,50,34,48, 192
+2018-11-19 10:27:05 +0000,0,Poolman ,GK,Gain - Def Reb,4,50,34,50, 197
+2018-11-19 10:27:09 +0000,0,Manu’a,WD,Possession,4,50,34,86, 154
+2018-11-19 10:27:17 +0000,0,Price,C,Possession,4,50,34,25, 83
+2018-11-19 10:27:28 +0000,0,Harten ,GA,Possession,4,50,34,47, 81
+2018-11-19 10:27:34 +0000,0,Manu’a,WD,Possession,4,50,34,94, 93
+2018-11-19 10:27:36 +0000,0,Price,C,Possession,4,50,34,88, 13
+2018-11-19 10:27:40 +0000,0,Price,C,Assist - Circle Entry,4,50,34,88, 13
+2018-11-19 10:27:40 +0000,0,Harten ,GA,Possession,4,50,34,67, 22
+2018-11-19 10:27:42 +0000,1,Fowler,GD,Penaly - Contact,4,50,34,67, 22
+2018-11-19 10:27:42 +0000,0,Harten ,GA,Goal - Score,4,50,34,67, 22
+2018-11-19 10:28:29 +0000,0,Price,C,Centre Pass,4,51,34,50, 100
+2018-11-19 10:28:29 +0000,0,Manu’a,WD,Assist - Centre Pass Rec,4,51,34,84, 112
+2018-11-19 10:28:31 +0000,0,Harten ,GA,Assist - 2nd Phase,4,51,34,56, 89
+2018-11-19 10:28:35 +0000,0,Pettitt ,GS,Possession,4,51,34,82, 60
+2018-11-19 10:28:41 +0000,0,Pettitt ,GS,Assist - Circle Entry,4,51,34,82, 60
+2018-11-19 10:28:41 +0000,0,Harten ,GA,Goal - Miss,4,51,34,59, 15
+2018-11-19 10:28:56 +0000,1,Shimmin,GK,Gain - Def Reb,4,51,34,50, 2
+2018-11-19 10:28:57 +0000,1,Fowler,GD,Possession,4,51,34,53, 18
+2018-11-19 10:29:00 +0000,1,Petty,C,Possession,4,51,34,46, 72
+2018-11-19 10:29:05 +0000,1,Pitman,WA,Possession,4,51,34,25, 142
+2018-11-19 10:29:10 +0000,1,Hodges,GA,Possession,4,51,34,23, 174
+2018-11-19 10:29:13 +0000,1,Pitman,WA,Possession,4,51,34,30, 169
+2018-11-19 10:29:15 +0000,1,Pitman,WA,Assist - Circle Entry,4,51,34,30, 169
+2018-11-19 10:29:16 +0000,1,Hodges,GA,Possession,4,51,34,48, 174
+2018-11-19 10:29:19 +0000,1,Pitman,WA,Possession,4,51,34,30, 170
+2018-11-19 10:29:24 +0000,1,Pitman,WA,Assist - Circle Entry,4,51,34,30, 170
+2018-11-19 10:29:24 +0000,1,Hodges,GA,Possession,4,51,34,41, 178
+2018-11-19 10:29:26 +0000,0,Poolman ,GK,Penaly - Contact,4,51,34,41, 178
+2018-11-19 10:29:26 +0000,1,Hodges,GA,Possession,4,51,34,41, 178
+2018-11-19 10:29:29 +0000,1,Glasgow,GS,Goal - Score,4,51,34,60, 194
+2018-11-19 10:29:42 +0000,1,Petty,C,Centre Pass,4,51,35,50, 100
+2018-11-19 10:29:42 +0000,1,Hodges,GA,Deflect,4,51,35,25, 127
+2018-11-19 10:29:49 +0000,1,Hodges,GA,Assist - 2nd Phase,4,51,35,4, 112
+2018-11-19 10:29:57 +0000,0,Austin,WA,Gain - Inter,4,51,35,17, 103
+2018-11-19 10:30:04 +0000,0,Poolman ,GK,Possession,4,51,35,30, 135
+2018-11-19 10:30:07 +0000,0,Bulley ,GD,Possession,4,51,35,16, 127
+2018-11-19 10:30:10 +0000,0,Austin,WA,Possession,4,51,35,41, 105
+2018-11-19 10:30:12 +0000,0,Price,C,Possession,4,51,35,81, 69
+2018-11-19 10:30:16 +0000,0,Harten ,GA,Possession,4,51,35,83, 48
+2018-11-19 10:30:19 +0000,1,Fowler,GD,Penaly - Contact,4,51,35,83, 48
+2018-11-19 10:30:19 +0000,0,Price,C,Possession,4,51,35,83, 48
+2018-11-19 10:30:28 +0000,0,Harten ,GA,Possession,4,51,35,87, 9
+2018-11-19 10:31:23 +0000,0,Harten ,GA,Assist - Circle Entry,4,51,35,87, 9
+2018-11-19 10:31:23 +0000,0,Pettitt ,GS,Loss - Drop,4,51,35,43, 7
+2018-11-19 10:31:32 +0000,1,Shimmin,GK,Gain - Pick-up,4,51,35,53, 12
+2018-11-19 10:31:41 +0000,1,Bryce,WD,Possession,4,51,35,21, 48
+2018-11-19 10:31:45 +0000,1,Shimmin,GK,Possession,4,51,35,38, 54
+2018-11-19 10:31:48 +0000,1,Hodges,GA,Possession,4,51,35,11, 98
+2018-11-19 10:31:50 +0000,1,Pitman,WA,Possession,4,51,35,19, 155
+2018-11-19 10:32:36 +0000,1,Pitman,WA,Assist - Circle Entry,4,51,35,19, 155
+2018-11-19 10:32:36 +0000,1,Glasgow,GS,Possession,4,51,35,18, 193
+2018-11-19 10:32:42 +0000,1,Petty,C,Possession,4,51,35,81, 182
+2018-11-19 10:32:44 +0000,0,Price,C,Penaly - Contact,4,51,35,81, 182
+2018-11-19 10:32:44 +0000,1,Petty,C,Possession,4,51,35,81, 182
+2018-11-19 10:32:49 +0000,1,Petty,C,Assist - Circle Entry,4,51,35,81, 182
+2018-11-19 10:32:49 +0000,1,Glasgow,GS,Goal - Score,4,51,35,45, 193
+2018-11-19 10:32:58 +0000,0,Price,C,Centre Pass,4,51,36,50, 100
+2018-11-19 10:32:58 +0000,0,Manu’a,WD,Assist - Centre Pass Rec,4,51,36,48, 121
+2018-11-19 10:33:00 +0000,0,Pettitt ,GS,Assist - 2nd Phase,4,51,36,23, 37
+2018-11-19 10:33:05 +0000,0,Pettitt ,GS,Assist - Circle Entry,4,51,36,23, 37
+2018-11-19 10:33:05 +0000,0,Harten ,GA,Possession,4,51,36,54, 7
+2018-11-19 10:33:08 +0000,0,Price,C,Possession,4,51,36,49, 34
+2018-11-19 10:33:11 +0000,0,Price,C,Assist - Circle Entry,4,51,36,49, 34
+2018-11-19 10:33:11 +0000,0,Pettitt ,GS,Possession,4,51,36,34, 14
+2018-11-19 10:33:13 +0000,0,Price,C,Possession,4,51,36,49, 36
+2018-11-19 10:33:15 +0000,0,Price,C,Assist - Circle Entry,4,51,36,49, 36
+2018-11-19 10:33:15 +0000,0,Harten ,GA,Possession,4,51,36,48, 13
+2018-11-19 10:33:20 +0000,1,Shimmin,GK,Penaly - Contact,4,51,36,48, 13
+2018-11-19 10:33:20 +0000,0,Harten ,GA,Goal - Score,4,51,36,48, 13
+2018-11-19 10:33:31 +0000,0,,UNKNOWN,Timeout,4,52,36,-10, -22
+2018-11-19 10:33:51 +0000,0,Pettitt ,UNKNOWN,Interchange - Brice,4,52,36,
+2018-11-19 10:33:52 +0000,0,Harten ,UNKNOWN,Interchange - Pettitt ,4,52,36,
+2018-11-19 10:34:04 +0000,0,Petty,UNKNOWN,Interchange - Msomi,4,52,36,
+2018-11-19 10:34:46 +0000,1,Msomi,C,Centre Pass,4,52,36,50, 100
+2018-11-19 10:34:47 +0000,1,Bryce,WD,Assist - Centre Pass Rec,4,52,36,50, 120
+2018-11-19 10:34:52 +0000,1,Hodges,GA,Assist - 2nd Phase,4,52,36,71, 157
+2018-11-19 10:34:55 +0000,1,Msomi,C,Possession,4,52,36,84, 170
+2018-11-19 10:34:58 +0000,1,Pitman,WA,Possession,4,52,36,69, 143
+2018-11-19 10:35:01 +0000,0,Bulley ,GD,Gain - Inter,4,52,36,90, 179
+2018-11-19 10:35:08 +0000,0,Poolman ,GK,Possession,4,52,36,82, 142
+2018-11-19 10:36:25 +0000,0,Austin,WA,Possession,4,52,36,85, 100
+2018-11-19 10:36:28 +0000,0,Manu’a,WD,Possession,4,52,36,69, 105
+2018-11-19 10:36:30 +0000,0,Austin,WA,Possession,4,52,36,86, 72
+2018-11-19 10:36:32 +0000,0,Manu’a,WD,Possession,4,52,36,75, 87
+2018-11-19 10:36:34 +0000,0,Pettitt ,GA,Possession,4,52,36,58, 71
+2018-11-19 10:36:39 +0000,0,Austin,WA,Possession,4,52,36,29, 30
+2018-11-19 10:36:41 +0000,0,Austin,WA,Assist - Circle Entry,4,52,36,29, 30
+2018-11-19 10:36:41 +0000,0,Brice,GS,Goal - Score,4,52,36,52, 8
+2018-11-19 10:36:53 +0000,0,Price,C,Centre Pass,4,53,36,50, 100
+2018-11-19 10:36:54 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,4,53,36,63, 115
+2018-11-19 10:36:57 +0000,0,Price,C,Assist - 2nd Phase,4,53,36,82, 63
+2018-11-19 10:37:03 +0000,1,Fowler,GD,Penaly - Obstruction,4,53,36,50, 34
+2018-11-19 10:37:03 +0000,0,Price,C,Possession,4,53,36,50, 34
+2018-11-19 10:37:08 +0000,0,Price,C,Assist - Circle Entry,4,53,36,50, 34
+2018-11-19 10:37:09 +0000,0,Pettitt ,GA,Possession,4,53,36,50, 14
+2018-11-19 10:37:10 +0000,1,Shimmin,GK,Penaly - Obstruction,4,53,36,50, 14
+2018-11-19 10:37:10 +0000,0,Pettitt ,GA,Goal - Score,4,53,36,50, 14
+2018-11-19 10:37:20 +0000,1,Msomi,C,Centre Pass,4,54,36,50, 100
+2018-11-19 10:37:20 +0000,1,Hodges,GA,Assist - Centre Pass Rec,4,54,36,15, 126
+2018-11-19 10:37:23 +0000,1,Bryce,WD,Assist - 2nd Phase,4,54,36,39, 129
+2018-11-19 10:37:25 +0000,1,Msomi,C,Possession,4,54,36,85, 125
+2018-11-19 10:37:28 +0000,1,Pitman,WA,Possession,4,54,36,48, 140
+2018-11-19 10:37:31 +0000,1,Pitman,WA,Assist - Circle Entry,4,54,36,48, 140
+2018-11-19 10:37:31 +0000,1,Glasgow,GS,Goal - Miss,4,54,36,50, 187
+2018-11-19 10:37:35 +0000,0,Poolman ,GK,Throw In,4,54,36,50, 202
+2018-11-19 10:37:42 +0000,0,Bulley ,GD,Possession,4,54,36,88, 158
+2018-11-19 10:37:58 +0000,0,Bulley ,GD,Loss - Bad Pass,4,54,36,11, 64
+2018-11-19 10:38:40 +0000,1,Shimmin,GK,Possession,4,54,36,11, 62
+2018-11-19 10:38:46 +0000,1,Fowler,GD,Possession,4,54,36,16, 91
+2018-11-19 10:38:51 +0000,1,Bryce,WD,Possession,4,54,36,13, 127
+2018-11-19 10:38:54 +0000,1,Glasgow,GS,Possession,4,54,36,23, 162
+2018-11-19 10:39:01 +0000,1,Pitman,WA,Possession,4,54,36,25, 172
+2018-11-19 10:39:03 +0000,1,Pitman,WA,Assist - Circle Entry,4,54,36,25, 172
+2018-11-19 10:39:03 +0000,1,Hodges,GA,Possession,4,54,36,33, 195
+2018-11-19 10:39:06 +0000,1,Glasgow,GS,Goal - Score,4,54,36,56, 194
+2018-11-19 10:39:14 +0000,0,Price,C,Centre Pass,4,54,37,50, 100
+2018-11-19 10:39:14 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,4,54,37,67, 118
+2018-11-19 10:39:17 +0000,0,Austin,WA,Assist - 2nd Phase,4,54,37,50, 81
+2018-11-19 10:39:19 +0000,0,Price,C,Possession,4,54,37,78, 59
+2018-11-19 10:39:22 +0000,0,Price,C,Assist - Circle Entry,4,54,37,78, 59
+2018-11-19 10:39:22 +0000,0,Brice,GS,Goal - Score,4,54,37,59, 5
+2018-11-19 10:39:30 +0000,1,Msomi,C,Centre Pass,4,55,37,50, 100
+2018-11-19 10:39:30 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,55,37,84, 116
+2018-11-19 10:39:33 +0000,1,Fowler,GD,Assist - 2nd Phase,4,55,37,62, 103
+2018-11-19 10:39:36 +0000,1,Pitman,WA,Possession,4,55,37,52, 123
+2018-11-19 10:39:38 +0000,1,Msomi,C,Possession,4,55,37,14, 119
+2018-11-19 10:39:40 +0000,1,Fowler,GD,Possession,4,55,37,32, 103
+2018-11-19 10:39:44 +0000,1,Bryce,WD,Possession,4,55,37,52, 111
+2018-11-19 10:40:02 +0000,1,Msomi,C,Possession,4,55,37,26, 150
+2018-11-19 10:40:06 +0000,1,Hodges,GA,Possession,4,55,37,24, 176
+2018-11-19 10:40:08 +0000,1,Msomi,C,Possession,4,55,37,30, 168
+2018-11-19 10:40:11 +0000,0,Manu’a,WD,Penaly - Obstruction,4,55,37,30, 168
+2018-11-19 10:40:11 +0000,1,Msomi,C,Possession,4,55,37,30, 168
+2018-11-19 10:40:16 +0000,1,Msomi,C,Assist - Circle Entry,4,55,37,30, 168
+2018-11-19 10:40:16 +0000,1,Hodges,GA,Possession,4,55,37,32, 196
+2018-11-19 10:40:19 +0000,1,Pitman,WA,Possession,4,55,37,81, 180
+2018-11-19 10:40:21 +0000,1,Msomi,C,Possession,4,55,37,41, 166
+2018-11-19 10:40:23 +0000,1,Bryce,WD,Possession,4,55,37,44, 131
+2018-11-19 10:40:25 +0000,1,Msomi,C,Possession,4,55,37,51, 149
+2018-11-19 10:40:27 +0000,1,Pitman,WA,Possession,4,55,37,82, 142
+2018-11-19 10:40:30 +0000,1,Bryce,WD,Possession,4,55,37,43, 131
+2018-11-19 10:40:35 +0000,1,Pitman,WA,Possession,4,55,37,73, 150
+2018-11-19 10:40:38 +0000,1,Hodges,GA,Possession,4,55,37,15, 187
+2018-11-19 10:40:43 +0000,0,Poolman ,GK,Penaly - Contact,4,55,37,64, 181
+2018-11-19 10:40:43 +0000,1,Hodges,GA,Goal - Miss,4,55,37,64, 181
+2018-11-19 10:40:51 +0000,1,Glasgow,GS,Assist - Attack Rebound,4,55,37,50, 197
+2018-11-19 10:40:53 +0000,1,Glasgow,GS,Goal - Score,4,55,37,64, 181
+2018-11-19 10:41:00 +0000,0,Price,C,Centre Pass,4,55,38,50, 100
+2018-11-19 10:41:00 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,4,55,38,76, 118
+2018-11-19 10:41:04 +0000,0,Price,C,Assist - 2nd Phase,4,55,38,46, 82
+2018-11-19 10:41:08 +0000,0,Pettitt ,GA,Possession,4,55,38,73, 67
+2018-11-19 10:41:13 +0000,0,Price,C,Possession,4,55,38,22, 22
+2018-11-19 10:41:17 +0000,0,Price,C,Assist - Circle Entry,4,55,38,22, 22
+2018-11-19 10:41:17 +0000,0,Pettitt ,GA,Possession,4,55,38,39, 22
+2018-11-19 10:41:19 +0000,0,Price,C,Possession,4,55,38,17, 15
+2018-11-19 10:41:21 +0000,0,Price,C,Assist - Circle Entry,4,55,38,17, 15
+2018-11-19 10:41:21 +0000,0,Pettitt ,GA,Goal - Score,4,55,38,40, 5
+2018-11-19 10:41:28 +0000,1,Msomi,C,Centre Pass,4,56,38,50, 100
+2018-11-19 10:41:28 +0000,1,Hodges,GA,Assist - Centre Pass Rec,4,56,38,83, 125
+2018-11-19 10:41:31 +0000,1,Pitman,WA,Assist - 2nd Phase,4,56,38,88, 180
+2018-11-19 10:41:35 +0000,0,Poolman ,GK,Deflect,4,56,38,39, 185
+2018-11-19 10:41:35 +0000,1,Msomi,C,Possession,4,56,38,20, 178
+2018-11-19 10:41:47 +0000,1,Fowler,GD,Possession,4,56,38,18, 129
+2018-11-19 10:41:52 +0000,1,Msomi,C,Possession,4,56,38,14, 157
+2018-11-19 10:41:56 +0000,1,Glasgow,GS,Possession,4,56,38,15, 186
+2018-11-19 10:41:59 +0000,1,Pitman,WA,Possession,4,56,38,85, 188
+2018-11-19 10:42:06 +0000,1,Glasgow,GS,Penaly - Other,4,56,38,52, 187
+2018-11-19 10:42:06 +0000,0,Poolman ,GK,Possession,4,56,38,52, 187
+2018-11-19 10:42:17 +0000,0,Manu’a,WD,Possession,4,56,38,78, 163
+2018-11-19 10:42:21 +0000,0,Austin,WA,Possession,4,56,38,84, 109
+2018-11-19 10:42:23 +0000,1,Bryce,WD,Penaly - Contact,4,56,38,84, 109
+2018-11-19 10:42:23 +0000,0,Manu’a,WD,Possession,4,56,38,84, 109
+2018-11-19 10:42:33 +0000,0,Austin,WA,Possession,4,56,38,66, 61
+2018-11-19 10:42:36 +0000,1,Fowler,GD,Penaly - Contact,4,56,38,51, 27
+2018-11-19 10:42:36 +0000,0,Pettitt ,GA,Possession,4,56,38,51, 27
+2018-11-19 10:42:43 +0000,0,Austin,WA,Possession,4,56,38,75, 25
+2018-11-19 10:42:47 +0000,0,Austin,WA,Assist - Circle Entry,4,56,38,75, 25
+2018-11-19 10:42:47 +0000,0,Pettitt ,GA,Goal - Score,4,56,38,60, 10
+2018-11-19 10:42:56 +0000,0,Price,C,Centre Pass,4,57,38,50, 100
+2018-11-19 10:42:56 +0000,0,Pettitt ,GA,Assist - Centre Pass Rec,4,57,38,33, 83
+2018-11-19 10:42:57 +0000,0,Price,C,Assist - 2nd Phase,4,57,38,59, 73
+2018-11-19 10:43:01 +0000,1,Bryce,WD,Penaly - Contact,4,57,38,49, 53
+2018-11-19 10:43:01 +0000,0,Price,C,Possession,4,57,38,49, 53
+2018-11-19 10:43:09 +0000,0,Price,C,Assist - Circle Entry,4,57,38,49, 53
+2018-11-19 10:43:10 +0000,0,Pettitt ,GA,Goal - Score,4,57,38,76, 6
+2018-11-19 10:43:31 +0000,0,Glasgow,UNKNOWN,Interchange - Nelson,4,58,38,
+2018-11-19 10:43:43 +0000,1,Msomi,C,Centre Pass,4,58,38,50, 100
+2018-11-19 10:43:43 +0000,1,Hodges,GA,Assist - Centre Pass Rec,4,58,38,27, 126
+2018-11-19 10:43:46 +0000,1,Hodges,GA,Assist - Circle Entry,4,58,38,27, 126
+2018-11-19 10:43:46 +0000,1,Nelson,GS,Goal - Miss,4,58,38,50, 185
+2018-11-19 10:43:55 +0000,0,Poolman ,GK,Deflect,4,58,38,50, 197
+2018-11-19 10:43:59 +0000,1,Pitman,WA,Gain - Pick-up,4,58,38,76, 175
+2018-11-19 10:44:23 +0000,0,Manu’a,WD,Loss - Offside,4,58,38,76, 176
+2018-11-19 10:44:31 +0000,1,Hodges,GA,Possession,4,58,38,73, 178
+2018-11-19 10:44:52 +0000,1,Nelson,GS,Possession,4,58,38,45, 197
+2018-11-19 10:44:54 +0000,0,Poolman ,GK,Penaly - Contact,4,58,38,45, 197
+2018-11-19 10:44:54 +0000,1,Hodges,GA,Goal - Score,4,58,38,45, 197
+2018-11-19 10:45:05 +0000,0,Price,C,Centre Pass,4,58,39,50, 100
+2018-11-19 10:45:05 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,4,58,39,70, 78
+2018-11-19 10:45:07 +0000,0,Austin,WA,Assist - 2nd Phase,4,58,39,95, 51
+2018-11-19 10:45:11 +0000,1,Msomi,C,Gain - Inter,4,58,39,26, 26
+2018-11-19 10:46:03 +0000,1,Fowler,GD,Possession,4,58,39,22, 59
+2018-11-19 10:46:05 +0000,1,Pitman,WA,Possession,4,58,39,9, 106
+2018-11-19 10:46:07 +0000,1,Fowler,GD,Loss - Drop,4,58,39,20, 99
+2018-11-19 10:46:16 +0000,0,Pettitt ,GA,Gain - Pick-up,4,58,39,27, 92
+2018-11-19 10:46:21 +0000,0,Bulley ,GD,Possession,4,58,39,70, 102
+2018-11-19 10:46:28 +0000,0,Austin,WA,Possession,4,58,39,61, 35
+2018-11-19 10:46:31 +0000,0,Austin,WA,Assist - Circle Entry,4,58,39,61, 35
+2018-11-19 10:46:31 +0000,0,Brice,GS,Possession,4,58,39,47, 9
+2018-11-19 10:46:32 +0000,1,Fowler,GD,Penaly - Contact,4,58,39,47, 9
+2018-11-19 10:46:32 +0000,0,Brice,GS,Possession,4,58,39,47, 9
+2018-11-19 10:46:39 +0000,1,Shimmin,GK,Penaly - Obstruction,4,58,39,47, 9
+2018-11-19 10:46:40 +0000,0,Brice,GS,Goal - Score,4,58,39,47, 9
+2018-11-19 10:46:50 +0000,1,Msomi,C,Centre Pass,4,59,39,50, 100
+2018-11-19 10:46:50 +0000,1,Bryce,WD,Assist - Centre Pass Rec,4,59,39,66, 87
+2018-11-19 10:46:54 +0000,1,Msomi,C,Assist - 2nd Phase,4,59,39,73, 119
+2018-11-19 10:46:57 +0000,1,Hodges,GA,Possession,4,59,39,94, 174
+2018-11-19 10:47:01 +0000,1,Hodges,GA,Assist - Circle Entry,4,59,39,94, 174
+2018-11-19 10:47:01 +0000,1,Nelson,GS,Possession,4,59,39,59, 192
+2018-11-19 10:47:03 +0000,0,Poolman ,GK,Penaly - Contact,4,59,39,59, 192
+2018-11-19 10:47:03 +0000,1,Hodges,GA,Goal - Score,4,59,39,59, 192
+2018-11-19 10:47:12 +0000,0,Price,C,Centre Pass,4,59,40,50, 100
+2018-11-19 10:47:12 +0000,0,Austin,WA,Assist - Centre Pass Rec,4,59,40,91, 69
+2018-11-19 10:47:15 +0000,0,Austin,WA,Assist - Circle Entry,4,59,40,91, 69
+2018-11-19 10:47:16 +0000,0,Brice,GS,Assist - 2nd Phase,4,59,40,48, 5
+2018-11-19 10:47:18 +0000,0,Brice,GS,Goal - Score,4,59,40,48, 5
+2018-11-19 10:47:25 +0000,1,Msomi,C,Centre Pass,4,60,40,50, 100
+2018-11-19 10:47:25 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,60,40,79, 69
+2018-11-19 10:47:28 +0000,1,Shimmin,GK,Assist - 2nd Phase,4,60,40,79, 51
+2018-11-19 10:47:31 +0000,1,Fowler,GD,Possession,4,60,40,88, 81
+2018-11-19 10:47:41 +0000,1,Pitman,WA,Possession,4,60,40,80, 91
+2018-11-19 10:47:44 +0000,1,Bryce,WD,Possession,4,60,40,14, 112
+2018-11-19 10:47:50 +0000,1,Hodges,GA,Possession,4,60,40,95, 157
+2018-11-19 10:47:52 +0000,1,Hodges,GA,Assist - Circle Entry,4,60,40,95, 157
+2018-11-19 10:47:53 +0000,1,Nelson,GS,Goal - Score,4,60,40,59, 190
+2018-11-19 10:48:02 +0000,0,Price,C,Centre Pass,4,60,41,50, 100
+2018-11-19 10:48:02 +0000,0,Manu’a,WD,Assist - Centre Pass Rec,4,60,41,75, 122
+2018-11-19 10:48:06 +0000,0,Pettitt ,GA,Assist - 2nd Phase,4,60,41,93, 70
+2018-11-19 10:48:08 +0000,0,Austin,WA,Possession,4,60,41,68, 48
+2018-11-19 10:48:16 +0000,1,Shimmin,GK,Penaly - Obstruction,4,60,41,60, 23
+2018-11-19 10:48:16 +0000,0,Pettitt ,GA,Possession,4,60,41,60, 23
+2018-11-19 10:48:21 +0000,0,Brice,GS,Possession,4,60,41,48, 6
+2018-11-19 10:48:22 +0000,1,Shimmin,GK,Penaly - Contact,4,60,41,48, 6
+2018-11-19 10:48:22 +0000,0,Brice,GS,Goal - Score,4,60,41,48, 6
+2018-11-19 10:48:44 +0000,1,Msomi,C,Centre Pass,4,61,41,50, 100
+2018-11-19 10:48:44 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,61,41,81, 122
+2018-11-19 10:48:46 +0000,1,Hodges,GA,Assist - 2nd Phase,4,61,41,58, 128
+2018-11-19 10:48:48 +0000,1,Msomi,C,Possession,4,61,41,21, 179
+2018-11-19 10:48:50 +0000,1,Hodges,GA,Possession,4,61,41,86, 190
+2018-11-19 10:48:54 +0000,1,Hodges,GA,Assist - Circle Entry,4,61,41,86, 190
+2018-11-19 10:48:54 +0000,1,Nelson,GS,Possession,4,61,41,48, 190
+2018-11-19 10:48:55 +0000,0,Bulley ,GD,Penaly - Contact,4,61,41,48, 190
+2018-11-19 10:48:55 +0000,1,Nelson,GS,Goal - Miss,4,61,41,48, 190
+2018-11-19 10:49:01 +0000,0,Poolman ,GK,Deflect,4,61,41,50, 197
+2018-11-19 10:49:04 +0000,1,Hodges,GA,Assist - Attack Rebound,4,61,41,54, 195
+2018-11-19 10:49:16 +0000,1,Hodges,GA,Goal - Score,4,61,41,55, 195
+2018-11-19 10:49:26 +0000,0,Price,C,Centre Pass,4,61,42,50, 100
+2018-11-19 10:49:26 +0000,0,Austin,WA,Assist - Centre Pass Rec,4,61,42,13, 75
+2018-11-19 10:49:28 +0000,0,Price,C,Assist - 2nd Phase,4,61,42,55, 66
+2018-11-19 10:49:30 +0000,0,Austin,WA,Loss - Bad Pass,4,61,42,40, 35
+2018-11-19 10:49:33 +0000,1,Shimmin,GK,Throw In,4,61,42,56, -3
+2018-11-19 10:49:40 +0000,1,Fowler,GD,Possession,4,61,42,88, 37
+2018-11-19 10:49:53 +0000,1,Bryce,WD,Possession,4,61,42,92, 61
+2018-11-19 10:50:00 +0000,0,Austin,WA,Penaly - Obstruction,4,61,42,92, 61
+2018-11-19 10:50:00 +0000,1,Bryce,WD,Possession,4,61,42,92, 61
+2018-11-19 10:50:17 +0000,1,Pitman,WA,Possession,4,61,42,56, 94
+2018-11-19 10:50:20 +0000,1,Bryce,WD,Possession,4,61,42,73, 116
+2018-11-19 10:50:32 +0000,0,Manu’a,WD,Penaly - Contact,4,61,42,73, 116
+2018-11-19 10:50:32 +0000,1,Bryce,WD,Possession,4,61,42,73, 116
+2018-11-19 10:50:38 +0000,1,Pitman,WA,Possession,4,61,42,94, 151
+2018-11-19 10:50:40 +0000,1,Msomi,C,Possession,4,61,42,47, 156
+2018-11-19 10:50:48 +0000,1,Msomi,C,Assist - Circle Entry,4,61,42,47, 156
+2018-11-19 10:50:48 +0000,0,Bulley ,GD,Gain - Tip (Deflect),4,61,42,70, 187
+2018-11-19 10:50:52 +0000,0,Manu’a,WD,Possession,4,61,42,61, 167
+2018-11-19 10:50:57 +0000,0,Price,C,Possession,4,61,42,16, 138
+2018-11-19 10:50:59 +0000,0,Poolman ,GK,Possession,4,61,42,35, 136
+2018-11-19 10:51:01 +0000,0,Price,C,Possession,4,61,42,8, 102
+2018-11-19 10:51:03 +0000,0,Pettitt ,GA,Possession,4,61,42,12, 71
+2018-11-19 10:51:05 +0000,0,Bulley ,GD,Possession,4,61,42,48, 111
+2018-11-19 10:51:12 +0000,1,Bryce,WD,Penaly - Contact,4,61,42,45, 54
+2018-11-19 10:51:13 +0000,0,Austin,WA,Possession,4,61,42,45, 54
+2018-11-19 10:51:23 +0000,0,Austin,WA,Assist - Circle Entry,4,61,42,45, 54
+2018-11-19 10:51:24 +0000,0,Pettitt ,GA,Possession,4,61,42,50, 24
+2018-11-19 10:51:26 +0000,0,Austin,WA,Possession,4,61,42,50, 36
+2018-11-19 10:51:29 +0000,0,Austin,WA,Assist - Circle Entry,4,61,42,50, 36
+2018-11-19 10:51:29 +0000,0,Pettitt ,GA,Goal - Miss,4,61,42,49, 18
+2018-11-19 10:51:39 +0000,1,Shimmin,GK,Gain - Def Reb,4,61,42,50, 2
+2018-11-19 10:51:40 +0000,0,Brice,GS,Penaly - Contact,4,61,42,50, 2
+2018-11-19 10:51:40 +0000,1,Shimmin,GK,Possession,4,61,42,50, 2
+2018-11-19 10:51:48 +0000,1,Bryce,WD,Possession,4,61,42,19, 61
+2018-11-19 10:51:52 +0000,1,Hodges,GA,Possession,4,61,42,17, 117
+2018-11-19 10:51:57 +0000,1,Pitman,WA,Possession,4,61,42,46, 127
+2018-11-19 10:51:59 +0000,0,Manu’a,WD,Penaly - Contact,4,61,42,46, 127
+2018-11-19 10:52:00 +0000,1,Fowler,GD,Possession,4,61,42,46, 127
+2018-11-19 10:52:09 +0000,1,Pitman,WA,Possession,4,61,42,40, 152
+2018-11-19 10:52:13 +0000,1,Pitman,WA,Assist - Circle Entry,4,61,42,40, 152
+2018-11-19 10:52:13 +0000,1,Nelson,GS,Possession,4,61,42,51, 182
+2018-11-19 10:52:17 +0000,0,Poolman ,GK,Penaly - Contact,4,61,42,51, 182
+2018-11-19 10:52:17 +0000,1,Hodges,GA,Goal - Score,4,61,42,51, 182
+2018-11-19 10:52:32 +0000,1,Msomi,C,Centre Pass,4,61,43,50, 100
+2018-11-19 10:52:32 +0000,1,Hodges,GA,Assist - Centre Pass Rec,4,61,43,23, 116
+2018-11-19 10:52:34 +0000,1,Bryce,WD,Assist - 2nd Phase,4,61,43,46, 114
+2018-11-19 10:52:38 +0000,1,Pitman,WA,Possession,4,61,43,39, 145
+2018-11-19 10:52:41 +0000,1,Pitman,WA,Assist - Circle Entry,4,61,43,39, 145
+2018-11-19 10:52:41 +0000,1,Nelson,GS,Possession,4,61,43,54, 183
+2018-11-19 10:52:43 +0000,0,Poolman ,GK,Penaly - Contact,4,61,43,54, 183
+2018-11-19 10:52:43 +0000,1,Hodges,GA,Goal - Score,4,61,43,54, 183
+2018-11-19 10:52:58 +0000,0,Price,C,Centre Pass,4,61,44,50, 100
+2018-11-19 10:52:58 +0000,0,Bulley ,GD,Assist - Centre Pass Rec,4,61,44,38, 121
+2018-11-19 10:53:01 +0000,0,Austin,WA,Assist - 2nd Phase,4,61,44,8, 81
+2018-11-19 10:53:04 +0000,0,Bulley ,GD,Possession,4,61,44,31, 96
+2018-11-19 10:53:14 +0000,0,Austin,WA,Possession,4,61,44,65, 61
+2018-11-19 10:53:18 +0000,0,Austin,WA,Assist - Circle Entry,4,61,44,65, 61
+2018-11-19 10:53:18 +0000,0,Brice,GS,Possession,4,61,44,49, 5
+2018-11-19 10:53:20 +0000,1,Shimmin,GK,Penaly - Contact,4,61,44,49, 5
+2018-11-19 10:53:20 +0000,0,Brice,GS,Goal - Score,4,61,44,49, 5
+2018-11-19 10:53:28 +0000,1,Msomi,C,Centre Pass,4,62,44,50, 100
+2018-11-19 10:53:28 +0000,1,Pitman,WA,Assist - Centre Pass Rec,4,62,44,13, 120
+2018-11-19 10:53:30 +0000,1,Bryce,WD,Assist - 2nd Phase,4,62,44,25, 108
+2018-11-19 10:53:32 +0000,1,Fowler,GD,Possession,4,62,44,39, 91
+2018-11-19 10:55:06 +0000,0,Austin,WA,Gain - Tip (Deflect),4,62,44,56, 105
+2018-11-19 10:55:13 +0000,0,Pettitt ,GA,Possession,4,62,44,79, 112
+2018-11-19 10:55:24 +0000,0,Manu’a,WD,Possession,4,62,44,93, 118
+2018-11-19 10:55:26 +0000,0,Austin,WA,Possession,4,62,44,90, 72
+2018-11-19 10:55:28 +0000,0,Bulley ,GD,Possession,4,62,44,71, 69
+2018-11-19 10:55:30 +0000,0,Price,C,Possession,4,62,44,90, 9
+2018-11-19 10:55:39 +0000,1,Shimmin,GK,Penaly - Obstruction,4,62,44,73, 11
+2018-11-19 10:55:39 +0000,0,Pettitt ,GA,Possession,4,62,44,73, 11
+2018-11-19 10:55:47 +0000,1,Shimmin,GK,Penaly - Obstruction,4,62,44,49, 8
+2018-11-19 10:55:47 +0000,0,Pettitt ,GA,Goal - Score,4,62,44,49, 8
+2018-11-19 10:55:59 +0000,0,Price,C,Centre Pass,4,63,44,50, 100
+2018-11-19 10:55:59 +0000,0,Manu’a,WD,Assist - Centre Pass Rec,4,63,44,64, 110
+2018-11-19 10:56:05 +0000,0,Pettitt ,GA,Assist - 2nd Phase,4,63,44,17, 72
+2018-11-19 10:56:12 +0000,1,Msomi,C,Deflect,4,63,44,71, 39
+2018-11-19 10:56:12 +0000,0,Price,C,Throw In,4,63,44,108, 48
+2018-11-19 10:56:19 +0000,0,Manu’a,WD,Possession,4,63,44,86, 69
+2018-11-19 10:56:21 +0000,1,Hodges,GA,Penaly - Contact,4,63,44,86, 69
+2018-11-19 10:56:21 +0000,0,Manu’a,WD,Possession,4,63,44,86, 69
+2018-11-19 10:56:33 +0000,1,Msomi,C,Penaly - Contact,4,63,44,71, 29
+2018-11-19 10:56:33 +0000,0,Price,C,Possession,4,63,44,71, 29
+2018-11-19 10:56:42 +0000,0,Price,C,Assist - Circle Entry,4,63,44,71, 29
+2018-11-19 10:56:42 +0000,0,Pettitt ,GA,Goal - Miss,4,63,44,75, 4
+2018-11-19 10:56:46 +0000,1,Shimmin,GK,Throw In,4,63,44,50, -2
+2018-11-19 10:56:51 +0000,1,Bryce,WD,Possession,4,63,44,26, 30
+2018-11-19 10:56:54 +0000,0,Austin,WA,Gain - Inter,4,63,44,18, 105

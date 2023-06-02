@@ -1,0 +1,1579 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-11-03 03:37:42 +0000,1,Guthrie,C,Centre Pass,1,0,0,50, 100
+2018-11-03 03:37:42 +0000,1,Green,WA,Assist - Centre Pass Rec,1,0,0,93, 115
+2018-11-03 03:38:36 +0000,1,Pettitt ,GA,Assist - 2nd Phase,1,0,0,52, 129
+2018-11-03 03:38:38 +0000,1,Price,WD,Possession,1,0,0,22, 131
+2018-11-03 03:38:43 +0000,1,Guthrie,C,Possession,1,0,0,29, 152
+2018-11-03 03:38:46 +0000,1,Harten ,GS,Possession,1,0,0,19, 183
+2018-11-03 03:38:54 +0000,0,Klau ,GK,Penaly - Obstruction,1,0,0,19, 183
+2018-11-03 03:38:54 +0000,1,Harten ,GS,Possession,1,0,0,19, 183
+2018-11-03 03:39:00 +0000,1,Green,WA,Assist - Circle Entry,1,0,0,19, 183
+2018-11-03 03:39:00 +0000,1,Harten ,GS,Goal - Score,1,0,0,39, 188
+2018-11-03 03:42:18 +0000,0,Hadley,UNKNOWN,Interchange - O’Brien,1,0,1,
+2018-11-03 03:42:18 +0000,0,Proud,UNKNOWN,Interchange - Hadley,1,0,1,
+2018-11-03 03:42:37 +0000,0,Hadley,C,Centre Pass,1,0,1,50, 100
+2018-11-03 03:42:37 +0000,0,Housby ,GA,Assist - Centre Pass Rec,1,0,1,10, 78
+2018-11-03 03:42:39 +0000,0,O’Brien,WA,Assist - 2nd Phase,1,0,1,11, 11
+2018-11-03 03:42:42 +0000,0,O’Brien,WA,Assist - Circle Entry,1,0,1,11, 11
+2018-11-03 03:42:42 +0000,0,Garbin,GS,Possession,1,0,1,42, 8
+2018-11-03 03:42:45 +0000,1,Poolman ,GK,Penaly - Contact,1,0,1,42, 8
+2018-11-03 03:42:45 +0000,0,Garbin,GS,Possession,1,0,1,42, 8
+2018-11-03 03:42:48 +0000,1,Bulley ,GD,Penaly - Obstruction,1,0,1,42, 8
+2018-11-03 03:42:48 +0000,0,Garbin,GS,Goal - Score,1,0,1,42, 8
+2018-11-03 03:42:57 +0000,1,Guthrie,C,Centre Pass,1,1,1,50, 100
+2018-11-03 03:42:57 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,1,1,1,17, 98
+2018-11-03 03:42:59 +0000,1,Pettitt ,GA,Assist - 2nd Phase,1,1,1,14, 131
+2018-11-03 03:43:01 +0000,1,Green,WA,Possession,1,1,1,37, 131
+2018-11-03 03:43:09 +0000,1,Bulley ,GD,Possession,1,1,1,81, 131
+2018-11-03 03:43:14 +0000,1,Harten ,GS,Possession,1,1,1,85, 188
+2018-11-03 03:43:38 +0000,1,Green,WA,Possession,1,1,1,16, 191
+2018-11-03 03:43:40 +0000,1,Green,WA,Assist - Circle Entry,1,1,1,16, 191
+2018-11-03 03:43:40 +0000,1,Harten ,GS,Goal - Score,1,1,1,62, 193
+2018-11-03 03:43:49 +0000,0,Hadley,C,Centre Pass,1,1,2,50, 100
+2018-11-03 03:43:49 +0000,0,O’Brien,WA,Assist - Centre Pass Rec,1,1,2,13, 80
+2018-11-03 03:43:52 +0000,0,Garbin,GS,Assist - 2nd Phase,1,1,2,18, 42
+2018-11-03 03:43:54 +0000,0,Hadley,C,Possession,1,1,2,38, 54
+2018-11-03 03:43:56 +0000,0,Housby ,GA,Possession,1,1,2,20, 26
+2018-11-03 03:44:09 +0000,1,Guthrie,C,Loss - Offside,1,1,2,80, 18
+2018-11-03 03:44:21 +0000,0,Housby ,GA,Possession,1,1,2,80, 18
+2018-11-03 03:44:42 +0000,0,O’Brien,WA,Possession,1,1,2,82, 17
+2018-11-03 03:45:05 +0000,0,O’Brien,WA,Assist - Circle Entry,1,1,2,82, 17
+2018-11-03 03:45:05 +0000,0,Housby ,GA,Possession,1,1,2,73, 12
+2018-11-03 03:45:10 +0000,0,O’Brien,WA,Possession,1,1,2,85, 14
+2018-11-03 03:45:12 +0000,0,O’Brien,WA,Assist - Circle Entry,1,1,2,85, 14
+2018-11-03 03:45:12 +0000,0,Housby ,GA,Goal - Miss,1,1,2,62, 9
+2018-11-03 03:45:49 +0000,1,Bulley ,GD,Gain - Def Reb,1,1,2,50, 2
+2018-11-03 03:45:56 +0000,1,Price,WD,Possession,1,1,2,89, 7
+2018-11-03 03:46:01 +0000,0,O’Brien,WA,Penaly - Contact,1,1,2,89, 7
+2018-11-03 03:46:01 +0000,1,Poolman ,GK,Possession,1,1,2,89, 7
+2018-11-03 03:46:16 +0000,1,Price,WD,Possession,1,1,2,55, 44
+2018-11-03 03:46:19 +0000,1,Bulley ,GD,Possession,1,1,2,20, 58
+2018-11-03 03:46:37 +0000,1,Price,WD,Possession,1,1,2,50, 81
+2018-11-03 03:46:43 +0000,0,Housby ,GA,Deflect,1,1,2,28, 115
+2018-11-03 03:46:43 +0000,1,Green,WA,Possession,1,1,2,37, 149
+2018-11-03 03:46:54 +0000,1,Guthrie,C,Possession,1,1,2,47, 166
+2018-11-03 03:46:59 +0000,1,Guthrie,C,Assist - Circle Entry,1,1,2,47, 166
+2018-11-03 03:46:59 +0000,1,Harten ,GS,Goal - Score,1,1,2,63, 186
+2018-11-03 03:47:24 +0000,1,Guthrie,C,Centre Pass,1,1,3,50, 100
+2018-11-03 03:47:24 +0000,0,Housby ,GA,Penaly - Contact on CP,1,1,3,56, 91
+2018-11-03 03:47:24 +0000,1,Price,WD,Possession,1,1,3,56, 91
+2018-11-03 03:47:32 +0000,1,Green,WA,Assist - 2nd Phase,1,1,3,82, 113
+2018-11-03 03:47:34 +0000,1,Guthrie,C,Possession,1,1,3,62, 132
+2018-11-03 03:47:36 +0000,1,Green,WA,Possession,1,1,3,68, 144
+2018-11-03 03:47:41 +0000,0,Hadley,C,Gain - Inter,1,1,3,17, 188
+2018-11-03 03:48:30 +0000,0,Klau ,GK,Deflect,1,1,3,30, 193
+2018-11-03 03:48:38 +0000,1,Pettitt ,GA,Throw In,1,1,3,28, 205
+2018-11-03 03:49:00 +0000,0,McCulloch,WD,Penaly - Contact,1,1,3,73, 174
+2018-11-03 03:49:00 +0000,1,Green,WA,Possession,1,1,3,73, 174
+2018-11-03 03:49:13 +0000,1,Pettitt ,GA,Penaly - Contact,1,1,3,67, 188
+2018-11-03 03:49:13 +0000,0,Klau ,GK,Possession,1,1,3,67, 188
+2018-11-03 03:49:53 +0000,0,McCulloch,WD,Possession,1,1,3,67, 163
+2018-11-03 03:49:56 +0000,0,Hadley,C,Possession,1,1,3,45, 156
+2018-11-03 03:49:58 +0000,0,Klau ,GK,Possession,1,1,3,94, 179
+2018-11-03 03:50:00 +0000,0,Eddy,GD,Possession,1,1,3,91, 148
+2018-11-03 03:50:02 +0000,0,Klau ,GK,Possession,1,1,3,66, 170
+2018-11-03 03:50:05 +0000,0,Hadley,C,Possession,1,1,3,38, 151
+2018-11-03 03:50:08 +0000,0,O’Brien,WA,Possession,1,1,3,10, 129
+2018-11-03 03:50:11 +0000,0,McCulloch,WD,Possession,1,1,3,10, 87
+2018-11-03 03:50:37 +0000,0,Eddy,GD,Possession,1,1,3,29, 119
+2018-11-03 03:50:43 +0000,0,McCulloch,WD,Possession,1,1,3,61, 117
+2018-11-03 03:51:34 +0000,0,O’Brien,WA,Possession,1,1,3,46, 74
+2018-11-03 03:51:48 +0000,0,Housby ,GA,Possession,1,1,3,55, 36
+2018-11-03 03:51:51 +0000,0,Housby ,GA,Assist - Circle Entry,1,1,3,55, 36
+2018-11-03 03:51:51 +0000,0,Garbin,GS,Goal - Score,1,1,3,48, 6
+2018-11-03 03:51:57 +0000,0,Hadley,C,Centre Pass,1,2,3,50, 100
+2018-11-03 03:51:57 +0000,0,Housby ,GA,Assist - Centre Pass Rec,1,2,3,15, 73
+2018-11-03 03:51:59 +0000,0,Hadley,C,Assist - 2nd Phase,1,2,3,20, 63
+2018-11-03 03:52:02 +0000,0,Hadley,C,Assist - Circle Entry,1,2,3,20, 63
+2018-11-03 03:52:02 +0000,0,Garbin,GS,Possession,1,2,3,23, 13
+2018-11-03 03:52:04 +0000,0,O’Brien,WA,Possession,1,2,3,81, 19
+2018-11-03 03:52:07 +0000,0,O’Brien,WA,Assist - Circle Entry,1,2,3,81, 19
+2018-11-03 03:52:07 +0000,0,Housby ,GA,Possession,1,2,3,51, 22
+2018-11-03 03:52:11 +0000,1,Bulley ,GD,Deflect,1,2,3,53, 9
+2018-11-03 03:52:11 +0000,0,Garbin,GS,Goal - Score,1,2,3,67, 7
+2018-11-03 03:55:03 +0000,0,Garbin,UNKNOWN,Interchange - Wallace,1,2,3,
+2018-11-03 03:55:53 +0000,1,Guthrie,C,Centre Pass,1,3,3,50, 100
+2018-11-03 03:55:53 +0000,1,Green,WA,Assist - Centre Pass Rec,1,3,3,65, 102
+2018-11-03 03:56:01 +0000,1,Pettitt ,GA,Assist - 2nd Phase,1,3,3,17, 192
+2018-11-03 03:56:25 +0000,0,O’Brien,WA,Loss - Offside,1,3,3,46, 135
+2018-11-03 03:56:25 +0000,1,Guthrie,C,Possession,1,3,3,50, 143
+2018-11-03 03:56:54 +0000,1,Green,WA,Possession,1,3,3,15, 192
+2018-11-03 03:56:58 +0000,0,McCulloch,WD,Penaly - Contact,1,3,3,27, 194
+2018-11-03 03:56:58 +0000,1,Pettitt ,GA,Possession,1,3,3,27, 194
+2018-11-03 03:57:08 +0000,0,Klau ,GK,Penaly - Contact,1,3,3,44, 192
+2018-11-03 03:57:08 +0000,1,Pettitt ,GA,Goal - Score,1,3,3,44, 192
+2018-11-03 03:57:42 +0000,0,Hadley,C,Centre Pass,1,3,4,50, 100
+2018-11-03 03:57:42 +0000,1,Price,WD,Penaly - Contact on CP,1,3,4,62, 61
+2018-11-03 03:57:42 +0000,0,Hadley,C,Possession,1,3,4,62, 61
+2018-11-03 03:58:22 +0000,0,O’Brien,WA,Assist - 2nd Phase,1,3,4,50, 49
+2018-11-03 03:58:27 +0000,0,O’Brien,WA,Assist - Circle Entry,1,3,4,50, 49
+2018-11-03 03:58:27 +0000,0,Wallace,GS,Possession,1,3,4,49, 26
+2018-11-03 03:58:32 +0000,1,Price,WD,Gain - Inter,1,3,4,55, 41
+2018-11-03 03:58:45 +0000,1,Poolman ,GK,Possession,1,3,4,92, 60
+2018-11-03 03:58:49 +0000,1,Guthrie,C,Possession,1,3,4,91, 89
+2018-11-03 03:58:51 +0000,1,Pettitt ,GA,Possession,1,3,4,93, 114
+2018-11-03 03:58:56 +0000,1,Guthrie,C,Possession,1,3,4,77, 103
+2018-11-03 03:58:58 +0000,1,Green,WA,Possession,1,3,4,36, 125
+2018-11-03 03:59:03 +0000,1,Green,WA,Assist - Circle Entry,1,3,4,36, 125
+2018-11-03 03:59:03 +0000,1,Harten ,GS,Goal - Score,1,3,4,56, 193
+2018-11-03 03:59:15 +0000,1,Guthrie,C,Centre Pass,1,3,5,50, 100
+2018-11-03 03:59:15 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,1,3,5,55, 121
+2018-11-03 03:59:18 +0000,1,Guthrie,C,Assist - 2nd Phase,1,3,5,32, 152
+2018-11-03 03:59:25 +0000,0,Hadley,C,Penaly - Contact,1,3,5,43, 166
+2018-11-03 03:59:25 +0000,1,Guthrie,C,Possession,1,3,5,43, 166
+2018-11-03 03:59:33 +0000,1,Guthrie,C,Assist - Circle Entry,1,3,5,43, 166
+2018-11-03 03:59:33 +0000,1,Pettitt ,GA,Goal - Score,1,3,5,65, 194
+2018-11-03 04:31:36 +0000,0,Hadley,C,Centre Pass,1,3,6,50, 100
+2018-11-03 04:31:36 +0000,0,O’Brien,WA,Assist - Centre Pass Rec,1,3,6,81, 76
+2018-11-03 04:31:46 +0000,1,Guthrie,C,Penaly - Contact,1,3,6,79, 69
+2018-11-03 04:31:46 +0000,0,McCulloch,WD,Assist - 2nd Phase,1,3,6,79, 69
+2018-11-03 04:31:58 +0000,0,O’Brien,WA,Possession,1,3,6,53, 44
+2018-11-03 04:32:03 +0000,0,Hadley,C,Possession,1,3,6,85, 12
+2018-11-03 04:32:05 +0000,0,O’Brien,WA,Possession,1,3,6,49, 35
+2018-11-03 04:32:08 +0000,0,O’Brien,WA,Assist - Circle Entry,1,3,6,49, 35
+2018-11-03 04:32:08 +0000,0,Wallace,GS,Goal - Score,1,3,6,40, 18
+2018-11-03 04:32:17 +0000,1,Guthrie,C,Centre Pass,1,4,6,50, 100
+2018-11-03 04:32:17 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,1,4,6,18, 126
+2018-11-03 04:32:23 +0000,1,Guthrie,C,Assist - 2nd Phase,1,4,6,14, 190
+2018-11-03 04:32:25 +0000,1,Pettitt ,GA,Possession,1,4,6,13, 169
+2018-11-03 04:32:31 +0000,1,Pettitt ,GA,Assist - Circle Entry,1,4,6,13, 169
+2018-11-03 04:32:31 +0000,1,Harten ,GS,Possession,1,4,6,31, 183
+2018-11-03 04:32:33 +0000,0,Klau ,GK,Penaly - Contact,1,4,6,31, 183
+2018-11-03 04:32:33 +0000,1,Pettitt ,GA,Possession,1,4,6,31, 183
+2018-11-03 04:32:40 +0000,1,Harten ,GS,Goal - Score,1,4,6,52, 189
+2018-11-03 04:32:51 +0000,0,Hadley,C,Centre Pass,1,4,7,50, 100
+2018-11-03 04:32:51 +0000,0,McCulloch,WD,Assist - Centre Pass Rec,1,4,7,72, 77
+2018-11-03 04:32:57 +0000,0,Eddy,GD,Assist - 2nd Phase,1,4,7,20, 71
+2018-11-03 04:33:01 +0000,0,Hadley,C,Possession,1,4,7,16, 61
+2018-11-03 04:33:04 +0000,0,Housby ,GA,Possession,1,4,7,12, 26
+2018-11-03 04:33:07 +0000,0,Wallace,GS,Possession,1,4,7,81, 32
+2018-11-03 04:33:10 +0000,0,O’Brien,WA,Possession,1,4,7,48, 40
+2018-11-03 04:33:13 +0000,0,Wallace,GS,Possession,1,4,7,83, 12
+2018-11-03 04:33:17 +0000,1,Guthrie,C,Penaly - Contact,1,4,7,73, 27
+2018-11-03 04:33:17 +0000,0,Hadley,C,Possession,1,4,7,73, 27
+2018-11-03 04:33:24 +0000,1,Bulley ,GD,Penaly - Contact,1,4,7,64, 23
+2018-11-03 04:33:24 +0000,0,Housby ,GA,Goal - Score,1,4,7,64, 23
+2018-11-03 04:33:37 +0000,1,Guthrie,C,Centre Pass,1,5,7,50, 100
+2018-11-03 04:33:37 +0000,1,Green,WA,Assist - Centre Pass Rec,1,5,7,62, 124
+2018-11-03 04:33:39 +0000,1,Harten ,GS,Assist - 2nd Phase,1,5,7,51, 156
+2018-11-03 04:33:41 +0000,1,Pettitt ,GA,Possession,1,5,7,61, 140
+2018-11-03 04:33:44 +0000,1,Pettitt ,GA,Assist - Circle Entry,1,5,7,61, 140
+2018-11-03 04:33:44 +0000,1,Harten ,GS,Possession,1,5,7,56, 172
+2018-11-03 04:33:46 +0000,1,Guthrie,C,Possession,1,5,7,17, 185
+2018-11-03 04:33:49 +0000,1,Guthrie,C,Assist - Circle Entry,1,5,7,17, 185
+2018-11-03 04:33:49 +0000,1,Harten ,GS,Goal - Score,1,5,7,51, 192
+2018-11-03 04:34:00 +0000,0,Hadley,C,Centre Pass,1,5,8,50, 100
+2018-11-03 04:34:00 +0000,0,Eddy,GD,Loss - Bad Pass,1,5,8,10, 102
+2018-11-03 04:34:05 +0000,1,Price,WD,Gain - Inter,1,5,8,11, 84
+2018-11-03 04:34:18 +0000,1,Poolman ,GK,Possession,1,5,8,34, 61
+2018-11-03 04:34:20 +0000,1,Price,WD,Possession,1,5,8,39, 87
+2018-11-03 04:34:22 +0000,1,Green,WA,Possession,1,5,8,19, 141
+2018-11-03 04:34:56 +0000,1,Harten ,GS,Possession,1,5,8,14, 193
+2018-11-03 04:34:59 +0000,1,Guthrie,C,Loss - Off Contact,1,5,8,17, 166
+2018-11-03 04:35:10 +0000,0,Klau ,GK,Possession,1,5,8,14, 167
+2018-11-03 04:35:21 +0000,0,McCulloch,WD,Possession,1,5,8,12, 141
+2018-11-03 04:35:24 +0000,0,Eddy,GD,Possession,1,5,8,16, 123
+2018-11-03 04:35:26 +0000,0,Housby ,GA,Possession,1,5,8,10, 58
+2018-11-03 04:35:29 +0000,0,O’Brien,WA,Possession,1,5,8,14, 8
+2018-11-03 04:35:31 +0000,0,O’Brien,WA,Assist - Circle Entry,1,5,8,14, 8
+2018-11-03 04:35:31 +0000,0,Wallace,GS,Goal - Score,1,5,8,54, 9
+2018-11-03 04:35:44 +0000,1,Guthrie,C,Centre Pass,1,6,8,50, 100
+2018-11-03 04:35:44 +0000,0,Eddy,GD,Penaly - Contact on CP,1,6,8,22, 137
+2018-11-03 04:35:44 +0000,1,Green,WA,Possession,1,6,8,22, 137
+2018-11-03 04:35:52 +0000,1,Pettitt ,GA,Assist - 2nd Phase,1,6,8,16, 176
+2018-11-03 04:36:01 +0000,0,McCulloch,WD,Penaly - Contact,1,6,8,21, 164
+2018-11-03 04:36:01 +0000,1,Green,WA,Possession,1,6,8,21, 164
+2018-11-03 04:36:14 +0000,1,Green,WA,Assist - Circle Entry,1,6,8,21, 164
+2018-11-03 04:36:14 +0000,1,Harten ,GS,Goal - Score,1,6,8,45, 190
+2018-11-03 04:36:26 +0000,0,Hadley,C,Centre Pass,1,6,9,50, 100
+2018-11-03 04:36:26 +0000,0,O’Brien,WA,Assist - Centre Pass Rec,1,6,9,50, 80
+2018-11-03 04:36:28 +0000,0,Wallace,GS,Assist - 2nd Phase,1,6,9,17, 35
+2018-11-03 04:36:30 +0000,0,O’Brien,WA,Possession,1,6,9,76, 27
+2018-11-03 04:36:32 +0000,0,O’Brien,WA,Assist - Circle Entry,1,6,9,76, 27
+2018-11-03 04:36:32 +0000,1,Poolman ,GK,Gain - Inter,1,6,9,55, 16
+2018-11-03 04:36:44 +0000,1,Bulley ,GD,Possession,1,6,9,84, 31
+2018-11-03 04:36:47 +0000,1,Guthrie,C,Possession,1,6,9,64, 50
+2018-11-03 04:36:49 +0000,1,Poolman ,GK,Possession,1,6,9,17, 59
+2018-11-03 04:36:58 +0000,1,Pettitt ,GA,Possession,1,6,9,11, 84
+2018-11-03 04:37:10 +0000,1,Bulley ,GD,Possession,1,6,9,35, 79
+2018-11-03 04:37:12 +0000,1,Green,WA,Possession,1,6,9,95, 115
+2018-11-03 04:37:14 +0000,1,Harten ,GS,Possession,1,6,9,93, 157
+2018-11-03 04:37:16 +0000,1,Bulley ,GD,Possession,1,6,9,24, 130
+2018-11-03 04:37:18 +0000,1,Pettitt ,GA,Possession,1,6,9,33, 155
+2018-11-03 04:37:20 +0000,1,Pettitt ,GA,Assist - Circle Entry,1,6,9,33, 155
+2018-11-03 04:37:20 +0000,1,Harten ,GS,Possession,1,6,9,43, 176
+2018-11-03 04:37:29 +0000,1,Green,WA,Possession,1,6,9,39, 166
+2018-11-03 04:37:35 +0000,1,Green,WA,Assist - Circle Entry,1,6,9,39, 166
+2018-11-03 04:37:35 +0000,1,Harten ,GS,Goal - Score,1,6,9,40, 190
+2018-11-03 04:38:01 +0000,0,,UNKNOWN,Timeout,1,6,10,-10, -22
+2018-11-03 04:38:46 +0000,0,O’Brien,UNKNOWN,Interchange - Hadley,1,6,10,
+2018-11-03 04:38:46 +0000,0,Hadley,UNKNOWN,Interchange - Proud,1,6,10,
+2018-11-03 04:39:05 +0000,1,Guthrie,C,Centre Pass,1,6,10,50, 100
+2018-11-03 04:39:05 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,1,6,10,75, 114
+2018-11-03 04:39:07 +0000,1,Bulley ,GD,Loss - Step,1,6,10,64, 130
+2018-11-03 04:39:39 +0000,0,Eddy,GD,Possession,1,6,10,62, 130
+2018-11-03 04:39:45 +0000,0,Hadley,WA,Possession,1,6,10,68, 99
+2018-11-03 04:39:47 +0000,0,Housby ,GA,Possession,1,6,10,26, 61
+2018-11-03 04:39:53 +0000,0,Eddy,GD,Possession,1,6,10,19, 72
+2018-11-03 04:39:58 +0000,0,Housby ,GA,Possession,1,6,10,38, 55
+2018-11-03 04:40:01 +0000,0,Hadley,WA,Possession,1,6,10,48, 57
+2018-11-03 04:40:03 +0000,0,Eddy,GD,Possession,1,6,10,14, 70
+2018-11-03 04:40:05 +0000,0,Proud,C,Possession,1,6,10,17, 53
+2018-11-03 04:40:07 +0000,0,Wallace,GS,Possession,1,6,10,18, 24
+2018-11-03 04:40:12 +0000,0,Hadley,WA,Possession,1,6,10,30, 50
+2018-11-03 04:40:15 +0000,0,Proud,C,Possession,1,6,10,80, 21
+2018-11-03 04:40:17 +0000,0,Proud,C,Assist - Circle Entry,1,6,10,80, 21
+2018-11-03 04:40:17 +0000,0,Wallace,GS,Goal - Score,1,6,10,48, 12
+2018-11-03 04:40:24 +0000,0,Proud,C,Centre Pass,1,7,10,50, 100
+2018-11-03 04:40:24 +0000,0,Housby ,GA,Assist - Centre Pass Rec,1,7,10,72, 79
+2018-11-03 04:40:26 +0000,0,Proud,C,Assist - 2nd Phase,1,7,10,56, 53
+2018-11-03 04:40:30 +0000,0,Proud,C,Assist - Circle Entry,1,7,10,56, 53
+2018-11-03 04:40:30 +0000,0,Wallace,GS,Possession,1,7,10,56, 15
+2018-11-03 04:40:32 +0000,1,Poolman ,GK,Penaly - Contact,1,7,10,56, 15
+2018-11-03 04:40:32 +0000,0,Wallace,GS,Goal - Miss,1,7,10,56, 15
+2018-11-03 04:40:45 +0000,1,Poolman ,GK,Gain - Def Reb,1,7,10,50, 2
+2018-11-03 04:40:50 +0000,1,Price,WD,Possession,1,7,10,88, 26
+2018-11-03 04:40:54 +0000,1,Poolman ,GK,Possession,1,7,10,74, 29
+2018-11-03 04:40:56 +0000,1,Price,WD,Possession,1,7,10,81, 57
+2018-11-03 04:41:02 +0000,0,McCulloch,WD,Gain - Inter,1,7,10,28, 109
+2018-11-03 04:41:13 +0000,0,Hadley,WA,Possession,1,7,10,51, 83
+2018-11-03 04:41:29 +0000,0,McCulloch,WD,Possession,1,7,10,31, 69
+2018-11-03 04:41:32 +0000,0,,UNKNOWN,Possession,1,7,10,45, 71
+2018-11-03 04:41:36 +0000,0,Housby ,GA,Possession,1,7,10,81, 48
+2018-11-03 04:41:38 +0000,0,Eddy,GD,Possession,1,7,10,78, 70
+2018-11-03 04:41:40 +0000,0,Proud,C,Possession,1,7,10,59, 48
+2018-11-03 04:41:42 +0000,0,Proud,C,Assist - Circle Entry,1,7,10,59, 48
+2018-11-03 04:41:43 +0000,0,Wallace,GS,Possession,1,7,10,63, 29
+2018-11-03 04:41:45 +0000,0,Proud,C,Possession,1,7,10,39, 34
+2018-11-03 04:41:50 +0000,1,Bulley ,GD,Deflect,1,7,10,48, 15
+2018-11-03 04:41:50 +0000,0,Wallace,GS,Goal - Score,1,7,10,41, 19
+2018-11-03 04:42:10 +0000,1,Guthrie,C,Centre Pass,1,8,10,50, 100
+2018-11-03 04:42:10 +0000,1,Green,WA,Assist - Centre Pass Rec,1,8,10,19, 131
+2018-11-03 04:42:27 +0000,1,Bulley ,GD,Assist - 2nd Phase,1,8,10,86, 129
+2018-11-03 04:42:31 +0000,0,Hadley,WA,Penaly - Contact,1,8,10,86, 129
+2018-11-03 04:42:31 +0000,1,Bulley ,GD,Possession,1,8,10,86, 129
+2018-11-03 04:42:40 +0000,1,Green,WA,Possession,1,8,10,79, 146
+2018-11-03 04:42:42 +0000,1,Pettitt ,GA,Possession,1,8,10,88, 173
+2018-11-03 04:42:44 +0000,1,Green,WA,Possession,1,8,10,81, 148
+2018-11-03 04:42:47 +0000,1,Harten ,GS,Possession,1,8,10,46, 162
+2018-11-03 04:42:49 +0000,1,Guthrie,C,Possession,1,8,10,16, 191
+2018-11-03 04:42:53 +0000,1,Green,WA,Possession,1,8,10,82, 186
+2018-11-03 04:42:56 +0000,1,Green,WA,Assist - Circle Entry,1,8,10,82, 186
+2018-11-03 04:42:56 +0000,1,Harten ,GS,Possession,1,8,10,73, 193
+2018-11-03 04:42:58 +0000,1,Green,WA,Possession,1,8,10,83, 188
+2018-11-03 04:43:00 +0000,1,Green,WA,Assist - Circle Entry,1,8,10,83, 188
+2018-11-03 04:43:00 +0000,1,Harten ,GS,Goal - Score,1,8,10,67, 193
+2018-11-03 04:43:57 +0000,0,Proud,C,Centre Pass,1,8,11,50, 100
+2018-11-03 04:43:57 +0000,0,Hadley,WA,Assist - Centre Pass Rec,1,8,11,92, 75
+2018-11-03 04:44:00 +0000,0,Wallace,GS,Assist - 2nd Phase,1,8,11,60, 55
+2018-11-03 04:44:11 +0000,0,Housby ,GA,Possession,1,8,11,91, 19
+2018-11-03 04:44:14 +0000,0,Housby ,GA,Assist - Circle Entry,1,8,11,91, 19
+2018-11-03 04:44:14 +0000,0,Wallace,GS,Goal - Score,1,8,11,45, 7
+2018-11-03 04:44:22 +0000,1,Guthrie,C,Centre Pass,1,9,11,50, 100
+2018-11-03 04:44:22 +0000,1,Green,WA,Assist - Centre Pass Rec,1,9,11,21, 126
+2018-11-03 04:44:26 +0000,0,McCulloch,WD,Penaly - Contact,1,9,11,18, 154
+2018-11-03 04:44:26 +0000,1,Guthrie,C,Assist - 2nd Phase,1,9,11,18, 154
+2018-11-03 04:44:43 +0000,1,Guthrie,C,Assist - Circle Entry,1,9,11,18, 154
+2018-11-03 04:44:43 +0000,1,Harten ,GS,Possession,1,9,11,29, 184
+2018-11-03 04:44:45 +0000,1,Guthrie,C,Possession,1,9,11,31, 169
+2018-11-03 04:47:16 +0000,1,Guthrie,C,Assist - Circle Entry,1,9,11,31, 169
+2018-11-03 04:47:17 +0000,0,Eddy,GD,Gain - Tip (Deflect),1,9,11,29, 183
+2018-11-03 04:51:05 +0000,0,McCulloch,WD,Possession,1,9,11,18, 173
+2018-11-03 04:51:12 +0000,0,Eddy,GD,Possession,1,9,11,10, 153
+2018-11-03 04:51:17 +0000,0,McCulloch,WD,Possession,1,9,11,19, 118
+2018-11-03 04:51:19 +0000,0,Housby ,GA,Possession,1,9,11,20, 45
+2018-11-03 04:51:22 +0000,1,Price,WD,Penaly - Contact,1,9,11,20, 45
+2018-11-03 04:51:22 +0000,0,Proud,C,Possession,1,9,11,20, 45
+2018-11-03 04:51:33 +0000,0,Housby ,GA,Possession,1,9,11,10, 10
+2018-11-03 04:51:35 +0000,0,Hadley,WA,Possession,1,9,11,85, 15
+2018-11-03 04:51:37 +0000,0,Proud,C,Possession,1,9,11,52, 37
+2018-11-03 04:51:40 +0000,0,Proud,C,Assist - Circle Entry,1,9,11,52, 37
+2018-11-03 04:51:40 +0000,0,Housby ,GA,Goal - Score,1,9,11,49, 11
+2018-11-03 04:52:07 +0000,1,,UNKNOWN,Timeout,1,10,11,-10, -22
+2018-11-03 04:52:14 +0000,0,Proud,C,Centre Pass,1,10,11,50, 100
+2018-11-03 04:52:14 +0000,0,Housby ,GA,Assist - Centre Pass Rec,1,10,11,14, 80
+2018-11-03 04:52:18 +0000,1,Price,WD,Penaly - Contact,1,10,11,51, 50
+2018-11-03 04:52:18 +0000,0,Hadley,WA,Assist - 2nd Phase,1,10,11,51, 50
+2018-11-03 04:52:31 +0000,0,Hadley,WA,Assist - Circle Entry,1,10,11,51, 50
+2018-11-03 04:52:31 +0000,0,Wallace,GS,Possession,1,10,11,51, 24
+2018-11-03 04:52:33 +0000,0,Hadley,WA,Possession,1,10,11,49, 37
+2018-11-03 04:52:38 +0000,0,Hadley,WA,Assist - Circle Entry,1,10,11,49, 37
+2018-11-03 04:52:38 +0000,0,Wallace,GS,Possession,1,10,11,62, 11
+2018-11-03 04:52:40 +0000,0,Proud,C,Possession,1,10,11,83, 17
+2018-11-03 04:52:47 +0000,0,Proud,C,Assist - Circle Entry,1,10,11,83, 17
+2018-11-03 04:52:47 +0000,0,Housby ,GA,Possession,1,10,11,59, 21
+2018-11-03 04:52:49 +0000,0,Hadley,WA,Possession,1,10,11,21, 21
+2018-11-03 04:52:51 +0000,0,Hadley,WA,Assist - Circle Entry,1,10,11,21, 21
+2018-11-03 04:52:51 +0000,0,Wallace,GS,Possession,1,10,11,47, 7
+2018-11-03 04:52:53 +0000,1,Bulley ,GD,Penaly - Contact,1,10,11,47, 7
+2018-11-03 04:52:53 +0000,0,Wallace,GS,Goal - Score,1,10,11,47, 7
+2018-11-03 04:52:59 +0000,1,Guthrie,C,Centre Pass,1,11,11,50, 100
+2018-11-03 04:53:00 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,1,11,11,46, 120
+2018-11-03 04:53:02 +0000,1,Green,WA,Assist - 2nd Phase,1,11,11,91, 176
+2018-11-03 04:53:13 +0000,1,Pettitt ,GA,Possession,1,11,11,80, 152
+2018-11-03 04:53:17 +0000,1,Green,WA,Possession,1,11,11,61, 167
+2018-11-03 04:53:29 +0000,1,Guthrie,C,Possession,1,11,11,28, 174
+2018-11-03 04:53:31 +0000,0,Proud,C,Penaly - Contact,1,11,11,28, 174
+2018-11-03 04:53:31 +0000,1,Guthrie,C,Possession,1,11,11,28, 174
+2018-11-03 04:53:37 +0000,1,Guthrie,C,Assist - Circle Entry,1,11,11,28, 174
+2018-11-03 04:53:37 +0000,1,Harten ,GS,Goal - Score,1,11,11,50, 191
+2018-11-03 04:53:47 +0000,0,Proud,C,Centre Pass,1,11,12,50, 100
+2018-11-03 04:53:47 +0000,0,Housby ,GA,Assist - Centre Pass Rec,1,11,12,50, 76
+2018-11-03 04:53:50 +0000,0,Housby ,GA,Assist - Circle Entry,1,11,12,50, 76
+2018-11-03 04:53:50 +0000,0,Wallace,GS,Possession,1,11,12,23, 7
+2018-11-03 04:53:52 +0000,0,Proud,C,Possession,1,11,12,80, 20
+2018-11-03 04:53:55 +0000,0,Wallace,GS,Possession,1,11,12,43, 37
+2018-11-03 04:53:57 +0000,0,Wallace,GS,Assist - Circle Entry,1,11,12,43, 37
+2018-11-03 04:53:57 +0000,0,Housby ,GA,Loss - Held Ball,1,11,12,43, 5
+2018-11-03 04:54:05 +0000,1,Poolman ,GK,Possession,1,11,12,43, 5
+2018-11-03 04:54:09 +0000,1,Bulley ,GD,Possession,1,11,12,91, 53
+2018-11-03 04:54:12 +0000,1,Price,WD,Possession,1,11,12,67, 85
+2018-11-03 04:54:14 +0000,1,Pettitt ,GA,Possession,1,11,12,54, 125
+2018-11-03 04:54:16 +0000,1,Green,WA,Possession,1,11,12,12, 152
+2018-11-03 04:54:19 +0000,0,Proud,C,Gain - Inter,1,11,12,27, 148
+2018-11-03 04:54:25 +0000,0,Eddy,GD,Possession,1,11,12,56, 123
+2018-11-03 04:54:29 +0000,0,Housby ,GA,Possession,1,11,12,89, 108
+2018-11-03 04:54:31 +0000,0,McCulloch,WD,Possession,1,11,12,74, 98
+2018-11-03 04:54:33 +0000,0,Eddy,GD,Possession,1,11,12,88, 99
+2018-11-03 04:54:35 +0000,0,McCulloch,WD,Possession,1,11,12,84, 71
+2018-11-03 04:54:37 +0000,0,Proud,C,Possession,1,11,12,88, 61
+2018-11-03 04:54:40 +0000,0,Wallace,GS,Possession,1,11,12,82, 21
+2018-11-03 04:54:44 +0000,0,Proud,C,Possession,1,11,12,58, 60
+2018-11-03 04:54:48 +0000,1,Guthrie,C,Deflect,1,11,12,68, 41
+2018-11-03 04:54:48 +0000,0,Hadley,WA,Possession,1,11,12,83, 54
+2018-11-03 04:54:58 +0000,0,Housby ,GA,Possession,1,11,12,57, 37
+2018-11-03 04:55:01 +0000,0,Hadley,WA,Possession,1,11,12,86, 7
+2018-11-03 04:55:03 +0000,0,Housby ,GA,Possession,1,11,12,73, 28
+2018-11-03 04:55:07 +0000,0,Proud,C,Possession,1,11,12,31, 30
+2018-11-03 04:55:09 +0000,1,Price,WD,Penaly - Contact,1,11,12,31, 30
+2018-11-03 04:55:09 +0000,0,Proud,C,Possession,1,11,12,31, 30
+2018-11-03 04:55:14 +0000,0,Proud,C,Assist - Circle Entry,1,11,12,31, 30
+2018-11-03 04:55:14 +0000,0,Wallace,GS,Goal - Score,1,11,12,49, 7
+2018-11-03 04:55:22 +0000,1,Guthrie,C,Centre Pass,1,12,12,50, 100
+2018-11-03 04:55:22 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,1,12,12,16, 120
+2018-11-03 04:55:24 +0000,1,Green,WA,Assist - 2nd Phase,1,12,12,10, 139
+2018-11-03 04:55:27 +0000,1,Pettitt ,GA,Possession,1,12,12,35, 138
+2018-11-03 04:55:30 +0000,1,Guthrie,C,Possession,1,12,12,45, 144
+2018-11-03 04:55:32 +0000,0,Proud,C,Penaly - Contact,1,12,12,47, 158
+2018-11-03 04:55:32 +0000,1,Guthrie,C,Possession,1,12,12,47, 158
+2018-11-03 04:55:41 +0000,1,Guthrie,C,Assist - Circle Entry,1,12,12,47, 158
+2018-11-03 04:55:41 +0000,1,Harten ,GS,Possession,1,12,12,50, 177
+2018-11-03 04:55:43 +0000,1,Green,WA,Possession,1,12,12,17, 191
+2018-11-03 04:55:46 +0000,1,Green,WA,Assist - Circle Entry,1,12,12,17, 191
+2018-11-03 04:55:46 +0000,1,Harten ,GS,Goal - Miss,1,12,12,63, 196
+2018-11-03 04:55:59 +0000,0,Klau ,GK,Loss - Bad Pass,1,12,12,50, 197
+2018-11-03 04:56:05 +0000,1,Green,WA,Throw In,1,12,12,-4, 190
+2018-11-03 04:56:12 +0000,1,Green,WA,Assist - Circle Entry,1,12,12,-4, 190
+2018-11-03 04:56:12 +0000,1,Pettitt ,GA,Goal - Score,1,12,12,49, 193
+2018-11-03 04:56:18 +0000,0,Proud,C,Centre Pass,1,12,13,50, 100
+2018-11-03 04:56:18 +0000,0,Hadley,WA,Assist - Centre Pass Rec,1,12,13,82, 73
+2018-11-03 04:56:20 +0000,0,Housby ,GA,Assist - 2nd Phase,1,12,13,89, 30
+2018-11-03 04:56:22 +0000,0,Hadley,WA,Possession,1,12,13,86, 55
+2018-11-03 04:56:27 +0000,0,McCulloch,WD,Possession,1,12,13,81, 70
+2018-11-03 04:56:31 +0000,1,Green,WA,Penaly - Contact,1,12,13,81, 70
+2018-11-03 04:56:31 +0000,0,McCulloch,WD,Possession,1,12,13,81, 70
+2018-11-03 04:56:35 +0000,0,Hadley,WA,Possession,1,12,13,85, 49
+2018-11-03 04:56:38 +0000,0,Hadley,WA,Assist - Circle Entry,1,12,13,85, 49
+2018-11-03 04:56:38 +0000,0,Wallace,GS,Goal - Score,1,12,13,47, 6
+2018-11-03 04:56:47 +0000,1,Guthrie,C,Centre Pass,1,13,13,50, 100
+2018-11-03 04:56:47 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,1,13,13,68, 127
+2018-11-03 04:56:49 +0000,1,Green,WA,Assist - 2nd Phase,1,13,13,13, 146
+2018-11-03 04:56:50 +0000,1,Harten ,GS,Possession,1,13,13,19, 183
+2018-11-03 04:56:53 +0000,1,Harten ,GS,Assist - Circle Entry,1,13,13,19, 183
+2018-11-03 04:56:53 +0000,1,Pettitt ,GA,Possession,1,13,13,28, 197
+2018-11-03 04:57:03 +0000,0,Proud,C,Loss - Offside,1,13,13,74, 180
+2018-11-03 04:57:14 +0000,1,Pettitt ,GA,Possession,1,13,13,75, 181
+2018-11-03 04:57:22 +0000,1,Green,WA,Possession,1,13,13,16, 186
+2018-11-03 04:57:26 +0000,1,Green,WA,Assist - Circle Entry,1,13,13,16, 186
+2018-11-03 04:57:26 +0000,1,Harten ,GS,Goal - Score,1,13,13,42, 188
+2018-11-03 04:57:36 +0000,0,Proud,C,Centre Pass,1,13,14,50, 100
+2018-11-03 04:57:36 +0000,0,Hadley,WA,Assist - Centre Pass Rec,1,13,14,90, 75
+2018-11-03 04:57:38 +0000,0,Proud,C,Assist - 2nd Phase,1,13,14,83, 31
+2018-11-03 04:57:42 +0000,0,Proud,C,Assist - Circle Entry,1,13,14,83, 31
+2018-11-03 04:57:42 +0000,0,Housby ,GA,Goal - Miss,1,13,14,42, 11
+2018-11-03 04:57:47 +0000,0,Housby ,GA,Assist - Attack Rebound,1,13,14,50, 2
+2018-11-03 04:57:51 +0000,1,Poolman ,GK,Penaly - Contact,1,13,14,50, 2
+2018-11-03 04:57:51 +0000,0,Housby ,GA,Goal - Score,1,13,14,50, 2
+2018-11-03 05:00:19 +0000,1,Guthrie,C,Centre Pass,2,14,14,50, 100
+2018-11-03 05:00:19 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,2,14,14,45, 116
+2018-11-03 05:00:23 +0000,0,Proud,C,Penaly - Contact,2,14,14,51, 127
+2018-11-03 05:00:23 +0000,1,Price,WD,Assist - 2nd Phase,2,14,14,51, 127
+2018-11-03 05:00:34 +0000,1,Guthrie,C,Possession,2,14,14,18, 158
+2018-11-03 05:00:37 +0000,1,Guthrie,C,Assist - Circle Entry,2,14,14,18, 158
+2018-11-03 05:00:37 +0000,1,Harten ,GS,Goal - Score,2,14,14,56, 190
+2018-11-03 05:00:46 +0000,0,Proud,C,Centre Pass,2,14,15,50, 100
+2018-11-03 05:00:46 +0000,0,Housby ,GA,Assist - Centre Pass Rec,2,14,15,5, 72
+2018-11-03 05:01:02 +0000,0,Eddy,UNKNOWN,Interchange - Turner,2,14,15,
+2018-11-03 05:01:05 +0000,0,Turner,GD,Assist - 2nd Phase,2,14,15,7, 100
+2018-11-03 05:01:15 +0000,1,Price,WD,Penaly - Contact,2,14,15,21, 90
+2018-11-03 05:01:15 +0000,0,Turner,GD,Possession,2,14,15,21, 90
+2018-11-03 05:01:29 +0000,0,Hadley,WA,Possession,2,14,15,79, 38
+2018-11-03 05:01:32 +0000,0,Housby ,GA,Possession,2,14,15,83, 16
+2018-11-03 05:01:34 +0000,0,Hadley,WA,Possession,2,14,15,84, 49
+2018-11-03 05:01:36 +0000,0,Proud,C,Possession,2,14,15,13, 25
+2018-11-03 05:01:43 +0000,0,Proud,C,Assist - Circle Entry,2,14,15,13, 25
+2018-11-03 05:01:43 +0000,0,Housby ,GA,Possession,2,14,15,25, 15
+2018-11-03 05:01:46 +0000,0,Proud,C,Possession,2,14,15,21, 21
+2018-11-03 05:01:49 +0000,0,Proud,C,Assist - Circle Entry,2,14,15,21, 21
+2018-11-03 05:01:49 +0000,0,Housby ,GA,Possession,2,14,15,34, 11
+2018-11-03 05:01:54 +0000,1,Poolman ,GK,Penaly - Obstruction,2,14,15,34, 11
+2018-11-03 05:01:54 +0000,0,Housby ,GA,Goal - Score,2,14,15,34, 11
+2018-11-03 05:02:04 +0000,1,Guthrie,C,Centre Pass,2,15,15,50, 100
+2018-11-03 05:02:04 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,2,15,15,30, 111
+2018-11-03 05:02:05 +0000,1,Guthrie,C,Assist - 2nd Phase,2,15,15,47, 126
+2018-11-03 05:02:07 +0000,1,Green,WA,Possession,2,15,15,70, 150
+2018-11-03 05:02:09 +0000,1,Harten ,GS,Possession,2,15,15,48, 163
+2018-11-03 05:02:12 +0000,1,Pettitt ,GA,Possession,2,15,15,52, 155
+2018-11-03 05:02:17 +0000,1,Pettitt ,GA,Assist - Circle Entry,2,15,15,52, 155
+2018-11-03 05:02:17 +0000,1,Harten ,GS,Possession,2,15,15,50, 169
+2018-11-03 05:02:23 +0000,1,Pettitt ,GA,Goal - Miss,2,15,15,69, 192
+2018-11-03 05:02:30 +0000,0,Klau ,GK,Gain - Def Reb,2,15,15,50, 197
+2018-11-03 05:02:33 +0000,0,Proud,C,Possession,2,15,15,48, 151
+2018-11-03 05:02:41 +0000,1,Pettitt ,GA,Penaly - Obstruction,2,15,15,48, 151
+2018-11-03 05:02:41 +0000,0,Klau ,GK,Possession,2,15,15,48, 151
+2018-11-03 05:02:55 +0000,0,Hadley,WA,Possession,2,15,15,4, 88
+2018-11-03 05:03:08 +0000,0,Housby ,GA,Centre Pass,2,15,15,8, 19
+2018-11-03 05:03:12 +0000,1,Poolman ,GK,Throw In,2,15,15,-6, 11
+2018-11-03 05:03:19 +0000,1,Bulley ,GD,Possession,2,15,15,9, 32
+2018-11-03 05:03:22 +0000,1,Price,WD,Possession,2,15,15,6, 79
+2018-11-03 05:03:25 +0000,1,Pettitt ,GA,Possession,2,15,15,9, 110
+2018-11-03 05:03:42 +0000,1,Guthrie,C,Possession,2,15,15,7, 166
+2018-11-03 05:03:44 +0000,1,Pettitt ,GA,Possession,2,15,15,20, 137
+2018-11-03 05:03:56 +0000,1,Guthrie,C,Possession,2,15,15,37, 165
+2018-11-03 05:04:00 +0000,1,Guthrie,C,Assist - Circle Entry,2,15,15,37, 165
+2018-11-03 05:04:00 +0000,1,Harten ,GS,Goal - Miss,2,15,15,45, 175
+2018-11-03 05:04:05 +0000,0,Klau ,GK,Throw In,2,15,15,50, 192
+2018-11-03 05:04:15 +0000,0,McCulloch,WD,Possession,2,15,15,78, 177
+2018-11-03 05:04:21 +0000,0,Klau ,GK,Possession,2,15,15,52, 175
+2018-11-03 05:04:28 +0000,1,Guthrie,C,Gain - Inter,2,15,15,70, 164
+2018-11-03 05:04:33 +0000,1,Harten ,GS,Possession,2,15,15,31, 165
+2018-11-03 05:04:37 +0000,1,Harten ,GS,Assist - Circle Entry,2,15,15,31, 165
+2018-11-03 05:04:37 +0000,1,Pettitt ,GA,Possession,2,15,15,49, 170
+2018-11-03 05:04:38 +0000,1,Green,WA,Possession,2,15,15,29, 167
+2018-11-03 05:04:41 +0000,1,Green,WA,Assist - Circle Entry,2,15,15,29, 167
+2018-11-03 05:04:41 +0000,1,Harten ,GS,Possession,2,15,15,36, 194
+2018-11-03 05:04:44 +0000,0,Turner,GD,Penaly - Contact,2,15,15,36, 194
+2018-11-03 05:04:44 +0000,1,Harten ,GS,Goal - Score,2,15,15,36, 194
+2018-11-03 05:05:40 +0000,0,Proud,C,Centre Pass,2,15,16,50, 100
+2018-11-03 05:05:41 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,2,15,16,76, 73
+2018-11-03 05:05:43 +0000,0,Hadley,WA,Assist - 2nd Phase,2,15,16,78, 56
+2018-11-03 05:05:47 +0000,0,Wallace,GS,Possession,2,15,16,86, 19
+2018-11-03 05:05:50 +0000,0,Proud,C,Possession,2,15,16,19, 18
+2018-11-03 05:05:53 +0000,0,Proud,C,Assist - Circle Entry,2,15,16,19, 18
+2018-11-03 05:05:53 +0000,0,Housby ,GA,Possession,2,15,16,49, 22
+2018-11-03 05:05:55 +0000,0,Hadley,WA,Possession,2,15,16,82, 11
+2018-11-03 05:05:58 +0000,0,Hadley,WA,Assist - Circle Entry,2,15,16,82, 11
+2018-11-03 05:05:59 +0000,0,Wallace,GS,Goal - Miss,2,15,16,33, 4
+2018-11-03 05:06:08 +0000,0,Housby ,GA,Assist - Attack Rebound,2,15,16,50, 2
+2018-11-03 05:06:12 +0000,0,Housby ,GA,Goal - Score,2,15,16,33, 4
+2018-11-03 05:06:19 +0000,1,Guthrie,C,Centre Pass,2,16,16,50, 100
+2018-11-03 05:06:19 +0000,1,Green,WA,Assist - Centre Pass Rec,2,16,16,31, 124
+2018-11-03 05:06:22 +0000,1,Pettitt ,GA,Assist - 2nd Phase,2,16,16,76, 140
+2018-11-03 05:06:25 +0000,1,Green,WA,Possession,2,16,16,42, 159
+2018-11-03 05:06:31 +0000,1,Green,WA,Assist - Circle Entry,2,16,16,42, 159
+2018-11-03 05:06:31 +0000,0,Klau ,GK,Gain - Tip (Deflect),2,16,16,45, 180
+2018-11-03 05:06:41 +0000,1,Green,WA,Loss - Offside,2,16,16,36, 168
+2018-11-03 05:06:58 +0000,0,Klau ,GK,Possession,2,16,16,36, 169
+2018-11-03 05:07:07 +0000,0,Turner,GD,Possession,2,16,16,47, 150
+2018-11-03 05:07:09 +0000,0,McCulloch,WD,Possession,2,16,16,46, 136
+2018-11-03 05:07:11 +0000,0,Turner,GD,Possession,2,16,16,80, 137
+2018-11-03 05:07:13 +0000,0,Hadley,WA,Possession,2,16,16,88, 121
+2018-11-03 05:07:21 +0000,1,Green,WA,Penaly - Contact,2,16,16,61, 113
+2018-11-03 05:07:21 +0000,0,Hadley,WA,Possession,2,16,16,61, 113
+2018-11-03 05:07:39 +0000,0,McCulloch,WD,Possession,2,16,16,81, 97
+2018-11-03 05:07:42 +0000,0,Proud,C,Possession,2,16,16,85, 56
+2018-11-03 05:07:44 +0000,0,McCulloch,WD,Possession,2,16,16,83, 68
+2018-11-03 05:07:47 +0000,0,Hadley,WA,Possession,2,16,16,64, 54
+2018-11-03 05:07:50 +0000,1,Price,WD,Penaly - Contact,2,16,16,64, 54
+2018-11-03 05:07:50 +0000,0,Hadley,WA,Possession,2,16,16,64, 54
+2018-11-03 05:07:56 +0000,0,Housby ,GA,Possession,2,16,16,19, 16
+2018-11-03 05:07:58 +0000,0,Hadley,WA,Possession,2,16,16,23, 21
+2018-11-03 05:08:02 +0000,0,Hadley,WA,Assist - Circle Entry,2,16,16,23, 21
+2018-11-03 05:08:02 +0000,0,Wallace,GS,Possession,2,16,16,32, 16
+2018-11-03 05:08:04 +0000,1,Poolman ,GK,Penaly - Contact,2,16,16,32, 16
+2018-11-03 05:08:04 +0000,0,Wallace,GS,Goal - Score,2,16,16,32, 16
+2018-11-03 05:08:17 +0000,0,Proud,C,Centre Pass,2,17,16,50, 100
+2018-11-03 05:08:17 +0000,0,Housby ,GA,Assist - Centre Pass Rec,2,17,16,9, 74
+2018-11-03 05:08:19 +0000,0,Hadley,WA,Assist - 2nd Phase,2,17,16,6, 20
+2018-11-03 05:08:21 +0000,0,Proud,C,Possession,2,17,16,23, 38
+2018-11-03 05:08:55 +0000,0,Proud,C,Assist - Circle Entry,2,17,16,23, 38
+2018-11-03 05:08:55 +0000,1,Bulley ,GD,Gain - Tip (Deflect),2,17,16,46, 10
+2018-11-03 05:09:01 +0000,1,Price,WD,Possession,2,17,16,68, 31
+2018-11-03 05:09:07 +0000,1,Guthrie,C,Possession,2,17,16,44, 68
+2018-11-03 05:09:09 +0000,1,Green,WA,Possession,2,17,16,75, 141
+2018-11-03 05:09:11 +0000,1,Harten ,GS,Possession,2,17,16,84, 191
+2018-11-03 05:09:13 +0000,1,Guthrie,C,Possession,2,17,16,68, 168
+2018-11-03 05:09:19 +0000,1,Guthrie,C,Assist - Circle Entry,2,17,16,68, 168
+2018-11-03 05:09:19 +0000,1,Harten ,GS,Possession,2,17,16,74, 185
+2018-11-03 05:09:22 +0000,1,Pettitt ,GA,Goal - Score,2,17,16,52, 193
+2018-11-03 05:09:40 +0000,1,Guthrie,C,Centre Pass,2,17,17,50, 100
+2018-11-03 05:09:40 +0000,0,Turner,GD,Penaly - Contact on CP,2,17,17,54, 124
+2018-11-03 05:09:40 +0000,1,Bulley ,GD,Possession,2,17,17,54, 124
+2018-11-03 05:09:53 +0000,1,Green,WA,Assist - 2nd Phase,2,17,17,61, 148
+2018-11-03 05:09:55 +0000,1,Green,WA,Assist - Circle Entry,2,17,17,61, 148
+2018-11-03 05:09:55 +0000,1,Pettitt ,GA,Goal - Score,2,17,17,43, 190
+2018-11-03 05:10:04 +0000,0,Proud,C,Centre Pass,2,17,18,50, 100
+2018-11-03 05:10:04 +0000,0,Hadley,WA,Assist - Centre Pass Rec,2,17,18,87, 78
+2018-11-03 05:10:06 +0000,0,Housby ,GA,Assist - 2nd Phase,2,17,18,62, 61
+2018-11-03 05:11:13 +0000,1,Guthrie,C,Gain - Tip (Deflect),2,17,18,11, 26
+2018-11-03 05:11:20 +0000,0,Proud,C,Deflect,2,17,18,7, 19
+2018-11-03 05:11:20 +0000,1,Poolman ,GK,Throw In,2,17,18,-8, 12
+2018-11-03 05:11:32 +0000,1,Price,WD,Possession,2,17,18,12, 37
+2018-11-03 05:11:34 +0000,1,Poolman ,GK,Possession,2,17,18,34, 31
+2018-11-03 05:11:36 +0000,1,Guthrie,C,Possession,2,17,18,40, 56
+2018-11-03 05:11:38 +0000,1,Poolman ,GK,Possession,2,17,18,53, 45
+2018-11-03 05:11:40 +0000,1,Pettitt ,GA,Possession,2,17,18,85, 76
+2018-11-03 05:11:43 +0000,1,Green,WA,Possession,2,17,18,5, 122
+2018-11-03 05:11:48 +0000,1,Bulley ,GD,Possession,2,17,18,22, 127
+2018-11-03 05:11:50 +0000,1,Green,WA,Possession,2,17,18,6, 143
+2018-11-03 05:11:53 +0000,1,Harten ,GS,Possession,2,17,18,16, 183
+2018-11-03 05:11:56 +0000,1,Green,WA,Possession,2,17,18,18, 167
+2018-11-03 05:12:00 +0000,0,McCulloch,WD,Penaly - Contact,2,17,18,18, 167
+2018-11-03 05:12:00 +0000,1,Green,WA,Possession,2,17,18,18, 167
+2018-11-03 05:12:06 +0000,1,Green,WA,Assist - Circle Entry,2,17,18,18, 167
+2018-11-03 05:12:06 +0000,1,Pettitt ,GA,Goal - Score,2,17,18,44, 193
+2018-11-03 05:12:12 +0000,0,,UNKNOWN,Timeout,2,17,19,110, 222
+2018-11-03 05:12:47 +0000,1,Guthrie,C,Centre Pass,2,17,19,50, 100
+2018-11-03 05:12:48 +0000,1,Green,WA,Loss - Break,2,17,19,38, 131
+2018-11-03 05:12:54 +0000,0,McCulloch,WD,Possession,2,17,19,37, 129
+2018-11-03 05:12:57 +0000,0,Turner,GD,Possession,2,17,19,19, 120
+2018-11-03 05:13:01 +0000,0,McCulloch,WD,Possession,2,17,19,29, 124
+2018-11-03 05:13:03 +0000,0,Turner,GD,Possession,2,17,19,16, 108
+2018-11-03 05:13:05 +0000,0,Hadley,WA,Possession,2,17,19,77, 112
+2018-11-03 05:13:12 +0000,1,Guthrie,C,Gain - Tip (Deflect),2,17,19,92, 121
+2018-11-03 05:13:18 +0000,0,Proud,C,Deflect,2,17,19,94, 112
+2018-11-03 05:13:18 +0000,1,Price,WD,Throw In,2,17,19,106, 116
+2018-11-03 05:13:28 +0000,1,Bulley ,GD,Possession,2,17,19,73, 85
+2018-11-03 05:13:30 +0000,1,Guthrie,C,Possession,2,17,19,29, 96
+2018-11-03 05:13:32 +0000,1,Green,WA,Possession,2,17,19,12, 107
+2018-11-03 05:13:34 +0000,1,Bulley ,GD,Possession,2,17,19,35, 96
+2018-11-03 05:13:36 +0000,1,Pettitt ,GA,Possession,2,17,19,80, 128
+2018-11-03 05:13:37 +0000,1,Guthrie,C,Possession,2,17,19,84, 150
+2018-11-03 05:13:46 +0000,0,Proud,C,Penaly - Contact,2,17,19,84, 150
+2018-11-03 05:13:46 +0000,1,Guthrie,C,Possession,2,17,19,84, 150
+2018-11-03 05:13:55 +0000,0,Turner,GD,Penaly - Contact,2,17,19,69, 177
+2018-11-03 05:13:55 +0000,1,Pettitt ,GA,Possession,2,17,19,69, 177
+2018-11-03 05:14:06 +0000,1,Green,WA,Possession,2,17,19,18, 178
+2018-11-03 05:14:09 +0000,1,Green,WA,Assist - Circle Entry,2,17,19,18, 178
+2018-11-03 05:14:09 +0000,1,Pettitt ,GA,Goal - Score,2,17,19,39, 191
+2018-11-03 05:14:19 +0000,0,Proud,C,Centre Pass,2,17,20,50, 100
+2018-11-03 05:14:19 +0000,0,Housby ,GA,Assist - Centre Pass Rec,2,17,20,19, 73
+2018-11-03 05:14:21 +0000,0,Hadley,WA,Assist - 2nd Phase,2,17,20,3, 51
+2018-11-03 05:14:54 +0000,0,Hadley,WA,Assist - Circle Entry,2,17,20,3, 51
+2018-11-03 05:14:54 +0000,1,Poolman ,GK,Gain - Inter,2,17,20,21, 4
+2018-11-03 05:15:02 +0000,1,Guthrie,C,Possession,2,17,20,13, 47
+2018-11-03 05:15:04 +0000,1,Bulley ,GD,Possession,2,17,20,68, 74
+2018-11-03 05:15:06 +0000,1,Green,WA,Possession,2,17,20,87, 122
+2018-11-03 05:15:08 +0000,1,Harten ,GS,Possession,2,17,20,74, 162
+2018-11-03 05:15:10 +0000,1,Guthrie,C,Possession,2,17,20,18, 183
+2018-11-03 05:15:12 +0000,1,Guthrie,C,Assist - Circle Entry,2,17,20,18, 183
+2018-11-03 05:15:13 +0000,1,Pettitt ,GA,Goal - Miss,2,17,20,32, 188
+2018-11-03 05:15:17 +0000,1,Harten ,GS,Assist - Attack Rebound,2,17,20,50, 197
+2018-11-03 05:15:19 +0000,1,Harten ,GS,Goal - Score,2,17,20,32, 188
+2018-11-03 05:15:25 +0000,1,Guthrie,C,Centre Pass,2,17,21,50, 100
+2018-11-03 05:15:25 +0000,1,Green,WA,Assist - Centre Pass Rec,2,17,21,73, 120
+2018-11-03 05:15:27 +0000,1,Bulley ,GD,Assist - 2nd Phase,2,17,21,63, 111
+2018-11-03 05:15:29 +0000,1,Pettitt ,GA,Possession,2,17,21,82, 160
+2018-11-03 05:15:31 +0000,1,Pettitt ,GA,Assist - Circle Entry,2,17,21,82, 160
+2018-11-03 05:15:31 +0000,1,Harten ,GS,Possession,2,17,21,65, 177
+2018-11-03 05:15:35 +0000,0,Klau ,GK,Penaly - Contact,2,17,21,65, 177
+2018-11-03 05:15:35 +0000,1,Harten ,GS,Goal - Score,2,17,21,65, 177
+2018-11-03 05:15:49 +0000,0,Proud,C,Centre Pass,2,17,22,50, 100
+2018-11-03 05:15:50 +0000,1,Price,WD,Penaly - Contact on CP,2,17,22,39, 64
+2018-11-03 05:15:50 +0000,0,Hadley,WA,Possession,2,17,22,39, 64
+2018-11-03 05:16:12 +0000,0,Wallace,GS,Assist - 2nd Phase,2,17,22,45, 34
+2018-11-03 05:16:15 +0000,0,Wallace,GS,Assist - Circle Entry,2,17,22,45, 34
+2018-11-03 05:16:15 +0000,0,Housby ,GA,Goal - Score,2,17,22,46, 7
+2018-11-03 05:16:24 +0000,1,Guthrie,C,Centre Pass,2,18,22,50, 100
+2018-11-03 05:16:24 +0000,1,Green,WA,Assist - Centre Pass Rec,2,18,22,66, 101
+2018-11-03 05:16:26 +0000,1,Bulley ,GD,Assist - 2nd Phase,2,18,22,12, 125
+2018-11-03 05:16:35 +0000,1,Guthrie,C,Possession,2,18,22,15, 147
+2018-11-03 05:16:38 +0000,1,Pettitt ,GA,Possession,2,18,22,40, 148
+2018-11-03 05:16:43 +0000,1,Pettitt ,GA,Assist - Circle Entry,2,18,22,40, 148
+2018-11-03 05:16:43 +0000,1,Harten ,GS,Possession,2,18,22,32, 175
+2018-11-03 05:16:46 +0000,1,Guthrie,C,Possession,2,18,22,23, 174
+2018-11-03 05:16:54 +0000,1,Guthrie,C,Assist - Circle Entry,2,18,22,23, 174
+2018-11-03 05:16:54 +0000,1,Pettitt ,GA,Possession,2,18,22,22, 191
+2018-11-03 05:17:01 +0000,0,Klau ,GK,Gain - Tip (Deflect),2,18,22,28, 189
+2018-11-03 05:17:06 +0000,0,Proud,C,Possession,2,18,22,9, 154
+2018-11-03 05:17:11 +0000,0,McCulloch,WD,Possession,2,18,22,20, 134
+2018-11-03 05:17:15 +0000,0,Hadley,WA,Possession,2,18,22,62, 97
+2018-11-03 05:17:17 +0000,0,Turner,GD,Possession,2,18,22,81, 99
+2018-11-03 05:17:24 +0000,0,Housby ,GA,Possession,2,18,22,76, 55
+2018-11-03 05:17:27 +0000,0,Turner,GD,Possession,2,18,22,80, 67
+2018-11-03 05:17:30 +0000,1,Pettitt ,GA,Penaly - Contact,2,18,22,80, 67
+2018-11-03 05:17:30 +0000,0,Turner,GD,Possession,2,18,22,80, 67
+2018-11-03 05:17:36 +0000,0,Wallace,GS,Possession,2,18,22,70, 39
+2018-11-03 05:17:38 +0000,0,Hadley,WA,Possession,2,18,22,53, 46
+2018-11-03 05:17:40 +0000,0,Hadley,WA,Assist - Circle Entry,2,18,22,53, 46
+2018-11-03 05:17:41 +0000,0,Wallace,GS,Possession,2,18,22,41, 26
+2018-11-03 05:17:43 +0000,0,Proud,C,Possession,2,18,22,76, 19
+2018-11-03 05:17:45 +0000,0,Proud,C,Assist - Circle Entry,2,18,22,76, 19
+2018-11-03 05:17:46 +0000,0,Housby ,GA,Possession,2,18,22,44, 16
+2018-11-03 05:17:49 +0000,1,Bulley ,GD,Penaly - Contact,2,18,22,44, 16
+2018-11-03 05:17:49 +0000,0,Housby ,GA,Goal - Score,2,18,22,44, 16
+2018-11-03 05:17:57 +0000,0,Proud,C,Centre Pass,2,19,22,50, 100
+2018-11-03 05:18:02 +0000,0,Proud,C,Centre Pass,2,19,22,50, 100
+2018-11-03 05:18:02 +0000,0,Hadley,WA,Assist - Centre Pass Rec,2,19,22,20, 77
+2018-11-03 05:18:23 +0000,0,Housby ,GA,Assist - 2nd Phase,2,19,22,8, 25
+2018-11-03 05:18:46 +0000,0,Housby ,GA,Assist - Circle Entry,2,19,22,8, 25
+2018-11-03 05:18:46 +0000,0,Wallace,GS,Goal - Miss,2,19,22,32, 5
+2018-11-03 05:18:49 +0000,0,Housby ,GA,Assist - Attack Rebound,2,19,22,50, 2
+2018-11-03 05:18:50 +0000,1,Poolman ,GK,Penaly - Contact,2,19,22,50, 2
+2018-11-03 05:18:50 +0000,0,Housby ,GA,Goal - Score,2,19,22,50, 2
+2018-11-03 05:19:08 +0000,1,Guthrie,C,Centre Pass,2,20,22,50, 100
+2018-11-03 05:19:09 +0000,1,Price,WD,Assist - Centre Pass Rec,2,20,22,11, 111
+2018-11-03 05:19:13 +0000,1,Guthrie,C,Assist - 2nd Phase,2,20,22,26, 92
+2018-11-03 05:19:15 +0000,1,Bulley ,GD,Possession,2,20,22,81, 113
+2018-11-03 05:19:18 +0000,1,Green,WA,Possession,2,20,22,89, 134
+2018-11-03 05:19:22 +0000,1,Bulley ,GD,Possession,2,20,22,65, 114
+2018-11-03 05:19:24 +0000,1,Price,WD,Possession,2,20,22,27, 123
+2018-11-03 05:19:26 +0000,1,Harten ,GS,Possession,2,20,22,26, 167
+2018-11-03 05:19:28 +0000,1,Green,WA,Possession,2,20,22,14, 187
+2018-11-03 05:19:31 +0000,1,Green,WA,Assist - Circle Entry,2,20,22,14, 187
+2018-11-03 05:19:31 +0000,1,Pettitt ,GA,Possession,2,20,22,29, 192
+2018-11-03 05:19:40 +0000,1,Harten ,GS,Loss - Off Contact,2,20,22,50, 186
+2018-11-03 05:19:45 +0000,0,Klau ,GK,Possession,2,20,22,50, 187
+2018-11-03 05:19:49 +0000,0,McCulloch,WD,Possession,2,20,22,45, 164
+2018-11-03 05:19:51 +0000,0,Turner,GD,Possession,2,20,22,84, 150
+2018-11-03 05:19:53 +0000,0,Klau ,GK,Possession,2,20,22,30, 154
+2018-11-03 05:19:58 +0000,0,Proud,C,Possession,2,20,22,45, 135
+2018-11-03 05:20:02 +0000,0,McCulloch,WD,Possession,2,20,22,74, 86
+2018-11-03 05:20:05 +0000,0,Housby ,GA,Possession,2,20,22,18, 45
+2018-11-03 05:20:07 +0000,0,Proud,C,Possession,2,20,22,79, 14
+2018-11-03 05:20:09 +0000,0,Proud,C,Assist - Circle Entry,2,20,22,79, 14
+2018-11-03 05:20:09 +0000,0,Wallace,GS,Goal - Score,2,20,22,45, 5
+2018-11-03 05:20:16 +0000,0,Proud,C,Centre Pass,2,21,22,50, 100
+2018-11-03 05:20:16 +0000,0,Housby ,GA,Assist - Centre Pass Rec,2,21,22,53, 75
+2018-11-03 05:20:22 +0000,1,Pettitt ,GA,Deflect,2,21,22,47, 94
+2018-11-03 05:20:22 +0000,0,Hadley,WA,Possession,2,21,22,31, 80
+2018-11-03 05:20:29 +0000,0,Turner,GD,Possession,2,21,22,10, 77
+2018-11-03 05:20:31 +0000,0,Proud,C,Possession,2,21,22,9, 41
+2018-11-03 05:20:33 +0000,0,Wallace,GS,Possession,2,21,22,37, 39
+2018-11-03 05:20:35 +0000,0,Hadley,WA,Possession,2,21,22,73, 23
+2018-11-03 05:21:35 +0000,0,Hadley,WA,Assist - Circle Entry,2,21,22,73, 23
+2018-11-03 05:21:36 +0000,1,Bulley ,GD,Gain - Tip (Deflect),2,21,22,50, 15
+2018-11-03 05:21:38 +0000,1,Guthrie,C,Possession,2,21,22,10, 22
+2018-11-03 05:21:46 +0000,1,Poolman ,GK,Possession,2,21,22,26, 15
+2018-11-03 05:21:48 +0000,1,Guthrie,C,Possession,2,21,22,7, 34
+2018-11-03 05:21:50 +0000,1,Price,WD,Possession,2,21,22,6, 105
+2018-11-03 05:21:54 +0000,1,Green,WA,Possession,2,21,22,7, 136
+2018-11-03 05:21:56 +0000,1,Price,WD,Possession,2,21,22,13, 122
+2018-11-03 05:21:59 +0000,1,Pettitt ,GA,Possession,2,21,22,29, 143
+2018-11-03 05:22:02 +0000,1,Pettitt ,GA,Assist - Circle Entry,2,21,22,29, 143
+2018-11-03 05:22:02 +0000,1,Harten ,GS,Goal - Score,2,21,22,46, 193
+2018-11-03 05:22:13 +0000,1,Guthrie,C,Centre Pass,2,21,23,50, 100
+2018-11-03 05:22:13 +0000,1,Green,WA,Assist - Centre Pass Rec,2,21,23,57, 121
+2018-11-03 05:22:17 +0000,1,Green,WA,Assist - Circle Entry,2,21,23,57, 121
+2018-11-03 05:22:17 +0000,1,Harten ,GS,Assist - 2nd Phase,2,21,23,47, 176
+2018-11-03 05:22:21 +0000,1,Harten ,GS,Goal - Score,2,21,23,47, 176
+2018-11-03 05:22:26 +0000,0,Proud,C,Centre Pass,2,21,24,50, 100
+2018-11-03 05:22:26 +0000,0,Hadley,WA,Assist - Centre Pass Rec,2,21,24,78, 71
+2018-11-03 05:22:27 +0000,0,Proud,C,Assist - 2nd Phase,2,21,24,50, 69
+2018-11-03 05:22:42 +0000,0,Proud,C,Assist - Circle Entry,2,21,24,50, 69
+2018-11-03 05:22:42 +0000,0,Wallace,GS,Possession,2,21,24,50, 27
+2018-11-03 05:22:44 +0000,0,Hadley,WA,Possession,2,21,24,59, 33
+2018-11-03 05:22:47 +0000,0,Hadley,WA,Assist - Circle Entry,2,21,24,59, 33
+2018-11-03 05:22:48 +0000,0,Wallace,GS,Goal - Score,2,21,24,49, 12
+2018-11-03 05:22:54 +0000,1,Guthrie,C,Centre Pass,2,22,24,50, 100
+2018-11-03 05:22:54 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,2,22,24,30, 111
+2018-11-03 05:22:56 +0000,1,Green,WA,Assist - 2nd Phase,2,22,24,12, 127
+2018-11-03 05:23:00 +0000,0,Proud,C,Penaly - Contact,2,22,24,27, 136
+2018-11-03 05:23:00 +0000,1,Green,WA,Possession,2,22,24,27, 136
+2018-11-03 05:23:11 +0000,1,Green,WA,Assist - Circle Entry,2,22,24,27, 136
+2018-11-03 05:23:11 +0000,1,Harten ,GS,Possession,2,22,24,51, 169
+2018-11-03 05:24:25 +0000,0,McCulloch,WD,Loss - Offside,2,22,24,25, 182
+2018-11-03 05:24:31 +0000,1,Pettitt ,GA,Possession,2,22,24,28, 183
+2018-11-03 05:24:42 +0000,1,Guthrie,C,Possession,2,22,24,19, 180
+2018-11-03 05:24:46 +0000,1,Guthrie,C,Assist - Circle Entry,2,22,24,19, 180
+2018-11-03 05:24:46 +0000,1,Pettitt ,GA,Possession,2,22,24,30, 188
+2018-11-03 05:24:48 +0000,0,Turner,GD,Penaly - Contact,2,22,24,30, 188
+2018-11-03 05:24:48 +0000,1,Pettitt ,GA,Possession,2,22,24,30, 188
+2018-11-03 05:24:52 +0000,1,Harten ,GS,Goal - Score,2,22,24,48, 192
+2018-11-03 05:24:59 +0000,0,Proud,C,Centre Pass,2,22,25,50, 100
+2018-11-03 05:24:59 +0000,0,Hadley,WA,Assist - Centre Pass Rec,2,22,25,4, 84
+2018-11-03 05:25:01 +0000,0,Proud,C,Assist - 2nd Phase,2,22,25,41, 70
+2018-11-03 05:25:03 +0000,0,Housby ,GA,Possession,2,22,25,70, 46
+2018-11-03 05:25:05 +0000,0,Hadley,WA,Possession,2,22,25,79, 16
+2018-11-03 05:25:08 +0000,0,Hadley,WA,Assist - Circle Entry,2,22,25,79, 16
+2018-11-03 05:25:08 +0000,0,Wallace,GS,Possession,2,22,25,66, 12
+2018-11-03 05:25:11 +0000,1,Poolman ,GK,Penaly - Contact,2,22,25,66, 12
+2018-11-03 05:25:11 +0000,0,Wallace,GS,Goal - Score,2,22,25,66, 12
+2018-11-03 05:25:22 +0000,1,Guthrie,C,Centre Pass,2,23,25,50, 100
+2018-11-03 05:25:22 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,2,23,25,8, 100
+2018-11-03 05:25:25 +0000,1,Poolman ,GK,Assist - 2nd Phase,2,23,25,22, 62
+2018-11-03 05:25:27 +0000,1,Price,WD,Possession,2,23,25,5, 103
+2018-11-03 05:25:28 +0000,1,Bulley ,GD,Possession,2,23,25,28, 77
+2018-11-03 05:25:34 +0000,1,Green,WA,Possession,2,23,25,32, 117
+2018-11-03 05:25:43 +0000,1,Guthrie,C,Possession,2,23,25,10, 130
+2018-11-03 05:25:46 +0000,1,Harten ,GS,Possession,2,23,25,9, 156
+2018-11-03 05:25:48 +0000,0,Klau ,GK,Penaly - Contact,2,23,25,9, 156
+2018-11-03 05:25:48 +0000,1,Green,WA,Possession,2,23,25,9, 156
+2018-11-03 05:25:55 +0000,1,Green,WA,Assist - Circle Entry,2,23,25,9, 156
+2018-11-03 05:25:55 +0000,1,Harten ,GS,Possession,2,23,25,29, 175
+2018-11-03 05:26:00 +0000,1,Green,WA,Possession,2,23,25,29, 169
+2018-11-03 05:26:05 +0000,1,Green,WA,Assist - Circle Entry,2,23,25,29, 169
+2018-11-03 05:26:06 +0000,1,Harten ,GS,Possession,2,23,25,38, 188
+2018-11-03 05:26:07 +0000,0,Turner,GD,Penaly - Contact,2,23,25,38, 188
+2018-11-03 05:26:07 +0000,1,Harten ,GS,Goal - Score,2,23,25,38, 188
+2018-11-03 05:26:18 +0000,0,Proud,C,Centre Pass,2,23,26,50, 100
+2018-11-03 05:26:18 +0000,0,Housby ,GA,Assist - Centre Pass Rec,2,23,26,15, 75
+2018-11-03 05:26:20 +0000,0,Hadley,WA,Assist - 2nd Phase,2,23,26,63, 76
+2018-11-03 05:26:30 +0000,1,Poolman ,GK,Gain - Tip (Deflect),2,23,26,52, 46
+2018-11-03 05:26:37 +0000,1,Price,WD,Possession,2,23,26,48, 48
+2018-11-03 05:26:42 +0000,1,Pettitt ,GA,Possession,2,23,26,83, 84
+2018-11-03 05:26:45 +0000,1,Price,WD,Possession,2,23,26,44, 84
+2018-11-03 05:26:47 +0000,1,Bulley ,GD,Possession,2,23,26,46, 120
+2018-11-03 05:26:52 +0000,1,Pettitt ,GA,Possession,2,23,26,86, 165
+2018-11-03 05:26:55 +0000,1,Guthrie,C,Possession,2,23,26,76, 161
+2018-11-03 05:26:59 +0000,1,Pettitt ,GA,Possession,2,23,26,84, 190
+2018-11-03 05:27:01 +0000,1,Guthrie,C,Possession,2,23,26,81, 184
+2018-11-03 05:27:04 +0000,0,Proud,C,Penaly - Contact,2,23,26,81, 184
+2018-11-03 05:27:04 +0000,1,Guthrie,C,Possession,2,23,26,81, 184
+2018-11-03 05:27:09 +0000,1,Guthrie,C,Assist - Circle Entry,2,23,26,81, 184
+2018-11-03 05:27:09 +0000,1,Pettitt ,GA,Possession,2,23,26,60, 190
+2018-11-03 05:27:12 +0000,0,Klau ,GK,Penaly - Contact,2,23,26,60, 190
+2018-11-03 05:27:12 +0000,1,Pettitt ,GA,Possession,2,23,26,60, 190
+2018-11-03 05:27:17 +0000,0,Turner,GD,Penaly - Contact,2,23,26,60, 190
+2018-11-03 05:27:17 +0000,1,Pettitt ,GA,Goal - Score,2,23,26,60, 190
+2018-11-03 05:27:24 +0000,1,Guthrie,C,Centre Pass,2,23,27,50, 100
+2018-11-03 05:27:24 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,2,23,27,64, 125
+2018-11-03 05:27:26 +0000,1,Guthrie,C,Assist - 2nd Phase,2,23,27,66, 148
+2018-11-03 05:27:28 +0000,1,Green,WA,Possession,2,23,27,48, 154
+2018-11-03 05:27:30 +0000,1,Green,WA,Assist - Circle Entry,2,23,27,48, 154
+2018-11-03 05:27:30 +0000,1,Pettitt ,GA,Possession,2,23,27,20, 191
+2018-11-03 05:27:33 +0000,1,Green,WA,Possession,2,23,27,46, 164
+2018-11-03 05:27:39 +0000,0,Proud,C,Penaly - Contact,2,23,27,46, 164
+2018-11-03 05:27:39 +0000,1,Green,WA,Possession,2,23,27,46, 164
+2018-11-03 05:27:47 +0000,1,Green,WA,Assist - Circle Entry,2,23,27,46, 164
+2018-11-03 05:27:47 +0000,1,Pettitt ,GA,Goal - Score,2,23,27,50, 179
+2018-11-03 05:27:57 +0000,0,Proud,C,Centre Pass,2,23,28,50, 100
+2018-11-03 05:27:57 +0000,0,Housby ,GA,Assist - Centre Pass Rec,2,23,28,84, 78
+2018-11-03 05:28:00 +0000,0,McCulloch,WD,Assist - 2nd Phase,2,23,28,59, 76
+2018-11-03 05:28:03 +0000,0,Wallace,GS,Possession,2,23,28,17, 22
+2018-11-03 05:28:06 +0000,0,Proud,C,Possession,2,23,28,74, 22
+2018-11-03 05:28:12 +0000,0,Proud,C,Assist - Circle Entry,2,23,28,74, 22
+2018-11-03 05:28:12 +0000,0,Housby ,GA,Goal - Score,2,23,28,57, 3
+2018-11-03 05:28:21 +0000,1,Guthrie,C,Centre Pass,2,24,28,50, 100
+2018-11-03 05:28:21 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,2,24,28,87, 110
+2018-11-03 05:28:26 +0000,1,Green,WA,Deflect,2,24,28,60, 134
+2018-11-03 05:28:30 +0000,1,Guthrie,C,Possession,2,24,28,24, 143
+2018-11-03 05:28:38 +0000,1,Pettitt ,GA,Possession,2,24,28,43, 149
+2018-11-03 05:28:42 +0000,1,Green,WA,Possession,2,24,28,50, 162
+2018-11-03 05:28:49 +0000,1,Green,WA,Assist - Circle Entry,2,24,28,50, 162
+2018-11-03 05:28:49 +0000,1,Harten ,GS,Possession,2,24,28,40, 190
+2018-11-03 05:28:50 +0000,0,Turner,GD,Penaly - Contact,2,24,28,40, 190
+2018-11-03 05:28:50 +0000,1,Harten ,GS,Goal - Score,2,24,28,40, 190
+2018-11-03 05:29:17 +0000,0,Proud,C,Centre Pass,2,24,29,50, 100
+2018-11-03 05:29:17 +0000,0,Housby ,GA,Assist - Centre Pass Rec,2,24,29,84, 77
+2018-11-03 05:29:19 +0000,0,Hadley,WA,Assist - 2nd Phase,2,24,29,77, 93
+2018-11-03 05:29:21 +0000,0,Hadley,WA,Loss - Bad Pass,2,24,29,80, 67
+2018-11-03 05:29:31 +0000,1,Price,WD,Throw In,2,24,29,106, 69
+2018-11-03 05:29:49 +0000,1,Bulley ,GD,Possession,2,24,29,36, 97
+2018-11-03 05:29:51 +0000,1,Green,WA,Possession,2,24,29,35, 126
+2018-11-03 05:29:53 +0000,1,Guthrie,C,Possession,2,24,29,83, 186
+2018-11-03 05:29:55 +0000,1,Pettitt ,GA,Possession,2,24,29,77, 159
+2018-11-03 05:29:58 +0000,1,Guthrie,C,Possession,2,24,29,83, 189
+2018-11-03 05:30:52 +0000,1,Green,WA,Possession,2,24,29,20, 177
+2018-11-03 05:30:54 +0000,1,Green,WA,Assist - Circle Entry,2,24,29,20, 177
+2018-11-03 05:30:54 +0000,1,Harten ,GS,Possession,2,24,29,35, 184
+2018-11-03 05:30:57 +0000,1,Green,WA,Loss - Off Contact,2,24,29,20, 177
+2018-11-03 05:31:06 +0000,0,Klau ,GK,Possession,2,24,29,19, 176
+2018-11-03 05:31:14 +0000,0,Turner,GD,Possession,2,24,29,58, 153
+2018-11-03 05:31:17 +0000,0,Hadley,WA,Possession,2,24,29,47, 129
+2018-11-03 05:31:21 +0000,1,Price,WD,Penaly - Contact,2,24,29,47, 129
+2018-11-03 05:31:21 +0000,0,Hadley,WA,Possession,2,24,29,47, 129
+2018-11-03 05:31:27 +0000,0,McCulloch,WD,Possession,2,24,29,33, 100
+2018-11-03 05:31:37 +0000,0,Hadley,WA,Possession,2,24,29,16, 35
+2018-11-03 05:31:42 +0000,0,McCulloch,WD,Possession,2,24,29,30, 70
+2018-11-03 05:31:45 +0000,0,Hadley,WA,Possession,2,24,29,31, 55
+2018-11-03 05:31:48 +0000,1,Price,WD,Penaly - Contact,2,24,29,31, 55
+2018-11-03 05:31:48 +0000,0,Hadley,WA,Possession,2,24,29,31, 55
+2018-11-03 05:31:54 +0000,0,Hadley,WA,Assist - Circle Entry,2,24,29,31, 55
+2018-11-03 05:31:54 +0000,0,Wallace,GS,Possession,2,24,29,47, 25
+2018-11-03 05:32:01 +0000,0,Hadley,WA,Possession,2,24,29,44, 34
+2018-11-03 05:32:08 +0000,1,Poolman ,GK,Penaly - Contact,2,24,29,41, 22
+2018-11-03 05:32:08 +0000,0,Housby ,GA,Possession,2,24,29,41, 22
+2018-11-03 05:32:14 +0000,1,Bulley ,GD,Penaly - Contact,2,24,29,44, 14
+2018-11-03 05:32:14 +0000,0,Housby ,GA,Goal - Score,2,24,29,44, 14
+2018-11-03 05:32:34 +0000,1,Guthrie,C,Centre Pass,2,25,29,50, 100
+2018-11-03 05:32:34 +0000,1,Green,WA,Assist - Centre Pass Rec,2,25,29,56, 117
+2018-11-03 05:32:36 +0000,1,Guthrie,C,Loss - Bad Pass,2,25,29,5, 114
+2018-11-03 05:32:41 +0000,0,,UNKNOWN,Throw In,2,25,29,106, 143
+2018-11-03 05:32:46 +0000,0,Klau ,GK,Possession,2,25,29,78, 149
+2018-11-03 05:32:48 +0000,0,Hadley,WA,Possession,2,25,29,20, 88
+2018-11-03 05:32:50 +0000,0,Hadley,WA,Assist - Circle Entry,2,25,29,20, 88
+2018-11-03 05:32:50 +0000,0,Housby ,GA,Goal - Score,2,25,29,30, 6
+2018-11-03 05:34:50 +0000,0,Wallace,UNKNOWN,Interchange - Garbin,3,26,29,
+2018-11-03 05:34:52 +0000,0,Proud,C,Centre Pass,3,26,29,50, 100
+2018-11-03 05:34:52 +0000,0,McCulloch,WD,Assist - Centre Pass Rec,3,26,29,23, 112
+2018-11-03 05:34:54 +0000,0,Turner,GD,Assist - 2nd Phase,3,26,29,38, 116
+2018-11-03 05:34:56 +0000,0,McCulloch,WD,Possession,3,26,29,23, 114
+2018-11-03 05:34:58 +0000,0,Proud,C,Possession,3,26,29,51, 80
+2018-11-03 05:35:01 +0000,0,Turner,GD,Possession,3,26,29,87, 72
+2018-11-03 05:35:05 +0000,0,Proud,C,Possession,3,26,29,82, 49
+2018-11-03 05:35:07 +0000,0,Housby ,GA,Possession,3,26,29,91, 9
+2018-11-03 05:35:10 +0000,0,Housby ,GA,Assist - Circle Entry,3,26,29,91, 9
+2018-11-03 05:35:10 +0000,0,Garbin,GS,Goal - Score,3,26,29,55, 8
+2018-11-03 05:35:19 +0000,1,Guthrie,C,Centre Pass,3,27,29,50, 100
+2018-11-03 05:35:19 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,3,27,29,7, 122
+2018-11-03 05:35:22 +0000,1,Green,WA,Assist - 2nd Phase,3,27,29,89, 121
+2018-11-03 05:35:24 +0000,1,Pettitt ,GA,Possession,3,27,29,69, 131
+2018-11-03 05:35:27 +0000,1,Green,WA,Possession,3,27,29,29, 169
+2018-11-03 05:35:30 +0000,1,Green,WA,Assist - Circle Entry,3,27,29,29, 169
+2018-11-03 05:35:30 +0000,1,Harten ,GS,Goal - Score,3,27,29,41, 196
+2018-11-03 05:35:40 +0000,0,Proud,C,Centre Pass,3,27,30,50, 100
+2018-11-03 05:35:40 +0000,0,Housby ,GA,Assist - Centre Pass Rec,3,27,30,13, 75
+2018-11-03 05:35:42 +0000,0,Hadley,WA,Assist - 2nd Phase,3,27,30,45, 74
+2018-11-03 05:35:44 +0000,0,Garbin,GS,Possession,3,27,30,40, 37
+2018-11-03 05:35:47 +0000,0,Proud,C,Possession,3,27,30,81, 22
+2018-11-03 05:35:54 +0000,1,Price,WD,Penaly - Contact,3,27,30,81, 22
+2018-11-03 05:35:54 +0000,0,Proud,C,Possession,3,27,30,81, 22
+2018-11-03 05:35:58 +0000,0,Proud,C,Assist - Circle Entry,3,27,30,81, 22
+2018-11-03 05:35:58 +0000,0,Garbin,GS,Goal - Score,3,27,30,45, 5
+2018-11-03 05:36:06 +0000,1,Guthrie,C,Centre Pass,3,28,30,50, 100
+2018-11-03 05:36:06 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,3,28,30,28, 128
+2018-11-03 05:36:10 +0000,1,Pettitt ,GA,Assist - Circle Entry,3,28,30,28, 128
+2018-11-03 05:36:10 +0000,1,Harten ,GS,Goal - Score,3,28,30,54, 195
+2018-11-03 05:36:19 +0000,0,Proud,C,Centre Pass,3,28,31,50, 100
+2018-11-03 05:36:19 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,28,31,17, 76
+2018-11-03 05:36:22 +0000,0,Housby ,GA,Assist - 2nd Phase,3,28,31,35, 63
+2018-11-03 05:36:24 +0000,0,Proud,C,Possession,3,28,31,52, 49
+2018-11-03 05:36:27 +0000,0,Proud,C,Assist - Circle Entry,3,28,31,52, 49
+2018-11-03 05:36:27 +0000,0,Garbin,GS,Goal - Miss,3,28,31,49, 19
+2018-11-03 05:36:31 +0000,0,Garbin,GS,Assist - Attack Rebound,3,28,31,50, 2
+2018-11-03 05:36:33 +0000,0,Garbin,GS,Goal - Score,3,28,31,49, 19
+2018-11-03 05:36:39 +0000,1,Guthrie,C,Centre Pass,3,29,31,50, 100
+2018-11-03 05:36:39 +0000,1,Green,WA,Assist - Centre Pass Rec,3,29,31,84, 128
+2018-11-03 05:36:41 +0000,1,Pettitt ,GA,Assist - 2nd Phase,3,29,31,95, 150
+2018-11-03 05:36:43 +0000,1,Green,WA,Loss - Bad Pass,3,29,31,72, 144
+2018-11-03 05:36:46 +0000,0,Klau ,GK,Throw In,3,29,31,93, 206
+2018-11-03 05:36:51 +0000,0,Turner,GD,Possession,3,29,31,50, 177
+2018-11-03 05:36:52 +0000,0,Proud,C,Possession,3,29,31,22, 140
+2018-11-03 05:36:55 +0000,0,Klau ,GK,Possession,3,29,31,38, 152
+2018-11-03 05:36:58 +0000,0,Hadley,WA,Possession,3,29,31,41, 122
+2018-11-03 05:37:00 +0000,0,McCulloch,WD,Possession,3,29,31,14, 88
+2018-11-03 05:37:03 +0000,0,Turner,GD,Possession,3,29,31,69, 91
+2018-11-03 05:37:06 +0000,0,Hadley,WA,Possession,3,29,31,86, 72
+2018-11-03 05:37:09 +0000,0,Proud,C,Possession,3,29,31,87, 18
+2018-11-03 05:37:14 +0000,0,Garbin,GS,Possession,3,29,31,90, 55
+2018-11-03 05:37:17 +0000,0,Proud,C,Possession,3,29,31,85, 26
+2018-11-03 05:37:22 +0000,0,Housby ,GA,Possession,3,29,31,50, 42
+2018-11-03 05:37:30 +0000,1,Price,WD,Penaly - Contact,3,29,31,50, 36
+2018-11-03 05:37:30 +0000,0,Hadley,WA,Possession,3,29,31,50, 36
+2018-11-03 05:37:41 +0000,1,Poolman ,GK,Penaly - Contact,3,29,31,56, 5
+2018-11-03 05:37:41 +0000,0,Garbin,GS,Goal - Score,3,29,31,56, 5
+2018-11-03 05:38:02 +0000,0,Proud,C,Centre Pass,3,30,31,50, 100
+2018-11-03 05:38:02 +0000,0,Housby ,GA,Assist - Centre Pass Rec,3,30,31,51, 75
+2018-11-03 05:38:05 +0000,0,Hadley,WA,Assist - 2nd Phase,3,30,31,14, 12
+2018-11-03 05:38:07 +0000,0,Hadley,WA,Assist - Circle Entry,3,30,31,14, 12
+2018-11-03 05:38:08 +0000,0,Garbin,GS,Possession,3,30,31,34, 23
+2018-11-03 05:38:11 +0000,0,Hadley,WA,Possession,3,30,31,15, 10
+2018-11-03 05:38:13 +0000,0,Hadley,WA,Assist - Circle Entry,3,30,31,15, 10
+2018-11-03 05:38:13 +0000,0,Garbin,GS,Possession,3,30,31,31, 10
+2018-11-03 05:38:17 +0000,1,Bulley ,GD,Penaly - Contact,3,30,31,31, 10
+2018-11-03 05:38:17 +0000,0,Housby ,GA,Goal - Score,3,30,31,31, 10
+2018-11-03 05:38:29 +0000,1,Guthrie,C,Centre Pass,3,31,31,50, 100
+2018-11-03 05:38:29 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,3,31,31,71, 121
+2018-11-03 05:38:31 +0000,1,Guthrie,C,Assist - 2nd Phase,3,31,31,19, 147
+2018-11-03 05:38:33 +0000,1,Harten ,GS,Possession,3,31,31,20, 182
+2018-11-03 05:38:35 +0000,1,Guthrie,C,Possession,3,31,31,40, 147
+2018-11-03 05:38:36 +0000,1,Green,WA,Possession,3,31,31,20, 162
+2018-11-03 05:38:39 +0000,1,Pettitt ,GA,Possession,3,31,31,15, 195
+2018-11-03 05:38:47 +0000,1,Guthrie,C,Possession,3,31,31,41, 167
+2018-11-03 05:38:54 +0000,1,Guthrie,C,Assist - Circle Entry,3,31,31,41, 167
+2018-11-03 05:38:54 +0000,1,Harten ,GS,Goal - Score,3,31,31,38, 196
+2018-11-03 05:39:04 +0000,0,Proud,C,Centre Pass,3,31,32,50, 100
+2018-11-03 05:39:04 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,31,32,16, 79
+2018-11-03 05:39:05 +0000,0,Housby ,GA,Assist - 2nd Phase,3,31,32,10, 64
+2018-11-03 05:39:11 +0000,0,Hadley,WA,Possession,3,31,32,16, 80
+2018-11-03 05:39:15 +0000,0,Turner,GD,Possession,3,31,32,51, 96
+2018-11-03 05:39:18 +0000,0,Proud,C,Possession,3,31,32,87, 67
+2018-11-03 05:39:24 +0000,0,Housby ,GA,Possession,3,31,32,92, 11
+2018-11-03 05:39:26 +0000,0,Hadley,WA,Possession,3,31,32,78, 21
+2018-11-03 05:39:28 +0000,1,Price,WD,Penaly - Contact,3,31,32,78, 21
+2018-11-03 05:39:28 +0000,0,Hadley,WA,Possession,3,31,32,78, 21
+2018-11-03 05:39:45 +0000,1,Poolman ,GK,Penaly - Contact,3,31,32,72, 17
+2018-11-03 05:39:45 +0000,0,Housby ,GA,Possession,3,31,32,72, 17
+2018-11-03 05:39:49 +0000,0,Garbin,GS,Goal - Score,3,31,32,41, 8
+2018-11-03 05:39:58 +0000,1,Guthrie,C,Centre Pass,3,32,32,50, 100
+2018-11-03 05:39:58 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,3,32,32,79, 122
+2018-11-03 05:39:59 +0000,1,Guthrie,C,Assist - 2nd Phase,3,32,32,62, 128
+2018-11-03 05:40:01 +0000,1,Green,WA,Possession,3,32,32,42, 153
+2018-11-03 05:40:04 +0000,1,Green,WA,Assist - Circle Entry,3,32,32,42, 153
+2018-11-03 05:40:04 +0000,1,Harten ,GS,Possession,3,32,32,43, 178
+2018-11-03 05:40:06 +0000,1,Green,WA,Possession,3,32,32,79, 182
+2018-11-03 05:40:14 +0000,1,Green,WA,Assist - Circle Entry,3,32,32,79, 182
+2018-11-03 05:40:14 +0000,1,Pettitt ,GA,Possession,3,32,32,59, 190
+2018-11-03 05:40:16 +0000,0,Klau ,GK,Penaly - Contact,3,32,32,59, 190
+2018-11-03 05:40:16 +0000,1,Pettitt ,GA,Goal - Score,3,32,32,59, 190
+2018-11-03 05:40:34 +0000,0,Proud,C,Centre Pass,3,32,33,50, 100
+2018-11-03 05:40:35 +0000,0,Housby ,GA,Assist - Centre Pass Rec,3,32,33,14, 74
+2018-11-03 05:40:36 +0000,0,Hadley,WA,Assist - 2nd Phase,3,32,33,44, 35
+2018-11-03 05:40:38 +0000,0,Hadley,WA,Assist - Circle Entry,3,32,33,44, 35
+2018-11-03 05:40:39 +0000,0,Garbin,GS,Goal - Score,3,32,33,59, 6
+2018-11-03 05:40:48 +0000,1,Guthrie,C,Centre Pass,3,33,33,50, 100
+2018-11-03 05:40:48 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,3,33,33,58, 89
+2018-11-03 05:40:50 +0000,1,Green,WA,Assist - 2nd Phase,3,33,33,54, 127
+2018-11-03 05:40:52 +0000,1,Price,WD,Possession,3,33,33,13, 131
+2018-11-03 05:40:55 +0000,1,Guthrie,C,Possession,3,33,33,9, 151
+2018-11-03 05:40:57 +0000,0,Proud,C,Penaly - Contact,3,33,33,9, 151
+2018-11-03 05:40:57 +0000,1,Guthrie,C,Possession,3,33,33,9, 151
+2018-11-03 05:41:12 +0000,1,Pettitt ,GA,Possession,3,33,33,42, 161
+2018-11-03 05:41:14 +0000,1,Guthrie,C,Possession,3,33,33,36, 170
+2018-11-03 05:41:53 +0000,1,Guthrie,C,Assist - Circle Entry,3,33,33,36, 170
+2018-11-03 05:41:54 +0000,0,Klau ,GK,Gain - Tip (Deflect),3,33,33,36, 192
+2018-11-03 05:41:59 +0000,0,Klau ,GK,Possession,3,33,33,8, 190
+2018-11-03 05:42:06 +0000,0,McCulloch,WD,Possession,3,33,33,21, 151
+2018-11-03 05:42:08 +0000,0,Turner,GD,Possession,3,33,33,43, 142
+2018-11-03 05:42:10 +0000,0,Hadley,WA,Loss - Bad Pass,3,33,33,92, 118
+2018-11-03 05:42:12 +0000,1,Price,WD,Gain - Inter,3,33,33,79, 100
+2018-11-03 05:42:22 +0000,1,Pettitt ,GA,Possession,3,33,33,68, 113
+2018-11-03 05:42:32 +0000,1,Pettitt ,GA,Possession,3,33,33,43, 148
+2018-11-03 05:42:34 +0000,1,Pettitt ,GA,Assist - Circle Entry,3,33,33,43, 148
+2018-11-03 05:42:34 +0000,1,Harten ,GS,Possession,3,33,33,36, 181
+2018-11-03 05:42:36 +0000,0,Klau ,GK,Penaly - Contact,3,33,33,36, 181
+2018-11-03 05:42:36 +0000,1,Pettitt ,GA,Possession,3,33,33,36, 181
+2018-11-03 05:42:50 +0000,0,Proud,C,Deflect,3,33,33,77, 194
+2018-11-03 05:42:51 +0000,1,,UNKNOWN,Throw In,3,33,33,95, 206
+2018-11-03 05:43:01 +0000,0,Klau ,GK,Penaly - Contact,3,33,33,72, 190
+2018-11-03 05:43:01 +0000,1,Pettitt ,GA,Goal - Miss,3,33,33,72, 190
+2018-11-03 05:44:08 +0000,0,Turner,GD,Deflect,3,33,33,50, 197
+2018-11-03 05:44:11 +0000,1,Pettitt ,GA,Throw In,3,33,33,80, 208
+2018-11-03 05:44:26 +0000,1,Green,WA,Possession,3,33,33,18, 186
+2018-11-03 05:44:29 +0000,0,Klau ,GK,Penaly - Contact,3,33,33,38, 192
+2018-11-03 05:44:29 +0000,1,Pettitt ,GA,Goal - Score,3,33,33,38, 192
+2018-11-03 05:44:44 +0000,0,Proud,C,Centre Pass,3,33,34,50, 100
+2018-11-03 05:44:44 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,33,34,29, 80
+2018-11-03 05:44:52 +0000,0,Housby ,GA,Assist - 2nd Phase,3,33,34,10, 20
+2018-11-03 05:44:58 +0000,1,Guthrie,C,Penaly - Contact,3,33,34,70, 32
+2018-11-03 05:44:58 +0000,0,Proud,C,Possession,3,33,34,70, 32
+2018-11-03 05:45:04 +0000,0,Proud,C,Assist - Circle Entry,3,33,34,70, 32
+2018-11-03 05:45:04 +0000,0,Housby ,GA,Possession,3,33,34,56, 19
+2018-11-03 05:45:06 +0000,1,Poolman ,GK,Penaly - Contact,3,33,34,56, 19
+2018-11-03 05:45:06 +0000,0,Housby ,GA,Goal - Score,3,33,34,56, 19
+2018-11-03 05:45:17 +0000,1,Guthrie,C,Centre Pass,3,34,34,50, 100
+2018-11-03 05:45:17 +0000,1,Green,WA,Assist - Centre Pass Rec,3,34,34,23, 124
+2018-11-03 05:45:20 +0000,1,Guthrie,C,Assist - 2nd Phase,3,34,34,81, 161
+2018-11-03 05:45:22 +0000,1,Guthrie,C,Assist - Circle Entry,3,34,34,81, 161
+2018-11-03 05:45:22 +0000,1,Pettitt ,GA,Possession,3,34,34,74, 195
+2018-11-03 05:45:24 +0000,0,Proud,C,Penaly - Contact,3,34,34,78, 181
+2018-11-03 05:45:25 +0000,1,Guthrie,C,Possession,3,34,34,78, 181
+2018-11-03 05:45:31 +0000,1,Guthrie,C,Assist - Circle Entry,3,34,34,78, 181
+2018-11-03 05:45:31 +0000,1,Harten ,GS,Possession,3,34,34,70, 189
+2018-11-03 05:45:33 +0000,0,Turner,GD,Penaly - Contact,3,34,34,70, 189
+2018-11-03 05:45:33 +0000,1,Harten ,GS,Goal - Score,3,34,34,70, 189
+2018-11-03 05:45:41 +0000,0,Proud,C,Centre Pass,3,34,35,50, 100
+2018-11-03 05:45:41 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,34,35,48, 78
+2018-11-03 05:45:43 +0000,0,Garbin,GS,Assist - 2nd Phase,3,34,35,47, 43
+2018-11-03 05:46:37 +0000,0,Hadley,WA,Possession,3,34,35,19, 20
+2018-11-03 05:46:43 +0000,0,Hadley,WA,Assist - Circle Entry,3,34,35,19, 20
+2018-11-03 05:46:43 +0000,0,Housby ,GA,Goal - Score,3,34,35,39, 15
+2018-11-03 05:46:50 +0000,1,Guthrie,C,Centre Pass,3,35,35,50, 100
+2018-11-03 05:46:50 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,3,35,35,90, 116
+2018-11-03 05:46:53 +0000,1,Bulley ,GD,Assist - 2nd Phase,3,35,35,14, 118
+2018-11-03 05:47:08 +0000,0,Proud,C,Penaly - Contact,3,35,35,14, 132
+2018-11-03 05:47:08 +0000,1,Bulley ,GD,Possession,3,35,35,14, 132
+2018-11-03 05:47:14 +0000,1,Guthrie,C,Possession,3,35,35,42, 146
+2018-11-03 05:47:16 +0000,1,Guthrie,C,Assist - Circle Entry,3,35,35,42, 146
+2018-11-03 05:47:16 +0000,1,Harten ,GS,Possession,3,35,35,49, 175
+2018-11-03 05:47:21 +0000,1,Guthrie,C,Possession,3,35,35,64, 170
+2018-11-03 05:47:23 +0000,1,Guthrie,C,Assist - Circle Entry,3,35,35,64, 170
+2018-11-03 05:47:23 +0000,1,Pettitt ,GA,Possession,3,35,35,77, 197
+2018-11-03 05:47:26 +0000,1,Guthrie,C,Possession,3,35,35,76, 178
+2018-11-03 05:47:30 +0000,1,Guthrie,C,Assist - Circle Entry,3,35,35,76, 178
+2018-11-03 05:47:30 +0000,1,Pettitt ,GA,Goal - Score,3,35,35,69, 194
+2018-11-03 05:47:46 +0000,0,Proud,C,Centre Pass,3,35,36,50, 100
+2018-11-03 05:47:46 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,35,36,89, 77
+2018-11-03 05:47:48 +0000,0,Housby ,GA,Assist - 2nd Phase,3,35,36,82, 18
+2018-11-03 05:47:51 +0000,0,Housby ,GA,Assist - Circle Entry,3,35,36,82, 18
+2018-11-03 05:47:51 +0000,0,Garbin,GS,Goal - Score,3,35,36,43, 10
+2018-11-03 05:47:59 +0000,1,Guthrie,C,Centre Pass,3,36,36,50, 100
+2018-11-03 05:47:59 +0000,1,Green,WA,Assist - Centre Pass Rec,3,36,36,20, 119
+2018-11-03 05:48:02 +0000,1,Price,WD,Assist - 2nd Phase,3,36,36,85, 125
+2018-11-03 05:48:11 +0000,0,Turner,GD,Penaly - Contact,3,36,36,78, 144
+2018-11-03 05:48:11 +0000,1,Guthrie,C,Possession,3,36,36,78, 144
+2018-11-03 05:48:17 +0000,1,Pettitt ,GA,Possession,3,36,36,85, 194
+2018-11-03 05:48:43 +0000,0,McCulloch,WD,Loss - Offside,3,36,36,18, 186
+2018-11-03 05:48:52 +0000,1,Pettitt ,GA,Possession,3,36,36,18, 186
+2018-11-03 05:48:57 +0000,1,Guthrie,C,Possession,3,36,36,85, 192
+2018-11-03 05:49:00 +0000,1,Guthrie,C,Assist - Circle Entry,3,36,36,85, 192
+2018-11-03 05:49:01 +0000,1,Harten ,GS,Goal - Score,3,36,36,58, 195
+2018-11-03 05:49:05 +0000,1,,UNKNOWN,Timeout,3,36,37,-10, -22
+2018-11-03 05:50:00 +0000,0,Proud,C,Centre Pass,3,36,37,50, 100
+2018-11-03 05:50:00 +0000,0,McCulloch,WD,Assist - Centre Pass Rec,3,36,37,66, 83
+2018-11-03 05:50:02 +0000,0,Hadley,WA,Loss - Bad Pass,3,36,37,94, 46
+2018-11-03 05:50:08 +0000,1,Poolman ,GK,Throw In,3,36,37,102, 48
+2018-11-03 05:50:20 +0000,1,Guthrie,C,Possession,3,36,37,75, 112
+2018-11-03 05:50:22 +0000,1,Pettitt ,GA,Possession,3,36,37,90, 163
+2018-11-03 05:50:26 +0000,1,Green,WA,Possession,3,36,37,16, 188
+2018-11-03 05:50:31 +0000,1,Green,WA,Assist - Circle Entry,3,36,37,16, 188
+2018-11-03 05:50:31 +0000,1,Pettitt ,GA,Possession,3,36,37,42, 174
+2018-11-03 05:50:33 +0000,1,Guthrie,C,Possession,3,36,37,14, 191
+2018-11-03 05:50:36 +0000,1,Guthrie,C,Assist - Circle Entry,3,36,37,14, 191
+2018-11-03 05:50:36 +0000,1,Harten ,GS,Goal - Score,3,36,37,52, 188
+2018-11-03 05:50:45 +0000,1,Guthrie,C,Centre Pass,3,36,38,50, 100
+2018-11-03 05:50:45 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,3,36,38,68, 119
+2018-11-03 05:50:47 +0000,1,Guthrie,C,Assist - 2nd Phase,3,36,38,51, 129
+2018-11-03 05:50:49 +0000,1,Green,WA,Possession,3,36,38,77, 174
+2018-11-03 05:50:52 +0000,1,Green,WA,Assist - Circle Entry,3,36,38,77, 174
+2018-11-03 05:50:52 +0000,1,Harten ,GS,Goal - Score,3,36,38,46, 196
+2018-11-03 05:50:59 +0000,0,Proud,C,Centre Pass,3,36,39,50, 100
+2018-11-03 05:50:59 +0000,0,Housby ,GA,Assist - Centre Pass Rec,3,36,39,28, 82
+2018-11-03 05:51:01 +0000,0,Hadley,WA,Assist - 2nd Phase,3,36,39,81, 27
+2018-11-03 05:51:04 +0000,0,McCulloch,WD,Possession,3,36,39,69, 71
+2018-11-03 05:51:06 +0000,0,Hadley,WA,Possession,3,36,39,79, 60
+2018-11-03 05:51:08 +0000,0,Housby ,GA,Possession,3,36,39,87, 31
+2018-11-03 05:51:10 +0000,0,Proud,C,Possession,3,36,39,68, 45
+2018-11-03 05:51:15 +0000,1,Price,WD,Penaly - Contact,3,36,39,68, 45
+2018-11-03 05:51:15 +0000,0,Proud,C,Possession,3,36,39,68, 45
+2018-11-03 05:51:57 +0000,0,Housby ,GA,Possession,3,36,39,83, 13
+2018-11-03 05:52:01 +0000,0,Proud,C,Possession,3,36,39,75, 24
+2018-11-03 05:52:03 +0000,0,Proud,C,Assist - Circle Entry,3,36,39,75, 24
+2018-11-03 05:52:03 +0000,0,Housby ,GA,Goal - Score,3,36,39,59, 13
+2018-11-03 05:52:20 +0000,1,Guthrie,C,Centre Pass,3,37,39,50, 100
+2018-11-03 05:52:20 +0000,1,Price,WD,Assist - Centre Pass Rec,3,37,39,83, 120
+2018-11-03 05:52:22 +0000,1,Green,WA,Assist - 2nd Phase,3,37,39,91, 138
+2018-11-03 05:52:25 +0000,1,Harten ,GS,Possession,3,37,39,92, 181
+2018-11-03 05:52:33 +0000,1,Harten ,GS,Assist - Circle Entry,3,37,39,92, 181
+2018-11-03 05:52:33 +0000,1,Pettitt ,GA,Deflect,3,37,39,77, 196
+2018-11-03 05:52:43 +0000,0,Klau ,GK,Deflect,3,37,39,77, 191
+2018-11-03 05:52:43 +0000,1,Guthrie,C,Throw In,3,37,39,95, 205
+2018-11-03 05:52:59 +0000,1,Guthrie,C,Assist - Circle Entry,3,37,39,95, 205
+2018-11-03 05:52:59 +0000,1,Harten ,GS,Possession,3,37,39,43, 195
+2018-11-03 05:53:02 +0000,1,Green,WA,Possession,3,37,39,31, 171
+2018-11-03 05:53:05 +0000,0,Klau ,GK,Penaly - Contact,3,37,39,40, 187
+2018-11-03 05:53:05 +0000,1,Harten ,GS,Goal - Score,3,37,39,40, 187
+2018-11-03 05:53:49 +0000,0,Proud,C,Centre Pass,3,37,40,50, 100
+2018-11-03 05:53:49 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,37,40,90, 75
+2018-11-03 05:53:51 +0000,0,Proud,C,Assist - 2nd Phase,3,37,40,80, 28
+2018-11-03 05:53:54 +0000,0,Proud,C,Assist - Circle Entry,3,37,40,80, 28
+2018-11-03 05:53:54 +0000,0,Garbin,GS,Goal - Score,3,37,40,44, 7
+2018-11-03 05:54:03 +0000,1,Guthrie,C,Centre Pass,3,38,40,50, 100
+2018-11-03 05:54:03 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,3,38,40,90, 123
+2018-11-03 05:54:05 +0000,1,Guthrie,C,Assist - 2nd Phase,3,38,40,76, 146
+2018-11-03 05:54:13 +0000,1,Guthrie,C,Assist - Circle Entry,3,38,40,76, 146
+2018-11-03 05:54:13 +0000,1,Harten ,GS,Possession,3,38,40,42, 197
+2018-11-03 05:54:16 +0000,0,Proud,C,Gain - Inter,3,38,40,37, 160
+2018-11-03 05:54:29 +0000,0,Turner,GD,Possession,3,38,40,49, 177
+2018-11-03 05:54:35 +0000,0,Klau ,GK,Possession,3,38,40,23, 175
+2018-11-03 05:54:37 +0000,0,Turner,GD,Possession,3,38,40,35, 155
+2018-11-03 05:54:43 +0000,0,Proud,C,Possession,3,38,40,88, 139
+2018-11-03 05:54:50 +0000,0,Hadley,WA,Possession,3,38,40,89, 103
+2018-11-03 05:55:05 +0000,0,Proud,C,Possession,3,38,40,70, 109
+2018-11-03 05:55:09 +0000,0,Hadley,WA,Possession,3,38,40,19, 71
+2018-11-03 05:55:13 +0000,0,Proud,C,Possession,3,38,40,31, 70
+2018-11-03 05:55:18 +0000,0,Hadley,WA,Possession,3,38,40,42, 64
+2018-11-03 05:55:23 +0000,0,Garbin,GS,Possession,3,38,40,72, 58
+2018-11-03 05:55:33 +0000,0,Hadley,WA,Possession,3,38,40,71, 60
+2018-11-03 05:55:40 +0000,1,Green,WA,Deflect,3,38,40,89, 20
+2018-11-03 05:55:41 +0000,0,,UNKNOWN,Throw In,3,38,40,107, 34
+2018-11-03 05:55:51 +0000,0,Housby ,GA,Possession,3,38,40,71, 25
+2018-11-03 05:55:56 +0000,0,Housby ,GA,Assist - Circle Entry,3,38,40,71, 25
+2018-11-03 05:55:56 +0000,0,Garbin,GS,Goal - Score,3,38,40,46, 7
+2018-11-03 05:56:11 +0000,0,Proud,C,Centre Pass,3,39,40,50, 100
+2018-11-03 05:56:11 +0000,0,Housby ,GA,Assist - Centre Pass Rec,3,39,40,17, 75
+2018-11-03 05:56:17 +0000,1,Green,WA,Gain - Inter,3,39,40,71, 77
+2018-11-03 05:56:26 +0000,1,Pettitt ,GA,Possession,3,39,40,61, 102
+2018-11-03 05:56:29 +0000,1,Bulley ,GD,Possession,3,39,40,46, 78
+2018-11-03 05:56:33 +0000,1,Guthrie,C,Possession,3,39,40,19, 117
+2018-11-03 05:56:37 +0000,1,Green,WA,Possession,3,39,40,53, 132
+2018-11-03 05:56:39 +0000,1,Pettitt ,GA,Possession,3,39,40,85, 148
+2018-11-03 05:56:41 +0000,1,Green,WA,Possession,3,39,40,82, 182
+2018-11-03 05:56:43 +0000,1,Green,WA,Assist - Circle Entry,3,39,40,82, 182
+2018-11-03 05:56:43 +0000,1,Harten ,GS,Goal - Score,3,39,40,36, 178
+2018-11-03 05:56:53 +0000,1,Guthrie,C,Centre Pass,3,39,41,50, 100
+2018-11-03 05:56:53 +0000,1,Green,WA,Assist - Centre Pass Rec,3,39,41,22, 123
+2018-11-03 05:56:55 +0000,1,Harten ,GS,Assist - 2nd Phase,3,39,41,18, 160
+2018-11-03 05:56:58 +0000,0,Proud,C,Deflect,3,39,41,81, 184
+2018-11-03 05:57:12 +0000,1,Pettitt ,GA,Throw In,3,39,41,75, 204
+2018-11-03 05:57:23 +0000,1,Green,WA,Possession,3,39,41,25, 178
+2018-11-03 05:57:26 +0000,1,Green,WA,Assist - Circle Entry,3,39,41,25, 178
+2018-11-03 05:57:26 +0000,1,Harten ,GS,Goal - Score,3,39,41,54, 193
+2018-11-03 05:57:38 +0000,0,Proud,C,Centre Pass,3,39,42,50, 100
+2018-11-03 05:57:38 +0000,0,McCulloch,WD,Deflect,3,39,42,95, 76
+2018-11-03 05:57:46 +0000,1,Price,WD,Throw In,3,39,42,105, 71
+2018-11-03 05:57:58 +0000,0,Proud,C,Penaly - Contact,3,39,42,90, 81
+2018-11-03 05:57:58 +0000,1,Price,WD,Possession,3,39,42,90, 81
+2018-11-03 05:58:05 +0000,1,Pettitt ,GA,Possession,3,39,42,91, 147
+2018-11-03 06:00:29 +0000,1,Pettitt ,GA,Assist - Circle Entry,3,39,42,91, 147
+2018-11-03 06:00:29 +0000,1,Harten ,GS,Goal - Score,3,39,42,46, 194
+2018-11-03 06:00:39 +0000,0,,UNKNOWN,Timeout,3,39,43,-10, -22
+2018-11-03 06:01:12 +0000,0,Turner,UNKNOWN,Interchange - Eddy,3,39,43,
+2018-11-03 06:01:33 +0000,1,Guthrie,C,Centre Pass,3,39,43,50, 100
+2018-11-03 06:01:33 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,3,39,43,85, 119
+2018-11-03 06:01:35 +0000,1,Green,WA,Assist - 2nd Phase,3,39,43,95, 146
+2018-11-03 06:01:38 +0000,0,,UNKNOWN,Penaly - Contact,3,39,43,97, 180
+2018-11-03 06:01:38 +0000,1,,UNKNOWN,Possession,3,39,43,97, 180
+2018-11-03 06:01:40 +0000,0,,UNKNOWN,Penaly - Contact,3,39,43,97, 180
+2018-11-03 06:01:40 +0000,1,Guthrie,C,Possession,3,39,43,97, 180
+2018-11-03 06:01:45 +0000,1,Guthrie,C,Assist - Circle Entry,3,39,43,97, 180
+2018-11-03 06:01:45 +0000,1,Harten ,GS,Possession,3,39,43,75, 186
+2018-11-03 06:01:52 +0000,1,Green,WA,Possession,3,39,43,17, 186
+2018-11-03 06:01:55 +0000,1,Green,WA,Assist - Circle Entry,3,39,43,17, 186
+2018-11-03 06:01:55 +0000,1,Harten ,GS,Possession,3,39,43,45, 197
+2018-11-03 06:02:00 +0000,0,Eddy,GD,Penaly - Contact,3,39,43,53, 194
+2018-11-03 06:02:00 +0000,1,Pettitt ,GA,Goal - Score,3,39,43,53, 194
+2018-11-03 06:02:14 +0000,0,Proud,C,Centre Pass,3,39,44,50, 100
+2018-11-03 06:02:14 +0000,0,Hadley,WA,Assist - Centre Pass Rec,3,39,44,72, 81
+2018-11-03 06:02:17 +0000,0,Eddy,GD,Assist - 2nd Phase,3,39,44,84, 70
+2018-11-03 06:02:19 +0000,0,Hadley,WA,Possession,3,39,44,87, 58
+2018-11-03 06:02:21 +0000,1,Price,WD,Penaly - Contact,3,39,44,87, 58
+2018-11-03 06:02:21 +0000,0,Hadley,WA,Possession,3,39,44,87, 58
+2018-11-03 06:02:25 +0000,0,Garbin,GS,Possession,3,39,44,80, 18
+2018-11-03 06:02:30 +0000,0,Proud,C,Possession,3,39,44,74, 28
+2018-11-03 06:02:46 +0000,0,Proud,C,Assist - Circle Entry,3,39,44,74, 28
+2018-11-03 06:02:46 +0000,0,Housby ,GA,Possession,3,39,44,36, 9
+2018-11-03 06:02:48 +0000,0,Proud,C,Possession,3,39,44,41, 36
+2018-11-03 06:02:51 +0000,1,Price,WD,Penaly - Contact,3,39,44,41, 36
+2018-11-03 06:02:51 +0000,0,Proud,C,Possession,3,39,44,41, 36
+2018-11-03 06:02:56 +0000,0,Proud,C,Assist - Circle Entry,3,39,44,41, 36
+2018-11-03 06:02:57 +0000,0,Housby ,GA,Goal - Score,3,39,44,42, 5
+2018-11-03 06:03:06 +0000,1,Guthrie,C,Centre Pass,3,40,44,50, 100
+2018-11-03 06:03:06 +0000,1,Green,WA,Assist - Centre Pass Rec,3,40,44,30, 119
+2018-11-03 06:03:09 +0000,1,Pettitt ,GA,Assist - 2nd Phase,3,40,44,91, 130
+2018-11-03 06:03:11 +0000,1,Guthrie,C,Possession,3,40,44,74, 147
+2018-11-03 06:03:13 +0000,1,Guthrie,C,Assist - Circle Entry,3,40,44,74, 147
+2018-11-03 06:03:13 +0000,1,Harten ,GS,Possession,3,40,44,55, 169
+2018-11-03 06:03:16 +0000,1,Green,WA,Possession,3,40,44,15, 195
+2018-11-03 06:03:20 +0000,1,Green,WA,Assist - Circle Entry,3,40,44,15, 195
+2018-11-03 06:03:20 +0000,1,Harten ,GS,Goal - Miss,3,40,44,30, 193
+2018-11-03 06:03:31 +0000,1,Pettitt ,GA,Loss - Out of Court,3,40,44,50, 197
+2018-11-03 06:03:37 +0000,0,Klau ,GK,Possession,3,40,44,50, 198
+2018-11-03 06:03:44 +0000,0,Eddy,GD,Possession,3,40,44,40, 176
+2018-11-03 06:03:45 +0000,0,Klau ,GK,Possession,3,40,44,69, 183
+2018-11-03 06:03:47 +0000,0,Eddy,GD,Possession,3,40,44,42, 149
+2018-11-03 06:03:56 +0000,1,Harten ,GS,Penaly - Contact,3,40,44,42, 149
+2018-11-03 06:03:56 +0000,0,Klau ,GK,Possession,3,40,44,42, 149
+2018-11-03 06:04:20 +0000,0,Eddy,GD,Possession,3,40,44,39, 121
+2018-11-03 06:04:22 +0000,0,Hadley,WA,Possession,3,40,44,52, 111
+2018-11-03 06:04:27 +0000,0,Proud,C,Possession,3,40,44,67, 102
+2018-11-03 06:04:32 +0000,0,Eddy,GD,Possession,3,40,44,13, 76
+2018-11-03 06:04:34 +0000,0,McCulloch,WD,Possession,3,40,44,30, 87
+2018-11-03 06:04:40 +0000,0,Housby ,GA,Possession,3,40,44,51, 65
+2018-11-03 06:04:44 +0000,0,Proud,C,Possession,3,40,44,74, 45
+2018-11-03 06:04:47 +0000,0,Proud,C,Assist - Circle Entry,3,40,44,74, 45
+2018-11-03 06:04:47 +0000,0,Garbin,GS,Possession,3,40,44,73, 10
+2018-11-03 06:04:49 +0000,0,Proud,C,Possession,3,40,44,82, 15
+2018-11-03 06:04:51 +0000,0,Proud,C,Assist - Circle Entry,3,40,44,82, 15
+2018-11-03 06:04:51 +0000,0,Garbin,GS,Goal - Score,3,40,44,47, 7
+2018-11-03 06:05:01 +0000,0,Proud,C,Centre Pass,3,41,44,50, 100
+2018-11-03 06:05:01 +0000,0,Housby ,GA,Assist - Centre Pass Rec,3,41,44,94, 76
+2018-11-03 06:05:03 +0000,0,Hadley,WA,Assist - 2nd Phase,3,41,44,89, 54
+2018-11-03 06:05:05 +0000,0,Hadley,WA,Assist - Circle Entry,3,41,44,89, 54
+2018-11-03 06:05:05 +0000,0,Housby ,GA,Possession,3,41,44,75, 7
+2018-11-03 06:05:12 +0000,1,Guthrie,C,Loss - Offside,3,41,44,77, 21
+2018-11-03 06:05:20 +0000,0,Housby ,GA,Possession,3,41,44,75, 21
+2018-11-03 06:05:26 +0000,0,Hadley,WA,Possession,3,41,44,61, 34
+2018-11-03 06:05:27 +0000,1,Price,WD,Penaly - Contact,3,41,44,61, 34
+2018-11-03 06:05:27 +0000,0,Hadley,WA,Possession,3,41,44,61, 34
+2018-11-03 06:05:31 +0000,0,Hadley,WA,Assist - Circle Entry,3,41,44,61, 34
+2018-11-03 06:05:31 +0000,0,Garbin,GS,Possession,3,41,44,47, 7
+2018-11-03 06:05:32 +0000,1,Bulley ,GD,Penaly - Contact,3,41,44,47, 7
+2018-11-03 06:05:32 +0000,0,Garbin,GS,Goal - Score,3,41,44,47, 7
+2018-11-03 06:05:39 +0000,1,Guthrie,C,Centre Pass,3,42,44,50, 100
+2018-11-03 06:05:39 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,3,42,44,94, 124
+2018-11-03 06:05:42 +0000,1,Guthrie,C,Assist - 2nd Phase,3,42,44,94, 144
+2018-11-03 06:05:44 +0000,1,Pettitt ,GA,Possession,3,42,44,70, 145
+2018-11-03 06:05:47 +0000,1,Green,WA,Possession,3,42,44,55, 137
+2018-11-03 06:05:50 +0000,1,Guthrie,C,Possession,3,42,44,31, 165
+2018-11-03 06:05:52 +0000,1,Guthrie,C,Assist - Circle Entry,3,42,44,31, 165
+2018-11-03 06:05:53 +0000,1,Harten ,GS,Possession,3,42,44,32, 185
+2018-11-03 06:05:55 +0000,1,Guthrie,C,Possession,3,42,44,28, 167
+2018-11-03 06:05:58 +0000,1,Guthrie,C,Assist - Circle Entry,3,42,44,28, 167
+2018-11-03 06:05:58 +0000,1,Harten ,GS,Possession,3,42,44,43, 196
+2018-11-03 06:06:03 +0000,1,Guthrie,C,Possession,3,42,44,25, 171
+2018-11-03 06:07:08 +0000,1,Guthrie,C,Assist - Circle Entry,3,42,44,25, 171
+2018-11-03 06:07:09 +0000,0,Eddy,GD,Gain - Inter,3,42,44,38, 195
+2018-11-03 06:07:23 +0000,1,Harten ,GS,Penaly - Contact,3,42,44,38, 195
+2018-11-03 06:07:23 +0000,0,Klau ,GK,Possession,3,42,44,38, 195
+2018-11-03 06:08:19 +0000,0,,UNKNOWN,Possession,3,42,44,27, 149
+2018-11-03 06:08:20 +0000,0,McCulloch,WD,Possession,3,42,44,16, 81
+2018-11-03 06:08:59 +0000,1,Green,WA,Penaly - Other,3,42,44,50, 42
+2018-11-03 06:08:59 +0000,0,Hadley,WA,Possession,3,42,44,50, 42
+2018-11-03 06:10:01 +0000,0,Hadley,WA,Assist - Circle Entry,3,42,44,50, 42
+2018-11-03 06:10:01 +0000,0,Housby ,GA,Possession,3,42,44,49, 23
+2018-11-03 06:10:02 +0000,1,Bulley ,GD,Penaly - Contact,3,42,44,49, 23
+2018-11-03 06:10:02 +0000,0,Housby ,GA,Goal - Miss,3,42,44,49, 23
+2018-11-03 06:10:12 +0000,0,Garbin,GS,Assist - Attack Rebound,3,42,44,50, 2
+2018-11-03 06:10:50 +0000,0,Proud,C,Centre Pass,4,42,44,50, 100
+2018-11-03 06:10:50 +0000,0,Housby ,GA,Assist - Centre Pass Rec,4,42,44,8, 77
+2018-11-03 06:10:55 +0000,0,Eddy,GD,Assist - 2nd Phase,4,42,44,7, 98
+2018-11-03 06:10:57 +0000,0,Hadley,WA,Possession,4,42,44,37, 93
+2018-11-03 06:11:03 +0000,0,McCulloch,WD,Possession,4,42,44,83, 86
+2018-11-03 06:11:06 +0000,0,Proud,C,Possession,4,42,44,56, 76
+2018-11-03 06:11:14 +0000,0,Housby ,GA,Possession,4,42,44,81, 50
+2018-11-03 06:11:18 +0000,0,McCulloch,WD,Possession,4,42,44,80, 69
+2018-11-03 06:11:20 +0000,0,Hadley,WA,Possession,4,42,44,81, 55
+2018-11-03 06:11:22 +0000,0,Garbin,GS,Possession,4,42,44,61, 42
+2018-11-03 06:11:24 +0000,0,Proud,C,Possession,4,42,44,27, 27
+2018-11-03 06:11:39 +0000,1,Price,WD,Penaly - Contact,4,42,44,34, 30
+2018-11-03 06:11:39 +0000,0,Proud,C,Possession,4,42,44,34, 30
+2018-11-03 06:11:46 +0000,0,Proud,C,Assist - Circle Entry,4,42,44,34, 30
+2018-11-03 06:11:47 +0000,0,Garbin,GS,Possession,4,42,44,47, 20
+2018-11-03 06:11:50 +0000,0,Housby ,GA,Possession,4,42,44,38, 7
+2018-11-03 06:11:53 +0000,0,Hadley,WA,Possession,4,42,44,70, 25
+2018-11-03 06:11:56 +0000,0,Hadley,WA,Assist - Circle Entry,4,42,44,70, 25
+2018-11-03 06:11:56 +0000,0,Housby ,GA,Goal - Score,4,42,44,45, 13
+2018-11-03 06:12:05 +0000,1,Guthrie,C,Centre Pass,4,43,44,50, 100
+2018-11-03 06:12:05 +0000,1,Green,WA,Assist - Centre Pass Rec,4,43,44,17, 125
+2018-11-03 06:12:08 +0000,1,Guthrie,C,Assist - 2nd Phase,4,43,44,20, 167
+2018-11-03 06:12:11 +0000,1,Bulley ,GD,Possession,4,43,44,17, 127
+2018-11-03 06:12:26 +0000,0,Eddy,GD,Loss - Out of Court,4,43,44,2, 160
+2018-11-03 06:12:45 +0000,1,Guthrie,C,Throw In,4,43,44,1, 159
+2018-11-03 06:12:53 +0000,1,Pettitt ,GA,Possession,4,43,44,5, 137
+2018-11-03 06:12:55 +0000,1,Guthrie,C,Possession,4,43,44,16, 186
+2018-11-03 06:12:57 +0000,1,Guthrie,C,Assist - Circle Entry,4,43,44,16, 186
+2018-11-03 06:12:57 +0000,1,Harten ,GS,Possession,4,43,44,31, 187
+2018-11-03 06:13:00 +0000,0,Hadley,WA,Loss - Offside,4,43,44,79, 181
+2018-11-03 06:13:09 +0000,1,Pettitt ,GA,Possession,4,43,44,78, 181
+2018-11-03 06:13:16 +0000,1,Guthrie,C,Possession,4,43,44,55, 164
+2018-11-03 06:13:19 +0000,1,Guthrie,C,Assist - Circle Entry,4,43,44,55, 164
+2018-11-03 06:13:19 +0000,1,Harten ,GS,Goal - Score,4,43,44,63, 187
+2018-11-03 06:13:27 +0000,0,Proud,C,Centre Pass,4,43,45,50, 100
+2018-11-03 06:13:27 +0000,0,Hadley,WA,Assist - Centre Pass Rec,4,43,45,9, 73
+2018-11-03 06:13:30 +0000,0,Proud,C,Assist - 2nd Phase,4,43,45,29, 82
+2018-11-03 06:13:43 +0000,0,Eddy,GD,Possession,4,43,45,84, 67
+2018-11-03 06:13:46 +0000,0,Hadley,WA,Possession,4,43,45,85, 48
+2018-11-03 06:13:48 +0000,0,Proud,C,Possession,4,43,45,67, 54
+2018-11-03 06:13:50 +0000,0,Housby ,GA,Possession,4,43,45,50, 42
+2018-11-03 06:13:54 +0000,1,Guthrie,C,Penaly - Contact,4,43,45,62, 30
+2018-11-03 06:13:54 +0000,0,Proud,C,Possession,4,43,45,62, 30
+2018-11-03 06:14:05 +0000,0,Proud,C,Assist - Circle Entry,4,43,45,62, 30
+2018-11-03 06:14:05 +0000,0,Housby ,GA,Goal - Score,4,43,45,55, 16
+2018-11-03 06:14:14 +0000,1,Guthrie,C,Centre Pass,4,44,45,50, 100
+2018-11-03 06:14:14 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,4,44,45,17, 125
+2018-11-03 06:14:24 +0000,1,Guthrie,C,Assist - 2nd Phase,4,44,45,21, 170
+2018-11-03 06:14:27 +0000,1,Guthrie,C,Assist - Circle Entry,4,44,45,21, 170
+2018-11-03 06:14:27 +0000,1,Harten ,GS,Possession,4,44,45,30, 188
+2018-11-03 06:14:29 +0000,1,Guthrie,C,Possession,4,44,45,19, 180
+2018-11-03 06:14:32 +0000,1,Guthrie,C,Assist - Circle Entry,4,44,45,19, 180
+2018-11-03 06:14:32 +0000,1,Harten ,GS,Possession,4,44,45,38, 192
+2018-11-03 06:14:37 +0000,1,Green,WA,Possession,4,44,45,78, 179
+2018-11-03 06:14:40 +0000,1,Harten ,GS,Possession,4,44,45,50, 165
+2018-11-03 06:14:43 +0000,1,Green,WA,Possession,4,44,45,82, 184
+2018-11-03 06:14:46 +0000,1,Green,WA,Assist - Circle Entry,4,44,45,82, 184
+2018-11-03 06:14:46 +0000,1,Harten ,GS,Possession,4,44,45,70, 188
+2018-11-03 06:14:51 +0000,1,Pettitt ,GA,Possession,4,44,45,51, 171
+2018-11-03 06:14:57 +0000,1,Guthrie,C,Possession,4,44,45,26, 172
+2018-11-03 06:14:59 +0000,0,Proud,C,Penaly - Contact,4,44,45,26, 172
+2018-11-03 06:14:59 +0000,1,Guthrie,C,Possession,4,44,45,26, 172
+2018-11-03 06:15:11 +0000,1,Guthrie,C,Assist - Circle Entry,4,44,45,26, 172
+2018-11-03 06:15:11 +0000,1,Harten ,GS,Goal - Score,4,44,45,38, 181
+2018-11-03 06:15:20 +0000,0,Proud,C,Centre Pass,4,44,46,50, 100
+2018-11-03 06:15:20 +0000,0,Hadley,WA,Assist - Centre Pass Rec,4,44,46,80, 69
+2018-11-03 06:15:22 +0000,0,McCulloch,WD,Assist - 2nd Phase,4,44,46,71, 68
+2018-11-03 06:15:25 +0000,1,Green,WA,Penaly - Contact,4,44,46,71, 68
+2018-11-03 06:15:25 +0000,0,McCulloch,WD,Possession,4,44,46,71, 68
+2018-11-03 06:15:31 +0000,0,Proud,C,Loss - Held Ball,4,44,46,66, 56
+2018-11-03 06:15:48 +0000,1,Poolman ,GK,Possession,4,44,46,68, 56
+2018-11-03 06:15:51 +0000,1,Bulley ,GD,Possession,4,44,46,81, 70
+2018-11-03 06:15:58 +0000,0,Proud,C,Gain - Inter,4,44,46,81, 129
+2018-11-03 06:16:19 +0000,1,Price,WD,Penaly - Contact,4,44,46,81, 129
+2018-11-03 06:16:19 +0000,0,Eddy,GD,Possession,4,44,46,81, 129
+2018-11-03 06:16:40 +0000,0,Hadley,WA,Possession,4,44,46,90, 74
+2018-11-03 06:16:42 +0000,0,Garbin,GS,Possession,4,44,46,82, 27
+2018-11-03 06:16:45 +0000,0,Hadley,WA,Possession,4,44,46,86, 39
+2018-11-03 06:16:48 +0000,0,Housby ,GA,Possession,4,44,46,47, 44
+2018-11-03 06:16:51 +0000,0,Housby ,GA,Assist - Circle Entry,4,44,46,47, 44
+2018-11-03 06:16:51 +0000,0,Garbin,GS,Goal - Score,4,44,46,48, 10
+2018-11-03 06:17:04 +0000,1,Guthrie,C,Centre Pass,4,45,46,50, 100
+2018-11-03 06:17:04 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,4,45,46,65, 117
+2018-11-03 06:17:05 +0000,1,Green,WA,Assist - 2nd Phase,4,45,46,43, 123
+2018-11-03 06:17:08 +0000,1,Pettitt ,GA,Possession,4,45,46,77, 150
+2018-11-03 06:17:10 +0000,1,Green,WA,Possession,4,45,46,63, 162
+2018-11-03 06:17:11 +0000,1,Green,WA,Assist - Circle Entry,4,45,46,63, 162
+2018-11-03 06:17:12 +0000,1,Harten ,GS,Possession,4,45,46,48, 176
+2018-11-03 06:17:17 +0000,0,Eddy,GD,Penaly - Contact,4,45,46,58, 187
+2018-11-03 06:17:17 +0000,1,Pettitt ,GA,Goal - Score,4,45,46,58, 187
+2018-11-03 06:17:34 +0000,0,Proud,C,Centre Pass,4,45,47,50, 100
+2018-11-03 06:17:34 +0000,0,Housby ,GA,Assist - Centre Pass Rec,4,45,47,65, 78
+2018-11-03 06:17:36 +0000,0,Hadley,WA,Assist - 2nd Phase,4,45,47,44, 70
+2018-11-03 06:17:38 +0000,0,Garbin,GS,Loss - Bad Pass,4,45,47,15, 27
+2018-11-03 06:17:42 +0000,1,Poolman ,GK,Throw In,4,45,47,107, 19
+2018-11-03 06:17:49 +0000,1,Price,WD,Possession,4,45,47,76, 34
+2018-11-03 06:17:52 +0000,0,Housby ,GA,Penaly - Contact,4,45,47,76, 34
+2018-11-03 06:17:52 +0000,1,Poolman ,GK,Possession,4,45,47,76, 34
+2018-11-03 06:18:02 +0000,1,Price,WD,Possession,4,45,47,21, 55
+2018-11-03 06:18:04 +0000,1,Guthrie,C,Possession,4,45,47,4, 113
+2018-11-03 06:18:10 +0000,0,Hadley,WA,Penaly - Contact,4,45,47,4, 113
+2018-11-03 06:18:10 +0000,1,Bulley ,GD,Possession,4,45,47,4, 113
+2018-11-03 06:18:18 +0000,1,Pettitt ,GA,Possession,4,45,47,33, 128
+2018-11-03 06:18:28 +0000,0,Housby ,GA,Gain - Inter,4,45,47,79, 128
+2018-11-03 06:18:35 +0000,0,McCulloch,WD,Possession,4,45,47,70, 109
+2018-11-03 06:19:06 +0000,0,Eddy,GD,Possession,4,45,47,37, 89
+2018-11-03 06:19:08 +0000,0,McCulloch,WD,Possession,4,45,47,62, 104
+2018-11-03 06:19:12 +0000,0,Hadley,WA,Possession,4,45,47,53, 82
+2018-11-03 06:19:20 +0000,0,McCulloch,WD,Possession,4,45,47,39, 99
+2018-11-03 06:19:22 +0000,0,Housby ,GA,Possession,4,45,47,32, 76
+2018-11-03 06:19:29 +0000,0,Proud,C,Possession,4,45,47,11, 31
+2018-11-03 06:19:31 +0000,0,Hadley,WA,Possession,4,45,47,47, 53
+2018-11-03 06:19:34 +0000,0,Housby ,GA,Possession,4,45,47,18, 22
+2018-11-03 06:19:38 +0000,0,Housby ,GA,Assist - Circle Entry,4,45,47,18, 22
+2018-11-03 06:19:38 +0000,0,Garbin,GS,Goal - Score,4,45,47,56, 9
+2018-11-03 06:19:48 +0000,1,Guthrie,C,Centre Pass,4,46,47,50, 100
+2018-11-03 06:19:48 +0000,1,,UNKNOWN,Assist - Centre Pass Rec,4,46,47,32, 114
+2018-11-03 06:19:49 +0000,1,,UNKNOWN,Assist - 2nd Phase,4,46,47,41, 124
+2018-11-03 06:19:50 +0000,1,Green,WA,Possession,4,46,47,12, 136
+2018-11-03 06:19:52 +0000,1,Green,WA,Possession,4,46,47,51, 139
+2018-11-03 06:19:54 +0000,1,Harten ,GS,Possession,4,46,47,43, 156
+2018-11-03 06:19:56 +0000,1,Guthrie,C,Possession,4,46,47,15, 191
+2018-11-03 06:20:08 +0000,0,McCulloch,WD,Penaly - Contact,4,46,47,82, 186
+2018-11-03 06:20:08 +0000,1,Green,WA,Possession,4,46,47,82, 186
+2018-11-03 06:20:16 +0000,1,Green,WA,Assist - Circle Entry,4,46,47,82, 186
+2018-11-03 06:20:16 +0000,1,Pettitt ,GA,Loss - Held Ball,4,46,47,64, 185
+2018-11-03 06:20:25 +0000,0,Klau ,GK,Possession,4,46,47,62, 187
+2018-11-03 06:20:30 +0000,0,McCulloch,WD,Possession,4,46,47,19, 154
+2018-11-03 06:20:33 +0000,0,Eddy,GD,Possession,4,46,47,67, 144
+2018-11-03 06:20:36 +0000,0,McCulloch,WD,Possession,4,46,47,85, 137
+2018-11-03 06:20:40 +0000,0,Eddy,GD,Possession,4,46,47,69, 121
+2018-11-03 06:20:42 +0000,0,Hadley,WA,Possession,4,46,47,47, 126
+2018-11-03 06:20:44 +0000,0,Eddy,GD,Possession,4,46,47,87, 86
+2018-11-03 06:20:56 +0000,0,Garbin,GS,Possession,4,46,47,79, 47
+2018-11-03 06:20:58 +0000,0,Proud,C,Possession,4,46,47,76, 28
+2018-11-03 06:21:03 +0000,0,Garbin,GS,Possession,4,46,47,89, 6
+2018-11-03 06:21:06 +0000,0,Proud,C,Possession,4,46,47,88, 51
+2018-11-03 06:21:07 +0000,0,Hadley,WA,Possession,4,46,47,83, 54
+2018-11-03 06:21:10 +0000,0,Housby ,GA,Possession,4,46,47,23, 36
+2018-11-03 06:21:13 +0000,0,Hadley,WA,Possession,4,46,47,39, 32
+2018-11-03 06:21:18 +0000,1,Poolman ,GK,Penaly - Contact,4,46,47,32, 10
+2018-11-03 06:21:18 +0000,0,Housby ,GA,Goal - Score,4,46,47,32, 10
+2018-11-03 06:21:40 +0000,0,Proud,C,Centre Pass,4,47,47,50, 100
+2018-11-03 06:21:40 +0000,0,Hadley,WA,Assist - Centre Pass Rec,4,47,47,72, 79
+2018-11-03 06:21:42 +0000,0,Housby ,GA,Assist - 2nd Phase,4,47,47,41, 76
+2018-11-03 06:21:44 +0000,0,Hadley,WA,Possession,4,47,47,52, 80
+2018-11-03 06:21:46 +0000,0,Proud,C,Possession,4,47,47,62, 58
+2018-11-03 06:21:50 +0000,0,Garbin,GS,Possession,4,47,47,49, 40
+2018-11-03 06:21:52 +0000,0,Hadley,WA,Possession,4,47,47,16, 6
+2018-11-03 06:21:56 +0000,0,Hadley,WA,Assist - Circle Entry,4,47,47,16, 6
+2018-11-03 06:21:56 +0000,0,Garbin,GS,Possession,4,47,47,30, 6
+2018-11-03 06:21:59 +0000,0,Proud,C,Possession,4,47,47,48, 35
+2018-11-03 06:22:03 +0000,0,Proud,C,Assist - Circle Entry,4,47,47,48, 35
+2018-11-03 06:22:03 +0000,0,Housby ,GA,Possession,4,47,47,59, 16
+2018-11-03 06:22:07 +0000,0,Proud,C,Possession,4,47,47,51, 34
+2018-11-03 06:22:11 +0000,0,Proud,C,Assist - Circle Entry,4,47,47,51, 34
+2018-11-03 06:22:11 +0000,0,Housby ,GA,Goal - Miss,4,47,47,53, 11
+2018-11-03 06:22:21 +0000,0,Garbin,GS,Assist - Attack Rebound,4,47,47,50, 2
+2018-11-03 06:22:23 +0000,0,Housby ,GA,Possession,4,47,47,59, 4
+2018-11-03 06:22:26 +0000,0,Proud,C,Possession,4,47,47,79, 17
+2018-11-03 06:22:29 +0000,0,Proud,C,Assist - Circle Entry,4,47,47,79, 17
+2018-11-03 06:22:29 +0000,0,Housby ,GA,Possession,4,47,47,63, 12
+2018-11-03 06:22:31 +0000,1,Bulley ,GD,Penaly - Obstruction,4,47,47,63, 12
+2018-11-03 06:22:31 +0000,0,Housby ,GA,Goal - Score,4,47,47,63, 12
+2018-11-03 06:22:42 +0000,1,Guthrie,C,Centre Pass,4,48,47,50, 100
+2018-11-03 06:22:43 +0000,1,Price,WD,Assist - Centre Pass Rec,4,48,47,36, 114
+2018-11-03 06:22:47 +0000,1,Pettitt ,GA,Assist - 2nd Phase,4,48,47,8, 107
+2018-11-03 06:22:49 +0000,1,Bulley ,GD,Possession,4,48,47,37, 85
+2018-11-03 06:22:53 +0000,1,Price,WD,Possession,4,48,47,11, 128
+2018-11-03 06:22:56 +0000,1,Pettitt ,GA,Possession,4,48,47,12, 148
+2018-11-03 06:22:58 +0000,1,Green,WA,Possession,4,48,47,24, 139
+2018-11-03 06:23:00 +0000,1,Harten ,GS,Possession,4,48,47,16, 177
+2018-11-03 06:23:03 +0000,1,Harten ,GS,Assist - Circle Entry,4,48,47,16, 177
+2018-11-03 06:23:03 +0000,1,Pettitt ,GA,Possession,4,48,47,34, 193
+2018-11-03 06:23:06 +0000,0,Eddy,GD,Penaly - Contact,4,48,47,34, 193
+2018-11-03 06:23:06 +0000,1,Pettitt ,GA,Goal - Score,4,48,47,34, 193
+2018-11-03 06:23:15 +0000,0,Proud,C,Centre Pass,4,48,48,50, 100
+2018-11-03 06:23:15 +0000,0,McCulloch,WD,Assist - Centre Pass Rec,4,48,48,74, 79
+2018-11-03 06:23:17 +0000,0,Hadley,WA,Assist - 2nd Phase,4,48,48,84, 70
+2018-11-03 06:23:19 +0000,0,McCulloch,WD,Possession,4,48,48,77, 81
+2018-11-03 06:23:20 +0000,0,Eddy,GD,Possession,4,48,48,58, 72
+2018-11-03 06:23:22 +0000,1,Pettitt ,GA,Penaly - Contact,4,48,48,58, 72
+2018-11-03 06:23:22 +0000,0,Eddy,GD,Possession,4,48,48,58, 72
+2018-11-03 06:23:26 +0000,0,Hadley,WA,Possession,4,48,48,69, 51
+2018-11-03 06:23:28 +0000,0,Housby ,GA,Possession,4,48,48,10, 34
+2018-11-03 06:23:30 +0000,0,Proud,C,Possession,4,48,48,10, 70
+2018-11-03 06:23:33 +0000,0,Garbin,GS,Possession,4,48,48,47, 39
+2018-11-03 06:23:35 +0000,0,Proud,C,Possession,4,48,48,38, 50
+2018-11-03 06:23:37 +0000,0,Eddy,GD,Possession,4,48,48,37, 67
+2018-11-03 06:23:42 +0000,0,Eddy,GD,Assist - Circle Entry,4,48,48,37, 67
+2018-11-03 06:23:42 +0000,0,Garbin,GS,Goal - Score,4,48,48,41, 14
+2018-11-03 06:23:54 +0000,1,Guthrie,C,Centre Pass,4,49,48,50, 100
+2018-11-03 06:23:54 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,4,49,48,24, 111
+2018-11-03 06:23:58 +0000,0,Eddy,GD,Penaly - Contact,4,49,48,27, 145
+2018-11-03 06:23:58 +0000,1,Green,WA,Assist - 2nd Phase,4,49,48,27, 145
+2018-11-03 06:24:06 +0000,1,Pettitt ,GA,Possession,4,49,48,5, 189
+2018-11-03 06:24:09 +0000,1,Pettitt ,GA,Assist - Circle Entry,4,49,48,5, 189
+2018-11-03 06:24:09 +0000,1,Harten ,GS,Possession,4,49,48,24, 191
+2018-11-03 06:24:12 +0000,0,Klau ,GK,Penaly - Contact,4,49,48,24, 191
+2018-11-03 06:24:12 +0000,1,Harten ,GS,Goal - Score,4,49,48,24, 191
+2018-11-03 06:24:24 +0000,0,Proud,C,Centre Pass,4,49,49,50, 100
+2018-11-03 06:24:25 +0000,0,Housby ,GA,Assist - Centre Pass Rec,4,49,49,81, 75
+2018-11-03 06:25:09 +0000,1,Guthrie,C,Gain - Inter,4,49,49,61, 68
+2018-11-03 06:26:02 +0000,1,Poolman ,GK,Possession,4,49,49,10, 62
+2018-11-03 06:26:08 +0000,1,Price,WD,Possession,4,49,49,11, 95
+2018-11-03 06:26:10 +0000,1,Bulley ,GD,Possession,4,49,49,56, 79
+2018-11-03 06:26:15 +0000,1,Guthrie,C,Possession,4,49,49,79, 89
+2018-11-03 06:26:17 +0000,1,Bulley ,GD,Possession,4,49,49,44, 78
+2018-11-03 06:26:19 +0000,1,Pettitt ,GA,Possession,4,49,49,77, 106
+2018-11-03 06:26:21 +0000,1,Price,WD,Possession,4,49,49,8, 124
+2018-11-03 06:26:25 +0000,0,Proud,C,Deflect,4,49,49,4, 161
+2018-11-03 06:26:25 +0000,1,Green,WA,Throw In,4,49,49,-5, 176
+2018-11-03 06:26:34 +0000,1,Pettitt ,GA,Possession,4,49,49,22, 150
+2018-11-03 06:26:38 +0000,1,Guthrie,C,Loss - Offside,4,49,49,78, 178
+2018-11-03 06:26:44 +0000,0,Klau ,GK,Possession,4,49,49,80, 179
+2018-11-03 06:27:49 +0000,0,Eddy,GD,Possession,4,49,49,31, 158
+2018-11-03 06:27:52 +0000,0,Klau ,GK,Possession,4,49,49,38, 170
+2018-11-03 06:27:53 +0000,0,McCulloch,WD,Possession,4,49,49,35, 151
+2018-11-03 06:27:56 +0000,0,Eddy,GD,Possession,4,49,49,88, 135
+2018-11-03 06:27:57 +0000,0,Proud,C,Possession,4,49,49,73, 127
+2018-11-03 06:27:59 +0000,0,Klau ,GK,Possession,4,49,49,15, 135
+2018-11-03 06:28:02 +0000,0,McCulloch,WD,Possession,4,49,49,12, 77
+2018-11-03 06:28:07 +0000,0,Eddy,GD,Possession,4,49,49,33, 78
+2018-11-03 06:28:11 +0000,0,Hadley,WA,Possession,4,49,49,17, 33
+2018-11-03 06:28:17 +0000,0,Hadley,WA,Assist - Circle Entry,4,49,49,17, 33
+2018-11-03 06:28:17 +0000,0,Garbin,GS,Possession,4,49,49,58, 4
+2018-11-03 06:28:22 +0000,1,Bulley ,GD,Penaly - Obstruction,4,49,49,58, 4
+2018-11-03 06:28:22 +0000,0,Garbin,GS,Goal - Score,4,49,49,58, 4
+2018-11-03 06:28:38 +0000,1,Guthrie,C,Centre Pass,4,50,49,50, 100
+2018-11-03 06:28:38 +0000,1,Green,WA,Assist - Centre Pass Rec,4,50,49,79, 116
+2018-11-03 06:28:40 +0000,1,Price,WD,Assist - 2nd Phase,4,50,49,50, 114
+2018-11-03 06:28:42 +0000,1,Guthrie,C,Possession,4,50,49,81, 135
+2018-11-03 06:28:45 +0000,1,Pettitt ,GA,Possession,4,50,49,80, 160
+2018-11-03 06:28:47 +0000,0,Eddy,GD,Penaly - Obstruction,4,50,49,80, 160
+2018-11-03 06:28:47 +0000,1,Guthrie,C,Possession,4,50,49,80, 160
+2018-11-03 06:28:55 +0000,1,Guthrie,C,Assist - Circle Entry,4,50,49,80, 160
+2018-11-03 06:28:55 +0000,1,Harten ,GS,Possession,4,50,49,51, 170
+2018-11-03 06:28:58 +0000,1,Guthrie,C,Possession,4,50,49,64, 167
+2018-11-03 06:29:02 +0000,1,Guthrie,C,Assist - Circle Entry,4,50,49,64, 167
+2018-11-03 06:29:02 +0000,1,Harten ,GS,Goal - Score,4,50,49,48, 172
+2018-11-03 06:29:15 +0000,0,Proud,C,Centre Pass,4,50,50,50, 100
+2018-11-03 06:29:15 +0000,0,Housby ,GA,Assist - Centre Pass Rec,4,50,50,31, 75
+2018-11-03 06:29:17 +0000,0,Garbin,GS,Assist - 2nd Phase,4,50,50,7, 20
+2018-11-03 06:29:19 +0000,0,Proud,C,Possession,4,50,50,26, 25
+2018-11-03 06:29:21 +0000,0,Proud,C,Assist - Circle Entry,4,50,50,26, 25
+2018-11-03 06:29:21 +0000,0,Housby ,GA,Possession,4,50,50,34, 20
+2018-11-03 06:29:24 +0000,0,Proud,C,Possession,4,50,50,26, 26
+2018-11-03 06:29:28 +0000,0,Proud,C,Assist - Circle Entry,4,50,50,26, 26
+2018-11-03 06:29:28 +0000,0,Garbin,GS,Possession,4,50,50,49, 15
+2018-11-03 06:29:34 +0000,1,Bulley ,GD,Penaly - Contact,4,50,50,31, 21
+2018-11-03 06:29:34 +0000,0,Housby ,GA,Goal - Score,4,50,50,31, 21
+2018-11-03 06:29:48 +0000,1,Guthrie,C,Centre Pass,4,51,50,50, 100
+2018-11-03 06:29:48 +0000,1,Green,WA,Assist - Centre Pass Rec,4,51,50,11, 115
+2018-11-03 06:29:50 +0000,1,Bulley ,GD,Assist - 2nd Phase,4,51,50,27, 95
+2018-11-03 06:29:53 +0000,1,Green,WA,Possession,4,51,50,13, 110
+2018-11-03 06:29:55 +0000,1,Poolman ,GK,Possession,4,51,50,18, 64
+2018-11-03 06:30:00 +0000,1,Price,WD,Possession,4,51,50,18, 108
+2018-11-03 06:30:06 +0000,1,Bulley ,GD,Possession,4,51,50,88, 115
+2018-11-03 06:30:11 +0000,0,McCulloch,WD,Penaly - Contact,4,51,50,72, 150
+2018-11-03 06:30:11 +0000,1,Guthrie,C,Possession,4,51,50,72, 150
+2018-11-03 06:30:15 +0000,1,Pettitt ,GA,Possession,4,51,50,69, 166
+2018-11-03 06:30:20 +0000,0,Proud,C,Penaly - Contact,4,51,50,51, 162
+2018-11-03 06:30:20 +0000,1,Green,WA,Possession,4,51,50,51, 162
+2018-11-03 06:30:26 +0000,1,Green,WA,Assist - Circle Entry,4,51,50,51, 162
+2018-11-03 06:30:26 +0000,1,Pettitt ,GA,Possession,4,51,50,24, 180
+2018-11-03 06:30:28 +0000,1,Green,WA,Possession,4,51,50,28, 171
+2018-11-03 06:30:33 +0000,0,Eddy,GD,Penaly - Contact,4,51,50,32, 182
+2018-11-03 06:30:33 +0000,1,Pettitt ,GA,Possession,4,51,50,32, 182
+2018-11-03 06:30:44 +0000,0,Klau ,GK,Penaly - Obstruction,4,51,50,32, 182
+2018-11-03 06:30:45 +0000,1,Pettitt ,GA,Goal - Score,4,51,50,32, 182
+2018-11-03 06:30:51 +0000,1,,UNKNOWN,Timeout,4,51,51,110, 222
+2018-11-03 06:31:45 +0000,0,Proud,C,Centre Pass,4,51,51,50, 100
+2018-11-03 06:31:46 +0000,0,Housby ,GA,Assist - Centre Pass Rec,4,51,51,67, 80
+2018-11-03 06:31:49 +0000,0,Hadley,WA,Assist - 2nd Phase,4,51,51,25, 33
+2018-11-03 06:31:52 +0000,0,Garbin,GS,Possession,4,51,51,16, 8
+2018-11-03 06:31:57 +0000,0,Proud,C,Possession,4,51,51,43, 33
+2018-11-03 06:32:01 +0000,0,Proud,C,Assist - Circle Entry,4,51,51,43, 33
+2018-11-03 06:32:01 +0000,0,Garbin,GS,Possession,4,51,51,45, 19
+2018-11-03 06:32:03 +0000,0,Proud,C,Possession,4,51,51,45, 34
+2018-11-03 06:32:20 +0000,1,Guthrie,C,Penaly - Contact,4,51,51,45, 34
+2018-11-03 06:32:20 +0000,0,Proud,C,Possession,4,51,51,45, 34
+2018-11-03 06:32:29 +0000,0,Proud,C,Assist - Circle Entry,4,51,51,45, 34
+2018-11-03 06:32:29 +0000,0,Housby ,GA,Possession,4,51,51,45, 22
+2018-11-03 06:32:31 +0000,0,Proud,C,Possession,4,51,51,44, 33
+2018-11-03 06:32:35 +0000,0,Proud,C,Assist - Circle Entry,4,51,51,44, 33
+2018-11-03 06:32:35 +0000,0,Housby ,GA,Possession,4,51,51,44, 17
+2018-11-03 06:32:37 +0000,1,Bulley ,GD,Penaly - Contact,4,51,51,44, 17
+2018-11-03 06:32:37 +0000,0,Housby ,GA,Possession,4,51,51,44, 17
+2018-11-03 06:32:43 +0000,0,Garbin,GS,Goal - Score,4,51,51,35, 7
+2018-11-03 06:32:53 +0000,1,Guthrie,C,Centre Pass,4,52,51,50, 100
+2018-11-03 06:32:53 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,4,52,51,76, 115
+2018-11-03 06:32:55 +0000,1,Green,WA,Assist - 2nd Phase,4,52,51,81, 165
+2018-11-03 06:32:57 +0000,1,Harten ,GS,Possession,4,52,51,60, 158
+2018-11-03 06:32:59 +0000,1,Bulley ,GD,Possession,4,52,51,78, 128
+2018-11-03 06:33:01 +0000,1,Green,WA,Possession,4,52,51,84, 145
+2018-11-03 06:33:06 +0000,1,Green,WA,Assist - Circle Entry,4,52,51,84, 145
+2018-11-03 06:33:06 +0000,1,Harten ,GS,Possession,4,52,51,59, 172
+2018-11-03 06:33:09 +0000,1,Guthrie,C,Possession,4,52,51,62, 165
+2018-11-03 06:33:11 +0000,1,Guthrie,C,Assist - Circle Entry,4,52,51,62, 165
+2018-11-03 06:33:11 +0000,1,Harten ,GS,Goal - Score,4,52,51,53, 179
+2018-11-03 06:33:38 +0000,0,Proud,C,Centre Pass,4,52,52,50, 100
+2018-11-03 06:33:38 +0000,1,Harten ,GS,Penaly - Contact on CP,4,52,52,64, 135
+2018-11-03 06:33:38 +0000,0,,UNKNOWN,Possession,4,52,52,64, 135
+2018-11-03 06:34:22 +0000,1,Harten ,GS,Penaly - Contact,4,52,52,15, 85
+2018-11-03 06:34:22 +0000,0,Hadley,WA,Assist - 2nd Phase,4,52,52,15, 85
+2018-11-03 06:34:34 +0000,0,Eddy,GD,Possession,4,52,52,51, 97
+2018-11-03 06:34:36 +0000,0,Housby ,GA,Possession,4,52,52,67, 67
+2018-11-03 06:34:38 +0000,0,Hadley,WA,Possession,4,52,52,56, 61
+2018-11-03 06:34:41 +0000,0,McCulloch,WD,Possession,4,52,52,72, 96
+2018-11-03 06:34:43 +0000,0,Eddy,GD,Possession,4,52,52,66, 71
+2018-11-03 06:34:55 +0000,1,Price,WD,Penaly - Contact,4,52,52,55, 43
+2018-11-03 06:34:55 +0000,0,Proud,C,Possession,4,52,52,55, 43
+2018-11-03 06:35:03 +0000,0,Hadley,WA,Possession,4,52,52,17, 32
+2018-11-03 06:35:11 +0000,1,Poolman ,GK,Penaly - Contact,4,52,52,51, 14
+2018-11-03 06:35:11 +0000,0,Housby ,GA,Goal - Score,4,52,52,51, 14
+2018-11-03 06:35:37 +0000,1,Guthrie,C,Centre Pass,4,53,52,50, 100
+2018-11-03 06:35:37 +0000,0,Eddy,GD,Penaly - Contact on CP,4,53,52,68, 130
+2018-11-03 06:35:37 +0000,1,Bulley ,GD,Possession,4,53,52,68, 130
+2018-11-03 06:35:45 +0000,1,Green,WA,Assist - 2nd Phase,4,53,52,74, 154
+2018-11-03 06:35:48 +0000,1,Green,WA,Assist - Circle Entry,4,53,52,74, 154
+2018-11-03 06:35:48 +0000,1,Pettitt ,GA,Possession,4,53,52,70, 194
+2018-11-03 06:35:50 +0000,1,Harten ,GS,Goal - Score,4,53,52,52, 189
+2018-11-03 06:35:54 +0000,0,Proud,C,Centre Pass,4,53,53,50, 100
+2018-11-03 06:35:55 +0000,0,Housby ,GA,Assist - Centre Pass Rec,4,53,53,7, 85
+2018-11-03 06:35:57 +0000,0,Proud,C,Assist - 2nd Phase,4,53,53,27, 81
+2018-11-03 06:35:59 +0000,0,Hadley,WA,Possession,4,53,53,48, 71
+2018-11-03 06:36:04 +0000,0,McCulloch,WD,Possession,4,53,53,40, 70
+2018-11-03 06:36:06 +0000,0,Hadley,WA,Possession,4,53,53,50, 61
+2018-11-03 06:36:08 +0000,0,Housby ,GA,Possession,4,53,53,30, 46
+2018-11-03 06:36:11 +0000,0,Housby ,GA,Assist - Circle Entry,4,53,53,30, 46
+2018-11-03 06:36:11 +0000,0,Garbin,GS,Possession,4,53,53,43, 15
+2018-11-03 06:36:14 +0000,0,Housby ,GA,Goal - Score,4,53,53,45, 7
+2018-11-03 06:36:26 +0000,1,Guthrie,C,Centre Pass,4,54,53,50, 100
+2018-11-03 06:36:26 +0000,1,Pettitt ,GA,Loss - Bad Pass,4,54,53,65, 115
+2018-11-03 06:36:36 +0000,0,Klau ,GK,Throw In,4,54,53,-4, 195
+2018-11-03 06:36:46 +0000,0,McCulloch,WD,Possession,4,54,53,7, 190
+2018-11-03 06:36:51 +0000,0,Eddy,GD,Possession,4,54,53,46, 168
+2018-11-03 06:36:55 +0000,0,McCulloch,WD,Possession,4,54,53,42, 147
+2018-11-03 06:36:57 +0000,0,Klau ,GK,Possession,4,54,53,3, 148
+2018-11-03 06:36:59 +0000,0,Eddy,GD,Possession,4,54,53,19, 143
+2018-11-03 06:37:01 +0000,0,Hadley,WA,Possession,4,54,53,30, 127
+2018-11-03 06:37:04 +0000,1,Price,WD,Penaly - Contact,4,54,53,30, 127
+2018-11-03 06:37:04 +0000,0,Eddy,GD,Possession,4,54,53,30, 127
+2018-11-03 06:37:12 +0000,0,Hadley,WA,Possession,4,54,53,3, 86
+2018-11-03 06:37:14 +0000,0,Housby ,GA,Possession,4,54,53,5, 39
+2018-11-03 06:37:18 +0000,0,Hadley,WA,Possession,4,54,53,13, 35
+2018-11-03 06:37:21 +0000,0,Proud,C,Possession,4,54,53,5, 7
+2018-11-03 06:37:23 +0000,0,Hadley,WA,Possession,4,54,53,8, 42
+2018-11-03 06:37:27 +0000,0,Eddy,GD,Possession,4,54,53,16, 69
+2018-11-03 06:37:30 +0000,0,Garbin,GS,Possession,4,54,53,41, 45
+2018-11-03 06:37:36 +0000,0,Housby ,GA,Possession,4,54,53,84, 8
+2018-11-03 06:37:39 +0000,1,Guthrie,C,Penaly - Contact,4,54,53,76, 22
+2018-11-03 06:37:39 +0000,0,Proud,C,Possession,4,54,53,76, 22
+2018-11-03 06:37:47 +0000,0,Proud,C,Assist - Circle Entry,4,54,53,76, 22
+2018-11-03 06:37:47 +0000,0,Garbin,GS,Goal - Score,4,54,53,45, 8
+2018-11-03 06:37:56 +0000,0,Proud,C,Centre Pass,4,55,53,50, 100
+2018-11-03 06:37:56 +0000,0,Housby ,GA,Assist - Centre Pass Rec,4,55,53,14, 83
+2018-11-03 06:37:59 +0000,0,Housby ,GA,Assist - 2nd Phase,4,55,53,73, 28
+2018-11-03 06:38:01 +0000,0,Housby ,GA,Assist - Circle Entry,4,55,53,73, 28
+2018-11-03 06:38:02 +0000,0,Garbin,GS,Possession,4,55,53,30, 5
+2018-11-03 06:38:05 +0000,0,McCulloch,WD,Possession,4,55,53,79, 68
+2018-11-03 06:38:07 +0000,0,Garbin,GS,Possession,4,55,53,88, 37
+2018-11-03 06:38:09 +0000,0,Eddy,GD,Possession,4,55,53,52, 67
+2018-11-03 06:38:11 +0000,0,Hadley,WA,Possession,4,55,53,67, 61
+2018-11-03 06:38:15 +0000,0,Housby ,GA,Possession,4,55,53,78, 26
+2018-11-03 06:38:17 +0000,0,Hadley,WA,Possession,4,55,53,87, 44
+2018-11-03 06:38:20 +0000,0,Proud,C,Possession,4,55,53,53, 44
+2018-11-03 06:38:22 +0000,0,Hadley,WA,Possession,4,55,53,75, 46
+2018-11-03 06:38:24 +0000,0,Housby ,GA,Possession,4,55,53,26, 42
+2018-11-03 06:38:34 +0000,0,Housby ,GA,Assist - Circle Entry,4,55,53,26, 42
+2018-11-03 06:38:34 +0000,0,Garbin,GS,Deflect,4,55,53,39, 6
+2018-11-03 06:38:42 +0000,1,Price,WD,Gain - Pick-up,4,55,53,47, 39
+2018-11-03 06:38:52 +0000,1,Pettitt ,GA,Possession,4,55,53,4, 97
+2018-11-03 06:38:56 +0000,1,Green,WA,Possession,4,55,53,65, 142
+2018-11-03 06:39:01 +0000,1,Green,WA,Assist - Circle Entry,4,55,53,65, 142
+2018-11-03 06:39:01 +0000,1,Harten ,GS,Goal - Score,4,55,53,48, 191
+2018-11-03 06:39:15 +0000,1,Guthrie,C,Centre Pass,4,55,54,50, 100
+2018-11-03 06:39:15 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,4,55,54,49, 128
+2018-11-03 06:39:22 +0000,1,Harten ,GS,Assist - 2nd Phase,4,55,54,51, 163
+2018-11-03 06:39:29 +0000,0,Klau ,GK,Penaly - Contact,4,55,54,51, 163
+2018-11-03 06:39:29 +0000,1,Pettitt ,GA,Possession,4,55,54,51, 163

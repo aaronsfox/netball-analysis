@@ -1,0 +1,1499 @@
+Timestamp,Team,Player,Role,Event,Period,ScoreA,ScoreB,XCoord,YCoord
+2018-10-30 02:26:36 +0000,1,Guthrie,C,Centre Pass,1,0,0,50, 100
+2018-10-30 02:26:36 +0000,1,Price,WD,Assist - Centre Pass Rec,1,0,0,9, 125
+2018-10-30 02:27:34 +0000,0,,UNKNOWN,Penaly - Obstruction,1,0,0,9, 125
+2018-10-30 02:27:34 +0000,1,Green,WA,Possession,1,0,0,9, 125
+2018-10-30 02:27:43 +0000,1,Green,WA,Possession,1,0,0,22, 151
+2018-10-30 02:27:47 +0000,1,Guthrie,C,Possession,1,0,0,78, 174
+2018-10-30 02:27:55 +0000,0,Msomi,C,Penaly - Obstruction,1,0,0,78, 174
+2018-10-30 02:27:55 +0000,1,Guthrie,C,Possession,1,0,0,78, 174
+2018-10-30 02:28:23 +0000,0,de Bruin,GD,Penaly - Obstruction,1,0,0,72, 185
+2018-10-30 02:28:23 +0000,1,Pettitt ,GA,Goal - Score,1,0,0,72, 185
+2018-10-30 02:28:45 +0000,0,Msomi,C,Centre Pass,1,0,1,50, 100
+2018-10-30 02:28:45 +0000,0,de Bruin,GD,Assist - Centre Pass Rec,1,0,1,13, 108
+2018-10-30 02:28:48 +0000,0,Msomi,C,Assist - 2nd Phase,1,0,1,10, 77
+2018-10-30 02:28:50 +0000,0,Pitman,WA,Possession,1,0,1,30, 61
+2018-10-30 02:29:04 +0000,0,Pitman,WA,Assist - Circle Entry,1,0,1,30, 61
+2018-10-30 02:29:04 +0000,0,Nelson,GS,Loss - Bad Pass,1,0,1,68, 15
+2018-10-30 02:29:15 +0000,1,Poolman ,GK,Throw In,1,0,1,-3, 31
+2018-10-30 02:29:21 +0000,1,Bulley ,GD,Possession,1,0,1,7, 93
+2018-10-30 02:29:26 +0000,1,Green,WA,Possession,1,0,1,36, 110
+2018-10-30 02:29:33 +0000,1,Guthrie,C,Possession,1,0,1,34, 135
+2018-10-30 02:29:47 +0000,1,Pettitt ,GA,Possession,1,0,1,9, 178
+2018-10-30 02:29:51 +0000,1,Harten ,GS,Assist - Circle Entry,1,0,1,9, 178
+2018-10-30 02:29:51 +0000,1,Pettitt ,GA,Possession,1,0,1,50, 178
+2018-10-30 02:30:03 +0000,1,Harten ,GS,Goal - Score,1,0,1,57, 193
+2018-10-30 02:30:11 +0000,1,Guthrie,C,Centre Pass,1,0,2,50, 100
+2018-10-30 02:30:11 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,1,0,2,84, 122
+2018-10-30 02:30:22 +0000,1,Green,WA,Assist - 2nd Phase,1,0,2,80, 177
+2018-10-30 02:30:29 +0000,1,Green,WA,Assist - Circle Entry,1,0,2,80, 177
+2018-10-30 02:30:29 +0000,1,Harten ,GS,Possession,1,0,2,69, 186
+2018-10-30 02:30:34 +0000,1,Green,WA,Possession,1,0,2,79, 177
+2018-10-30 02:30:36 +0000,1,Green,WA,Assist - Circle Entry,1,0,2,79, 177
+2018-10-30 02:30:36 +0000,1,Harten ,GS,Goal - Score,1,0,2,63, 190
+2018-10-30 02:30:47 +0000,0,Msomi,C,Centre Pass,1,0,3,50, 100
+2018-10-30 02:30:47 +0000,0,Hodges,GA,Assist - Centre Pass Rec,1,0,3,62, 82
+2018-10-30 02:30:50 +0000,0,Pitman,WA,Assist - 2nd Phase,1,0,3,32, 57
+2018-10-30 02:30:53 +0000,0,Msomi,C,Possession,1,0,3,55, 52
+2018-10-30 02:30:55 +0000,0,Hodges,GA,Possession,1,0,3,79, 19
+2018-10-30 02:30:57 +0000,0,Hodges,GA,Assist - Circle Entry,1,0,3,79, 19
+2018-10-30 02:30:57 +0000,0,Nelson,GS,Goal - Score,1,0,3,31, 10
+2018-10-30 02:31:08 +0000,1,Guthrie,C,Centre Pass,1,1,3,50, 100
+2018-10-30 02:31:08 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,1,1,3,83, 108
+2018-10-30 02:31:13 +0000,1,Pettitt ,GA,Assist - 2nd Phase,1,1,3,85, 149
+2018-10-30 02:31:17 +0000,1,Green,WA,Possession,1,1,3,46, 142
+2018-10-30 02:31:20 +0000,1,Harten ,GS,Possession,1,1,3,26, 167
+2018-10-30 02:31:43 +0000,0,Fowler,WD,Penaly - Other,1,1,3,31, 174
+2018-10-30 02:31:43 +0000,1,Pettitt ,GA,Possession,1,1,3,31, 174
+2018-10-30 02:33:12 +0000,1,Green,WA,Possession,1,1,3,28, 170
+2018-10-30 02:33:19 +0000,0,Fowler,WD,Penaly - Obstruction,1,1,3,28, 170
+2018-10-30 02:33:19 +0000,1,Green,WA,Possession,1,1,3,28, 170
+2018-10-30 02:33:25 +0000,1,Green,WA,Assist - Circle Entry,1,1,3,28, 170
+2018-10-30 02:33:25 +0000,1,Pettitt ,GA,Goal - Score,1,1,3,52, 180
+2018-10-30 02:33:37 +0000,0,Msomi,C,Centre Pass,1,1,4,50, 100
+2018-10-30 02:33:37 +0000,0,Pitman,WA,Assist - Centre Pass Rec,1,1,4,19, 83
+2018-10-30 02:33:42 +0000,0,Msomi,C,Assist - 2nd Phase,1,1,4,34, 70
+2018-10-30 02:33:47 +0000,0,Fowler,WD,Possession,1,1,4,81, 88
+2018-10-30 02:33:50 +0000,0,Msomi,C,Possession,1,1,4,52, 83
+2018-10-30 02:33:52 +0000,0,Pitman,WA,Possession,1,1,4,87, 69
+2018-10-30 02:34:04 +0000,0,Hodges,GA,Possession,1,1,4,34, 31
+2018-10-30 02:34:43 +0000,0,Hodges,GA,Assist - Circle Entry,1,1,4,34, 31
+2018-10-30 02:34:43 +0000,0,Nelson,GS,Deflect,1,1,4,36, 9
+2018-10-30 02:35:01 +0000,1,Poolman ,GK,Possession,1,1,4,51, 12
+2018-10-30 02:35:11 +0000,1,Guthrie,C,Possession,1,1,4,86, 13
+2018-10-30 02:35:14 +0000,1,Poolman ,GK,Possession,1,1,4,68, 32
+2018-10-30 02:35:21 +0000,1,Guthrie,C,Possession,1,1,4,91, 71
+2018-10-30 02:35:28 +0000,1,Price,WD,Possession,1,1,4,90, 122
+2018-10-30 02:35:33 +0000,1,Green,WA,Possession,1,1,4,57, 124
+2018-10-30 02:35:36 +0000,1,Price,WD,Possession,1,1,4,92, 128
+2018-10-30 02:35:39 +0000,1,Green,WA,Possession,1,1,4,87, 149
+2018-10-30 02:36:52 +0000,1,Green,WA,Assist - Circle Entry,1,1,4,87, 149
+2018-10-30 02:36:52 +0000,1,Harten ,GS,Goal - Score,1,1,4,45, 178
+2018-10-30 02:36:58 +0000,1,Guthrie,C,Centre Pass,1,1,5,50, 100
+2018-10-30 02:36:58 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,1,1,5,24, 118
+2018-10-30 02:37:00 +0000,1,Green,WA,Assist - 2nd Phase,1,1,5,24, 143
+2018-10-30 02:37:02 +0000,1,Pettitt ,GA,Possession,1,1,5,15, 161
+2018-10-30 02:37:05 +0000,1,Guthrie,C,Possession,1,1,5,37, 163
+2018-10-30 02:37:07 +0000,1,Guthrie,C,Assist - Circle Entry,1,1,5,37, 163
+2018-10-30 02:37:07 +0000,1,Harten ,GS,Possession,1,1,5,37, 193
+2018-10-30 02:37:13 +0000,0,de Bruin,GD,Penaly - Contact,1,1,5,37, 193
+2018-10-30 02:37:13 +0000,1,Harten ,GS,Goal - Score,1,1,5,37, 193
+2018-10-30 02:37:28 +0000,0,Msomi,C,Centre Pass,1,1,6,50, 100
+2018-10-30 02:37:28 +0000,0,Pitman,WA,Assist - Centre Pass Rec,1,1,6,62, 81
+2018-10-30 02:37:30 +0000,0,Msomi,C,Assist - 2nd Phase,1,1,6,20, 69
+2018-10-30 02:37:34 +0000,0,de Bruin,GD,Possession,1,1,6,30, 68
+2018-10-30 02:37:42 +0000,0,Msomi,C,Possession,1,1,6,24, 57
+2018-10-30 02:37:46 +0000,1,Guthrie,C,Penaly - Contact,1,1,6,24, 57
+2018-10-30 02:37:46 +0000,0,Pitman,WA,Possession,1,1,6,24, 57
+2018-10-30 02:37:52 +0000,0,Hodges,GA,Possession,1,1,6,8, 20
+2018-10-30 02:38:03 +0000,0,Hodges,GA,Assist - Circle Entry,1,1,6,8, 20
+2018-10-30 02:38:03 +0000,0,Nelson,GS,Possession,1,1,6,55, 8
+2018-10-30 02:38:06 +0000,0,Msomi,C,Possession,1,1,6,80, 14
+2018-10-30 02:38:11 +0000,1,Price,WD,Penaly - Contact,1,1,6,80, 14
+2018-10-30 02:38:11 +0000,0,Msomi,C,Possession,1,1,6,80, 14
+2018-10-30 02:38:34 +0000,1,Poolman ,GK,Penaly - Contact,1,1,6,56, 7
+2018-10-30 02:38:34 +0000,0,Hodges,GA,Goal - Score,1,1,6,56, 7
+2018-10-30 02:38:48 +0000,1,Guthrie,C,Centre Pass,1,2,6,50, 100
+2018-10-30 02:38:48 +0000,1,Green,WA,Assist - Centre Pass Rec,1,2,6,7, 99
+2018-10-30 02:38:50 +0000,1,Green,WA,Assist - 2nd Phase,1,2,6,76, 128
+2018-10-30 02:38:52 +0000,1,Green,WA,Possession,1,2,6,38, 127
+2018-10-30 02:38:55 +0000,1,Harten ,GS,Possession,1,2,6,73, 150
+2018-10-30 02:38:59 +0000,1,Pettitt ,GA,Possession,1,2,6,83, 186
+2018-10-30 02:39:04 +0000,1,Pettitt ,GA,Assist - Circle Entry,1,2,6,83, 186
+2018-10-30 02:39:04 +0000,1,Harten ,GS,Possession,1,2,6,64, 178
+2018-10-30 02:39:08 +0000,1,Guthrie,C,Possession,1,2,6,17, 185
+2018-10-30 02:39:18 +0000,0,Shimmin,GK,Deflect,1,2,6,46, 189
+2018-10-30 02:39:18 +0000,1,Guthrie,C,Possession,1,2,6,16, 181
+2018-10-30 02:39:32 +0000,1,Harten ,GS,Possession,1,2,6,41, 163
+2018-10-30 02:39:38 +0000,0,Fowler,WD,Penaly - Contact,1,2,6,41, 163
+2018-10-30 02:39:38 +0000,1,Green,WA,Possession,1,2,6,41, 163
+2018-10-30 02:39:51 +0000,1,Green,WA,Assist - Circle Entry,1,2,6,41, 163
+2018-10-30 02:39:51 +0000,1,Pettitt ,GA,Goal - Score,1,2,6,37, 180
+2018-10-30 02:40:00 +0000,0,Msomi,C,Centre Pass,1,2,7,50, 100
+2018-10-30 02:40:00 +0000,0,Pitman,WA,Assist - Centre Pass Rec,1,2,7,8, 73
+2018-10-30 02:40:03 +0000,0,Hodges,GA,Assist - 2nd Phase,1,2,7,26, 48
+2018-10-30 02:40:05 +0000,0,Hodges,GA,Assist - Circle Entry,1,2,7,26, 48
+2018-10-30 02:40:05 +0000,0,Nelson,GS,Goal - Score,1,2,7,47, 11
+2018-10-30 02:40:15 +0000,1,Guthrie,C,Centre Pass,1,3,7,50, 100
+2018-10-30 02:40:15 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,1,3,7,5, 125
+2018-10-30 02:40:17 +0000,1,Guthrie,C,Assist - 2nd Phase,1,3,7,33, 144
+2018-10-30 02:40:19 +0000,1,Guthrie,C,Assist - Circle Entry,1,3,7,33, 144
+2018-10-30 02:40:19 +0000,1,Harten ,GS,Possession,1,3,7,29, 186
+2018-10-30 02:40:41 +0000,1,Green,WA,Possession,1,3,7,82, 183
+2018-10-30 02:40:43 +0000,0,Fowler,WD,Penaly - Contact,1,3,7,82, 183
+2018-10-30 02:40:43 +0000,1,Green,WA,Possession,1,3,7,82, 183
+2018-10-30 02:40:50 +0000,1,Green,WA,Assist - Circle Entry,1,3,7,82, 183
+2018-10-30 02:40:50 +0000,1,Pettitt ,GA,Goal - Score,1,3,7,52, 175
+2018-10-30 02:41:00 +0000,0,Msomi,C,Centre Pass,1,3,8,50, 100
+2018-10-30 02:41:00 +0000,0,Hodges,GA,Assist - Centre Pass Rec,1,3,8,56, 73
+2018-10-30 02:41:02 +0000,0,Pitman,WA,Assist - 2nd Phase,1,3,8,17, 19
+2018-10-30 02:41:06 +0000,0,Pitman,WA,Assist - Circle Entry,1,3,8,17, 19
+2018-10-30 02:41:06 +0000,0,Hodges,GA,Possession,1,3,8,37, 13
+2018-10-30 02:41:08 +0000,0,Pitman,WA,Possession,1,3,8,18, 18
+2018-10-30 02:41:11 +0000,0,Pitman,WA,Assist - Circle Entry,1,3,8,18, 18
+2018-10-30 02:41:11 +0000,0,Hodges,GA,Possession,1,3,8,32, 8
+2018-10-30 02:41:18 +0000,1,Bulley ,GD,Penaly - Obstruction,1,3,8,32, 8
+2018-10-30 02:41:18 +0000,0,Hodges,GA,Goal - Miss,1,3,8,32, 8
+2018-10-30 02:41:36 +0000,0,Nelson,GS,Deflect,1,3,8,50, 2
+2018-10-30 02:41:42 +0000,1,Poolman ,GK,Throw In,1,3,8,54, -4
+2018-10-30 02:42:03 +0000,1,Price,WD,Possession,1,3,8,84, 16
+2018-10-30 02:42:09 +0000,0,Nelson,GS,Deflect,1,3,8,77, 23
+2018-10-30 02:42:09 +0000,1,Poolman ,GK,Possession,1,3,8,85, 15
+2018-10-30 02:42:17 +0000,1,Guthrie,C,Possession,1,3,8,10, 82
+2018-10-30 02:42:21 +0000,1,Bulley ,GD,Possession,1,3,8,83, 92
+2018-10-30 02:42:25 +0000,1,Poolman ,GK,Possession,1,3,8,59, 60
+2018-10-30 02:42:28 +0000,1,Bulley ,GD,Possession,1,3,8,52, 81
+2018-10-30 02:42:34 +0000,1,Green,WA,Possession,1,3,8,22, 103
+2018-10-30 02:42:37 +0000,1,Guthrie,C,Possession,1,3,8,55, 145
+2018-10-30 02:42:39 +0000,1,Harten ,GS,Possession,1,3,8,53, 167
+2018-10-30 02:42:43 +0000,1,Green,WA,Possession,1,3,8,14, 190
+2018-10-30 02:43:06 +0000,1,Green,WA,Assist - Circle Entry,1,3,8,14, 190
+2018-10-30 02:43:06 +0000,0,de Bruin,GD,Gain - Inter,1,3,8,61, 191
+2018-10-30 02:43:17 +0000,0,Msomi,C,Possession,1,3,8,50, 162
+2018-10-30 02:43:35 +0000,1,,UNKNOWN,Gain - Inter,1,3,8,46, 160
+2018-10-30 02:43:58 +0000,1,Harten ,GS,Assist - Circle Entry,1,3,8,46, 160
+2018-10-30 02:43:59 +0000,1,Pettitt ,GA,Goal - Score,1,3,8,46, 190
+2018-10-30 02:44:31 +0000,1,Guthrie,C,Centre Pass,1,3,9,50, 100
+2018-10-30 02:44:31 +0000,1,Green,WA,Assist - Centre Pass Rec,1,3,9,52, 126
+2018-10-30 02:44:33 +0000,1,Guthrie,C,Assist - 2nd Phase,1,3,9,62, 112
+2018-10-30 02:44:37 +0000,1,Price,WD,Possession,1,3,9,36, 127
+2018-10-30 02:44:41 +0000,1,Pettitt ,GA,Possession,1,3,9,9, 156
+2018-10-30 02:44:45 +0000,1,Pettitt ,GA,Assist - Circle Entry,1,3,9,9, 156
+2018-10-30 02:44:45 +0000,1,Harten ,GS,Goal - Score,1,3,9,35, 192
+2018-10-30 02:44:54 +0000,0,Msomi,C,Centre Pass,1,3,10,50, 100
+2018-10-30 02:44:54 +0000,0,Pitman,WA,Assist - Centre Pass Rec,1,3,10,78, 78
+2018-10-30 02:44:59 +0000,0,Fowler,WD,Assist - 2nd Phase,1,3,10,89, 109
+2018-10-30 02:45:03 +0000,0,Msomi,C,Possession,1,3,10,69, 67
+2018-10-30 02:45:06 +0000,0,Msomi,C,Assist - Circle Entry,1,3,10,69, 67
+2018-10-30 02:45:06 +0000,0,Nelson,GS,Goal - Score,1,3,10,44, 14
+2018-10-30 02:45:17 +0000,1,Guthrie,C,Centre Pass,1,4,10,50, 100
+2018-10-30 02:45:17 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,1,4,10,5, 117
+2018-10-30 02:45:19 +0000,1,Guthrie,C,Assist - 2nd Phase,1,4,10,9, 146
+2018-10-30 02:45:22 +0000,1,Green,WA,Possession,1,4,10,39, 133
+2018-10-30 02:45:23 +0000,1,Guthrie,C,Possession,1,4,10,22, 152
+2018-10-30 02:45:26 +0000,1,Harten ,GS,Possession,1,4,10,15, 191
+2018-10-30 02:45:28 +0000,1,Pettitt ,GA,Possession,1,4,10,32, 161
+2018-10-30 02:45:30 +0000,1,Green,WA,Possession,1,4,10,57, 164
+2018-10-30 02:45:32 +0000,1,Green,WA,Assist - Circle Entry,1,4,10,57, 164
+2018-10-30 02:45:32 +0000,1,Pettitt ,GA,Goal - Score,1,4,10,55, 180
+2018-10-30 02:45:41 +0000,0,Msomi,C,Centre Pass,1,4,11,50, 100
+2018-10-30 02:45:41 +0000,0,Hodges,GA,Assist - Centre Pass Rec,1,4,11,80, 69
+2018-10-30 02:45:45 +0000,0,Hodges,GA,Assist - Circle Entry,1,4,11,80, 69
+2018-10-30 02:45:45 +0000,0,Nelson,GS,Goal - Score,1,4,11,47, 7
+2018-10-30 02:46:02 +0000,1,Guthrie,C,Centre Pass,1,5,11,50, 100
+2018-10-30 02:46:02 +0000,1,Green,WA,Assist - Centre Pass Rec,1,5,11,26, 106
+2018-10-30 02:46:06 +0000,1,Guthrie,C,Assist - 2nd Phase,1,5,11,8, 154
+2018-10-30 02:46:09 +0000,1,Green,WA,Possession,1,5,11,19, 136
+2018-10-30 02:46:11 +0000,1,Guthrie,C,Possession,1,5,11,26, 153
+2018-10-30 02:46:13 +0000,1,Guthrie,C,Assist - Circle Entry,1,5,11,26, 153
+2018-10-30 02:46:13 +0000,1,Harten ,GS,Goal - Score,1,5,11,44, 178
+2018-10-30 02:46:23 +0000,0,Msomi,C,Centre Pass,1,5,12,50, 100
+2018-10-30 02:46:23 +0000,0,Pitman,WA,Assist - Centre Pass Rec,1,5,12,85, 74
+2018-10-30 02:46:32 +0000,1,Price,WD,Penaly - Contact,1,5,12,81, 70
+2018-10-30 02:46:32 +0000,0,de Bruin,GD,Assist - 2nd Phase,1,5,12,81, 70
+2018-10-30 02:46:55 +0000,0,Msomi,C,Possession,1,5,12,87, 28
+2018-10-30 02:46:57 +0000,0,Hodges,GA,Possession,1,5,12,85, 4
+2018-10-30 02:47:03 +0000,0,Pitman,WA,Possession,1,5,12,16, 6
+2018-10-30 02:47:06 +0000,0,Pitman,WA,Assist - Circle Entry,1,5,12,16, 6
+2018-10-30 02:47:06 +0000,0,Nelson,GS,Goal - Score,1,5,12,52, 14
+2018-10-30 02:47:18 +0000,1,Guthrie,C,Centre Pass,1,6,12,50, 100
+2018-10-30 02:47:18 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,1,6,12,42, 78
+2018-10-30 02:47:20 +0000,1,Guthrie,C,Assist - 2nd Phase,1,6,12,28, 108
+2018-10-30 02:47:23 +0000,1,Price,WD,Possession,1,6,12,66, 117
+2018-10-30 02:47:27 +0000,1,Guthrie,C,Possession,1,6,12,66, 153
+2018-10-30 02:47:29 +0000,1,Pettitt ,GA,Possession,1,6,12,88, 190
+2018-10-30 02:47:34 +0000,1,Pettitt ,GA,Assist - Circle Entry,1,6,12,88, 190
+2018-10-30 02:47:34 +0000,1,Harten ,GS,Goal - Miss,1,6,12,55, 183
+2018-10-30 02:47:46 +0000,1,Pettitt ,GA,Deflect,1,6,12,50, 197
+2018-10-30 02:47:53 +0000,1,Harten ,GS,Loss - Bad Pass,1,6,12,53, 192
+2018-10-30 02:47:56 +0000,0,de Bruin,GD,Gain - Inter,1,6,12,53, 192
+2018-10-30 02:48:05 +0000,1,Guthrie,C,Deflect,1,6,12,79, 170
+2018-10-30 02:48:05 +0000,0,Shimmin,GK,Throw In,1,6,12,105, 191
+2018-10-30 02:48:29 +0000,0,de Bruin,GD,Possession,1,6,12,90, 170
+2018-10-30 02:48:31 +0000,0,Shimmin,GK,Possession,1,6,12,84, 160
+2018-10-30 02:48:36 +0000,1,Price,WD,Deflect,1,6,12,95, 119
+2018-10-30 02:48:36 +0000,0,Fowler,WD,Throw In,1,6,12,107, 123
+2018-10-30 02:48:46 +0000,0,Shimmin,GK,Possession,1,6,12,84, 137
+2018-10-30 02:48:49 +0000,0,de Bruin,GD,Possession,1,6,12,75, 110
+2018-10-30 02:48:52 +0000,0,Msomi,C,Possession,1,6,12,60, 100
+2018-10-30 02:48:54 +0000,0,Pitman,WA,Possession,1,6,12,44, 85
+2018-10-30 02:49:01 +0000,0,Fowler,WD,Possession,1,6,12,24, 112
+2018-10-30 02:49:07 +0000,0,de Bruin,GD,Possession,1,6,12,59, 121
+2018-10-30 02:49:09 +0000,0,Hodges,GA,Possession,1,6,12,83, 79
+2018-10-30 02:49:14 +0000,0,de Bruin,GD,Possession,1,6,12,66, 84
+2018-10-30 02:49:17 +0000,0,Msomi,C,Possession,1,6,12,72, 51
+2018-10-30 02:49:23 +0000,0,Msomi,C,Assist - Circle Entry,1,6,12,72, 51
+2018-10-30 02:49:23 +0000,0,Nelson,GS,Goal - Miss,1,6,12,53, 14
+2018-10-30 02:49:33 +0000,1,Poolman ,GK,Gain - Def Reb,1,6,12,50, 2
+2018-10-30 02:49:40 +0000,1,Bulley ,GD,Possession,1,6,12,23, 19
+2018-10-30 02:49:53 +0000,1,Guthrie,C,Possession,1,6,12,9, 85
+2018-10-30 02:49:58 +0000,1,Price,WD,Possession,1,6,12,10, 120
+2018-10-30 02:50:00 +0000,1,Harten ,GS,Possession,1,6,12,4, 152
+2018-10-30 02:50:03 +0000,1,Guthrie,C,Possession,1,6,12,58, 144
+2018-10-30 02:50:06 +0000,1,Guthrie,C,Assist - Circle Entry,1,6,12,58, 144
+2018-10-30 02:50:07 +0000,1,Pettitt ,GA,Possession,1,6,12,49, 168
+2018-10-30 02:50:10 +0000,1,Guthrie,C,Possession,1,6,12,56, 161
+2018-10-30 02:50:12 +0000,1,Guthrie,C,Assist - Circle Entry,1,6,12,56, 161
+2018-10-30 02:50:12 +0000,1,Pettitt ,GA,Goal - Score,1,6,12,47, 178
+2018-10-30 02:50:26 +0000,0,,UNKNOWN,Timeout,1,6,13,110, 222
+2018-10-30 02:51:23 +0000,0,Msomi,C,Centre Pass,1,6,13,50, 100
+2018-10-30 02:51:23 +0000,0,Hodges,GA,Assist - Centre Pass Rec,1,6,13,78, 84
+2018-10-30 02:51:25 +0000,0,Fowler,WD,Assist - 2nd Phase,1,6,13,31, 93
+2018-10-30 02:51:27 +0000,0,Pitman,WA,Possession,1,6,13,13, 69
+2018-10-30 02:51:30 +0000,0,Msomi,C,Loss - Held Ball,1,6,13,10, 22
+2018-10-30 02:51:50 +0000,1,Poolman ,GK,Possession,1,6,13,13, 21
+2018-10-30 02:52:02 +0000,1,Price,WD,Possession,1,6,13,61, 42
+2018-10-30 02:52:06 +0000,1,Green,WA,Possession,1,6,13,89, 84
+2018-10-30 02:52:14 +0000,1,Bulley ,GD,Loss - Drop,1,6,13,57, 83
+2018-10-30 02:52:24 +0000,0,Msomi,C,Possession,1,6,13,63, 94
+2018-10-30 02:52:31 +0000,0,de Bruin,GD,Possession,1,6,13,47, 69
+2018-10-30 02:52:43 +0000,1,Guthrie,C,Gain - Inter,1,6,13,63, 51
+2018-10-30 02:52:54 +0000,1,Green,WA,Possession,1,6,13,42, 77
+2018-10-30 02:52:59 +0000,1,Guthrie,C,Possession,1,6,13,79, 92
+2018-10-30 02:53:02 +0000,1,Pettitt ,GA,Possession,1,6,13,87, 147
+2018-10-30 02:53:05 +0000,1,Green,WA,Possession,1,6,13,49, 162
+2018-10-30 02:53:07 +0000,1,Green,WA,Assist - Circle Entry,1,6,13,49, 162
+2018-10-30 02:53:07 +0000,1,Harten ,GS,Goal - Miss,1,6,13,38, 192
+2018-10-30 02:53:13 +0000,1,Harten ,GS,Assist - Attack Rebound,1,6,13,50, 197
+2018-10-30 02:53:14 +0000,1,Harten ,GS,Goal - Score,1,6,13,38, 192
+2018-10-30 02:53:21 +0000,1,Guthrie,C,Centre Pass,1,6,14,50, 100
+2018-10-30 02:53:21 +0000,1,Green,WA,Assist - Centre Pass Rec,1,6,14,20, 106
+2018-10-30 02:53:25 +0000,1,Price,WD,Assist - 2nd Phase,1,6,14,18, 96
+2018-10-30 02:53:29 +0000,1,Pettitt ,GA,Possession,1,6,14,7, 131
+2018-10-30 02:53:44 +0000,0,Msomi,C,Penaly - Obstruction,1,6,14,40, 153
+2018-10-30 02:53:44 +0000,1,Guthrie,C,Possession,1,6,14,40, 153
+2018-10-30 02:53:58 +0000,1,Guthrie,C,Assist - Circle Entry,1,6,14,40, 153
+2018-10-30 02:53:58 +0000,1,Pettitt ,GA,Possession,1,6,14,31, 191
+2018-10-30 02:54:03 +0000,1,Guthrie,C,Possession,1,6,14,19, 178
+2018-10-30 02:54:06 +0000,1,Guthrie,C,Assist - Circle Entry,1,6,14,19, 178
+2018-10-30 02:54:06 +0000,1,Pettitt ,GA,Goal - Score,1,6,14,38, 193
+2018-10-30 02:54:44 +0000,1,,UNKNOWN,Timeout,1,6,15,110, 222
+2018-10-30 02:55:20 +0000,0,Msomi,C,Centre Pass,1,6,15,50, 100
+2018-10-30 02:55:20 +0000,0,Hodges,GA,Assist - Centre Pass Rec,1,6,15,12, 74
+2018-10-30 02:55:22 +0000,0,Fowler,WD,Assist - 2nd Phase,1,6,15,17, 97
+2018-10-30 02:55:25 +0000,0,de Bruin,GD,Possession,1,6,15,64, 73
+2018-10-30 02:55:27 +0000,0,Pitman,WA,Possession,1,6,15,82, 57
+2018-10-30 02:55:31 +0000,0,Hodges,GA,Possession,1,6,15,25, 45
+2018-10-30 02:55:33 +0000,0,Fowler,WD,Possession,1,6,15,25, 69
+2018-10-30 02:55:36 +0000,0,Msomi,C,Possession,1,6,15,29, 38
+2018-10-30 02:55:44 +0000,0,Hodges,GA,Possession,1,6,15,11, 25
+2018-10-30 02:55:46 +0000,0,Fowler,WD,Possession,1,6,15,19, 69
+2018-10-30 02:55:49 +0000,0,Msomi,C,Possession,1,6,15,19, 53
+2018-10-30 02:55:56 +0000,1,Bulley ,GD,Deflect,1,6,15,34, 19
+2018-10-30 02:55:56 +0000,0,Msomi,C,Possession,1,6,15,26, 33
+2018-10-30 02:56:08 +0000,0,Msomi,C,Assist - Circle Entry,1,6,15,26, 33
+2018-10-30 02:56:09 +0000,0,Nelson,GS,Goal - Score,1,6,15,56, 5
+2018-10-30 02:56:18 +0000,1,Guthrie,C,Centre Pass,1,7,15,50, 100
+2018-10-30 02:56:18 +0000,1,Bulley ,GD,Loss - Bad Pass,1,7,15,13, 108
+2018-10-30 02:56:29 +0000,0,Shimmin,GK,Throw In,1,7,15,-4, 176
+2018-10-30 02:56:38 +0000,0,de Bruin,GD,Possession,1,7,15,4, 151
+2018-10-30 02:56:41 +0000,0,Fowler,WD,Possession,1,7,15,39, 139
+2018-10-30 02:56:47 +0000,0,de Bruin,GD,Possession,1,7,15,31, 126
+2018-10-30 02:56:49 +0000,0,Hodges,GA,Possession,1,7,15,73, 75
+2018-10-30 02:56:58 +0000,1,Poolman ,GK,Gain - Inter,1,7,15,21, 29
+2018-10-30 02:57:51 +0000,1,Price,WD,Possession,1,7,15,24, 29
+2018-10-30 02:57:56 +0000,1,Poolman ,GK,Possession,1,7,15,10, 44
+2018-10-30 02:58:04 +0000,1,Pettitt ,GA,Possession,1,7,15,9, 102
+2018-10-30 02:58:31 +0000,0,Pitman,WA,Penaly - Contact,1,7,15,8, 129
+2018-10-30 02:58:31 +0000,1,Price,WD,Possession,1,7,15,8, 129
+2018-10-30 02:59:31 +0000,1,Guthrie,C,Possession,1,7,15,8, 156
+2018-10-30 02:59:35 +0000,1,Pettitt ,GA,Possession,1,7,15,36, 149
+2018-10-30 02:59:37 +0000,1,Green,WA,Possession,1,7,15,54, 163
+2018-10-30 02:59:41 +0000,1,Green,WA,Assist - Circle Entry,1,7,15,54, 163
+2018-10-30 02:59:41 +0000,1,Pettitt ,GA,Possession,1,7,15,68, 191
+2018-10-30 02:59:45 +0000,1,Harten ,GS,Goal - Score,1,7,15,45, 183
+2018-10-30 02:59:54 +0000,0,Msomi,C,Centre Pass,1,7,16,50, 100
+2018-10-30 02:59:54 +0000,0,Pitman,WA,Assist - Centre Pass Rec,1,7,16,75, 84
+2018-10-30 02:59:56 +0000,0,Hodges,GA,Assist - 2nd Phase,1,7,16,43, 73
+2018-10-30 02:59:59 +0000,0,Msomi,C,Possession,1,7,16,16, 58
+2018-10-30 03:00:04 +0000,0,Msomi,C,Assist - Circle Entry,1,7,16,16, 58
+2018-10-30 03:00:04 +0000,0,Nelson,GS,Goal - Score,1,7,16,58, 4
+2018-10-30 03:00:15 +0000,1,Guthrie,C,Centre Pass,1,8,16,50, 100
+2018-10-30 03:00:15 +0000,1,Green,WA,Assist - Centre Pass Rec,1,8,16,34, 118
+2018-10-30 03:00:17 +0000,1,Pettitt ,GA,Assist - 2nd Phase,1,8,16,7, 175
+2018-10-30 03:00:20 +0000,1,Green,WA,Possession,1,8,16,38, 163
+2018-10-30 03:00:23 +0000,1,Green,WA,Assist - Circle Entry,1,8,16,38, 163
+2018-10-30 03:00:23 +0000,1,Pettitt ,GA,Possession,1,8,16,31, 189
+2018-10-30 03:00:26 +0000,1,Green,WA,Possession,1,8,16,40, 163
+2018-10-30 03:00:33 +0000,1,Green,WA,Assist - Circle Entry,1,8,16,40, 163
+2018-10-30 03:00:33 +0000,1,Harten ,GS,Goal - Score,1,8,16,56, 191
+2018-10-30 03:00:42 +0000,0,Msomi,C,Centre Pass,1,8,17,50, 100
+2018-10-30 03:00:42 +0000,0,Fowler,WD,Assist - Centre Pass Rec,1,8,17,82, 74
+2018-10-30 03:00:46 +0000,0,Msomi,C,Assist - 2nd Phase,1,8,17,88, 33
+2018-10-30 03:00:48 +0000,0,Pitman,WA,Possession,1,8,17,82, 51
+2018-10-30 03:00:50 +0000,0,Pitman,WA,Assist - Circle Entry,1,8,17,82, 51
+2018-10-30 03:00:50 +0000,0,Nelson,GS,Goal - Score,1,8,17,53, 8
+2018-10-30 03:01:03 +0000,1,Guthrie,C,Centre Pass,1,9,17,50, 100
+2018-10-30 03:01:03 +0000,1,Green,WA,Assist - Centre Pass Rec,1,9,17,50, 117
+2018-10-30 03:01:06 +0000,1,Guthrie,C,Assist - 2nd Phase,1,9,17,42, 134
+2018-10-30 03:01:08 +0000,1,Harten ,GS,Possession,1,9,17,17, 164
+2018-10-30 03:01:13 +0000,1,Green,WA,Possession,1,9,17,83, 185
+2018-10-30 03:01:16 +0000,1,Green,WA,Assist - Circle Entry,1,9,17,83, 185
+2018-10-30 03:01:16 +0000,1,Pettitt ,GA,Possession,1,9,17,64, 188
+2018-10-30 03:01:18 +0000,0,de Bruin,GD,Penaly - Contact,1,9,17,64, 188
+2018-10-30 03:01:18 +0000,1,Pettitt ,GA,Goal - Score,1,9,17,64, 188
+2018-10-30 03:01:26 +0000,0,Msomi,C,Centre Pass,1,9,18,50, 100
+2018-10-30 03:01:26 +0000,0,Pitman,WA,Assist - Centre Pass Rec,1,9,18,75, 82
+2018-10-30 03:01:29 +0000,0,Pitman,WA,Assist - Circle Entry,1,9,18,75, 82
+2018-10-30 03:01:29 +0000,0,Nelson,GS,Assist - 2nd Phase,1,9,18,53, 24
+2018-10-30 03:01:33 +0000,0,Hodges,GA,Possession,1,9,18,68, 29
+2018-10-30 03:01:42 +0000,1,Poolman ,GK,Deflect,1,9,18,58, 6
+2018-10-30 03:01:42 +0000,0,Hodges,GA,Throw In,1,9,18,66, -7
+2018-10-30 03:01:52 +0000,0,Msomi,C,Loss - Bad Pass,1,9,18,73, 26
+2018-10-30 03:01:59 +0000,1,Poolman ,GK,Throw In,1,9,18,7, -5
+2018-10-30 03:02:10 +0000,1,Price,WD,Possession,1,9,18,63, 32
+2018-10-30 03:02:12 +0000,1,Poolman ,GK,Possession,1,9,18,8, 51
+2018-10-30 03:02:15 +0000,1,Bulley ,GD,Possession,1,9,18,8, 79
+2018-10-30 03:02:20 +0000,1,Price,WD,Possession,1,9,18,6, 122
+2018-10-30 03:02:24 +0000,1,Green,WA,Possession,1,9,18,18, 154
+2018-10-30 03:02:26 +0000,1,Harten ,GS,Possession,1,9,18,31, 166
+2018-10-30 03:02:30 +0000,1,Guthrie,C,Possession,1,9,18,83, 181
+2018-10-30 03:02:33 +0000,1,Guthrie,C,Assist - Circle Entry,1,9,18,83, 181
+2018-10-30 03:02:33 +0000,1,Pettitt ,GA,Possession,1,9,18,62, 179
+2018-10-30 03:03:49 +0000,0,de Bruin,GD,Gain - Tip (Deflect),1,9,18,61, 183
+2018-10-30 03:04:01 +0000,0,Msomi,C,Possession,1,9,18,74, 172
+2018-10-30 03:04:06 +0000,0,de Bruin,GD,Possession,1,9,18,75, 147
+2018-10-30 03:04:08 +0000,0,Fowler,WD,Possession,1,9,18,89, 116
+2018-10-30 03:04:10 +0000,0,Hodges,GA,Possession,1,9,18,91, 77
+2018-10-30 03:04:13 +0000,0,de Bruin,GD,Possession,1,9,18,76, 87
+2018-10-30 03:04:16 +0000,0,Fowler,WD,Possession,1,9,18,59, 101
+2018-10-30 03:04:18 +0000,0,Msomi,C,Possession,1,9,18,16, 82
+2018-10-30 03:04:21 +0000,0,Fowler,WD,Possession,1,9,18,41, 80
+2018-10-30 03:04:24 +0000,0,Pitman,WA,Possession,1,9,18,46, 54
+2018-10-30 03:04:32 +0000,0,Pitman,WA,Assist - Circle Entry,1,9,18,46, 54
+2018-10-30 03:04:32 +0000,1,Poolman ,GK,Gain - Inter,1,9,18,46, 18
+2018-10-30 03:04:47 +0000,0,Msomi,C,Gain - Tip (Deflect),1,9,18,61, 58
+2018-10-30 03:04:55 +0000,0,Msomi,C,Possession,1,9,18,88, 41
+2018-10-30 03:05:17 +0000,0,Hodges,GA,Possession,1,9,18,69, 51
+2018-10-30 03:05:21 +0000,1,,UNKNOWN,Penaly - Obstruction,1,9,18,57, 17
+2018-10-30 03:05:21 +0000,0,Hodges,GA,Goal - Score,1,9,18,57, 17
+2018-10-30 03:05:48 +0000,1,Guthrie,C,Centre Pass,1,10,18,50, 100
+2018-10-30 03:05:48 +0000,1,Green,WA,Assist - Centre Pass Rec,1,10,18,22, 86
+2018-10-30 03:07:56 +0000,0,Hodges,UNKNOWN,Interchange - Latu-Meafou,2,10,18,
+2018-10-30 03:08:10 +0000,0,Msomi,C,Centre Pass,2,10,18,50, 100
+2018-10-30 03:08:10 +0000,0,Pitman,WA,Assist - Centre Pass Rec,2,10,18,73, 88
+2018-10-30 03:08:16 +0000,0,Fowler,WD,Assist - 2nd Phase,2,10,18,15, 75
+2018-10-30 03:08:19 +0000,0,Msomi,C,Possession,2,10,18,45, 62
+2018-10-30 03:08:22 +0000,0,de Bruin,GD,Possession,2,10,18,55, 73
+2018-10-30 03:08:24 +0000,0,Msomi,C,Possession,2,10,18,46, 51
+2018-10-30 03:08:28 +0000,0,Pitman,WA,Possession,2,10,18,81, 60
+2018-10-30 03:08:30 +0000,0,Latu-Meafou,GA,Possession,2,10,18,14, 46
+2018-10-30 03:08:44 +0000,1,Bulley ,GD,Penaly - Contact,2,10,18,38, 50
+2018-10-30 03:08:44 +0000,0,Pitman,WA,Possession,2,10,18,38, 50
+2018-10-30 03:09:40 +0000,0,Pitman,WA,Assist - Circle Entry,2,10,18,38, 50
+2018-10-30 03:09:40 +0000,0,Latu-Meafou,GA,Possession,2,10,18,26, 13
+2018-10-30 03:10:34 +0000,1,Guthrie,C,Penaly - Other,2,10,18,28, 21
+2018-10-30 03:10:34 +0000,0,Latu-Meafou,GA,Possession,2,10,18,28, 21
+2018-10-30 03:11:05 +0000,0,Msomi,C,Possession,2,10,18,21, 22
+2018-10-30 03:11:07 +0000,0,Msomi,C,Assist - Circle Entry,2,10,18,21, 22
+2018-10-30 03:11:08 +0000,0,Nelson,GS,Goal - Score,2,10,18,47, 7
+2018-10-30 03:11:18 +0000,1,Guthrie,C,Centre Pass,2,11,18,50, 100
+2018-10-30 03:11:18 +0000,1,Green,WA,Assist - Centre Pass Rec,2,11,18,83, 118
+2018-10-30 03:11:20 +0000,1,Guthrie,C,Assist - 2nd Phase,2,11,18,62, 127
+2018-10-30 03:11:23 +0000,1,Pettitt ,GA,Possession,2,11,18,62, 141
+2018-10-30 03:11:25 +0000,1,Green,WA,Possession,2,11,18,90, 147
+2018-10-30 03:11:29 +0000,1,Harten ,GS,Possession,2,11,18,86, 192
+2018-10-30 03:11:32 +0000,1,Green,WA,Possession,2,11,18,69, 173
+2018-10-30 03:11:43 +0000,0,Fowler,WD,Gain - Tip (Deflect),2,11,18,58, 154
+2018-10-30 03:11:55 +0000,0,Fowler,WD,Possession,2,11,18,90, 153
+2018-10-30 03:12:01 +0000,0,de Bruin,GD,Possession,2,11,18,76, 156
+2018-10-30 03:12:03 +0000,0,Shimmin,GK,Possession,2,11,18,90, 173
+2018-10-30 03:12:05 +0000,0,de Bruin,GD,Possession,2,11,18,91, 127
+2018-10-30 03:12:09 +0000,0,Msomi,C,Possession,2,11,18,70, 125
+2018-10-30 03:12:11 +0000,0,Pitman,WA,Possession,2,11,18,13, 78
+2018-10-30 03:12:18 +0000,0,Pitman,WA,Assist - Circle Entry,2,11,18,13, 78
+2018-10-30 03:12:18 +0000,0,Nelson,GS,Possession,2,11,18,43, 11
+2018-10-30 03:12:21 +0000,1,Poolman ,GK,Penaly - Contact,2,11,18,43, 11
+2018-10-30 03:12:21 +0000,0,Nelson,GS,Goal - Score,2,11,18,43, 11
+2018-10-30 03:12:31 +0000,0,Msomi,C,Centre Pass,2,12,18,50, 100
+2018-10-30 03:12:31 +0000,0,Pitman,WA,Assist - Centre Pass Rec,2,12,18,84, 82
+2018-10-30 03:12:33 +0000,0,Msomi,C,Assist - 2nd Phase,2,12,18,64, 73
+2018-10-30 03:12:36 +0000,0,Fowler,WD,Possession,2,12,18,54, 86
+2018-10-30 03:12:40 +0000,0,Latu-Meafou,GA,Possession,2,12,18,12, 71
+2018-10-30 03:12:53 +0000,1,Green,WA,Penaly - Obstruction,2,12,18,12, 71
+2018-10-30 03:12:53 +0000,0,de Bruin,GD,Possession,2,12,18,12, 71
+2018-10-30 03:13:02 +0000,0,Pitman,WA,Possession,2,12,18,19, 49
+2018-10-30 03:13:08 +0000,0,Pitman,WA,Assist - Circle Entry,2,12,18,19, 49
+2018-10-30 03:13:08 +0000,0,Latu-Meafou,GA,Possession,2,12,18,49, 25
+2018-10-30 03:13:12 +0000,0,Pitman,WA,Loss - Off Contact,2,12,18,48, 36
+2018-10-30 03:13:27 +0000,1,Poolman ,GK,Possession,2,12,18,45, 37
+2018-10-30 03:13:32 +0000,1,Guthrie,C,Possession,2,12,18,8, 83
+2018-10-30 03:13:36 +0000,1,Pettitt ,GA,Possession,2,12,18,29, 116
+2018-10-30 03:14:37 +0000,1,Guthrie,C,Possession,2,12,18,9, 130
+2018-10-30 03:14:40 +0000,1,Green,WA,Possession,2,12,18,9, 159
+2018-10-30 03:14:47 +0000,1,Price,WD,Possession,2,12,18,33, 132
+2018-10-30 03:14:50 +0000,1,Green,WA,Possession,2,12,18,17, 149
+2018-10-30 03:14:53 +0000,1,Price,WD,Possession,2,12,18,32, 131
+2018-10-30 03:14:58 +0000,1,Green,WA,Possession,2,12,18,15, 166
+2018-10-30 03:15:01 +0000,1,Green,WA,Possession,2,12,18,13, 195
+2018-10-30 03:15:08 +0000,0,Fowler,WD,Deflect,2,12,18,14, 185
+2018-10-30 03:15:08 +0000,1,Green,WA,Throw In,2,12,18,1, 206
+2018-10-30 03:15:24 +0000,1,Pettitt ,GA,Possession,2,12,18,9, 167
+2018-10-30 03:15:27 +0000,1,Guthrie,C,Possession,2,12,18,55, 167
+2018-10-30 03:15:31 +0000,1,Guthrie,C,Assist - Circle Entry,2,12,18,55, 167
+2018-10-30 03:15:31 +0000,1,Pettitt ,GA,Possession,2,12,18,50, 177
+2018-10-30 03:15:37 +0000,1,Harten ,GS,Goal - Score,2,12,18,40, 192
+2018-10-30 03:15:45 +0000,1,Guthrie,C,Centre Pass,2,12,19,50, 100
+2018-10-30 03:15:45 +0000,1,Green,WA,Assist - Centre Pass Rec,2,12,19,35, 125
+2018-10-30 03:15:51 +0000,1,Harten ,GS,Assist - 2nd Phase,2,12,19,13, 168
+2018-10-30 03:15:53 +0000,1,Green,WA,Loss - Step,2,12,19,32, 157
+2018-10-30 03:16:05 +0000,0,Shimmin,GK,Possession,2,12,19,32, 158
+2018-10-30 03:16:10 +0000,0,de Bruin,GD,Possession,2,12,19,47, 151
+2018-10-30 03:16:12 +0000,0,Msomi,C,Possession,2,12,19,39, 115
+2018-10-30 03:16:14 +0000,0,de Bruin,GD,Possession,2,12,19,50, 121
+2018-10-30 03:16:17 +0000,0,Pitman,WA,Possession,2,12,19,67, 126
+2018-10-30 03:16:27 +0000,1,Green,WA,Gain - Inter,2,12,19,17, 86
+2018-10-30 03:16:53 +0000,1,Price,WD,Possession,2,12,19,41, 76
+2018-10-30 03:16:57 +0000,1,Green,WA,Possession,2,12,19,23, 106
+2018-10-30 03:17:00 +0000,1,Bulley ,GD,Possession,2,12,19,69, 128
+2018-10-30 03:17:02 +0000,1,Pettitt ,GA,Possession,2,12,19,86, 166
+2018-10-30 03:17:08 +0000,1,Green,WA,Possession,2,12,19,73, 169
+2018-10-30 03:17:10 +0000,1,Pettitt ,GA,Possession,2,12,19,80, 184
+2018-10-30 03:17:13 +0000,1,Pettitt ,GA,Assist - Circle Entry,2,12,19,80, 184
+2018-10-30 03:17:13 +0000,1,Harten ,GS,Goal - Miss,2,12,19,53, 192
+2018-10-30 03:17:27 +0000,0,Shimmin,GK,Gain - Def Reb,2,12,19,50, 197
+2018-10-30 03:17:28 +0000,0,Fowler,WD,Possession,2,12,19,18, 182
+2018-10-30 03:17:37 +0000,0,de Bruin,GD,Possession,2,12,19,35, 154
+2018-10-30 03:17:40 +0000,0,Msomi,C,Possession,2,12,19,6, 138
+2018-10-30 03:17:42 +0000,0,Fowler,WD,Possession,2,12,19,18, 139
+2018-10-30 03:17:46 +0000,0,Fowler,WD,Possession,2,12,19,19, 124
+2018-10-30 03:17:49 +0000,0,de Bruin,GD,Possession,2,12,19,83, 116
+2018-10-30 03:18:35 +0000,1,Pettitt ,GA,Gain - Inter,2,12,19,73, 110
+2018-10-30 03:18:47 +0000,1,Green,WA,Possession,2,12,19,69, 113
+2018-10-30 03:18:49 +0000,1,Pettitt ,GA,Possession,2,12,19,85, 143
+2018-10-30 03:18:54 +0000,1,Pettitt ,GA,Assist - Circle Entry,2,12,19,85, 143
+2018-10-30 03:18:54 +0000,1,Harten ,GS,Possession,2,12,19,64, 177
+2018-10-30 03:19:02 +0000,1,Green,WA,Possession,2,12,19,58, 165
+2018-10-30 03:19:09 +0000,0,de Bruin,GD,Penaly - Obstruction,2,12,19,56, 182
+2018-10-30 03:19:09 +0000,1,Pettitt ,GA,Goal - Miss,2,12,19,56, 182
+2018-10-30 03:19:25 +0000,1,Harten ,GS,Assist - Attack Rebound,2,12,19,50, 197
+2018-10-30 03:19:33 +0000,1,Harten ,GS,Goal - Miss,2,12,19,56, 182
+2018-10-30 03:19:34 +0000,1,Harten ,GS,Assist - Attack Rebound,2,12,19,50, 197
+2018-10-30 03:19:37 +0000,1,Harten ,GS,Goal - Score,2,12,19,56, 182
+2018-10-30 03:19:44 +0000,0,Msomi,C,Centre Pass,2,12,20,50, 100
+2018-10-30 03:19:44 +0000,0,Latu-Meafou,GA,Assist - Centre Pass Rec,2,12,20,75, 92
+2018-10-30 03:19:46 +0000,0,Pitman,WA,Assist - 2nd Phase,2,12,20,84, 64
+2018-10-30 03:19:50 +0000,0,Fowler,WD,Possession,2,12,20,79, 71
+2018-10-30 03:19:53 +0000,0,Msomi,C,Possession,2,12,20,86, 42
+2018-10-30 03:19:56 +0000,0,de Bruin,GD,Possession,2,12,20,77, 71
+2018-10-30 03:19:58 +0000,0,Msomi,C,Possession,2,12,20,76, 60
+2018-10-30 03:20:02 +0000,0,Latu-Meafou,GA,Possession,2,12,20,90, 19
+2018-10-30 03:20:09 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,2,12,20,90, 19
+2018-10-30 03:20:09 +0000,0,Nelson,GS,Deflect,2,12,20,66, 7
+2018-10-30 03:20:16 +0000,1,Poolman ,GK,Throw In,2,12,20,68, -2
+2018-10-30 03:20:24 +0000,1,Price,WD,Possession,2,12,20,92, 37
+2018-10-30 03:20:28 +0000,1,Poolman ,GK,Possession,2,12,20,69, 45
+2018-10-30 03:20:32 +0000,1,Guthrie,C,Possession,2,12,20,21, 80
+2018-10-30 03:20:37 +0000,1,Price,WD,Possession,2,12,20,58, 85
+2018-10-30 03:20:39 +0000,1,Guthrie,C,Possession,2,12,20,50, 112
+2018-10-30 03:20:42 +0000,1,Pettitt ,GA,Possession,2,12,20,90, 122
+2018-10-30 03:20:46 +0000,1,Bulley ,GD,Possession,2,12,20,22, 130
+2018-10-30 03:20:50 +0000,1,Guthrie,C,Possession,2,12,20,14, 144
+2018-10-30 03:20:53 +0000,1,Pettitt ,GA,Possession,2,12,20,33, 154
+2018-10-30 03:20:56 +0000,1,Pettitt ,GA,Assist - Circle Entry,2,12,20,33, 154
+2018-10-30 03:20:56 +0000,1,Harten ,GS,Goal - Score,2,12,20,49, 192
+2018-10-30 03:21:05 +0000,1,Guthrie,C,Centre Pass,2,12,21,50, 100
+2018-10-30 03:21:05 +0000,1,Green,WA,Assist - Centre Pass Rec,2,12,21,91, 129
+2018-10-30 03:21:09 +0000,1,Pettitt ,GA,Assist - 2nd Phase,2,12,21,92, 157
+2018-10-30 03:21:13 +0000,1,Pettitt ,GA,Assist - Circle Entry,2,12,21,92, 157
+2018-10-30 03:21:13 +0000,1,Harten ,GS,Possession,2,12,21,74, 185
+2018-10-30 03:21:16 +0000,1,Guthrie,C,Possession,2,12,21,14, 186
+2018-10-30 03:21:22 +0000,0,Shimmin,GK,Deflect,2,12,21,62, 190
+2018-10-30 03:21:22 +0000,1,Pettitt ,GA,Throw In,2,12,21,59, 206
+2018-10-30 03:21:33 +0000,1,Guthrie,C,Possession,2,12,21,28, 173
+2018-10-30 03:21:37 +0000,0,Fowler,WD,Penaly - Contact,2,12,21,28, 173
+2018-10-30 03:21:37 +0000,1,Guthrie,C,Possession,2,12,21,28, 173
+2018-10-30 03:21:49 +0000,1,Guthrie,C,Assist - Circle Entry,2,12,21,28, 173
+2018-10-30 03:21:49 +0000,1,Harten ,GS,Goal - Miss,2,12,21,45, 183
+2018-10-30 03:21:55 +0000,0,Shimmin,GK,Gain - Def Reb,2,12,21,50, 197
+2018-10-30 03:21:58 +0000,0,Msomi,C,Possession,2,12,21,78, 178
+2018-10-30 03:22:01 +0000,0,Shimmin,GK,Possession,2,12,21,85, 153
+2018-10-30 03:22:04 +0000,0,Fowler,WD,Possession,2,12,21,89, 125
+2018-10-30 03:22:13 +0000,0,Msomi,C,Possession,2,12,21,77, 116
+2018-10-30 03:22:15 +0000,1,Guthrie,C,Penaly - Contact,2,12,21,77, 116
+2018-10-30 03:22:15 +0000,0,de Bruin,GD,Possession,2,12,21,77, 116
+2018-10-30 03:22:30 +0000,0,Msomi,C,Possession,2,12,21,42, 84
+2018-10-30 03:22:35 +0000,0,Latu-Meafou,GA,Possession,2,12,21,11, 46
+2018-10-30 03:22:37 +0000,0,de Bruin,GD,Possession,2,12,21,34, 71
+2018-10-30 03:22:40 +0000,0,Msomi,C,Possession,2,12,21,19, 42
+2018-10-30 03:22:43 +0000,0,Latu-Meafou,GA,Possession,2,12,21,13, 18
+2018-10-30 03:22:50 +0000,1,Guthrie,C,Gain - Inter,2,12,21,83, 17
+2018-10-30 03:23:38 +0000,0,Pitman,WA,Penaly - Contact,2,12,21,83, 17
+2018-10-30 03:23:38 +0000,1,Guthrie,C,Possession,2,12,21,83, 17
+2018-10-30 03:23:59 +0000,1,Poolman ,GK,Possession,2,12,21,45, 28
+2018-10-30 03:24:05 +0000,1,Price,WD,Possession,2,12,21,12, 56
+2018-10-30 03:24:11 +0000,1,Poolman ,GK,Possession,2,12,21,62, 51
+2018-10-30 03:24:15 +0000,1,Price,WD,Possession,2,12,21,49, 80
+2018-10-30 03:24:19 +0000,1,Bulley ,GD,Possession,2,12,21,87, 77
+2018-10-30 03:24:26 +0000,1,Green,WA,Possession,2,12,21,90, 119
+2018-10-30 03:24:30 +0000,1,Bulley ,GD,Possession,2,12,21,65, 95
+2018-10-30 03:24:33 +0000,1,Price,WD,Possession,2,12,21,28, 122
+2018-10-30 03:24:37 +0000,1,Guthrie,C,Possession,2,12,21,18, 132
+2018-10-30 03:24:39 +0000,1,Pettitt ,GA,Possession,2,12,21,10, 155
+2018-10-30 03:24:41 +0000,1,Harten ,GS,Possession,2,12,21,11, 191
+2018-10-30 03:26:21 +0000,1,Bulley ,GD,Possession,2,12,21,31, 132
+2018-10-30 03:26:25 +0000,0,Latu-Meafou,GA,Penaly - Contact,2,12,21,31, 132
+2018-10-30 03:26:25 +0000,1,Green,WA,Possession,2,12,21,31, 132
+2018-10-30 03:26:46 +0000,1,Pettitt ,GA,Possession,2,12,21,15, 190
+2018-10-30 03:26:54 +0000,1,Guthrie,C,Possession,2,12,21,80, 184
+2018-10-30 03:26:59 +0000,0,Fowler,WD,Penaly - Contact,2,12,21,80, 184
+2018-10-30 03:26:59 +0000,1,Guthrie,C,Possession,2,12,21,80, 184
+2018-10-30 03:27:07 +0000,1,Guthrie,C,Assist - Circle Entry,2,12,21,80, 184
+2018-10-30 03:27:07 +0000,1,Pettitt ,GA,Possession,2,12,21,51, 178
+2018-10-30 03:27:10 +0000,1,Guthrie,C,Possession,2,12,21,56, 167
+2018-10-30 03:27:12 +0000,1,Guthrie,C,Assist - Circle Entry,2,12,21,56, 167
+2018-10-30 03:27:13 +0000,1,Pettitt ,GA,Goal - Score,2,12,21,50, 186
+2018-10-30 03:27:24 +0000,0,Msomi,C,Centre Pass,2,12,22,50, 100
+2018-10-30 03:27:24 +0000,0,Pitman,WA,Assist - Centre Pass Rec,2,12,22,58, 88
+2018-10-30 03:27:34 +0000,0,Latu-Meafou,GA,Deflect,2,12,22,19, 21
+2018-10-30 03:27:39 +0000,1,Poolman ,GK,Throw In,2,12,22,33, -2
+2018-10-30 03:27:50 +0000,1,Price,WD,Possession,2,12,22,64, 35
+2018-10-30 03:27:58 +0000,1,Guthrie,C,Possession,2,12,22,84, 76
+2018-10-30 03:28:01 +0000,1,Pettitt ,GA,Possession,2,12,22,82, 119
+2018-10-30 03:28:07 +0000,1,Green,WA,Possession,2,12,22,19, 156
+2018-10-30 03:28:12 +0000,1,Pettitt ,GA,Possession,2,12,22,53, 165
+2018-10-30 03:28:15 +0000,1,Green,WA,Possession,2,12,22,46, 166
+2018-10-30 03:28:19 +0000,1,Green,WA,Assist - Circle Entry,2,12,22,46, 166
+2018-10-30 03:28:19 +0000,1,Harten ,GS,Goal - Score,2,12,22,43, 192
+2018-10-30 03:30:26 +0000,1,Guthrie,C,Centre Pass,2,12,23,50, 100
+2018-10-30 03:30:26 +0000,1,Guthrie,C,CP Infringe - ,2,12,23,49, 100
+2018-10-30 03:30:26 +0000,0,Fowler,WD,Possession,2,12,23,49, 100
+2018-10-30 03:31:09 +0000,0,Pitman,WA,Possession,2,12,23,46, 78
+2018-10-30 03:31:11 +0000,0,Msomi,C,Possession,2,12,23,20, 72
+2018-10-30 03:31:14 +0000,0,Pitman,WA,Loss - Bad Pass,2,12,23,21, 43
+2018-10-30 03:31:22 +0000,1,Poolman ,GK,Throw In,2,12,23,47, -2
+2018-10-30 03:31:29 +0000,1,Price,WD,Possession,2,12,23,66, 34
+2018-10-30 03:31:32 +0000,1,Poolman ,GK,Possession,2,12,23,54, 51
+2018-10-30 03:31:45 +0000,1,Guthrie,C,Possession,2,12,23,60, 73
+2018-10-30 03:31:47 +0000,1,Bulley ,GD,Possession,2,12,23,52, 83
+2018-10-30 03:31:53 +0000,1,Price,WD,Possession,2,12,23,31, 130
+2018-10-30 03:31:56 +0000,1,Harten ,GS,Possession,2,12,23,16, 166
+2018-10-30 03:32:00 +0000,1,Bulley ,GD,Possession,2,12,23,68, 130
+2018-10-30 03:32:02 +0000,1,Pettitt ,GA,Possession,2,12,23,59, 166
+2018-10-30 03:32:05 +0000,1,Green,WA,Possession,2,12,23,82, 189
+2018-10-30 03:32:07 +0000,1,Pettitt ,GA,Possession,2,12,23,77, 178
+2018-10-30 03:32:09 +0000,1,Green,WA,Possession,2,12,23,83, 191
+2018-10-30 03:32:12 +0000,1,Green,WA,Assist - Circle Entry,2,12,23,83, 191
+2018-10-30 03:32:12 +0000,1,Harten ,GS,Goal - Score,2,12,23,55, 182
+2018-10-30 03:32:22 +0000,0,Msomi,C,Centre Pass,2,12,24,50, 100
+2018-10-30 03:32:22 +0000,0,Pitman,WA,Assist - Centre Pass Rec,2,12,24,9, 77
+2018-10-30 03:32:27 +0000,0,Fowler,WD,Assist - 2nd Phase,2,12,24,22, 101
+2018-10-30 03:32:29 +0000,0,de Bruin,GD,Possession,2,12,24,40, 83
+2018-10-30 03:32:31 +0000,0,Msomi,C,Possession,2,12,24,15, 62
+2018-10-30 03:32:34 +0000,0,Latu-Meafou,GA,Possession,2,12,24,17, 18
+2018-10-30 03:32:36 +0000,0,Msomi,C,Possession,2,12,24,30, 32
+2018-10-30 03:32:38 +0000,0,Msomi,C,Assist - Circle Entry,2,12,24,30, 32
+2018-10-30 03:32:38 +0000,0,Latu-Meafou,GA,Possession,2,12,24,32, 16
+2018-10-30 03:32:42 +0000,0,Pitman,WA,Possession,2,12,24,49, 37
+2018-10-30 03:32:44 +0000,0,Pitman,WA,Assist - Circle Entry,2,12,24,49, 37
+2018-10-30 03:32:44 +0000,0,Latu-Meafou,GA,Goal - Score,2,12,24,47, 16
+2018-10-30 03:32:56 +0000,1,Guthrie,C,Centre Pass,2,13,24,50, 100
+2018-10-30 03:32:56 +0000,1,Green,WA,Assist - Centre Pass Rec,2,13,24,90, 125
+2018-10-30 03:32:58 +0000,1,Pettitt ,GA,Assist - 2nd Phase,2,13,24,51, 141
+2018-10-30 03:33:01 +0000,1,Green,WA,Possession,2,13,24,37, 142
+2018-10-30 03:33:06 +0000,1,Guthrie,C,Possession,2,13,24,84, 159
+2018-10-30 03:33:08 +0000,1,Pettitt ,GA,Possession,2,13,24,92, 186
+2018-10-30 03:33:11 +0000,1,Pettitt ,GA,Assist - Circle Entry,2,13,24,92, 186
+2018-10-30 03:33:11 +0000,1,Harten ,GS,Possession,2,13,24,65, 185
+2018-10-30 03:33:17 +0000,0,Shimmin,GK,Penaly - Obstruction,2,13,24,65, 185
+2018-10-30 03:33:17 +0000,1,Pettitt ,GA,Goal - Score,2,13,24,65, 185
+2018-10-30 03:33:33 +0000,0,Msomi,C,Centre Pass,2,13,25,50, 100
+2018-10-30 03:33:33 +0000,0,Pitman,WA,Assist - Centre Pass Rec,2,13,25,42, 79
+2018-10-30 03:33:35 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,2,13,25,15, 39
+2018-10-30 03:33:37 +0000,0,de Bruin,GD,Possession,2,13,25,22, 72
+2018-10-30 03:33:40 +0000,1,Green,WA,Penaly - Contact,2,13,25,22, 72
+2018-10-30 03:33:40 +0000,0,de Bruin,GD,Possession,2,13,25,22, 72
+2018-10-30 03:33:44 +0000,0,Pitman,WA,Possession,2,13,25,60, 60
+2018-10-30 03:33:50 +0000,0,Latu-Meafou,GA,Possession,2,13,25,71, 31
+2018-10-30 03:33:53 +0000,0,Latu-Meafou,GA,Assist - Circle Entry,2,13,25,71, 31
+2018-10-30 03:33:53 +0000,0,Nelson,GS,Goal - Score,2,13,25,53, 8
+2018-10-30 03:34:01 +0000,1,Guthrie,C,Centre Pass,2,14,25,50, 100
+2018-10-30 03:34:02 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,2,14,25,25, 130
+2018-10-30 03:34:04 +0000,1,Harten ,GS,Assist - 2nd Phase,2,14,25,14, 178
+2018-10-30 03:34:07 +0000,1,Green,WA,Possession,2,14,25,38, 137
+2018-10-30 03:34:12 +0000,0,Msomi,C,Penaly - Obstruction,2,14,25,24, 173
+2018-10-30 03:34:12 +0000,1,Green,WA,Possession,2,14,25,24, 173
+2018-10-30 03:34:38 +0000,1,Pettitt ,GA,Possession,2,14,25,47, 166
+2018-10-30 03:34:48 +0000,1,Green,WA,Possession,2,14,25,21, 180
+2018-10-30 03:34:53 +0000,1,Green,WA,Assist - Circle Entry,2,14,25,21, 180
+2018-10-30 03:34:53 +0000,1,Harten ,GS,Goal - Score,2,14,25,61, 195
+2018-10-30 03:35:01 +0000,0,Msomi,C,Centre Pass,2,14,26,50, 100
+2018-10-30 03:35:01 +0000,0,Pitman,WA,Assist - Centre Pass Rec,2,14,26,62, 81
+2018-10-30 03:35:08 +0000,0,Latu-Meafou,GA,Assist - 2nd Phase,2,14,26,19, 79
+2018-10-30 03:35:10 +0000,0,Pitman,WA,Possession,2,14,26,34, 57
+2018-10-30 03:35:12 +0000,0,Latu-Meafou,GA,Possession,2,14,26,86, 15
+2018-10-30 03:35:17 +0000,0,Msomi,C,Possession,2,14,26,80, 19
+2018-10-30 03:35:23 +0000,0,Msomi,C,Assist - Circle Entry,2,14,26,80, 19
+2018-10-30 03:35:23 +0000,0,Latu-Meafou,GA,Loss - Bad Pass,2,14,26,67, 5
+2018-10-30 03:35:27 +0000,1,Poolman ,GK,Throw In,2,14,26,67, -2
+2018-10-30 03:35:48 +0000,1,Price,WD,Possession,2,14,26,81, 23
+2018-10-30 03:35:51 +0000,1,Bulley ,GD,Possession,2,14,26,92, 63
+2018-10-30 03:35:53 +0000,1,Green,WA,Possession,2,14,26,15, 122
+2018-10-30 03:35:59 +0000,1,Price,WD,Possession,2,14,26,32, 130
+2018-10-30 03:36:04 +0000,1,Harten ,GS,Possession,2,14,26,14, 193
+2018-10-30 03:36:10 +0000,1,Green,WA,Possession,2,14,26,15, 155
+2018-10-30 03:36:13 +0000,1,Green,WA,Assist - Circle Entry,2,14,26,15, 155
+2018-10-30 03:36:13 +0000,1,Pettitt ,GA,Possession,2,14,26,51, 179
+2018-10-30 03:36:18 +0000,1,Green,WA,Possession,2,14,26,14, 193
+2018-10-30 03:36:21 +0000,1,Green,WA,Assist - Circle Entry,2,14,26,14, 193
+2018-10-30 03:36:21 +0000,1,Harten ,GS,Goal - Score,2,14,26,34, 194
+2018-10-30 03:36:35 +0000,1,Guthrie,C,Centre Pass,2,14,27,50, 100
+2018-10-30 03:36:35 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,2,14,27,93, 124
+2018-10-30 03:36:38 +0000,1,Guthrie,C,Assist - 2nd Phase,2,14,27,62, 149
+2018-10-30 03:36:40 +0000,1,Guthrie,C,Assist - Circle Entry,2,14,27,62, 149
+2018-10-30 03:36:40 +0000,1,Harten ,GS,Possession,2,14,27,67, 172
+2018-10-30 03:36:43 +0000,1,Green,WA,Possession,2,14,27,16, 191
+2018-10-30 03:36:49 +0000,1,Green,WA,Assist - Circle Entry,2,14,27,16, 191
+2018-10-30 03:36:49 +0000,1,Pettitt ,GA,Goal - Score,2,14,27,45, 195
+2018-10-30 03:36:57 +0000,0,Msomi,C,Centre Pass,2,14,28,50, 100
+2018-10-30 03:36:57 +0000,0,Pitman,WA,Assist - Centre Pass Rec,2,14,28,34, 89
+2018-10-30 03:36:59 +0000,0,Fowler,WD,Assist - 2nd Phase,2,14,28,75, 74
+2018-10-30 03:37:02 +0000,0,Pitman,WA,Possession,2,14,28,88, 49
+2018-10-30 03:37:11 +0000,0,Nelson,GS,Possession,2,14,28,15, 12
+2018-10-30 03:38:08 +0000,0,de Bruin,GD,Possession,2,14,28,16, 71
+2018-10-30 03:38:15 +0000,1,Pettitt ,GA,Penaly - Contact,2,14,28,16, 71
+2018-10-30 03:38:15 +0000,0,de Bruin,GD,Possession,2,14,28,16, 71
+2018-10-30 03:38:30 +0000,0,Msomi,C,Possession,2,14,28,23, 49
+2018-10-30 03:38:33 +0000,0,Latu-Meafou,GA,Possession,2,14,28,48, 47
+2018-10-30 03:38:35 +0000,0,Pitman,WA,Possession,2,14,28,73, 28
+2018-10-30 03:39:39 +0000,0,Latu-Meafou,GA,Possession,2,14,28,73, 27
+2018-10-30 03:39:41 +0000,0,Pitman,WA,Possession,2,14,28,72, 28
+2018-10-30 03:39:46 +0000,0,Pitman,WA,Assist - Circle Entry,2,14,28,72, 28
+2018-10-30 03:39:46 +0000,0,Latu-Meafou,GA,Goal - Score,2,14,28,59, 21
+2018-10-30 03:39:56 +0000,1,Guthrie,C,Centre Pass,2,15,28,50, 100
+2018-10-30 03:39:56 +0000,1,Green,WA,Assist - Centre Pass Rec,2,15,28,23, 122
+2018-10-30 03:39:59 +0000,1,Green,WA,Assist - 2nd Phase,2,15,28,15, 149
+2018-10-30 03:40:00 +0000,1,Pettitt ,GA,Possession,2,15,28,34, 141
+2018-10-30 03:40:04 +0000,1,Green,WA,Possession,2,15,28,18, 157
+2018-10-30 03:40:06 +0000,1,Harten ,GS,Possession,2,15,28,11, 192
+2018-10-30 03:40:12 +0000,1,Green,WA,Possession,2,15,28,12, 181
+2018-10-30 03:40:18 +0000,1,Green,WA,Assist - Circle Entry,2,15,28,12, 181
+2018-10-30 03:40:18 +0000,1,Harten ,GS,Possession,2,15,28,34, 191
+2018-10-30 03:40:22 +0000,0,Shimmin,GK,Penaly - Obstruction,2,15,28,34, 191
+2018-10-30 03:40:22 +0000,1,Harten ,GS,Goal - Score,2,15,28,34, 191
+2018-10-30 03:40:32 +0000,0,Msomi,C,Centre Pass,2,15,29,50, 100
+2018-10-30 03:40:32 +0000,0,de Bruin,GD,Assist - Centre Pass Rec,2,15,29,77, 98
+2018-10-30 03:40:34 +0000,0,Msomi,C,Assist - 2nd Phase,2,15,29,65, 72
+2018-10-30 03:40:40 +0000,0,Nelson,GS,Possession,2,15,29,71, 28
+2018-10-30 03:40:45 +0000,0,Msomi,C,Possession,2,15,29,72, 29
+2018-10-30 03:40:52 +0000,0,Msomi,C,Assist - Circle Entry,2,15,29,72, 29
+2018-10-30 03:40:52 +0000,0,Latu-Meafou,GA,Possession,2,15,29,74, 12
+2018-10-30 03:41:31 +0000,0,Msomi,C,Possession,2,15,29,81, 17
+2018-10-30 03:41:35 +0000,0,Msomi,C,Assist - Circle Entry,2,15,29,81, 17
+2018-10-30 03:41:35 +0000,0,Latu-Meafou,GA,Loss - Held Ball,2,15,29,60, 9
+2018-10-30 03:41:42 +0000,1,Poolman ,GK,Possession,2,15,29,56, 9
+2018-10-30 03:41:47 +0000,1,Price,WD,Possession,2,15,29,22, 30
+2018-10-30 03:41:50 +0000,1,Guthrie,C,Possession,2,15,29,6, 87
+2018-10-30 03:42:03 +0000,0,Pitman,WA,Deflect,2,15,29,2, 106
+2018-10-30 03:42:03 +0000,1,Green,WA,Throw In,2,15,29,-7, 107
+2018-10-30 03:42:15 +0000,1,Bulley ,GD,Possession,2,15,29,83, 107
+2018-10-30 03:42:18 +0000,1,Guthrie,C,Possession,2,15,29,72, 125
+2018-10-30 03:42:21 +0000,1,Bulley ,GD,Possession,2,15,29,88, 119
+2018-10-30 03:42:23 +0000,1,Pettitt ,GA,Possession,2,15,29,91, 143
+2018-10-30 03:42:27 +0000,1,Green,WA,Possession,2,15,29,17, 183
+2018-10-30 03:42:40 +0000,1,Green,WA,Assist - Circle Entry,2,15,29,17, 183
+2018-10-30 03:42:40 +0000,1,Harten ,GS,Possession,2,15,29,59, 198
+2018-10-30 03:42:43 +0000,0,de Bruin,GD,Deflect,2,15,29,64, 199
+2018-10-30 03:42:43 +0000,1,Pettitt ,GA,Throw In,2,15,29,64, 208
+2018-10-30 03:42:53 +0000,1,Green,WA,Possession,2,15,29,15, 192
+2018-10-30 03:42:56 +0000,1,Green,WA,Assist - Circle Entry,2,15,29,15, 192
+2018-10-30 03:42:56 +0000,1,Pettitt ,GA,Goal - Score,2,15,29,57, 197
+2018-10-30 03:43:08 +0000,1,Guthrie,C,Centre Pass,2,15,30,50, 100
+2018-10-30 03:43:08 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,2,15,30,72, 120
+2018-10-30 03:43:10 +0000,1,Green,WA,Assist - 2nd Phase,2,15,30,87, 182
+2018-10-30 03:43:13 +0000,1,Green,WA,Assist - Circle Entry,2,15,30,87, 182
+2018-10-30 03:43:13 +0000,1,Harten ,GS,Goal - Score,2,15,30,54, 194
+2018-10-30 03:43:19 +0000,0,Msomi,C,Centre Pass,2,15,31,50, 100
+2018-10-30 03:43:19 +0000,0,Latu-Meafou,GA,Assist - Centre Pass Rec,2,15,31,13, 82
+2018-10-30 03:43:23 +0000,0,Nelson,GS,Assist - 2nd Phase,2,15,31,10, 18
+2018-10-30 03:43:25 +0000,0,Latu-Meafou,GA,Possession,2,15,31,30, 37
+2018-10-30 03:45:21 +0000,1,Green,WA,Gain - Tip (Deflect),2,15,31,21, 72
+2018-10-30 03:45:30 +0000,1,Guthrie,C,Possession,2,15,31,21, 59
+2018-10-30 03:46:16 +0000,1,Bulley ,GD,Possession,2,15,31,23, 76
+2018-10-30 03:46:25 +0000,0,Msomi,C,Gain - Inter,2,15,31,75, 121
+2018-10-30 03:46:31 +0000,0,de Bruin,GD,Possession,2,15,31,71, 109
+2018-10-30 03:46:35 +0000,0,Msomi,C,Possession,2,15,31,91, 75
+2018-10-30 03:46:37 +0000,0,de Bruin,GD,Possession,2,15,31,79, 76
+2018-10-30 03:46:40 +0000,0,Msomi,C,Possession,2,15,31,90, 61
+2018-10-30 03:46:43 +0000,0,Pitman,WA,Possession,2,15,31,58, 51
+2018-10-30 03:46:58 +0000,1,Poolman ,GK,Deflect,2,15,31,64, 37
+2018-10-30 03:47:05 +0000,0,Msomi,C,Possession,2,15,31,67, 53
+2018-10-30 03:47:08 +0000,1,Poolman ,GK,Penaly - Contact,2,15,31,67, 53
+2018-10-30 03:47:08 +0000,0,Msomi,C,Possession,2,15,31,67, 53
+2018-10-30 03:47:15 +0000,0,Msomi,C,Assist - Circle Entry,2,15,31,67, 53
+2018-10-30 03:47:15 +0000,0,Latu-Meafou,GA,Possession,2,15,31,75, 13
+2018-10-30 03:47:17 +0000,0,Msomi,C,Possession,2,15,31,77, 22
+2018-10-30 03:47:24 +0000,1,Price,WD,Penaly - Contact,2,15,31,77, 22
+2018-10-30 03:47:24 +0000,0,Msomi,C,Possession,2,15,31,77, 22
+2018-10-30 03:47:32 +0000,0,Msomi,C,Assist - Circle Entry,2,15,31,77, 22
+2018-10-30 03:47:32 +0000,0,Latu-Meafou,GA,Goal - Score,2,15,31,59, 11
+2018-10-30 03:47:43 +0000,1,Guthrie,C,Centre Pass,2,16,31,50, 100
+2018-10-30 03:47:43 +0000,1,Green,WA,Loss - Step,2,16,31,56, 128
+2018-10-30 03:48:02 +0000,0,Shimmin,GK,Possession,2,16,31,57, 135
+2018-10-30 03:48:06 +0000,0,Fowler,WD,Possession,2,16,31,23, 113
+2018-10-30 03:48:11 +0000,0,Pitman,WA,Loss - Bad Pass,2,16,31,14, 85
+2018-10-30 03:48:18 +0000,1,Poolman ,GK,Throw In,2,16,31,104, 31
+2018-10-30 03:48:29 +0000,1,Price,WD,Possession,2,16,31,93, 54
+2018-10-30 03:48:35 +0000,1,Guthrie,C,Possession,2,16,31,79, 63
+2018-10-30 03:48:37 +0000,1,Price,WD,Possession,2,16,31,73, 85
+2018-10-30 03:48:43 +0000,1,Bulley ,GD,Possession,2,16,31,94, 85
+2018-10-30 03:48:46 +0000,1,Price,WD,Possession,2,16,31,48, 82
+2018-10-30 03:48:48 +0000,1,Pettitt ,GA,Possession,2,16,31,91, 114
+2018-10-30 03:48:51 +0000,1,Harten ,GS,Possession,2,16,31,94, 163
+2018-10-30 03:48:59 +0000,1,Guthrie,C,Possession,2,16,31,12, 196
+2018-10-30 03:49:01 +0000,1,Bulley ,GD,Possession,2,16,31,15, 131
+2018-10-30 03:49:09 +0000,1,Pettitt ,GA,Possession,2,16,31,46, 159
+2018-10-30 03:49:21 +0000,1,Pettitt ,GA,Assist - Circle Entry,2,16,31,46, 159
+2018-10-30 03:49:21 +0000,0,Shimmin,GK,Gain - Tip (Deflect),2,16,31,46, 189
+2018-10-30 03:49:28 +0000,0,Shimmin,GK,Possession,2,16,31,60, 198
+2018-10-30 03:49:55 +0000,0,Fowler,WD,Possession,2,16,31,71, 173
+2018-10-30 03:49:59 +0000,0,Pitman,WA,Possession,2,16,31,80, 131
+2018-10-30 03:50:04 +0000,0,Fowler,WD,Possession,2,16,31,66, 122
+2018-10-30 03:50:14 +0000,0,Msomi,C,Possession,2,16,31,72, 56
+2018-10-30 03:50:20 +0000,0,Msomi,C,Assist - Circle Entry,2,16,31,72, 56
+2018-10-30 03:50:20 +0000,0,Nelson,GS,Possession,2,16,31,41, 12
+2018-10-30 03:50:22 +0000,1,Poolman ,GK,Penaly - Contact,2,16,31,41, 12
+2018-10-30 03:50:22 +0000,0,Nelson,GS,Goal - Miss,2,16,31,41, 12
+2018-10-30 03:50:38 +0000,1,Bulley ,GD,Gain - Def Reb,2,16,31,50, 2
+2018-10-30 03:50:42 +0000,1,Guthrie,C,Possession,2,16,31,26, 77
+2018-10-30 03:50:45 +0000,1,Green,WA,Possession,2,16,31,17, 127
+2018-10-30 03:50:49 +0000,1,Pettitt ,GA,Possession,2,16,31,13, 191
+2018-10-30 03:50:52 +0000,1,Guthrie,C,Possession,2,16,31,33, 170
+2018-10-30 03:50:54 +0000,1,Harten ,GS,Possession,2,16,31,10, 191
+2018-10-30 03:50:58 +0000,1,Green,WA,Possession,2,16,31,9, 148
+2018-10-30 03:51:01 +0000,1,Guthrie,C,Possession,2,16,31,30, 169
+2018-10-30 03:51:04 +0000,1,Guthrie,C,Assist - Circle Entry,2,16,31,30, 169
+2018-10-30 03:51:04 +0000,1,Harten ,GS,Goal - Score,2,16,31,57, 195
+2018-10-30 03:53:12 +0000,0,Msomi,C,Centre Pass,2,16,32,50, 100
+2018-10-30 03:53:12 +0000,0,Latu-Meafou,GA,Loss - Off Contact,2,16,32,21, 70
+2018-10-30 03:53:24 +0000,1,Bulley ,GD,Possession,2,16,32,20, 70
+2018-10-30 03:53:27 +0000,1,Guthrie,C,Possession,2,16,32,15, 108
+2018-10-30 03:53:36 +0000,1,Guthrie,C,Assist - Circle Entry,2,16,32,15, 108
+2018-10-30 03:53:36 +0000,1,Harten ,GS,Goal - Score,2,16,32,36, 175
+2018-10-30 03:55:55 +0000,0,Latu-Meafou,UNKNOWN,Interchange - Hodges,3,16,33,
+2018-10-30 03:55:55 +0000,0,Msomi,UNKNOWN,Interchange - Bryce,3,16,33,
+2018-10-30 03:55:55 +0000,0,Fowler,UNKNOWN,Interchange - Petty,3,16,33,
+2018-10-30 03:55:55 +0000,0,de Bruin,UNKNOWN,Interchange - Fowler,3,16,33,
+2018-10-30 03:55:55 +0000,0,Shimmin,UNKNOWN,Interchange - de Bruin,3,16,33,
+2018-10-30 03:55:55 +0000,0,Harten ,UNKNOWN,Interchange - Brice,3,16,33,
+2018-10-30 03:56:01 +0000,1,Guthrie,C,Centre Pass,3,16,33,50, 100
+2018-10-30 03:56:01 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,3,16,33,40, 87
+2018-10-30 03:56:05 +0000,1,Pettitt ,GA,Assist - 2nd Phase,3,16,33,9, 135
+2018-10-30 03:56:17 +0000,1,Green,WA,Possession,3,16,33,35, 141
+2018-10-30 03:56:19 +0000,1,Pettitt ,GA,Possession,3,16,33,14, 177
+2018-10-30 03:56:24 +0000,1,Pettitt ,GA,Assist - Circle Entry,3,16,33,14, 177
+2018-10-30 03:56:24 +0000,1,Brice,GS,Goal - Score,3,16,33,43, 189
+2018-10-30 03:56:31 +0000,0,Bryce,C,Centre Pass,3,16,34,50, 100
+2018-10-30 03:56:32 +0000,0,Hodges,GA,Assist - Centre Pass Rec,3,16,34,70, 70
+2018-10-30 03:56:37 +0000,0,Pitman,WA,Assist - 2nd Phase,3,16,34,87, 9
+2018-10-30 03:56:48 +0000,0,Pitman,WA,Assist - Circle Entry,3,16,34,87, 9
+2018-10-30 03:56:49 +0000,0,Nelson,GS,Goal - Score,3,16,34,59, 5
+2018-10-30 03:57:00 +0000,1,Guthrie,C,Centre Pass,3,17,34,50, 100
+2018-10-30 03:57:00 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,3,17,34,28, 102
+2018-10-30 03:57:13 +0000,1,Pettitt ,GA,Assist - 2nd Phase,3,17,34,35, 152
+2018-10-30 03:57:24 +0000,0,de Bruin,GK,Deflect,3,17,34,55, 190
+2018-10-30 03:57:24 +0000,1,Pettitt ,GA,Throw In,3,17,34,60, 205
+2018-10-30 03:57:33 +0000,1,Guthrie,C,Possession,3,17,34,17, 182
+2018-10-30 03:57:35 +0000,1,Guthrie,C,Assist - Circle Entry,3,17,34,17, 182
+2018-10-30 03:57:35 +0000,1,Brice,GS,Goal - Score,3,17,34,49, 184
+2018-10-30 03:57:41 +0000,0,Bryce,C,Centre Pass,3,17,35,50, 100
+2018-10-30 03:57:41 +0000,0,Hodges,GA,Assist - Centre Pass Rec,3,17,35,64, 70
+2018-10-30 03:57:43 +0000,0,Pitman,WA,Assist - 2nd Phase,3,17,35,18, 39
+2018-10-30 03:57:45 +0000,0,Hodges,GA,Possession,3,17,35,46, 37
+2018-10-30 03:57:54 +0000,0,Hodges,GA,Possession,3,17,35,77, 19
+2018-10-30 03:58:01 +0000,0,Pitman,WA,Possession,3,17,35,21, 17
+2018-10-30 03:58:03 +0000,0,Hodges,GA,Possession,3,17,35,36, 31
+2018-10-30 03:58:05 +0000,1,Poolman ,GK,Penaly - Contact,3,17,35,43, 6
+2018-10-30 03:58:05 +0000,0,Hodges,GA,Goal - Score,3,17,35,43, 6
+2018-10-30 03:58:18 +0000,1,Guthrie,C,Centre Pass,3,18,35,50, 100
+2018-10-30 03:58:18 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,3,18,35,11, 117
+2018-10-30 03:58:20 +0000,1,Guthrie,C,Assist - 2nd Phase,3,18,35,9, 146
+2018-10-30 03:58:22 +0000,1,Green,WA,Possession,3,18,35,27, 133
+2018-10-30 03:58:25 +0000,1,Guthrie,C,Possession,3,18,35,13, 157
+2018-10-30 03:58:28 +0000,1,Green,WA,Possession,3,18,35,15, 137
+2018-10-30 03:58:31 +0000,1,Pettitt ,GA,Possession,3,18,35,10, 178
+2018-10-30 03:58:36 +0000,1,Pettitt ,GA,Assist - Circle Entry,3,18,35,10, 178
+2018-10-30 03:58:36 +0000,1,Brice,GS,Goal - Score,3,18,35,54, 190
+2018-10-30 03:58:43 +0000,0,Bryce,C,Centre Pass,3,18,36,50, 100
+2018-10-30 03:58:43 +0000,0,Pitman,WA,Assist - Centre Pass Rec,3,18,36,26, 70
+2018-10-30 03:58:45 +0000,0,Hodges,GA,Assist - 2nd Phase,3,18,36,25, 29
+2018-10-30 03:58:50 +0000,0,Hodges,GA,Assist - Circle Entry,3,18,36,25, 29
+2018-10-30 03:58:50 +0000,0,Nelson,GS,Goal - Score,3,18,36,30, 5
+2018-10-30 03:59:03 +0000,1,Guthrie,C,Centre Pass,3,19,36,50, 100
+2018-10-30 03:59:03 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,3,19,36,22, 94
+2018-10-30 03:59:06 +0000,1,Green,WA,Assist - 2nd Phase,3,19,36,10, 125
+2018-10-30 03:59:11 +0000,1,Price,WD,Possession,3,19,36,72, 119
+2018-10-30 03:59:13 +0000,1,Pettitt ,GA,Possession,3,19,36,79, 153
+2018-10-30 03:59:15 +0000,1,Guthrie,C,Possession,3,19,36,56, 142
+2018-10-30 03:59:18 +0000,1,Pettitt ,GA,Possession,3,19,36,84, 180
+2018-10-30 03:59:24 +0000,1,Green,WA,Possession,3,19,36,15, 191
+2018-10-30 03:59:26 +0000,1,Green,WA,Assist - Circle Entry,3,19,36,15, 191
+2018-10-30 03:59:26 +0000,1,Brice,GS,Goal - Score,3,19,36,57, 193
+2018-10-30 03:59:32 +0000,0,Bryce,C,Centre Pass,3,19,37,50, 100
+2018-10-30 03:59:32 +0000,0,Pitman,WA,Assist - Centre Pass Rec,3,19,37,77, 71
+2018-10-30 03:59:40 +0000,0,Hodges,GA,Assist - 2nd Phase,3,19,37,11, 26
+2018-10-30 03:59:43 +0000,0,Hodges,GA,Assist - Circle Entry,3,19,37,11, 26
+2018-10-30 03:59:43 +0000,0,Nelson,GS,Possession,3,19,37,41, 9
+2018-10-30 03:59:44 +0000,1,Poolman ,GK,Penaly - Contact,3,19,37,41, 9
+2018-10-30 03:59:44 +0000,0,Hodges,GA,Goal - Score,3,19,37,41, 9
+2018-10-30 04:01:37 +0000,1,Guthrie,C,Centre Pass,3,20,37,50, 100
+2018-10-30 04:01:37 +0000,1,Green,WA,(null),3,20,37,47, 128
+2018-10-30 04:01:57 +0000,0,de Bruin,GK,Gain - Opp Cont,3,20,37,46, 129
+2018-10-30 11:03:46 +0000,0,Petty,WD,Possession,3,20,37,18, 110
+2018-10-30 11:03:54 +0000,0,Fowler,GD,Possession,3,20,37,28, 76
+2018-10-30 11:04:06 +0000,0,Hodges,GA,Possession,3,20,37,31, 44
+2018-10-30 11:04:11 +0000,0,Hodges,GA,Assist - Circle Entry,3,20,37,31, 44
+2018-10-30 11:04:11 +0000,0,Nelson,GS,Possession,3,20,37,27, 5
+2018-10-30 11:04:13 +0000,0,Pitman,WA,Possession,3,20,37,83, 15
+2018-10-30 11:04:16 +0000,1,Poolman ,GK,Penaly - Contact,3,20,37,68, 9
+2018-10-30 11:04:16 +0000,0,Hodges,GA,Possession,3,20,37,68, 9
+2018-10-30 11:04:24 +0000,0,Nelson,GS,Goal - Score,3,20,37,44, 7
+2018-10-30 11:04:36 +0000,0,Bryce,C,Centre Pass,3,21,37,50, 100
+2018-10-30 11:04:36 +0000,0,Hodges,GA,Assist - Centre Pass Rec,3,21,37,60, 68
+2018-10-30 11:04:38 +0000,0,Pitman,WA,Assist - 2nd Phase,3,21,37,19, 23
+2018-10-30 11:04:40 +0000,0,Pitman,WA,Assist - Circle Entry,3,21,37,19, 23
+2018-10-30 11:04:40 +0000,0,Nelson,GS,Goal - Score,3,21,37,34, 4
+2018-10-30 11:04:51 +0000,1,Guthrie,C,Centre Pass,3,22,37,50, 100
+2018-10-30 11:04:51 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,3,22,37,20, 91
+2018-10-30 11:04:53 +0000,1,Pettitt ,GA,Assist - 2nd Phase,3,22,37,10, 128
+2018-10-30 11:04:58 +0000,1,Pettitt ,GA,Assist - Circle Entry,3,22,37,10, 128
+2018-10-30 11:04:58 +0000,1,Brice,GS,Goal - Score,3,22,37,49, 191
+2018-10-30 11:05:08 +0000,0,Bryce,C,Centre Pass,3,22,38,50, 100
+2018-10-30 11:05:08 +0000,1,Guthrie,C,Gain - Inter,3,22,38,13, 70
+2018-10-30 11:05:21 +0000,1,Green,WA,Possession,3,22,38,20, 75
+2018-10-30 11:05:32 +0000,0,Petty,WD,Penaly - Contact,3,22,38,20, 75
+2018-10-30 11:05:32 +0000,1,Price,WD,Possession,3,22,38,20, 75
+2018-10-30 11:05:46 +0000,1,Guthrie,C,Possession,3,22,38,47, 112
+2018-10-30 11:05:49 +0000,1,Price,WD,Possession,3,22,38,38, 127
+2018-10-30 11:05:52 +0000,1,Green,WA,Possession,3,22,38,23, 165
+2018-10-30 11:05:57 +0000,1,Green,WA,Assist - Circle Entry,3,22,38,23, 165
+2018-10-30 11:05:57 +0000,1,Brice,GS,Goal - Score,3,22,38,60, 189
+2018-10-30 11:06:09 +0000,1,Guthrie,C,Centre Pass,3,22,39,50, 100
+2018-10-30 11:06:09 +0000,1,Price,WD,Assist - Centre Pass Rec,3,22,39,70, 103
+2018-10-30 11:06:13 +0000,1,Green,WA,Assist - 2nd Phase,3,22,39,87, 125
+2018-10-30 11:06:18 +0000,1,Guthrie,C,Possession,3,22,39,89, 145
+2018-10-30 11:06:25 +0000,0,Fowler,GD,Deflect,3,22,39,31, 196
+2018-10-30 11:06:25 +0000,1,Pettitt ,GA,Throw In,3,22,39,28, 204
+2018-10-30 11:06:46 +0000,1,Guthrie,C,Possession,3,22,39,53, 159
+2018-10-30 11:06:50 +0000,1,Guthrie,C,Assist - Circle Entry,3,22,39,53, 159
+2018-10-30 11:06:50 +0000,1,Pettitt ,GA,Possession,3,22,39,34, 177
+2018-10-30 11:06:52 +0000,1,Guthrie,C,Possession,3,22,39,47, 163
+2018-10-30 11:06:55 +0000,1,Guthrie,C,Assist - Circle Entry,3,22,39,47, 163
+2018-10-30 11:06:55 +0000,1,Pettitt ,GA,Goal - Score,3,22,39,39, 183
+2018-10-30 11:07:10 +0000,0,Bryce,C,Centre Pass,3,22,40,50, 100
+2018-10-30 11:07:10 +0000,0,Hodges,GA,Assist - Centre Pass Rec,3,22,40,82, 71
+2018-10-30 11:07:13 +0000,0,Fowler,GD,Assist - 2nd Phase,3,22,40,55, 113
+2018-10-30 11:07:33 +0000,0,Hodges,GA,Possession,3,22,40,83, 60
+2018-10-30 11:07:36 +0000,0,Bryce,C,Possession,3,22,40,8, 37
+2018-10-30 11:07:40 +0000,0,Hodges,GA,Possession,3,22,40,36, 30
+2018-10-30 11:07:49 +0000,0,Pitman,WA,Possession,3,22,40,44, 32
+2018-10-30 11:08:11 +0000,1,Poolman ,GK,Penaly - Contact,3,22,40,63, 12
+2018-10-30 11:08:11 +0000,0,Hodges,GA,Goal - Miss,3,22,40,63, 12
+2018-10-30 11:08:25 +0000,1,Poolman ,GK,Gain - Def Reb,3,22,40,50, 2
+2018-10-30 11:08:30 +0000,1,Guthrie,C,Possession,3,22,40,35, 71
+2018-10-30 11:08:35 +0000,1,Price,WD,Possession,3,22,40,64, 83
+2018-10-30 11:08:38 +0000,1,Price,WD,Possession,3,22,40,49, 109
+2018-10-30 11:08:42 +0000,1,Pettitt ,GA,Possession,3,22,40,10, 128
+2018-10-30 11:08:47 +0000,1,Price,WD,Possession,3,22,40,30, 127
+2018-10-30 11:08:52 +0000,1,Guthrie,C,Possession,3,22,40,73, 160
+2018-10-30 11:08:58 +0000,1,Guthrie,C,Assist - Circle Entry,3,22,40,73, 160
+2018-10-30 11:08:58 +0000,1,Brice,GS,Possession,3,22,40,52, 187
+2018-10-30 11:09:00 +0000,0,Fowler,GD,Penaly - Contact,3,22,40,52, 187
+2018-10-30 11:09:00 +0000,1,Brice,GS,Possession,3,22,40,52, 187
+2018-10-30 11:09:08 +0000,0,de Bruin,GK,Penaly - Contact,3,22,40,52, 187
+2018-10-30 11:09:08 +0000,1,Brice,GS,Goal - Score,3,22,40,52, 187
+2018-10-30 11:09:21 +0000,1,Guthrie,C,Centre Pass,3,22,41,50, 100
+2018-10-30 11:09:21 +0000,1,Green,WA,Assist - Centre Pass Rec,3,22,41,24, 127
+2018-10-30 11:09:23 +0000,1,Pettitt ,GA,Assist - 2nd Phase,3,22,41,11, 153
+2018-10-30 11:09:45 +0000,0,Fowler,GD,Penaly - Contact,3,22,41,25, 172
+2018-10-30 11:09:45 +0000,1,Guthrie,C,Possession,3,22,41,25, 172
+2018-10-30 11:09:51 +0000,1,Guthrie,C,Assist - Circle Entry,3,22,41,25, 172
+2018-10-30 11:09:52 +0000,1,Brice,GS,Goal - Score,3,22,41,52, 184
+2018-10-30 11:10:28 +0000,0,Bryce,C,Centre Pass,3,22,42,50, 100
+2018-10-30 11:10:29 +0000,0,Petty,WD,CP Infringe - ,3,22,42,53, 130
+2018-10-30 11:11:35 +0000,1,Price,WD,Possession,3,22,42,53, 129
+2018-10-30 11:11:43 +0000,1,Green,WA,Possession,3,22,42,71, 165
+2018-10-30 11:11:47 +0000,1,Pettitt ,GA,Possession,3,22,42,86, 191
+2018-10-30 11:11:51 +0000,1,Green,WA,Possession,3,22,42,69, 169
+2018-10-30 11:11:53 +0000,1,Green,WA,Assist - Circle Entry,3,22,42,69, 169
+2018-10-30 11:11:53 +0000,1,Pettitt ,GA,Goal - Score,3,22,42,68, 192
+2018-10-30 11:12:09 +0000,1,Guthrie,C,Centre Pass,3,22,43,50, 100
+2018-10-30 11:12:09 +0000,0,Fowler,GD,Penaly - Contact on CP,3,22,43,47, 127
+2018-10-30 11:12:09 +0000,1,Guthrie,C,Possession,3,22,43,47, 127
+2018-10-30 11:12:21 +0000,1,Pettitt ,GA,Assist - 2nd Phase,3,22,43,28, 171
+2018-10-30 11:12:23 +0000,1,Guthrie,C,Possession,3,22,43,18, 182
+2018-10-30 11:12:26 +0000,1,Guthrie,C,Assist - Circle Entry,3,22,43,18, 182
+2018-10-30 11:12:26 +0000,1,Pettitt ,GA,Possession,3,22,43,32, 189
+2018-10-30 11:12:29 +0000,1,Guthrie,C,Possession,3,22,43,17, 180
+2018-10-30 11:12:32 +0000,1,Guthrie,C,Assist - Circle Entry,3,22,43,17, 180
+2018-10-30 11:12:32 +0000,1,Pettitt ,GA,Goal - Score,3,22,43,38, 191
+2018-10-30 11:12:44 +0000,0,Bryce,C,Centre Pass,3,22,44,50, 100
+2018-10-30 11:12:45 +0000,0,Pitman,WA,Assist - Centre Pass Rec,3,22,44,66, 72
+2018-10-30 11:12:55 +0000,0,Hodges,GA,Assist - 2nd Phase,3,22,44,35, 59
+2018-10-30 11:12:57 +0000,1,Bulley ,GD,Penaly - Contact,3,22,44,35, 59
+2018-10-30 11:12:57 +0000,0,Bryce,C,Possession,3,22,44,35, 59
+2018-10-30 11:13:09 +0000,0,Pitman,WA,Possession,3,22,44,77, 22
+2018-10-30 11:13:11 +0000,0,Pitman,WA,Assist - Circle Entry,3,22,44,77, 22
+2018-10-30 11:13:12 +0000,0,Hodges,GA,Possession,3,22,44,42, 3
+2018-10-30 11:13:14 +0000,1,Bulley ,GD,Penaly - Obstruction,3,22,44,42, 3
+2018-10-30 11:13:14 +0000,0,Hodges,GA,Goal - Score,3,22,44,42, 3
+2018-10-30 11:13:24 +0000,1,Guthrie,C,Centre Pass,3,23,44,50, 100
+2018-10-30 11:13:24 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,3,23,44,10, 126
+2018-10-30 11:13:27 +0000,1,Green,WA,Assist - 2nd Phase,3,23,44,19, 128
+2018-10-30 11:13:32 +0000,1,Guthrie,C,Possession,3,23,44,36, 160
+2018-10-30 11:13:35 +0000,1,Guthrie,C,Assist - Circle Entry,3,23,44,36, 160
+2018-10-30 11:13:35 +0000,1,Brice,GS,Goal - Score,3,23,44,56, 193
+2018-10-30 11:13:42 +0000,0,Bryce,C,Centre Pass,3,23,45,50, 100
+2018-10-30 11:13:42 +0000,0,Petty,WD,Assist - Centre Pass Rec,3,23,45,74, 73
+2018-10-30 11:13:47 +0000,0,Petty,WD,Assist - Circle Entry,3,23,45,74, 73
+2018-10-30 11:13:47 +0000,0,Nelson,GS,Assist - 2nd Phase,3,23,45,50, 6
+2018-10-30 11:13:52 +0000,0,Nelson,GS,Goal - Score,3,23,45,50, 6
+2018-10-30 11:13:57 +0000,1,Guthrie,C,Centre Pass,3,24,45,50, 100
+2018-10-30 11:13:57 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,3,24,45,81, 114
+2018-10-30 11:13:59 +0000,1,Green,WA,Loss - Held Ball,3,24,45,24, 138
+2018-10-30 11:14:07 +0000,0,de Bruin,GK,Possession,3,24,45,26, 138
+2018-10-30 11:14:13 +0000,0,Petty,WD,Possession,3,24,45,46, 112
+2018-10-30 11:14:21 +0000,0,Pitman,WA,Possession,3,24,45,59, 82
+2018-10-30 11:14:32 +0000,0,Bryce,C,Possession,3,24,45,49, 40
+2018-10-30 11:14:36 +0000,0,Bryce,C,Assist - Circle Entry,3,24,45,49, 40
+2018-10-30 11:14:37 +0000,0,Nelson,GS,Goal - Score,3,24,45,61, 6
+2018-10-30 11:14:48 +0000,0,Bryce,C,Centre Pass,3,25,45,50, 100
+2018-10-30 11:14:48 +0000,0,Hodges,GA,Assist - Centre Pass Rec,3,25,45,12, 75
+2018-10-30 11:14:53 +0000,1,Price,WD,Gain - Inter,3,25,45,11, 26
+2018-10-30 11:15:15 +0000,1,Guthrie,C,Possession,3,25,45,31, 41
+2018-10-30 11:15:19 +0000,1,Poolman ,GK,Possession,3,25,45,9, 35
+2018-10-30 11:15:22 +0000,1,Price,WD,Possession,3,25,45,8, 83
+2018-10-30 11:15:25 +0000,1,Pettitt ,GA,Possession,3,25,45,15, 143
+2018-10-30 11:15:36 +0000,1,Pettitt ,GA,Assist - Circle Entry,3,25,45,15, 143
+2018-10-30 11:15:36 +0000,1,Brice,GS,Deflect,3,25,45,73, 192
+2018-10-30 11:15:41 +0000,0,de Bruin,GK,Throw In,3,25,45,77, 202
+2018-10-30 11:15:59 +0000,0,Petty,WD,Deflect,3,25,45,41, 164
+2018-10-30 11:16:04 +0000,0,de Bruin,GK,Possession,3,25,45,48, 176
+2018-10-30 11:16:09 +0000,0,Petty,WD,Loss - Bad Pass,3,25,45,14, 128
+2018-10-30 11:16:24 +0000,1,Poolman ,GK,Throw In,3,25,45,10, -6
+2018-10-30 11:16:31 +0000,1,Bulley ,GD,Possession,3,25,45,10, 30
+2018-10-30 11:16:35 +0000,0,Hodges,GA,Penaly - Contact,3,25,45,10, 30
+2018-10-30 11:16:35 +0000,1,Poolman ,GK,Possession,3,25,45,10, 30
+2018-10-30 11:16:48 +0000,1,Price,WD,Possession,3,25,45,86, 73
+2018-10-30 11:16:51 +0000,1,Pettitt ,GA,Possession,3,25,45,59, 122
+2018-10-30 11:16:59 +0000,1,Green,WA,Possession,3,25,45,70, 156
+2018-10-30 11:17:01 +0000,0,Petty,WD,Penaly - Contact,3,25,45,70, 156
+2018-10-30 11:17:01 +0000,1,Green,WA,Possession,3,25,45,70, 156
+2018-10-30 11:17:07 +0000,1,Green,WA,Assist - Circle Entry,3,25,45,70, 156
+2018-10-30 11:17:07 +0000,1,Brice,GS,Possession,3,25,45,43, 191
+2018-10-30 11:17:10 +0000,0,de Bruin,GK,Penaly - Contact,3,25,45,43, 191
+2018-10-30 11:17:10 +0000,1,Brice,GS,Goal - Score,3,25,45,43, 191
+2018-10-30 11:17:19 +0000,1,,UNKNOWN,Timeout,3,25,46,110, 222
+2018-10-30 11:18:49 +0000,0,Guthrie,UNKNOWN,Interchange - Price,3,25,46,
+2018-10-30 11:18:49 +0000,0,Price,UNKNOWN,Interchange - Guthrie,3,25,46,
+2018-10-30 11:18:53 +0000,1,Price,C,Centre Pass,3,25,46,50, 100
+2018-10-30 11:18:53 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,3,25,46,8, 85
+2018-10-30 11:18:56 +0000,1,Pettitt ,GA,Assist - 2nd Phase,3,25,46,9, 116
+2018-10-30 11:19:00 +0000,1,Price,C,Possession,3,25,46,8, 132
+2018-10-30 11:19:04 +0000,1,Pettitt ,GA,Possession,3,25,46,9, 155
+2018-10-30 11:19:07 +0000,1,Pettitt ,GA,Assist - Circle Entry,3,25,46,9, 155
+2018-10-30 11:19:07 +0000,1,Brice,GS,Goal - Score,3,25,46,51, 190
+2018-10-30 11:19:17 +0000,0,Bryce,C,Centre Pass,3,25,47,50, 100
+2018-10-30 11:19:17 +0000,0,Hodges,GA,Assist - Centre Pass Rec,3,25,47,9, 68
+2018-10-30 11:19:19 +0000,0,Petty,WD,Assist - 2nd Phase,3,25,47,13, 89
+2018-10-30 11:19:28 +0000,0,Fowler,GD,Possession,3,25,47,53, 111
+2018-10-30 11:19:32 +0000,0,Bryce,C,Possession,3,25,47,54, 79
+2018-10-30 11:19:36 +0000,0,Hodges,GA,Possession,3,25,47,12, 37
+2018-10-30 11:19:39 +0000,0,Hodges,GA,Assist - Circle Entry,3,25,47,12, 37
+2018-10-30 11:19:39 +0000,0,Nelson,GS,Goal - Score,3,25,47,48, 8
+2018-10-30 11:20:20 +0000,1,Price,C,Centre Pass,3,26,47,50, 100
+2018-10-30 11:20:20 +0000,0,Fowler,GD,Penaly - Obstruction,3,26,47,68, 134
+2018-10-30 11:20:20 +0000,1,Green,WA,Possession,3,26,47,68, 134
+2018-10-30 11:20:37 +0000,1,Green,WA,Assist - Circle Entry,3,26,47,68, 134
+2018-10-30 11:20:37 +0000,1,Pettitt ,GA,Assist - 2nd Phase,3,26,47,69, 191
+2018-10-30 11:20:40 +0000,1,Pettitt ,GA,Goal - Score,3,26,47,69, 191
+2018-10-30 11:20:47 +0000,0,Bryce,C,Centre Pass,3,26,48,50, 100
+2018-10-30 11:20:47 +0000,1,Guthrie,WD,Gain - Inter,3,26,48,33, 82
+2018-10-30 11:21:07 +0000,1,Pettitt ,GA,Possession,3,26,48,32, 93
+2018-10-30 11:21:10 +0000,1,Bulley ,GD,Possession,3,26,48,90, 123
+2018-10-30 11:21:18 +0000,1,Price,C,Possession,3,26,48,44, 143
+2018-10-30 11:21:20 +0000,1,Pettitt ,GA,Possession,3,26,48,16, 163
+2018-10-30 11:21:23 +0000,1,Green,WA,Possession,3,26,48,86, 193
+2018-10-30 11:21:25 +0000,1,Green,WA,Assist - Circle Entry,3,26,48,86, 193
+2018-10-30 11:21:25 +0000,1,Brice,GS,Goal - Score,3,26,48,51, 189
+2018-10-30 11:21:32 +0000,1,Price,C,Centre Pass,3,26,49,50, 100
+2018-10-30 11:21:32 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,3,26,49,89, 121
+2018-10-30 11:21:35 +0000,1,Green,WA,Assist - 2nd Phase,3,26,49,88, 177
+2018-10-30 11:21:39 +0000,1,Pettitt ,GA,Possession,3,26,49,68, 161
+2018-10-30 11:21:42 +0000,1,Green,WA,Possession,3,26,49,83, 186
+2018-10-30 11:21:46 +0000,1,Green,WA,Assist - Circle Entry,3,26,49,83, 186
+2018-10-30 11:21:46 +0000,1,Pettitt ,GA,Goal - Miss,3,26,49,71, 193
+2018-10-30 11:21:52 +0000,1,Brice,GS,Assist - Attack Rebound,3,26,49,50, 197
+2018-10-30 11:21:53 +0000,1,Brice,GS,Goal - Score,3,26,49,71, 193
+2018-10-30 11:22:24 +0000,0,Bryce,C,Centre Pass,3,26,50,50, 100
+2018-10-30 11:22:24 +0000,0,Pitman,WA,Assist - Centre Pass Rec,3,26,50,88, 70
+2018-10-30 11:22:30 +0000,0,Petty,WD,Assist - 2nd Phase,3,26,50,38, 67
+2018-10-30 11:22:32 +0000,0,Hodges,GA,Possession,3,26,50,43, 51
+2018-10-30 11:22:35 +0000,0,Hodges,GA,Assist - Circle Entry,3,26,50,43, 51
+2018-10-30 11:22:35 +0000,0,Nelson,GS,Goal - Score,3,26,50,42, 13
+2018-10-30 11:22:43 +0000,1,Price,C,Centre Pass,3,27,50,50, 100
+2018-10-30 11:22:44 +0000,1,Green,WA,Assist - Centre Pass Rec,3,27,50,37, 126
+2018-10-30 11:22:48 +0000,1,Green,WA,Assist - Circle Entry,3,27,50,37, 126
+2018-10-30 11:22:48 +0000,1,Brice,GS,Assist - 2nd Phase,3,27,50,52, 189
+2018-10-30 11:22:53 +0000,1,Brice,GS,Goal - Score,3,27,50,52, 189
+2018-10-30 11:22:58 +0000,0,Bryce,C,Centre Pass,3,27,51,50, 100
+2018-10-30 11:22:58 +0000,0,Hodges,GA,Assist - Centre Pass Rec,3,27,51,73, 76
+2018-10-30 11:23:03 +0000,0,Pitman,WA,Assist - 2nd Phase,3,27,51,81, 33
+2018-10-30 11:23:07 +0000,0,Pitman,WA,Assist - Circle Entry,3,27,51,81, 33
+2018-10-30 11:23:08 +0000,0,Nelson,GS,Goal - Miss,3,27,51,61, 7
+2018-10-30 11:23:14 +0000,0,Nelson,GS,Assist - Attack Rebound,3,27,51,50, 2
+2018-10-30 11:23:15 +0000,1,Poolman ,GK,Penaly - Contact,3,27,51,50, 2
+2018-10-30 11:23:15 +0000,0,Nelson,GS,Goal - Score,3,27,51,50, 2
+2018-10-30 11:23:27 +0000,1,Price,C,Centre Pass,3,28,51,50, 100
+2018-10-30 11:23:27 +0000,1,Green,WA,Assist - Centre Pass Rec,3,28,51,32, 122
+2018-10-30 11:23:31 +0000,1,Green,WA,Assist - Circle Entry,3,28,51,32, 122
+2018-10-30 11:23:31 +0000,1,Brice,GS,Assist - 2nd Phase,3,28,51,56, 191
+2018-10-30 11:23:35 +0000,1,Brice,GS,Goal - Score,3,28,51,56, 191
+2018-10-30 11:25:02 +0000,0,Bryce,C,Centre Pass,3,28,52,50, 100
+2018-10-30 11:25:03 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,3,28,52,83, 72
+2018-10-30 11:25:06 +0000,0,Pitman,WA,Assist - 2nd Phase,3,28,52,83, 52
+2018-10-30 11:25:11 +0000,0,Pitman,WA,Assist - Circle Entry,3,28,52,83, 52
+2018-10-30 11:25:11 +0000,0,Nelson,GS,Goal - Score,3,28,52,51, 11
+2018-10-30 11:25:19 +0000,1,Price,C,Centre Pass,3,29,52,50, 100
+2018-10-30 11:25:19 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,3,29,52,88, 110
+2018-10-30 11:25:21 +0000,1,,UNKNOWN,Assist - 2nd Phase,3,29,52,75, 134
+2018-10-30 11:25:22 +0000,1,,UNKNOWN,Possession,3,29,52,84, 134
+2018-10-30 11:25:23 +0000,1,Green,WA,Possession,3,29,52,13, 147
+2018-10-30 11:25:26 +0000,1,Green,WA,Assist - Circle Entry,3,29,52,13, 147
+2018-10-30 11:25:26 +0000,1,Brice,GS,Goal - Score,3,29,52,60, 190
+2018-10-30 11:25:34 +0000,0,Bryce,C,Centre Pass,3,29,53,50, 100
+2018-10-30 11:25:34 +0000,0,Pitman,WA,Assist - Centre Pass Rec,3,29,53,71, 81
+2018-10-30 11:25:36 +0000,0,Bryce,C,Assist - 2nd Phase,3,29,53,78, 35
+2018-10-30 11:25:43 +0000,1,Poolman ,GK,Penaly - Contact,3,29,53,61, 7
+2018-10-30 11:25:43 +0000,0,Hodges,GA,Possession,3,29,53,61, 7
+2018-10-30 11:25:55 +0000,0,Nelson,GS,Goal - Score,3,29,53,42, 7
+2018-10-30 11:26:06 +0000,1,Price,C,Centre Pass,3,30,53,50, 100
+2018-10-30 11:26:06 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,3,30,53,37, 115
+2018-10-30 11:26:09 +0000,0,Hodges,GA,Penaly - Contact,3,30,53,37, 115
+2018-10-30 11:26:09 +0000,1,Bulley ,GD,Possession,3,30,53,37, 115
+2018-10-30 11:26:46 +0000,1,Pettitt ,GA,Possession,3,30,53,7, 168
+2018-10-30 11:27:35 +0000,1,Green,WA,Possession,3,30,53,41, 135
+2018-10-30 11:27:49 +0000,0,Pitman,WA,Penaly - Contact,3,30,53,41, 135
+2018-10-30 11:27:49 +0000,1,Green,WA,Possession,3,30,53,41, 135
+2018-10-30 11:27:58 +0000,1,Pettitt ,GA,Possession,3,30,53,85, 191
+2018-10-30 11:28:01 +0000,1,Price,C,Possession,3,30,53,14, 187
+2018-10-30 11:28:07 +0000,1,Price,C,Assist - Circle Entry,3,30,53,14, 187
+2018-10-30 11:28:08 +0000,0,Fowler,GD,Gain - Inter,3,30,53,23, 191
+2018-10-30 11:28:23 +0000,0,Petty,WD,Possession,3,30,53,74, 168
+2018-10-30 11:28:27 +0000,0,Fowler,GD,Possession,3,30,53,46, 140
+2018-10-30 11:28:32 +0000,1,Guthrie,WD,Gain - Inter,3,30,53,77, 91
+2018-10-30 11:28:39 +0000,1,Price,C,Possession,3,30,53,73, 111
+2018-10-30 11:28:43 +0000,1,Green,WA,Possession,3,30,53,79, 155
+2018-10-30 11:28:45 +0000,1,Green,WA,Assist - Circle Entry,3,30,53,79, 155
+2018-10-30 11:28:45 +0000,1,Brice,GS,Goal - Score,3,30,53,56, 191
+2018-10-30 11:29:17 +0000,0,Bryce,C,Centre Pass,3,30,54,50, 100
+2018-10-30 11:29:17 +0000,0,,UNKNOWN,Assist - Centre Pass Rec,3,30,54,76, 70
+2018-10-30 11:29:18 +0000,0,Pitman,WA,Assist - 2nd Phase,3,30,54,12, 12
+2018-10-30 11:29:23 +0000,0,Pitman,WA,Assist - Circle Entry,3,30,54,12, 12
+2018-10-30 11:29:23 +0000,0,Nelson,GS,Goal - Score,3,30,54,46, 6
+2018-10-30 11:29:31 +0000,1,Price,C,Centre Pass,3,31,54,50, 100
+2018-10-30 11:29:31 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,3,31,54,28, 103
+2018-10-30 11:29:33 +0000,1,Green,WA,Assist - 2nd Phase,3,31,54,82, 179
+2018-10-30 11:29:36 +0000,1,Pettitt ,GA,Possession,3,31,54,22, 174
+2018-10-30 11:29:39 +0000,1,Pettitt ,GA,Assist - Circle Entry,3,31,54,22, 174
+2018-10-30 11:29:39 +0000,1,Brice,GS,Goal - Score,3,31,54,56, 181
+2018-10-30 11:29:49 +0000,0,Bryce,C,Centre Pass,3,31,55,50, 100
+2018-10-30 11:29:49 +0000,0,Hodges,GA,Assist - Centre Pass Rec,3,31,55,57, 69
+2018-10-30 11:29:52 +0000,0,Hodges,GA,Assist - Circle Entry,3,31,55,57, 69
+2018-10-30 11:29:52 +0000,0,Nelson,GS,Goal - Score,3,31,55,49, 8
+2018-10-30 11:30:06 +0000,1,Price,C,Centre Pass,3,32,55,50, 100
+2018-10-30 11:30:06 +0000,0,Bryce,C,Gain - Inter,3,32,55,39, 114
+2018-10-30 11:30:13 +0000,0,Petty,WD,Possession,3,32,55,31, 87
+2018-10-30 11:30:17 +0000,0,Bryce,C,Possession,3,32,55,69, 69
+2018-10-30 11:30:20 +0000,0,Bryce,C,Assist - Circle Entry,3,32,55,69, 69
+2018-10-30 11:30:20 +0000,0,Nelson,GS,Possession,3,32,55,58, 17
+2018-10-30 11:30:26 +0000,0,Bryce,C,Possession,3,32,55,70, 28
+2018-10-30 11:30:31 +0000,0,Bryce,C,Assist - Circle Entry,3,32,55,70, 28
+2018-10-30 11:30:31 +0000,0,Nelson,GS,Possession,3,32,55,45, 5
+2018-10-30 11:30:33 +0000,1,Bulley ,GD,Penaly - Contact,3,32,55,45, 5
+2018-10-30 11:30:33 +0000,0,Nelson,GS,Goal - Score,3,32,55,45, 5
+2018-10-30 11:30:44 +0000,0,Bryce,C,Centre Pass,3,33,55,50, 100
+2018-10-30 11:30:44 +0000,0,Pitman,WA,Assist - Centre Pass Rec,3,33,55,49, 78
+2018-10-30 11:30:47 +0000,0,Pitman,WA,Assist - Circle Entry,3,33,55,49, 78
+2018-10-30 11:30:47 +0000,0,Nelson,GS,Assist - 2nd Phase,3,33,55,66, 21
+2018-10-30 11:30:50 +0000,0,Hodges,GA,Goal - Score,3,33,55,51, 20
+2018-10-30 11:31:01 +0000,1,Price,C,Centre Pass,3,34,55,50, 100
+2018-10-30 11:31:01 +0000,1,Pettitt ,GA,Assist - Centre Pass Rec,3,34,55,10, 110
+2018-10-30 11:31:06 +0000,1,Green,WA,Assist - 2nd Phase,3,34,55,32, 134
+2018-10-30 11:31:10 +0000,1,Price,C,Possession,3,34,55,80, 166
+2018-10-30 11:31:14 +0000,1,Price,C,Assist - Circle Entry,3,34,55,80, 166
+2018-10-30 11:31:14 +0000,1,Brice,GS,Possession,3,34,55,42, 186
+2018-10-30 11:31:16 +0000,1,Pettitt ,GA,Goal - Miss,3,34,55,54, 187
+2018-10-30 11:31:21 +0000,1,Brice,GS,Assist - Attack Rebound,3,34,55,50, 197
+2018-10-30 11:31:23 +0000,1,Brice,GS,Goal - Score,3,34,55,54, 187
+2018-10-30 11:32:32 +0000,0,de Bruin,UNKNOWN,Interchange - Shimmin,4,34,56,
+2018-10-30 11:32:32 +0000,0,Pettitt ,UNKNOWN,Interchange - Harten ,4,34,56,
+2018-10-30 11:32:32 +0000,0,Poolman ,UNKNOWN,Interchange - Manu’a,4,34,56,
+2018-10-30 11:32:35 +0000,0,Bryce,C,Centre Pass,4,34,56,50, 100
+2018-10-30 11:32:35 +0000,0,Hodges,GA,Assist - Centre Pass Rec,4,34,56,7, 78
+2018-10-30 11:32:42 +0000,0,Fowler,GD,Assist - 2nd Phase,4,34,56,26, 98
+2018-10-30 11:32:44 +0000,0,Petty,WD,Possession,4,34,56,55, 96
+2018-10-30 11:32:54 +0000,0,Pitman,WA,Possession,4,34,56,8, 66
+2018-10-30 11:32:59 +0000,0,Bryce,C,Possession,4,34,56,60, 59
+2018-10-30 11:33:01 +0000,0,Hodges,GA,Possession,4,34,56,71, 44
+2018-10-30 11:33:04 +0000,0,Hodges,GA,Assist - Circle Entry,4,34,56,71, 44
+2018-10-30 11:33:04 +0000,0,Nelson,GS,Goal - Score,4,34,56,41, 8
+2018-10-30 11:33:13 +0000,1,Price,C,Centre Pass,4,35,56,50, 100
+2018-10-30 11:33:13 +0000,1,Harten ,GA,Assist - Centre Pass Rec,4,35,56,29, 130
+2018-10-30 11:33:16 +0000,1,Price,C,Assist - 2nd Phase,4,35,56,48, 150
+2018-10-30 11:33:21 +0000,1,Harten ,GA,Possession,4,35,56,23, 161
+2018-10-30 11:33:24 +0000,1,Bulley ,GD,Possession,4,35,56,42, 133
+2018-10-30 11:33:28 +0000,1,Green,WA,Possession,4,35,56,43, 146
+2018-10-30 11:33:34 +0000,1,Harten ,GA,Possession,4,35,56,26, 174
+2018-10-30 11:33:36 +0000,1,Harten ,GA,Assist - Circle Entry,4,35,56,26, 174
+2018-10-30 11:33:36 +0000,1,Brice,GS,Goal - Score,4,35,56,46, 193
+2018-10-30 11:33:45 +0000,0,Bryce,C,Centre Pass,4,35,57,50, 100
+2018-10-30 11:33:45 +0000,0,Petty,WD,Assist - Centre Pass Rec,4,35,57,74, 82
+2018-10-30 11:33:52 +0000,0,Hodges,GA,Assist - 2nd Phase,4,35,57,78, 49
+2018-10-30 11:34:02 +0000,0,Hodges,GA,Assist - Circle Entry,4,35,57,78, 49
+2018-10-30 11:34:02 +0000,0,Nelson,GS,Possession,4,35,57,49, 17
+2018-10-30 11:34:05 +0000,1,Manu’a,GK,Penaly - Contact,4,35,57,49, 17
+2018-10-30 11:34:05 +0000,0,Hodges,GA,Goal - Score,4,35,57,49, 17
+2018-10-30 11:34:20 +0000,1,Price,C,Centre Pass,4,36,57,50, 100
+2018-10-30 11:34:20 +0000,1,Guthrie,WD,Assist - Centre Pass Rec,4,36,57,74, 89
+2018-10-30 11:34:23 +0000,1,Green,WA,Assist - 2nd Phase,4,36,57,92, 111
+2018-10-30 11:34:31 +0000,1,Guthrie,WD,Possession,4,36,57,74, 92
+2018-10-30 11:34:35 +0000,1,Green,WA,Possession,4,36,57,92, 122
+2018-10-30 11:34:37 +0000,1,Guthrie,WD,Possession,4,36,57,74, 97
+2018-10-30 11:34:40 +0000,1,Bulley ,GD,Possession,4,36,57,57, 111
+2018-10-30 11:34:43 +0000,1,Price,C,Possession,4,36,57,33, 132
+2018-10-30 11:34:57 +0000,1,Harten ,GA,Possession,4,36,57,17, 157
+2018-10-30 11:35:00 +0000,0,Fowler,GD,Penaly - Contact,4,36,57,17, 157
+2018-10-30 11:35:00 +0000,1,Green,WA,Possession,4,36,57,17, 157
+2018-10-30 11:35:14 +0000,1,Green,WA,Assist - Circle Entry,4,36,57,17, 157
+2018-10-30 11:35:14 +0000,1,Harten ,GA,Possession,4,36,57,37, 191
+2018-10-30 11:35:16 +0000,1,Brice,GS,Goal - Score,4,36,57,55, 193
+2018-10-30 11:35:33 +0000,0,Bryce,C,Centre Pass,4,36,58,50, 100
+2018-10-30 11:35:33 +0000,1,Bulley ,GD,Penaly - Contact on CP,4,36,58,65, 64
+2018-10-30 11:35:33 +0000,0,Bryce,C,Possession,4,36,58,65, 64
+2018-10-30 11:35:53 +0000,0,Pitman,WA,Assist - 2nd Phase,4,36,58,20, 24
+2018-10-30 11:35:56 +0000,0,Pitman,WA,Assist - Circle Entry,4,36,58,20, 24
+2018-10-30 11:35:56 +0000,0,Nelson,GS,Goal - Score,4,36,58,42, 13
+2018-10-30 11:36:07 +0000,1,Price,C,Centre Pass,4,37,58,50, 100
+2018-10-30 11:36:07 +0000,1,Harten ,GA,Assist - Centre Pass Rec,4,37,58,10, 131
+2018-10-30 11:36:15 +0000,1,Harten ,GA,Assist - Circle Entry,4,37,58,10, 131
+2018-10-30 11:36:15 +0000,1,Brice,GS,Goal - Score,4,37,58,52, 191
+2018-10-30 11:36:24 +0000,0,Bryce,C,Centre Pass,4,37,59,50, 100
+2018-10-30 11:36:24 +0000,0,Pitman,WA,Assist - Centre Pass Rec,4,37,59,47, 84
+2018-10-30 11:36:29 +0000,0,Pitman,WA,Assist - Circle Entry,4,37,59,47, 84
+2018-10-30 11:36:29 +0000,0,Nelson,GS,Assist - 2nd Phase,4,37,59,46, 20
+2018-10-30 11:36:33 +0000,1,Manu’a,GK,Penaly - Contact,4,37,59,46, 20
+2018-10-30 11:36:34 +0000,0,Hodges,GA,Possession,4,37,59,46, 20
+2018-10-30 11:36:52 +0000,1,Bulley ,GD,Penaly - Obstruction,4,37,59,46, 20
+2018-10-30 11:36:52 +0000,0,Hodges,GA,Goal - Score,4,37,59,46, 20
+2018-10-30 11:37:16 +0000,1,Price,C,Centre Pass,4,38,59,50, 100
+2018-10-30 11:37:16 +0000,1,Green,WA,Assist - Centre Pass Rec,4,38,59,19, 128
+2018-10-30 11:37:22 +0000,1,Harten ,GA,Assist - 2nd Phase,4,38,59,43, 165
+2018-10-30 11:37:28 +0000,1,Harten ,GA,Assist - Circle Entry,4,38,59,43, 165
+2018-10-30 11:37:29 +0000,1,Brice,GS,Goal - Score,4,38,59,55, 192
+2018-10-30 11:37:39 +0000,0,Bryce,C,Centre Pass,4,38,60,50, 100
+2018-10-30 11:37:39 +0000,0,Hodges,GA,Assist - Centre Pass Rec,4,38,60,24, 76
+2018-10-30 11:37:42 +0000,0,Pitman,WA,Assist - 2nd Phase,4,38,60,79, 21
+2018-10-30 11:37:44 +0000,0,Pitman,WA,Assist - Circle Entry,4,38,60,79, 21
+2018-10-30 11:37:44 +0000,0,Hodges,GA,Goal - Score,4,38,60,60, 10
+2018-10-30 11:37:54 +0000,1,Price,C,Centre Pass,4,39,60,50, 100
+2018-10-30 11:37:54 +0000,1,Harten ,GA,Assist - Centre Pass Rec,4,39,60,16, 129
+2018-10-30 11:37:56 +0000,1,Price,C,Assist - 2nd Phase,4,39,60,22, 178
+2018-10-30 11:38:00 +0000,1,Harten ,GA,Possession,4,39,60,76, 177
+2018-10-30 11:38:06 +0000,1,Harten ,GA,Assist - Circle Entry,4,39,60,76, 177
+2018-10-30 11:38:06 +0000,0,Shimmin,GK,Gain - Inter,4,39,60,44, 193
+2018-10-30 11:38:37 +0000,0,Bryce,C,Possession,4,39,60,15, 138
+2018-10-30 11:38:45 +0000,0,Pitman,WA,Loss - Bad Pass,4,39,60,88, 65
+2018-10-30 11:40:23 +0000,1,Manu’a,GK,Possession,4,39,60,88, 65
+2018-10-30 11:42:15 +0000,1,Bulley ,GD,Possession,4,39,60,65, 91
+2018-10-30 11:42:21 +0000,1,Price,C,Possession,4,39,60,91, 150
+2018-10-30 11:42:31 +0000,1,Harten ,GA,Possession,4,39,60,55, 161
+2018-10-30 11:42:34 +0000,1,Price,C,Possession,4,39,60,77, 177
+2018-10-30 11:42:37 +0000,1,Price,C,Assist - Circle Entry,4,39,60,77, 177
+2018-10-30 11:42:37 +0000,1,Harten ,GA,Goal - Score,4,39,60,66, 189
+2018-10-30 11:42:47 +0000,0,Bryce,C,Centre Pass,4,39,61,50, 100
+2018-10-30 11:42:47 +0000,0,Pitman,WA,Assist - Centre Pass Rec,4,39,61,68, 90
+2018-10-30 11:42:51 +0000,0,Hodges,GA,Assist - 2nd Phase,4,39,61,28, 73
+2018-10-30 11:42:58 +0000,1,Bulley ,GD,Penaly - Contact,4,39,61,28, 73
+2018-10-30 11:42:58 +0000,0,Fowler,GD,Possession,4,39,61,28, 73
+2018-10-30 11:43:14 +0000,0,Bryce,C,Possession,4,39,61,83, 27
+2018-10-30 11:43:19 +0000,0,Bryce,C,Assist - Circle Entry,4,39,61,83, 27
+2018-10-30 11:43:19 +0000,0,Nelson,GS,Goal - Score,4,39,61,46, 9
+2018-10-30 11:54:35 +0000,1,Price,C,Centre Pass,4,40,61,50, 100
+2018-10-30 11:54:35 +0000,0,Petty,WD,Penaly - Contact on CP,4,40,61,56, 131
+2018-10-30 11:54:35 +0000,1,Bulley ,GD,Possession,4,40,61,56, 131
+2018-10-30 11:54:53 +0000,1,Price,C,Assist - 2nd Phase,4,40,61,26, 161
+2018-10-30 11:54:56 +0000,1,Harten ,GA,Possession,4,40,61,17, 194
+2018-10-30 11:55:03 +0000,1,Price,C,Possession,4,40,61,18, 185
+2018-10-30 11:55:05 +0000,1,Price,C,Assist - Circle Entry,4,40,61,18, 185
+2018-10-30 11:55:05 +0000,1,Harten ,GA,Possession,4,40,61,31, 192
+2018-10-30 11:55:24 +0000,0,Shimmin,GK,Penaly - Obstruction,4,40,61,31, 192
+2018-10-30 11:55:24 +0000,1,Harten ,GA,Goal - Score,4,40,61,31, 192
+2018-10-30 11:55:43 +0000,0,Bryce,C,Centre Pass,4,40,62,50, 100
+2018-10-30 11:55:43 +0000,0,Pitman,WA,Assist - Centre Pass Rec,4,40,62,28, 80
+2018-10-30 11:55:52 +0000,0,Pitman,WA,Assist - Circle Entry,4,40,62,28, 80
+2018-10-30 11:55:52 +0000,1,Manu’a,GK,Gain - Inter,4,40,62,45, 13
+2018-10-30 11:55:59 +0000,1,Guthrie,WD,Possession,4,40,62,21, 37
+2018-10-30 11:56:02 +0000,1,Manu’a,GK,Possession,4,40,62,33, 60
+2018-10-30 11:56:05 +0000,1,Guthrie,WD,Possession,4,40,62,8, 84
+2018-10-30 11:56:08 +0000,1,Manu’a,GK,Possession,4,40,62,18, 65
+2018-10-30 11:56:10 +0000,1,Bulley ,GD,Possession,4,40,62,37, 88
+2018-10-30 11:56:14 +0000,1,Guthrie,WD,Possession,4,40,62,76, 112
+2018-10-30 11:56:16 +0000,1,Green,WA,Possession,4,40,62,89, 143
+2018-10-30 11:56:19 +0000,1,Harten ,GA,Possession,4,40,62,61, 145
+2018-10-30 11:56:29 +0000,1,Price,C,Loss - Off Contact,4,40,62,31, 171
+2018-10-30 11:56:36 +0000,0,Shimmin,GK,Possession,4,40,62,29, 171
+2018-10-30 11:56:42 +0000,0,Fowler,GD,Possession,4,40,62,70, 170
+2018-10-30 11:56:49 +0000,0,Shimmin,GK,Possession,4,40,62,79, 142
+2018-10-30 11:56:52 +0000,0,Petty,WD,Possession,4,40,62,86, 116
+2018-10-30 11:56:56 +0000,0,Hodges,GA,Possession,4,40,62,89, 74
+2018-10-30 11:57:00 +0000,0,Petty,WD,Possession,4,40,62,64, 75
+2018-10-30 11:57:54 +0000,0,Bryce,C,Possession,4,40,62,12, 29
+2018-10-30 11:57:57 +0000,0,Pitman,WA,Possession,4,40,62,39, 36
+2018-10-30 11:57:59 +0000,0,Fowler,GD,Possession,4,40,62,30, 70
+2018-10-30 11:58:04 +0000,1,Harten ,GA,Penaly - Contact,4,40,62,30, 70
+2018-10-30 11:58:04 +0000,0,Fowler,GD,Possession,4,40,62,30, 70
+2018-10-30 11:58:15 +0000,0,Pitman,WA,Loss - Bad Pass,4,40,62,20, 22
+2018-10-30 11:58:24 +0000,1,Manu’a,GK,Throw In,4,40,62,105, 21
+2018-10-30 11:58:32 +0000,1,Guthrie,WD,Possession,4,40,62,85, 33
+2018-10-30 11:58:34 +0000,1,Manu’a,GK,Possession,4,40,62,91, 53
+2018-10-30 11:58:39 +0000,1,Green,WA,Possession,4,40,62,92, 107
+2018-10-30 11:58:41 +0000,1,Guthrie,WD,Possession,4,40,62,60, 126
+2018-10-30 11:58:43 +0000,1,Price,C,Possession,4,40,62,39, 158
+2018-10-30 11:58:46 +0000,1,Price,C,Assist - Circle Entry,4,40,62,39, 158
+2018-10-30 11:58:46 +0000,1,Brice,GS,Goal - Score,4,40,62,40, 194
+2018-10-30 11:58:57 +0000,1,Price,C,Centre Pass,4,40,63,50, 100
+2018-10-30 11:58:57 +0000,1,Guthrie,WD,Assist - Centre Pass Rec,4,40,63,81, 117
+2018-10-30 11:58:59 +0000,1,Green,WA,Assist - 2nd Phase,4,40,63,90, 146
+2018-10-30 11:59:01 +0000,1,Harten ,GA,Possession,4,40,63,92, 190
+2018-10-30 11:59:04 +0000,1,Price,C,Possession,4,40,63,70, 172
+2018-10-30 11:59:07 +0000,1,Price,C,Assist - Circle Entry,4,40,63,70, 172
+2018-10-30 11:59:07 +0000,1,Harten ,GA,Goal - Miss,4,40,63,76, 197
+2018-10-30 11:59:22 +0000,0,Shimmin,GK,Deflect,4,40,63,50, 197
+2018-10-30 11:59:26 +0000,1,Harten ,GA,Throw In,4,40,63,49, 205
+2018-10-30 11:59:42 +0000,1,Green,WA,Possession,4,40,63,13, 195
+2018-10-30 11:59:46 +0000,1,Green,WA,Assist - Circle Entry,4,40,63,13, 195
+2018-10-30 11:59:46 +0000,1,Harten ,GA,Possession,4,40,63,29, 193
+2018-10-30 11:59:48 +0000,0,Fowler,GD,Penaly - Contact,4,40,63,29, 193
+2018-10-30 11:59:48 +0000,1,Harten ,GA,Possession,4,40,63,29, 193
+2018-10-30 11:59:52 +0000,1,Brice,GS,Goal - Score,4,40,63,53, 193
+2018-10-30 12:00:20 +0000,0,Bryce,C,Centre Pass,4,40,64,50, 100
+2018-10-30 12:00:20 +0000,1,Green,WA,Penaly - Obstruction,4,40,64,44, 96
+2018-10-30 12:00:20 +0000,0,Bryce,C,Possession,4,40,64,44, 96
+2018-10-30 12:00:39 +0000,0,Pitman,WA,Assist - 2nd Phase,4,40,64,28, 73
+2018-10-30 12:00:42 +0000,0,Fowler,GD,Possession,4,40,64,18, 81
+2018-10-30 12:00:45 +0000,0,Pitman,WA,Possession,4,40,64,9, 46
+2018-10-30 12:00:51 +0000,0,Bryce,C,Possession,4,40,64,81, 20
+2018-10-30 12:00:54 +0000,0,Bryce,C,Assist - Circle Entry,4,40,64,81, 20
+2018-10-30 12:00:54 +0000,0,Nelson,GS,Goal - Miss,4,40,64,43, 8
+2018-10-30 12:01:02 +0000,0,Nelson,GS,Assist - Attack Rebound,4,40,64,50, 2
+2018-10-30 12:01:06 +0000,0,Nelson,GS,Goal - Score,4,40,64,43, 8
+2018-10-30 12:01:12 +0000,1,Price,C,Centre Pass,4,41,64,50, 100
+2018-10-30 12:01:13 +0000,1,Guthrie,WD,Assist - Centre Pass Rec,4,41,64,33, 122
+2018-10-30 12:01:15 +0000,0,Hodges,GA,Penaly - Contact,4,41,64,33, 122
+2018-10-30 12:01:15 +0000,1,Guthrie,WD,Possession,4,41,64,33, 122
+2018-10-30 12:01:19 +0000,1,Green,WA,Possession,4,41,64,88, 142
+2018-10-30 12:01:23 +0000,1,Harten ,GA,Possession,4,41,64,92, 166
+2018-10-30 12:01:27 +0000,1,Harten ,GA,Assist - Circle Entry,4,41,64,92, 166
+2018-10-30 12:01:27 +0000,0,Fowler,GD,Gain - Inter,4,41,64,50, 189
+2018-10-30 12:01:40 +0000,0,Petty,WD,Possession,4,41,64,51, 165
+2018-10-30 12:01:45 +0000,0,Shimmin,GK,Possession,4,41,64,76, 166
+2018-10-30 12:01:47 +0000,0,Petty,WD,Possession,4,41,64,79, 129
+2018-10-30 12:01:50 +0000,0,Hodges,GA,Loss - Drop,4,41,64,12, 73
+2018-10-30 12:02:39 +0000,1,Guthrie,WD,Possession,4,41,64,11, 72
+2018-10-30 12:02:45 +0000,0,Hodges,GA,Penaly - Contact,4,41,64,11, 72
+2018-10-30 12:02:45 +0000,1,Guthrie,WD,Possession,4,41,64,11, 72
+2018-10-30 12:03:38 +0000,1,,UNKNOWN,Possession,4,41,64,20, 125
+2018-10-30 12:03:40 +0000,1,Green,WA,Possession,4,41,64,19, 174
+2018-10-30 12:03:42 +0000,0,Fowler,GD,Penaly - Contact,4,41,64,19, 174
+2018-10-30 12:03:42 +0000,1,Green,WA,Possession,4,41,64,19, 174
+2018-10-30 12:03:54 +0000,1,Green,WA,Assist - Circle Entry,4,41,64,19, 174
+2018-10-30 12:03:54 +0000,1,Harten ,GA,Goal - Score,4,41,64,41, 190
+2018-10-30 12:04:06 +0000,0,Bryce,C,Centre Pass,4,41,65,50, 100
+2018-10-30 12:04:06 +0000,0,Hodges,GA,Assist - Centre Pass Rec,4,41,65,75, 74
+2018-10-30 12:04:09 +0000,0,Pitman,WA,Assist - 2nd Phase,4,41,65,44, 39
+2018-10-30 12:04:12 +0000,1,Manu’a,GK,Penaly - Contact,4,41,65,44, 39
+2018-10-30 12:04:12 +0000,0,Pitman,WA,Possession,4,41,65,44, 39
+2018-10-30 12:04:18 +0000,0,Pitman,WA,Assist - Circle Entry,4,41,65,44, 39
+2018-10-30 12:04:18 +0000,0,Hodges,GA,Goal - Score,4,41,65,43, 19
+2018-10-30 12:04:27 +0000,1,Price,C,Centre Pass,4,42,65,50, 100
+2018-10-30 12:04:27 +0000,1,Bulley ,GD,Assist - Centre Pass Rec,4,42,65,21, 118
+2018-10-30 12:04:36 +0000,1,Bulley ,GD,Assist - Circle Entry,4,42,65,21, 118
+2018-10-30 12:04:36 +0000,1,Brice,GS,Assist - 2nd Phase,4,42,65,42, 194
+2018-10-30 12:04:40 +0000,1,Brice,GS,Goal - Score,4,42,65,42, 194
+2018-10-30 12:05:42 +0000,0,Bryce,C,Centre Pass,4,42,66,50, 100
+2018-10-30 12:05:42 +0000,0,Bryce,C,CP Infringe - ,4,42,66,49, 101
+2018-10-30 12:05:42 +0000,1,Price,C,Possession,4,42,66,49, 101
+2018-10-30 12:07:01 +0000,1,Green,WA,Possession,4,42,66,91, 127
+2018-10-30 12:07:03 +0000,1,Guthrie,WD,Possession,4,42,66,71, 111
+2018-10-30 12:07:07 +0000,1,Green,WA,Loss - Step,4,42,66,81, 146
+2018-10-30 12:07:15 +0000,0,Shimmin,GK,Possession,4,42,66,79, 146
+2018-10-30 12:07:27 +0000,0,Petty,WD,Possession,4,42,66,50, 126
+2018-10-30 12:07:34 +0000,0,Pitman,WA,Possession,4,42,66,15, 98
+2018-10-30 12:07:42 +0000,0,Petty,WD,Possession,4,42,66,84, 74
+2018-10-30 12:08:47 +0000,0,Hodges,GA,Possession,4,42,66,27, 28
+2018-10-30 12:08:49 +0000,0,Hodges,GA,Assist - Circle Entry,4,42,66,27, 28
+2018-10-30 12:08:49 +0000,0,Nelson,GS,Goal - Score,4,42,66,55, 7
+2018-10-30 12:08:56 +0000,1,Price,C,Centre Pass,4,43,66,50, 100
+2018-10-30 12:08:56 +0000,1,Harten ,GA,Assist - Centre Pass Rec,4,43,66,71, 113
+2018-10-30 12:08:59 +0000,1,Guthrie,WD,Assist - 2nd Phase,4,43,66,17, 126
+2018-10-30 12:09:02 +0000,1,Price,C,Possession,4,43,66,44, 157
+2018-10-30 12:09:05 +0000,1,Harten ,GA,Possession,4,43,66,73, 173
+2018-10-30 12:09:07 +0000,1,Price,C,Possession,4,43,66,54, 167
+2018-10-30 12:09:10 +0000,1,Price,C,Assist - Circle Entry,4,43,66,54, 167
+2018-10-30 12:09:11 +0000,1,Harten ,GA,Possession,4,43,66,69, 187
+2018-10-30 12:09:15 +0000,1,Green,WA,Possession,4,43,66,43, 166
+2018-10-30 12:09:34 +0000,1,Green,WA,Assist - Circle Entry,4,43,66,43, 166
+2018-10-30 12:09:34 +0000,1,Brice,GS,Possession,4,43,66,43, 192
+2018-10-30 12:09:36 +0000,0,Shimmin,GK,Penaly - Contact,4,43,66,43, 192
+2018-10-30 12:09:36 +0000,1,Harten ,GA,Goal - Score,4,43,66,43, 192
+2018-10-30 12:10:03 +0000,0,Bryce,C,Centre Pass,4,43,67,50, 100
+2018-10-30 12:10:03 +0000,0,Hodges,GA,Assist - Centre Pass Rec,4,43,67,44, 77
+2018-10-30 12:10:21 +0000,0,Nelson,GS,Loss - Off Contact,4,43,67,67, 31
+2018-10-30 12:10:33 +0000,1,Manu’a,GK,Possession,4,43,67,66, 32
+2018-10-30 12:10:37 +0000,1,Guthrie,WD,Possession,4,43,67,90, 52
+2018-10-30 12:10:43 +0000,1,Manu’a,GK,Possession,4,43,67,62, 62
+2018-10-30 12:10:45 +0000,1,Bulley ,GD,Possession,4,43,67,27, 65
+2018-10-30 12:10:47 +0000,1,Manu’a,GK,Possession,4,43,67,53, 64
+2018-10-30 12:10:50 +0000,1,Bulley ,GD,Possession,4,43,67,59, 81
+2018-10-30 12:10:58 +0000,1,Green,WA,Possession,4,43,67,58, 141
+2018-10-30 12:11:01 +0000,1,Harten ,GA,Possession,4,43,67,88, 188
+2018-10-30 12:11:03 +0000,1,Green,WA,Possession,4,43,67,65, 169
+2018-10-30 12:11:12 +0000,1,Green,WA,Assist - Circle Entry,4,43,67,65, 169
+2018-10-30 12:11:13 +0000,1,Harten ,GA,Goal - Score,4,43,67,60, 196
+2018-10-30 12:11:20 +0000,1,Price,C,Centre Pass,4,43,68,50, 100
+2018-10-30 12:11:20 +0000,1,Harten ,GA,Assist - Centre Pass Rec,4,43,68,10, 129
+2018-10-30 12:11:24 +0000,1,Price,C,Assist - 2nd Phase,4,43,68,12, 188
+2018-10-30 12:11:28 +0000,1,Price,C,Assist - Circle Entry,4,43,68,12, 188
+2018-10-30 12:11:28 +0000,1,Brice,GS,Goal - Score,4,43,68,56, 194
+2018-10-30 12:12:48 +0000,0,Bryce,C,Centre Pass,4,43,69,50, 100
+2018-10-30 12:12:48 +0000,1,Harten ,GA,Gain - Tip (Deflect),4,43,69,15, 79
+2018-10-30 12:12:59 +0000,1,Bulley ,GD,Possession,4,43,69,17, 29
+2018-10-30 12:13:05 +0000,1,Price,C,Possession,4,43,69,82, 64
+2018-10-30 12:13:27 +0000,1,Green,WA,Possession,4,43,69,90, 114
+2018-10-30 12:13:32 +0000,1,Guthrie,WD,Possession,4,43,69,76, 122
+2018-10-30 12:13:34 +0000,1,Harten ,GA,Possession,4,43,69,81, 188
+2018-10-30 12:13:37 +0000,1,Harten ,GA,Assist - Circle Entry,4,43,69,81, 188
+2018-10-30 12:13:37 +0000,1,Brice,GS,Goal - Score,4,43,69,54, 193
+2018-10-30 12:13:45 +0000,1,,UNKNOWN,Timeout,4,43,70,-10, -22
+2018-10-30 12:15:13 +0000,0,Green,UNKNOWN,Interchange - Austin,4,43,70,
+2018-10-30 12:15:13 +0000,0,Price,UNKNOWN,Interchange - Guthrie,4,43,70,
+2018-10-30 12:15:13 +0000,0,Guthrie,UNKNOWN,Interchange - Price,4,43,70,
+2018-10-30 12:15:30 +0000,1,Guthrie,C,Centre Pass,4,43,70,50, 100
+2018-10-30 12:15:30 +0000,1,Austin,WA,Assist - Centre Pass Rec,4,43,70,65, 124
+2018-10-30 12:15:32 +0000,1,Harten ,GA,Assist - 2nd Phase,4,43,70,92, 155
+2018-10-30 12:15:39 +0000,1,Guthrie,C,Possession,4,43,70,85, 144
+2018-10-30 12:15:45 +0000,0,Hodges,GA,Penaly - Contact,4,43,70,82, 133
+2018-10-30 12:15:45 +0000,1,Bulley ,GD,Possession,4,43,70,82, 133
+2018-10-30 12:15:59 +0000,1,Guthrie,C,Possession,4,43,70,92, 147
+2018-10-30 12:16:02 +0000,1,Harten ,GA,Possession,4,43,70,66, 153
+2018-10-30 12:16:04 +0000,1,Guthrie,C,Possession,4,43,70,82, 188
+2018-10-30 12:16:07 +0000,0,Petty,WD,Penaly - Obstruction,4,43,70,82, 188
+2018-10-30 12:16:08 +0000,1,Guthrie,C,Possession,4,43,70,82, 188
+2018-10-30 12:16:15 +0000,1,Guthrie,C,Assist - Circle Entry,4,43,70,82, 188
+2018-10-30 12:16:15 +0000,1,Harten ,GA,Loss - Bad Pass,4,43,70,55, 174
+2018-10-30 12:16:19 +0000,0,Shimmin,GK,Throw In,4,43,70,25, 205
+2018-10-30 12:16:25 +0000,0,Fowler,GD,Possession,4,43,70,8, 191
+2018-10-30 12:16:27 +0000,0,Shimmin,GK,Possession,4,43,70,92, 142
+2018-10-30 12:16:34 +0000,0,Bryce,C,Possession,4,43,70,86, 119
+2018-10-30 12:16:40 +0000,0,Pitman,WA,Possession,4,43,70,44, 53
+2018-10-30 12:16:45 +0000,0,Pitman,WA,Assist - Circle Entry,4,43,70,44, 53
+2018-10-30 12:16:45 +0000,0,Nelson,GS,Goal - Score,4,43,70,45, 16
+2018-10-30 12:16:54 +0000,0,Bryce,C,Centre Pass,4,44,70,50, 100
+2018-10-30 12:16:54 +0000,0,Hodges,GA,Assist - Centre Pass Rec,4,44,70,72, 73
+2018-10-30 12:16:59 +0000,0,Pitman,WA,Assist - 2nd Phase,4,44,70,90, 27
+2018-10-30 12:17:05 +0000,1,Price,WD,Penaly - Contact,4,44,70,90, 27
+2018-10-30 12:17:05 +0000,0,Pitman,WA,Possession,4,44,70,90, 27
+2018-10-30 12:17:20 +0000,0,Bryce,C,Possession,4,44,70,21, 31
+2018-10-30 12:17:27 +0000,0,Bryce,C,Assist - Circle Entry,4,44,70,21, 31
+2018-10-30 12:17:27 +0000,0,Hodges,GA,Possession,4,44,70,31, 12
+2018-10-30 12:17:32 +0000,0,Nelson,GS,Goal - Score,4,44,70,56, 9
+2018-10-30 12:17:41 +0000,1,Guthrie,C,Centre Pass,4,45,70,50, 100
+2018-10-30 12:17:41 +0000,1,Austin,WA,Assist - Centre Pass Rec,4,45,70,32, 121
+2018-10-30 12:17:43 +0000,1,Guthrie,C,Assist - 2nd Phase,4,45,70,57, 132
+2018-10-30 12:17:45 +0000,1,Harten ,GA,Possession,4,45,70,29, 153
+2018-10-30 12:18:02 +0000,1,Austin,WA,Possession,4,45,70,79, 183
+2018-10-30 12:18:03 +0000,0,Bryce,C,Penaly - Obstruction,4,45,70,79, 183
+2018-10-30 12:18:04 +0000,1,Harten ,GA,Possession,4,45,70,79, 183
+2018-10-30 12:18:13 +0000,1,Guthrie,C,Possession,4,45,70,18, 184
+2018-10-30 12:18:16 +0000,1,Guthrie,C,Assist - Circle Entry,4,45,70,18, 184
+2018-10-30 12:18:16 +0000,1,Harten ,GA,Goal - Miss,4,45,70,35, 190
+2018-10-30 12:18:25 +0000,0,Shimmin,GK,Gain - Def Reb,4,45,70,50, 197
+2018-10-30 12:18:31 +0000,0,Fowler,GD,Possession,4,45,70,77, 181
+2018-10-30 12:18:39 +0000,0,Petty,WD,Possession,4,45,70,69, 137
+2018-10-30 12:18:44 +0000,1,Guthrie,C,Penaly - Contact,4,45,70,69, 137
+2018-10-30 12:18:44 +0000,0,Shimmin,GK,Possession,4,45,70,69, 137
+2018-10-30 12:18:52 +0000,0,Petty,WD,Possession,4,45,70,81, 107
+2018-10-30 12:19:02 +0000,0,Bryce,C,Possession,4,45,70,86, 45
+2018-10-30 12:19:10 +0000,0,Nelson,GS,Loss - Bad Pass,4,45,70,7, 6
+2018-10-30 12:19:14 +0000,1,Price,WD,Gain - Inter,4,45,70,6, 39
+2018-10-30 12:19:36 +0000,1,Bulley ,GD,Possession,4,45,70,40, 64
+2018-10-30 12:19:42 +0000,1,Manu’a,GK,Possession,4,45,70,78, 65
+2018-10-30 12:19:44 +0000,1,Austin,WA,Possession,4,45,70,91, 102
+2018-10-30 12:19:47 +0000,1,Bulley ,GD,Possession,4,45,70,74, 78
+2018-10-30 12:19:52 +0000,1,Harten ,GA,Possession,4,45,70,26, 145
+2018-10-30 12:19:54 +0000,1,Austin,WA,Possession,4,45,70,49, 143
+2018-10-30 12:19:57 +0000,1,Guthrie,C,Possession,4,45,70,11, 189
+2018-10-30 12:20:03 +0000,1,Guthrie,C,Assist - Circle Entry,4,45,70,11, 189
+2018-10-30 12:20:03 +0000,0,Shimmin,GK,Gain - Inter,4,45,70,48, 193
+2018-10-30 12:20:14 +0000,0,Fowler,GD,Possession,4,45,70,18, 177
+2018-10-30 12:20:17 +0000,0,Shimmin,GK,Possession,4,45,70,37, 188
+2018-10-30 12:20:23 +0000,0,Petty,WD,Possession,4,45,70,83, 123
+2018-10-30 12:20:33 +0000,1,Austin,WA,Penaly - Contact,4,45,70,83, 123
+2018-10-30 12:20:33 +0000,0,Fowler,GD,Possession,4,45,70,83, 123
+2018-10-30 12:20:41 +0000,0,Petty,WD,Possession,4,45,70,29, 95
+2018-10-30 12:20:44 +0000,0,Pitman,WA,Possession,4,45,70,11, 91
+2018-10-30 12:20:47 +0000,0,Fowler,GD,Possession,4,45,70,47, 113
+2018-10-30 12:20:49 +0000,0,Petty,WD,Possession,4,45,70,11, 74
+2018-10-30 12:20:57 +0000,0,Bryce,C,Loss - Bad Pass,4,45,70,9, 50
+2018-10-30 12:21:02 +0000,1,Manu’a,GK,Throw In,4,45,70,104, 13
+2018-10-30 12:21:16 +0000,1,Price,WD,Possession,4,45,70,82, 33
+2018-10-30 12:21:20 +0000,1,Bulley ,GD,Possession,4,45,70,55, 52
+2018-10-30 12:21:25 +0000,1,Guthrie,C,Possession,4,45,70,29, 87
+2018-10-30 12:21:27 +0000,1,Manu’a,GK,Possession,4,45,70,48, 63
+2018-10-30 12:21:31 +0000,0,Pitman,WA,Penaly - Contact,4,45,70,46, 93
+2018-10-30 12:21:31 +0000,1,Price,WD,Possession,4,45,70,46, 93
+2018-10-30 12:21:37 +0000,1,Guthrie,C,Possession,4,45,70,51, 132
+2018-10-30 12:21:42 +0000,1,Austin,WA,Possession,4,45,70,86, 181
+2018-10-30 12:21:45 +0000,1,Austin,WA,Assist - Circle Entry,4,45,70,86, 181
+2018-10-30 12:21:46 +0000,1,Brice,GS,Goal - Score,4,45,70,52, 190
+2018-10-30 12:21:53 +0000,0,Bryce,C,Centre Pass,4,45,71,50, 100
+2018-10-30 12:21:53 +0000,0,Hodges,GA,Assist - Centre Pass Rec,4,45,71,28, 72
+2018-10-30 12:21:57 +0000,0,Petty,WD,Assist - 2nd Phase,4,45,71,48, 90
+2018-10-30 12:22:00 +0000,0,Pitman,WA,Possession,4,45,71,55, 71
+2018-10-30 12:22:05 +0000,0,Hodges,GA,Possession,4,45,71,61, 37
+2018-10-30 12:22:08 +0000,0,Hodges,GA,Assist - Circle Entry,4,45,71,61, 37
+2018-10-30 12:22:08 +0000,0,Nelson,GS,Goal - Score,4,45,71,45, 9
+2018-10-30 12:22:19 +0000,1,Guthrie,C,Centre Pass,4,46,71,50, 100
+2018-10-30 12:22:19 +0000,1,Austin,WA,Assist - Centre Pass Rec,4,46,71,90, 115
+2018-10-30 12:22:22 +0000,1,Guthrie,C,Assist - 2nd Phase,4,46,71,75, 131
+2018-10-30 12:22:29 +0000,0,Shimmin,GK,Gain - Inter,4,46,71,9, 185
+2018-10-30 12:22:34 +0000,0,Fowler,GD,Possession,4,46,71,23, 169
+2018-10-30 12:22:41 +0000,0,Bryce,C,Possession,4,46,71,85, 129
+2018-10-30 12:22:45 +0000,1,Price,WD,Penaly - Contact,4,46,71,85, 129
+2018-10-30 12:22:45 +0000,0,Fowler,GD,Possession,4,46,71,85, 129
+2018-10-30 12:22:52 +0000,0,,UNKNOWN,Possession,4,46,71,90, 91
+2018-10-30 12:22:54 +0000,0,,UNKNOWN,Possession,4,46,71,81, 90
+2018-10-30 12:22:55 +0000,0,Petty,WD,Possession,4,46,71,34, 76
+2018-10-30 12:23:00 +0000,0,Bryce,C,Possession,4,46,71,53, 41
+2018-10-30 12:23:03 +0000,0,Pitman,WA,Possession,4,46,71,17, 21
+2018-10-30 12:23:05 +0000,0,Pitman,WA,Assist - Circle Entry,4,46,71,17, 21
+2018-10-30 12:23:05 +0000,0,Hodges,GA,Possession,4,46,71,32, 20
+2018-10-30 12:23:08 +0000,0,Bryce,C,Possession,4,46,71,47, 37
+2018-10-30 12:23:10 +0000,0,Bryce,C,Assist - Circle Entry,4,46,71,47, 37
+2018-10-30 12:23:10 +0000,0,Hodges,GA,Goal - Miss,4,46,71,47, 19
+2018-10-30 12:23:17 +0000,0,Hodges,GA,Assist - Attack Rebound,4,46,71,50, 2
+2018-10-30 12:23:21 +0000,0,Hodges,GA,Goal - Score,4,46,71,47, 19
+2018-10-30 12:23:33 +0000,0,Bryce,C,Centre Pass,4,47,71,50, 100
+2018-10-30 12:23:33 +0000,0,Pitman,WA,Assist - Centre Pass Rec,4,47,71,46, 84
+2018-10-30 12:23:48 +0000,0,Fowler,GD,Assist - 2nd Phase,4,47,71,30, 85
+2018-10-30 12:23:50 +0000,1,Austin,WA,Penaly - Obstruction,4,47,71,30, 85
+2018-10-30 12:23:50 +0000,0,Fowler,GD,Possession,4,47,71,30, 85
+2018-10-30 12:24:01 +0000,1,Price,WD,Penaly - Contact,4,47,71,44, 51
+2018-10-30 12:24:01 +0000,0,Bryce,C,Possession,4,47,71,44, 51
+2018-10-30 12:24:15 +0000,0,Bryce,C,Assist - Circle Entry,4,47,71,44, 51
+2018-10-30 12:24:15 +0000,0,Nelson,GS,Goal - Score,4,47,71,55, 8
+2018-10-30 12:24:27 +0000,1,Guthrie,C,Centre Pass,4,48,71,50, 100
+2018-10-30 12:24:27 +0000,1,Austin,WA,Assist - Centre Pass Rec,4,48,71,84, 123
+2018-10-30 12:24:33 +0000,0,Petty,WD,Penaly - Obstruction,4,48,71,84, 123
+2018-10-30 12:24:33 +0000,1,Austin,WA,Possession,4,48,71,84, 123
