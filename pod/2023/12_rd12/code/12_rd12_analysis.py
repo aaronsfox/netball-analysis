@@ -255,9 +255,13 @@ scoreDiffData_df = pd.DataFrame.from_dict(scoreDiffData)
                 
 # %% Scoring consistency this year
 
+#Remove Thunderbirds-Swifts round 2 score from calcuations
+scoringConsistencyCalc = teamStats2023[['matchId', 'roundNo', 'squadName', 'points']]
+scoringConsistencyCalc = scoringConsistencyCalc.loc[scoringConsistencyCalc['matchId'] != 120450202,]
+
 #Get each teams average and standard deviation for scoring
-avgScore = teamStats2023.groupby('squadName').mean(numeric_only = True)['points']
-sdScore = teamStats2023.groupby('squadName').std(numeric_only = True)['points']
+avgScore = scoringConsistencyCalc.groupby('squadName').mean(numeric_only = True)['points']
+sdScore = scoringConsistencyCalc.groupby('squadName').std(numeric_only = True)['points']
 
 #Loop through and calculate each teams consistency rating
 scoreConsistencyRating = {squadName: sdScore[squadName] / avgScore[squadName] for squadName in avgScore.index}
