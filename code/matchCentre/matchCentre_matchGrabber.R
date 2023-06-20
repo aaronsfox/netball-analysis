@@ -92,7 +92,7 @@ compLeague <- "SSN"
 compId <- 12045
 
 #Set the round to get
-getRound <- 13
+getRound <- 14
 
 #Loop through matches (set to irresponsibly large value but breaks used)
 for (getMatch in 1:25) {
