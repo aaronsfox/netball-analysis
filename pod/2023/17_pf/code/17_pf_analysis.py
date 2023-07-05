@@ -18,6 +18,8 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import zscore
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import r2_score
 # import seaborn as sns
 
 # #Set matplotlib parameters
@@ -247,5 +249,80 @@ lossSuper = shootingDiff_df['notLeadSuper'].sum() / len(shootingDiff_df) * 100
 #Collate wins where the team has lost the standard shots, but lead Super Shots
 superWins = shootingDiff_df.loc[(shootingDiff_df['leadStandard'] == False) &
                                 (shootingDiff_df['leadSuper'] == True),]
+
+# %% Best grand final performance of all time
+
+#Start by creating a model of NetPoints so that we can predict these for earlier matches
+
+#Read in player stats over time
+playerStats = collatestats.getSeasonStats(baseDir = baseDir,
+                                          years = 'all',
+                                          fileStem = 'playerStats',
+                                          matchOptions = ['regular', 'final'],
+                                          joined = True, addSquadNames = True)
+
+#Set a list of stats that we have across all years which will be relevant for
+#predicting NetPoints
+selectStats = ['centrePassReceives', 'contactPenalties', 'feeds', 'gain',
+               'goalAssists', 'goalAttempts', 'goalMisses', 'goals', 'intercepts',
+               'obstructionPenalties', 'pickups']
+
+#Extract the NetPoints years to create a dataset for the regression model
+netPointsEra = playerStats.loc[playerStats['year'] >= 2018,]
+regressionDataX = netPointsEra[selectStats].to_numpy()
+regressionDataY = netPointsEra[['netPoints']].to_numpy()
+
+#Create and fit the regression model
+regModel = LinearRegression()
+regModel.fit(regressionDataX, regressionDataY)
+
+#Check the model by predicting the data put into in
+regressionDataY_pred = regModel.predict(regressionDataX)
+
+#Examine r-squared of model
+r2_score(regressionDataY, regressionDataY_pred)
+
+#Extract finals player stats data
+playerStats_finals = collatestats.getSeasonStats(baseDir = baseDir,
+                                                 years = 'all',
+                                                 fileStem = 'playerStats',
+                                                 matchOptions = ['final'],
+                                                 joined = True, addSquadNames = True)
+
+#For each year, identify the max round no indicating the grand final
+gfRound = {year: [] for year in playerStats_finals['year'].unique()}
+for year in gfRound.keys():
+    gfRound[year] = playerStats_finals.loc[playerStats_finals['year'] == year,]['roundNo'].max()
+
+#Concatenate the dataframes together
+gfPlayerStats = pd.concat([playerStats_finals.loc[(playerStats_finals['year'] == year) &
+                                                  (playerStats_finals['roundNo'] == gfRound[year]),
+                                                  ] for year in gfRound.keys()])
+
+#Predict the all 'NetPoints' across the player stats
+gfPlayerStats['netPointsPred'] = regModel.predict(gfPlayerStats[selectStats].to_numpy())
+gfPlayerStats.reset_index(drop = True, inplace = True)
+
+#Add in player names
+playerName = [] 
+for ii in gfPlayerStats.index:
+    year = gfPlayerStats.iloc[ii]['year']
+    playerId = gfPlayerStats.iloc[ii]['playerId']
+    playerName.append(' '.join(list(playerData.loc[(playerData['year'] == year) &
+                                                   (playerData['playerId'] == playerId),
+                                                   ['firstname', 'surname']].reset_index(drop = True).values[0])))
+gfPlayerStats['playerName'] = playerName
+
+#Extract the key stats from GF matches
+gfKeyPlayerStats = gfPlayerStats[['year', 'squadName', 'oppSquadName', 'compType', 'playerName', 'netPoints', 'netPointsPred',
+                                  'centrePassReceives', 'feeds', 'feedWithAttempt', 'goalAssists',
+                                  'goalAttempts', 'goalMisses', 'goals', 'goal1', 'goal2',
+                                  'turnovers', 'generalPlayTurnovers', 
+                                  'gain', 'intercepts', 'deflections',  'pickups', 
+                                  'contactPenalties', 'obstructionPenalties', 'penalties']].reset_index(drop = True)
+
+#Need to drop 2023 from dataset as GF hasn't yet been played
+gfKeyPlayerStats = gfKeyPlayerStats.loc[gfKeyPlayerStats['year'] != 2023]
+
 
 # %% ----- End of 17_pf_analysis.py ----- %% #
