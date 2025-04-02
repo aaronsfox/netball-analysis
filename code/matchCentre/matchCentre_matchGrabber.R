@@ -15,9 +15,9 @@ library(here)
 compDetails <- list(
   
   year = c(
-  #ANZC+SSN (TODO: add SSN 2023)
+  #ANZC+SSN
   rep(c(2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016,
-        2017, 2018, 2019, 2020, 2021, 2022, 2023), each = 2),
+        2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024), each = 2),
   #TGC
   rep(c(2022), each = 3),
   rep(c(2023), each = 3),
@@ -28,7 +28,7 @@ compDetails <- list(
     2019, 2019, 2021, 2022, 2022, 2022)),
   
   league = c(rep("ANZC", each = 16),
-             rep("SSN", each = 14),
+             rep("SSN", each = 16),
              rep("TGC", each = 6),
              rep("ANC", each = 2),
              #Internationals (more sporadic)
@@ -40,7 +40,7 @@ compDetails <- list(
     #ANZC
     8005, 8006, 8012, 8013, 8018, 8019, 8028, 8029, 8035, 8036, 9084, 9085, 9563, 9564, 9818, 9819,
     #SSN
-    10083, 10084, 10393, 10394, 10724, 10725, 11108, 11109, 11391, 11392, 11665, 11666, 12045, 12046,
+    10083, 10084, 10393, 10394, 10724, 10725, 11108, 11109, 11391, 11392, 11665, 11666, 12045, 12046, 12438, 12439,
     #TGC
     11706, 11707, 11708,
     12125, 12205, 12126,
@@ -87,27 +87,32 @@ for (compInd in 1:lengths(compDetails)['id']) {
 # %% Option to extract individual competition, year, league and round
 
 #Set the competition details
-compYear <- 2023
+compYear <- 2024
 compLeague <- "SSN"
-compId <- 12046
+compId <- 12439
 
 #Set the round to get
 getRound <- 3
 
-#Loop through matches (set to irresponsibly large value but breaks used)
-for (getMatch in 1:25) {
+#Loop through desired rounds
+for (getRound in 1:3) {
   
-  #Download match data with current parameters
-  matchData <- downloadMatch(compId, getRound, getMatch)
+  #Loop through matches (set to irresponsibly large value but breaks used)
+  for (getMatch in 1:25) {
+    
+    #Download match data with current parameters
+    matchData <- downloadMatch(compId, getRound, getMatch)
+    
+    #Check if match data present
+    if (is.null(matchData)) {
+      break
+    }
+    #Write data
+    write_json(matchData, paste0(here(),"/data/matchCentre/raw/",compYear,"_",compLeague,"_",compId,"_r",getRound,"_g",getMatch,".json"))
+    
+  } #end of for getMatch loop
   
-  #Check if match data present
-  if (is.null(matchData)) {
-    break
-  }
-  #Write data
-  write_json(matchData, paste0(here(),"/data/matchCentre/raw/",compYear,"_",compLeague,"_",compId,"_r",getRound,"_g",getMatch,".json"))
-  
-} #end of for getMatch loop
+} #end of getRound loop
 
 
 # %% ----- end of matchCentre_matchGrabber.R -----
