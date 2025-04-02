@@ -1,0 +1,15 @@
+squadName,oppSquadName,roundNo,matchResult,attempt1,attempt2,goal1,goal2,goalAttempts,contactPenalties,obstructionPenalties,penalties,deflectionWithGain,deflectionWithNoGain,deflections,gain,feeds,feedWithAttempt,generalPlayTurnovers,goalAssists,goalsFromCentrePass,goalsFromGain,goalsFromTurnovers,interceptPassThrown,intercepts,netPoints,pickups,points
+Swifts,Lightning,1,loss,39,16,37,13,55,61,10,71,2,12,14,8,75,52,20,47,42,5,3,5,4,320.5,5,63
+Swifts,Mavericks,2,win,52,14,49,9,66,45,12,57,3,17,20,8,77,52,15,46,40,6,12,6,3,389.5,9,67
+Swifts,Firebirds,3,win,62,15,59,9,77,61,13,75,2,8,10,11,99,74,20,65,54,4,10,8,5,399.0,4,77
+Swifts,Fever,4,loss,45,17,41,9,62,41,10,51,3,19,22,7,78,57,16,46,40,6,4,2,4,389.5,10,59
+Swifts,Vixens,5,loss,35,21,33,13,56,38,10,48,5,13,18,10,71,51,19,40,35,7,4,6,4,355.5,9,59
+Swifts,GIANTS,6,win,60,18,56,10,78,40,21,61,6,11,17,12,98,67,19,55,42,9,15,7,5,489.0,17,76
+Swifts,Thunderbirds,7,loss,35,9,25,4,44,58,21,80,4,15,19,13,57,42,30,27,16,6,7,10,8,162.5,15,33
+Swifts,Mavericks,8,loss,40,17,36,11,57,52,14,66,3,15,18,14,63,54,21,44,36,6,5,8,7,322.5,8,58
+Swifts,Lightning,9,loss,53,17,46,9,70,52,19,72,4,10,14,12,76,65,15,51,38,10,7,4,6,371.0,7,64
+Swifts,Fever,10,loss,42,26,35,18,68,47,17,64,1,13,14,5,83,65,16,50,42,4,7,4,2,321.5,5,71
+Swifts,Vixens,11,loss,36,14,35,7,50,50,13,63,3,17,20,13,64,49,23,41,32,7,3,7,3,263.0,8,49
+Swifts,Firebirds,12,loss,53,16,48,6,69,34,11,46,1,14,15,14,71,61,17,47,37,10,7,4,3,389.0,10,60
+Swifts,Thunderbirds,13,loss,49,16,38,5,65,42,10,53,3,10,13,10,74,56,21,36,32,8,3,4,4,262.0,9,48
+Swifts,GIANTS,14,win,61,13,58,7,74,52,13,65,4,8,12,9,92,72,13,63,53,5,7,6,2,440.5,11,72

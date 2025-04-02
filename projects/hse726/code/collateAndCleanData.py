@@ -40,14 +40,14 @@ import numpy as np
 analysisDir = os.getcwd()
 
 #Get helper functions
-os.chdir('..\\..\..\\code\\matchCentre')
+os.chdir(os.path.join('..','..','..','code','matchCentre'))
 import collatestats
 
 #Get back to analysis directory
 os.chdir(analysisDir)
 
 #Set base directory for processed data
-baseDir = '..\\..\\..\\data\\matchCentre\\processed'
+baseDir = os.path.join('..','..','..','data','matchCentre','processed')
 
 #Create dictionary to map squad names to ID's
 squadDict = {804: 'Vixens',
@@ -55,40 +55,42 @@ squadDict = {804: 'Vixens',
              807: 'Firebirds',
              8117: 'Lightning',
              810: 'Fever',
-             8119: 'Magpies',
+             # 8119: 'Magpies',
              801: 'Thunderbirds',
-             8118: 'GIANTS'}
+             8118: 'GIANTS',
+             9698: 'Mavericks'}
 squadNameDict = {'Vixens': 804,
                  'Swifts': 806,
                  'Firebirds': 807,
                  'Lightning': 8117,
                  'Fever': 810,
-                 'Magpies': 8119,
+                 # 'Magpies': 8119,
                  'Thunderbirds': 801,
-                 'GIANTS': 8118}
+                 'GIANTS': 8118,
+                 'Mavericks': 9698}
 
-#Read in team stats for 2023 season
+#Read in team stats for 2024 season
 
 
 #Read in relevant match centre game data for the 2023 season
 
 #Team stats
 teamStats = collatestats.getSeasonStats(baseDir = baseDir,
-                                        years = [2023],
+                                        years = [2024],
                                         fileStem = 'teamStats',
                                         matchOptions = ['regular'],
                                         joined = True, addSquadNames = True)
 
 #Player stats
 playerStats = collatestats.getSeasonStats(baseDir = baseDir,
-                                          years = [2023],
+                                          years = [2024],
                                           fileStem = 'playerStats',
                                           matchOptions = ['regular'],
                                           joined = True, addSquadNames = True)
 
 #Player lists
 playerList = collatestats.getSeasonStats(baseDir = baseDir,
-                                         years = [2023],
+                                         years = [2024],
                                          fileStem = 'playerList',
                                          matchOptions = ['regular'],
                                          joined = True, addSquadNames = True)
@@ -112,23 +114,22 @@ extractStats = ['squadName',
 teamStatsExtract = teamStatsSum[extractStats]
 
 #Export to file
-teamStatsExtract.to_csv('..\\outputs\\teamStatsSummed.csv', index = False)
+teamStatsExtract.to_csv(os.path.join('..','outputs','teamStatsSummed_2024.csv'), index = False)
 
-# %% Extract Vixens players stats
+# %% Extract Swifts players stats
 
-#Get the Vixens player stats
-vixensPlayerStats = playerStats.loc[playerStats['squadName'] == 'Vixens',
-                                    ].reset_index(drop = True)
+#Get the Swifts player stats
+swiftsPlayerStats = playerStats.loc[playerStats['squadName'] == 'Swifts',].reset_index(drop = True)
 
 #Create a player name and win/loss column
 playerName = []
 matchResult = []
 
 #Loop through entries
-for ii in vixensPlayerStats.index:
+for ii in swiftsPlayerStats.index:
     
     #Get player id
-    playerId = vixensPlayerStats.iloc[ii]['playerId']
+    playerId = swiftsPlayerStats.iloc[ii]['playerId']
     
     #Get player name and append to list
     playerName.append(playerList.loc[playerList['playerId'] == playerId,
@@ -138,27 +139,27 @@ for ii in vixensPlayerStats.index:
     #Get match result
     
     #Get match Id
-    matchId = vixensPlayerStats.iloc[ii]['matchId']
+    matchId = swiftsPlayerStats.iloc[ii]['matchId']
     
     #Get vixens and opposition score from team stats
-    vixensScore = teamStats.loc[(teamStats['matchId'] == matchId) &
-                                (teamStats['squadName'] == 'Vixens'),
+    swiftsScore = teamStats.loc[(teamStats['matchId'] == matchId) &
+                                (teamStats['squadName'] == 'Swifts'),
                                 ]['points'].values[0]
     oppScore = teamStats.loc[(teamStats['matchId'] == matchId) &
-                             (teamStats['squadName'] != 'Vixens'),
+                             (teamStats['squadName'] != 'Swifts'),
                              ]['points'].values[0]
     
     #Determine and append match result
-    if vixensScore > oppScore:
+    if swiftsScore > oppScore:
         matchResult.append('win')
-    elif vixensScore < oppScore:
+    elif swiftsScore < oppScore:
         matchResult.append('loss')
     else:
         matchResult.append('draw')
         
 #Append to dataframe
-vixensPlayerStats['playerName'] = playerName
-vixensPlayerStats['matchResult'] = matchResult
+swiftsPlayerStats['playerName'] = playerName
+swiftsPlayerStats['matchResult'] = matchResult
 
 #Set list of stats to extract
 extractStats = ['playerName', 'squadName', 'oppSquadName', 'roundNo', 'matchResult',
@@ -172,44 +173,43 @@ extractStats = ['playerName', 'squadName', 'oppSquadName', 'roundNo', 'matchResu
                 'points']
     
 #Extract player stats
-playerStatsExtract = vixensPlayerStats[extractStats]
+playerStatsExtract = swiftsPlayerStats[extractStats]
 
 #Export to file
-playerStatsExtract.to_csv('..\\outputs\\vixensPlayersSeasonStats.csv', index = False)
+playerStatsExtract.to_csv(os.path.join('..','outputs','swiftsPlayersSeasonStats_2024.csv'), index = False)
 
-# %% Extract Vixens team stats for the season
+# %% Extract Swifts team stats for the season
 
 #Extract Vixens team stats
-vixensTeamStats = teamStats.loc[teamStats['squadName'] == 'Vixens',
-                                ].reset_index(drop = True)
+swiftsTeamStats = teamStats.loc[teamStats['squadName'] == 'Swifts',].reset_index(drop = True)
 
 #Create a win/loss column
 matchResult = []
 
 #Loop through entries
-for ii in vixensTeamStats.index:
+for ii in swiftsTeamStats.index:
     
     #Get match Id
-    matchId = vixensTeamStats.iloc[ii]['matchId']
+    matchId = swiftsTeamStats.iloc[ii]['matchId']
     
     #Get vixens and opposition score from team stats
-    vixensScore = teamStats.loc[(teamStats['matchId'] == matchId) &
-                                (teamStats['squadName'] == 'Vixens'),
+    swiftsScore = teamStats.loc[(teamStats['matchId'] == matchId) &
+                                (teamStats['squadName'] == 'Swifts'),
                                 ]['points'].values[0]
     oppScore = teamStats.loc[(teamStats['matchId'] == matchId) &
-                             (teamStats['squadName'] != 'Vixens'),
+                             (teamStats['squadName'] != 'Swifts'),
                              ]['points'].values[0]
     
     #Determine and append match result
-    if vixensScore > oppScore:
+    if swiftsScore > oppScore:
         matchResult.append('win')
-    elif vixensScore < oppScore:
+    elif swiftsScore < oppScore:
         matchResult.append('loss')
     else:
         matchResult.append('draw')
         
 #Add to dataframe
-vixensTeamStats['matchResult'] = matchResult
+swiftsTeamStats['matchResult'] = matchResult
 
 #Set list of stats to extract
 extractStats = ['squadName', 'oppSquadName', 'roundNo', 'matchResult',
@@ -222,22 +222,20 @@ extractStats = ['squadName', 'oppSquadName', 'roundNo', 'matchResult',
                 'points']
     
 #Extract vixens team stats
-vixensTeamStatsExtract = vixensTeamStats[extractStats]
+swiftsTeamStatsExtract = swiftsTeamStats[extractStats]
 
 #Export to file
-vixensTeamStatsExtract.to_csv('..\\outputs\\vixensTeamSeasonStats.csv', index = False)
+swiftsTeamStatsExtract.to_csv(os.path.join('..','outputs','swiftsTeamSeasonStats_2024.csv'), index = False)
 
 # %% Extract individual player data
 
-#Extract Sterling and Klau stats
-sterlingId = 80830
-klauId = 998404
+#Extract Weston and Mannix stats
+westonId = 80577
+mannixId = 994213
 
 #Get the players stats
-sterlingPlayerStats = playerStats.loc[playerStats['playerId'] == sterlingId,
-                                      ].reset_index(drop = True)
-klauPlayerStats = playerStats.loc[playerStats['playerId'] == klauId,
-                                  ].reset_index(drop = True)
+westonPlayerStats = playerStats.loc[playerStats['playerId'] == westonId,].reset_index(drop = True)
+mannixPlayerStats = playerStats.loc[playerStats['playerId'] == mannixId,].reset_index(drop = True)
 
 #Set list of stats to extract
 extractStats = ['squadName', 'oppSquadName', 'roundNo',
@@ -251,12 +249,12 @@ extractStats = ['squadName', 'oppSquadName', 'roundNo',
                 'points']
 
 #Extract the stats
-sterlingExtractStats = sterlingPlayerStats[extractStats]
-klauExtractStats = klauPlayerStats[extractStats]
+westonPlayerStats = westonPlayerStats[extractStats]
+mannixPlayerStats = mannixPlayerStats[extractStats]
 
 #Export to file
-sterlingExtractStats.to_csv('..\\outputs\\sterlingSeasonStats.csv', index = False)
-klauExtractStats.to_csv('..\\outputs\\klauSeasonStats.csv', index = False)
+westonPlayerStats.to_csv(os.path.join('..','outputs','westonSeasonStats_2024.csv'), index = False)
+mannixPlayerStats.to_csv(os.path.join('..','outputs','klauSeasonStats_2024.csv'), index = False)
 
 
 # %% ----- End of collateAndCleanData.py ----- %% #
