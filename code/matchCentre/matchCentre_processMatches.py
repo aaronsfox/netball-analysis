@@ -10,7 +10,10 @@
     Script collates data from the .json netball match centre files into separated
     and more easy-to-use file formats.
         
-    *** TODO: can probably map possessions a little better with possession changes etc. ***
+    TODO:
+        > can probably map possessions a little better with possession changes etc.
+        > this code is quite old and could use some modernisation with better scripting
+        > script still seems to work but there are some serious FutureWarnings from pandas
     
 """
 
@@ -37,10 +40,10 @@ def sortedNicely(l):
 # %% Set-up
 
 #Set data directory
-datDir = os.getcwd()+'\\..\\..\\data\matchCentre\\raw\\'
+datDir = os.path.join('..','..','data','matchCentre','raw')
 
 #Set processed directory
-procDir = os.getcwd()+'\\..\\..\\data\matchCentre\\processed\\'
+procDir = os.path.join('..','..','data','matchCentre','processed')
 
 #Get the list of .json files in raw data folder
 jsonFileList = list()
@@ -65,7 +68,7 @@ processCondition = 'new' #or 'all' or 'new'
 for jsonFile in jsonFileList:
     
     #Load the .json file
-    with open(datDir+jsonFile) as fileToOpen:
+    with open(os.path.join(datDir,jsonFile)) as fileToOpen:
         data = json.load(fileToOpen)
     
     #Check if match was completed
