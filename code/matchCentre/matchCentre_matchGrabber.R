@@ -15,9 +15,12 @@ library(here)
 compDetails <- list(
   
   year = c(
-  #ANZC+SSN
+  #ANZC+SSN completed seasons
   rep(c(2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016,
-        2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024), each = 2),
+        2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024,
+        2025), each = 2),
+  #SSN current season
+  rep(c(2026), each = 1),
   #TGC
   rep(c(2022), each = 3),
   rep(c(2023), each = 3),
@@ -28,7 +31,7 @@ compDetails <- list(
     2019, 2019, 2021, 2022, 2022, 2022)),
   
   league = c(rep("ANZC", each = 16),
-             rep("SSN", each = 16),
+             rep("SSN", each = 19),
              rep("TGC", each = 6),
              rep("ANC", each = 2),
              #Internationals (more sporadic)
@@ -37,10 +40,13 @@ compDetails <- list(
              "QUAD", "CONCUP", "MENS-TTC"),
   
   id = c(
-    #ANZC
+    #ANZC completed seasons
     8005, 8006, 8012, 8013, 8018, 8019, 8028, 8029, 8035, 8036, 9084, 9085, 9563, 9564, 9818, 9819,
-    #SSN
+    #SSN completed seasons
     10083, 10084, 10393, 10394, 10724, 10725, 11108, 11109, 11391, 11392, 11665, 11666, 12045, 12046, 12438, 12439,
+    12715, 12716,
+    #SSN current season
+    12949,
     #TGC
     11706, 11707, 11708,
     12125, 12205, 12126,
@@ -87,15 +93,15 @@ for (compInd in 1:lengths(compDetails)['id']) {
 # %% Option to extract individual competition, year, league and round
 
 #Set the competition details
-compYear <- 2024
+compYear <- 2026
 compLeague <- "SSN"
-compId <- 12439
+compId <- 12949
 
 #Set the round to get
-getRound <- 3
+# getRound <- 3
 
 #Loop through desired rounds
-for (getRound in 1:3) {
+for (getRound in 1:10) {
   
   #Loop through matches (set to irresponsibly large value but breaks used)
   for (getMatch in 1:25) {
